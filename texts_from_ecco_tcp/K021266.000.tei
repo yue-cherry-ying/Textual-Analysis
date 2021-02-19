@@ -1,0 +1,2525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mirror: or, harlequin every-where. A pantomimical burletta, in three parts. As it is performed at the Theatre-Royal in Covent-Garden.</title>
+            <author>Dibdin, Charles, 1745-1814.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K021266.000</idno>
+            <idno type="docno">CW3313646482</idno>
+            <idno type="ecll">0642100100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mirror: or, harlequin every-where. A pantomimical burletta, in three parts. As it is performed at the Theatre-Royal in Covent-Garden.</title>
+                  <author>Dibdin, Charles, 1745-1814.</author>
+               </titleStmt>
+               <extent>[4],39,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for G. Kearsly,</publisher>
+                  <date>1779.</date>
+                  <idno type="TCP">K021266.000</idno>
+                  <idno type="docno">CW3313646482</idno>
+                  <idno type="ecll">0642100100</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Charles Dibdin.</note>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT2099.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>THE MIRROR; OR, HARLEQUIN EVERY-WHERE.</p>
+            <p>[Price ONE SHILLING.]</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>THE MIRROR; OR, HARLEQUIN EVERY-WHERE. A PANTOMIMICAL BURLETTA, IN THREE PARTS. As it is performed at the <hi>THEATRE-ROYAL</hi> IN COVENT-GARDEN.</p>
+            <p>LONDON: Printed for G. KEARSLY, No. 46, Fleet-street. M.DCC.LXXIX.</p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="3"/>
+            <head>CHARACTERS.</head>
+            <list>
+               <head>MEN.</head>
+               <label>Jupiter,</label>
+               <item>Mr. ROBSON.</item>
+               <label>Pluto,</label>
+               <item>Mr. BAKER.</item>
+               <label>Minos,</label>
+               <item>Mr. L'ESTRANGE.</item>
+               <label>Belphegor,</label>
+               <item>Mr. REINHOLD.</item>
+               <label>Astorath,</label>
+               <item>Mr. DOYLE.</item>
+               <label>Cryer of Minos' Court,</label>
+               <item>Mr. THOMPSON.</item>
+               <label>1st Poor Spirit,</label>
+               <item>Mr. BRUNSDON.</item>
+               <label>1st, 2d, and 3d Antipodean,</label>
+               <item> </item>
+               <label>Mercury,</label>
+               <item>Mr. J. WILSON.</item>
+               <label>Harlequin,</label>
+               <item>Mr. W. BATES.</item>
+               <label>Punch,</label>
+               <item>Mr. EDWIN.</item>
+               <label>Lieutenant,</label>
+               <item>Mr. BOOTH.</item>
+               <label>Sailors, &amp;c.</label>
+               <item>Mr. FEARON.</item>
+            </list>
+            <list>
+               <head>WOMEN.</head>
+               <label>Ceres,</label>
+               <item>Mrs. KENNEDY.</item>
+               <label>Little Girl,</label>
+               <item>Miss MORRIS.</item>
+               <label>Prude,</label>
+               <item>Mrs. POUSSIN.</item>
+               <label>1st Sicilian,</label>
+               <item>Mrs. WILLEMS.</item>
+               <label>2d Sicilian,</label>
+               <item>Miss GREEN.</item>
+               <label>Colombine,</label>
+               <item>Miss CRANFIELD.</item>
+            </list>
+         </div>
+         <div type="note">
+            <p>
+               <hi>Those Passages marked with inverted Commas are omitted in the Representation.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="4"/>
+THE MIRROR, OR, HARLEQUIN EVERY WHERE.</head>
+         <div n="1" type="part">
+            <head>PART I.</head>
+            <div n="1" type="scene">
+               <head>SCENE I. <stage>
+                     <hi>A view of</hi> Tartarus, <hi>as described in the</hi> Pantheon.</stage>
+               </head>
+               <sp>
+                  <lg type="chorus">
+                     <stage>Chorus of Infernals.</stage>
+                     <l>
+                        <hi>Let sighs and groans</hi>
+                     </l>
+                     <l>
+                        <hi>And heavy moans</hi>
+                     </l>
+                     <l>
+                        <hi>Oh winds be hurl'd</hi>
+                     </l>
+                     <l>
+                        <hi>To t'other world,</hi>
+                     </l>
+                     <l>
+                        <hi>'Till mortals hear,</hi>
+                     </l>
+                     <l>
+                        <hi>Trembling for fear</hi>
+                     </l>
+                     <l>
+                        <hi>They should be howling,</hi>
+                     </l>
+                     <l>
+                        <hi>Grunting, growling,</hi>
+                     </l>
+                     <l>
+                        <hi>Burning,</hi>
+                     </l>
+                     <l>
+                        <hi>Turning,</hi>
+                     </l>
+                     <l>
+                        <hi>Toasting,</hi>
+                     </l>
+                     <l>
+                        <hi>Roasting,</hi>
+                     </l>
+                     <l>
+                        <hi>In this infernal world as we are,</hi>
+                     </l>
+                  </lg>
+                  <stage>
+                     <pb n="2" facs="5"/>[<hi>During the chorus</hi> Harlequin <hi>is dragged on by</hi> Bel<lb rend="hidden" type="hyphenInWord"/>phegor.]</stage>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Oh, what an infernal, diabolical concert is here! And pray, good Mr. Devil, having lugged me through the sea like a drowning rat, precipitated me like a bullet out of a culverin, from the Antipodes to the borders of Acheron, to dry me; flown with me over the Styx, and introduced me to his infernal majesty in the copper-coloured jacket! what's to be done next?</p>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>You must be plung'd, Sir, in this gulph here</hi>
+                     </l>
+                     <l>
+                        <hi>Of bitumen and boiling sulphur.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>The devil, I must! what, like a potatoe in a tar kettle, I suppose? And pray, what have I done to merit so much honour?</p>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>You broke, which was not very civil,</hi>
+                     </l>
+                     <l>
+                        <hi>Your sworn allegiance to the devil.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Why, to be sure, I did make a sort of a fool<lb rend="hidden" type="hyphenInWord"/>ish promise, that if his diabolical highness would suffer me to leap and skip about, turn men into jack asses, and rocks and trees into dancing devils, I would finish my career by paying a visit to his gloomy majesty's hellish dominions, but I did not expect to be sent for so soon, nor to be treated with so elegant an entertain<lb rend="hidden" type="hyphenInWord"/>ment when I arrived.</p>
+               </sp>
+               <sp>
+                  <pb n="3" facs="6"/>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>Peace, and be with your lot contented,</hi>
+                     </l>
+                     <l>
+                        <hi>Whilst to these gents. you are presented;</hi>
+                     </l>
+                     <l>
+                        <hi>Who here so pamper'd, and so flush are,</hi>
+                     </l>
+                     <l>
+                        <hi>By Belphegor Hell's Gem'men Usher.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>A very courteous introduction, upon my word; and pray, who compose this happy assembly, among whom I am to have the felicity of sitting as a member? That gemman, and his vulture, for instance.</p>
+               </sp>
+               <sp>
+                  <lg type="air">
+                     <head>AIR.</head>
+                     <stage>Bel.</stage>
+                     <lg>
+                        <l>
+                           <hi>That gentleman whom there you see,</hi>
+                        </l>
+                        <l>
+                           <hi>The vulture gnawing his liver;</hi>
+                        </l>
+                        <l>
+                           <hi>A very wicked wight was he,</hi>
+                        </l>
+                        <l>
+                           <hi>A Judge, and great law-giver.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>More orphans goods, than tongue can tell,</hi>
+                        </l>
+                        <l>
+                           <hi>On earth devour'd this limb;</hi>
+                        </l>
+                        <l>
+                           <hi>And now for punishment in hell,</hi>
+                        </l>
+                        <l>
+                           <hi>A vulture devours him.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>A good pleasant situation; why, if it was not for your tail, and your hoofs, I should take you for the man describing the tombs in Westminster Abby; what, the old ones have been all relieved, I suppose at a li<lb rend="hidden" type="hyphenInWord"/>mitted time? <stage>[Bel <hi>nods.</hi>]</stage> Ah, I understand you; I wish I was fairly out of your clutches; and pray, who have we on that wheel in the place of Ixion?</p>
+               </sp>
+               <sp>
+                  <pb facs="7"/>
+                  <lg n="2">
+                     <head>II.</head>
+                     <stage>Bel.</stage>
+                     <lg>
+                        <l>
+                           <hi>That figure on the wheel you see,</hi>
+                        </l>
+                        <l>
+                           <hi>I'd have you to understand,</hi>
+                        </l>
+                        <l>
+                           <hi>A noted minister was he,</hi>
+                        </l>
+                        <l>
+                           <hi>And Lord of a certain land.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>The nation who did cheat and trouble,</hi>
+                        </l>
+                        <l>
+                           <hi>And roast to gain his pelf;</hi>
+                        </l>
+                        <l>
+                           <hi>And, who, at last made his own bubble,</hi>
+                        </l>
+                        <l>
+                           <hi>In roasting here himself.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>A judicious punishment enough, but I suppose sometimes attended with inconvenience, for if you roast all who cheat their nation, you must very often be damnably put to it for spits. Now for those in the place of Sysiphus and Tantalus, a pleasant amusement that of rolling a stone up a hill, and never reaching the top of it; or the other gentleman's entertainment of having so many delicacies close to his hand, with<lb rend="hidden" type="hyphenInWord"/>out being able to touch one of them.</p>
+               </sp>
+               <sp>
+                  <lg n="3">
+                     <head>III.</head>
+                     <stage>Bel.</stage>
+                     <lg>
+                        <l>
+                           <hi>He who the Chemist's stone pursu'd,</hi>
+                        </l>
+                        <l>
+                           <hi>Which makes such rout and pother;</hi>
+                        </l>
+                        <l>
+                           <hi>Here rolls a stone which doth elude</hi>
+                        </l>
+                        <l>
+                           <hi>His search as did the other.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>T'other who cash of Charities</hi>
+                        </l>
+                        <l>
+                           <hi>Did gormandize and suttle</hi>
+                        </l>
+                        <l>
+                           <hi>On dainties, feasts, but with his eyes,</hi>
+                        </l>
+                        <l>
+                           <hi>The punishment is suttle.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="5" facs="8"/>
+                  <speaker>Har.</speaker>
+                  <p>It is indeed!—who but the devil could in<lb rend="hidden" type="hyphenInWord"/>vent a punishment for an Alderman equal to setting him to a delicious dinner, and conveying every thing away before he had time to put the napkin under his chin. Now for a description of the ladies at that labour-in-vain amusement of emptying a well with sieves, and the gentleman under that tremendous rock, and I have done.</p>
+               </sp>
+               <sp>
+                  <lg n="4">
+                     <head>IV.</head>
+                     <stage>Bel.</stage>
+                     <lg>
+                        <l>
+                           <hi>Those harmless ladies o'er their tea,</hi>
+                        </l>
+                        <l>
+                           <hi>With scandal time did kill;</hi>
+                        </l>
+                        <l>
+                           <hi>That well must empty as you see,</hi>
+                        </l>
+                        <l>
+                           <hi>In sieves that never fill.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>That miser, who the heart had ne'er</hi>
+                        </l>
+                        <l>
+                           <hi>To lay his ill-got gains out,</hi>
+                        </l>
+                        <l>
+                           <hi>Now shrinking, trembling, quakes for fear,</hi>
+                        </l>
+                        <l>
+                           <hi>That rock should knock his brains out.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Another amusement in your stile.</p>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>And so, Sir, in politest fashion,</hi>
+                     </l>
+                     <l>
+                        <hi>Having describ'd hell's recreation;</hi>
+                     </l>
+                     <l>
+                        <hi>To know your choice, I must request, Sir,</hi>
+                     </l>
+                     <l>
+                        <hi>Is't boil'd, or roasted, you like best, Sir.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hor.</speaker>
+                  <p>Boiled or roasted? I'cod, I like either when the meat's tender.</p>
+               </sp>
+               <sp>
+                  <pb n="6" facs="9"/>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>You have not, Sir, my meaning hit,</hi>
+                     </l>
+                     <l>
+                        <hi>Here, here, Tisiphone, bring a spit,</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Nay, now, but zounds, you would not be so damn'd unmerciful, would ye? Ah!</p>
+                  <stage>[Astorath <hi>comes on.</hi>]</stage>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Ast.</stage>
+                     <l>
+                        <hi>Hold, Belphegor; Pluto ordains,</hi>
+                     </l>
+                     <l>
+                        <hi>Hell shall to-day throw'off her chains;</hi>
+                     </l>
+                     <l>
+                        <hi>For Proserpine arriv'd here is,</hi>
+                     </l>
+                     <l>
+                        <hi>From visiting her mother Ceres;</hi>
+                     </l>
+                     <l>
+                        <hi>Frolick, then devils, sport and play,</hi>
+                     </l>
+                     <l>
+                        <hi>And celebrate hell's holiday.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ast.</speaker>
+                  <p>My dear friend, how much I am obliged to you! if you had not come as you did, Oh! I should have been skewer'd upon that damn'd spit like a trussed rabbit.</p>
+                  <stage>[Whilst the infernals sing and form a dance, Harlequin retires, and seems thoughtful; towards the end, be appears to have hit on something that pleases him.]</stage>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>How devilish merry you are, all of you! you forget that your torments are to-morrow to begin again. Oh that infernal spit! I shall never be able to bear the fight of roast meat again: but come, 'tis no time to talk; we are unchained, and unguarded, and let us seize this favourable opportunity to make our escape.</p>
+               </sp>
+               <sp>
+                  <pb n="7" facs="10"/>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Tor. Spir.</stage>
+                     <l>
+                        <hi>But how? At the door is plac'd, as curb o'er us,</hi>
+                     </l>
+                     <l>
+                        <hi>A curst three-headed dog—one Cerberus,</hi>
+                     </l>
+                     <l>
+                        <hi>Fair mercy's torch in blood who slakes,</hi>
+                     </l>
+                     <l>
+                        <hi>To fatten his pestiferous snakes.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har,</speaker>
+                  <p>Oh, Lord! I am no stranger to the tremen<lb rend="hidden" type="hyphenInWord"/>dous race of Cerberus; we have a tolerable number of them upon earth; yet I never heard but that the greatest snarler of them all might be occasionally quiet<lb rend="hidden" type="hyphenInWord"/>ed with a sop; the question therefore is, will you fol<lb rend="hidden" type="hyphenInWord"/>low me, and escape; or stay here, and be roasted.</p>
+               </sp>
+               <sp>
+                  <lg type="chorus">
+                     <head>CHORUS.</head>
+                     <l>
+                        <hi>Follow, we're by justice spurr'd;</hi>
+                     </l>
+                     <l>
+                        <hi>Courage and liberty's the word!</hi>
+                     </l>
+                     <l>
+                        <hi>Of mirth and pastime be profuse,</hi>
+                     </l>
+                     <l>
+                        <hi>The devil's trick'd and hell's broke loose.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="scene">
+               <head>SCENE, <hi>The entrance into</hi> Tartary <hi>and</hi> Elysium. <hi>The court of</hi> Minos <hi>concealed by a curtain. A croud of spirits are discovered.</hi>
+               </head>
+               <sp>
+                  <speaker>1<hi>st Spir.</hi>
+                  </speaker>
+                  <p>If it be true that hell's broke loose, how comes the court to sit? 'Tis a general goal-delivery.</p>
+               </sp>
+               <sp>
+                  <speaker>2<hi>d Spir.</hi>
+                  </speaker>
+                  <p>Yes; but every spirit does not chuse to take the benefit of the act. For my part, I've been a practitioner in the law; I know there is a flaw in my indictment, and I shall appeal to the bench of Minos, Aeacus, and Rhadamanthus.</p>
+               </sp>
+               <sp>
+                  <pb n="8" facs="11"/>
+                  <speaker>Cryer.</speaker>
+                  <p>Stand by; make way.</p>
+               </sp>
+               <sp>
+                  <speaker>1<hi>st Spir.</hi>
+                  </speaker>
+                  <p>These are the prisoners; 'tis a full calen<lb rend="hidden" type="hyphenInWord"/>dar. Pray, Sir, what distemper sent you into this world?</p>
+               </sp>
+               <sp>
+                  <speaker>3<hi>d Spir.</hi>
+                  </speaker>
+                  <p>That's more than I can tell you, friend; I left three physicians disputing about it, while the breath slipped out of my body.</p>
+               </sp>
+               <sp>
+                  <speaker>2<hi>d Spir.</hi>
+                  </speaker>
+                  <p>Under favour, Sir, how came the world to be deprived of your good company?</p>
+               </sp>
+               <sp>
+                  <speaker>3<hi>d Spir.</hi>
+                  </speaker>
+                  <p>Sir, I died of honour.</p>
+               </sp>
+               <sp>
+                  <speaker>2<hi>d Spir.</hi>
+                  </speaker>
+                  <p>Of honour!</p>
+               </sp>
+               <sp>
+                  <speaker>3<hi>d Spir.</hi>
+                  </speaker>
+                  <p>Yes, Sir. I had picked up about three thousand pounds at a certain club, and was just making off with my booty, when a gentleman in company de<lb rend="hidden" type="hyphenInWord"/>tecting a die in my sleeve, called me out and killed me in a duel.</p>
+               </sp>
+               <sp>
+                  <speaker>4<hi>th Spir.</hi>
+                  </speaker>
+                  <p>I did, indeed, you scoundrel. And to see how partial these same laws of honour are! the halter you ought to have been throttled with has sent me out of the world after you.</p>
+               </sp>
+               <sp>
+                  <speaker>Sailor.</speaker>
+                  <p>How now, messmate, is the court martial sitting?</p>
+               </sp>
+               <sp>
+                  <speaker>1<hi>st Spir.</hi>
+                  </speaker>
+                  <p>The judges are assembled.</p>
+               </sp>
+               <sp>
+                  <speaker>Sailor.</speaker>
+                  <p>Be it so. Every man who founders upon death's lee-shore must be tried for the loss of his vessel, though 'tis the fate of us all in our turns.</p>
+                  <stage>[The court is discovered.]</stage>
+               </sp>
+               <sp>
+                  <speaker>Cryer.</speaker>
+                  <p>Stand by, Madam, why do you press to the bar in such haste?</p>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <p>Give me a hearing, friend, I shall be un<lb rend="hidden" type="hyphenInWord"/>grateful.</p>
+               </sp>
+               <sp>
+                  <pb n="9" facs="12"/>
+                  <speaker>Cryer.</speaker>
+                  <p>Oh, Madam, no bribing here; the poor have precedence in this world, to recompence them for their lot in the other.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>Call up that Negro man to the bar.</p>
+               </sp>
+               <sp>
+                  <speaker>Neg.</speaker>
+                  <p>O deary me! O deary me! what shall Black say for himself when white man sit in judgment?</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>Fear nothing, tell your story.</p>
+               </sp>
+               <sp>
+                  <speaker>Neg.</speaker>
+                  <p>O! Negar man tell no story; me do my pos<lb rend="hidden" type="hyphenInWord"/>sible for Massa; me hole his canes; me fetch de bundle of grass every night for de mools; me work dam hard; and yet, Massa, Heaven forgive him, strip, and whip, and cut, poor Negro man all to piece.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>Horrible barbarity! advance that spirit to the pleasures of Elysium. What have we hero, a whole ship's company! Clear the bar; who are you?</p>
+               </sp>
+               <sp>
+                  <speaker>Lieu.</speaker>
+                  <p>British hearts, so please your Reverence, we died for the honour of old England; we are brave ship's crew, served under a brave admiral, and met a brave death.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>Sling a cot for these brave fellows in the finest citron grove in Elysium.</p>
+               </sp>
+               <sp>
+                  <speaker>Lieu.</speaker>
+                  <p>Please your Worship to flow these honest lads alongside of me. I should like to cuff a cann, and talk over matters with my messmates.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>Brother, are you content?</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Aecus</hi> and <hi>Rad.</hi>
+                  </speaker>
+                  <p>We are content, let them pass.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>What man is that?</p>
+               </sp>
+               <sp>
+                  <speaker>1<hi>st Pour Man.</hi>
+                  </speaker>
+                  <p>I am a poor man, Sir, and I was hanged for stealing eighteen pence; but I have done some good things, for I supported an aged parent, was a very tender husband, a kind father, and ruined myself by being bail for a friend.</p>
+               </sp>
+               <sp>
+                  <pb n="10" facs="13"/>
+                  <speaker>Min.</speaker>
+                  <p>Pray, man, don't stand trumpeting forth your virtues in this manner; get thee into Elysium. What strange gortesque figure have we here?</p>
+               </sp>
+               <sp>
+                  <lg type="air">
+                     <head>AIR.</head>
+                     <stage>Punch.</stage>
+                     <lg>
+                        <l>
+                           <hi>Can't you see by my hunch, Sir,</hi>
+                        </l>
+                        <l>
+                           <hi>Faddledy, daddledy, dino,</hi>
+                        </l>
+                        <l>
+                           <hi>I am master Punch, Sir?</hi>
+                        </l>
+                        <l>
+                           <hi>Riberi, biberi, bino.</hi>
+                        </l>
+                        <l>
+                           <hi>Fiddledy, diddledy, faddledy, daddledy,</hi>
+                        </l>
+                        <l>
+                           <hi>Robbery, bobbery, ribery, bibery,</hi>
+                        </l>
+                        <l>
+                           <hi>Faddledy, daddledy, dino,</hi>
+                        </l>
+                        <l>
+                           <hi>Ribery, bibery, bino.</hi>
+                        </l>
+                        <l>
+                           <hi>That merry fellow,</hi>
+                        </l>
+                        <l>
+                           <hi>Punchinello,</hi>
+                        </l>
+                        <l>
+                           <hi>Dancing here, you see, Sir,</hi>
+                        </l>
+                        <l>
+                           <hi>Whose mirth not hell</hi>
+                        </l>
+                        <l>
+                           <hi>Itself can quell</hi>
+                        </l>
+                        <l>
+                           <hi>He's ever in such glee, Sir.</hi>
+                        </l>
+                        <l>
+                           <hi>Niddlety, noddlety, niddlety, noddlety, nine;</hi>
+                        </l>
+                        <l>
+                           <hi>Then let me pass, old Grecian,</hi>
+                        </l>
+                        <l>
+                           <hi>Faddledy, daddledy, dino.</hi>
+                        </l>
+                        <l>
+                           <hi>To the fields Elysian,</hi>
+                        </l>
+                        <l>
+                           <hi>Bibery, bibery, bino,</hi>
+                        </l>
+                        <l>
+                           <hi>Fiddledy, diddledy, faddledy, daddledy,</hi>
+                        </l>
+                        <l>
+                           <hi>Robery, bobery, ribery, bibery,</hi>
+                        </l>
+                        <l>
+                           <hi>Faddledy, daddledy, dino,</hi>
+                        </l>
+                        <l>
+                           <hi>Ribery, bibery, bino,</hi>
+                        </l>
+                     </lg>
+                     <lg n="2">
+                        <pb n="11" facs="14"/>
+                        <head>II.</head>
+                        <l>
+                           <hi>My ranting, roaring Pluto,</hi>
+                        </l>
+                        <l>
+                           <hi>Faddledy, daddledy, dino,</hi>
+                        </l>
+                        <l>
+                           <hi>Just to a hair will suit Oh,</hi>
+                        </l>
+                        <l>
+                           <hi>Bibery, bibery, bino.</hi>
+                        </l>
+                        <l>
+                           <hi>Faddledy, &amp;c.</hi>
+                        </l>
+                        <l>
+                           <hi>Each jovial fellow,</hi>
+                        </l>
+                        <l>
+                           <hi>At Punchinello,</hi>
+                        </l>
+                        <l>
+                           <hi>Will, laughing o'er his cup roar,</hi>
+                        </l>
+                        <l>
+                           <hi>I'll rant and revel,</hi>
+                        </l>
+                        <l>
+                           <hi>And play the devil,</hi>
+                        </l>
+                        <l>
+                           <hi>And set all hell in an uproar,</hi>
+                        </l>
+                        <l>
+                           <hi>Niddlety, noddlety, nino.</hi>
+                        </l>
+                        <l>
+                           <hi>Then let me pass, &amp;c.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>Indeed, Mister Punch, I think the world would be too splenetic, if they were deprived of you; I would therefore advise you to take a trip back again. <stage>[The infernals here sing the Chorus behind]</stage> What noise is that?</p>
+               </sp>
+               <sp>
+                  <speaker>Cryer.</speaker>
+                  <p>The infernals are making merry.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>Od so! upon this joyful occasion, Proserpine has invited me to an elegant fete-champetre in Ely<lb rend="hidden" type="hyphenInWord"/>sium, and she'll be angry to the last degree if I should exceed my appointment; so, d'ye hear, all the rest may have leave to go back again to earth guilty or not guilty.</p>
+                  <stage>[<hi>The spirits go off, and the infernals who have broke out of</hi> Tartarus <hi>come on, singing the Chorus, with</hi> Harlequin <hi>in triumph on their shoulders; when they all pass the stage the scene changes.</hi>]</stage>
+               </sp>
+            </div>
+            <div type="scene">
+               <pb n="12" facs="15"/>
+               <head>SCENE, <stage>
+                     <hi>The entrance into hell. A view of the Styx and the opposite shore,</hi> &amp;c.</stage>
+               </head>
+               <sp>
+                  <lg type="air">
+                     <head>AIR.</head>
+                     <stage>Cer.</stage>
+                     <l>
+                        <hi>Though rude my form, though I'm unbred,</hi>
+                     </l>
+                     <l>
+                        <hi>Yet I am pamper'd high and fed;</hi>
+                     </l>
+                     <l>
+                        <hi>On Ins I fawn, the Outs I spurn,</hi>
+                     </l>
+                     <l>
+                        <hi>And thus am fawn'd on in my turn;</hi>
+                     </l>
+                     <l>
+                        <hi>Who does not envy me's a novice,</hi>
+                     </l>
+                     <l>
+                        <hi>For though a dog I am in office.</hi>
+                     </l>
+                  </lg>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <l>
+                        <hi>But, hark! what a confounded noise,</hi>
+                     </l>
+                     <l>
+                        <hi>Like thunder, winds, or mad school-boys;</hi>
+                     </l>
+                     <l>
+                        <hi>Or like fish-women o'er a dram,</hi>
+                     </l>
+                     <l>
+                        <hi>Or dykes broke down at Amsterdam.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <stage>[<hi>The infernals in attempting to get out are repulsed by</hi> Cerberus; Harlequin <hi>endeavours to pass him, and at last jumps over his head; after which he drives the others back again, and follows them.</hi> Harlequin <hi>finding himself escaped, is running off, when he sees</hi> Punch, <hi>who comes on, hearing the noise, and who was waiting for</hi> Charon<hi>'s return from the other side of the</hi> Styx <hi>to ferry him over to earth.</hi>
+               </stage>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Zounds, I have fought like a lion! Now, if I can but find any method to coax over master Charon. Why, what; is it possible! Punch, art thou here?</p>
+               </sp>
+               <sp>
+                  <pb n="13" facs="16"/>
+                  <lg>
+                     <stage>
+                        <gap resp="#oxf" extent="1 letter" rend="content:•">
+                           <desc>illegible</desc>
+                        </gap>un.</stage>
+                     <l>
+                        <hi>Bibbity, wobbity, we, we, we,</hi>
+                     </l>
+                     <l>
+                        <hi>'Tis merry Punch himself you see;</hi>
+                     </l>
+                     <l>
+                        <hi>With usual nonsense, noise and mirth,</hi>
+                     </l>
+                     <l>
+                        <hi>From hell sent back to live on earth.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>My dear old friend, I'll be thy fellow travel<lb rend="hidden" type="hyphenInWord"/>ler: but stay, I am afraid here's somebody coming to stop our journey; follow me as hard as ever you can drive.</p>
+                  <stage>[Belphegor <hi>comes on.</hi>]</stage>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>Harlequin, stop; where are you running?</hi>
+                     </l>
+                     <l>
+                        <hi>We devils love a bit of cunning;</hi>
+                     </l>
+                     <l>
+                        <hi>And Pluto, this same fine commence,</hi>
+                     </l>
+                     <l>
+                        <hi>Pardons far wit of the offence.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Do, do, loddledy di.</hi>
+                     </l>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>And says,</hi>
+                     </l>
+                     <l>
+                        <hi>To earth, you strait may go your ways,</hi>
+                     </l>
+                     <l>
+                        <hi>If one condition you'll agree on;</hi>
+                     </l>
+                     <l>
+                        <hi>But 'tis a labour Herculean.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Let us know what it is however; any thing is better than being spitted.</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>Within six months, his highness' will is,</hi>
+                     </l>
+                     <l>
+                        <hi>You bring him here some lovely Phillis,</hi>
+                     </l>
+                     <l>
+                        <hi>Sixteen years old; but take good heed,</hi>
+                     </l>
+                     <l>
+                        <hi>She's virgin in thought, word and deed.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="14" facs="17"/>
+                  <speaker>Har.</speaker>
+                  <p>This is a respite only, and not a pardon. A girl of sixteen years old, who has never even wished to be married; I would sooner undertake to find a white crow.</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Riddle, rummy, rins.</hi>
+                     </l>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>Well, sir,</hi>
+                     </l>
+                     <l>
+                        <hi>Shall I conduct you back to hell, Sir.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>No, no—no—no—I did not mean that. Zounds, you are too hasty: no, damn it; six months are better than nothing. A virgin in thought, word and deed! but how am I to find her out? for they are plenty enough, if you'll take their words for it.</p>
+               </sp>
+               <sp>
+                  <lg type="air">
+                     <head>AIR.</head>
+                     <lg>
+                        <stage>Bel.</stage>
+                        <l>
+                           <hi>If she breathes on this glass,</hi>
+                        </l>
+                        <l>
+                           <hi>No female can pass</hi>
+                        </l>
+                        <l>
+                           <hi>False virtue for true.</hi>
+                        </l>
+                        <stage>Pun.</stage>
+                        <l>
+                           <hi>Drololette.</hi>
+                        </l>
+                        <stage>Bel.</stage>
+                        <l>
+                           <hi>For though close to her face,</hi>
+                        </l>
+                        <l>
+                           <hi>Yet fair will its surface</hi>
+                        </l>
+                        <l>
+                           <hi>Reflect, if she never.</hi>
+                        </l>
+                        <stage>Pun.</stage>
+                        <l>
+                           <hi>Tiralette.</hi>
+                        </l>
+                        <l>
+                           <hi>Tira, lira, trole, trole;</hi>
+                        </l>
+                        <l>
+                           <hi>Dira, lira, drole, drole;</hi>
+                        </l>
+                        <l>
+                           <hi>Tira, lira, lira, lira, lette.</hi>
+                        </l>
+                     </lg>
+                     <lg n="2">
+                        <pb n="15" facs="18"/>
+                        <head>II.</head>
+                        <stage>Bel.</stage>
+                        <l>
+                           <hi>But should chance to you bring,</hi>
+                        </l>
+                        <l>
+                           <hi>If there is such a thing,</hi>
+                        </l>
+                        <l>
+                           <hi>A lady unchaste.</hi>
+                        </l>
+                        <stage>Pun.</stage>
+                        <l>
+                           <hi>Drololette.</hi>
+                        </l>
+                        <stage>Bel.</stage>
+                        <l>
+                           <hi>A sort of black varnish</hi>
+                        </l>
+                        <l>
+                           <hi>The surface will tarnish,</hi>
+                        </l>
+                        <l>
+                           <hi>And prove she has often</hi>
+                        </l>
+                        <stage>Pun.</stage>
+                        <l>
+                           <hi>Tiralette.</hi>
+                        </l>
+                        <l>
+                           <hi>Tira, lira,</hi> &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg type="recitative">
+                     <head>RECITATIVE</head>
+                     <stage>Bel.</stage>
+                     <l>
+                        <hi>A sword and charm, two good essentials,</hi>
+                     </l>
+                     <l>
+                        <hi>Will now make up all your credentials.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Octy, octy, oh—</hi>
+                     </l>
+                     <l>
+                        <hi>Zon, zon, zon, zon—</hi>
+                     </l>
+                     <stage>Har.</stage>
+                     <l>
+                        <hi>Marchons, marchons</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Je le veux bien, Hola, Charon.</hi>
+                     </l>
+                  </lg>
+                  <stage>[<hi>Charon</hi> takes them off in his boat, and the scene closes.]</stage>
+               </sp>
+            </div>
+            <trailer>End of the FIRST PART.</trailer>
+         </div>
+         <div n="2" type="part">
+            <pb n="16" facs="19"/>
+            <head>PART II.</head>
+            <div n="1" type="scene">
+               <head>SCENE I. <stage>The Antipodes.</stage>
+               </head>
+               <stage>Harlequin <hi>and</hi> Punch.</stage>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>At length, my dear friend Punch, we are ar<lb rend="hidden" type="hyphenInWord"/>rived at the antipodes. See what a number of strange figures are yonder.</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>1st Ant.</stage>
+                     <l>
+                        <hi>Ereht seog ohu.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Tarrandum.</hi>
+                     </l>
+                     <stage>Har.</stage>
+                     <l>
+                        <hi>What do they say?</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>I understand 'em,</hi>
+                     </l>
+                     <l>
+                        <hi>In topsy-turvy lingo rare,</hi>
+                     </l>
+                     <l>
+                        <hi>Then boldly cry aut, Who goes there?</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Well, we can give a good account of our<lb rend="hidden" type="hyphenInWord"/>selves, that's one thing. Tell them we are ambassa<lb rend="hidden" type="hyphenInWord"/>dors from the devil, and ask them who they are, and what they are about.</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Terira, tira, wira, dira.</hi>
+                     </l>
+                     <stage>1st Ant.</stage>
+                     <l>
+                        <hi>Dinina, hera, in hira cleara.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>They're some great persons of their nation,</hi>
+                     </l>
+                     <l>
+                        <hi>Here dining on a cold collation.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>I am mighty curious to know something of their customs and manners; but they are such a devilish way off there's hardly any hearing them; and if we go head-foremost among them, we shall make a develish clatter among their bottles and glasses; and in the mean time let us have some conversation with them. Ask that gentleman in black who he is.</p>
+               </sp>
+               <sp>
+                  <pb n="17" facs="20"/>
+                  <lg>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Quisitivimo?</hi>
+                     </l>
+                     <stage>2d Ant.</stage>
+                     <l>
+                        <hi>Skipalurny.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>His name is Probity, an attorney.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>You must certainly be mistaken in the name, Punch, or they have given it him by way of burlesque. Ask him if he has fattened well lately upon the widow and fatherless.</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Havira, poorira, helplessira?</hi>
+                     </l>
+                     <stage>2d Ant.</stage>
+                     <l>
+                        <hi>Nevira, mirira, professira.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>He says be fights all orphans battles,</hi>
+                     </l>
+                     <l>
+                        <hi>Preserving them their goods and chattels;</hi>
+                     </l>
+                     <l>
+                        <hi>Of poor and helpless he's the guard,</hi>
+                     </l>
+                     <l>
+                        <hi>And this for neither fee or reward.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Yes, yes, this is the world turned upside down, sure enough. I wonder who that thin gentle<lb rend="hidden" type="hyphenInWord"/>man is.</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Quivo tuto?</hi>
+                     </l>
+                     <stage>3d Ant.</stage>
+                     <l>
+                        <hi>Gli traditizens.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>He's one of many fellow citizens.</hi>
+                     </l>
+                     <l>
+                        <hi>Who profits give of their vocation,</hi>
+                     </l>
+                     <l>
+                        <hi>T' th' king for the defence o' th' nation.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>I wish I could see the example imitated. Ma<lb rend="hidden" type="hyphenInWord"/>ster Punch will you entreat that lady to tell us who she is?</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Madama, trama, wama, pama?</hi>
+                     </l>
+                     <stage>4th Ant.</stage>
+                     <l>
+                        <hi>Vertita, rita, integrita.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>She is a lady of great beauty,</hi>
+                     </l>
+                     <l>
+                        <hi>Whose only pleasure is her duty;</hi>
+                     </l>
+                     <l>
+                        <hi>Who loves nor revel, rout, nor riot,</hi>
+                     </l>
+                     <l>
+                        <hi>Nor ought but her domestic quiet;</hi>
+                     </l>
+                     <l>
+                        <hi>In marriage harness long time buckl'd,</hi>
+                     </l>
+                     <l>
+                        <hi>Yet never heard the name of cuckold.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="18" facs="21"/>
+                  <speaker>Har.</speaker>
+                  <p>Lord! Lord! what a monster such a kind of animal would appear in our upper regions! But there's one thing I admire prodigiously; with two words they express a whole sentence: but I suppose as they differ from us in every thing else, so they do in that parti<lb rend="hidden" type="hyphenInWord"/>cular; and as we often say a great deal without ex<lb rend="hidden" type="hyphenInWord"/>pressing any thing, so every thing they say or do is to the purpose. If one could but import this secret, what a wonderful deal of unnecessary haranguing it would save in some certain assemblies! Well, I long to be among them. But, how the devil shall we get there, for I can't walk upon my hands?</p>
+                  <stage>[They get behind a cloud and are taken up.]</stage>
+               </sp>
+            </div>
+            <div type="scene">
+               <head>SCENE, <stage>A rural prospect in the midst of Winter.</stage>
+               </head>
+               <stage>Harlequin, Punch, <hi>&amp;c. &amp;c.</hi>
+               </stage>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Oh, Punch, how devilish cold it is! The isicles hang on the trees like so many ropes of onions, and the ground is as hoary as an old hermit. I would fain try this same glass, but 'tis such perishing wea<lb rend="hidden" type="hyphenInWord"/>ther the females can't venture out; but I am afraid when they do, 'twill be to little purpose, for even the antipodes could not furnish a girl of sixteen years old who had never wished to he married. By the way, there's a people for you, Punch.</p>
+               </sp>
+               <sp>
+                  <pb n="19" facs="22"/>
+                  <lg type="air">
+                     <head>AIR.</head>
+                     <stage>Pun.</stage>
+                     <lg>
+                        <l>
+                           <hi>Oh the bibby, bobby fellows, topsy turvy,</hi>
+                        </l>
+                        <l>
+                           <hi>Of manners rare,</hi>
+                        </l>
+                        <l>
+                           <hi>Who live in air,</hi>
+                        </l>
+                        <l>
+                           <hi>Carousing in jovial bands;</hi>
+                        </l>
+                        <l>
+                           <hi>Who are never shabby, stingy, mean, nor scurvy;</hi>
+                        </l>
+                        <l>
+                           <hi>Who no friends betray,</hi>
+                        </l>
+                        <l>
+                           <hi>But who, happy and gay,</hi>
+                        </l>
+                        <l>
+                           <hi>Neatly,</hi>
+                        </l>
+                        <l>
+                           <hi>Featly,</hi>
+                        </l>
+                        <l>
+                           <hi>Foot it away with their hands.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>Their lawyers do no ill;</hi>
+                        </l>
+                        <l>
+                           <hi>Their physicians never kill,</hi>
+                        </l>
+                        <l>
+                           <hi>Their taverns make no bill;</hi>
+                        </l>
+                        <l>
+                           <hi>Their wives are never shrill,</hi>
+                        </l>
+                        <l>
+                           <hi>Their great are men of skill,</hi>
+                        </l>
+                        <l>
+                           <hi>Their cockneys never swill,</hi>
+                        </l>
+                        <l>
+                           <hi>Til, lil, deril, de ril.</hi>
+                        </l>
+                        <l>
+                           <hi>Oh the bibby, bobby, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>They neither swear nor lie,</hi>
+                        </l>
+                        <l>
+                           <hi>From their promise never fly,</hi>
+                        </l>
+                        <l>
+                           <hi>To friends are never shy,</hi>
+                        </l>
+                        <l>
+                           <hi>Never backbite, nor decry</hi>
+                        </l>
+                        <l>
+                           <hi>Good friends this side the sky;</hi>
+                        </l>
+                        <l>
+                           <hi>Do, pray, a little try</hi>
+                        </l>
+                        <l>
+                           <hi>The antipodean fry</hi>
+                        </l>
+                        <l>
+                           <hi>He to exemplify.</hi>
+                        </l>
+                        <l>
+                           <hi>Turidem, tidem, tidem, tidem, ti.</hi>
+                        </l>
+                        <l>
+                           <hi>Oh the bibby, bobby, &amp;c.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="20" facs="23"/>
+                  <speaker>Har.</speaker>
+                  <p>If it was not so immoderately cold, I should be ready to leap out of my skin at the thoughts of be<lb rend="hidden" type="hyphenInWord"/>ing upon dear earth again. Suppose, by way of a lit<lb rend="hidden" type="hyphenInWord"/>tle frisk, we were not to change the scene, but the sea<lb rend="hidden" type="hyphenInWord"/>son; that is to say, let it be this very same place in the midst of summer.</p>
+               </sp>
+            </div>
+            <div type="scene">
+               <head>SCENE. <stage>Each object becomes as in the midst of summer.</stage>
+               </head>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Ah, ha! this is something like; now my lit-mirror will go to work; I see that; zounds! here they come in all their finery; summer, alone, can pro<lb rend="hidden" type="hyphenInWord"/>duce butterflies <stage>(<hi>to a female</hi>)</stage> Pray, my dear, did you ever wish to be married?</p>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>1st Wom.</stage>
+                     <l>
+                        <hi>A thousand times, you fool.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Tidere,</hi>
+                     </l>
+                     <stage>Har.</stage>
+                     <l>
+                        <hi>That's plain enough, Punch.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Frank and free.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>H<gap resp="#oxf" extent="2 letters" rend="content:••">
+                        <desc>illegible</desc>
+                     </gap>
+                  </speaker>
+                  <p>
+                     <stage>(<hi>To another</hi>)</stage> Should you like to be married, my <gap resp="#oxf" extent="1 span" rend="content:〈…〉">
+                        <desc>illegible</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="21" facs="24"/>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>2d Wom.</stage>
+                     <l>
+                        <hi>Married, be fetter'd, shackled, caged.</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Trolly lum,</hi>
+                     </l>
+                     <stage>2d Wom.</stage>
+                     <l>
+                        <hi>A slave to one engaged?</hi>
+                     </l>
+                     <l>
+                        <hi>No, give me freedom, liberty and ease</hi>
+                     </l>
+                     <l>
+                        <hi>To laugh and</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Tiralee, Tiralee.</hi>
+                     </l>
+                     <stage>2d Wom.</stage>
+                     <l>
+                        <hi>With whom I please.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Heyday! our glass will be of no use to us at this rate. Will you do me the favour to breathe on this glass, Madam, <stage>[she turns from him in scorn]</stage> nay, Madam, don't be angry; 'tis a better thing for the complexion than Circassian bloom, or milk of roses; <stage>[she turns back eagerly, and breathes on it]</stage> as black as my face, by Jupiter.</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Flon, di, ron, don.</hi>
+                     </l>
+                     <stage>3d Wom.</stage>
+                     <l>
+                        <hi>What means the sot?</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>You've lost; ton diron ton don, you know what.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Here comes a demure one, some hopes now. Madam, I am afflicted with a violent complaint; and the only possible cure for me is, for some kind-hearted lady, out of affection to me, to breathe on this glass, which, by an electric quality it has, will instantly restore me.</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Prude.</stage>
+                     <l>
+                        <hi>You scurvy fellow, I assure you,</hi>
+                     </l>
+                     <l>
+                        <hi>Ask some fine forward minx to cure you;</hi>
+                     </l>
+                     <l>
+                        <hi>My rigi<gap resp="#oxf" extent="1 letter" rend="content:•">
+                              <desc>illegible</desc>
+                           </gap> virtue!</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <stage>[who puts the glass to her mouth]</stage>
+                        <hi>Dodlety, do, do.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="22" facs="25"/>
+                  <speaker>Prude.</speaker>
+                  <p>Is—</p>
+               </sp>
+               <sp>
+                  <speaker>Pun.</speaker>
+                  <p>—Marked here black as any crow.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Well said, Madam Demure. Here's one coming who seems innocence itself. Will you breathe on this, glass love, for some sugar-plumbs?</p>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Litt. G.</stage>
+                     <l>
+                        <hi>And thou, in jokes who so replete art,</hi>
+                     </l>
+                     <l>
+                        <hi>Will thy glass give me a new sweetheart?</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>This is a twig of a pretty forward growth; pray how old may you be?</p>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>L. G.</stage>
+                     <l>
+                        <hi>Sir, I shall soon be in my teens;</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>And pray, my best of little queens,</hi>
+                     </l>
+                     <l>
+                        <hi>Could you love me?</hi>
+                     </l>
+                     <stage>L. G.</stage>
+                     <l>
+                        <hi>O Lord, Sir, no.</hi>
+                     </l>
+                     <stage>Har.</stage>
+                     <l>
+                        <hi>Nor me?</hi>
+                     </l>
+                     <stage>L. G.</stage>
+                     <l>
+                        <hi>Still worse and worse.</hi>
+                     </l>
+                     <stage>Har.</stage>
+                     <l>
+                        <hi>Why so?</hi>
+                     </l>
+                     <stage>L. G.</stage>
+                     <l>
+                        <stage>(To Punch)</stage> 
+                        <hi>To you their liberty who gi's up,</hi>
+                     </l>
+                     <l>
+                        <hi>Must think they've marry'd master Aesop;</hi>
+                     </l>
+                     <l>
+                        <hi>And you, pray think me not uncivil,</hi>
+                     </l>
+                     <l>
+                        <hi>They've made a husband of the devil.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>A good intelligent young lady at twelve years old. And pray, my dear, have you a mama? Oh, very well; how arch and significant; and, I suppose, you hope to be, one day or other, as wise as she is?</p>
+               </sp>
+               <sp>
+                  <pb n="23" facs="26"/>
+                  <lg type="air">
+                     <head>AIR.</head>
+                     <stage>L. G.</stage>
+                     <lg>
+                        <l>
+                           <hi>Whenever I've seen her jeering,</hi>
+                        </l>
+                        <l>
+                           <hi>Coquetting, ogling, leering,</hi>
+                        </l>
+                        <l>
+                           <hi>In absence of papa;</hi>
+                        </l>
+                        <l>
+                           <hi>In pleasure sweet confounded,</hi>
+                        </l>
+                        <l>
+                           <hi>Oh, how my heart has bounded,</hi>
+                        </l>
+                        <l>
+                           <hi>Thump, a thump, a thump,</hi>
+                        </l>
+                        <l>
+                           <hi>To be wise as my mama.</hi>
+                        </l>
+                     </lg>
+                     <lg n="2">
+                        <head>II.</head>
+                        <l>
+                           <hi>Or when, the captain's way in,</hi>
+                        </l>
+                        <l>
+                           <hi>I have been sent out playing</hi>
+                        </l>
+                        <l>
+                           <hi>In absence of papa;</hi>
+                        </l>
+                        <l>
+                           <hi>While through the key-hole peeping,</hi>
+                        </l>
+                        <l>
+                           <hi>Oh, how my heart was leaping,</hi>
+                        </l>
+                        <l>
+                           <hi>Thump, a thump, a thump,</hi>
+                        </l>
+                        <l>
+                           <hi>To be wise as my mama.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <stage>[She goes off.]</stage>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Well, my love, don't despair; it won't be long first, I'll answer for you. Come, Punch, let us beat the bushes a little about here.</p>
+                  <stage>[They go off.]</stage>
+               </sp>
+            </div>
+            <div type="scene">
+               <pb n="24" facs="27"/>
+               <head>SCENE, <stage>
+                     <hi>The Gardens of</hi> Ceres, Columbine <hi>as a statue,</hi> Harlequin <hi>and</hi> Punch.</stage>
+               </head>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Here we are it seems in the gardens of Ceres; It seems she has a whole train of virgins; but the query is, whether they are not</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Pun.</stage>
+                     <l>"<hi>As wise as their mama.</hi>" <hi>Tid de ritty tity ti.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>What's this, Punch? a statue! Zounds, sup<lb rend="hidden" type="hyphenInWord"/>pose, by way of a frolick, we try the glass; for I am afraid we shall never get any thing flesh and blood to answer our purpose. Pray, my pretty, dear, little deli<lb rend="hidden" type="hyphenInWord"/>cate creature, are you sixteen years old, and a maid in thought, word and deed? <stage>[Col. nods graciously.]</stage> Hey! what the devil's this? the words I have uttered are certainly some charm, that cunning, old thief, Pluto, has put in my mouth to animate this statue. Give me the glass in a minute, Punch, for fear, hav<lb rend="hidden" type="hyphenInWord"/>ing imbibed a few particles of amorous air, she would have fallen in love with one of us. <stage>[He holds the glass to Col. she breathes on it]</stage> 
+                     <hi>Victoria, Victoria!</hi> 'tis as pure is ever. My sweet creature, give me your hand <stage>[she jumps down]</stage> But, Punch, oh, oh, oh, <stage>(<hi>chuckling</hi>)</stage> 'tis a pity such a tid bit as this should be a <hi>bonne bouche</hi> for old Pluto. I'cod, suppose I keep her to myself. What's your name, my love? <stage>[She shakes her head]</stage> Dumb! oh, what an ex<lb rend="hidden" type="hyphenInWord"/>cellent quality in a wife! Yes, yes, I am determined to have her. Zounds, who comes here?</p>
+                  <stage>[Ceres <hi>comes on.</hi>]</stage>
+               </sp>
+               <sp>
+                  <pb n="25" facs="28"/>
+                  <lg type="air">
+                     <head>AIR.</head>
+                     <stage>Ceres.</stage>
+                     <lg>
+                        <lg>
+                           <l>'<hi>My beehives are furnished with bees,</hi>
+                           </l>
+                           <l>'<hi>Quickset hedges my fences adorn;</hi>
+                           </l>
+                           <l>'<hi>My woods are all planted with trees,</hi>
+                           </l>
+                           <l>'<hi>And my fields yellow over with corn.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>'<hi>I seldom have found any tares,</hi>
+                           </l>
+                           <l>'<hi>Of such use are my harrow and plough;</hi>
+                           </l>
+                           <l>'<hi>In my orchards grow apples and pears;</hi>
+                           </l>
+                           <l>'<hi>In my dairy there's milk from the cow.</hi>
+                           </l>
+                        </lg>
+                     </lg>
+                     <lg n="2">
+                        <head>II.</head>
+                        <lg>
+                           <l>'<hi>Not an oak in my grove is there seen,</hi>
+                           </l>
+                           <l>'<hi>But an ivy around it does creep;</hi>
+                           </l>
+                           <l>'<hi>Not a yew tree's more rev'ren'd green,</hi>
+                           </l>
+                           <l>'<hi>Whence a rev'ren'd owl does not peep.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>'<hi>Not a blossom have I, or a bud,</hi>
+                           </l>
+                           <l>'<hi>But in time, fruit or flower reveals;</hi>
+                           </l>
+                           <l>'<hi>Not a river that's bottom'd with mud,</hi>
+                           </l>
+                           <l>'<hi>But produces me plenty of eels.</hi>
+                           </l>
+                        </lg>
+                     </lg>
+                     <lg n="3">
+                        <pb n="26" facs="29"/>
+                        <head>III.</head>
+                        <l>'<hi>From the farm-yard, the stable, the pens,</hi>
+                        </l>
+                        <l>'<hi>What strains drown the thresher's rude stroke!</hi>
+                        </l>
+                        <l>'<hi>How sheep, ducks and geese, cocks and hens,</hi>
+                        </l>
+                        <l>'<hi>Cackling love, parade dunghills that smoke!</hi>
+                        </l>
+                        <l>'<hi>Other farms may, perhaps, be more clean,</hi>
+                        </l>
+                        <l>'<hi>Outhouses and hovels more fine;</hi>
+                        </l>
+                        <l>'<hi>Other owners more courtly be seen,</hi>
+                        </l>
+                        <l>'<hi>But their profit's not equal to mine.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Ceres.</stage>
+                     <l>
+                        <hi>Hey! why and wherefore is this clatter?</hi>
+                     </l>
+                     <l>
+                        <hi>Speak: what the devil is the matter?</hi>
+                     </l>
+                     <l>
+                        <hi>Why, driv'ler, dolt, clown, fool, clod-pated,</hi>
+                     </l>
+                     <l>
+                        <hi>How came this statue animated?</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>This is Madam Ceres, I suppose. I beg ten thousand pardons, Madam; I would not attempt to impose upon you for the world; and seeing you are a mild-spoken gentlewoman, Ma'am, I'll tell you the whole truth, Madam. His highness, your son-in-law, Mr. Pluto, great king of the devils, sent me to earth upon a fool's errand, to look for a perfect virgin of six<lb rend="hidden" type="hyphenInWord"/>teen, to keep him company next time your daughter comes to visit you; so, Madam, thinks I, I won't ad<lb rend="hidden" type="hyphenInWord"/>minister to any of his wicked pleasures, I'll go and tell good Madam Ceres the whole story. Hey, Punch!</p>
+               </sp>
+               <sp>
+                  <pb n="27" facs="30"/>
+                  <speaker>Pun.</speaker>
+                  <p>Doddledy didum do.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>And so, Madam, coming into your garden, where I have been looking in every crick and corner to find you, chance directed me to this statue, and so by way of a little foolery talking to it, as if it was alive, crack in a moment down it jumped, as lissom, I war<lb rend="hidden" type="hyphenInWord"/>rant you, as you or I.</p>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Ceres.</stage>
+                     <l>
+                        <hi>The charm is broke, then—Oh, the villain!</hi>
+                     </l>
+                     <l>
+                        <hi>I'd strangle him had he lives a million.</hi>
+                     </l>
+                     <l>
+                        <hi>It was foretold at feasts estival,</hi>
+                     </l>
+                     <l>
+                        <hi>This girl should be my daughter's rival;</hi>
+                     </l>
+                     <l>
+                        <hi>I therefore fix'd her here an image,</hi>
+                     </l>
+                     <l>
+                        <hi>And to th' oracle made pilgrimage;</hi>
+                     </l>
+                     <l>
+                        <hi>It answered,</hi> "<hi>She shall be your charge in,</hi>
+                     </l>
+                     <l>"<hi>Till one shall ask if she's a virgin,</hi>
+                     </l>
+                     <l>"<hi>And should this one be Harlequino,</hi>
+                     </l>
+                     <l>"<hi>He'll trick old nick and marry Colombino.</hi>"</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="28" facs="31"/>
+                  <speaker>Har.</speaker>
+                  <p>Oh, dam'me! destiny itself is concerned in my affairs. Madam Ceres don't make yourself uneasy; if the young gentlewoman's name is Colombine, she belongs to me by all the laws pantomimical. And as to Master Pluto—zounds, what's come over me!</p>
+                  <stage>[Discordant Sounds are heard.]</stage>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Grumble rumble roo.</hi>
+                     </l>
+                     <stage>Ceres.</stage>
+                     <l>
+                        <hi>Your power forsakes you!</hi>
+                     </l>
+                     <stage>Har.</stage>
+                     <l>
+                        <hi>Oh, misericorde!</hi>
+                     </l>
+                     <stage>Ceres.</stage>
+                     <l>
+                        <hi>And if he takes you!</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Oh, Madam! you need not tell me the con<lb rend="hidden" type="hyphenInWord"/>sequence; spitting would not serve his turn this bout. What shall I do? Why was I so damned brave all of a sudden?</p>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Ceres.</stage>
+                     <l>
+                        <hi>Listen! I'll try if my power such is,</hi>
+                     </l>
+                     <l>
+                        <hi>To keep you from the devil's clutches;</hi>
+                     </l>
+                     <l>
+                        <hi>Mean time, get rid fear and chagrin of,</hi>
+                     </l>
+                     <l>
+                        <hi>And hie to a town which I am queen of;</hi>
+                     </l>
+                     <l>
+                        <hi>At whose gate shall vict'ry stand portress,</hi>
+                     </l>
+                     <l>
+                        <hi>Whilst 'gainst those thieves you raise a fortress;</hi>
+                     </l>
+                     <l>
+                        <hi>Come on—I'll now without more parley,</hi>
+                     </l>
+                     <l>
+                        <hi>Burn something else than wheat or brley.</hi>
+                     </l>
+                  </lg>
+                  <lg type="air">
+                     <pb n="29" facs="32"/>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>
+                           <hi>When first the villain stole that lamb,</hi>
+                        </l>
+                        <l>
+                           <hi>My daughter, from her mother's side,</hi>
+                        </l>
+                        <l>
+                           <hi>I, meek and gentle as I am,</hi>
+                        </l>
+                        <l>
+                           <hi>Vex'd she should be the devil's bride,</hi>
+                        </l>
+                        <l>
+                           <hi>In wild amaze,</hi>
+                        </l>
+                        <l>
+                           <hi>Set every field,</hi>
+                        </l>
+                        <l>
+                           <hi>And all the wheat-sheaves it did yield,</hi>
+                        </l>
+                        <l>
+                           <hi>Just like a bonfire in a blaze.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>But now, if justice I'm deny'd,</hi>
+                        </l>
+                        <l>
+                           <hi>The sun I'll quench, the earth I'II fire;</hi>
+                        </l>
+                        <l>
+                           <hi>Jove's heaven, Neptune's briny tide,</hi>
+                        </l>
+                        <l>
+                           <hi>And hell shall feel my vengeful ire;</hi>
+                        </l>
+                        <l>
+                           <hi>Ev'n Chaos, as in furious passion</hi>
+                        </l>
+                        <l>
+                           <hi>I lift my hand,</hi>
+                        </l>
+                        <l>
+                           <hi>Shall frighted stand,</hi>
+                        </l>
+                        <l>
+                           <hi>And dread lest the impending storm,</hi>
+                        </l>
+                        <l>
+                           <hi>Should his unshapen'd mass deform,</hi>
+                        </l>
+                        <l>
+                           <hi>And swallow in the conflagration.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+            </div>
+            <div type="scene">
+               <pb n="30" facs="33"/>
+               <head>SCENE, <stage>
+                     <hi>A sea view with a fortified town at a distance.</hi> Harlequin, Colombine, <hi>and</hi> Punch.</stage>
+               </head>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Come along, Punch, and you my sweet little Colombine; madam Ceres has made me commander in chief of a whole fleet, up at the back of this rock we embark.</p>
+                  <stage>[<hi>They go off, and are seen after to pass on the water</hi>; Pluto's <hi>party then come on, and after embarking, are seen to follow them; when they are all out of sight, the scene closes.</hi>]</stage>
+               </sp>
+            </div>
+            <div type="scene">
+               <head>SCENE, <stage>A fortified Town.</stage>
+               </head>
+               <stage>[After a cannonading, enter several Townsmen.]</stage>
+               <sp>
+                  <speaker>1<hi>st T.</hi>
+                  </speaker>
+                  <p>Bless me, what a thundering's here! what fire-spitting!</p>
+               </sp>
+               <sp>
+                  <speaker>Irish.</speaker>
+                  <p>And how the cannon balls take the side of a house here, and a side of a house there, and mend up the breach with a stack of old chimnies!</p>
+               </sp>
+               <sp>
+                  <speaker>3<hi>d T.</hi>
+                  </speaker>
+                  <p>I had the roof of my house taken fairly off by a shot from a cannon, and another clapped in the place of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Irish.</speaker>
+                  <p>I believe, your cannon's a gun, my dear.</p>
+               </sp>
+               <sp>
+                  <speaker>1<hi>st T.</hi>
+                  </speaker>
+                  <p>What, you think he tells a lie! that's no<lb rend="hidden" type="hyphenInWord"/>thing: I have seen a steeple taken clean off a church, and another placed in its stead, with twenty men ring<lb rend="hidden" type="hyphenInWord"/>ing the bells.</p>
+               </sp>
+               <sp>
+                  <pb n="31" facs="34"/>
+                  <speaker>2<hi>d T.</hi>
+                  </speaker>
+                  <p>'Pshaw, what's that? I saw an old man's head placed on a young man's shoulders.</p>
+               </sp>
+               <sp>
+                  <speaker>3<hi>d T.</hi>
+                  </speaker>
+                  <p>But, woe be to the potters! I saw a hand-grenade in one of their shops, and the pots, pipkins, and glasses at fistycuffs with it at such a rate, you would have sworn a whole legion of devils had been at foot<lb rend="hidden" type="hyphenInWord"/>ball there.</p>
+               </sp>
+               <sp>
+                  <speaker>Irish.</speaker>
+                  <p>The devil burn me, but I am afraid some of us will find ourselves knocked in the head to-mor<lb rend="hidden" type="hyphenInWord"/>row morning when we wake.</p>
+               </sp>
+               <sp>
+                  <speaker>1<hi>st T.</hi>
+                  </speaker>
+                  <p>Ah! they have rid me of as good a wife as a man would desire to part withal.</p>
+               </sp>
+               <sp>
+                  <speaker>Irish.</speaker>
+                  <p>By my soul, I'd take the law of them.</p>
+               </sp>
+               <sp>
+                  <speaker>2<hi>d T.</hi>
+                  </speaker>
+                  <p>Why, do you think there is any law for those cannon bullets, then?</p>
+               </sp>
+               <sp>
+                  <speaker>3<hi>d T.</hi>
+                  </speaker>
+                  <p>No! Prithee, run to a grenade as it comes piping hot out of a mortar-piece, and say you take the law of it.</p>
+               </sp>
+               <sp>
+                  <speaker>1<hi>st T.</hi>
+                  </speaker>
+                  <p>Neighbour, I can but think what lanes a chain shot would make in the law; and how like an ass a judge would look with his head shot off.</p>
+               </sp>
+               <sp>
+                  <speaker>Irish.</speaker>
+                  <p>Why to be sure, to have one's head shot off, would put any man out of countenance.</p>
+               </sp>
+               <sp>
+                  <speaker>1<hi>st T.</hi>
+                  </speaker>
+                  <p>Madam Ceres has done very kindly by us in<lb rend="hidden" type="hyphenInWord"/>deed, to place us in a town where we are besieged by the devil.</p>
+               </sp>
+               <sp>
+                  <speaker>2<hi>d T.</hi>
+                  </speaker>
+                  <p>What shall we do?</p>
+               </sp>
+               <sp>
+                  <speaker>1<hi>st T.</hi>
+                  </speaker>
+                  <p>Let us to her temple, and beg of her to com<lb rend="hidden" type="hyphenInWord"/>pound for such limbs as we want most in our callings. Let me see, thou art a fencer; thou shall give thy legs to secure thy arms.</p>
+               </sp>
+               <sp>
+                  <pb n="32" facs="35"/>
+                  <speaker>2<hi>d T.</hi>
+                  </speaker>
+                  <p>Thau art a dancer, thou shall give thy head to secure thy legs.</p>
+               </sp>
+               <sp>
+                  <speaker>3<hi>d T.</hi>
+                  </speaker>
+                  <p>Thou art a cuckold, thou shall give thy horns to thy head.</p>
+                  <stage>[The cannonading begins again.]</stage>
+               </sp>
+               <sp>
+                  <speaker>Irish.</speaker>
+                  <p>Oh dear, I am killed.</p>
+                  <stage>[Drops.]</stage>
+               </sp>
+               <sp>
+                  <speaker>1<hi>st T.</hi>
+                  </speaker>
+                  <p>What's the matter?</p>
+               </sp>
+               <sp>
+                  <speaker>Irish.</speaker>
+                  <p>Oh! I am killed; let me be carried off before I come to myself, for I cannot bear to be shot to be dead, as I am a living man.</p>
+                  <stage>[<hi>They go off, the canon<lb rend="hidden" type="hyphenInWord"/>nading increases, and the devils are upon the point of be<lb rend="hidden" type="hyphenInWord"/>coming victorious, when</hi> Ceres <hi>appears.</hi>]</stage>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Ceres.</stage>
+                     <l>
+                        <hi>A truce, ye devils, take possession,</hi>
+                     </l>
+                     <l>
+                        <hi>The town surrenders at discretion.</hi>
+                     </l>
+                     <l>
+                        <hi>If on conditions fair and handsome</hi>
+                     </l>
+                     <l>
+                        <hi>My friends I may have leave to ransom;</hi>
+                     </l>
+                     <l>
+                        <hi>If not, and you come on pell-mell against us,</hi>
+                     </l>
+                     <l>
+                        <hi>We'll drub you, tho' you raised all hell against us.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <stage>[<hi>A retreat is sounded, and</hi> Ceres, <hi>after going off, comes on the stage with</hi> Harlequin, Colombine, <hi>and</hi> Punch, <hi>the scene changing.</hi>]</stage>
+               <sp>
+                  <pb n="33" facs="36"/>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Ceres.</stage>
+                     <l>
+                        <hi>They've beat us now; but all my trust is,</hi>
+                     </l>
+                     <l>
+                        <hi>When I am heard in a court of justice,</hi>
+                     </l>
+                     <l>
+                        <hi>Pluto to swallow will find too bitter,</hi>
+                     </l>
+                     <l>
+                        <hi>The pill he's forc'd to take by Jupiter;</hi>
+                     </l>
+                     <l>
+                        <hi>This note shall round my finger wind him,</hi>
+                     </l>
+                     <l>
+                        <hi>Take it, good Harlequin, you'll find him,</hi>
+                     </l>
+                     <l>
+                        <hi>If through the air you will go on strait,</hi>
+                     </l>
+                     <l>
+                        <hi>Listening to mortals who remonstrate;</hi>
+                     </l>
+                     <l>
+                        <hi>Fly, fly; to make your journey momentary,</hi>
+                     </l>
+                     <l>
+                        <hi>My chariot stays on yonder promontary.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="scene">
+               <head>SCENE, <stage>Jupiter <hi>sitting in the clouds, listening to the complaints of Mortals.</hi>
+                  </stage>
+               </head>
+               <sp>
+                  <lg>
+                     <stage>Jup.</stage>
+                     <l>
+                        <hi>Cease, mortals, cease; as I'm a sinner,</hi>
+                     </l>
+                     <l>
+                        <hi>I shall not get a bit of dinner.</hi>
+                     </l>
+                     <stage>Mort.</stage>
+                     <l>
+                        <hi>Great</hi> Jupiter <hi>we all implore.</hi>
+                     </l>
+                     <stage>Jup.</stage>
+                     <l>
+                        <hi>I will not hear a mortal more.</hi>
+                     </l>
+                     <stage>Merc.</stage>
+                     <l>
+                        <hi>Oh,</hi> Jupiter! <hi>you will a lass adore,</hi>
+                     </l>
+                     <l>
+                        <hi>From</hi> Ceres <hi>brought by an ambassador.</hi>
+                     </l>
+                     <stage>Jup.</stage>
+                     <l>
+                        <hi>Dear</hi> Mercury <hi>let the girl appear,</hi>
+                     </l>
+                     <l>
+                        <hi>And keep the rest without.</hi>
+                     </l>
+                     <stage>Merc.</stage>
+                     <l>
+                        <hi>Theyr'e here.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Harlequin, Colombine, <hi>and</hi> Punch.</stage>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>I have the honour to present a petition to your magnanimous, celestial, potent, and most fulminating highness, from good dame Ceres, the goddess of plenty.</p>
+               </sp>
+               <sp>
+                  <pb n="34" facs="37"/>
+                  <lg>
+                     <stage>Jun.</stage>
+                     <l>
+                        <hi>Already the fond thing obey'd is,</hi>
+                     </l>
+                     <l>
+                        <hi>I love to take the part of the ladies.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Why, yes, and please your highness's good<lb rend="hidden" type="hyphenInWord"/>ship's honour, you have had a fine parcel of pleasant pranks to get at them, as a body may say.</p>
+               </sp>
+               <sp>
+                  <speaker>Pun.</speaker>
+                  <p>Ods amoroso.</p>
+               </sp>
+               <sp>
+                  <lg>
+                     <stage>
+                        <gap resp="#oxf" extent="1 letter" rend="content:•">
+                           <desc>illegible</desc>
+                        </gap>up.</stage>
+                     <l>
+                        <hi>Faith, thou art comical;</hi>
+                     </l>
+                     <l>
+                        <hi>But truce, my gravity now home I call;</hi>
+                     </l>
+                     <l>
+                        <hi>Old</hi> Pluto<hi>'s tricks I'll not connive at:</hi>
+                     </l>
+                     <l>
+                        <hi>Of this you shall know more in private;</hi>
+                     </l>
+                     <l>
+                        <hi>Mean time, I'll issue such a fiat,</hi>
+                     </l>
+                     <l>
+                        <hi>As shall henceforward keep him quiet.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <stage>[Jupiter <hi>hands off</hi> Colombine; Harlequin <hi>and</hi> Mercury <hi>follow him</hi>; Punch <hi>finding himself alone, regards about, and at last goes up to</hi> Jupiter<hi>'s seat, which he had been examining several times in the course of the preceding scene.</hi>]</stage>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>That hole through the light so glistens,</hi>
+                     </l>
+                     <l>
+                        <hi>Is where to mortals suits he listens;</hi>
+                     </l>
+                     <l>
+                        <hi>Odds comicalimo! how they gabble!</hi>
+                     </l>
+                     <l>
+                        <hi>Icod, I'll judge them! here you rabble,</hi>
+                     </l>
+                     <l>
+                        <hi>To bully of judging is the marrow;</hi>
+                     </l>
+                     <l>
+                        <hi>I say, you fellow, mortal, sirrah!</hi>
+                     </l>
+                     <l>
+                        <hi>What's that betwixt your teeth you mumble?</hi>
+                     </l>
+                     <l>
+                        <hi>I'll teach you, villain, how to grumble.</hi>
+                     </l>
+                  </lg>
+                  <lg type="air">
+                     <pb n="35" facs="38"/>
+                     <head>AIR.</head>
+                     <lg>
+                        <lg>
+                           <l>
+                              <hi>That man bababirobette,</hi>
+                           </l>
+                           <l>
+                              <hi>You tell me, on a house did get,</hi>
+                           </l>
+                           <l>
+                              <hi>High, high, high, diddlety do;</hi>
+                           </l>
+                           <l>
+                              <hi>And fell with all the force he could,</hi>
+                           </l>
+                           <l>
+                              <hi>On you as underneath you stood,</hi>
+                           </l>
+                           <l>
+                              <hi>Low, low, low, bibbety bo.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>I therefore will that birobette.</hi>
+                           </l>
+                           <l>
+                              <hi>You strait upon a house do get,</hi>
+                           </l>
+                           <l>
+                              <hi>High, high, high, diddlety do;</hi>
+                           </l>
+                           <l>
+                              <hi>And fall with all the force you can,</hi>
+                           </l>
+                           <l>
+                              <hi>Upon that very self-same man,</hi>
+                           </l>
+                           <l>
+                              <hi>Low, low, low, bibity bo.</hi>
+                           </l>
+                        </lg>
+                     </lg>
+                     <lg n="2">
+                        <head>II.</head>
+                        <lg>
+                           <l>
+                              <hi>You woman, tira flon down dai<gap resp="#oxf" extent="1 letter" rend="content:•">
+                                    <desc>illegible</desc>
+                                 </gap>e,</hi>
+                           </l>
+                           <l>
+                              <hi>Of yonder charioteer complain,</hi>
+                           </l>
+                           <l>
+                              <hi>Octy, octy, oh jehu, jeho;</hi>
+                           </l>
+                           <l>
+                              <hi>That by his means you are undone,</hi>
+                           </l>
+                           <l>
+                              <hi>For he drove o'er and killed your son,</hi>
+                           </l>
+                           <l>
+                              <hi>Octy, octy, oh bibity bo.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>I therefore, tira flon down dee,</hi>
+                           </l>
+                           <l>
+                              <hi>Ordain, d' you mind me, Ma'am, that he,</hi>
+                           </l>
+                           <l>
+                              <hi>Octy, octy, oh jehu, jeho;</hi>
+                           </l>
+                           <l>
+                              <hi>Instant repair the ill he's done,</hi>
+                           </l>
+                           <l>
+                              <hi>By getting you another son,</hi>
+                           </l>
+                           <l>
+                              <hi>Octy, octy, oh bibity bo.</hi>
+                           </l>
+                        </lg>
+                     </lg>
+                     <lg n="3">
+                        <pb n="36" facs="39"/>
+                        <head>III.</head>
+                        <lg>
+                           <l>
+                              <hi>You, Madam, trilly, lolly, lo,</hi>
+                           </l>
+                           <l>
+                              <hi>In tears are come to let me know,</hi>
+                           </l>
+                           <l>
+                              <hi>Sad, sad, sad, diddlety do,</hi>
+                           </l>
+                           <l>
+                              <hi>Your friend, while envy lurk'd beneath,</hi>
+                           </l>
+                           <l>
+                              <hi>Told all the world you had false teeth.</hi>
+                           </l>
+                           <l>
+                              <hi>Bad, bad, bid, bibity bo.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>I therefore, Madam, holty lum,</hi>
+                           </l>
+                           <l>
+                              <hi>Give leave, whene'er at rout or drum,</hi>
+                           </l>
+                           <l>
+                              <hi>Mad, mad, mad, diddlety do;</hi>
+                           </l>
+                           <l>
+                              <hi>You next shall meet her, just for gig,</hi>
+                           </l>
+                           <l>
+                              <hi>You fairly may pull off her wig,</hi>
+                           </l>
+                           <l>
+                              <hi>Glad, glad, glad, bibbity bo.</hi>
+                           </l>
+                        </lg>
+                     </lg>
+                     <lg n="4">
+                        <head>IV.</head>
+                        <l>'<hi>Thou old miser, Boudrillum,</hi>
+                        </l>
+                        <l>'<hi>Against you ragged man art come,</hi>
+                        </l>
+                        <l>'<hi>Creep, creep, creep, diddlety do.</hi>
+                        </l>
+                        <l>'<hi>For that he, from your hoard to day,</hi>
+                        </l>
+                        <l>'<hi>Hath a whole guinea stolen away,</hi>
+                        </l>
+                        <l>'<hi>Weep, weep, weep, diddlety do.</hi>
+                        </l>
+                        <l>'<hi>'Tis shameful, faith, and boudrillee</hi>
+                        </l>
+                        <l>'<hi>For thy revenge I here decree,</hi>
+                        </l>
+                        <l>'<hi>Skip, skip, skip, diddlety do;</hi>
+                        </l>
+                        <l>'<hi>Thou poor; whilst he, in wealth shall swim,</hi>
+                        </l>
+                        <l>'<hi>Shalt a whole guinea steal from him;</hi>
+                        </l>
+                        <l>'<hi>Trip, trip, trip, bibity bo.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <stage>
+                  <pb n="37" facs="40"/>
+                  <hi>Enter</hi> Harlequin.</stage>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>Why, where the devil is Punch got to? ha! ha! he! I shall never recover myself; he is got into Jupiter's chair, hearing causes</p>
+               </sp>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Ods, bobs, who call'd you into court?</hi>
+                     </l>
+                     <l>
+                        <hi>I've here been having precious sport;</hi>
+                     </l>
+                     <l>
+                        <hi>For my degrees they've given me handsel here;</hi>
+                     </l>
+                     <l>
+                        <hi>I'm made god Jupiter's lord chancellor.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>I beg ten thousand pardons for not giving you your title before, Mr. god Jupiter's lord chancel<lb rend="hidden" type="hyphenInWord"/>lor; but, at present, your profound wisdom and fa<lb rend="hidden" type="hyphenInWord"/>thomless penetration are wanted out of Jupiter's court of equity into his court of Doctors Commons, where Pluto, summoned up to heaven on purpose, is just go<lb rend="hidden" type="hyphenInWord"/>ing to be arraigned; and the affair has made so much noise, that all the inhabitants, infernal, terrestrial, and celestial, are assembled at it; 'twill be a fine day's work for us; Jupiter is as hot, at present, upon do<lb rend="hidden" type="hyphenInWord"/>ing justice, as he is sometimes upon committing de<lb rend="hidden" type="hyphenInWord"/>predations; he intends to make my dear Colombine a constellation; you are to turn Momus out of his place; and I am to be, Oh, dam'me, I don't know what I am to be; come along, Punch, we shall be too late.</p>
+               </sp>
+            </div>
+            <div type="scene">
+               <pb n="38" facs="41"/>
+               <head>SCENE the last. <stage>
+                     <hi>A palace in the clouds;</hi> Jupiter <hi>on a throne; other gods and goddesses seated round, as in acourt of justice,</hi> Pluto <hi>at the bar, and</hi> Ceres <hi>opposite him as his accuser.</hi>
+                  </stage>
+               </head>
+               <sp>
+                  <lg type="recitative">
+                     <head>RECITATIVE.</head>
+                     <stage>Jup.</stage>
+                     <l>
+                        <hi>Clerk, read again the indictment to us</hi>
+                     </l>
+                     <l>"<hi>You, Pluto, alias Orcus; Februus,</hi>
+                     </l>
+                     <l>"<hi>Alias Agelestus, alias Aades,</hi>
+                     </l>
+                     <l>"<hi>Alias Sumanus, these here ladies</hi>
+                     </l>
+                     <l>"<hi>Accuse you, for you did devise,</hi>
+                     </l>
+                     <l>"<hi>No fear of wedlock 'fore your eyes,</hi>
+                     </l>
+                     <l>"<hi>By force of club, and stick, and staff.</hi>"</l>
+                     <stage>Ceres.</stage>
+                     <l>
+                        <hi>You are too tedious, friend, by half,</hi>
+                     </l>
+                     <l>
+                        <hi>Here, in the face if all this royalty,</hi>
+                     </l>
+                     <l>
+                        <hi>I do accuse him of disloyalty;</hi>
+                     </l>
+                     <l>
+                        <hi>A doating fool! shall his chops water</hi>
+                     </l>
+                     <l>
+                        <hi>For any other than my daughter?</hi>
+                     </l>
+                     <stage>Jup.</stage>
+                     <l>
+                        <hi>Peace, dearest Madam, peace, for his are eyes</hi>
+                     </l>
+                     <l>
+                        <hi>Too honest to conceal his miseries;</hi>
+                     </l>
+                     <l>
+                        <hi>You've laid upon his soul an unction</hi>
+                     </l>
+                     <l>
+                        <hi>That irritates him to compunction.</hi>
+                     </l>
+                     <l>
+                        <hi>Behold his tears, is that heart harden'd?</hi>
+                     </l>
+                     <l>
+                        <hi>He'd sin no more if he was pardon'd.</hi>
+                     </l>
+                     <stage>[<hi>They all rise</hi>; Jupiter <hi>leads</hi> Pluto <hi>to</hi> Proserpine <hi>and</hi> Ceres, <hi>who meet them in the center of the stage.</hi>]</stage>
+                     <l>
+                        <hi>Your feelings keep not, man, in narrow bounds,</hi>
+                     </l>
+                     <l>
+                        <hi>But down at once, upon your marrowbones;</hi>
+                     </l>
+                     <stage>Plu.</stage>
+                     <l>
+                        <hi>There then, and now, with due contrition,</hi>
+                     </l>
+                     <l>
+                        <hi>To my wrong'd wife, I make submission.</hi>
+                     </l>
+                     <stage>
+                        <pb n="39" facs="42"/>Jup.</stage>
+                     <l>
+                        <hi>So have I seen a watchman follow</hi>
+                     </l>
+                     <l>
+                        <hi>A thief, with rattle, and with hollow,</hi>
+                     </l>
+                     <l>
+                        <hi>'Till reinforc'd, like pig in pound-douce,</hi>
+                     </l>
+                     <l>
+                        <hi>They've laid him by the heels i'the round-house;</hi>
+                     </l>
+                     <l>
+                        <hi>Man's reason, thus, should hourly watch him,</hi>
+                     </l>
+                     <l>
+                        <hi>At every little trip to catch him.</hi>
+                     </l>
+                     <l>
+                        <hi>To quell vile passions that aspire in him.</hi>
+                     </l>
+                     <stage>Merc.</stage>
+                     <l>
+                        <hi>What aro you doing, Friend?</hi>
+                     </l>
+                     <stage>Pun.</stage>
+                     <l>
+                        <hi>Admiring him.</hi>
+                     </l>
+                     <stage>Jup.</stage>
+                     <l>
+                        <hi>Yet one neglect we should be chided for,</hi>
+                     </l>
+                     <l>
+                        <stage>(<hi>To</hi> Col.)</stage>
+                        <hi>These good folks must be well provided for;</hi>
+                     </l>
+                     <l>
+                        <hi>And now in music do not scrimp us,</hi>
+                     </l>
+                     <l>
+                        <hi>But let your catgut shake Olympus.</hi>
+                     </l>
+                  </lg>
+                  <lg type="chorus">
+                     <head>CHORUS.</head>
+                     <l>
+                        <hi>Let heaven ard hell and earth this day,</hi>
+                     </l>
+                     <l>
+                        <hi>Together sing a roundelay:</hi>
+                     </l>
+                     <l>
+                        <hi>In treble shrill, let heaven begin;</hi>
+                     </l>
+                     <l>
+                        <hi>Let bass express hell's growling din:</hi>
+                     </l>
+                     <l>
+                        <hi>Let tenor speak earth's midway tones,</hi>
+                     </l>
+                     <l>
+                        <hi>'Till all the worlds 'twixt both the zones,</hi>
+                     </l>
+                     <l>
+                        <hi>T'admire the most, shall not tell whether,</hi>
+                     </l>
+                     <l>
+                        <hi>Heaven, Hell, or earth, or all together.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of Katharine, late Duchess of Buckinghamshire and Normanby: By the late Mr. Pope.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023016.000</idno>
+            <idno type="docno">CW3301013072</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of Katharine, late Duchess of Buckinghamshire and Normanby: By the late Mr. Pope.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>7,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for M. Cooper,</publisher>
+                  <date>1746.</date>
+                  <idno type="TCP">K023016.000</idno>
+                  <idno type="docno">CW3301013072</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pope claimed to have revised, but not written this work (Correspondence, ed. Sherburn, V, 460).</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Griffith, 617</note>
+                  <note>English Short Title Catalog, ESTCT5524.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE
+CHARACTER
+OF
+<hi>KATHARINE,</hi>
+LATE
+Duchess of <hi>Buckinghamshire</hi>
+and <hi>Normanby.</hi>
+            </p>
+            <p>By the late Mr. <hi>POPE.</hi>
+            </p>
+            <p>LONDON:
+Printed for M. COOPER in <hi>Pater-noster-Row.</hi> M.DCC.XLVI.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="2"/>
+         <head>THE
+CHARACTER
+OF
+<hi>KATHARINE,</hi>
+LATE
+Duches of <hi>Buckinghamshire,</hi>
+&amp;c. &amp;c.</head>
+         <p>
+            <seg rend="decorInit">S</seg>HE was the Daughter of <hi>James</hi> the
+Second, and of the Countess of <hi>Dor<lb rend="hidden" type="hyphenInWord"/>chester,</hi>
+who inherited the Integrity and
+Virtue of her Father with happier For<lb rend="hidden" type="hyphenInWord"/>tune.
+She was married first to <hi>James</hi> Earl of <hi>An<lb rend="hidden" type="hyphenInWord"/>glesey,</hi>
+and secondly to <hi>John Sheffield</hi> Duke of
+<hi>Buckinghamshire</hi> and <hi>Normanby</hi>; with the former
+She exercised the Virtues of <hi>Patience and Suffering,</hi>
+            <pb n="4" facs="3"/>
+as long as there was any Hopes of doing Good by
+either; with the latter all other <hi>Conjugal Virtues.</hi>
+The Man of finest Sense and sharpest Discernment,
+She had the Happiness to please; and in that, found
+her only Pleasure. When he died, it seem'd as
+if his Spirit was only breathed into her, to fulfill
+what he had begun, to perform what he had con<lb rend="hidden" type="hyphenInWord"/>certed,
+and to preserve and watch over what he had
+left, <hi>his only Son</hi>; in the Care of whose Health,
+the forming of whose Mind, and the Improvement
+of whose Fortune, She acted with the Conduct and
+Sense of the <hi>Father,</hi> soften'd, but not overcome
+with the Tenderness of the <hi>Mother.</hi> Her Under<lb rend="hidden" type="hyphenInWord"/>standing
+was such as must have made a Figure,
+had it been in a Man; but the Modesty of her Sex
+threw a Veil over its Lustre, which nevertheless
+suppress'd only the Expression, not the Exertion of
+it; for her Sense was not superior to her Resolution,
+which, when once She was in the Right, preserv'd
+her from making it only a Transition to the Wrong,
+the frequent Weakness even of the best Women.
+She often followed wise Counsel, but sometimes went
+before it, always with Success. She was possess'd
+of a Spirit, which assisted her to get the better
+of those Accidents which admitted of any Redress,
+and enabled her to support outwardly with Decency
+<pb n="5" facs="4"/>
+and Dignity those which admitted of none; yet melt<lb rend="hidden" type="hyphenInWord"/>ed
+inwardly through almost her whole Life, at a
+Succession of melancholy and affecting Objects, the
+Loss of all her Children, the Misfortunes of <hi>Re<lb rend="hidden" type="hyphenInWord"/>lations
+and Friends, publick and private,</hi> and the
+Death of those who were dearest to her. Her
+Heart was as compassionate as it was great: Her
+Affections warm even to Sollicitude: Her Friend<lb rend="hidden" type="hyphenInWord"/>ship
+not violent or jealous, but rational and per<lb rend="hidden" type="hyphenInWord"/>severing:
+Her Gratitude equal and constant to the
+Living; to the Dead boundless and heroical. What
+Person soever She found worthy of her Esteem,
+She wou'd not give up for any Power on Earth;
+and the greatest on Earth whom She cou'd not
+Esteem, obtain'd from her no farther Tribute than
+Decency. Her Good-Will was wholly directed by
+Merit, not by Accident; not measured by the Re<lb rend="hidden" type="hyphenInWord"/>gard
+they profess'd for her own Desert, but by her
+Idea of theirs: And as there was no Merit which
+She was not able to imitate, there was none which
+She cou'd envy; therefore her Conversation was
+as free from Detraction, as her Opinions from Pre<lb rend="hidden" type="hyphenInWord"/>judice
+or Prepossession. As her Thoughts were her
+own, so were her Words; and She was as sincere
+in uttering her Judgment, as impartial in forming
+it. She was a safe Companion, many were serv'd,
+<pb n="6" facs="5"/>
+none ever suffer'd by her Acquaintance: Inoffensive,
+when unprovok'd; when provok'd, not stupid: But
+the Moment her Enemy ceased to be hurtful, She
+could cease to act as an Enemy. She was therefore
+not a bitter but consistent Enemy: (tho' indeed,
+when forced to be so, the more a finish'd One
+for having been long a making.) And her Pro<lb rend="hidden" type="hyphenInWord"/>ceeding
+with ill People was more in a calm and
+steady Course, like Justice, than in quick and passi<lb rend="hidden" type="hyphenInWord"/>onate
+Onsets, like Revenge. As for those of whom She
+only thought ill, She considered them not so much as
+once to wish them ill; of such, her Contempt was
+great enough to put a Stop to all other Passions that
+could hurt them. Her Love and Aversion, her
+Gratitude and Resentment, her Esteem and Neglect
+were equally open and strong, and alterable only
+from the Alteration of the Persons who created them.
+Her Mind was too noble to be insincere, and her Heart
+too honest to stand in Need of it; so that She never
+found Cause to repent her Conduct either to a Friend
+or an Enemy. There remains only to speak of her
+Person, which was most amiably Majestick, the
+nicest Eye could find no Fault in the Outward Li<lb rend="hidden" type="hyphenInWord"/>neaments
+of her Face or Proportion of her Body;
+it was such, as pleas'd wherever she had a Desire
+it shou'd; yet she never envy'd that of any other,
+<pb n="7" facs="6"/>
+which might better please in general: In the same
+Manner, as being content that her Merits were
+esteemed where She desired they should, She never
+depreciated those of any other that were esteemed or
+prefered elsewhere. For She aimed not at a general
+Love or a general Esteem where She was not known;
+it was enough to be possess'd of both wherever she was.
+Having lived to the Age of Sixty-two Years; not
+courting Regard, but receiving it from all who knew
+her; not loving Business, but discharging it fully
+wheresoever Duty or Friendship engaged her in it;
+not following Greatness, but not declining to pay
+Respect, as far as was due from Independency and
+Disinterest; having honourably absolv'd all the Parts
+of Life; She forsook this World, where She had
+left no Act of Duty or Virtue undone, for that
+where alone such Acts are rewarded, on the 13th
+Day of <hi>March</hi> 1742-3.<note n="*" place="marg">The above Character was written by Mr. <hi>Pope</hi> some Years before Her Grace's Death.</note>
+         </p>
+      </body>
+   </text>
+</TEI>

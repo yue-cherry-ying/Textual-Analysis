@@ -1,0 +1,2271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The castle of indolence: an allegorical poem. Written in imitation of Spenser. By James Thomson.</title>
+            <author>Thomson, James, 1700-1748.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K029946.000</idno>
+            <idno type="docno">CW3312874915</idno>
+            <idno type="ecll">0478900600</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The castle of indolence: an allegorical poem. Written in imitation of Spenser. By James Thomson.</title>
+                  <author>Thomson, James, 1700-1748.</author>
+               </titleStmt>
+               <extent>[2],81,[3]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for A. Millar,</publisher>
+                  <date>1748.</date>
+                  <idno type="TCP">K029946.000</idno>
+                  <idno type="docno">CW3312874915</idno>
+                  <idno type="ecll">0478900600</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final leaf of glossary.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, T181</note>
+                  <note>English Short Title Catalog, ESTCT20324.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE CASTLE OF INDOLENCE: AN ALLEGORICAL POEM.</p>
+            <p>Written in IMITATION of SPENSER.</p>
+            <p>By <hi>JAMES THOMSON.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for A. MILLAR, over against <hi>Catherine-street,</hi> in the <hi>Strand.</hi> M DCC XLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>THE CASTLE OF INDOLENCE.</head>
+         <div n="1" type="canto">
+            <epigraph>
+               <q>
+                  <l>The Castle hight of Indolence,</l>
+                  <l>And its false Luxury;</l>
+                  <l>Where for a little Time, alas!</l>
+                  <l>We liv'd right jollily.</l>
+               </q>
+            </epigraph>
+            <lg n="1">
+               <head>I.</head>
+               <l>O MORTAL Man, who livest here by Toil,</l>
+               <l>Do not complain of this thy hard Estate;</l>
+               <l>That like an Emmet thou must ever moil,</l>
+               <l>Is a sad Sentence of an ancient Date:</l>
+               <l>And, certes, there is for it Reason great;</l>
+               <l>For, though sometimes it makes thee weep and wail,</l>
+               <l>And curse thy Star, and early drudge and late,</l>
+               <l>Withouten That would come an heavier Bale,</l>
+               <l>
+                  <gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                     <desc>illegible</desc>
+                  </gap>oose Life, unruly Passions, and Diseases pale.</l>
+            </lg>
+            <lg n="2">
+               <pb n="2" facs="3"/>
+               <head>II.</head>
+               <l>In lowly Dale, fast by a River's Side,</l>
+               <l>With woody Hill o'er Hill encompass'd round,</l>
+               <l>A most enchanting Wizard did abide,</l>
+               <l>Than whom a Fiend more fell is no where found.</l>
+               <l>It was, I ween, a lovely Spot of Ground;</l>
+               <l>And there a Season atween June and May,</l>
+               <l>Half prankt with Spring, with Summer half imbrown'd,</l>
+               <l>A listless Climate made, where, Sooth to say,</l>
+               <l>No living Wight could work, ne cared even for Play.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Was nought around but Images of Rest:</l>
+               <l>Sleep-soothing Groves, and quiet Lawns between;</l>
+               <l>And flowery Beds that slumbrous Influence kest,</l>
+               <l>From Poppies breath'd; and Beds of pleasant Green,</l>
+               <l>Where never yet was creeping Creature seen.</l>
+               <l>Mean time unnumber'd glittering Streamlets play'd,</l>
+               <l>And hurled every-where their Waters sheen;</l>
+               <l>That, as they bicker'd through the sunny Glade,</l>
+               <l>Though restless still themselves, a lulling Murmur made.</l>
+            </lg>
+            <lg n="4">
+               <pb n="3" facs="4"/>
+               <head>IV.</head>
+               <l>Join'd to the Prattle of the purling Rills,</l>
+               <l>Were heard the lowing Herds along the Vale,</l>
+               <l>And Flocks loud-bleating from the distant Hills,</l>
+               <l>And vacant Shepherds piping in the Dale;</l>
+               <l>And now and then sweet Philomel would wail,</l>
+               <l>Or Stock-Doves plain amid the Forest deep,</l>
+               <l>That drowsy rustled to the sighing Gale;</l>
+               <l>And still a Coil the Grashopper did keep:</l>
+               <l>Yet all these Sounds yblent inclined all to Sleep.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Full in the Passage of the Vale, above,</l>
+               <l>A sable, silent, solemn Forest stood;</l>
+               <l>Where nought but shadowy Forms were seen to move,</l>
+               <l>As <hi>Idless</hi> fancy'd in her dreaming Mood.</l>
+               <l>And up the Hills, on either Side, a Wood</l>
+               <l>Of blackening Pines, ay waving to and fro,</l>
+               <l>Sent forth a sleepy Horror through the Blood;</l>
+               <l>And where this Valley winded out, below,</l>
+               <l>The murmuring Main was heard, and scarcely heard, to flow.</l>
+            </lg>
+            <lg n="6">
+               <pb n="4" facs="5"/>
+               <head>VI.</head>
+               <l>A pleasing Land of Drowsy-hed it was:</l>
+               <l>Of Dreams that wave before the half-shut Eye;</l>
+               <l>And of gay Castles in the Clouds that pass,</l>
+               <l>For ever flushing round a Summer-Sky:</l>
+               <l>There eke the soft Delights, that witchingly</l>
+               <l>Instil a wanton Sweetness through the Breast,</l>
+               <l>And the calm Pleasures always hover'd nigh;</l>
+               <l>But whate'er smack'd of Noyance, or Unrest,</l>
+               <l>Was far far off expell'd from this delicious Nest.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>The Landskip such, inspiring perfect Ease,</l>
+               <l>Where INDOLENCE (for so the Wizard hight)</l>
+               <l>Close-hid his Castle mid embowering Trees,</l>
+               <l>That half shut out the Beams of Phoebus bright,</l>
+               <l>And made a Kind of checker'd Day and Night.</l>
+               <l>Mean while, unceasing at the massy Gate,</l>
+               <l>Beneath a spacious Palm, the wicked Wight</l>
+               <l>Was plac'd; and to his Lute, of cruel Fate,</l>
+               <l>And Labour harsh, complain'd, lamenting Man's Estate.</l>
+            </lg>
+            <lg n="8">
+               <pb n="5" facs="6"/>
+               <head>VIII.</head>
+               <l>Thither continual Pilgrims crouded still,</l>
+               <l>From all the Roads of Earth that pass there by:</l>
+               <l>For, as they chaunc'd to breathe on neighbouring Hill,</l>
+               <l>The Freshness of this Valley smote their Eye,</l>
+               <l>And drew them ever and anon more nigh,</l>
+               <l>'Till clustering round th'Enchanter false they hung,</l>
+               <l>Ymolten with his Syren Melody;</l>
+               <l>While o'er th' enfeebling Lute his Hand he flung,</l>
+               <l>And to the trembling Chords these tempting Verses sung:</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>" Behold! ye Pilgrims of this Earth, behold!</l>
+               <l>" See all but Man with unearn'd Pleasure gay.</l>
+               <l>" See her bright Robes the Butterfly unfold,</l>
+               <l>" Broke from her wintry Tomb in Prime of May.</l>
+               <l>" What youthful Bride can equal her Array?</l>
+               <l>" Who can with Her for easy Pleasure vie?</l>
+               <l>" From Mead to Mead with gentle Wing to stray,</l>
+               <l>" From Flower to Flower on balmy Gales to fly,</l>
+               <l>" Is all she has to do beneath the radiant Sky.</l>
+            </lg>
+            <lg n="10">
+               <pb n="6" facs="7"/>
+               <head>X.</head>
+               <l>" Behold the merry Minstrels of the Morn,</l>
+               <l>" The swarming Songsters of the careless Grove,</l>
+               <l>" Ten thousand Throats! that, from the flowering Thorn,</l>
+               <l>" Hymn their Good GOD, and carol sweet of Love,</l>
+               <l>" Such grateful kindly Raptures them emove:</l>
+               <l>" They neither plough, nor sow; ne, fit for Flail,</l>
+               <l>" E'er to the Barn the nodding Sheaves they drove;</l>
+               <l>" Yet theirs each Harvest dancing in the Gale,</l>
+               <l>" Whatever crowns the Hill, or smiles along the Vale.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>" Outcast of Nature, Man! the wretched Thrall</l>
+               <l>" Of bitter-dropping Sweat, of sweltry Pain,</l>
+               <l>" Of Cares that eat away thy Heart with Gall,</l>
+               <l>" And of the Vices, an inhuman Train,</l>
+               <l>" That all proceed from savage Thirst of Gain:</l>
+               <l>" For when hard-hearted <hi>Interest</hi> first began</l>
+               <l>" To poison Earth, <hi>Astraea</hi> left the Plain;</l>
+               <l>" Guile, Violence, and Murder seiz'd on Man;</l>
+               <l>" And, for soft milky Streams, with Blood the Rivers ran.</l>
+            </lg>
+            <lg n="12">
+               <pb n="7" facs="8"/>
+               <head>XII.</head>
+               <l>" Come, ye, who still the cumbrous Load of Life</l>
+               <l>" Push hard up Hill; but as the farthest Steep</l>
+               <l>" You trust to gain, and put an End to Strife,</l>
+               <l>" Down thunders back the Stone with mighty Sweep,</l>
+               <l>" And hurls your Labours to the Valley deep,</l>
+               <l>" For-ever vain: come, and, withouten Fee,</l>
+               <l>" I in Oblivion will your Sorrows steep,</l>
+               <l>" Your Cares, your Toils, will steep you in a Sea</l>
+               <l>" Of full Delight: O come, ye weary Wights, to me!</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>" With me, you need not rise at early Dawn,</l>
+               <l>" To pass the joyless Day in various Stounds:</l>
+               <l>" Or, louting low, on upstart Fortune fawn,</l>
+               <l>" And sell fair Honour for some paltry Pounds;</l>
+               <l>" Or through the City take your dirty Rounds,</l>
+               <l>" To cheat, and dun, and lye, and Visit pay,</l>
+               <l>" Now flattering base, now giving secret Wounds;</l>
+               <l>" Or proul in Courts of Law for human Prey,</l>
+               <l>" In venal Senate thieve, or rob on broad High-way.</l>
+            </lg>
+            <lg n="14">
+               <pb n="8" facs="9"/>
+               <head>XIV.</head>
+               <l>" No Cocks, with me, to rustic Labour call,</l>
+               <l>" From Village on to Village sounding clear;</l>
+               <l>" To tardy Swain no shrill-voic'd Matrons squall;</l>
+               <l>" No Dogs, no Babes, no Wives, to stun your Ear;</l>
+               <l>" No Hammers thump; no horrid Blacksmith sear,</l>
+               <l>" Ne noisy Tradesman your sweet Slumbers start,</l>
+               <l>" With Sounds that are a Misery to hear:</l>
+               <l>" But all is calm, as would delight the Heart</l>
+               <l>" Of <hi>Sybarite</hi> of old, all Nature, and all Art.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>" Here nought but Candour reigns, indulgent Ease,</l>
+               <l>" Good-natur'd Lounging, Sauntering up and down:</l>
+               <l>" They who are pleas'd themselves must always please;</l>
+               <l>" On Others' Ways they never squint a Frown,</l>
+               <l>" Nor heed what haps in Hamlet or in Town.</l>
+               <l>" Thus, from the Source of tender Indolence,</l>
+               <l>" With milky Blood the Heart is overflown,</l>
+               <l>" Is sooth'd and sweeten'd by the social Sense;</l>
+               <l>" For Interest, Envy, Pride, and Strife are banish'd hence.</l>
+            </lg>
+            <lg n="16">
+               <pb n="9" facs="10"/>
+               <head>XVI.</head>
+               <l>" What, what, is Virtue, but Repose of Mind?</l>
+               <l>" A pure ethereal Calm! that knows no Storm;</l>
+               <l>" Above the Reach of wild Ambition's Wind,</l>
+               <l>" Above those Passions that this World deform,</l>
+               <l>" And torture Man, a proud malignant Worm!</l>
+               <l>" But here, instead, soft Gales of Passion play,</l>
+               <l>" And gently stir the Heart, thereby to form</l>
+               <l>" A quicker Sense of Joy; as Breezes stray</l>
+               <l>" Across th' enliven'd Skies, and make them still more gay.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>" The Best of Men have ever lov'd Repose:</l>
+               <l>" They hate to mingle in the filthy Fray;</l>
+               <l>" Where the Soul sowrs, and gradual Rancour grows,</l>
+               <l>" Imbitter'd more from peevish Day to Day.</l>
+               <l>" Even Those whom Fame has lent her fairest Ray,</l>
+               <l>" The most renown'd of worthy Wights of Yore,</l>
+               <l>" From a base World at last have stolen away:</l>
+               <l>" So SCIPIO, to the soft <hi>Cumaean</hi> Shore</l>
+               <l>" Retiring, tasted Joy he never knew before.</l>
+            </lg>
+            <lg n="18">
+               <pb n="10" facs="11"/>
+               <head>XVIII.</head>
+               <l>" But if a little Exercise you chuse,</l>
+               <l>" Some Zest for Ease, 'tis not forbidden here.</l>
+               <l>" Amid the Groves you may indulge the Muse,</l>
+               <l>" Or tend the Blooms, and deck the vernal Year;</l>
+               <l>" Or softly stealing, with your watry Gear,</l>
+               <l>" Along the Brooks, the crimson-spotted Fry</l>
+               <l>" You may delude: The whilst, amus'd, you hear</l>
+               <l>" Now the hoarse Stream, and now the Zephir's Sigh,</l>
+               <l>" Attuned to the Birds, and woodland Melody.</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>" O grievous Folly! to heap up Estate,</l>
+               <l>" Losing the Days you see beneath the Sun;</l>
+               <l>" When, sudden, comes blind unrelenting Fate,</l>
+               <l>" And gives th' untasted Portion you have won,</l>
+               <l>" With ruthless Toil, and many a Wretch undone,</l>
+               <l>" To Those who mock you gone to <hi>Pluto</hi>'s Reign,</l>
+               <l>" There with sad Ghosts to pine, and Shadows dun:</l>
+               <l>" But sure it is of Vanities most vain,</l>
+               <l>" To toil for what you here untoiling may obtain."</l>
+            </lg>
+            <lg n="20">
+               <pb n="11" facs="12"/>
+               <head>XX.</head>
+               <l>He ceas'd. But still their trembling Ears retain'd</l>
+               <l>The deep Vibrations of his witching Song;</l>
+               <l>That, by a Kind of Magic Power, constrain'd</l>
+               <l>To enter in, pell-mell, the listening Throng.</l>
+               <l>Heaps pour'd on Heaps, and yet they slip'd along</l>
+               <l>In silent Ease: as when beneath the Beam</l>
+               <l>Of Summer-Moons, the distant Woods among,</l>
+               <l>Or by some Flood all silver'd with the Gleam,</l>
+               <l>The soft-embodied Fays through airy Portal stream.</l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>By the smooth Demon so it order'd was,</l>
+               <l>And here his baneful Bounty first began:</l>
+               <l>Though some there were who would not further pass,</l>
+               <l>And his alluring Baits suspected han.</l>
+               <l>The Wise distrust the too fair-spoken Man.</l>
+               <l>Yet through the Gate they cast a wishful Eye:</l>
+               <l>Not to move on, perdie, is all they can;</l>
+               <l>For do their very Best they cannot fly,</l>
+               <l>But often each Way look, and often sorely sigh.</l>
+            </lg>
+            <lg n="22">
+               <pb n="12" facs="13"/>
+               <head>XXII.</head>
+               <l>When this the watchful wicked Wizard saw,</l>
+               <l>With sudden Spring he leap'd upon them strait;</l>
+               <l>And soon as touch'd by his unhallow'd Paw,</l>
+               <l>They found themselves within the cursed Gate;</l>
+               <l>Full hard to be repass'd, like That of Fate.</l>
+               <l>Not stronger were of old the Giant-Crew,</l>
+               <l>Who sought to pull high <hi>Jove</hi> from regal State;</l>
+               <l>Though feeble Wretch he seem'd, of sallow Hue:</l>
+               <l>Certes, who bides his Grasp, will that Encounter rue.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>For whomsoe'er the Villain takes in Hand,</l>
+               <l>Their Joints unknit, their Sinews melt apace;</l>
+               <l>As lithe they grow as any Willow-Wand,</l>
+               <l>And of their vanish'd Force remains no Trace:</l>
+               <l>So when a Maiden fair, of modest Grace,</l>
+               <l>In all her buxom blooming May of Charms,</l>
+               <l>Is seized in some Losel's hot Embrace,</l>
+               <l>She waxeth very weakly as she warms,</l>
+               <l>Then sighing yields Her up to Love's delicious Harms.</l>
+            </lg>
+            <lg n="24">
+               <pb n="13" facs="14"/>
+               <head>XXIV.</head>
+               <l>Wak'd by the Croud, slow from his Bench arose</l>
+               <l>A comely full-spred Porter, swoln with Sleep:</l>
+               <l>His calm, broad, thoughtless Aspect breath'd Repose;</l>
+               <l>And in sweet Torpor he was plunged deep,</l>
+               <l>Ne could himself from ceaseless Yawning keep;</l>
+               <l>While o'er his Eyes the drowsy Liquor ran,</l>
+               <l>Through which his half-wak'd Soul would faintly peep.</l>
+               <l>Then taking his black Staff he call'd his Man,</l>
+               <l>And rous'd himself as much as rouse himself he can.</l>
+            </lg>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>The Lad leap'd lightly at his Master's Call.</l>
+               <l>He was, to weet, a little roguish Page,</l>
+               <l>Save Sleep and Play who minded nought at all,</l>
+               <l>Like most the untaught Striplings of his Age.</l>
+               <l>This Boy he kept each Band to disengage,</l>
+               <l>Garters and Buckles, Task for him unfit,</l>
+               <l>But ill-becoming his grave Personage,</l>
+               <l>And which his portly Paunch would not permit,</l>
+               <l>So this same limber Page to All performed It.</l>
+            </lg>
+            <lg n="26">
+               <pb n="14" facs="15"/>
+               <head>XXVI.</head>
+               <l>Mean time the Master-Porter wide display'd</l>
+               <l>Great Store of Caps, of Slippers, and of Gowns;</l>
+               <l>Wherewith he Those who enter'd in, array'd;</l>
+               <l>Loose, as the Breeze that plays along the Downs,</l>
+               <l>And waves the Summer-Woods when Evening frowns.</l>
+               <l>O fair Undress, best Dress! it checks no Vein,</l>
+               <l>But every flowing Limb in Pleasure drowns,</l>
+               <l>And heightens Ease with Grace. This done, right fain,</l>
+               <l>Sir Porter sat him down, and turn'd to Sleep again.</l>
+            </lg>
+            <lg n="27">
+               <head>XXVII.</head>
+               <l>Thus easy-rob'd, they to the Fountain sped,</l>
+               <l>That in the Middle of the Court up-threw</l>
+               <l>A Stream, high-spouting from its liquid Bed,</l>
+               <l>And falling back again in drizzly Dew:</l>
+               <l>There Each deep Draughts, as deep he thirsted, drew.</l>
+               <l>It was a Fountain of <hi>Nepenthe</hi> rare:</l>
+               <l>Whence, as Dan HOMER sings, huge Pleasaunce grew,</l>
+               <l>And sweet Oblivion of vile earthly Care;</l>
+               <l>Fair gladsome waking Thoughts, and joyous Dreams more fair.</l>
+            </lg>
+            <lg n="28">
+               <pb n="15" facs="16"/>
+               <head>XXVIII.</head>
+               <l>This Rite perform'd, All inly pleas'd and still,</l>
+               <l>Withouten Tromp, was Proclamation made.</l>
+               <l>" Ye Sons of INDOLENCE, do what you will;</l>
+               <l>" And wander where you list, through Hall or Glade:</l>
+               <l>" Be no Man's Pleasure for another's staid;</l>
+               <l>" Let Each as likes him best his Hours employ,</l>
+               <l>" And curs'd be he who minds his Neighbour's Trade!</l>
+               <l>" Here dwells kind Ease and unreproving Joy:</l>
+               <l>" He little merits Bliss who Others can annoy.</l>
+            </lg>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>Strait of these endless Numbers, swarming round,</l>
+               <l>As thick as idle Motes in sunny Ray,</l>
+               <l>Not one eftsoons in View was to be found,</l>
+               <l>But every Man stroll'd off his own glad Way.</l>
+               <l>Wide o'er this ample Court's blank Area,</l>
+               <l>With all the Lodges that thereto pertain'd,</l>
+               <l>No living Creature could be seen to stray;</l>
+               <l>While Solitude, and perfect Silence reign'd:</l>
+               <l>So that to think you dreamt you almost was constrain'd.</l>
+            </lg>
+            <lg n="30">
+               <pb n="16" facs="17"/>
+               <head>XXX.</head>
+               <l>As when a Shepherd of the <note place="bottom" n="*">Those Islands on the western Coast of <hi>Scotland</hi> called the <hi>Hebrides.</hi>
+                  </note> 
+                  <hi>Hebrid-Isles,</hi>
+               </l>
+               <l>Plac'd far amid the melancholy Main,</l>
+               <l>(Whether it be lone Fancy him beguiles;</l>
+               <l>Or that aerial Beings sometimes deign</l>
+               <l>To stand, embodied, to our Senses plain)</l>
+               <l>Sees on the naked Hill, or Valley low,</l>
+               <l>The whilst in Ocean <hi>Phoebus</hi> dips his Wain,</l>
+               <l>A vast Assembly moving to and fro:</l>
+               <l>Then all at once in Air dissolves the wondrous Show.</l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>Ye Gods of Quiet, and of Sleep profound!</l>
+               <l>Whose soft Dominion o'er this Castle sways,</l>
+               <l>And all the widely-silent Places round,</l>
+               <l>Forgive me, if my trembling Pen displays</l>
+               <l>What never yet was sung in mortal Lays.</l>
+               <l>But how shall I attempt such arduous String?</l>
+               <l>I who have spent my Nights and nightly Days,</l>
+               <l>In this Soul-deadening Place, loose-loitering?</l>
+               <l>Ah! how shall I for this uprear my moulted Wing?</l>
+            </lg>
+            <lg n="32">
+               <pb n="17" facs="18"/>
+               <head>XXXII.</head>
+               <l>Come on, my Muse, nor stoop to low Despair,</l>
+               <l>Thou Imp of <hi>Jove,</hi> touch'd by celestial Fire!</l>
+               <l>Thou yet shalt sing of War, and Actions fair,</l>
+               <l>Which the bold Sons of BRITAIN will inspire;</l>
+               <l>Of ancient Bards thou yet shalt sweep the Lyre;</l>
+               <l>Thou yet shalt tread in Tragic Pall the Stage,</l>
+               <l>Paint Love's enchanting Woes, the Heroe's Ire,</l>
+               <l>The Sage's Calm, the Patriot's noble Rage,</l>
+               <l>Dashing Corruption down through every worthless Age.</l>
+            </lg>
+            <lg n="33">
+               <head>XXXIII.</head>
+               <l>The Doors, that knew no shrill alarming Bell,</l>
+               <l>Ne cursed Knocker ply'd by Villain's Hand,</l>
+               <l>Self-open'd into Halls, where, who can tell</l>
+               <l>What Elegance and Grandeur wide expand</l>
+               <l>The Pride of <hi>Turkey</hi> and of <hi>Persia</hi> Land?</l>
+               <l>Soft Quilts on Quilts, on Carpets Carpets spread,</l>
+               <l>And Couches stretch around in seemly Band;</l>
+               <l>And endless Pillows rise to prop the Head;</l>
+               <l>So that each spacious Room was one full-swelling Bed.</l>
+            </lg>
+            <lg n="34">
+               <pb n="18" facs="19"/>
+               <head>XXXIV.</head>
+               <l>And every where huge cover'd Tables stood,</l>
+               <l>With Wines high-flavour'd and rich Viands crown'd;</l>
+               <l>Whatever sprightly Juice or tasteful Food</l>
+               <l>On the green Bosom of this Earth are found,</l>
+               <l>And all old Ocean genders in his Round:</l>
+               <l>Some Hand unseen These silently display'd,</l>
+               <l>Even undemanded, by a Sign or Sound;</l>
+               <l>You need but wish, and, instantly obey'd,</l>
+               <l>Fair-rang'd the Dishes rose, and thick the Glasses play'd.</l>
+            </lg>
+            <lg n="35">
+               <head>XXXV.</head>
+               <l>Here Freedom reign'd, without the least Alloy;</l>
+               <l>Nor Gossip's Tale, nor ancient Maiden's Gall,</l>
+               <l>Nor saintly Spleen durst murmur at our Joy,</l>
+               <l>And with envenom'd Tongue our Pleasures pall.</l>
+               <l>For why? There was but One great Rule for All;</l>
+               <l>To wit, That each should work his own Desire,</l>
+               <l>And eat, drink, study, sleep, as it may fall,</l>
+               <l>Or melt the Time in Love, or wake the Lyre,</l>
+               <l>And carol what, unbid, the Muses might inspire.</l>
+            </lg>
+            <lg n="36">
+               <pb n="19" facs="20"/>
+               <head>XXXVI.</head>
+               <l>The Rooms with costly Tapestry were hung,</l>
+               <l>Where was inwoven many a gentle Tale;</l>
+               <l>Such as of old the rural Poets sung,</l>
+               <l>Or of <hi>Arcadian</hi> or <hi>Sicilian</hi> Vale:</l>
+               <l>Reclining Lovers, in the lonely Dale,</l>
+               <l>Pour'd forth at large the sweetly-tortur'd Heart;</l>
+               <l>Or, looking tender Passion, swell'd the Gale,</l>
+               <l>And taught charm'd Echo to resound their Smart;</l>
+               <l>While Flocks, Woods, Streams, around, Repose and Peace impart.</l>
+            </lg>
+            <lg n="37">
+               <head>XXXVII.</head>
+               <l>Those pleas'd the most, where, by a cunning Hand,</l>
+               <l>Depainted was the Patriarchal Age;</l>
+               <l>What Time Dan <hi>Abraham</hi> left the <hi>Chaldee</hi> Land,</l>
+               <l>And pastur'd on from verdant Stage to Stage,</l>
+               <l>Where Fields and Fountains fresh could best engage.</l>
+               <l>Toil was not then. Of nothing took they Heed,</l>
+               <l>But with wild Beasts the silvan War to wage,</l>
+               <l>And o'er vast Plains their Herds and Flocks to feed:</l>
+               <l>Blest Sons of Nature they! True Golden Age indeed!</l>
+            </lg>
+            <lg n="38">
+               <pb n="20" facs="21"/>
+               <head>XXXVIII.</head>
+               <l>Sometimes the Pencil, in cool airy Halls,</l>
+               <l>Bade the gay Bloom of Vernal Landskips rise,</l>
+               <l>Or Autumn's varied Shades imbrown the Walls:</l>
+               <l>Now the black Tempest strikes the astonish'd Eyes;</l>
+               <l>Now down the Steep the flashing Torrent flies;</l>
+               <l>The trembling Sun now plays o'er Ocean blue,</l>
+               <l>And now rude Mountains frown amid the Skies;</l>
+               <l>Whate'er <hi>Lorrain</hi> light-touch'd with softening Hue,</l>
+               <l>Or savage <hi>Rosa</hi> dash'd, or learned <hi>Poussin</hi> drew.</l>
+            </lg>
+            <lg n="39">
+               <head>XXXIX.</head>
+               <l>Each Sound too here to Languishment inclin'd,</l>
+               <l>Lull'd the weak Bosom, and induced Ease.</l>
+               <l>Aerial Music in the warbling Wind,</l>
+               <l>At Distance rising oft, by small Degrees,</l>
+               <l>Nearer and nearer came, till o'er the Trees</l>
+               <l>It hung, and breath'd such Soul-dissolving Airs,</l>
+               <l>As did, alas! with soft Perdition please:</l>
+               <l>Entangled deep in its enchanting Snares,</l>
+               <l>The listening Heart forgot all Duties and all Cares.</l>
+            </lg>
+            <lg n="40">
+               <pb n="21" facs="22"/>
+               <head>XL.</head>
+               <l>A certain Musick, never known before,</l>
+               <l>Here lull'd the pensive melancholy Mind;</l>
+               <l>Full easily obtain'd. Behoves no more,</l>
+               <l>But sidelong, to the gently-waving Wind,</l>
+               <l>To lay the well-tun'd Instrument reclin'd;</l>
+               <l>From which, with airy flying Fingers light,</l>
+               <l>Beyond each mortal Touch the most refin'd,</l>
+               <l>The God of Winds drew Sounds of deep Delight:</l>
+               <l>Whence, with just Cause, <note place="bottom" n="*">This is not an Imagination of the Author; there being in fact such an Instrument, called <hi>Aeolus</hi>'s <hi>Harp,</hi> which, when placed against a little Rushing or Current of Air, produces the Effect here described.</note> 
+                  <hi>The Harp of Aeolus</hi> it hight.</l>
+            </lg>
+            <lg n="41">
+               <head>XLI.</head>
+               <l>Ah me! what Hand can touch the Strings so fine?</l>
+               <l>Who up the lofty Diapasan roll</l>
+               <l>Such sweet, such sad, such solemn Airs divine,</l>
+               <l>Then let them down again into the Soul?</l>
+               <l>Now rising Love they fan'd; now pleasing Dole</l>
+               <l>They breath'd, in tender Musings, through the Heart;</l>
+               <l>And now a graver sacred Strain they stole,</l>
+               <l>As when Seraphic Hands an Hymn impart:</l>
+               <l>Wild warbling Nature all, above the Reach of Art!</l>
+            </lg>
+            <lg n="42">
+               <pb n="22" facs="23"/>
+               <head>XLII.</head>
+               <l>Such the gay Splendor, the luxurious State,</l>
+               <l>Of <hi>Caliphs</hi> old, who on the <hi>Tygris</hi>' Shore,</l>
+               <l>In mighty <hi>Bagdat,</hi> populous and great,</l>
+               <l>Held their bright Court, where was of Ladies store;</l>
+               <l>And Verse, Love, Music still the Garland wore:</l>
+               <l>When Sleep was coy, <note place="bottom" n="*">The <hi>Arabian Caliphs</hi> had Poets among the Officers of their Court, whose Office it was to do what is here mentioned.</note> the Bard, in Waiting there,</l>
+               <l>Chear'd the lone Midnight with the Muse's Lore;</l>
+               <l>Composing Music bade his Dreams be fair,</l>
+               <l>And Music lent new Gladness to the Morning Air.</l>
+            </lg>
+            <lg n="43">
+               <head>XLIII.</head>
+               <l>Near the Pavilions where we slept, still ran</l>
+               <l>Soft-tinkling Streams, and dashing Waters fell,</l>
+               <l>And sobbing Breezes sigh'd, and oft began</l>
+               <l>(So work'd the Wizard) wintry Storms to swell,</l>
+               <l>As Heaven and Earth they would together mell:</l>
+               <l>At Doors and Windows, threatening, seem'd to call</l>
+               <l>The Demons of the Tempest, growling fell,</l>
+               <l>Yet the least Entrance found they none at all;</l>
+               <l>Whence sweeter grew our Sleep, secure in massy Hall.</l>
+            </lg>
+            <lg n="44">
+               <pb n="23" facs="24"/>
+               <head>XLIV.</head>
+               <l>And hither <hi>Morpheus</hi> sent his kindest Dreams,</l>
+               <l>Raising a World of gayer Tinct and Grace;</l>
+               <l>O'er which were shadowy cast Elysian Gleams,</l>
+               <l>That play'd, in waving Lights, from Place to Place,</l>
+               <l>And shed a roseate Smile on Nature's Face.</l>
+               <l>Not <hi>Titian</hi>'s Pencil e'er could so array,</l>
+               <l>So fleece with Clouds the pure Etherial Space;</l>
+               <l>Ne could it e'er such melting Forms display,</l>
+               <l>As loose on flowery Beds all languishingly lay.</l>
+            </lg>
+            <lg n="45">
+               <head>XLV.</head>
+               <l>No, fair Illusions! artful Phantoms, no!</l>
+               <l>My Muse will not attempt your Fairy-Land:</l>
+               <l>She has no Colours that like you can glow;</l>
+               <l>To catch your vivid Scenes too gross her Hand.</l>
+               <l>But sure it is, was ne'er a subtler Band</l>
+               <l>Than these same guileful Angel-seeming Sprights,</l>
+               <l>Who thus in Dreams, voluptuous, soft, and bland,</l>
+               <l>Pour'd all th' <hi>Arabian Heaven</hi> upon our Nights,</l>
+               <l>And bless'd them oft besides with more refin'd Delights.</l>
+            </lg>
+            <pb n="22" facs="25"/>
+            <gap resp="#oxf" extent="1 page" rend="content:〈1 page duplicate〉">
+               <desc>duplicate</desc>
+            </gap>
+            <pb n="23" facs="26"/>
+            <gap resp="#oxf" extent="1 page" rend="content:〈1 page duplicate〉">
+               <desc>duplicate</desc>
+            </gap>
+            <lg n="46">
+               <pb n="24" facs="27"/>
+               <head>XLVI.</head>
+               <l>They were in Sooth a most enchanting Train,</l>
+               <l>Even feigning Virtue; skilful to unite</l>
+               <l>With Evil Good, and strew with Pleasure Pain.</l>
+               <l>But for those Fiends, whom Blood and Broils delight;</l>
+               <l>Who hurl the Wretch, as if to Hell outright,</l>
+               <l>Down down black Gulphs, where sullen Waters sleep,</l>
+               <l>Or hold him clambering all the fearful Night</l>
+               <l>On beetling Cliffs, or pent in Ruins deep:</l>
+               <l>They, till due Time should serve, were bid far hence to keep.</l>
+            </lg>
+            <lg n="47">
+               <head>XLVII.</head>
+               <l>Ye Guardian Spirits, to whom Man in dear,</l>
+               <l>From these foul Demons shield the Midnight Gloom!</l>
+               <l>Angels of Fancy and of Love, be near,</l>
+               <l>And o'er the Blank of Sleep diffuse a Bloom!</l>
+               <l>Evoke the sacred Shades of <hi>Greece</hi> and <hi>Rome,</hi>
+               </l>
+               <l>And let them Virtue with a Look impart!</l>
+               <l>But chief, a while o lend us from the Tomb</l>
+               <l>Those long-lost Friends for whom in Love we smart,</l>
+               <l>And fill with pious Awe and Joy-mixt Woe the Heart.</l>
+            </lg>
+            <lg n="48">
+               <pb n="25" facs="28"/>
+               <head>XLVIII.</head>
+               <l>Or are you sportive—Bid the Morn of Youth</l>
+               <l>Rise to new Light, and beam afresh the Days</l>
+               <l>Of Innocence, Simplicity, and Truth;</l>
+               <l>To Cares estrang'd, and Manhood's thorny Ways.</l>
+               <l>What Transport! To retrace our boyish Plays,</l>
+               <l>Our easy Bliss, when each Thing Joy supply'd:</l>
+               <l>The Woods, the Mountains, and the warbling Maze</l>
+               <l>Of the wild Brooks—But, fondly wandering wide,</l>
+               <l>My Muse, resume the Task that yet doth thee abide.</l>
+            </lg>
+            <lg n="49">
+               <head>XLIX.</head>
+               <l>One great Amusement of our Houshold was,</l>
+               <l>In a huge crystal magic Globe to spy,</l>
+               <l>Still as you turn'd it, all Things that do pass</l>
+               <l>Upon this Ant-Hill Earth; where constantly</l>
+               <l>Of idly-busy Men the restless Fry</l>
+               <l>Run bustling too and fro with foolish Haste,</l>
+               <l>In search of Pleasures vain that from them fly,</l>
+               <l>Or which obtain'd the Caitiffs dare not taste:</l>
+               <l>When nothing is enjoy'd, can there be greater Waste?</l>
+            </lg>
+            <lg n="50">
+               <pb n="26" facs="29"/>
+               <head>L.</head>
+               <l>
+                  <hi>Of Vanity the Mirror</hi> This was call'd.</l>
+               <l>Here you a Muckworm of the Town might see,</l>
+               <l>At his dull Desk, amid his Legers stall'd,</l>
+               <l>Eat up with carking Care and Penurie;</l>
+               <l>Most like to Carcase parch'd on Gallow Tree.</l>
+               <l>A Penny saved is a Penny got:</l>
+               <l>Firm to this scoundrel Maxim keepeth he,</l>
+               <l>Ne of its Rigour will he bate a Jot,</l>
+               <l>Till it has quench'd his Fire, and banished his Pot.</l>
+            </lg>
+            <lg n="51">
+               <head>LI.</head>
+               <l>Strait from the Filth of this low Grub, behold!</l>
+               <l>Comes fluttering forth a gaudy spendthrift Heir,</l>
+               <l>All glossy gay, enamel'd all with Gold,</l>
+               <l>The silly Tenant of the Summer-Air.</l>
+               <l>In Folly lost, of Nothing takes he Care;</l>
+               <l>Pimps, Lawyers, Stewards, Harlots, Flatterers vile,</l>
+               <l>And thieving Tradesmen him among them share:</l>
+               <l>His Father's Ghost from Limbo-Lake, the while,</l>
+               <l>Sees This, which more Damnation does upon him pile.</l>
+            </lg>
+            <lg n="52">
+               <pb n="27" facs="30"/>
+               <head>LII.</head>
+               <l>This Globe pourtray'd the Race of learned Men,</l>
+               <l>Still at their Books, and turning o'er the Page,</l>
+               <l>Backwards and forwards: oft they snatch the Pen,</l>
+               <l>As if inspir'd, and in a <hi>Thespian</hi> Rage;</l>
+               <l>Then write, and blot, as would your Ruth engage.</l>
+               <l>Why, Auhors, all this Scrawl and Scribbling sore?</l>
+               <l>To lose the present, gain the future Age,</l>
+               <l>Praised to be when you can hear no more,</l>
+               <l>And much enrich'd with Fame when useless worldly Store.</l>
+            </lg>
+            <lg n="53">
+               <head>LIII.</head>
+               <l>Then would a splendid City rise to View,</l>
+               <l>With Carts, and Cars, and Coaches roaring all:</l>
+               <l>Wide-pour'd abroad behold the prowling Crew;</l>
+               <l>See! how they dash along from Wall to Wall;</l>
+               <l>At every Door, hark! how they thundering call.</l>
+               <l>Good Lord! what can this giddy Rout excite?</l>
+               <l>Why? On each other with fell Tooth to fall;</l>
+               <l>A Neighbour's Fortune, Fame, or Peace, to blight,</l>
+               <l>And make new tiresome Parties for the coming Night.</l>
+            </lg>
+            <lg n="54">
+               <pb n="28" facs="31"/>
+               <head>LIV.</head>
+               <l>The puzzling Sons of Party next appear'd,</l>
+               <l>In dark Cabals and nightly Juntos met;</l>
+               <l>And now they whisper'd close, new shrugging rear'd</l>
+               <l>Th' important Shoulder; then, as if to get</l>
+               <l>New Light, their twinkling Eyes were inward set.</l>
+               <l>No sooner <note place="bottom" n="*">The Morning Star.</note> 
+                  <hi>Lucifer</hi> recalls Affairs,</l>
+               <l>Than forth they various rush in mighty Fret;</l>
+               <l>When lo! push'd up to Power, and crown'd their Cares,</l>
+               <l>In comes another Set, and kicketh them down Stairs.</l>
+            </lg>
+            <lg n="55">
+               <head>LV.</head>
+               <l>But what most shew'd the Vanity of Life,</l>
+               <l>Was to behold the Nations all on Fire,</l>
+               <l>In cruel Broils engag'd, and deadly Strife;</l>
+               <l>Most Christian Kings, inflam'd by black Desire,</l>
+               <l>With Honourable Russians in their Hire,</l>
+               <l>Cause War to rage, and Blood around to pour:</l>
+               <l>Of this sad Work when Each begins to tire,</l>
+               <l>They sit them down just where they were before,</l>
+               <l>Till for new Scenes of Woe Peace shall their Force restore.</l>
+            </lg>
+            <lg n="56">
+               <pb n="29" facs="32"/>
+               <head>LVI.</head>
+               <l>To number up the Thousands dwelling here,</l>
+               <l>An useless were, and eke an endless Task:</l>
+               <l>From Kings, and Those who at the Helm appear,</l>
+               <l>To Gipsies brown in Summer-Glades who bask.</l>
+               <l>Yea many a Man perdie I could unmask,</l>
+               <l>Whose Desk and Table make a solemn Show,</l>
+               <l>With Tape-ty'd Trash, and Suits of Fools that ask</l>
+               <l>For Place or Pension, laid in decent Row;</l>
+               <l>But These I passen by, with nameless Numbers moe.</l>
+            </lg>
+            <lg n="57">
+               <head>LVII.</head>
+               <l>Of all the gentle Tenants of the Place,</l>
+               <l>There was a Man of special grave Remark:</l>
+               <l>A certain tender Gloom o'erspread his Face,</l>
+               <l>Pensive not sad, in Thought involv'd not dark,</l>
+               <l>As soot this Man could sing as Morning-Lark,</l>
+               <l>And teach the noblest Morals of the Heart:</l>
+               <l>But These his Talents were ybury'd stark;</l>
+               <l>Of the fine Stores he Nothing would impart,</l>
+               <l>Which or boon Nature gave, or Nature-painting Art.</l>
+            </lg>
+            <lg n="58">
+               <pb n="30" facs="33"/>
+               <head>LVIII.</head>
+               <l>To Noontide Shades incontinent he ran,</l>
+               <l>Where purls the Brook with Sleep-inviting Sound;</l>
+               <l>Or when Dan <hi>Sol</hi> to slope his Wheels began,</l>
+               <l>Amid the Broom he bask'd him on the Ground,</l>
+               <l>Where the wild Thyme and Camomil are found:</l>
+               <l>There would he linger, till the latest Ray</l>
+               <l>Of Light sat trembling on the Welkin's Bound:</l>
+               <l>Then homeward through the twilight Shadows stray,</l>
+               <l>Sauntring and slow. So had he passed many a Day.</l>
+            </lg>
+            <lg n="59">
+               <head>LIX.</head>
+               <l>Yet not in thoughtless Slumber were they past:</l>
+               <l>For oft the heavenly Fire, that lay conceal'd</l>
+               <l>Beneath the sleeping Embers, mounted fast,</l>
+               <l>And all its native Light anew reveal'd;</l>
+               <l>Oft as he travers'd the Cerulean Field,</l>
+               <l>And mark'd the Clouds that drove before the Wind,</l>
+               <l>Ten thousand glorious Systems would he build,</l>
+               <l>Ten thousand great Ideas fill'd his Mind;</l>
+               <l>But with the Clouds they fled, and left no Tract behind.</l>
+            </lg>
+            <lg n="60">
+               <pb n="31" facs="34"/>
+               <head>LX.</head>
+               <l>With him was sometimes join'd, in silent Walk,</l>
+               <l>(Profoundly silent, for they never spoke)</l>
+               <l>One shyer still, who quite detested Talk:</l>
+               <l>Oft, stung by Spleen, at once away he broke,</l>
+               <l>To Groves of Pine, and broad o'ershadowing Oak;</l>
+               <l>There, inly thrill'd, he wander'd all alone,</l>
+               <l>And on himself his pensive Fury wroke,</l>
+               <l>Ne ever utter'd Word, save when first shone</l>
+               <l>The glittering Star of Eve— "Thank Heaven! the Day is done."</l>
+            </lg>
+            <lg n="61">
+               <head>LXI.</head>
+               <l>Here lurk'd a Wretch, who had not crept abroad</l>
+               <l>For forty Years, ne Face of Mortal seen;</l>
+               <l>In Chamber brooding like a loathly Toad,</l>
+               <l>And sure his Linnen was not very clean;</l>
+               <l>Through secret Loop-Hole, that had practis'd been</l>
+               <l>Near to his Bed, his Dinner vile he took;</l>
+               <l>Unkempt, and rough, of squalid Face and Mein,</l>
+               <l>Our Castle's shame! whence, from his filthy Nook,</l>
+               <l>We drove the Villain out for fitter Lair to look.</l>
+            </lg>
+            <lg n="62">
+               <pb n="32" facs="35"/>
+               <head>LXII.</head>
+               <l>One Day there chaunc'd into these Halls to rove</l>
+               <l>A joyous Youth, who took you at first Sight;</l>
+               <l>Him the wild Wave of Pleasure hither drove,</l>
+               <l>Before the sprightly Tempest tossing light:</l>
+               <l>Certes, he was a most engaging Wight,</l>
+               <l>Of social Glee, and Wit humane though keen,</l>
+               <l>Turning the Night to Day and Day to Night;</l>
+               <l>For him the merry Bells had rung, I ween,</l>
+               <l>If in this Nook of Quiet Bells had ever been.</l>
+            </lg>
+            <lg n="63">
+               <head>LXIII.</head>
+               <l>But not even Pleasure to Excess is good,</l>
+               <l>What most elates then sinks the Soul as low;</l>
+               <l>When Spring-Tide Joy pours in with copious Flood,</l>
+               <l>The higher still th' exulting Billows flow,</l>
+               <l>The farther back again they flagging go,</l>
+               <l>And leave us groveling on the dreary Shore:</l>
+               <l>Taught by this Son of Joy, we found it so;</l>
+               <l>Who, whilst he staid, kept in a gay Uproar</l>
+               <l>Our madden'd Castle all, th' Abode of Sleep no more.</l>
+            </lg>
+            <lg n="64">
+               <pb n="33" facs="36"/>
+               <head>LXIV.</head>
+               <l>As when in Prime of June a burnish'd Fly,</l>
+               <l>Sprung from the Meads, o'er which he sweeps along,</l>
+               <l>Chear'd by the breathing Bloom and vital Sky,</l>
+               <l>Tunes up amid these airy Halls his Song,</l>
+               <l>Soothing at first the gay reposing Throng:</l>
+               <l>And oft he sips their Bowl; or nearly drown'd,</l>
+               <l>He, thence recovering, drives their Beds among,</l>
+               <l>And scares their tender Sleep, with Trump profound;</l>
+               <l>Then out again he flies, to wing his mazy Round.</l>
+            </lg>
+            <lg n="65">
+               <head>LXV.</head>
+               <l>Another Guest there was, of Sense refin'd,</l>
+               <l>Who felt each Worth, for every Worth he had;</l>
+               <l>Serene yet warm, humane yet firm his Mind,</l>
+               <l>As little touch'd as any Man's with Bad:</l>
+               <l>Him through their inmost Walks the Muses lad,</l>
+               <l>To him the sacred Love of Nature lent,</l>
+               <l>And sometimes would he make our Valley glad;</l>
+               <l>Whenas we found he would not here be pent,</l>
+               <l>To him the better Sort this friendly Message sent.</l>
+            </lg>
+            <lg n="66">
+               <pb n="34" facs="37"/>
+               <head>LXVI.</head>
+               <l>" Come, dwell with us! true Son of Virtue, come!</l>
+               <l>" But if, alas! we cannot Thee persuade,</l>
+               <l>" To lie content beneath our peaceful Dome,</l>
+               <l>" Ne ever more to quit our quiet Glade;</l>
+               <l>" Yet when at last thy Toils, but ill apaid,</l>
+               <l>" Shall dead thy Fire, and damp its Heavenly Spark,</l>
+               <l>" Thou wilt be glad to seek the rural Shade,</l>
+               <l>" There to indulge the Muse, and Nature mark:</l>
+               <l>" We then a Lodge for Thee will rear in HAGLEY-PARK."</l>
+            </lg>
+            <lg n="67">
+               <head>LXVII.</head>
+               <l>Here whilom ligg'd th' ESOPUS of the Age;</l>
+               <l>But call'd by Fame, in Soul ypricked deep,</l>
+               <l>A noble Pride restor'd him to the Stage,</l>
+               <l>And rous'd him like a Gyant from his Sleep.</l>
+               <l>Even from his Slumbers we Advantage reap:</l>
+               <l>With double Force th' enliven'd Scene he wakes,</l>
+               <l>Yet quits not Nature's Bounds. He knows to keep</l>
+               <l>Each due Decorum: Now the Heart he shakes,</l>
+               <l>And now with well-urg'd Sense th'enlighten'd Judgment takes.</l>
+            </lg>
+            <lg n="68">
+               <pb n="35" facs="38"/>
+               <head>LXVIII.</head>
+               <l>A Bard here dwelt, more fat than Bard beseems;</l>
+               <l>
+                  <note place="bottom" n="*">The following Lines of this Stanza were writ by a Friend of the Author.</note> Who void of Envy, Guile, and Lust of Gain,</l>
+               <l>On Virtue still, and Nature's pleasing Themes,</l>
+               <l>Pour'd forth his unpremeditated Strain,</l>
+               <l>The World forsaking with a calm Disdain:</l>
+               <l>Here laugh'd he careless in his easy Seat,</l>
+               <l>Here quaff'd encircled with the joyous Train;</l>
+               <l>Oft moralizing sage; his ditty sweet</l>
+               <l>He loathed much to write, ne cared to repeat.</l>
+            </lg>
+            <lg n="69">
+               <head>LXIX.</head>
+               <l>Full oft by Holy Feet our Ground was trod,</l>
+               <l>Of Clerks good Plenty here you mote espy.</l>
+               <l>A little, round, fat, oily Man of God,</l>
+               <l>Was one I chiefly mark'd among the Fry:</l>
+               <l>He had a roguish Twinkle in his Eye,</l>
+               <l>And shone all glittering with ungodly Dew,</l>
+               <l>If a tight Damsel chaunc'd to trippen by;</l>
+               <l>Which when observ'd, he shrunk into his Mew,</l>
+               <l>And strait would recollect his Piety anew.</l>
+            </lg>
+            <lg n="70">
+               <pb n="36" facs="39"/>
+               <head>LXX.</head>
+               <l>Nor be forgot a Tribe, who minded Nought</l>
+               <l>(Old Inmates of the Place) but State-Affairs:</l>
+               <l>They look'd, perdie, as if they deeply thought;</l>
+               <l>And on their Brow sat every Nation's Cares.</l>
+               <l>The World by them is parcel'd out in Shares,</l>
+               <l>When in the <hi>Hall of Smoak</hi> they Congress hold,</l>
+               <l>And the sage Berry sun-burnt <hi>Mocha</hi> bears</l>
+               <l>Has clear'd their inward Eye: then, smoak-enroll'd,</l>
+               <l>Their Oracles break forth mysterious as of old.</l>
+            </lg>
+            <lg n="71">
+               <head>LXXI.</head>
+               <l>Here languid Beauty kept her pale-fac'd Court:</l>
+               <l>Bevies of dainty Dames, of high Degree,</l>
+               <l>From every Quarter hither made Resort;</l>
+               <l>Where, from gross mortal Care and Business free,</l>
+               <l>They lay, pour'd out in Ease and Luxury.</l>
+               <l>Or should they a vain Shew of Work assume,</l>
+               <l>Alas! and well-a-day! what can it be?</l>
+               <l>To knot, to twist, to range the vernal Bloom;</l>
+               <l>But far is cast the Distaff, Spinning-Wheel, and Loom.</l>
+            </lg>
+            <lg n="72">
+               <pb n="37" facs="40"/>
+               <head>LXXII.</head>
+               <l>Their only Labour was to kill the Time;</l>
+               <l>And Labour dire it is, and weary Woe.</l>
+               <l>They sit, they loll, turn o'er some idle Rhyme;</l>
+               <l>Then, rising sudden, to the Glass they go,</l>
+               <l>Or saunter forth, with tottering Step and slow:</l>
+               <l>This soon too rude an Exercise they find;</l>
+               <l>Strait on the Couch their Limbs again they throw,</l>
+               <l>Where Hours on Hours they sighing lie reclin'd,</l>
+               <l>And court the vapoury God soft-breathing in the Wind.</l>
+            </lg>
+            <lg n="73">
+               <head>LXXIII.</head>
+               <l>Now must I mark the Villainy we found,</l>
+               <l>But ah! too late, as shall estsoons be shewn.</l>
+               <l>A Place here was, deep, dreary, under Ground;</l>
+               <l>Where still our Inmates, when unpleasing grown,</l>
+               <l>Diseas'd, and loathsome, privily were thrown.</l>
+               <l>Far from the Light of Heaven, they languish'd there,</l>
+               <l>Unpity'd uttering many a bitter Groan;</l>
+               <l>For of these Wretches taken was no Care:</l>
+               <l>Fierce Fiends, and Hags of Hell, their only Nurses were.</l>
+            </lg>
+            <lg n="74">
+               <pb n="38" facs="41"/>
+               <head>LXXIV.</head>
+               <l>Alas! the Change! from Scenes of Joy and Rest,</l>
+               <l>To this dark Den, where Sickness toss'd alway.</l>
+               <l>Here <hi>Lethargy,</hi> with deadly Sleep opprest,</l>
+               <l>Stretch'd on his Back a mighty Lubbard lay,</l>
+               <l>Heaving his Sides, and snored Night and Day;</l>
+               <l>To stir him from his Traunce it was not eath,</l>
+               <l>And his half-open'd Eyne he shut strait way:</l>
+               <l>He led, I wot, the softest Way to Death,</l>
+               <l>And taught withouten Pain and Strife to yield the Breath.</l>
+            </lg>
+            <lg n="75">
+               <head>LXXV.</head>
+               <l>Of Limbs enormous, but withal unsound,</l>
+               <l>Soft-swoln and pale, here lay the <hi>Hydropsy:</hi>
+               </l>
+               <l>Unwieldy Man! with Belly monstrous round,</l>
+               <l>For ever fed with watery Supply;</l>
+               <l>For still he drank, and yet he still was dry.</l>
+               <l>And here a moping Mystery did sit,</l>
+               <l>Mother of Spleen, in Robes of various Dye,</l>
+               <l>Who vexed was full oft with ugly Fit;</l>
+               <l>And some Her frantic deem'd, and some Her deem'd a Wit.</l>
+            </lg>
+            <lg n="76">
+               <pb n="39" facs="42"/>
+               <head>LXXVI.</head>
+               <l>A Lady proud she was, of ancient Blood,</l>
+               <l>Yet oft her Fear her Pride made crouchen low:</l>
+               <l>She felt, or fancy'd in her fluttering Mood,</l>
+               <l>All the Diseases which the Spittles know,</l>
+               <l>And sought all Physick which the Shops bestow,</l>
+               <l>And still new Leaches and new Drugs would try,</l>
+               <l>Her Humour ever wavering to and fro;</l>
+               <l>For sometimes she would laugh, and sometimes cry,</l>
+               <l>Then sudden waxed wroth, and all she knew not why.</l>
+            </lg>
+            <lg n="77">
+               <head>LXXVII.</head>
+               <l>Fast by her Side a listless Maiden pin'd,</l>
+               <l>With aching Head, and squeamish Heart-Burnings;</l>
+               <l>Pale, bloated, cold, she seem'd to hate Mankind,</l>
+               <l>Yet lov'd in Secret all forbidden Things.</l>
+               <l>And here the <hi>Tertian</hi> shakes his chilling Wings;</l>
+               <l>The sleepless <hi>Gout</hi> here counts the crowing Cocks,</l>
+               <l>A Wolf now gnaws him, now a Serpent stings;</l>
+               <l>Whilst <hi>Apoplexy</hi> cramm'd Intemperance knocks</l>
+               <l>Down to the Ground at once, as Butcher felleth Ox.</l>
+            </lg>
+         </div>
+         <div n="2" type="canto">
+            <pb n="41" facs="43"/>
+            <head>CANTO II.</head>
+            <epigraph>
+               <q>
+                  <l>The Knight of Arts and Industry,</l>
+                  <l>And his Atchievements fair;</l>
+                  <l>That, by this Castle's Overthrow,</l>
+                  <l>Secur'd, and crowned were.</l>
+               </q>
+            </epigraph>
+            <lg n="1">
+               <head>I.</head>
+               <l>ESCAP'D the Castle of the Sire of Sin,</l>
+               <l>Ah! where shall I so sweet a Dwelling find?</l>
+               <l>For all around without, and all within,</l>
+               <l>Nothing save what delightful was and kind,</l>
+               <l>Of Goodness savouring and a tender Mind,</l>
+               <l>E'er rose to View. But now another Strain,</l>
+               <l>Of doleful Note, alas! remains behind:</l>
+               <l>I now must sing of Pleasure turn'd to Pain,</l>
+               <l>And of the false Inchanter INDOLENCE complain.</l>
+            </lg>
+            <lg n="2">
+               <pb n="42" facs="44"/>
+               <head>II.</head>
+               <l>Is there no Patron to protect the Muse,</l>
+               <l>And fence for Her <hi>Parnassus</hi>' barren Soil?</l>
+               <l>To every Labour its Reward accrues,</l>
+               <l>And they are sure of Bread who swink and moil;</l>
+               <l>But a fell Tribe <hi>th' Aonian Hive</hi> despoil,</l>
+               <l>As ruthless Wasps oft rob the painful Bee:</l>
+               <l>Thus while the Laws not guard that noblest Toil,</l>
+               <l>Ne for the Muses other Meed decree,</l>
+               <l>They praised are alone, and starve right merrily.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>I care not, Fortune, what you me deny:</l>
+               <l>You cannot rob me of free Nature's Grace;</l>
+               <l>You cannot shut the Windows of the Sky,</l>
+               <l>Through which <hi>Aurora</hi> shews her brightening Face;</l>
+               <l>You cannot bar my constant Feet to trace</l>
+               <l>The Woods and Lawns, by living Stream, at Eve:</l>
+               <l>Let Health my Nerves and finer Fibres brace,</l>
+               <l>And I their Toys to the <hi>great Children</hi> leave;</l>
+               <l>Of Fancy, Reason, Virtue, nought can me bereave.</l>
+            </lg>
+            <lg n="4">
+               <pb n="43" facs="45"/>
+               <head>IV.</head>
+               <l>Come then, my Muse, and raise a bolder Song;</l>
+               <l>Come, lig no more upon the Bed of Sloth,</l>
+               <l>Dragging the lazy languid Line along,</l>
+               <l>Fond to begin but still to finish loth,</l>
+               <l>Thy half-writ Scrolls all eaten by the Moth:</l>
+               <l>Arise, and sing that generous Imp of Fame,</l>
+               <l>Who with the Sons of Softness nobly wroth,</l>
+               <l>To sweep away this Human Lumber came,</l>
+               <l>Or in a chosen Few to rouse the slumbering Flame.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>In <hi>Fairy-Land</hi> there liv'd a Knight of old,</l>
+               <l>Of Feature stern, <hi>Selvaggio</hi> well yclep'd,</l>
+               <l>A rough unpolish'd Man, robust and bold,</l>
+               <l>But wondrous poor: he neither sow'd nor reap'd,</l>
+               <l>Ne Stores in Summer for cold Winter heap'd;</l>
+               <l>In Hunting all his Days away he wore;</l>
+               <l>Now scorch'd by June, now in November steep'd,</l>
+               <l>Now pinch'd by biting January sore,</l>
+               <l>He still in Woods pursu'd the Libbard and the Boar.</l>
+            </lg>
+            <lg n="6">
+               <pb n="44" facs="46"/>
+               <head>VI.</head>
+               <l>As he one Morning, long before the Dawn,</l>
+               <l>Prick'd through the Forest to dislodge his Prey,</l>
+               <l>Deep in the winding Bosom of a Lawn,</l>
+               <l>With Wood wild-fring'd, he mark'd a Taper's Ray,</l>
+               <l>That from the beating Rain, and wintry Fray,</l>
+               <l>Did to a lonely Cott his Steps decoy;</l>
+               <l>There, up to earn the Needments of the Day,</l>
+               <l>He found Dame <hi>Poverty,</hi> nor fair nor coy:</l>
+               <l>Her he compress'd, and fill'd Her with a lusty Boy.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Amid the green-wood Shade this Boy was bred,</l>
+               <l>And grew at last a Knight of muchel Fame,</l>
+               <l>Of active Mind and vigorous Lustyhed,</l>
+               <l>THE KNIGHT OF ARTS AND INDUSTRY by Name.</l>
+               <l>Earth was his Bed, the Boughs his Roof did frame;</l>
+               <l>He knew no Beverage but the flowing Stream;</l>
+               <l>His tasteful well-earn'd Food the silvan Game,</l>
+               <l>Or the brown Fruit with which the Wood-Lands teem:</l>
+               <l>The same to him glad Summer or the Winter breme.</l>
+            </lg>
+            <lg n="8">
+               <pb n="45" facs="47"/>
+               <head>VIII.</head>
+               <l>So pass'd his youthly Morning, void of Care,</l>
+               <l>Wild as the Colts that through the Commons run:</l>
+               <l>For him no tender Parents troubled were,</l>
+               <l>He of the Forest seem'd to be the Son,</l>
+               <l>And certes had been utterly undone;</l>
+               <l>But that <hi>Minerva</hi> Pity of him took,</l>
+               <l>With all the Gods that love the Rural Wonne,</l>
+               <l>That teach to tame the Soil and rule the Crook;</l>
+               <l>Ne did the sacred Nine disdain a gentle Look.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Of fertile Genius him they nurtur'd well,</l>
+               <l>In every Science and in every Art,</l>
+               <l>By which Mankind the thoughtless Brutes excel,</l>
+               <l>That can or Use, or Joy, or Grace impart,</l>
+               <l>Disclosing all the Powers of Head and Heart.</l>
+               <l>Ne were the goodly Exercises spar'd,</l>
+               <l>That brace the Nerves, or make the Limbs alert,</l>
+               <l>And mix elastic Force with Firmness hard:</l>
+               <l>Was never Knight on Ground mote be with him compar'd.</l>
+            </lg>
+            <lg n="10">
+               <pb n="46" facs="48"/>
+               <head>X.</head>
+               <l>Sometimes, with early Morn, he mounted gay</l>
+               <l>The Hunter-steed, exulting o'er the Dale,</l>
+               <l>And drew the roseat Breath of orient Day;</l>
+               <l>Sometimes, retiring to the secret Vale,</l>
+               <l>Yclad in Steel and bright with burnish'd Mail,</l>
+               <l>He strain'd the Bow, or toss'd the sounding Spear,</l>
+               <l>Or darting on the Goal outstrip'd the Gale,</l>
+               <l>Or wheel'd the Chariot in its Mid-Career,</l>
+               <l>Or strenuous wrestled hard with many a tough Compeer.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>At other Times he pry'd through Nature's Store,</l>
+               <l>Whate'er she in th' Etherial Round contains,</l>
+               <l>Whate'er she hides beneath her verdant Floor,</l>
+               <l>The vegetable and the mineral Reigns;</l>
+               <l>Or else he scann'd the <hi>Globe,</hi> those small Domains,</l>
+               <l>Where restless Mortals such a Turmoil keep,</l>
+               <l>Its Seas, its Floods, its Mountains, and its Plains;</l>
+               <l>But more he search'd the Mind, and rous'd from Sleep</l>
+               <l>Those moral Seeds whence we heroic Actions reap.</l>
+            </lg>
+            <lg n="12">
+               <pb n="47" facs="49"/>
+               <head>XII.</head>
+               <l>Nor would he scorn to stoop from high Pursuits</l>
+               <l>Of heavenly Truth, and practise what she taught.</l>
+               <l>Vain is the Tree of Knowledge without Fruits.</l>
+               <l>Sometimes in Hand the Spade or Plough he caught,</l>
+               <l>Forth-calling all with which boon Earth is fraught;</l>
+               <l>Sometimes he ply'd the strong mechanic Tool,</l>
+               <l>Or rear'd the Fabrick from the finest Draught;</l>
+               <l>And oft he put himself to <hi>Neptune</hi>'s School,</l>
+               <l>Fighting with Winds and Waves on the vext Ocean Pool.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>To solace then these rougher Toils, he try'd</l>
+               <l>To touch the kindling Canvass into Life;</l>
+               <l>With Nature his creating Pencil vy'd,</l>
+               <l>With Nature joyous at the mimic Strife:</l>
+               <l>Or, to such Shapes as grac'd <hi>Pygmalion</hi>'s Wife,</l>
+               <l>He hew'd the Marble; or, with vary'd Fire,</l>
+               <l>He rous'd the Trumpet and the martial Fife,</l>
+               <l>Or bad the Lute sweet Tenderness inspire,</l>
+               <l>Or Verses fram'd that well might wake <hi>Apollo</hi>'s Lyre.</l>
+            </lg>
+            <lg n="14">
+               <pb n="48" facs="50"/>
+               <head>XIV.</head>
+               <l>Accomplish'd thus he from the Woods issu'd,</l>
+               <l>Full of great Aims, and bent on bold Emprize;</l>
+               <l>The Work, which long he in his Breast had brew'd,</l>
+               <l>Now to perform he ardent did devise;</l>
+               <l>To-wit, a barbarous World to civilize.</l>
+               <l>Earth was till Then a boundless Forest wild;</l>
+               <l>Nought to be seen but savage Wood, and Skies;</l>
+               <l>No Cities nourish'd Arts, no Culture smil'd,</l>
+               <l>No Government, no Laws, no gentle Manners mild.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>A rugged Wight, the Worst of Brutes, was Man:</l>
+               <l>On his own wretched Kind he, ruthless, prey'd;</l>
+               <l>The Strongest still the Weakest over-ran;</l>
+               <l>In every Country mighty Robbers sway'd,</l>
+               <l>And Guile and ruffian Force were all their Trade▪</l>
+               <l>Life was not Life, but Rapine, Want, and Woe;</l>
+               <l>Which this brave Knight, in noble Anger, made</l>
+               <l>To swear, he would the rascal Rout o'erthrow,</l>
+               <l>For, by the Powers Divine, it should no more be so!</l>
+            </lg>
+            <lg n="16">
+               <pb n="49" facs="51"/>
+               <head>XVI.</head>
+               <l>It would exceed the Purport of my Song,</l>
+               <l>To say how this <hi>best Sun,</hi> from orient Climes,</l>
+               <l>Came beaming Life and Beauty all along,</l>
+               <l>Before him chasing Indolence and Crimes.</l>
+               <l>Still as he pass'd, the Nations he sublimes,</l>
+               <l>And calls forth Arts and Virtue with his Ray:</l>
+               <l>Then <hi>Egypt, Greece</hi> and <hi>Rome</hi> their Golden Times,</l>
+               <l>Successive, had; but now in Ruins grey</l>
+               <l>They lie, to slavish Sloth and Tyranny a Prey.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>To crown his Toils, SIR INDUSTRY then spred</l>
+               <l>The swelling Sail, and made for BRITAIN'S Coast.</l>
+               <l>A Sylvan Life till Then the Natives led,</l>
+               <l>In the brown Shades and green-wood Forest lost,</l>
+               <l>All careless rambling where it lik'd them most:</l>
+               <l>Their Wealth the Wild-Deer bouncing through the Glade;</l>
+               <l>They lodg'd at large, and liv'd at Nature's Cost;</l>
+               <l>Save Spear, and Bow, withouten other Aid,</l>
+               <l>Yet not the <hi>Roman</hi> Steel their naked Breast dismay'd.</l>
+            </lg>
+            <lg n="18">
+               <pb n="50" facs="52"/>
+               <head>XVIII.</head>
+               <l>He lik'd the Soil, he lik'd the clement Skies,</l>
+               <l>He lik'd the verdant Hills and flowery Plains.</l>
+               <l>Be This my great my chosen Isle (he cries)</l>
+               <l>This, whilst my Labours LIBERTY sustains,</l>
+               <l>This Queen of Ocean all Assault disdains.</l>
+               <l>Nor lik'd he less the Genius of the Land,</l>
+               <l>To Freedom apt and persevering Pains,</l>
+               <l>Mild to obey, and generous to command,</l>
+               <l>Temper'd by forming HEAVEN with kindest firmest Hand.</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>Here, by Degrees, his Master-Work arose,</l>
+               <l>Whatever Arts and Industry can frame:</l>
+               <l>Whatever finish'd Agriculture knows,</l>
+               <l>Fair Queen of Arts! from Heaven itself who came,</l>
+               <l>When <hi>Eden</hi> flourish'd in unspotted Fame:</l>
+               <l>And still with Her sweet Innocence we find,</l>
+               <l>And tender Peace, and Joys without a Name,</l>
+               <l>That, while they rapture, tranquillize the Mind;</l>
+               <l>Nature and Art at once, Delight and Use combin'd.</l>
+            </lg>
+            <lg n="20">
+               <pb n="51" facs="53"/>
+               <head>XX.</head>
+               <l>Then Towns he quicken'd by mechanic Arts,</l>
+               <l>And bade the fervent City glow with Toil;</l>
+               <l>Bade social Commerce raise renowned Marts,</l>
+               <l>Join Land to Land, and marry Soil to Soil,</l>
+               <l>Unite the Poles, and without bloody Spoil</l>
+               <l>Bring home of either <hi>Ind</hi> the gorgeous Stores;</l>
+               <l>Or, should Despotic Rage the World embroil,</l>
+               <l>Bade Tyrants tremble on remotest Shores,</l>
+               <l>While o'er th'encircling Deep BRITANNIA'S Thunder roars.</l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>The drooping Muses then he westward call'd,</l>
+               <l>From the fam'd City <note place="bottom" n="*">Constantinople.</note> by <hi>Propontis</hi> Sea,</l>
+               <l>What Time the <hi>Turk</hi> th'enfeebled <hi>Grecian</hi> thrall'd;</l>
+               <l>Thence from their cloister'd Walks he set them free,</l>
+               <l>And brought them to another <hi>Castalie:</hi>
+               </l>
+               <l>Where <hi>Isis</hi> many a famous Noursling breeds;</l>
+               <l>Or where old <hi>Cam</hi> soft-paces o'er the Lea,</l>
+               <l>In pensive Mood, and tunes his <hi>Doric</hi> Reeds,</l>
+               <l>The whilst his Flocks at large the lonely Shepherd feeds.</l>
+            </lg>
+            <lg n="22">
+               <pb n="52" facs="54"/>
+               <head>XXII.</head>
+               <l>Yet the fine Arts were what he finish'd least.</l>
+               <l>For why? They are the Quintessence of All,</l>
+               <l>The Growth of labouring Time, and slow increast;</l>
+               <l>Unless, as seldom chances, it should fall,</l>
+               <l>That mighty Patrons the coy Sisters call</l>
+               <l>Up to the Sun-shine of uncumber'd Ease,</l>
+               <l>Where no rude Care the mounting Thought may thrall,</l>
+               <l>And where they nothing have to do but please:</l>
+               <l>Ah, gracious God! thou know'st they ask no other Fees.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>But now, alas! we live too late in Time:</l>
+               <l>Our Patrons now even grudge that little Claim,</l>
+               <l>Except to such as sleek the soothing Rhyme;</l>
+               <l>And yet, forsooth, they wear MAECENAS' Name,</l>
+               <l>Poor Sons of puft-up Vanity, not Fame!</l>
+               <l>Unbroken Spirits, chear! still, still remains</l>
+               <l>Th' <hi>Eternal Patron,</hi> LIBERTY; whose Flame,</l>
+               <l>While she protects, inspires the noblest Strains.</l>
+               <l>The best, and sweetest far, are Toil-created Gains.</l>
+            </lg>
+            <lg n="24">
+               <pb n="53" facs="55"/>
+               <head>XXIV.</head>
+               <l>Whenas the Knight had fram'd, in BRITAIN-LAND,</l>
+               <l>A matchless Form of glorious Government;</l>
+               <l>In which the sovereign Laws alone command,</l>
+               <l>Laws stablish'd by the public free Consent,</l>
+               <l>Whose Majesty is to the Sceptre lent:</l>
+               <l>When this great Plan, with each dependent Art,</l>
+               <l>Was settled firm, and to his Heart's Content,</l>
+               <l>Then sought he from the toilsome Scene to part,</l>
+               <l>And let Life's vacant Eve breathe Quiet through the Heart.</l>
+            </lg>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>For This he chose a Farm in <hi>Deva</hi>'s Vale,</l>
+               <l>Where his long Alleys peep'd upon the Main.</l>
+               <l>In this calm Seat he drew the healthful Gale,</l>
+               <l>Commix'd the Chief, the Patriot, and the Swain,</l>
+               <l>The happy Monarch of his Sylvan Train!</l>
+               <l>Here, sided by the Guardians of the Fold,</l>
+               <l>He walk'd his Rounds, and chear'd his blest Domain;</l>
+               <l>His Days, the Days of unstain'd Nature, roll'd,</l>
+               <l>Replete with Peace and Joy, like Patriarch's of old.</l>
+            </lg>
+            <lg n="26">
+               <pb n="54" facs="56"/>
+               <head>XXVI.</head>
+               <l>Witness, ye lowing Herds, who lent him Milk;</l>
+               <l>Witness, ye Flocks, whose woolly Vestments far</l>
+               <l>Exceed soft <hi>India</hi>'s Cotton, or her Silk;</l>
+               <l>Witness, with Autumn charg'd, the nodding Car,</l>
+               <l>That homeward came beneath sweet Evening's Star,</l>
+               <l>Or of september-Moons the Radiance mild.</l>
+               <l>O hide thy Head, abominable War!</l>
+               <l>Of Crimes and ruffian Idleness the Child!</l>
+               <l>From Heaven this Life ysprung, from Hell thy Glories vild!</l>
+            </lg>
+            <lg n="27">
+               <head>XXVII.</head>
+               <l>Nor, from his deep Retirement, banish'd was</l>
+               <l>Th' amusing Cares of Rural Industry.</l>
+               <l>Still, as with grateful Change the Seasons pass,</l>
+               <l>New Scenes arise, new Landskips strike the Eye,</l>
+               <l>And all th' enliven'd Country beautify:</l>
+               <l>Gay Plains extend where Marshes slept before;</l>
+               <l>O'er recent Meads th' exulting Streamlets fly;</l>
+               <l>Dark frowning Heaths grow bright with Ceres' store,</l>
+               <l>And Woods imbrown the Steep, or wave along the Shore.</l>
+            </lg>
+            <lg n="28">
+               <pb n="55" facs="57"/>
+               <head>XXVIII.</head>
+               <l>As nearer to his Farm you made Approach,</l>
+               <l>He polish'd Nature with a finer Hand:</l>
+               <l>Yet on her Beauties durst not Art incroach;</l>
+               <l>'Tis Art's alone these Beauties to expand.</l>
+               <l>In graceful Dance immingled, o'er the Land,</l>
+               <l>
+                  <hi>Pan, Pales, Flora,</hi> and <hi>Pomona</hi> play'd:</l>
+               <l>Even here, sometimes, the rude wild Common fand</l>
+               <l>An happy Place; where free, and unafraid,</l>
+               <l>Amid the flowering Brakes each coyer Creature stray'd.</l>
+            </lg>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>But in prime Vigour what can last for ay?</l>
+               <l>That soul-enfeebling Wizard INDOLENCE,</l>
+               <l>I whilom sung, wrought in his Works decay:</l>
+               <l>Spred far and wide was his curs'd Influence;</l>
+               <l>Of Public Virtue much he dull'd the Sense,</l>
+               <l>Even much of Private; eat our Spirit out,</l>
+               <l>And fed our rank luxurious Vices: whence</l>
+               <l>The Land was overlaid with many a Lout;</l>
+               <l>Not, as old Fame reports, wise, generous, bold, and stout.</l>
+            </lg>
+            <lg n="30">
+               <pb n="56" facs="58"/>
+               <head>XXX.</head>
+               <l>A Rage of Pleasure madden'd every Breast,</l>
+               <l>Down to the lowest Lees the Ferment ran:</l>
+               <l>To his licentious Wish Each must be blest,</l>
+               <l>With Joy be fever'd; snatch it as he can.</l>
+               <l>Thus <hi>Vice</hi> the Standard rear'd; her Arrier-Ban</l>
+               <l>
+                  <hi>Corruption</hi> call'd, and loud she gave the Word.</l>
+               <l>" Mind, mind yourselves! Why should the vulgar Man,</l>
+               <l>" The Lacquey be more virtuous than his Lord?</l>
+               <l>" Enjoy this Span of Life! 'tis all the Gods afford."</l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>The Tidings reach'd to Where in quiet Hall,</l>
+               <l>The good old Knight enjoy'd well-earn'd Repose.</l>
+               <l>" Come, come, Sir Knight! thy Children on thee call;</l>
+               <l>" Come, save us yet, ere Ruin round us close!</l>
+               <l>" The Demon INDOLENCE thy Toils o'erthrows."</l>
+               <l>On This the noble Colour stain'd his Cheeks,</l>
+               <l>Indignant, glowing through the whitening Snows</l>
+               <l>Of venerable Eld; his Eye full speaks</l>
+               <l>His ardent Soul, and from his Couch at once he breaks.</l>
+            </lg>
+            <lg n="32">
+               <pb n="57" facs="59"/>
+               <head>XXXII.</head>
+               <l>I will, (he cry'd) so help me, God! destroy</l>
+               <l>That Villain Archimage!—His Page then strait</l>
+               <l>He to him call'd, a fiery-footed Boy,</l>
+               <l>Benempt <hi>Dispatch.</hi> "My Steed be at the Gate;</l>
+               <l>" My Bard attend; quick, bring the Net of Fate."</l>
+               <l>This Net was twisted by the Sisters Three;</l>
+               <l>Which when once cast o'er harden'd Wretch, too late</l>
+               <l>Repentance comes: Replevy cannot be</l>
+               <l>From the strong iron Grasp of vengeful Destiny.</l>
+            </lg>
+            <lg n="33">
+               <head>XXXIII.</head>
+               <l>He came, the Bard, a little Druid-Wight,</l>
+               <l>Of wither'd Aspect; but his Eye was keen,</l>
+               <l>With Sweetness mix'd. In Russet brown bedight,</l>
+               <l>As is his Sister of the Copses green,</l>
+               <l>He crept along, unpromising of Mien.</l>
+               <l>Gross he who judges so. His Soul was fair,</l>
+               <l>Bright as the Children of yon Azure sheen.</l>
+               <l>True Comeliness, which nothing can impair,</l>
+               <l>Dwells in the Mind: all else is Vanity and Glare.</l>
+            </lg>
+            <lg n="34">
+               <pb n="58" facs="60"/>
+               <head>XXXIV.</head>
+               <l>Come! (quoth the Knight) a Voice has reach'd mine Ear,</l>
+               <l>The Demon INDOLENCE threats Overthrow</l>
+               <l>To All that to Mankind is good and dear:</l>
+               <l>Come, PHILOMELUS! let us instant go,</l>
+               <l>O'erturn his Bowers, and lay his Castle low!</l>
+               <l>Those Men, those wretched Men! who <hi>will</hi> be Slaves,</l>
+               <l>Must drink a bitter wrathful Cup of Woe:</l>
+               <l>But some there be, thy Song, as from their Graves,</l>
+               <l>Shall raise. Thrice happy he! who without Rigour saves.</l>
+            </lg>
+            <lg n="35">
+               <head>XXXV.</head>
+               <l>Issuing forth, the Knight bestrode his Steed,</l>
+               <l>Of ardent Bay, and on whose Front a Star</l>
+               <l>Shone blazing bright: Sprung from the generous Breed</l>
+               <l>That whirl of active Day the rapid Car,</l>
+               <l>He pranc'd along, disdaining Gate or Bar.</l>
+               <l>Meantime, the Bard on milk-white Palfrey rode;</l>
+               <l>An honest sober Beast, that did not mar</l>
+               <l>His Meditations, but full softly trode:</l>
+               <l>And much they moraliz'd as thus yfere they yode.</l>
+            </lg>
+            <lg n="36">
+               <pb n="59" facs="61"/>
+               <head>XXXVI.</head>
+               <l>They talk'd of Virtue, and of Human Bliss.</l>
+               <l>What else so fit for Man to settle well?</l>
+               <l>And still their long Researches met in This,</l>
+               <l>This <hi>Truth of Truths,</hi> which nothing can refel:</l>
+               <l>" From Virtue's Fount the purest Joys out-well,</l>
+               <l>" Sweet Rills of Thought that chear the conscious Soul;</l>
+               <l>" While Vice pours forth the troubled Streams of Hell,</l>
+               <l>" The which, howe'er disguis'd, at last with Dole</l>
+               <l>" Will through the tortur'd Breast their fiery Torrent roll."</l>
+            </lg>
+            <lg n="37">
+               <head>XXXVII.</head>
+               <l>At length it dawn'd, that fatal Valley gay,</l>
+               <l>O'er which high wood-crown'd Hills their Summits rear.</l>
+               <l>On the cool Height awhile our Palmers stay,</l>
+               <l>And spite even of themselves their Senses chear;</l>
+               <l>Then to the Wizard's Wonne their Steps they steer.</l>
+               <l>Like a green Isle, it broad beneath them spred,</l>
+               <l>With Gardens round, and wandering Currents clear,</l>
+               <l>And tufted Groves to shade the Meadow-Bed,</l>
+               <l>Sweet Airs and Song; and without Hurrry all seem'd glad.</l>
+            </lg>
+            <lg n="38">
+               <pb n="60" facs="62"/>
+               <head>XXXVIII.</head>
+               <l>" As God shall judge me, Knight, we must forgive</l>
+               <l>(The half-enraptur'd PHILOMELUS cry'd)</l>
+               <l>" The frail good Man deluded here to live,</l>
+               <l>" And in these Groves his musing Fancy hide.</l>
+               <l>" Ah, Nought is pure! It cannot be deny'd,</l>
+               <l>" That Virtue still some Tincture has of Vice,</l>
+               <l>" And Vice of Virtue. What should then betide,</l>
+               <l>" But that our Charity be not too nice?</l>
+               <l>" Come, let us Those we can to real Bliss entice.</l>
+            </lg>
+            <lg n="39">
+               <head>XXXIX.</head>
+               <l>" Ay, sicker, (quoth the Knight) all Flesh is frail,</l>
+               <l>" To pleasant Sin and joyous Dalliance bent;</l>
+               <l>" But let not brutish Vice of This avail,</l>
+               <l>" And think to scape deserved Punishment.</l>
+               <l>" <hi>Justice</hi> were cruel weakly to relent;</l>
+               <l>" From <hi>Mercy</hi>'s Self she got her sacred Glaive:</l>
+               <l>" Grace be to Those who can, and will, repent;</l>
+               <l>" But Penance long, and dreary, to the Slave,</l>
+               <l>" Who must in Floods of Fire his gross foul Spirit lave.</l>
+            </lg>
+            <lg n="40">
+               <pb n="61" facs="63"/>
+               <head>XL.</head>
+               <l>Thus, holding high Discourse, they came to Where</l>
+               <l>The cursed Carle was at his wonted Trade;</l>
+               <l>Still tempting heedless Men into his Snare,</l>
+               <l>In witching Wise, as I before have said.</l>
+               <l>But when he saw, in goodly Geer array'd,</l>
+               <l>The grave majestic Knight approaching nigh,</l>
+               <l>And by his Side the Bard so sage and staid,</l>
+               <l>His Countenance fell; yet ost his anxious Eye</l>
+               <l>Mark'd them, like wily Fox who roosted Cock doth spy.</l>
+            </lg>
+            <lg n="41">
+               <head>XLI.</head>
+               <l>Nathless, with feign'd Respect, he bade give back</l>
+               <l>The Rabble-Rout, and welcom'd them full kind;</l>
+               <l>Struck with the noble Twain, they were not slack</l>
+               <l>His Orders to obey, and fall behind.</l>
+               <l>Then he resum'd his Song; and, unconfin'd,</l>
+               <l>Pour'd all his Music, ran through all his Strings:</l>
+               <l>With magic Dust their Eyne he tries to blind,</l>
+               <l>And Virtue's tender Airs o'er Weakness flings.</l>
+               <l>What Pity base his Song who so divinely sings▪</l>
+            </lg>
+            <lg n="42">
+               <pb n="62" facs="64"/>
+               <head>XLII.</head>
+               <l>Elate in Thought, he counted them his own,</l>
+               <l>They listen'd so intent with fix'd Delight:</l>
+               <l>But they instead, as if transmew'd to Stone,</l>
+               <l>Marvel'd he could, with such sweet Art, unite</l>
+               <l>The Lights and Shades of Manners, Wrong and Right.</l>
+               <l>Mean time, the silly Croud the Charm devour,</l>
+               <l>Wide-pressing to the Gate. Swift, on the Knight</l>
+               <l>He darted fierce, to drag him to his Bower,</l>
+               <l>Who backning shun'd his Touch, for well he knew its Power.</l>
+            </lg>
+            <lg n="43">
+               <head>XLIII.</head>
+               <l>As in throng'd Amphitheatre, of old,</l>
+               <l>The wary <note place="bottom" n="*">A Gladiator, who made use of a Net, which he threw over his Adversary.</note> 
+                  <hi>Retiarius</hi> trap'd his Foe;</l>
+               <l>Even so the Knight, returning on him bold,</l>
+               <l>At once involv'd him in the <hi>Net of Woe,</hi>
+               </l>
+               <l>Whereof I Mention made not long ago.</l>
+               <l>Inrag'd at first, he scorn'd so weak a Jail,</l>
+               <l>And leap'd, and flew, and flounced to and fro;</l>
+               <l>But when he found that nothing could avail,</l>
+               <l>He sat him felly down and gnaw'd his bitter Nail.</l>
+            </lg>
+            <lg n="44">
+               <pb n="63" facs="65"/>
+               <head>XLIV.</head>
+               <l>Alarm'd, th' inferior Demons of the Place</l>
+               <l>Rais'd rueful Shrieks and hideous Yells around;</l>
+               <l>Black ruptur'd Clouds deform'd the Welkin's Face,</l>
+               <l>And from beneath was heard a wailing Sound,</l>
+               <l>As of Infernal Sprights in Cavern bound;</l>
+               <l>A solemn Sadness every Creature strook,</l>
+               <l>And Lightnings flash'd, and Horror rock'd the Ground:</l>
+               <l>Huge Crouds on Crouds out-pour'd, with blemish'd Look,</l>
+               <l>As if on Time's last Verge this Frame of Things had shook.</l>
+            </lg>
+            <lg n="45">
+               <head>XLV.</head>
+               <l>Soon as the short-liv'd Tempest was yspent,</l>
+               <l>Steam'd from the Jaws of vext Avernus' Hole,</l>
+               <l>And hush'd the Hubbub of the Rabblement,</l>
+               <l>SIR INDUSTRY the first calm Moment stole.</l>
+               <l>" There must, (he cry'd) amid so vast a Shoal,</l>
+               <l>" Be Some who are not tainted at the Heart,</l>
+               <l>" Not poison'd quite by this same Villain's Bowl:</l>
+               <l>" Come then, my Bard, thy heavenly Fire impart;</l>
+               <l>" Touch Soul with Soul, till forth the latent Spirit start.</l>
+            </lg>
+            <lg n="46">
+               <pb n="64" facs="66"/>
+               <head>XLVI.</head>
+               <l>The Bard obey'd; and taking from his Side,</l>
+               <l>Where it in seemly Sort depending hung,</l>
+               <l>His <hi>British</hi> Harp, its speaking Strings he try'd,</l>
+               <l>The which with skilful Touch he deffly strung,</l>
+               <l>Till tinkling in clear Symphony they rung.</l>
+               <l>Then, as he felt the Muses come along,</l>
+               <l>Light o'er the Chords his raptur'd Hand he flung,</l>
+               <l>And play'd a Prelude to his rising Song:</l>
+               <l>The whilst, like Midnightmute, ten Thousands round him throng.</l>
+            </lg>
+            <lg n="47">
+               <head>XLVII.</head>
+               <l>Thus, ardent, burst his Strain.</l>
+               <l>" Ye hapless Race,</l>
+               <l>" Dire-labouring here to smother Reason's Ray,</l>
+               <l>" That lights our Maker's Image in our Face,</l>
+               <l>" And gives us wide o'er Earth unquestion'd Sway;</l>
+               <l>" What is TH' ADOR'd SUPREME PERFECTION, say?</l>
+               <l>" What, but eternal never-resting Soul,</l>
+               <l>" Almighty Power, and all-directing Day;</l>
+               <l>" By whom each Atom stirs, the Planets roll;</l>
+               <l>" Who fills, surrounds, informs, and agitates the Whole?</l>
+            </lg>
+            <lg n="48">
+               <pb n="65" facs="67"/>
+               <head>XLVIII.</head>
+               <l>" Come, to the beaming GOD your Hearts unfold!</l>
+               <l>" Draw from its Fountain Life! 'Tis thence, alone,</l>
+               <l>" We can excel. Up from unfeeling Mold,</l>
+               <l>" To Seraphs burning round th'ALMIGHTY'S Throne,</l>
+               <l>" Life rising still on Life, in higher Tone,</l>
+               <l>" Perfection forms, and with Perfection Bliss.</l>
+               <l>" In Universal Nature This clear shewn,</l>
+               <l>" Not needeth Proof: To prove it were, I wis,</l>
+               <l>" To prove the beauteous World excels the brute Abyss.</l>
+            </lg>
+            <lg n="49">
+               <head>XLIX.</head>
+               <l>" Is not the Field, with lively Culture green,</l>
+               <l>" A Sight more joyous than the dead Morass?</l>
+               <l>" Do not the Skies, with active Ether clean,</l>
+               <l>" And fan'd by sprightly Zephirs, far surpass</l>
+               <l>" The foul November-Fogs, and slumbrous Mass,</l>
+               <l>" With which sad Nature veils her drooping Face?</l>
+               <l>" Does not the Mountain-Stream, as clear as Glass,</l>
+               <l>" Gay-dancing on, the putrid Pool disgrace?</l>
+               <l>" The same in All holds true, but chief in Human Race.</l>
+            </lg>
+            <lg n="50">
+               <pb n="66" facs="68"/>
+               <head>L.</head>
+               <l>" It was not by vile Loitering in Ease,</l>
+               <l>" That GREECE obtain'd the brighter Palm of Art,</l>
+               <l>" That soft yet ardent ATHENS learn'd to please,</l>
+               <l>" To keen the Wit, and to sublime the Heart,</l>
+               <l>" In all supreme! compleat in every Part!</l>
+               <l>" It was not thence majestic ROME arose,</l>
+               <l>" And o'er the Nations shook her conquering Dart:</l>
+               <l>" For Sluggard's Brow the Laurel never grows;</l>
+               <l>" Renown is not the Child of indolent Repose.</l>
+            </lg>
+            <lg n="51">
+               <head>LI.</head>
+               <l>" Had unambitious Mortals minded Nought,</l>
+               <l>" But in loose Joy their Time to wear away;</l>
+               <l>" Had they alone the Lap of Dalliance sought,</l>
+               <l>" Pleas'd on her Pillow their dull Heads to lay:</l>
+               <l>" Rude Nature's State had been our State To-day;</l>
+               <l>" No Cities e'er their towery Fronts had rais'd,</l>
+               <l>" No Arts had made us opulent and gay;</l>
+               <l>" With Brother-Brutes the Human Race had graz'd;</l>
+               <l>" None e'er had soar'd to Fame, None honour'd been, None prais'd.</l>
+            </lg>
+            <lg n="52">
+               <pb n="67" facs="69"/>
+               <head>LII.</head>
+               <l>" Great HOMER'S Song had never fir'd the Breast,</l>
+               <l>" To Thirst of Glory, and heroic Deeds;</l>
+               <l>" Sweet MARO'S Muse, sunk in inglorious Rest,</l>
+               <l>" Had silent slept amid the <hi>Mincian</hi> Reeds:</l>
+               <l>" The Wits of modern Time had told their Beads,</l>
+               <l>" And monkish Legends been their only Strains;</l>
+               <l>" Our MILTON<hi>'s Eden</hi> had lain wrapt in Weeds,</l>
+               <l>" Our SHAKESPEAR stroll'd and laugh'd with <hi>Warwick</hi> Swains,</l>
+               <l>" Ne had my Master SPENSER charm'd his <hi>Mulla</hi>'s Plains.</l>
+            </lg>
+            <lg n="53">
+               <head>LIII.</head>
+               <l>" Dumb too had been the sage Historic Muse,</l>
+               <l>" And perish'd all the Sons of antient Fame;</l>
+               <l>" Those starry Lights of Virtue, that diffuse</l>
+               <l>" Through the dark Depth of Time their vivid Flame,</l>
+               <l>" Had All been lost with Such as have no Name.</l>
+               <l>" Who then had scorn'd his Ease for others' Good?</l>
+               <l>" Who then had toil'd rapacious Men to tame?</l>
+               <l>" Who in the Public Breach devoted stood,</l>
+               <l>" And for his Country's Cause been prodigal of Blood?</l>
+            </lg>
+            <lg n="54">
+               <pb n="68" facs="70"/>
+               <head>LIV.</head>
+               <l>" But should to Fame your Hearts impervious be,</l>
+               <l>" If right I read, you Pleasure All require:</l>
+               <l>" Then hear how best may be obtain'd this Fee,</l>
+               <l>" How best enjoy'd this Nature's wide Desire.</l>
+               <l>" Toil, and be glad! Let Industry inspire</l>
+               <l>" Into your quicken'd Limbs her buoyant Breath!</l>
+               <l>" Who does not act is dead; absorpt intire</l>
+               <l>" In miry Sloth, no Pride no Joy he hath:</l>
+               <l>" O Leaden-hearted Men, to be in Love with Death!</l>
+            </lg>
+            <lg n="55">
+               <head>LV.</head>
+               <l>" Better the toiling Swain, oh happier far!</l>
+               <l>" Perhaps the happiest of the Sons of Men!</l>
+               <l>" Who vigorous plies the Plough, the Team, or Car;</l>
+               <l>" Who houghs the Field, or ditches in the Glen,</l>
+               <l>" Delves in his Garden, or secures his Pen:</l>
+               <l>" The Tooth of Avarice poisons not his Peace;</l>
+               <l>" He tosses not in Sloth's abhorred Den;</l>
+               <l>" From Vanity he has a full Release;</l>
+               <l>" And, rich in Nature's Wealth, he thinks not of Increase.</l>
+            </lg>
+            <lg n="56">
+               <pb n="69" facs="71"/>
+               <head>LVI.</head>
+               <l>" Good Lord! how keen are his Sensations all!</l>
+               <l>" His Bread is sweeter than the Glutton's Cates;</l>
+               <l>" The Wines of <hi>France</hi> upon the Palate pall,</l>
+               <l>" Compar'd with What his simple Soul elates,</l>
+               <l>" The native Cup whose Flavour Thirst creates;</l>
+               <l>" At one deep Draught of Sleep he takes the Night;</l>
+               <l>" And for that Heart-felt Joy which Nothing mates,</l>
+               <l>" Of the pure nuptial Bed the chaste Delight,</l>
+               <l>" The Losel is to him a miserable Wight.</l>
+            </lg>
+            <lg n="57">
+               <head>LVII.</head>
+               <l>" But what avail the largest Gifts of HEAVEN,</l>
+               <l>" When sickening Health and Spirits go amiss?</l>
+               <l>" How tasteless then Whatever can be given?</l>
+               <l>" Health is the vital Principle of Bliss,</l>
+               <l>" And Exercise of Health. In Proof of This,</l>
+               <l>" Behold the Wretch, who slugs his Life away,</l>
+               <l>" Soon swallow'd in Disease's sad Abyss;</l>
+               <l>" While he whom Toil has brac'd, or manly Play,</l>
+               <l>" Has light as Air each Limb, each Thought as clear as Day.</l>
+            </lg>
+            <lg n="58">
+               <pb n="70" facs="72"/>
+               <head>LVIII.</head>
+               <l>" O who can speak the vigorous Joys of Health!</l>
+               <l>" Unclogg'd the Body, unobscur'd the Mind:</l>
+               <l>" The Morning raises gay; with pleasing Stealth,</l>
+               <l>" The temperate Evening falls serene and kind.</l>
+               <l>" In Health the wiser Brutes true Gladness find.</l>
+               <l>" See! how the Younglings frisk along the Meads,</l>
+               <l>" As May comes on, and wakes the balmy Wind;</l>
+               <l>" Rampant with Life, their Joy all Joy exceeds:</l>
+               <l>" Yet what save high-strung Health this dancing Pleasaunce breeds?</l>
+            </lg>
+            <lg n="59">
+               <head>LIX.</head>
+               <l>" But here, instead, is foster'd every Ill,</l>
+               <l>" Which or distemper'd Minds or Bodies know.</l>
+               <l>" Come then, my kindred Spirits! do not spill</l>
+               <l>" Your Talents here. This Place is but a Shew,</l>
+               <l>" Whose Charms delude you to the Den of Woe:</l>
+               <l>" Come, follow me, I will direct you right,</l>
+               <l>" Where Pleasure's Roses, void of Serpents, grow,</l>
+               <l>" Sincere as sweet; come, follow this good Knight,</l>
+               <l>" And you will bless the Day that brought him to your Sight.</l>
+            </lg>
+            <lg n="60">
+               <pb n="71" facs="73"/>
+               <head>LX.</head>
+               <l>" Some he will lead to Courts, and Some to Camps;</l>
+               <l>" To Senates Some, and public sage Debates,</l>
+               <l>" Where, by the solemn Gleam of Midnight-Lamps,</l>
+               <l>" The World is pois'd, and manag'd mighty States;</l>
+               <l>" To high Discovery Some, that new-creates</l>
+               <l>" The Face of Earth; Some to the thriving Mart;</l>
+               <l>" Some to the Rural Reign, and softer Fates;</l>
+               <l>" To the sweet Muses Some, who raise the Heart:</l>
+               <l>" All Glory shall be yours, all Nature, and all Art!</l>
+            </lg>
+            <lg n="61">
+               <head>LXI.</head>
+               <l>" There are, I see, who listen to my Lay,</l>
+               <l>" Who wretched sigh for Virtue, but despair.</l>
+               <l>" All may be done, (methinks I hear them say)</l>
+               <l>" Even Death despis'd by generous Actions fair;</l>
+               <l>" All, but for Those who to these Bowers repair,</l>
+               <l>" Their every Power dissolv'd in Luxury,</l>
+               <l>" To quit of torpid Sluggishness the Lair,</l>
+               <l>" And from the powerful Arms of Sloth get free.</l>
+               <l>" 'Tis rising from the Dead—Alas!—It cannot be!</l>
+            </lg>
+            <lg n="62">
+               <pb n="72" facs="74"/>
+               <head>LXII.</head>
+               <l>" Would you then learn to dissipate the Band</l>
+               <l>" Of these huge threatning Difficulties dire,</l>
+               <l>" That in the weak Man's Way like Lions stand,</l>
+               <l>" His Soul appall, and damp his rising Fire?</l>
+               <l>" Resolve! resolve! and to be Men aspire!</l>
+               <l>" Exert that noblest Priviledge, alone,</l>
+               <l>" Here to Mankind indulg'd: controul Desire;</l>
+               <l>" Let Godlike Reason, from her sovereign Throne,</l>
+               <l>" Speak the commanding Word—<hi>I will!</hi>—and it is done.</l>
+            </lg>
+            <lg n="63">
+               <head>LXIII.</head>
+               <l>" Heavens! can you then thus waste, in shameful wise,</l>
+               <l>" Your few important Days of Tryal here?</l>
+               <l>" Heirs of Eternity! yborn to rise</l>
+               <l>" Through endless States of Being, still more near</l>
+               <l>" To Bliss approaching, and Perfection clear,</l>
+               <l>" Can you renounce a Fortune so sublime,</l>
+               <l>" Such glorious Hopes, your backward Steps to steer,</l>
+               <l>" And roll, with vilest Brutes, through Mud and Slime?</l>
+               <l>" No! No!—Your Heaven-touch'd Hearts disdain the piteous Crime!"</l>
+            </lg>
+            <lg n="64">
+               <pb n="73" facs="75"/>
+               <head>LXIV.</head>
+               <l>" Enough! enough! they cry'd"—Strait, from the Croud,</l>
+               <l>The better Sort on Wings of Transport fly.</l>
+               <l>As when amid the lifeless Summits proud</l>
+               <l>Of <hi>Alpine</hi> Cliffs, where to the gelid Sky</l>
+               <l>Snows pil'd on Snows in wintry Torpor lie,</l>
+               <l>The Rays divine of vernal <hi>Phaebus</hi> play;</l>
+               <l>Th' awaken'd Heaps, in Streamlets from on high,</l>
+               <l>Rous'd into Action, lively leap away,</l>
+               <l>Glad-warbling through the Vales, in their new Being gay.</l>
+            </lg>
+            <lg n="65">
+               <head>LXV.</head>
+               <l>Not less the Life, the vivid Joy serene,</l>
+               <l>That lighted up these new-created Men,</l>
+               <l>Than That which wings th'exulting Spirit clean,</l>
+               <l>When, just deliver'd from this fleshly Den,</l>
+               <l>It soaring seeks its native Skies agen.</l>
+               <l>How light its Essence! how unclogg'd its Powers!</l>
+               <l>Beyond the Blazon of my mortal Pen:</l>
+               <l>Even so we glad forsook these sinful Bowers,</l>
+               <l>Even such enraptur'd Life, such Energy was ours.</l>
+            </lg>
+            <lg n="66">
+               <pb n="74" facs="76"/>
+               <head>LXVI.</head>
+               <l>But far the greater Part, with Rage inflam'd,</l>
+               <l>Dire-mutter'd Curses, and blasphem'd high Jove.</l>
+               <l>" Ye Sons of Hate! (They bitterly exclaim'd)</l>
+               <l>" What brought you to this Seat of Peace and Love?</l>
+               <l>" While with kind Nature, here amid the Grove,</l>
+               <l>" We pass'd the harmless Sabbath of our Time,</l>
+               <l>" What to disturb it could, fell Men, emove</l>
+               <l>" Your barbarous Hearts? Is Happiness a Crime?</l>
+               <l>" Then do the Fiends of Hell rule in yon Heaven sublime.</l>
+            </lg>
+            <lg n="67">
+               <head>LXVII.</head>
+               <l>" Ye impious Wretches! (quoth the Knight in Wrath)</l>
+               <l>" Your Happiness behold!"—Then strait a Wand</l>
+               <l>He wav'd, an anti-magic Power that hath,</l>
+               <l>Truth from illusive Falshood to command.</l>
+               <l>Sudden, the Landskip sinks on every Hand;</l>
+               <l>The pure quick Streams are marshy Puddles found;</l>
+               <l>On baleful Heaths the Groves all blacken'd stand;</l>
+               <l>And, o'er the weedy foul abhorred Ground,</l>
+               <l>Snakes, Adders, Toads, each loathly Creature crawls around.</l>
+            </lg>
+            <lg n="68">
+               <pb n="75" facs="77"/>
+               <head>LXVIII.</head>
+               <l>And here and there, on Trees by Lightning scath'd,</l>
+               <l>Unhappy Wights who loathed Life yhung;</l>
+               <l>Or, in fresh Gore and recent Murder bath'd,</l>
+               <l>They weltering lay; or else, infuriate flung</l>
+               <l>Into the gloomy Flood, while Ravens sung</l>
+               <l>The funeral Dirge, they down the Torrent rowl'd:</l>
+               <l>These, by distemper'd Blood to Madness stung,</l>
+               <l>Had doom'd themselves; whence oft, when Night controul'd</l>
+               <l>The World, returning hither their sad Spirits howl'd.</l>
+            </lg>
+            <lg n="69">
+               <head>LXIX.</head>
+               <l>Meantime a moving Scene was open laid.</l>
+               <l>That Lazar-House, I whilom in my Lay</l>
+               <l>Depeinten have, its Horrors deep-display'd,</l>
+               <l>And gave unnumber'd Wretches to the Day,</l>
+               <l>Who tossing there in squalid Misery lay.</l>
+               <l>Soon as of sacred Light th' unwonted Smile</l>
+               <l>Pour'd on these living Catacombs its Ray,</l>
+               <l>Through the drear Caverns stretching many a Mile,</l>
+               <l>The Sick up-rais'd their Heads, and dropp'd their Woes awhile.</l>
+            </lg>
+            <lg n="70">
+               <pb n="76" facs="78"/>
+               <head>LXX.</head>
+               <l>" O Heaven! (they cry'd) and do we once more see</l>
+               <l>" Yon blessed Sun, and this green Earth so fair?</l>
+               <l>" Are we from noisome Damps of Pest-House free?</l>
+               <l>" And drink our Souls the sweet ethereal Air?</l>
+               <l>" O Thou! or Knight, or God! who holdest there</l>
+               <l>" That Fiend, oh keep him in eternal Chains!</l>
+               <l>" But what for us, the Children of Despair,</l>
+               <l>" Brought to the Brink of Hell, what Hope remains?</l>
+               <l>" Repentance does itself but aggravate our Pains."</l>
+            </lg>
+            <lg n="71">
+               <head>LXXI.</head>
+               <l>The gentle Knight, who saw their rueful Case,</l>
+               <l>Let fall adown his silver Beard some Tears.</l>
+               <l>" Certes (quoth he) it is not even in Grace,</l>
+               <l>" T' undo the Past, and eke your broken Years:</l>
+               <l>" Nathless, to nobler Worlds Repentance rears,</l>
+               <l>" With humble Hope, her Eye; to Her is given</l>
+               <l>" A Power the truly contrite Heart that chears;</l>
+               <l>" She quells the Brand by which the Rocks are riven;</l>
+               <l>" She more than merely softens, she rejoices HEAVEN.</l>
+            </lg>
+            <lg n="72">
+               <pb n="77" facs="79"/>
+               <head>LXXII.</head>
+               <l>" Then patient bear the Sufferings you have earn'd,</l>
+               <l>" And by these Sufferings purify the Mind;</l>
+               <l>" Let Wisdom be by past Misconduct learn'd:</l>
+               <l>" Or pious die, with Penitence resign'd;</l>
+               <l>" And to a Life more happy and refin'd,</l>
+               <l>" Doubt not, you shall, new Creatures, yet arise.</l>
+               <l>" Till Then, you may expect in me to find</l>
+               <l>" One who will wipe your Sorrow from your Eyes,</l>
+               <l>" One who will soothe your Pangs, and wing you to the Skies."</l>
+            </lg>
+            <lg n="73">
+               <head>LXXIII.</head>
+               <l>They silent heard, and pour'd their Thanks in Tears.</l>
+               <l>" For you (resum'd the Knight with sterner Tone)</l>
+               <l>" Whose hard dry Hearts th' obdurate Demon sears,</l>
+               <l>" That Villain's Gifts will cost you many a Groan;</l>
+               <l>" In dolorous Mansion long you must bemoan</l>
+               <l>" His fatal Charms, and weep your Stains away;</l>
+               <l>" Till, soft and pure as Infant-Goodness grown,</l>
+               <l>" You feel a perfect Change: then, who can say,</l>
+               <l>" What Grace may yet shine forth in Heaven's eternal Day?"</l>
+            </lg>
+            <lg n="74">
+               <pb n="78" facs="80"/>
+               <head>LXXIV.</head>
+               <l>This said, his powerful Wand he wav'd anew:</l>
+               <l>Instant, a glorious Angel-Train descends,</l>
+               <l>The Charities, to-wit, of rosy Hue;</l>
+               <l>Sweet Love their Looks a gentle Radiance lends,</l>
+               <l>And with seraphic Flame Compassion blends.</l>
+               <l>At once, delighted, to their Charge they fly:</l>
+               <l>When lo! a goodly Hospital ascends;</l>
+               <l>In which they bade each human Aid be nigh,</l>
+               <l>That could the Sick-Bed smoothe of that unhappy Fry.</l>
+            </lg>
+            <lg n="75">
+               <head>LXXV.</head>
+               <l>It was a worthy edifying Sight,</l>
+               <l>And gives to Human-Kind <hi>peculiar</hi> Grace,</l>
+               <l>To see kind Hands attending Day and Night,</l>
+               <l>With tender Ministry, from Place to Place.</l>
+               <l>Some prop the Head; some, from the pallid Face,</l>
+               <l>Wipe off the faint cold Dews weak Nature sheds;</l>
+               <l>Some reach the healing Draught: the whilst, to chase</l>
+               <l>The Fear supreme, around their soften'd Beds,</l>
+               <l>Some holy Man by Prayer all opening Heaven dispreds.</l>
+            </lg>
+            <lg n="76">
+               <pb n="79" facs="81"/>
+               <head>LXXVI.</head>
+               <l>Attended by a glad acclaiming Train,</l>
+               <l>Of those he rescu'd had from gaping Hell,</l>
+               <l>Then turn'd the Knight; and, to his Hall again</l>
+               <l>Soft-pacing, sought of Peace the mossy Cell:</l>
+               <l>Yet down his Cheeks the Gems of Pity fell,</l>
+               <l>To see the helpless Wretches that remain'd,</l>
+               <l>There left through Delves and Deserts dire to yell;</l>
+               <l>Amaz'd, their Looks with pale Dismay were stain'd,</l>
+               <l>And spreading wide their Hands they meek Repentance feign'd.</l>
+            </lg>
+            <lg n="77">
+               <head>LXXVII.</head>
+               <l>But ah! their scorned Day of Grace was past:</l>
+               <l>For (Horrible to tell!) a Desert wild</l>
+               <l>Before them stretch'd, bare, comfortless, and vast;</l>
+               <l>With Gibbets, Bones, and Carcases defil'd.</l>
+               <l>There nor trim Field, nor lively Culture smil'd;</l>
+               <l>Nor waving Shade was seen, nor Fountain fair;</l>
+               <l>But Sands abrupt on Sands lay loosely pil'd,</l>
+               <l>Through which they floundering toil'd with painful Care,</l>
+               <l>Whilst <hi>Phaebus</hi> smote them sore, and fir'd the cloudless Air.</l>
+            </lg>
+            <lg n="78">
+               <pb n="80" facs="82"/>
+               <head>LXXVIII.</head>
+               <l>Then, varying to a joyless Land of Bogs,</l>
+               <l>The sadden'd Country a grey Waste appear'd;</l>
+               <l>Where Nought but putrid Steams and noisome Fogs</l>
+               <l>For ever hung on drizzly <hi>Auster</hi>'s Beard;</l>
+               <l>Or else the Ground by piercing <hi>Caurus</hi> sear'd,</l>
+               <l>Was jagg'd with Frost, or heap'd with glazed Snow:</l>
+               <l>Through these Extremes a ceaseless Round they steer'd,</l>
+               <l>By cruel Fiends still hurry'd to and fro,</l>
+               <l>Gaunt <hi>Beggary,</hi> and <hi>Scorn,</hi> with many Hell-Hounds moe.</l>
+            </lg>
+            <lg n="79">
+               <head>LXXIX.</head>
+               <l>The First was with base dunghill Rags yclad,</l>
+               <l>Tainting the Gale, in which they flutter'd light;</l>
+               <l>Of morbid Hue his Features, sunk, and sad;</l>
+               <l>His hollow Eyne shook forth a sickly Light;</l>
+               <l>And o'er his lank Jaw-Bone, in piteous Plight,</l>
+               <l>His black rough Beard was matted rank and vile;</l>
+               <l>Direful to see! an Heart-appalling Sight!</l>
+               <l>Meantime foul Scurf and Blotches him defile;</l>
+               <l>And Dogs, where-e'er he went, still barked all the While.</l>
+            </lg>
+            <lg n="80">
+               <pb n="81" facs="83"/>
+               <head>LXXX.</head>
+               <l>The other was a fell despightful Fiend:</l>
+               <l>Hell holds none worse in baleful Bower below;</l>
+               <l>By Pride, and Wit, and Rage, and Rancour, keen'd;</l>
+               <l>Of Man alike, if good or bad, the Foe:</l>
+               <l>With Nose up-turn'd, he always made a Shew</l>
+               <l>As if he smelt some nauseous Scent; his Eye</l>
+               <l>Was cold, and keen, like Blast from boreal Snow;</l>
+               <l>And Taunts he casten forth most bitterly.</l>
+               <l>Such were the Twain that off drove this ungodly Fry.</l>
+            </lg>
+            <lg n="81">
+               <head>LXXXI.</head>
+               <l>Even so through <hi>Brentford</hi> Town, a Town of Mud,</l>
+               <l>An Herd of brisly Swine is prick'd along;</l>
+               <l>The filthy Beasts, that never chew the Cud,</l>
+               <l>Still grunt, and squeak, and sing their troublous Song,</l>
+               <l>And oft they plunge themselves the Mire among:</l>
+               <l>But ay the ruthless Driver goads them on,</l>
+               <l>And ay of barking Dogs the bitter Throng</l>
+               <l>Makes them renew their unmelodious Moan;</l>
+               <l>Ne ever find they Rest from their unresting Fone.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="noticeregardingdiction">
+            <pb facs="84"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THIS Poem being writ in the Manner of <hi>Spenser,</hi> the obsolete Words, and a Simplicity of Diction in some of the Lines, which borders on the Ludicrous, were necessary to make the Imitation more perfect. And the Stile of that admirable Poet, as well as the Measure in which he wrote, are as it were ap<lb rend="hidden" type="hyphenInWord"/>propriated by Custom to all Allegorical Poems writ in our Lan<lb rend="hidden" type="hyphenInWord"/>guage; just as in French the Stile of <hi>Marot</hi> who lived under <hi>Francis I.</hi> has been used in Tales, and familiar Epistles, by the politest Writers of the Age of <hi>Louis XIV.</hi>
+            </p>
+         </div>
+         <div type="glossary">
+            <pb facs="85"/>
+            <head>EXPLANATION of the obsolete Words used in this POEM.</head>
+            <list>
+               <item>
+                  <hi>ARchimage</hi>—The chief, or greatest of Magicians or Enchanters.</item>
+               <item>
+                  <hi>Atween</hi>—between.</item>
+               <item>
+                  <hi>Bale</hi>—Sorrow, Trouble, Misfortune.</item>
+               <item>
+                  <hi>Benempt</hi>—named.</item>
+               <item>
+                  <hi>Blazon</hi>—Painting, Displaying.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Carol</hi>—to sing Songs of Joy.</item>
+               <item>
+                  <hi>Certes</hi>—certainly.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Eath</hi>—easy.</item>
+               <item>
+                  <hi>Estsoons</hi>—immediately, often, afterwards.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Gear</hi> or <hi>Geer</hi>—Furniture, Equipage, Dress.</item>
+               <item>
+                  <hi>Glaive</hi>—Sword. (<hi>Fr.</hi>)</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Han</hi>—have.</item>
+               <item>
+                  <hi>Hight</hi>—is named, called.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Idless</hi>—Idleness.</item>
+               <item>
+                  <hi>Imp</hi>—Child, or Offspring; from the <hi>Saxon</hi> Impan, to graft or plant.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Kest</hi>—for cast.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Lad</hi>—for led.</item>
+               <item>
+                  <hi>Lea</hi>—a Piece of Land, or Meadow.</item>
+               <item>
+                  <hi>Libbard</hi>—Leopard.</item>
+               <item>
+                  <hi>Lig</hi>—to lie.</item>
+               <item>
+                  <hi>Losel</hi>—a loose idle Fellow.</item>
+               <item>
+                  <hi>Louting</hi>—Bowing, Bending.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Mell</hi>—mingle.</item>
+               <item>
+                  <hi>Moe</hi>—more.</item>
+               <item>
+                  <hi>Moil</hi>—to labour.</item>
+               <item>
+                  <hi>Muchel</hi> or <hi>Mochel</hi>—much, great.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Nathless</hi>—nevertheless.</item>
+               <item>
+                  <hi>Ne</hi>—nor.</item>
+               <item>
+                  <hi>Needments</hi>—Necessaries.</item>
+               <item>
+                  <hi>Noursling</hi>—a Nurse, or what is nursed.</item>
+               <item>
+                  <hi>Noyance</hi>—Harm.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Perdie</hi>—(<hi>Fr.</hi> par Dieu) an old Oath.</item>
+               <item>
+                  <hi>Prick'd thro' the Forest</hi>—rode thro' the Forest.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Sear</hi>—dry, burnt-up.</item>
+               <item>
+                  <hi>Sheen</hi>—bright, shining.</item>
+               <item>
+                  <hi>Sicker</hi>—sure, surely.</item>
+               <item>
+                  <hi>Soot</hi>—Sweet, or sweetly.</item>
+               <item>
+                  <hi>Sooth</hi>—true, or Truth.</item>
+               <item>
+                  <hi>Stound</hi>—Misfortune, Pang.</item>
+               <item>
+                  <hi>Sweltry</hi>—Sultry, consuming with Heat.</item>
+               <item>
+                  <hi>Swink</hi>—to labour.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Transmew'd</hi>—transform'd.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Vild</hi>—vile.</item>
+               <item>
+                  <hi>Unkempt</hi>—(<hi>Lat.</hi> incomptus) unadorn'd.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Whilom</hi>—ere-while, formerly.</item>
+               <item>
+                  <hi>Wis, for Wist</hi>—to know, think, under<lb rend="hidden" type="hyphenInWord"/>stand.</item>
+               <item>
+                  <hi>Ween</hi>—to think, be of Opinion.</item>
+               <item>
+                  <hi>Weet</hi>—to know; to weet, to wit.</item>
+               <item>
+                  <hi>Woonne</hi>—(<hi>a Noun</hi>) Dwelling.</item>
+            </list>
+            <p>
+               <hi>N. B.</hi> The Letter <hi>Y</hi> is frequently placed <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> the Beginning of a Word, by <hi>Spenser,</hi> 
+               <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> lengthen it a Syllable.</p>
+            <list>
+               <item>
+                  <hi>Yborn</hi>—born.</item>
+               <item>
+                  <hi>Yblent,</hi> or <hi>blent</hi>—blended, mingled.</item>
+               <item>
+                  <hi>Yclad</hi>—clad.</item>
+               <item>
+                  <hi>Ycleped</hi>—called, named.</item>
+               <item>
+                  <hi>Yfere</hi>—together.</item>
+               <item>
+                  <hi>Ymolten</hi>—melted.</item>
+               <item>
+                  <hi>Yode</hi>—(Preter Tense of <hi>Yede</hi>) <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

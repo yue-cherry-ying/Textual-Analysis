@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verses upon the late D----ss of M----: By Mr. P------.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023201.000</idno>
+            <idno type="docno">CW3313385661</idno>
+            <idno type="ecll">0583700700</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Verses upon the late D----ss of M----: By Mr. P------.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>5,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for W. Webb,</publisher>
+                  <date>1746.</date>
+                  <idno type="TCP">K023201.000</idno>
+                  <idno type="docno">CW3313385661</idno>
+                  <idno type="ecll">0583700700</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mr. P------ = Alexander Pope.</note>
+                  <note>A suppressed passage from Pope's 'Of the characters of women', probably referring to Katherine, Duchess of Buckingham, rather than to Sarah, Duchess of Marlborough.</note>
+                  <note>In this impression "Spacing of 11 and 13.5 mm. between V, E, R on p.3" (Foxon).</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P.986</note>
+                  <note>Griffith, 613</note>
+                  <note>English Short Title Catalog, ESTCT5762.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>VERSES Upon the Late D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>ss of <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>.</hi>
+            </p>
+            <p>By Mr. <hi>P<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>.</hi>
+            </p>
+            <p>
+               <figure rend="block"/>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for W. WEBB, near St. <hi>Paul</hi>'s, 1746. (Price Sixpence.)</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="2"/>
+         <head>VERSES Upon the Late D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>ss of <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>.</hi>
+         </head>
+         <lg>
+            <l>BUT what are these to great <hi>Atossa</hi>'s Mind,</l>
+            <l>Scarce once herself, by Turns all Womankind?</l>
+            <l>Who with herself, and others from her Birth,</l>
+            <l>Finds all her Life one Warfare upon Earth;</l>
+            <l>Shines in exposing Knaves and painting Fools,</l>
+            <l>Yet is whate'er she hates or ridicules.</l>
+            <l>No Thought advances, but her eddy Brain</l>
+            <l>Whirls it about, and down it goes again.</l>
+            <l>Full sixty Years the World has been her Trade,</l>
+            <l>The wisest Fool much Time has ever made:</l>
+            <l>From Loveless Youth to unrespected Age,</l>
+            <l>No Passion gratify'd except her Rage;</l>
+            <l>
+               <pb n="4" facs="3"/>
+So much the Fury still out-ran the Wit,</l>
+            <l>The Pleasure miss'd her, and the Scandal hit;</l>
+            <l>Who breaks with her, provokes Revenge from Hell,</l>
+            <l>But he's a bolder Man who dares be well;</l>
+            <l>Her ev'ry Turn with Violence pursu'd,</l>
+            <l>Nor more a Storm her Hate, than Gratitude:</l>
+            <l>To that each Passion turns or soon or late,</l>
+            <l>Love, if it make her yield, must make her hate,</l>
+            <l>Superior 's Death! an Equal, what a Curse!</l>
+            <l>But an Inferior, not Dependant, worse.</l>
+            <l>Offend her, and she knows not to forgive,</l>
+            <l>Oblige her, and she'll hate you while you live.</l>
+            <l>But die, and she'll adore you<note place="bottom" n="*">Alludes to a Temple she erected with a Bust of Queen <hi>Anne</hi> in it, which mouldered away in a few Years.</note>—Then the Bust</l>
+            <l>And Temple rise,—then fall again to Dust.</l>
+            <l>Last Night her Lord was all that's good and great;</l>
+            <l>A Knave this Morning, and his Will a Cheat.</l>
+            <l>Strange! by the Means defeated of the Ends.</l>
+            <l>By Spirit, robb'd of Power; by Warmth, of Friends;</l>
+            <l>By Wealth, of Followers; without one Distress,</l>
+            <l>Sick of herself thro' very Selfishness,</l>
+         </lg>
+         <lg>
+            <pb n="5" facs="4"/>
+            <l>
+               <hi>Atossa</hi>'s curs'd with ev'ry granted Prayer,</l>
+            <l>Childless with all her Children, wants an Heir:</l>
+            <l>To Heirs unknown, descends th' unnumber'd Store,</l>
+            <l>Or wanders, Heaven directed, to the Poor.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="note">
+            <pb facs="5"/>
+            <p>THESE Verses are Part of a Poem, entitled <hi>Characters of Women.</hi> It is generally said, the D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>ss gave Mr. <hi>P.</hi> 1000<hi>l.</hi> to suppress them: He took the Money, yet the World sees the Verses; but this is not the first Instance where Mr. <hi>P</hi>'s practical Virtue has fallen very short of those pompous Profes<lb rend="hidden" type="hyphenInWord"/>sions of it he makes in his Writings.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

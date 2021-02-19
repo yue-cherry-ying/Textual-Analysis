@@ -1,0 +1,1170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Odes on several subjects:</title>
+            <author>Akenside, Mark, 1721-1770.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K027268.000</idno>
+            <idno type="docno">CW3315852716</idno>
+            <idno type="ecll">1042701200</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Odes on several subjects:</title>
+                  <author>Akenside, Mark, 1721-1770.</author>
+               </titleStmt>
+               <extent>44p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for R. Dodsley. And sold by M. Cooper,</publisher>
+                  <date>1745.</date>
+                  <idno type="TCP">K027268.000</idno>
+                  <idno type="docno">CW3315852716</idno>
+                  <idno type="ecll">1042701200</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Mark Akenside.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT14186.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>ODES
+ON
+Several SUBJECTS.</p>
+            <q>
+               <bibl>ΠΙΝΔΑΡΟΣ.</bibl>
+               <p>ΧΡΥΣΟΝ ΕΥΧΟΝΤΑΙ, ΠΕΔΙΟΝ Δ'ΕΤΕΡΟΙ
+ΑΠΕΡΑΝΤΟΝ. ΕΤΩ Δ'ΑΣΤΟΙΣ ΑΔΩΝ, ΚΑΙ
+ΧΘΟΝΙ ΓΥΙΑ ΚΑΛΥΨΑΙ-Μ', ΑΙΝΕΩΝ ΑΙΝΗΤΑ ΜΟΜ-ΦΑΝ Δ'ΕΠΙΣΠΕΙΡΩΝ ΑΛΙΤΡΟΙΣ.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi>
+Printed for R. DODSLEY at Tully's Head
+in Pall-Mall. And Sold by M. COOPER
+in Pater-noster-Row. 1745.</p>
+         </div>
+         <div type="publishersnote">
+            <pb facs="2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THE following ODES were written at very
+distant intervals, and with a view to very
+different manners of expression and versification.
+The author pretends chiefly to the merit of en<lb rend="hidden" type="hyphenInWord"/>deavouring
+to be correct, and of carefully attend<lb rend="hidden" type="hyphenInWord"/>ing
+to the best models. From what the ancients
+have left of this kind, perhaps the ODE may be
+allow'd the most amiable species of poetry; but
+certainly there is none which in modern langua<lb rend="hidden" type="hyphenInWord"/>ges
+has been generally attempted with so little
+success. For the perfection of lyric poetry de<lb rend="hidden" type="hyphenInWord"/>pends,
+beyond that of any other, on the beauty
+of words and the gracefulness of numbers; in both
+which respects the ancients had infinite advan<lb rend="hidden" type="hyphenInWord"/>tages
+above us. A consideration which will alle<lb rend="hidden" type="hyphenInWord"/>viate
+the author's disappointment, if he too should
+be found to have miscarried.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="ode">
+            <pb facs="3"/>
+            <pb facs="4"/>
+            <head>ODE I. Allusion to HORACE.</head>
+            <epigraph>
+               <q>
+                  <l>—Ego, apis Matinae</l>
+                  <l>More, modoque, <hi>&amp;c.</hi>
+                  </l>
+                  <bibl>Lib. iv. Od. ii.</bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>AMID the garden's fragrance laid,</l>
+               <l>Where yonder limes behold their shade</l>
+               <l>Along the glassy stream,</l>
+               <l>With HORACE and his tuneful ease</l>
+               <l>I'll rest from crouds, and care's disease,</l>
+               <l>And summer's piercing beam.</l>
+            </lg>
+            <lg>
+               <l>Behold the busy, wand'ring BEE!</l>
+               <l>From bloom to bloom, from tree to tree</l>
+               <l>She sweeps mellifluous dews;</l>
+               <l>For her the silken gems arise,</l>
+               <l>For her display their shining dyes,</l>
+               <l>Their balmy breath diffuse.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="5"/>
+               <l>Sweet murmurer! may no rude storm</l>
+               <l>This pleasurable scene deform</l>
+               <l>To check thy gladsome toils;</l>
+               <l>Still may the buds unsullied spring,</l>
+               <l>Still show'rs and sunshine court thy wing</l>
+               <l>To these ambrosial spoils.</l>
+            </lg>
+            <lg>
+               <l>Nor shall my Muse hereafter fail</l>
+               <l>Her fellow-lab'rer thus to hail,</l>
+               <l>And lucky be the strains!</l>
+               <l>For long ago did nature frame</l>
+               <l>Your seasons and your arts the same,</l>
+               <l>Your pleasures and your pains.</l>
+            </lg>
+            <lg>
+               <l>Like thee, in lowly, sylvan scenes,</l>
+               <l>And river-banks and fruitful greens</l>
+               <l>Delights my vagrant song;</l>
+               <l>Nor strives, by soaring high in air,</l>
+               <l>Tho' swans and eagles triumph there,</l>
+               <l>To draw the giddy throng.</l>
+            </lg>
+            <lg>
+               <l>Nor where the rayen, where the owl</l>
+               <l>By night their hateful orgies howl,</l>
+               <l>Will she her cares imploy;</l>
+               <l>But flies from ruines and from graves,</l>
+               <l>Prom ghostly cells and monkish caves</l>
+               <l>To day-light and to joy.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="6"/>
+               <l>Nor will she tempt the barren waste;</l>
+               <l>Nor' deigns th' ungrateful stores to taste</l>
+               <l>Of any noxious thing;</l>
+               <l>But leaves with scorn to others' use</l>
+               <l>The bitter hemlock's baneful juice,</l>
+               <l>The nettles fordid sting.</l>
+            </lg>
+            <lg>
+               <l>From all which nature fairest knows,</l>
+               <l>The vernal blooms, the surnmer rose,</l>
+               <l>She draws her mingled wealth;</l>
+               <l>And when the lovely task is done,</l>
+               <l>She consecrates a double boon,</l>
+               <l>To pleasure and to health.</l>
+            </lg>
+         </div>
+         <div n="2" type="ode">
+            <pb n="8" facs="7"/>
+            <head>ODE II. On the WINTER-SOLSTICE, M.D.CC.XL.</head>
+            <lg>
+               <l>THE radiant ruler of the year</l>
+               <l>At length his wintry goal attains,</l>
+               <l>Soon to reverse the long career,</l>
+               <l>And Northward bend his golden reins.</l>
+               <l>Prone on POTOSI's haughty brow</l>
+               <l>His fiery streams incessant flow,</l>
+               <l>Ripening the silver's ductile stores;</l>
+               <l>While, in the cavern's horrid shade,</l>
+               <l>The panting Indian hides his head,</l>
+               <l>And oft th' approach of eve explores.</l>
+            </lg>
+            <lg>
+               <l>But lo, on this deserted coast</l>
+               <l>How faint the light! how thick the air!</l>
+               <l>Lo arm'd with whirlwind, hail and frost,</l>
+               <l>Fierce winter desolates the year.</l>
+               <l>The fields resign their chearful bloom;</l>
+               <l>No more the breezes waft persume,</l>
+               <l>
+                  <pb n="9" facs="8"/> No more the warbling waters roll:</l>
+               <l>Desarts of snow fatigue the eye,</l>
+               <l>Black storms involve the louring sky,</l>
+               <l>And gloomy damps oppress the soul.</l>
+            </lg>
+            <lg>
+               <l>Now thro' the town promiscuous throngs</l>
+               <l>Urge the warm bowl and ruddy fire;</l>
+               <l>Harmonious dances, festive songs,</l>
+               <l>To charm the midnight hours conspire.</l>
+               <l>While mute and shrinking with her fears,</l>
+               <l>Each blast the cottage-matron hears</l>
+               <l>As o'er the hearth she sits alone:</l>
+               <l>At morn her bridegroom went abroad,</l>
+               <l>The night is dark and deep the road;</l>
+               <l>She sighs and wishes him at home.</l>
+            </lg>
+            <lg>
+               <l>But thou, my lyre, awake, arise,</l>
+               <l>And hail the sun's remotest ray;</l>
+               <l>Now, now he climbs the Northern skies,</l>
+               <l>To-morrow nearer than to-day.</l>
+               <l>Then louder howl the stormy waste,</l>
+               <l>Be land and ocean worse defac'd,</l>
+               <l>Yet brighter hours are on the wing;</l>
+               <l>And fancy thro' the wintry glooms,</l>
+               <l>All fresh with dews and opening blooms,</l>
+               <l>Already hails th' emerging spring.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="9"/>
+               <l>O fountain of the golden day!</l>
+               <l>Could mortal vows but urge thy speed,</l>
+               <l>How soon before thy vernal ray</l>
+               <l>Should each unkindly damp recede!</l>
+               <l>How soon each hov'ring tempest fly,</l>
+               <l>That now fermenting loads the sky,</l>
+               <l>Prompt on our heads to burst amain,</l>
+               <l>To rend the forest from the sleep,</l>
+               <l>Or thund'ring o'er the Baltic deep</l>
+               <l>To whelm the merchant's hopes of gain!</l>
+            </lg>
+            <lg>
+               <l>But let not man's unequal views</l>
+               <l>Presume on nature and her laws;</l>
+               <l>'Tis his with grateful joy to use</l>
+               <l>Th' indulgence of the sov'reign cause;</l>
+               <l>Secure that health and beauty springs</l>
+               <l>Thro' this majestic frame of things</l>
+               <l>Beyond what he can reach to know,</l>
+               <l>And that heav'n's all-subduing will,</l>
+               <l>With good the progeny of ill,</l>
+               <l>Attempers every state below.</l>
+            </lg>
+            <lg>
+               <l>How pleasing wears the wintry night,</l>
+               <l>Spent with the old illustrious dead!</l>
+               <l>While, by the taper's trembling light,</l>
+               <l>I seem those awful courts to tread</l>
+               <l>Where chiefs and legislators ly,</l>
+               <l>Whose triumphs move before my eye</l>
+               <l>
+                  <pb n="11" facs="10"/> With every laurel fresh-display'd;</l>
+               <l>While charm'd I taste th' Ionian song,</l>
+               <l>Or bend to PLATO'S godlike tongue</l>
+               <l>Resounding thro' the olive shade.</l>
+            </lg>
+            <lg>
+               <l>But if the gay, well-natur'd friend</l>
+               <l>Bids leave the studious page awhile,</l>
+               <l>Then easier joys the soul unbend</l>
+               <l>And teach the brow a softer smile;</l>
+               <l>Then while the genial glass is paid</l>
+               <l>By each to her, that fairest maid,</l>
+               <l>Whose radiant eyes his hopes obey,</l>
+               <l>What lucky vows his bosom warm!</l>
+               <l>While absence heightens every charm,</l>
+               <l>And love invokes returning MAY.</l>
+            </lg>
+            <lg>
+               <l>MAY! thou delight of heav'n and earth,</l>
+               <l>When will thy happy morn arise?</l>
+               <l>When the dear place which gave her Birth</l>
+               <l>Restore LUCINDA to my eyes?</l>
+               <l>There while she walks the wonted grove,</l>
+               <l>The seat of music and of love,</l>
+               <l>Bright as the ONE primaeval fair,</l>
+               <l>Thither, ye silver sounding lyres,</l>
+               <l>Thither gay smiles and young desires,</l>
+               <l>Chaste hope and mutual faith repair.</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="11"/>
+               <l>And if believing love can read</l>
+               <l>The wonted softness in her eye,</l>
+               <l>Then shall my fears, O charming maid,</l>
+               <l>And every pain of absence die:</l>
+               <l>Then ofter to thy name attun'd,</l>
+               <l>And rising to diviner sound,</l>
+               <l>I'll wake the free HORATIAN song:</l>
+               <l>Old TYNE shall listen to my tale,</l>
+               <l>And ECHO, down the bord'ring vale,</l>
+               <l>The liquid melody prolong.</l>
+            </lg>
+         </div>
+         <div n="3" type="ode">
+            <pb n="13" facs="12"/>
+            <head>ODE III. Against SUSPICION.</head>
+            <lg>
+               <l>O Fly! 'Tis dire SUSPICION'S mien;</l>
+               <l>And, meditating plagues unseen,</l>
+               <l>The sorc'ress hither bends:</l>
+               <l>Behold her torch in gall imbrued:</l>
+               <l>Behold—her garments drop with blood</l>
+               <l>Of lovers and of friends.</l>
+            </lg>
+            <lg>
+               <l>Fly far! Already in your eyes</l>
+               <l>I see a pale suffusion rise;</l>
+               <l>And soon thro' every vein,</l>
+               <l>Soon will her secret venom spread,</l>
+               <l>And all your heart and all your head</l>
+               <l>Imbibe the potent stain.</l>
+            </lg>
+            <lg>
+               <l>Then come the hours of shame and fear;</l>
+               <l>Then hints of horror seize your ear;</l>
+               <l>While gleams of lost delight</l>
+               <l>Raise the deep discord of the brain,</l>
+               <l>As light'ning shines along the main</l>
+               <l>Thro' whirlwinds and thro' night.</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="13"/>
+               <l>No more can faith or candor move;</l>
+               <l>But each ingenuous deed of love</l>
+               <l>Which once you would applaud,</l>
+               <l>Now, smiing o'er her dark distress,</l>
+               <l>Malignant fancy longs to dress</l>
+               <l>Like injury and fraud.</l>
+            </lg>
+            <lg>
+               <l>Farewell to virtue's peaceful times!</l>
+               <l>for soon you'll stoop to act the crimes</l>
+               <l>You thus can stoop to fear:</l>
+               <l>When vice begins her ugly train</l>
+               <l>With wrongs of such unmanly stain,</l>
+               <l>What horrors form the rear!</l>
+            </lg>
+            <lg>
+               <l>'Tis thus, to work her baleful pow'r,</l>
+               <l>SUSPICION waits the sullen hour</l>
+               <l>Of fretfulness and strife,</l>
+               <l>When care th' infirmer bosom wrings,</l>
+               <l>Or EURUS shakes his gloomy wings</l>
+               <l>To damp the seats of life.</l>
+            </lg>
+            <lg>
+               <l>But come, forsake the scene unblest,</l>
+               <l>Which first beheld your candid breast,</l>
+               <l>To groundless fears a prey;</l>
+               <l>Come, where with my prevailing lyre</l>
+               <l>The skies, the streams, the groves conspire</l>
+               <l>To charm your doubts away.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="14"/>
+               <l>Thron'd in the sun's descending car,</l>
+               <l>What Pow'r unseen diffuses far</l>
+               <l>This tenderness of mind?</l>
+               <l>What Genius smiles on every flood?</l>
+               <l>What GOD, in whispers from the wood,</l>
+               <l>Bids every heart be kind?</l>
+            </lg>
+            <lg>
+               <l>O thou, whate'er thy awful name,</l>
+               <l>Whose breath awak'd th' immortal flame</l>
+               <l>That moves my active veins;</l>
+               <l>Thou, who by fair affection's ties</l>
+               <l>Hast doubled all my future joys,</l>
+               <l>And half disarm'd my pains;</l>
+            </lg>
+            <lg>
+               <l>Let universal CANDOUR still,</l>
+               <l>Clear as yon heav'n-reflefting rill,</l>
+               <l>Preserve my open mind;</l>
+               <l>Nor THIS, nor THAT man's crooked views,</l>
+               <l>One mean or cruel doubt infuse</l>
+               <l>To injure human kind.</l>
+            </lg>
+         </div>
+         <div n="4" type="ode">
+            <pb n="16" facs="15"/>
+            <head>ODE IV. To a GENTLEMAN whose MIS<lb rend="hidden" type="hyphenInWord"/>TRESS had married an old Man.</head>
+            <lg>
+               <l>INDEED, my PHAEDRIA, if to find</l>
+               <l>That gold a female's vow can gain,</l>
+               <l>If this had e'er disturb'd your mind,</l>
+               <l>Or cost one serious moment's pain,</l>
+               <l>I should have said that all the rules</l>
+               <l>You learnt of moralists and schools,</l>
+               <l>Were very useless, very vain.</l>
+            </lg>
+            <lg>
+               <l>Yet I perhaps mistake the case;</l>
+               <l>And tho' with this heroic air,</l>
+               <l>Like one that holds a nobler chace,</l>
+               <l>You seem the lady's loss to bear,</l>
+               <l>Perhaps your heart bely'd your tongue,</l>
+               <l>And thinks my censure mighty wrong</l>
+               <l>To count it such a flight affair.</l>
+            </lg>
+            <lg>
+               <l>When HESPER gilds the shaded sky,</l>
+               <l>Slow wand'ring through the well-known grove,</l>
+               <l>Methinks I see you cast your eye</l>
+               <l>Back to the morning-scenes of love:</l>
+               <l>
+                  <pb n="17" facs="16"/> Her tender look, her graceful way,</l>
+               <l>The pretty things you heard her say,</l>
+               <l>Afresh your struggling fancy move.</l>
+            </lg>
+            <lg>
+               <l>Then tell me, is your soul intire?</l>
+               <l>Does wisdom calmly hold her throne?</l>
+               <l>Then can you question each desire,</l>
+               <l>Bid this remain, and that begone?</l>
+               <l>No tear half-starting from your eye?</l>
+               <l>No kindling blush you know not why?</l>
+               <l>No stealing sigh or stifled groan?</l>
+            </lg>
+            <lg>
+               <l>Away with this unmanly mood!</l>
+               <l>See where the hoary churl appears,</l>
+               <l>Whose hand hath seiz'd the fav'rite good</l>
+               <l>Which you reserv'd for happier years;</l>
+               <l>While side by side the blushing maid</l>
+               <l>Shrinks from his visage half-afraid,</l>
+               <l>Spite of the sickly joy she wears.</l>
+            </lg>
+            <lg>
+               <l>Ye guardian pow'rs of love and fame,</l>
+               <l>This chaste, harmonious pair behold;</l>
+               <l>And thus reward the gen'rous flame</l>
+               <l>Of all who barter vows for gold.</l>
+               <l>O bloom of youth and opening charms</l>
+               <l>Well-buried in a dotard's arms!</l>
+               <l>O worthy price of beauty sold!</l>
+            </lg>
+            <lg>
+               <pb n="18" facs="17"/>
+               <l>Cease then to gaze, unthankful boy;</l>
+               <l>Let, let her go, the venal fair!</l>
+               <l>Unworthy she to give you joy;</l>
+               <l>Then wherefore should she give you care?</l>
+               <l>Lay, lay your myrtle garland down,</l>
+               <l>And let the willow's virgin-crown</l>
+               <l>With happier omens bind your hair.</l>
+            </lg>
+            <lg>
+               <l>O just escap'd the faithless main,</l>
+               <l>Tho' driv'n unwilling on the land!</l>
+               <l>To guide your favour'd steps again,</l>
+               <l>Behold your better genius stand:</l>
+               <l>Where PLATO'S olive courts your eye,</l>
+               <l>Where HAMDEN'S laurel blooms on high,</l>
+               <l>He lists his heav'n directed hand.</l>
+            </lg>
+            <lg>
+               <l>When these are blended on your brow,</l>
+               <l>The willow will be nam'd no more;</l>
+               <l>Or if that love-deserted bough</l>
+               <l>The pitying, laughing girls deplore,</l>
+               <l>Yet still shall I most freely swear,</l>
+               <l>Your dress has much a better air</l>
+               <l>Than all that ever bridegroom wore.</l>
+            </lg>
+         </div>
+         <div n="5" type="ode">
+            <pb n="19" facs="18"/>
+            <head>ODE V. Hymn to CHEARFULNESS. <hi>The Author Sick.</hi>
+            </head>
+            <lg>
+               <l>HOW thick the shades of evening close!</l>
+               <l>How pale the sky with weight of snows!</l>
+               <l>Haste, light the tapers, urge the fire,</l>
+               <l>And bid the joyless day retire!</l>
+               <l>—Alas, in vain I try within</l>
+               <l>To raise the dull, dejected scene,</l>
+               <l>While rouz'd by grief these fiery pains</l>
+               <l>Tear the frail texture of my veins;</l>
+               <l>While winter's voice, that storms around,</l>
+               <l>And yon deep death-bell's groaning sound</l>
+               <l>Renew my mind's oppressive gloom,</l>
+               <l>'Till starting horror shakes the room!</l>
+            </lg>
+            <lg>
+               <l>Is there in nature no kind pow'r</l>
+               <l>To sooth affliction's lonely hour?</l>
+               <l>To blunt the edge of dire disease,</l>
+               <l>And teach these wintry shades to please?</l>
+               <l>
+                  <pb n="20" facs="19"/> Come, CHEARFULNESS, triumphant fair,</l>
+               <l>Shine thro' the painful cloud of care;</l>
+               <l>O sweet of language, mild of mein,</l>
+               <l>O virtue's friend and pleasure's queen!</l>
+               <l>Asswage the flames that burn my breast,</l>
+               <l>Attune my jarring thoughts to rest;</l>
+               <l>And while thy gracious gifts I feel,</l>
+               <l>My song shall all thy praise reveal.</l>
+            </lg>
+            <lg>
+               <l>As once ('twas in ASTRAEA'S reign)</l>
+               <l>The vernal pow'rs renew'd their train,</l>
+               <l>It happen'd that immortal LOVE</l>
+               <l>Was ranging thro' the spheres above,</l>
+               <l>And downward hither cast his eye</l>
+               <l>The year's returning pomp to spy,</l>
+               <l>He saw the radiant God of day</l>
+               <l>Lead round the globe the rosy MAY;</l>
+               <l>The fragrant AIRS and genial HOURS</l>
+               <l>Were shedding round him dews and flow'rs;</l>
+               <l>Before his wheels AURORA past,</l>
+               <l>And HESPER'S golden lamp was last.</l>
+               <l>But, fairest of the blooming throng,</l>
+               <l>When HEALTH majestic mov'd along</l>
+               <l>All gay with smiles, to see below</l>
+               <l>The joys which from her presence flow,</l>
+               <l>While earth inliven'd hears her voice,</l>
+               <l>And fields, and flocks, and swains rejoice;</l>
+               <l>Then mighty LOVE her charms confess'd,</l>
+               <l>And soon his vows inclin'd her breast,</l>
+               <l>
+                  <pb n="21" facs="20"/> And, known from that auspicious morn,</l>
+               <l>The pleasing CHEARFULNESS was born.</l>
+            </lg>
+            <lg>
+               <l>Thou CHEARFULNESS, by heav'n design'd</l>
+               <l>To rule the pulse, that moves the mind,</l>
+               <l>Whatever fretful passion springs,</l>
+               <l>Whatever chance or nature brings</l>
+               <l>To strain the tuneful poize within,</l>
+               <l>And disarrange the sweet machine,</l>
+               <l>Thou Goddess, with a master-hand</l>
+               <l>Dost each attemper'd key command,</l>
+               <l>Refine the soft and swell the strong,</l>
+               <l>Till all is concord, all is song.</l>
+            </lg>
+            <lg>
+               <l>Fair guardian of domestic life,</l>
+               <l>Best banisher of homebred strife,</l>
+               <l>Nor sullen lip, nor taunting eye</l>
+               <l>Deform the scene where thou art by:</l>
+               <l>No sick'ning husband damns the hour</l>
+               <l>That bound his joys to female pow'r;</l>
+               <l>No pining mother weeps the cares</l>
+               <l>That parents waste on hopeless heirs:</l>
+               <l>Th' officious daughters pleas'd attend;</l>
+               <l>The brother rises to the friend:</l>
+               <l>By thee their board with flow'rs is crown'd,</l>
+               <l>By thee with songs their walks refound.</l>
+               <l>By thee their sprightly mornings shine,</l>
+               <l>And evening-hours in peace decline.</l>
+            </lg>
+            <lg>
+               <pb n="22" facs="21"/>
+               <l>Behold the youth, whose trembling heart</l>
+               <l>Beats high with love's unpitied smart;</l>
+               <l>Tho' now he strays by rills and bow'rs,</l>
+               <l>And weeping wears the lonely hours,</l>
+               <l>Or, if the nymph her audience deign,</l>
+               <l>Shames the soft story of his pain</l>
+               <l>With flavish looks, discolour'd eyes,</l>
+               <l>And accents falt'ring into sighs;</l>
+               <l>Yet thou, auspicious pow'r, with ease,</l>
+               <l>Cat'st yield him happier arts to please,</l>
+               <l>Exalt his mein to manlier charms,</l>
+               <l>Instruct his tongue with nobler arms,</l>
+               <l>With more commanding passion move,</l>
+               <l>And teach the dignity of love.</l>
+            </lg>
+            <lg>
+               <l>Friend to the Muse and all her train,</l>
+               <l>For thee I court the Muse again;</l>
+               <l>And may the votive lay disclose</l>
+               <l>How much to thy fair aid she owes!</l>
+               <l>See, when thy touch reveals her mine,</l>
+               <l>How pure the stores of fancy shine!</l>
+               <l>Hark, when thy breath her song impells,</l>
+               <l>How full the tuneful current swells!</l>
+               <l>Let melancholy's plaintive tongue</l>
+               <l>Instruct the nightly strains of Y<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>;</l>
+               <l>But thine was HOMER'S ancient might,</l>
+               <l>And thine victorious PINDAR'S flight:</l>
+               <l>
+                  <pb n="23" facs="22"/> Thy myrtles crown'd the
+<note place="bottom" n="*">ALCAEUS and SAPPHO.</note> Lesbian meads;</l>
+               <l>Thy voice awak'd
+<note place="bottom" n="†">THEOCRITUS.</note> Sicilian reeds;</l>
+               <l>Thy breath perfumes the<note place="bottom" n="‡">ANACREON.</note>
+Teian rose,</l>
+               <l>And Tibur's vine spontaneous flows</l>
+               <l>While HORACE wantons in thy quire;</l>
+               <l>The gods and heroes of the lyre.</l>
+            </lg>
+            <lg>
+               <l>See where the pale, the sick'ning sage</l>
+               <l>(A prey perhaps to fortune's rage,</l>
+               <l>Perhaps by tender griefs oppress'd,</l>
+               <l>Or glooms congenial to his breast)</l>
+               <l>Retires in desart-scenes to dwell,</l>
+               <l>And bids the joyless world farewell.</l>
+               <l>Alone he treads th' autumnal shade,</l>
+               <l>Alone beneath the mountain laid,</l>
+               <l>He sees the nightly damps arise,</l>
+               <l>And gath'ring storms involve the skies;</l>
+               <l>He hears the neighb'ring surges roll,</l>
+               <l>And raging thunders shake the pole;</l>
+               <l>Then, struck by every object round,</l>
+               <l>And stunn'd by every horrid sound,</l>
+               <l>He pants to traverse nature's ways.</l>
+               <l>His evils haunt him thro' the maze:</l>
+               <l>He views ten thousand daemons rise</l>
+               <l>To wield the empire of the skies,</l>
+               <l>And chance and fate assume the rod,</l>
+               <l>And malice blots the throne of GOD.</l>
+               <l>
+                  <pb n="24" facs="23"/>—O thou, whose pleasing pow'r I sing!</l>
+               <l>Thy lenient influence hither bring;</l>
+               <l>Compose the storm, dispel the gloom,</l>
+               <l>Till nature wear her wonted bloom,</l>
+               <l>Till fields and shades their sweets exhale,</l>
+               <l>And music swell each opening gale:</l>
+               <l>Then o'er his breast thy softness pour,</l>
+               <l>And let him learn the timely hour</l>
+               <l>To trace the world's benignant laws,</l>
+               <l>And judge of that presiding cause</l>
+               <l>Who founds in discord beauty's reign,</l>
+               <l>Converts to pleasure every pain,</l>
+               <l>Subdues the hostile forms ta rest,</l>
+               <l>And bids the universe be blest.</l>
+            </lg>
+            <lg>
+               <l>O thou, whose pleasing pow'r I sing!</l>
+               <l>If right I touch the votive string,</l>
+               <l>If equal praise I yield thy name,</l>
+               <l>Still govern thou thy poet's flame;</l>
+               <l>Still with the Muse my bosom share,</l>
+               <l>And sooth to peace corroding care.</l>
+               <l>But most exert thy genial pow'r</l>
+               <l>On friendship's consecrated hour;</l>
+               <l>And while my AGIS leads the road</l>
+               <l>To fearless wisdom's high abode,</l>
+               <l>Or, warm in, freedom's sacred cause,</l>
+               <l>Pursues the light of Graecian laws,</l>
+               <l>
+                  <pb n="25" facs="24"/> Attend, and grace our gen'rous toils</l>
+               <l>With all thy garlands all thy smiles.</l>
+               <l>But if, by fortune's stubborn sway,</l>
+               <l>From him and friendship torn away,</l>
+               <l>I court the muse's healing spell</l>
+               <l>For griefs that still with absence dwell,</l>
+               <l>Do thou conduct my fancy's dreams</l>
+               <l>To such indulgent, tender themes</l>
+               <l>As just the struggling breast may chear,</l>
+               <l>And just suspend the starting tear,</l>
+               <l>Yet leave that charming sense of woe,</l>
+               <l>Which none but friends and lovers know.</l>
+            </lg>
+         </div>
+         <div n="6" type="ode">
+            <pb n="26" facs="25"/>
+            <head>ODE VI. On the Absence of the Poetic Inclination.</head>
+            <lg>
+               <l>QUEEN of my songs, harmonious maid,</l>
+               <l>Why, why hast thou withdrawn thy aid?</l>
+               <l>Why thus forsook my widow'd breast,</l>
+               <l>With dark infeebling damps oppress'd?</l>
+               <l>Where is the bold prophetic heat,</l>
+               <l>With which my bosom wont to beat?</l>
+               <l>Where all the bright mysterious dreams</l>
+               <l>Of haunted shades and tuneful streams,</l>
+               <l>That woo'd my Genius to divinest themes?</l>
+            </lg>
+            <lg>
+               <l>Say, can the purple charms of wine,</l>
+               <l>Or young DIONE'S form divine,</l>
+               <l>Or flatt'ring scenes of promis'd fame</l>
+               <l>Relume thy faint, thy dying flame?</l>
+               <l>Have soft, melodious airs the pow'r,</l>
+               <l>To give one free, poetick hour?</l>
+               <l>
+                  <pb n="27" facs="26"/> Or from amid th' Elysian train,</l>
+               <l>The soul of MILTON shall I gain,</l>
+               <l>To win the back with some coelestial strain?</l>
+            </lg>
+            <lg>
+               <l>O mighty mind! O sacred flame!</l>
+               <l>My spirit kindles at his name;</l>
+               <l>Again my lab'ring bosom burns;</l>
+               <l>The Muse, th' inspiring Muse returns!</l>
+               <l>Such on the banks of TYNE confest,</l>
+               <l>I hail'd the bright, ethereal guest,</l>
+               <l>When first She seal'd me for her own,</l>
+               <l>Made all her blissful treasures known,</l>
+               <l>And bade me swear to follow HER alone.</l>
+            </lg>
+         </div>
+         <div n="7" type="ode">
+            <pb n="28" facs="27"/>
+            <head>ODE VII. To a FRIEND, on the hazard of falling in LOVE.</head>
+            <lg>
+               <l>NO, foolish boy—To virtuous fame</l>
+               <l>If now thy early hopes be vow'd,</l>
+               <l>If true ambition's nobler flame</l>
+               <l>Command thy footsteps from the croud,</l>
+               <l>Lean not to Love's inchanting snare;</l>
+               <l>His dances, his delights beware,</l>
+               <l>Nor mingle in the band of young and fair.</l>
+            </lg>
+            <lg>
+               <l>By thought, by dangers, and by toils,</l>
+               <l>The wreath of just renown is worn;</l>
+               <l>Nor will ambition's awful spoils</l>
+               <l>The flowry pomp of ease adorn:</l>
+               <l>But Love dissolves the nerve of thought;</l>
+               <l>By Love unmanly fears are taught;</l>
+               <l>And Love's reward with slothful arts is bought.</l>
+            </lg>
+            <lg>
+               <pb n="29" facs="28"/>
+               <l>True, where the Muses, where the pow'rs</l>
+               <l>Of softer wisdom, easier wit,</l>
+               <l>Assist the Graces and the Hours</l>
+               <l>To render beanty's praise compleat,</l>
+               <l>The fair may then perhaps impart</l>
+               <l>Each finer sense, each winning art,</l>
+               <l>And more than schools adorn the manly heart.</l>
+            </lg>
+            <lg>
+               <l>If then, from Love's deceit secure,</l>
+               <l>Such bliss be all thy heart intends,</l>
+               <l>Go, where the white-wing'd evening-hour</l>
+               <l>On DELIA'S vernal walk descends:</l>
+               <l>Go, while the pleasing, peaceful scene</l>
+               <l>Becomes her voice, becomes her mien.</l>
+               <l>Sweet as her smiles, and as her brow serene.</l>
+            </lg>
+            <lg>
+               <l>Attend, while that harmonious tongue</l>
+               <l>Each bosom, each desire commands;</l>
+               <l>Apollo's lute by Hermes strung</l>
+               <l>And touch'd by chaste Minerva's hands.</l>
+               <l>Attend. I feel a force divine,</l>
+               <l>O DELIA, win my thoughts to thine,</l>
+               <l>That half thy graces seem already mine.</l>
+            </lg>
+            <lg>
+               <l>Yet conscious of the dang'rous charm,</l>
+               <l>Soon would I turn my steps away;</l>
+               <l>Nor oft provoke the lovely harm,</l>
+               <l>Nor once relax my reason's sway.</l>
+               <l>
+                  <pb n="30" facs="29"/> But thou, my friend—What sudden sighs?</l>
+               <l>What means the blush that comes and flies?</l>
+               <l>Why stop? why silent? why avert thy eyes?</l>
+            </lg>
+            <lg>
+               <l>So soon again to meet the fair?</l>
+               <l>So pensive all this absent hour?</l>
+               <l>—O yet, unlucky youth, beware,</l>
+               <l>While yet to think is in thy pow'r</l>
+               <l>In vain with friendship's flatt'ring name</l>
+               <l>Thy passion masks its inward shame;</l>
+               <l>Friendship, the treach'rous fuel of thy flame!</l>
+            </lg>
+            <lg>
+               <l>Once, I remember, tir'd of Love,</l>
+               <l>I spurn'd his hard, tyrannic chain,</l>
+               <l>Yet won the haughty fair to prove</l>
+               <l>What sober joys in friendship reign.</l>
+               <l>No more I sigh'd, complain'd, or swore;</l>
+               <l>The nymph's coy arts appear'd no more.</l>
+               <l>But each could laugh at what we felt before.</l>
+            </lg>
+            <lg>
+               <l>Well-pleas'd we pass'd the chearful day,</l>
+               <l>To unreserv'd discourse resign'd,</l>
+               <l>And I inchanted to survey</l>
+               <l>One gen'rous woman's real mind:</l>
+               <l>But soon I wonder'd what possess'd</l>
+               <l>Each wakeful night my anxious breast;</l>
+               <l>No other friendship e'er had broke my rest!</l>
+            </lg>
+            <lg>
+               <pb n="31" facs="30"/>
+               <l>Fool that I was—And now, ev'n now</l>
+               <l>While thus I preach the Stoic strain,</l>
+               <l>Unless I shun DIONE'S view,</l>
+               <l>An hour unsays it all again.</l>
+               <l>O friend!—when Love directs her eyes</l>
+               <l>To pierce where every passion lies,</l>
+               <l>Where is the firm, the cautious, or the wise?</l>
+            </lg>
+         </div>
+         <div n="8" type="ode">
+            <pb n="32" facs="31"/>
+            <head>ODE VIII. On leaving HOLLAND.</head>
+            <lg>
+               <l>ADIEU to LEYDEN'S lonely bound,</l>
+               <l>The BELGIAN muse's sober seat;</l>
+               <l>Where shedding frugal gifts around</l>
+               <l>On all the fav'rites at her feet,</l>
+               <l>She feeds the body's bulky frame</l>
+               <l>For passive, persevering toils;</l>
+               <l>And left, for some ambitious aim,</l>
+               <l>The daring mind should scorn her homely spoils,</l>
+               <l>She breathes maternal foggs to damp its restless flame.</l>
+            </lg>
+            <lg>
+               <l>Adieu the grave, pacific air,</l>
+               <l>Safe from the flitting mountain-breeze;</l>
+               <l>The marshy levels lank and bare,</l>
+               <l>Sacred from furrows hills or trees:</l>
+               <l>Adieu each mantling, fragrant flood,</l>
+               <l>Untaughto to murmur or to flow:</l>
+               <l>Adieu the
+<note place="bottom" n="†">The Frogs.</note> music of the mud,</l>
+               <l>That sooths at eve the patient lover's woe,</l>
+               <l>And wakes to sprightlier thoughts the painful poet's blood.</l>
+            </lg>
+            <lg>
+               <pb n="33" facs="32"/>
+               <l>With looks so frosty, and with steps so tame,</l>
+               <l>Ye careful nymphs, ye household things, adieu;</l>
+               <l>Not once ye taught me love's or friendship's flame,</l>
+               <l>And where is he that ever taught it you?</l>
+               <l>And ye, the slow-ey'd fathers of the land,</l>
+               <l>With whom dominion lurks from hand to hand,</l>
+               <l>Unown'd, undignified by public choice,</l>
+               <l>I go where freedom in the streets is known,</l>
+               <l>And tells a monarch on his throne,</l>
+               <l>Tells him he reigns, he lives but by her voice.</l>
+            </lg>
+            <lg>
+               <l>O native ALBION, when to thee</l>
+               <l>Shall I return to part no more?</l>
+               <l>Far from this pale, discolour'd sea,</l>
+               <l>That sleeps upon the reedy shore,</l>
+               <l>When shall I plow thy azure tides,</l>
+               <l>And, as thy fleece-white hills aspire,</l>
+               <l>Bless the fair shade that on their sides</l>
+               <l>Imbow'rs the village and the sacred spire,</l>
+               <l>While the green hedge, below, the golden slope divides?</l>
+            </lg>
+            <lg>
+               <l>Ye nymphs that guard the pathless grove,</l>
+               <l>Ye blue-ey'd sisters of the streams,</l>
+               <l>With whom I wont at morn to rove,</l>
+               <l>With whom at noon I talk'd in dreams;</l>
+               <l>
+                  <pb n="34" facs="33"/> O take me to your haunts again,</l>
+               <l>The rocky spring, the greenwood glade;</l>
+               <l>To prompt my slumbers in the murm'ring shade,</l>
+               <l>And sooth my vacant ear with many an airy strain.</l>
+            </lg>
+            <lg>
+               <l>And thou, my faithful harp, no longer mourn</l>
+               <l>Thy drooping master's unpropitious hand;</l>
+               <l>Now brighter skies and fresher gales return,</l>
+               <l>Now fairer maids thy melody demand.</l>
+               <l>Daughters of ALBION, guard your votive lyre!</l>
+               <l>O blooming god of Thespia's laurell'd quire,</l>
+               <l>Why sounds not mine harmonious as thy own,</l>
+               <l>When all the virgin-deities above</l>
+               <l>With Venus and with Juno move</l>
+               <l>In concert round thy list'ming father's throne?</l>
+            </lg>
+            <lg>
+               <l>Thee too, protectress of my lays,</l>
+               <l>Elate with whose majestic call</l>
+               <l>Above the soft Italian's praise,</l>
+               <l>Above the slavish wreaths of Gaul,</l>
+               <l>I dare from impious thrones reclaim,</l>
+               <l>And wanton sloth's luxurious charms,</l>
+               <l>The honours of a poet's name</l>
+               <l>To
+<note place="bottom" n="†">The Earl of SHAFTSBURY.</note> ASHLEY'S
+wisdom, or to HAMDEN'S arms.</l>
+               <l>Thee, freedom, I rejoin, and bless thy genuine flame.</l>
+            </lg>
+            <lg>
+               <pb n="35" facs="34"/>
+               <l>Great citizen of Albion! Thee</l>
+               <l>Heroic Valour still attends,</l>
+               <l>And useful Science pleas'd to see</l>
+               <l>How Art her studious toil extends.</l>
+               <l>While Truth, diffusing from on high</l>
+               <l>A lustre unconfin'd as day,</l>
+               <l>Fills and commands the public eye,</l>
+               <l>Till pierc'd and sinking by her pow'ful ray,</l>
+               <l>Tame Sloth and monkish Awe, like nightly Dae<lb rend="hidden" type="hyphenInWord"/>mons, fly.</l>
+            </lg>
+            <lg>
+               <l>Hence all the land the Patriot's ardour shares;</l>
+               <l>Hence dread Religion smiles with social joy;</l>
+               <l>Hence the free bosom's softest, loveliest cares,</l>
+               <l>Each graceful scene of private life imploy.</l>
+               <l>O fair BRITANNIA, hail!—With partial love</l>
+               <l>The tribes of men their native seats approve,</l>
+               <l>Unjust and hostile to a foreign fame;</l>
+               <l>But when from gen'rous minds and manly laws</l>
+               <l>A nation holds her prime applause,</l>
+               <l>There public zeal defies the test of blame.</l>
+            </lg>
+         </div>
+         <div n="9" type="ode">
+            <pb n="36" facs="35"/>
+            <head>ODE IX. To SLEEP.</head>
+            <lg>
+               <l>THOU silent pow'r, whose balmy sway</l>
+               <l>Charms every anxious thought away;</l>
+               <l>In whose divine oblivion drown'd,</l>
+               <l>Fatigue and toiling pain grow mild,</l>
+               <l>Love is with sweet success beguil'd</l>
+               <l>And sad remorse forgets her secret wound;</l>
+               <l>O whither hast thou flown, indulgent God?</l>
+               <l>God of kind shadows, and of healing dews,</l>
+               <l>O'er whom dost thou extend thy magic rod?</l>
+               <l>Around what peaceful couch thy opiate airs diffuse?</l>
+            </lg>
+            <lg>
+               <l>Lo, midnight from her starry reign</l>
+               <l>Looks awful down on earth and main.</l>
+               <l>The tuneful birds lie hush'd in sleep,</l>
+               <l>With all that crop the verdant food,</l>
+               <l>With all that skim the crystal flood,</l>
+               <l>Or haunt the cayerns of the rocky steep.</l>
+               <l>No rushing winds disturb the tufted bowr's;</l>
+               <l>No wakeful sound the moonlight valley knows,</l>
+               <l>Save where the brook its liquid murmur pours,</l>
+               <l>And lulls the waving scene to more profound re<lb rend="hidden" type="hyphenInWord"/>pose.</l>
+            </lg>
+            <lg>
+               <pb n="37" facs="36"/>
+               <l>O let not me thus watch alone!</l>
+               <l>O hear my solitavy moan!</l>
+               <l>Descend, propitious, on my eyes;</l>
+               <l>Not from the couch that bears a crown,</l>
+               <l>Not from the statesman's thorny down,</l>
+               <l>Or where the miser and his treasure lies:</l>
+               <l>Bring not the shapes that break the murd'rer's rest;</l>
+               <l>Nor those the hireling soldier burns to see,</l>
+               <l>Nor those that haunt the tyrant's gloomy breast:</l>
+               <l>Far be their guilty nights, and far their dreams from me!</l>
+            </lg>
+            <lg>
+               <l>Nor yet those awful joys present,</l>
+               <l>For chiefs and heroes only meant:</l>
+               <l>The figur'd brass, the choral song,</l>
+               <l>The rescued people's glad applause,</l>
+               <l>The list'ning senate, and the laws</l>
+               <l>Bent on the dictates of
+<note place="bottom" n="†">After Timoleon had deliver'd Syracuse from
+the ty<lb rend="hidden" type="hyphenInWord"/>ranny of Dionysius, the people on every important deli<lb rend="hidden" type="hyphenInWord"/>beration sent
+for him into the public assembly, ask'd his advice, and voted according to
+his decision. PLUTARCH.</note> TIMOLEON'S tongue,</l>
+               <l>Are scenes too grand for fortune's private ways;</l>
+               <l>And tho' they shine to youth's ingenuous view,</l>
+               <l>The sober gainful arts of modern days,</l>
+               <l>To such romantic thoughts have bid a long adieu.</l>
+            </lg>
+            <lg>
+               <pb n="38" facs="37"/>
+               <l>Blest be my fate! I need not pray</l>
+               <l>That lovesick dreams be kept away:</l>
+               <l>No female charms, of fancy born,</l>
+               <l>Nor damask cheek, nor spaikling eye,</l>
+               <l>With me the bands of sleep untie,</l>
+               <l>Or steal by minutes half the sauntring morn.</l>
+               <l>Nor yet the courtier's hope, the giving smile,</l>
+               <l>(A lighter phantom and a baser chain)</l>
+               <l>Bids wealth and place the fever'd night beguile,</l>
+               <l>To gall my waking hours with more vexatious pain.</l>
+            </lg>
+            <lg>
+               <l>But, Morpheus, on thy dewy wing</l>
+               <l>Such fair auspicious visions bring,</l>
+               <l>As sooth'd great MILTON'S injur'd age,</l>
+               <l>When in prophetic dreams he saw</l>
+               <l>The tribes unborn with pious awe.</l>
+               <l>Imbibe each virtue from his heavenly page:</l>
+               <l>Or such as MEAD'S benignant fancy knows,</l>
+               <l>When health's kind treasures, by his art explor'd,</l>
+               <l>Have sav'd the infant from an orphan's woes,</l>
+               <l>Or to the trembling fire his age's hope restor'd.</l>
+            </lg>
+         </div>
+         <div n="10" type="ode">
+            <pb n="39" facs="38"/>
+            <head>ODE X. On LYRIC Poetry.</head>
+            <lg>
+               <l>ONCE more I join the Thespian quire,</l>
+               <l>And taste th' inspiring fount again:</l>
+               <l>O parent of the Graecian lyre,</l>
+               <l>Admit me to thy secret strain—</l>
+               <l>And lo! with ease my step invades</l>
+               <l>The pathless vale and opening shades,</l>
+               <l>Till now I spy her verdant seat,</l>
+               <l>And now at large I drink the sound,</l>
+               <l>While these her offspring, list'ning round,</l>
+               <l>By turns her melody repeat.</l>
+            </lg>
+            <lg>
+               <l>I see ANACREON smile and sing:</l>
+               <l>His silver tresses breathe persume;</l>
+               <l>His cheek displays a second spring</l>
+               <l>Of roses taught by wine to bloom.</l>
+               <l>Away, deceitful cares away!</l>
+               <l>And let me listen to his lay,</l>
+               <l>
+                  <pb n="40" facs="39"/> While flow'fy dreams my soul employ;</l>
+               <l>While turtle-wing'd the laughing hours</l>
+               <l>Lead hand in hand the festal pow'rs,</l>
+               <l>Lead youth and love, and harmless joy.</l>
+            </lg>
+            <lg>
+               <l>Broke from the fetters of his native land,</l>
+               <l>Devoting shame and vengeance to her lords</l>
+               <l>With louder impulse and a threat'ning hand,</l>
+               <l>The
+<note place="bottom" n="†">ALCAEUS of Mitylene, the capital of Lesbos, who
+fled from his native city to escape the oppression of those who had
+inslav'd it, and wrote against them in his exile those noble invectives
+which are so much applauded by the ancient Critics.</note> Lesbian patriot
+smites the sounding chords:</l>
+               <l>Ye wretches, ye perfidions train,</l>
+               <l>Ye curst of Gods and freeborn men,</l>
+               <l>Ye murd'rers of the laws,</l>
+               <l>Tho' now you glory in your lust,</l>
+               <l>Tho' now you tread the feeble neck in dust,</l>
+               <l>Yet Time and righteous JOVE will judge your dreadful cause.</l>
+            </lg>
+            <lg>
+               <l>But lo, to SAPPHO'S mournful airs</l>
+               <l>Descends the radiant Queen of love;</l>
+               <l>She smiles, and asks what fonder cares</l>
+               <l>Her suppliant's plaintive measures move.</l>
+               <l>Why is my faithful maid distrest?</l>
+               <l>Who, SAPPHO, wounds thy tender breast?</l>
+               <l>
+                  <pb n="41" facs="40"/> Say, flies he?—Soon he shall pursue:</l>
+               <l>Shuns he thy gifts?—HE too shall give:</l>
+               <l>Slights he thy sorrows?—HE shall grieve,</l>
+               <l>And bend him to thy haughtiest vow.</l>
+            </lg>
+            <lg>
+               <l>But, O MELPOMENE, for whom</l>
+               <l>Awakes thy golden shell again?</l>
+               <l>What mortal breath shall e'er presume</l>
+               <l>To eccho that unbounded strain?</l>
+               <l>Majestic in the frown of years,</l>
+               <l>Behold, the
+<note place="bottom" n="†">PINDAR.</note> Man of Thebes appears:</l>
+               <l>For some there are, whose mighty frame</l>
+               <l>The hand of JOVE at birth indow'd</l>
+               <l>With hopes that mock the gazing crowd;</l>
+               <l>As eagles drink the noontide flame,</l>
+            </lg>
+            <lg>
+               <l>While the dim raven beats his weary wings,</l>
+               <l>And clamours far below.—Propitious Muse,</l>
+               <l>While I so late unlock thy hallow'd springs,</l>
+               <l>And breathe whate'er thy ancient airs infuse,</l>
+               <l>To polish Albion's warlike ear</l>
+               <l>This long-lost melody to hear,</l>
+               <l>Thy sweetest arts imploy;</l>
+               <l>As when the winds from shore to shore,</l>
+               <l>Thro' Greece thy lyre's persuasive language bore,</l>
+               <l>Till towns and isles, and seas return'd the vocal joy.</l>
+            </lg>
+            <lg>
+               <pb n="42" facs="41"/>
+               <l>But oft amid the Graecian throng,</l>
+               <l>The loose-rob'd forms of wild desire</l>
+               <l>With lawless notes intun'd thy song,</l>
+               <l>To shameful steps dissolv'd thy quire.</l>
+               <l>O fair, O chaste be still with me</l>
+               <l>From such profaner discord free:</l>
+               <l>While I frequent thy tuneful shade,</l>
+               <l>No frantic shouts of Thracian dames,</l>
+               <l>No Satyrs fierce with savage flames</l>
+               <l>Thy pleasing accents shall invade.</l>
+            </lg>
+            <lg>
+               <l>Queen of the lyre, in thy retreat</l>
+               <l>The fairest flow'rs of Pindus glow;</l>
+               <l>The vine aspires to crown thy seat,</l>
+               <l>And myrtles round thy laurel grow.</l>
+               <l>Thy strings attune their varied strain,</l>
+               <l>To every pleasure, every pain,</l>
+               <l>Which mortal tribes were born to prove,</l>
+               <l>And strait our passions rise or fall,</l>
+               <l>As at the wind's imperious call</l>
+               <l>The ocean swells the billows move.</l>
+            </lg>
+            <lg>
+               <l>When midnight listens o'er the slumb'ring earth,</l>
+               <l>Let me, O Muse, thy solemn whispers hear:</l>
+               <l>When morning sends her fragrant breezes forth,</l>
+               <l>With airy murmurs touch my opening ear.</l>
+               <l>
+                  <pb n="43" facs="42"/> And ever watchful at thy side,</l>
+               <l>Let Wisdom's awful suffrage guide</l>
+               <l>The tenour of thy lay:</l>
+               <l>To her of old by JOVE was giv'n</l>
+               <l>To judge the various deeds of earth and heay'n;</l>
+               <l>'Twas thine by gentle arts to win us to her sway.</l>
+            </lg>
+            <lg>
+               <l>Oft as from stricter hours resign'd</l>
+               <l>I quit the maze where science toils,</l>
+               <l>Do thou refresh my yielding mind</l>
+               <l>With all thy gay, delusive spoils.</l>
+               <l>But, O indulgent, come not nigh</l>
+               <l>The busy steps, the jealous eye</l>
+               <l>Of gainful care and wealthy age,</l>
+               <l>Whose barren souls thy joys disdain,</l>
+               <l>And hold as foes to reason's reign</l>
+               <l>Whome'er thy lovely haunts ingage.</l>
+            </lg>
+            <lg>
+               <l>With me, when mirth's consenting band</l>
+               <l>Around fair friendship's genial board</l>
+               <l>Invite thy heart-awakening hand,</l>
+               <l>With me salute the Teian chord,</l>
+               <l>Or if invok'd at softer hours,</l>
+               <l>O seek with me the happy bow'rs.</l>
+               <l>That hear DIONE 'S gentle tongue;</l>
+               <l>To beauty link'd with virtue's train,</l>
+               <l>To love devoid of jealous pain,</l>
+               <l>There let the Sapphic lute be strung.</l>
+            </lg>
+            <lg>
+               <pb n="44" facs="43"/>
+               <l>But when from envy and from death to claim</l>
+               <l>A hero bleeding for his native land;</l>
+               <l>Or when to nourish freedom's vestal flame,</l>
+               <l>I hear my Genius utter his command.</l>
+               <l>Nor Theban voice, nor Lesbian lyre</l>
+               <l>From thee, O Muse, do I require,</l>
+               <l>While my prophetic mind,</l>
+               <l>Conscious of pow'rs she never knew,</l>
+               <l>Astonish'd grasps at things beyond her view,</l>
+               <l>Nor by another's fate hath felt her own confin'd.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

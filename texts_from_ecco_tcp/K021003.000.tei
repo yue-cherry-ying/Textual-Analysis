@@ -1,0 +1,2728 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The generous Free-mason: or, the constant lady. With the humours of Squire Noodle, and his man Doodle. A tragi-comi-farcical ballad opera. In three acts. With the musick prefix'd to each song. By the author of The lover's opera:</title>
+            <author>Chetwood, W. R. (William Rufus), d. 1766.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K021003.000</idno>
+            <idno type="docno">CW3307931610</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The generous Free-mason: or, the constant lady. With the humours of Squire Noodle, and his man Doodle. A tragi-comi-farcical ballad opera. In three acts. With the musick prefix'd to each song. By the author of The lover's opera:</title>
+                  <author>Chetwood, W. R. (William Rufus), d. 1766.</author>
+               </titleStmt>
+               <extent>[4],51,[1]p., : music ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Roberts, and sold by the booksellers of London and Westminster,</publisher>
+                  <date>1731.</date>
+                  <idno type="TCP">K021003.000</idno>
+                  <idno type="docno">CW3307931610</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author of The lover's opera = W. R. Chetwood.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT1755.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="inscription">
+            <pb facs="1"/>
+            <p>To the Right Worshipful the GRAND MASTER, Deputy GRAND MASTER, GRAND WARDENS, And the rest of the Brethren of the Ancient and Honourable So<lb rend="hidden" type="hyphenInWord"/>ciety of FREE and ACCEPTED MASONS, This OPERA Is Humbly Inscrib'd by</p>
+            <closer>
+               <signed>Your most Obedient, And Devoted Servant, The AUTHOR. A FREE-MASON.</signed>
+            </closer>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="2"/>
+            <head>Dramatis Personae.</head>
+            <list>
+               <item>
+                  <hi>Amurath,</hi> King of <hi>Tunis.</hi>
+               </item>
+               <item>
+                  <hi>Mirza,</hi> High-Admiral.</item>
+               <item>
+                  <hi>Sebastian,</hi> an English Gentleman.</item>
+               <item>
+                  <hi>Zelmana,</hi> Queen of <hi>Tunis.</hi>
+               </item>
+               <item>
+                  <hi>Maria,</hi> an <hi>English</hi> Lady.</item>
+            </list>
+            <list>
+               <item>Sir <hi>Jasper Moody.</hi>
+               </item>
+               <item>
+                  <hi>Caelia,</hi> his Daughter.</item>
+               <item>
+                  <hi>Cleremont,</hi> her Lover.</item>
+               <item>
+                  <hi>Lettice,</hi> her Maid.</item>
+               <item>
+                  <hi>Davy,</hi> Cleremont's Man.</item>
+               <item>
+                  <hi>Noodle,</hi> a simple Squire.</item>
+               <item>
+                  <hi>Doodle,</hi> his Man.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Neptune, Tritons, Turks,</hi> &amp;c.</item>
+            </list>
+         </div>
+         <div type="titlepage">
+            <pb facs="3"/>
+            <p>THE <hi>Generous Free-Mason:</hi> OR, THE CONSTANT LADY. WITH THE HUMOURS OF Squire <hi>Noodle,</hi> and his Man <hi>Doodle.</hi> A TRAGI-COMI-FARCICAL BALLAD OPERA. IN THREE ACTS.</p>
+            <p>With the <hi>MUSICK</hi> prefix'd to each <hi>SONG.</hi>
+            </p>
+            <p>By the <hi>AUTHOR</hi> of the <hi>LOVER</hi>'s <hi>OPERA.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for J. ROBERTS in <hi>Warwick-Lane,</hi> and Sold by the Booksellers of <hi>London</hi> and <hi>Westminster.</hi> MDCCXXXI. [Price One Shilling.]</p>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="4"/>THE GENEROUS FREE-MASON.</head>
+         <div n="1" type="act">
+            <div n="1" type="scene">
+               <head>ACT I. SCENE I.</head>
+               <stage>A Garden.</stage>
+               <stage>Enter <hi>Maria</hi> weeping, follow'd by <hi>Jacinta.</hi>
+               </stage>
+               <sp>
+                  <speaker>JACINTA.</speaker>
+                  <l>
+                     <seg rend="decorInit">W</seg>HY do you sigh, and thus give way to Grief?</l>
+                  <l>And discontented wander up and down?</l>
+                  <l>Disclose the Torments of your troubled Breast:</l>
+                  <l>Sorrows reveal'd, the Burthen lighter grows;</l>
+                  <l>And if I bring no Balsam to your Wounds,</l>
+                  <l>Your Trust but leaves you as you were before.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Thou hast been ever faithful, just, and kind;</l>
+                  <l>Therefore I will unload my secret Soul,</l>
+                  <l>And tell the Troubles of my tortur'd Breast—</l>
+                  <l>This Day, my cruel Father has resolv'd,</l>
+                  <l>In Spight of all my Tears, and bitter Anguish,</l>
+                  <l>To wed me to the Man I most abhor;</l>
+                  <l>Tho' well he knows, <hi>Sebastian</hi> has my Heart.</l>
+               </sp>
+               <sp>
+                  <speaker>Jac.</speaker>
+                  <l>If Fathers thus forget Paternal Love,</l>
+                  <l>The Ties of Duty shou'd no longer bind.</l>
+               </sp>
+               <sp>
+                  <pb n="2" facs="5"/>
+                  <speaker>Mar.</speaker>
+                  <l>
+                     <hi>Sebastian</hi> (tortur'd with ten thousand Woes)</l>
+                  <l>This Moment waits to know my last Resolve.</l>
+                  <l>His Love has urg'd me to forsake this Place,</l>
+                  <l>And fly with him to some more friendly Clime.</l>
+               </sp>
+               <sp>
+                  <speaker>Jac.</speaker>
+                  <l>There is no other Way to shun your Fate.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>The Tyrant Love too strongly takes his Part,</l>
+                  <l>His Throne is fixt, and reigns within my Heart.</l>
+                  <lg n="1" type="song">
+                     <head>AIR I. As the Snow in Vallies lying.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>If the dear, and faithful Lover,</l>
+                        <l>Pleads, our Passion to discover;</l>
+                        <l>
+                           <hi>Cupid</hi> then will take his Part:</l>
+                        <l>
+                           <hi>Cupid</hi> then <hi>&amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Reason holds the Reins no longer,</l>
+                        <l>Powerful Love will prove the stronger,</l>
+                        <l>And by Storm will seize the Heart.</l>
+                        <l>And by Storm <hi>&amp;c.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <stage>Enter <hi>Sebastian.</hi>
+               </stage>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Oh my <hi>Maria!</hi> must I live, or die?</l>
+                  <l>This Moment is the Crisis of my Fate:</l>
+                  <l>Pronounce my Doom, and give me Life, or Death!</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>What will the medling World say of my Fame?</l>
+                  <l>
+                     <pb n="3" facs="6"/>
+To leave my Father, Friends, and native Home,</l>
+                  <l>And turn a willing Wanderer o'er the World.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Alas! my Fair, thy Virtue is a Proof</l>
+                  <l>Against the Malice of censorious Tongues.</l>
+                  <l>I'll be thy Lover, Father, Brother, All.</l>
+                  <l>Trust in my Faith, that never shall deceive thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Too well thou know'st the Weakness of my Heart,</l>
+                  <l>That smiling listens to the Charmer's Lure.</l>
+                  <l>But oh <hi>Sebastian!</hi> will Love always last?</l>
+                  <l>Our Morning's Sun may bring a Cloudy Noon,</l>
+                  <l>Ill-featur'd Poverty may come upon us,</l>
+                  <l>And drive the downy Thoughts of Love away.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>I have a wealthy Uncle lives in <hi>Spain,</hi>
+                  </l>
+                  <l>The Consul of the <hi>British</hi> Nation there,</l>
+                  <l>(I am the Darling of his feeble Age!)</l>
+                  <l>Thither we'll fly, and leave our Cares behind:</l>
+                  <l>He will protect us from the Frowns of Fortune,</l>
+                  <l>And make us happy in our virtuous Loves.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>The Hand of Heav'n, I hope, will point our Way,</l>
+                  <l>And guide us by his never-erring Ray.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Oh! thou hast rais'd me from the last Despair,</l>
+                  <l>And thy Consenting cures my wounded Soul.</l>
+                  <l>Let us be gone, and leave this Shore behind,</l>
+                  <l>The Anchors weighing, and the Sails unfurl'd.</l>
+                  <l>But yet one Pang I feel, thro' all my Joy</l>
+                  <l>That from my noble Brethren I must part,</l>
+                  <l>Those Men, whose Lustre spreads from Pole to Pole,</l>
+                  <l>Possessing every Virtue of the Soul.</l>
+                  <l>But yet all Climes the Brotherhood adorn,</l>
+                  <l>As smiling <hi>Phoebus</hi> gilds the Rosie Morn,</l>
+                  <l>Let Love and Friendship then our Cares confound,</l>
+                  <l>And <hi>Halcyon</hi> Days be one eternal Round. </l>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <pb n="4" facs="7"/>
+               <head>SCENE II. A Hall in old <hi>Moody</hi>'s House.</head>
+               <stage>Enter <hi>Moody, Caelia,</hi> and <hi>Lettice.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>I tell you, Hussie! Squire <hi>Noodle</hi>'s the Man, He must be the Man, and he shall be the Man, or you shall die a Maid.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Die a Maid! what! come into the World for nothing—If she does die a Maid, you're guilty of Murder, and ought to be hang'd for't.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Guilty of Murder, you Slut! how am I guil<lb rend="hidden" type="hyphenInWord"/>ty of Murder?</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Why in hindring the getting the Children my Lady might have—'Tis as bad as building a fine House, and letting it stand empty—Taxes must be paid, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Get out of my House, Hussie! or I'll break every Bone in your Skin.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>I won't go out of your House.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Blood and Fire! get out of my House! or I'll fetch my great Gun, and pepper ye.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Dear Sir, your Gun is good for nothing—It may flash in the Pan, or so, but there's no Danger of its going off.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Was there ever such a provoking Devil? Hold that damn'd Tongue of thine, or I'll run you through, Hussie!</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Alack-a-day! your Point's too blunt, indeed Sir, your Weapon has not been sit for Use these twen<lb rend="hidden" type="hyphenInWord"/>ty Years.</p>
+                  <lg n="2" type="song">
+                     <pb n="5" facs="8"/>
+                     <head>AIR II. Come hither, good People, <hi>&amp;c.</hi>
+                     </head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>Your Weapon, good Sir, to your Scabbard's confin'd,</l>
+                        <l>And tho' now to draw it, you may be inclin'd;</l>
+                        <l>With Age and with Rust it is stubborn you'll find,</l>
+                        <l>With a down, down, down, down, down, down, derry, derry derry up and down up and down a,</l>
+                     </lg>
+                     <lg>
+                        <l>You only now wear it for Fashion, 'tis true,</l>
+                        <l>As a Mark of a Gentleman that once cou'd do,</l>
+                        <l>But I think there's no Danger, you e'er shou'd run thro',</l>
+                        <l>With a down, <hi>&amp;c.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Did ever any one hear such a provoking Minx—'sblood, get out my House this Minute, or I'll—</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>I tell you, I won't! do your worst! I fear you not.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>
+                     <hi>Lettice,</hi> I command you hold your Peace.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>I'm all Obedience.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Remember once more, I tell you, 'Squire <hi>Noodle</hi>'s the Man; therefore prepare immediately for the Wedding. I'll go and send him to you, and give him a favourable Reception, or think of the Fate of <hi>Jeptha</hi>'s Daughter.</p>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <pb n="6" facs="9"/>
+                  <speaker>Cael.</speaker>
+                  <p>What shall I do, <hi>Lettice?</hi> I'd rather lead Apes than marry that Fool, and that's a terrible hard Case you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Let.</speaker>
+                  <p>Ah! if I had been in your Lover <hi>Cleremont</hi>'s Place, I'd have put it out of your cross old Father's Power before now.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>Why, what wou'd your Wisdom have done, pray?</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>I'll rell you, Madam.</p>
+                  <lg n="3" type="song">
+                     <head>AIR III. White Joak.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>I'd mark the Goods with Hand and Seal,</l>
+                        <l>That shou'd in Time your Case reveal,</l>
+                        <l>And drive all Purchasers away.</l>
+                        <l>But Lovers now are grown such Fools,</l>
+                        <l>They go to work without their Tools,</l>
+                        <l>And only whine their Time away.</l>
+                        <l>'Tis best to come at—Pish! nay Fie!</l>
+                        <l>I vow and swear, I'll sooner die!</l>
+                        <l>O Lord! good Sir! what is't you mean?</l>
+                        <l>O Dear, I sear we shall be seen,</l>
+                        <l>Ah!—what will all my Kindred say!</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>Leave your Impertinence—my Circumstances won't bear it.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Dear Madam! you don't know how much your Circumstances will bear, till you're put to it.—But see, Madam! who's here.</p>
+               </sp>
+               <stage>
+                  <pb n="7" facs="10"/>
+Enter <hi>Cleremont</hi> and <hi>Davy.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>My dear <hi>Caelia!</hi> I saw your Father go out, and flew on the Wings of Love to visit you.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Wings of Love! if <hi>Cupid</hi> had not Darts as well as Wings, his Plumes wou'd signifie nothing—But talking Nonsense is the true Badge of a Lover—But Sir! the Tenement is Lett—Leases are drawn, and they intend to sign and seal to-night—Indeed, Sir, none of your Goods must be sent in here, I'll assure you.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>What dost thou mean?</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>To speak plain <hi>English,</hi> your Mistress is to mar<lb rend="hidden" type="hyphenInWord"/>ry 'Squire <hi>Noodle</hi> immediately.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Death! and Fire! I'll cut the Rascal's Throat!</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Yes! and so dangle in a String at the Charge of the Sheriff.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Pr'ythee don't distract me! if my dear <hi>Caelia</hi> proves but constant, I dare the utmost Malice of my Fate.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>There was a Whine!</p>
+               </sp>
+               <sp>
+                  <lg n="4" type="song">
+                     <head>AIR IV. Around the Plains.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <stage>Cler.</stage>
+                        <l>If e'er my Fair proves false to me,</l>
+                        <l>Or weds that Wretch for sordid Gain,</l>
+                        <l>'Tis Death alone must set me free,</l>
+                        <l>And rid me of my Pain.</l>
+                        <l>
+                           <pb n="8" facs="11"/>
+O kindly then my Fears destroy,</l>
+                        <l>Swear you ever will be true,</l>
+                        <l>I'll ev'ry Hour of Life employ,</l>
+                        <l>To show my Love to you.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <lg n="5" type="song">
+                     <head>AIR V. Muirland Willy.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <stage>Cael.</stage>
+                        <l>Cease thy Fears, and sigh no more,</l>
+                        <l>My Heart is truly yours alone;</l>
+                        <l>I'd rather beg from Door to Door,</l>
+                        <l>Than wed with such a Clown:</l>
+                        <l>A Wretch whom Nature made for Mirth,</l>
+                        <l>As Apes the vulgar Crowd will please;</l>
+                        <l>A sordid Sot, a Clod of Earth,</l>
+                        <l>I loath as a Disease.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>What Work's here! I believe your Rogue <hi>Davy</hi> and I must lay our Heads together to assist
+<pb n="9" facs="12"/>
+you, for two such helpless Creatures did I never meet with in my Life.—In my Conscience, two Lo<lb rend="hidden" type="hyphenInWord"/>vers are but a couple of Fools.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>If thou can'st bring Matters to bear, I'll give thee the <hi>Indies.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>The <hi>Indies!</hi> Lard, Lard! Lovers and Poets in their Plays are plaguy generous, they'll give a Wo<lb rend="hidden" type="hyphenInWord"/>man a Fortune of Fifty thousand Pound, tho' they can't pay their Taylor. I'd advise you to keep the <hi>Indies</hi> to your self; tho' if I accepted 'em, I shou'd find you out in your Geography, and look for my great Fortune near <hi>Parnassus.</hi>—No, no, <hi>Tickledown</hi> Farm will content me, at the Skirt of your Estate in the Country.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>There's my Hand, thou sha't have it.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>And I'll give <hi>Davy</hi> a Hundred Pounds to stock it.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Ay, this is Right! The Man shou'd reward the Woman, and the Woman the Man.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>There, <hi>Davy,</hi> take my Purse.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>And you mine, <hi>Lettice.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>Ay, this is Encouragement indeed! Gold! thou Sovereign Cure for all Evils! welcome.</p>
+                  <lg n="6" type="song">
+                     <head>AIR VI. Now comes on the glorious Year.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>'Tis this o'ercomes all Griess and Cares,</l>
+                        <l>It buys a Peace, or War declares;</l>
+                        <l>For This the Wretch, tho' perjur'd, swears;</l>
+                        <l>It gains old Widows Spouses.</l>
+                     </lg>
+                     <lg>
+                        <pb n="10" facs="13"/>
+                        <l>The Thief for Money may be free'd;</l>
+                        <l>It buys you Votes, if Votes you need;</l>
+                        <l>In Law, makes void the strongest Deed,</l>
+                        <l>And Fools makes Heads of Houses.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>Oh! here comes my foolish Lover, with his wise Attendant.</p>
+               </sp>
+               <stage>Enter <hi>Noodle,</hi> and his Man <hi>Doodle.</hi>
+               </stage>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Come along, <hi>Doodle,</hi> and you shall hear me court my Mistress; and if you can think of any thing, put me in, d'ye hear, <hi>Doodle.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Ay, ay, Sir; I have several Compliments rea<lb rend="hidden" type="hyphenInWord"/>dy made.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <l>Well, that's pure! Mind me, <hi>Doodle!</hi>
+                  </l>
+                  <l>Oh! lovely Creature! fairer than the Goose,</l>
+                  <l>That does upon my Father's Common graze;</l>
+                  <l>Or shap'd beyond the Greyhound when he's loose</l>
+                  <l>To follow Puss thro' Sloughs, and cleanly Ways.</l>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <l>More fair than is the Duck that swims the Flood;</l>
+                  <l>Or Sows, that gruntle in the slimy Mud;</l>
+                  <l>Handsomer far, than Master's brindle Bitch;</l>
+                  <l>Or our Old <hi>Joan,</hi> that cannot see to stitch.</l>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Very well indeed, <hi>Doodle,</hi> only the Sow and <hi>Joan</hi> came in a little odly, tho'.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>Very fine, indeed, 'Squire! I suppose they are of your own composing.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Yes, Madam.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>I protest you are a very great Poet.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Poet, Madam! why Master has wrote a fine Tragedum.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Yes, so I have, <hi>Doodle;</hi> and we'll have it play'd at our Wedding: and Madam, You, and I, and <hi>Doodle</hi> will act Parts in it.—Oh! I love Acting dearly.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Yes, my Master and I play'd two Fools in a Play once, and every Body said my Master play'd finely.</p>
+               </sp>
+               <sp>
+                  <pb n="11" facs="14"/>
+                  <speaker>Nood.</speaker>
+                  <p>Ay, so I did, to be sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>And pray what d'ye call your Tragedy?</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Oh sad! Oh sad! <hi>Or,</hi> The Bloody Butcher. <hi>With,</hi> The Merry Humours of the Princess <hi>Trullibub.</hi>—Doodle <hi>shall play,</hi> O sad! <hi>I'll play the</hi> Bloody Butcher, <hi>and you, Madam, shall play the Princess</hi> Trullibub.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>A fine Piece, I warrant it.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Why so it is! Pray what have you to say to it?—O Lud! this is that foolish Fellow my Ri<lb rend="hidden" type="hyphenInWord"/>val.—What, I warrant you think to get my Mi<lb rend="hidden" type="hyphenInWord"/>stress from me!—Ha!</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Pr'ythee don't be impertinent.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Impertinent! I'll bully the Dog! for he'll hardly fight before my Mistress. <stage>[Aside.]</stage>—What Business have you here? will you be gone!</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Ay! will you be gone?</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>The silly Dog is devilishly afraid!—Will you be gone?</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Ay, I say, will you be gone?</p>
+                  <stage>[<hi>Cler.</hi> throws Snuff in <hi>Noodle</hi>'s Face. <hi>Davy</hi> pow<lb rend="hidden" type="hyphenInWord"/>ders <hi>Doodle</hi>'s, and <hi>Exeunt.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Oh! I'm blind!</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>And so am I too.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Will you be gone?</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Ay, will you be gone? <stage>[They run against each other.]</stage> Why, Master, I an't <hi>Will-you-be gone!</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>You Son of a Whore! you have knock'd my Eyes out.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Yes, Sir, and you have beaten my Teeth down my Throat.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>I'll be reveng'd, and see 'em hang'd, if I can but recover my Eye-sight again.</p>
+                  <lg n="7" type="song">
+                     <pb n="12" facs="15"/>
+                     <head>AIR VII. You'll think ere many Days ensue.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>Oh <hi>Doodle!</hi> what sad Rogues were these!</l>
+                        <l>To put out both our Eyes.</l>
+                     </lg>
+                     <lg>
+                        <stage>Dood.</stage>
+                        <l>We'll wipe our Faces, if you please,</l>
+                        <l>For see, your Mistress cries.</l>
+                        <l>Twang dang dillo dee.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Cry, does she! it is so like Laughing, that I hardly know one from t'other.</p>
+               </sp>
+               <stage>Enter <hi>Moody.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Hey day! what's to be done here, tro! Have you been walking up the Chimney, 'Squire?</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Oh, Father-in-law! here has been that foo<lb rend="hidden" type="hyphenInWord"/>lish Fellow my Rival, with my Mistress, and he, with that Bitches Puppy his Man, has blinded us.—I'll take the Law of him.—I'll ruin him in four Terms.—I'll—I'll—what shall I do to him, <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Do to him, Sir! Why, undo him—Hang him up in <hi>Chancery</hi> for Seven Years.—Put him into the <hi>Crown</hi> once a Year.—Indict him every Quarter for a Rape, once a Week for a Riot, and every Day for a Trespass; and when his Money's all gone, Transport him for a Thief for his Endeavour to steal other Men's Goods.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Well, I shall soon put an end to his Imper<lb rend="hidden" type="hyphenInWord"/>tinence—for you shall marry my Daughter imme<lb rend="hidden" type="hyphenInWord"/>diately.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>And then, Master, if you should take him napping, as <hi>Moss</hi> did his Mare! Get a Jury of
+<pb n="13" facs="16"/>
+What-d'ye-callums, and you'll recover a swinging Sum.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Ay, so I shall, <hi>Doodle.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>What shall I do, <hi>Lettice?</hi> my Ruin now ap<lb rend="hidden" type="hyphenInWord"/>proaches.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>I have it—we'll put him upon being made a Mason, and that may gain Time.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>The Society will never admit such a Fool a<lb rend="hidden" type="hyphenInWord"/>mong 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Well, but I hope <hi>Davy</hi> and his Comrades may make him a mock Mason, and that will do every whit as well. Therefore smile upon him, seem to comply, and leave the rest to me.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Well, Mrs. Disobedience! what are you and your Contriver plotting now!—But I shall watch your Waters, I warrant you.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Why, I'll tell you our Plot, Sir—I have been persuading my Mistress to marry the Squire—for since you went I have been inform'd that Mr. <hi>Clere<lb rend="hidden" type="hyphenInWord"/>mont</hi> keeps three Mistresses, has seven Children by one, five by another, and two by a Blackamoor—and to all this, is one of the greatest Gamesters in the Nation, has three Mortgages upon his Estate, has sold his Place in the Government, spent the Money, and is going to be prosecuted for a Rape; and not having Money enough to, to, to—you know what, is in danger of a Halter.—And tho' I must own I had a Friendship for him, yet I have more Love for my Mi<lb rend="hidden" type="hyphenInWord"/>stress than to see her undone, which she must be if she marries <hi>Cleremont,</hi> and therefore she consents to marry the Squire.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>O Lud! <hi>Doodle,</hi> that's pure!</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Ay, by the Mackins is it!</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>And is this true, you little—</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>Yes, Sir. <stage>[Curtsying.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Why d'ye think I wou'd tell you a Lye?</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Adad, I'll get <hi>Mopsa</hi> with Child for Joy.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Dear Sir, never undertake a Work you can't get through stitch with.</p>
+               </sp>
+               <sp>
+                  <pb n="14" facs="17"/>
+                  <speaker>Mood.</speaker>
+                  <p>Ah, you're a Wag! Adad, I'm as overjoy'd as a Country Curate at a Wedding or a Christening—and I'll sing you a Song.</p>
+                  <lg n="8" type="song">
+                     <head>AIR VIII. There was three Lads, <hi>&amp;c.</hi>
+                     </head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>There was a young Man and a Maid</l>
+                        <l>Went to Church to wed, Sir,</l>
+                        <l>But the Girl was sore afraid</l>
+                        <l>To lose her Maidenhead, Sir.</l>
+                        <l>But when the Rogue had done the Feat,</l>
+                        <l>She found her Fears were vain, Sir;</l>
+                        <l>She vow'd and swore it was so sweet,</l>
+                        <l>The Joy out-weigh'd the Pain, Sir.</l>
+                     </lg>
+                     <lg>
+                        <stage>Mood. Nood. Dood.</stage>
+                        <l>She vow'd and swore, <hi>&amp;c.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Adad! I'm as over-joy'd as—as—as a Par<lb rend="hidden" type="hyphenInWord"/>son when he's made a Bishop.—Well Squire, you'll get your Tackle in Order, you find my Daughter is ready for you, and I'll go fetch the Parson to give you a Stitch.</p>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Harkye Squire, there's one Bar still in the way.</p>
+               </sp>
+               <sp>
+                  <pb n="15" facs="18"/>
+                  <speaker>Nood.</speaker>
+                  <p>O Lud! what's that?</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Your Mistress has made a Vow she'll never marry any Man that is not a Free-Mason, and that was the Reason she preferr'd Mr. <hi>Cleremont</hi> before you—Therefore by all means get your self made one out of hand.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Ay, but which way must I go about it?</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Let me see—now I think on't, my Bro<lb rend="hidden" type="hyphenInWord"/>ther is Master of a Lodge—I'll send him to wait on you presently.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Well, that will be pure!—<hi>Doodle!</hi> I'm to be made a Mason, and I'll make my Mistress a Mason, and we'll make you a Mason, <hi>Doodle,</hi> and then my Mistress will have me.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Well, by the Mackins! that's brave—But Master, don't you remember you said you wou'd Serenade your Mistress to-night? pray don't forget that.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Don't you fear that, Mr. <hi>Doodle.</hi>—I'll Se<lb rend="hidden" type="hyphenInWord"/>renade my Mistress to be sure, for my Barber told me 'twas the Fashion.</p>
+                  <l>I'll sing so sweetly, she shall dance in Bed,</l>
+                  <l>And make her long to lose her Maidenhead.</l>
+                  <p>Come along, <hi>Doodle.</hi>
+                  </p>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <trailer>End of the First Act.</trailer>
+         </div>
+         <div n="2" type="act">
+            <pb n="16" facs="19"/>
+            <div n="1" type="scene">
+               <head>ACT II. SCENE I.</head>
+               <stage>The SEA.</stage>
+               <stage>Enter <hi>Sebastian</hi> and <hi>Maria.</hi>
+               </stage>
+               <sp>
+                  <speaker>SEBASTIAN.</speaker>
+                  <l>BEHOLD, my Love, the Land appears in view,</l>
+                  <l>I see the Billows breaking on the Shore,</l>
+                  <l>Where all our Fears and Terrors will have End.</l>
+                  <stage>[Guns go off within.</stage>
+                  <l>But ha! What means this sudden Voice of War?</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>My boding Heart foretels some Ill at hand.</l>
+               </sp>
+               <stage>Enter <hi>Captain.</hi>
+               </stage>
+               <sp>
+                  <speaker>Capt.</speaker>
+                  <l>Oh curs'd Misfortune! Fate is now at work!</l>
+                  <l>We must prepare for ever-during Bonds,</l>
+                  <l>Or search for Freedom in the Mouth of Death.</l>
+                  <l>
+                     <hi>Mirza,</hi> the bravest <hi>Moor</hi> that ploughs the Sea,</l>
+                  <l>Has stretch'd between us, and the Shores of <hi>Spain,</hi>
+                  </l>
+                  <l>And sails, prepar'd to intercept our Course.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Oh my hard Fate! is this our hop'd-for Joy?</l>
+               </sp>
+               <sp>
+                  <speaker>Capt.</speaker>
+                  <l>The Galley gains upon us ev'ry Moment;</l>
+                  <l>Her bloody Sign of Battle is unfurl'd,</l>
+                  <l>And waves with dreadful Terror in the Wind.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>I've that to guard, wou'd give a Coward Va<lb rend="hidden" type="hyphenInWord"/>lour.</l>
+               </sp>
+               <sp>
+                  <speaker>Capt.</speaker>
+                  <l>'Twill argue Rashness to resist the Foe.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>We will for Battle instantly prepare.</l>
+                  <l>A <hi>Briton</hi> and a Mason cannot fear.</l>
+                  <lg n="9" type="song">
+                     <pb n="17" facs="20"/>
+                     <head>AIR IX.</head>
+                     <byline>Compos'd by Mr. <hi>Henry Carey.</hi>
+                     </byline>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>Tho' Dangers allarm me,</l>
+                        <l>Their Force I'll oppose,</l>
+                        <l>'Tis <hi>Cupid</hi> will arm me</l>
+                        <l>To combat our Foes:</l>
+                        <l>Inspir'd by my Charmer,</l>
+                        <l>Their Rage I'll defie,</l>
+                        <l>Her Virtue's my Armour;</l>
+                        <l>I'll conquer or die.</l>
+                     </lg>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+               <stage>[Trumpets, Guns, and Drums within.]</stage>
+               <stage>Enter <hi>Mirza,</hi> with <hi>Sebastian</hi> and <hi>Maria</hi> Prisoners.</stage>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>Droop not, brave Man, nor downward bend thy Eyes,</l>
+                  <l>The Valiant do not always overcome.</l>
+                  <l>
+                     <hi>Fortune</hi>'s a fickle Goddess, ever blind,</l>
+                  <l>And seldom to the Meritorious kind.</l>
+                  <l>Yet <hi>Amurath,</hi> I hope (for <hi>Mirza</hi>'s sake)</l>
+                  <l>Your Slavery and Chains will easy make.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>The greatest Slave has Freedom in his Breast;</l>
+                  <l>Death breaks the Bonds, and gives eternal Rest.</l>
+                  <stage>[Exeunt.</stage>
+               </sp>
+               <stage>Enter <hi>Noodle, Doodle,</hi> and a Fiddler.</stage>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Come along, <hi>Doodle!</hi>—Now for the Se<lb rend="hidden" type="hyphenInWord"/>renade!—Pray which is my Mistress's Window, <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="18" facs="21"/>
+                  <speaker>Dood.</speaker>
+                  <p>That, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>
+                     <hi>Doodle,</hi> ask the Man if he can play <hi>The three Children in the Wood.</hi>—</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Yes Sir, he says he can.</p>
+                  <stage>[The Fiddler tunes his Fiddle.</stage>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Come, begin then—Why the Devil don't you play? You're as long at Twang, Twang, as a Qua<lb rend="hidden" type="hyphenInWord"/>ker is Humming and Hawing before he holds forth.</p>
+                  <stage>[The Fidler plays.</stage>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Indeed, Master <hi>Noodle,</hi> this is a sad merry Tune.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>A sad merry Tune! that is because a sad Fel<lb rend="hidden" type="hyphenInWord"/>low plays it; you shall hear me sing to it—and you will find it quite another thing.—Come, Mr.—Play agen.</p>
+                  <l>Oh stretch your Legs abroad, my Dear,</l>
+                  <l>And see who stands below.</l>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Master, wou'd it not be better to say, <hi>stretch your Eyes abroad?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Why sure, Mr. <hi>Doodle!</hi> did I take you into my Service to teach me? <hi>Stretch her Eyes!</hi> Yes, I war<lb rend="hidden" type="hyphenInWord"/>rant you! No, I say, <hi>Stretch her Legs;</hi> Do you think she can come to the Window without stretching her Legs, Mr. <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>It's very true indeed, Master.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Yes, I think it is.—<hi>Oh stretch your Eyes a<lb rend="hidden" type="hyphenInWord"/>broad, my Dear.</hi> Did you ever see the like!—This Bastardly Rogue, <hi>Doodle,</hi> has put me quite out.</p>
+                  <lg n="10" type="song">
+                     <head>AIR X. O ponder well, be not severe.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>Oh stretch your Legs abroad, my Dear!</l>
+                        <l>And see who stands below;</l>
+                        <l>Upright and stiff as any Spear,</l>
+                        <l>Beneath your bright Window.</l>
+                     </lg>
+                  </lg>
+                  <p>
+                     <pb n="19" facs="22"/>
+Is not that very pretty, <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>
+                     <hi>Beneath your bright Window!</hi> Very pretty in<lb rend="hidden" type="hyphenInWord"/>deed, Master.</p>
+               </sp>
+               <stage>Enter <hi>Lettice</hi> above in the Balcony.</stage>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <l>What Boar-Cat caterwawls thus late</l>
+                  <l>To break my Lady's Rest:</l>
+                  <l>Or Hog that's grunting at the Gate,</l>
+                  <l>When Winds blow hard from West.</l>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Boar-Cat! you are a Bull-Bitch to call me Boar-Cat, you are so! od! if I had you here, I'd give you a good Douse on the Chops, I wou'd so. Boar-Cat! Why, <hi>Doodle,</hi> do I look or sing like a Boar-Cat?</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>A Boar-Cat! no indeed, Master. But indeed Master—<hi>O stretch your Legs abroad,</hi> is a very dumpish Tune—have you never a merrier in your Budget?</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Well remember'd efackins, <hi>Doodle</hi>—yes, yes, I have another of my own making to the Tune of the <hi>Black Joak</hi>—You, Fidler! can you play the <hi>Black Joak?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Take care what you say, he's no Fidler, he's a Master of Music.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Oh, I cry your Marcy, Mr. Master of Mu<lb rend="hidden" type="hyphenInWord"/>sic—will you be pleas'd to play me the <hi>Black Joak</hi>—I made this Song, <hi>Doodle,</hi> in Praise of my Mistress's Beauty. I show'd it to our Thrasher, and I can assure you he likes it. You know, <hi>Doodle,</hi> he's a Poet him<lb rend="hidden" type="hyphenInWord"/>self, and Poets never flatter one another.—Why don't you play?</p>
+               </sp>
+               <sp>
+                  <pb n="20" facs="23"/>
+                  <lg n="11" type="song">
+                     <head>AIR XI. Black Joak.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>Of all the Girls in our Town,</l>
+                        <l>That with two Legs walk up and down,</l>
+                        <l>There's none with <hi>Caelia</hi> can compare.</l>
+                        <l>For she has a Breast as soft as Silk,</l>
+                        <l>To give our Children pure good Milk,</l>
+                        <l>And all her Locks like Carrots fair.</l>
+                        <l>Then she has a Mouth like any thing,</l>
+                        <l>A Tongue within does sweetly sing,</l>
+                        <l>And something else to please a Duke,</l>
+                        <l>Oh that I might upon it look,</l>
+                        <l>Oh Geminy! how I shou'd stare.</l>
+                     </lg>
+                  </lg>
+                  <p>There <hi>Doodle!</hi> is it not fine Poetry.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Oh! Geminy! how I shou'd stare! <hi>very fine indeed, Master.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>But why does not my Mistress come and thank me, Ha! <hi>Doodle.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Why, may be she is a-sleep still—we must make a greater Noise to wake her.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Ay! come then—Dol, dol dorol.</p>
+                  <stage>[They sing and dance.</stage>
+                  <stage>[<hi>Lettice</hi> throws Water upon 'em.</stage>
+                  <p> Oh! Lud, <hi>Doodle!</hi> I'm half drown'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Yes, Sir, and I am t'other half.</p>
+               </sp>
+               <stage>
+                  <pb n="21" facs="24"/>
+Enter <hi>Cleremont</hi> disguis'd.</stage>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>What Midnight Caterwawling Rascals are these—I'll teach 'em how to disturb a sleeping Neigh<lb rend="hidden" type="hyphenInWord"/>bourhood.</p>
+                  <stage>[Beats 'em, and Exit.</stage>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Oh, <hi>Doodle!</hi> I'm beaten like Eggs to a Pud<lb rend="hidden" type="hyphenInWord"/>ding.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Yes, Sir, and one of 'em is <hi>Addle,</hi> for here's and odd sort of a Smell between us.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>O lud, <hi>Doodle!</hi> here he comes again!—Let's be gone! Murder! Fire! Popery, and Sedition!</p>
+                  <stage>[Exeunt.</stage>
+               </sp>
+               <stage>Re-enter <hi>Cleremont.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>They'll hardly come a Serenading again in Haste, I believe. But I fear my dear <hi>Caelia</hi> is gone to Rest—I'll try however.</p>
+                  <lg n="12" type="song">
+                     <head>AIR XII.</head>
+                     <byline>Compos'd by Mr. <hi>Henry Carey.</hi>
+                     </byline>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>Oh! come to my Arms, my charming Fair!</l>
+                        <l>Oh! fly to thy Lover's Arms;</l>
+                        <l>We'll love all the Day,</l>
+                        <l>And we'll revel and play,</l>
+                        <l>And at Night I will guard thee from Harms.</l>
+                        <stage>[<hi>Caelia</hi> and <hi>Lettice</hi> appear at the Window.</stage>
+                     </lg>
+                     <lg>
+                        <stage>Cael.</stage>
+                        <l>Oh! had I but Wings, my only Dear,</l>
+                        <l>I then to thy Arms wou'd fly;</l>
+                        <l>But Fate is severe,</l>
+                        <l>And my Father is near,</l>
+                        <l>Who bars me from Liberty.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="22" facs="25"/>
+                  <speaker>Cler.</speaker>
+                  <p>Oh that I had thee in my longing Arms! with eager Kisses, Caresses, and Embraces, I'd never quit thee till thou wert wholly mine.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Lud! lud! what a Whining's here! Don't you remember the old Proverb, Signior—Faint Heart ne<lb rend="hidden" type="hyphenInWord"/>ver—you understand me.</p>
+                  <lg n="13" type="song">
+                     <head>AIR XIII. Wou'd you court a young Virgin, <hi>&amp;c.</hi>
+                     </head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>When you court a young Virgin of sixteen Years,</l>
+                        <l>You must banish your Sorrows, your Griefs and Cares:</l>
+                        <l>Your whining and pining will never, never</l>
+                        <l>Steer you to Harbour—then cease your Fears,</l>
+                        <l>Pleasure and Joy let your Face adorn,</l>
+                        <l>Be lively and gay as a Summer's Morn,</l>
+                        <l>Push home your Affairs, or you'll ever, ever,</l>
+                        <l>Justly deserve the Fair one's Scorn.</l>
+                     </lg>
+                  </lg>
+                  <p>Ods me! I hear my old Master! away! away as fast as you can—for if he sees you we're undone for ever—while we poor Souls go to Bed, hug our Pillows, and dream of I know not what, and of Force be contented till something better offers.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>
+                     <hi>Cleremont,</hi> adieu! <stage>[Sighing]</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>May gentle Sleep those orient Lustres close, And peaceful Dreams attend thy soft Repose.</p>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <pb n="23" facs="26"/>
+               <head>SCENE II.</head>
+               <stage>The King and Queen of <hi>Tunis</hi> discover'd seated on a Throne. Priests, Singers, Dancers, Guards and Attendants.</stage>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Thus far our Civil Wars, and Troubles cease,</l>
+                  <l>And <hi>Africk</hi> slumbers in the Breast of Peace.</l>
+               </sp>
+               <sp>
+                  <speaker>Queen.</speaker>
+                  <l>Your Arms a Cloud of Terrors spread around,</l>
+                  <l>And <hi>Hydra</hi> Faction bites the bloody Ground.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>
+                     <hi>Mirza,</hi> my Scourge of War, ploughs thro' the Main,</l>
+                  <l>The Fear and Terror of proud neighb'ring <hi>Spain.</hi>
+                  </l>
+                  <l>Yet, happy as I seem, I've something here <stage>Aside.</stage>
+                  </l>
+                  <l>Which speaks a boding Revolution near. <stage>Aside.</stage>
+                  </l>
+                  <l>Let me have Music to compose my Breast,</l>
+                  <l>And lull my Senses to a pleasing Rest.</l>
+               </sp>
+               <sp>
+                  <lg n="14" type="song">
+                     <head>SONG.</head>
+                     <stage>Sung by Priests.</stage>
+                     <head>AIR XIV.</head>
+                     <byline>Set by Mr. <hi>Charke.</hi>
+                     </byline>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>Great <hi>Amurath</hi> all Hearts obey,</l>
+                        <l>Who rules the World with settled Sway,</l>
+                        <l>And does with peaceful Homage meet:</l>
+                        <l>
+                           <pb n="24" facs="27"/>
+His silver Crescents shine so bright,</l>
+                        <l>They put out ev'ry other Light,</l>
+                        <l>And Nations bow beneath his Feet.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <stage>[After the Song, a Dance of Moors.]</stage>
+               <stage>Trumpets within.</stage>
+               <stage>Enter <hi>Mirza,</hi> attended. He Kneels.</stage>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>Long live the mighty King and Queen of <hi>Tunis!</hi>
+                  </l>
+                  <l>May Conquest ever on their Arms attend,</l>
+                  <l>And living Laurels crown their Royal Brows!</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>My <hi>Mirza,</hi> rise; Supporter of my Crown,</l>
+                  <l>And speak those noble Actions thou hast done.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirza.</speaker>
+                  <l>Ranging the Sea by my great King's Com<lb rend="hidden" type="hyphenInWord"/>mand,</l>
+                  <l>I spy'd a Ship which bore the Flag of <hi>Spain;</hi>
+                  </l>
+                  <l>We gave her Chace, and soon began the Fight.</l>
+                  <l>The noble Prize wou'd have been cheaply bought,</l>
+                  <l>But for one Man, that like a Lyon fought.</l>
+                  <l>Thrice he repuls'd the Entrance of my Men,</l>
+                  <l>Who thrice I rally'd, and led on again:</l>
+                  <l>He dealt his Blows so fatal, and so fast,</l>
+                  <l>At ev'ry Stroke a Soldier breath'd his last;</l>
+                  <l>'Till like a Tyger, spreading Death around,</l>
+                  <l>He fell o'erwhelm'd and bleeding to the Ground.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Such brave Resistance from one single Arm</l>
+                  <l>Raises my Admiration.—But go on.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirza.</speaker>
+                  <l>Such Wonders were perform'd by this bold Man,</l>
+                  <l>Inspir'd by Love of a young beauteous Maid,</l>
+                  <l>That <hi>Roman</hi> Heroes cannot parallel.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Bring forth the noble Prize thy Arms have won.</l>
+                  <stage>
+                     <pb n="25" facs="28"/>
+Enter <hi>Sebastian</hi> and <hi>Maria,</hi> Prisoners.</stage>
+                  <l>Now, by my Soul! a Miracle of Beauty!</l>
+                  <l>Christian!</l>
+                  <l>Thy Valour pleads so strong in the Defence</l>
+                  <l>Of this bright Maid, this beauteous Innocence,</l>
+                  <l>That if thy former Faith thou wilt forego,</l>
+                  <l>And by Instruction our great Prophet know,</l>
+                  <l>Honour and Fame submissively shall wait,</l>
+                  <l>And I will place thee to look down on Fate.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Thy Prophet we despise, thy Arts are vain,</l>
+                  <l>No Power on Earth shall e'er our Bosoms stain.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Thou Rose of <hi>May!</hi> thou heav'nly Excel<lb rend="hidden" type="hyphenInWord"/>lence!</l>
+                  <l>Whose lovely Features ravish ev'ry Sense!</l>
+                  <l>No Chains but Love thy beauteous Hands shall bind,</l>
+                  <l>Whose Eyes have Pow'r to fetter all Mankind.</l>
+               </sp>
+               <sp>
+                  <speaker>Queen.</speaker>
+                  <l>If to the Youth, my Sov'reign, you are kind,</l>
+                  <l>You may be gentle Usage work his Mind.</l>
+                  <l>Call for the <hi>Mufti,</hi> his persuasive Art,</l>
+                  <l>And weighty Arguments, may turn his Heart.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>So strong my Inspiration's from Above,</l>
+                  <l>Not all thy Empire can my Faith remove.</l>
+                  <l>Thy Prophet I despise, thy Arts are vain,</l>
+                  <l>No Power on Earth shall e'er our Bosoms stain.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Dost thou insult our holy Prophet's Law,</l>
+                  <l>Whom Kings obey with reverential Awe!</l>
+                  <l>Bear to the Den that stubborn impious Slave,</l>
+                  <l>And let the Maws of Lyons be his Grave.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Oh Mercy! Mercy! spare that God-like Youth!</l>
+                  <l>The Pattern of Sincerity and Truth.</l>
+                  <l>If he must fall, let me his Fate partake,</l>
+                  <l>I'll welcome Death in Pains for his dear Sake.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>For you, fair Maid, some Respite we will give,</l>
+                  <l>And a few Moments suffer him to live. </l>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <pb n="26" facs="29"/>
+                  <speaker>Queen.</speaker>
+                  <l>
+                     <hi>Mirza,</hi> his Life be thy peculiar Care,</l>
+                  <l>For if he bleeds, I must be all Despair.</l>
+                  <stage>[Aside to <hi>Mirza,</hi> and <hi>Exit.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>Why did I conquer, to be so unblest!</l>
+                  <l>I grieve to find such Virtue so distrest.</l>
+                  <l>Ha! What do I see?—My Senses are deceiv'd!</l>
+                  <l>The Bliss is sure too great to be believ'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Come, my <hi>Maria,</hi> we shall yet be free,</l>
+                  <l>For swift-wing'd Death will give us Liberty.</l>
+                  <stage>[Exeunt.</stage>
+               </sp>
+               <stage>Enter <hi>Davy</hi> and another, disguis'd, meeting <hi>Noodle</hi> and <hi>Doodle.</hi>
+               </stage>
+               <sp>
+                  <speaker>Dav.</speaker>
+                  <p>Is this the worthy Person that has an Inclina<lb rend="hidden" type="hyphenInWord"/>tion to be made one of our Noble Society?</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Yes, I am.—But pray may not my Man <hi>Doodle</hi> be made one along with me?</p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>Oh fie Sir! no, no; he must wait without 'till the Ceremony be over.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>O Lud! what must not <hi>Doodle</hi> stay in the Room with me?—I shall be frighted out of my Wits!</p>
+               </sp>
+               <sp>
+                  <speaker>Dav.</speaker>
+                  <p>I tell you, No! therefore be gone, Fellow! when we have done we'll call you.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>What adickens are they going to do?—I hope they won't equip my Master for an Opera-Sing<lb rend="hidden" type="hyphenInWord"/>er!—Adad, if they shou'd they'll spoil his Mar<lb rend="hidden" type="hyphenInWord"/>riage. </p>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <speaker>Dav.</speaker>
+                  <p>Sit down in that Chair.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>They seem to me to be mighty odd looking Fellows. I wish I get safe out of their Hands.</p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>Bind fast his Arms and Legs.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>O Jemminy! What are you going to do?</p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>Only to proceed in our Ceremony.—When were you shav'd last?</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>O Lud! shav'd! I was never shav'd in my Life.</p>
+               </sp>
+               <sp>
+                  <pb n="27" facs="30"/>
+                  <speaker>Davy.</speaker>
+                  <p>Well then, Lathering shall serve turn.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>I am glad of that, I did not know but they might have Shav'd and Bled all under one.</p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>
+                     <hi>Pantagruel,</hi> fetch the Bason of Antiquity prefently. You must know, this Bason was made out of half the Queen of <hi>Egypt</hi>'s great Pearl, when she treated <hi>Mark Antony</hi> in the Highlands of <hi>Scot<lb rend="hidden" type="hyphenInWord"/>land.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>A Pearl! as I hope to sav'd, it looks like a common Bason that may be bought for Three<lb rend="hidden" type="hyphenInWord"/>pence.</p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>A-lack-aday! you'll see with other Eyes when you have gone thro' this Ceremony.—This very Bason was given to our Honourable Society by <hi>Alexander the Great,</hi> when he turn'd Protestant after conquering <hi>North-Wales.</hi> 
+                     <stage>[Blacks his Face and picks his Pocket.]</stage> There, Sir, we have done with your Face; now lets see your Nails.—Fetch me the myste<lb rend="hidden" type="hyphenInWord"/>rious Penknife.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>A Pen-knife, d'ye call it! adad it looks to me big enough for a Scythe.</p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>A Scythe! why, this is the greatest Piece of Antiquity we have.—This Penknife was made of <hi>Eve</hi>'s <hi>Spanish</hi> Needle that she sew'd <hi>A<lb rend="hidden" type="hyphenInWord"/>dam</hi>'s Fig Breeches with—when they were stript by the <hi>Turks</hi> at the Siege of <hi>Namur.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Why then, <hi>Adam</hi> and <hi>Eve</hi> were a swing<lb rend="hidden" type="hyphenInWord"/>ing Couple—But I know that's a Lye, for I have got their Pictures in our Nursery at Home. <stage>[Aside.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>There, Sir! we have done with your Fin<lb rend="hidden" type="hyphenInWord"/>gers.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Done with my Fingers—yes! but what the Devil have you done with my Rings? Ha!</p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>O lud, lud! have but a little Patience—and you'll see 'em all turn'd to Brilliants of the first Water—your Eye-Sight can't be clear'd till you are put in the Queen of <hi>Sheba</hi>'s Petticoat. <hi>Pantagruel!</hi> fetch her Majesty's Divining Petticoat—Sir, when
+<pb n="28" facs="31"/>
+you are in this Petticoat—you'll see all Things, past, present, and to come—</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>A Petticoat! why as I hope to be marry'd, it looks like a Sack! a common Sack!</p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>A Lard help you! a Sack! tho' really now I must confess, when I was made a Mason first, I had almost the same Notion of Things as you have, good Sir—But you'll see after another manner when once you're in this wonderful Petticoat—Why, Sir, this Petticoat was made of the Webs of the Feet of the <hi>East-Indian</hi> Bird of Paradise—and the Whalebone made of one of the Hairs of King <hi>Brogdignagian</hi>'s Beard, brought over by Captain <hi>Lemuel Gulliver.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>O Lord, Sir! I do believe it—a Lye. <stage>[Aside.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>Come, Sir—in with him—when you are in—you'll see such strange Things will amaze you.</p>
+                  <stage>[They put him in the Sack, and Exeunt.</stage>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>See, quotha! od, it is as dark as a narrow Lane in a Winter's Night. But hark, you—Mr.—Mr.—Mr.—a what the Devil is your Name—Oh—Mr. <hi>Watergruell</hi>—When shall I see these same fine Things—Ha! why what the Devil are you all dumb?—Od! my Mind misgives—Ha! O Lord! Murder! Fire! Brimstone and Gunpowder—<hi>Doodle</hi>—where's <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <stage>Enter <hi>Doodle.</hi>
+               </stage>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Here, Master—</p>
+                  <stage>[Tumbles over him.</stage>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>You Son of a Bitch, you have kick'd my Nose off.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Kick'd your Nose off—why where are you, Master.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Here, here.</p>
+                  <stage>[<hi>Doodle</hi> takes him out of the Sack.</stage>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Oh lud! Murder! Murder! this can't be my Master?</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Ha! what's the matter, <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>The matter! why your Face is as black as a Cole-Miner's, or a Chimney-Sweeper's.</p>
+               </sp>
+               <sp>
+                  <pb n="29" facs="32"/>
+                  <speaker>Nood.</speaker>
+                  <p>O lud! I am undone!—I'll have the Rogues hang'd for Murder, for I am sure I have Money e<lb rend="hidden" type="hyphenInWord"/>nough to bribe a Jury, and Witnesses to swear they have murder'd me—But now I am talking of Mo<lb rend="hidden" type="hyphenInWord"/>ney, let me feel, if they have not rob'd me as well as murder'd me. <stage>[Feels in his Pockets.]</stage> Oh lud, <hi>Doodle!</hi> They have pick'd my Pocket of a hundred Pound, and stole my Rings off my Fingers—They shall be hang'd to be sure.</p>
+                  <lg n="15" type="song">
+                     <head>AIR XV. Sir <hi>Thomas,</hi> I cannot, <hi>&amp;c.</hi>
+                     </head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>I'll hang up these Rogues, I vow and I swear,</l>
+                        <l>I e'er I but live for to find 'em.</l>
+                     </lg>
+                     <lg>
+                        <stage>Dood.</stage>
+                        <l>We'll search ev'ry Town at Market and Fair,</l>
+                        <l>And if we can take 'em, we'll blind 'em.</l>
+                     </lg>
+                     <lg>
+                        <stage>Nood.</stage>
+                        <l>We'll kill 'em, and eat 'em, and bake 'em in Pies,</l>
+                     </lg>
+                     <lg>
+                        <stage>Dood.</stage>
+                        <l>Their Gilts shall make Puddings of several Size.</l>
+                     </lg>
+                     <lg>
+                        <stage>Nood.</stage>
+                        <l>Their Bones shall make Hafts for our Forks and our Knives,</l>
+                        <l>And if we can take 'em, we'll grind 'em, we'll grind 'em.</l>
+                     </lg>
+                     <lg>
+                        <stage>Both.</stage>
+                        <l>And if we can take 'em, we'll grind 'em.</l>
+                     </lg>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div type="scene">
+               <pb n="30" facs="33"/>
+               <stage>SCENE changes to a Prison.</stage>
+               <stage>Enter <hi>Sebastian,</hi> and <hi>Maria,</hi> weeping.</stage>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Dry up the Fountain of thy flowing Tears:</l>
+                  <l>Death, tho' he seizes all our little Joys,</l>
+                  <l>Yet puts an End to all our Sorrows too.</l>
+                  <l>When his pale Hand has clos'd our mournful Eyes,</l>
+                  <l>We shall awake to all Eternity,</l>
+                  <l>And live for ever in our spotless Loves.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>It gives me Joy to share thy wretched Fate,</l>
+                  <l>Tho' I cou'd live an Age in black Despair,</l>
+                  <l>If all my Torments cou'd restore thy Peace.</l>
+                  <lg n="16" type="song">
+                     <head>AIR XVI. Fond Echo.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <pb n="31" facs="34"/>
+                        <l>If Tears o'er our Fate cou'd prevail,</l>
+                        <l>My Eyes like a Torrent shou'd flow:</l>
+                        <l>But Terrors so fiercely assail,</l>
+                        <l>Each Moment encreases our Woe.</l>
+                        <l>Yet Death! with his cold friendly Dart,</l>
+                        <l>To free us from Sorrow, will fly;</l>
+                        <l>His Arrow once fixt in the Heart,</l>
+                        <l>Our Tears and our Anguish will die.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <stage>Enter the <hi>King</hi> and <hi>Mirza.</hi>
+               </stage>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Her Voice is more harmonious than the Lark,</l>
+                  <l>Whose tuneful Notes awake the chearful Spring,</l>
+                  <l>Even Liberty wou'd be enslav'd to hear her.</l>
+                  <l>How many Ways has Nature given to charm?</l>
+                  <l>By Heav'n, I'd give my Empire with my Crown,</l>
+                  <l>If in Exchange I cou'd possess her Heart.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Oh Torment to my Soul! must I hear this!</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Oh Maid Divine! return my ardent Love,</l>
+                  <l>Or I must languish in the last Despair.</l>
+                  <l>If you consent, new Joys shall meet with Joys,</l>
+                  <l>And mix their Streams in one eternal Round.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Alas! my Heart is in another's Breast,</l>
+                  <l>And I wou'd rather die ten thousand Deaths,</l>
+                  <l>Than wrong that Darling of my Soul, <hi>Sebastian.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Since a vile Slave's the Bar to all my Love,</l>
+                  <l>'Tis thus I will the Obstacle remove.</l>
+                  <stage>[Goes to stab him.</stage>
+               </sp>
+               <stage>Enter the <hi>Queen,</hi> offers to stab <hi>Maria.</hi>
+               </stage>
+               <sp>
+                  <speaker>Queen.</speaker>
+                  <l>Strike home be sure! I'll copy well thy Rage,</l>
+                  <l>And in her Crimson Streams my Griefs asswage.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>What do I see! hence Traitress! fly! be gone!</l>
+               </sp>
+               <sp>
+                  <speaker>Queen.</speaker>
+                  <l>This is a Scene you shall not act alone.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>The Captives, <hi>Mirza,</hi> to thy Care I give.</l>
+               </sp>
+               <sp>
+                  <speaker>Queen.</speaker>
+                  <l>If he is safe, your Mistress, Sir, may live.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Tempest and Whirlinds in my Bosom move,</l>
+                  <l>And I am tortur'd by Revenge and Love.</l>
+                  <l>Away! be gone! my Vengeance shall have room,</l>
+                  <l>And injur'd Honour shall pronounce thy Doom.</l>
+                  <stage>[Exe.</stage>
+               </sp>
+            </div>
+         </div>
+         <div n="3" type="act">
+            <pb n="32" facs="35"/>
+            <div n="1" type="scene">
+               <head>ACT III. SCENE I.</head>
+               <stage>A Prison.</stage>
+               <stage>Enter MIRZA, alone.</stage>
+               <sp>
+                  <speaker>MIRZA.</speaker>
+                  <l>NOW to fulfil the Longings of my Soul.</l>
+                  <l>
+                     <hi>Christian</hi> come forth, for I am all Impatience</l>
+                  <l>To be inform'd if any thing was meant</l>
+                  <l>By what I saw thee Yesterday perform.</l>
+                  <l>If thou art what I wish, thou know'st my Meaning.</l>
+               </sp>
+               <stage>Enter <hi>Sebastian.</hi>
+               </stage>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>A rising Dawn of Hope enlights my Soul!</l>
+                  <l>My gracious Lord, I will enfold myself.</l>
+                  <l>Having the Honour for a Course of Years</l>
+                  <l>To be distinguish'd by a glorious Badge,</l>
+                  <l>Which none but <hi>Masons</hi> have a Right to wear,</l>
+                  <l>Involv'd in Woe, I might have shown a Sign</l>
+                  <l>In dear Remembrance of my noble Friends,</l>
+                  <l>Without the Hope of being understood.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>Come to my Arms! thou unexpected Joy!</l>
+                  <l>And find in me, a Brother, and a Friend.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Can it be possible! in this barbarous Clime,</l>
+                  <l>Where Arts and Sciences are hardly known</l>
+                  <l>Our antient, noble, and most glorious Craft,</l>
+                  <l>(Which even Kings and Heroes have adorn'd)</l>
+                  <l>Shou'd find Reception in a <hi>Moorish</hi> Breast.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>No, no, my Brother! so Divine an Art</l>
+                  <l>Can not subsist but with Humanity.</l>
+               </sp>
+               <sp>
+                  <pb n="33" facs="36"/>
+                  <speaker>Seb.</speaker>
+                  <l>O how shall I contain my rising Joy!</l>
+                  <l>Yet one thing pains me to the very Soul:</l>
+                  <l>I grieve to think my Friend has lost his Faith.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>Banish that Fear, my Faith is yet unstain'd:</l>
+                  <l>I were unworthy of a <hi>Mason</hi>'s Name</l>
+                  <l>Shou'd I in Error live, and wound my Soul.</l>
+                  <l>Know then, my Brother, <hi>Britain</hi> gave me Birth.</l>
+                  <l>My Father, some Years past, was Consul here,</l>
+                  <l>Where Death o'ertook him in my Infancy.</l>
+                  <l>The Father of this King seiz'd me by Force,</l>
+                  <l>And press'd me to forsake my Christian Faith:</l>
+                  <l>But Heav'n inspir'd me with that Fortitude,</l>
+                  <l>That I resisted both his Frowns and Smiles.</l>
+                  <l>The King being dead, the State was so consus'd,</l>
+                  <l>That all my Persecution was forgot.</l>
+                  <l>This present Monarch took me to his Favour,</l>
+                  <l>And rais'd me to those Honours I possess.</l>
+                  <l>My long abiding in this sultry Clime,</l>
+                  <l>Has made this <hi>Afric</hi> as my Native Home.</l>
+                  <l>Tho' I shall ne'er forget my Countreymen.</l>
+                  <l>From them (residing here some Years ago)</l>
+                  <l>I first was enter'd your Society,</l>
+                  <l>And made a <hi>Mason</hi> in most perfect Form.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>What shall I say? My Soul is in such Transport,</l>
+                  <l>I cannot utter half the Joy I feel.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>Go to the Fair, inform her what has past,</l>
+                  <l>And raise her drooping melancholy Soul.</l>
+                  <l>While I will to my Royal Master sly,</l>
+                  <l>In hope to gain my Friends their Liberty.</l>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Come forth, my Fair, my lovely weeping Mourner.</l>
+                  <l>Come to my Arms, and shake of all thy Griefs.</l>
+                  <l>
+                     <hi>Mirza,</hi> that gracious, generous, <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap> Man,</l>
+                  <l>Will put an End to all our killing Woes,</l>
+                  <l>And give us Means of perfect Happiness.</l>
+               </sp>
+               <stage>Enter <hi>Maria.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Alas! there is no Comfort left for me:</l>
+                  <l>If there is Hope—she'll prove a Flatterer,</l>
+                  <l>
+                     <pb n="34" facs="37"/>
+And plunge us deeper in the Sea of Woe.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Lean on my Arm, and chear thy mourning Soul,</l>
+                  <l>For <hi>Mirza</hi>'s Friendship will our Fate controul.</l>
+                  <stage>[Exeunt.</stage>
+               </sp>
+               <stage>Enter <hi>Noodle.</hi>
+               </stage>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>O sick, sick! I have sent <hi>Doodle</hi> for a Doctor, but I believe the Devil's in him, and the Doctor too, for as I live, I shall be dead before he comes, if they don't make haste—Oh Pox take these <hi>Masons;</hi> if this is being made a <hi>Mason,</hi> I'd rather ride Post upon a Broomstick, from <hi>Scotland</hi> to <hi>Wales</hi>—</p>
+                  <stage>Enter <hi>Cleremont</hi> as a Doctor, and <hi>Doodle.</hi>
+                  </stage>
+                  <p>Od so! here comes the Doctor at last: Mighty Sir, your Servant.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Salva Domina.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>
+                     <hi>Salve, Dam ye</hi>—is that your Breeding—I thought you Doctors never curst or swore—Be<lb rend="hidden" type="hyphenInWord"/>sides, Sir, I don't want any of your Salve—mine is an inward Distemper, d'ye think you can cure me?</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Cure you, Sir! why I have cur'd five hundred incurable Diseases within this Twelvemonth—why I cur'd my Grandmother of the Tooth-ach three Weeks after she was dead.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Oh Jeminy! he's a pure Man, <hi>Doodle.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>So he is indeed, Master.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>There's no Distemper comes amiss to me.</p>
+                  <lg n="17" type="song">
+                     <pb n="35" facs="38"/>
+                     <head>AIR XVII. As Tipling John.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>I've choice of Pills,</l>
+                        <l>To cure all Ills,</l>
+                        <l>And set the Body free.</l>
+                        <l>The Gout, the Stone,</l>
+                        <l>The broken Bone,</l>
+                        <l>A Fool's Stupidity.</l>
+                     </lg>
+                     <lg>
+                        <l>The Pains of Love</l>
+                        <l>I can remove,</l>
+                        <l>And make your Mistress kind.</l>
+                        <l>I'll make you mild,</l>
+                        <l>If you are wild,</l>
+                        <l>And heal you tho' you're blind.</l>
+                     </lg>
+                  </lg>
+                  <p>Let me feel your Pulse— <stage>[Feels his Pulse.]</stage> Pray, Sir, how long have you to go?</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Oh lud! there's a Question, for a Man of your Parts—To go! why these sixty Years, I
+<pb n="36" facs="39"/>
+hope—without I get Lappy, and then <hi>Doodle</hi> shall carry me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>'Tis in vain to hide your Distemper from me—you are with Child.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>With Child! Oh lud, <hi>Doodle,</hi> what shall I do! this must be those plaguy Rogues doing with their What-d'ye-Callum Petticoat—I shall be disgrac'd for ever—to bring a Bastard into the Family—why my Mistress will never have me, if she hears I am with Child before Marriage.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>'Tis a very sad thing, Master—But it's ma<lb rend="hidden" type="hyphenInWord"/>ny an honest Body's Case besides yours—now I think on't, I'll tell you what you shall do.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>What! good <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>E'en marry your Mistress to-night, swear she's the Father, and if you shou'd be both brought to Bed at the same Time, why one Lying-in may serve you both.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Egad! and so I will!—But this is a sad thing to be with Child, and not know the Father, <hi>Doodle.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Why, Master, let the Parish father it: we'll drop it in a Basket at the Church-Warden's Door, as I was, and then you know, he's oblig'd to take Care of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>What then, are you a Bastard, <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Truly, I can't tell, for I don't remember the Day I was born, nor did I ever hear that I had any Father or Mother; and to be sure those that never had any Father or Mother, can't be lawfully begot you know, Master.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Why that's very true, indeed, <hi>Doodle</hi>— <stage>[Knocking without]</stage> See who's at the Door, <hi>Doodle.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>I can hardly keep my Countenance—Their abominable Simplicity will make me laugh in spite of my Teeth—In my Conscience, one may perswade these Fellows, the Moon's made of a Mince-Pye.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>
+                     <stage>[Within]</stage> O lud! Murder! Murder!</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>O Jeminy! what's the matter, <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <stage>
+                  <pb n="37" facs="40"/>
+Enter <hi>Doodle.</hi>
+               </stage>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>I'm almost choakt.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>How so, <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Why, a Sow's Face Son of a Bitch clap'd this Letter in my Hand, and when he had done, lug'd the Knocker of the Door so hard with one Hand, and me by the Ear with the other, that I thought verily the Edge of the Door wou'd have serv'd me, as <hi>Judith</hi> did <hi>Holofernes,</hi> and have cut off my Head when he had almost choakt me, the Rogue ran away—There—I wish, I had never seen the Face on't.</p>
+                  <stage>[Gives <hi>Noodle</hi> the Letter.</stage>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>
+                     <floatingText type="letter">
+                        <body>
+                           <p>To <hi>Nicodemus Noodle,</hi> 
+                              <abbr>Esq</abbr> 
+                              <stage>[Reads]</stage>
+                           </p>
+                        </body>
+                     </floatingText> 'Tis di<lb rend="hidden" type="hyphenInWord"/>rected to me, I find.<floatingText type="letter">
+                        <body>
+                           <p>
+                              <hi>Thou poor insignificant Wretch!</hi>
+                           </p>
+                        </body>
+                     </floatingText> Ha! why what the Dickens is the matter now?<floatingText type="letter">
+                        <body>
+                           <p> 
+                              <hi>If thou dost not drop all thy Pretensions to my Mistress the divine</hi> Caelia, <hi>expect not to live a Day,</hi>
+                           </p>
+                        </body>
+                     </floatingText> O Gemini<floatingText type="letter">
+                        <body>
+                           <p> 
+                              <hi>for the first Time thou stirr'st abroad, I'll cut off thy Legs with a Sword as broad as a Scythe—Remember that, and tremble.</hi>
+                           </p>
+                           <closer>
+                              <signed>CLEREMONT.</signed>
+                           </closer>
+                        </body>
+                     </floatingText>
+                  </p>
+                  <p>O Lud! what shall I do—od now I think on't, I'll have him taken up, and hang'd, for this is as bad as the House-firers Letters—is it not, Mr. <hi>Doctor?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Why, 'tis a terrible Letter, I must own—but you can't prove any thing against him—you can't swear that's his Hand.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Yes, but I can swear it.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Why did you ever see it, <hi>Doodle?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>No, but I felt it at the Door, and my Ear will bear me Witness, and we'll both swear, that Let<lb rend="hidden" type="hyphenInWord"/>ter's the same Hand-writing.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Indeed, Gentlemen, that won't <gap resp="#oxf" extent="1 span" rend="content:〈…〉">
+                        <desc>illegible</desc>
+                     </gap> go a nearer way to work, and marry the Lady imme<lb rend="hidden" type="hyphenInWord"/>diately.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>That's fine Advice truly—why <gap resp="#oxf" extent="1 span" rend="content:〈…〉">
+                        <desc>illegible</desc>
+                     </gap> if I cou'd, you may be sure.</p>
+               </sp>
+               <sp>
+                  <pb n="38" facs="41"/>
+                  <speaker>Cler.</speaker>
+                  <p>Sir, if you'll leave this Affair to me, I'll not only bring you your Mistress, but a Parson to marry you.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Will you! ah dear Sir! <stage>[Kisses him]</stage> you are the best Friend I ever met with in my Life.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>I'll write a Letter to her Father, you shall co<lb rend="hidden" type="hyphenInWord"/>py it, and I'll carry it myself, and I warrant we suc<lb rend="hidden" type="hyphenInWord"/>ceed.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Adod! and I'll make you amends—I have a Cousin of mine Heir to a great Estate, his Father wants a Physician—you shall be recommended to him—you understand your Business—and he'll pay you well.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Sir, I thank you.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>But I am sadly afraid my Mistress won't love me, when I am marry'd to her.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>But Master, you know the old Saying, lying together makes Pigs love.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Ay, that's true, <hi>Doodle</hi>—and now I remem<lb rend="hidden" type="hyphenInWord"/>ber a Song of my Father's making.</p>
+                  <lg n="18" type="song">
+                     <head>AIR XVIII. Logan Water.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>A Man tho' hated much at first,</l>
+                        <l>Tho' by his Spouse is often curst:</l>
+                        <l>Yet when at Night his Rib he meets,</l>
+                        <l>They're reconcil'd between the Sheets.</l>
+                     </lg>
+                  </lg>
+                  <p>Come into the next Room, and we'll finish the Mat<lb rend="hidden" type="hyphenInWord"/>ter. </p>
+                  <stage>[Exeunt.</stage>
+               </sp>
+               <stage>
+                  <pb n="39" facs="42"/>
+Enter <hi>King,</hi> meeting <hi>Mirza.</hi>
+               </stage>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Well my kind <hi>Mirza,</hi> what is thy Success?</l>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>As you cou'd wish, her Love she does con<lb rend="hidden" type="hyphenInWord"/>fess;</l>
+                  <l>But yet in Secret wou'd that Love possess.</l>
+                  <l>She wou'd not have the World reveal her Shame.</l>
+                  <l>On this Condition (to preserve her Fame)</l>
+                  <l>She'll give you full Possession of her Charms,</l>
+                  <l>And in the dark will fill your longing Arms.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Oh! thou hast given me greater Joys by far,</l>
+                  <l>Than all thy great successful Deeds in War.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>Retire, my Lord, let Love be all your Care,</l>
+                  <l>When Night comes on, I will conduct the Fair.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Farewell!—ye lazy Minutes swiftly move,</l>
+                  <l>That I may take Possession of my Love.</l>
+                  <stage>[Exit.</stage>
+               </sp>
+               <stage>Enter <hi>Queen</hi> to <hi>Mirza.</hi>
+               </stage>
+               <sp>
+                  <speaker>Queen.</speaker>
+                  <l>
+                     <hi>Mirza!</hi>
+                  </l>
+                  <l>Thou hast full oft' the furious Battel seen,</l>
+                  <l>Yet (to disclose the Secrets of thy Queen)</l>
+                  <l>No Storms, no Shipwreck, or the Face of War</l>
+                  <l>Can form that Horror like the Soul's Despair.</l>
+                  <l>Thy Captive, has thy Mistress Captive made,</l>
+                  <l>And I shall languish to a silent Shade.</l>
+                  <l>I know you'll say my Passion's vile and foul,</l>
+                  <l>But Love's the very Tyrant of the Soul;</l>
+                  <l>Baffles our Reason, and disdains all Laws;</l>
+                  <l>Pleads for himself, and ever gains the Cause.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>I have already thought to calm your Breast:</l>
+                  <l>When all the Court are sunk in downy Rest,</l>
+                  <l>In secret Silence I'll the Youth convey</l>
+                  <l>To your Apartment, where by me betray'd,</l>
+                  <l>He shall believe he clasps the <hi>British</hi> Maid.</l>
+               </sp>
+               <sp>
+                  <speaker>Queen.</speaker>
+                  <l>Oh my kind <hi>Mirza!</hi> may'st thou happy prove,</l>
+                  <l>If e'er thy Heart is pierc'd by mighty Love.</l>
+                  <stage>[Exit.</stage>
+               </sp>
+               <pb n="38" facs="43"/>
+               <gap extent="1 page" rend="content:〈1 page duplicate〉">
+                  <desc>duplicate</desc>
+               </gap>
+               <pb n="39" facs="44"/>
+               <gap extent="1 page" rend="content:〈1 page duplicate〉">
+                  <desc>duplicate</desc>
+               </gap>
+               <sp>
+                  <pb n="40" facs="45"/>
+                  <speaker>Mirza.</speaker>
+                  <l>Heav'n will, I hope, the pious Fraud ap<lb rend="hidden" type="hyphenInWord"/>prove,</l>
+                  <l>Since all I act, is done for virtuous Love.</l>
+                  <stage>[Exit.</stage>
+               </sp>
+               <stage>Enter <hi>Moody, Caelia,</hi> and <hi>Lettice,</hi> meeting <hi>Noodle</hi> and <hi>Doodle.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Well, Son-in-Law, is the Parson come? You see I have brought my Daughter, according to your Desire in your Letter.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>The Parson! yes, and the Parson's Wife, too.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>The Parson's Wife! what a pize does she do here? Oh, I suppose she smells a good Supper.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>No, no; my new Friend the Doctor says she plays rarely upon the Pipe and Tabor, so we shall have Musick for nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>She has other Business, which you shall know by and by. <stage>[Aside.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Well, Son in-Law, dispatch your Grace as fast as you can, and I'll go hasten Supper.—But don't fall too before I come.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>They won't perhaps make a Meal, Sir, but they may have a mind to pick a Bit, or so.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood</speaker>
+                  <p>Thou'rt a Wag-tail, Hussy.—But I'll make haste.—And when the Wedding's over, Son, we'll think how to punish that Rogue <hi>Claremont.</hi>
+                  </p>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Ay, pray Sir do, for the Thoughts of him may chance to spoil my Master's Stomach to-night.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Ah, my little Goldfinch! have I caught you at last?</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>You must throw some Salt upon her Tail first.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Yes, yes! I'll salt her, broil her, and eat her.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>Bless me! you're a dangerous Man, Squire.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Don't fear, Madam, his Fury will soon be over.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Come, my Dear, my Stomach's up, and I cou'd seed heartily, if Grace was said.—Od! I
+<pb n="41" facs="46"/>
+fancy it's a pure thing to be marry'd, for Old and Young, Rich and Poor, are fond of the Noose.—Besides, I was always afraid to lye alone.</p>
+                  <lg n="19" type="song">
+                     <head>AIR XIX. A Tenant of my own.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>Sure Marriage is a Dish</l>
+                        <l>That ev'ry one wou'd taste,</l>
+                        <l>
+                           <hi>With a fal, lal, la,</hi> &amp;c.</l>
+                     </lg>
+                     <lg>
+                        <l>Like Mackerel, at first</l>
+                        <l>It gives fine Repast,</l>
+                        <l>
+                           <hi>With a fal,</hi> &amp;c.</l>
+                     </lg>
+                     <lg>
+                        <l>But in a little Time</l>
+                        <l>They are so common grown,</l>
+                        <l>They're cry'd about from Street to Street,</l>
+                        <l>In Country and in Town.</l>
+                        <l>
+                           <hi>With a fal,</hi> &amp;c. </l>
+                     </lg>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+               <stage>
+                  <pb n="42" facs="47"/>
+Enter <hi>Mirza, Sebastian,</hi> and <hi>Maria.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>In vain I've labour'd with the King and Queen</l>
+                  <l>To cease their ill-plac'd Love, and give you Freedom.</l>
+                  <l>Therefore I've plotted to deceive their Hopes:</l>
+                  <l>Into each other's Arms they blindly run,</l>
+                  <l>And revel in Imaginary Bliss.</l>
+                  <l>All things conspire to bless our happy Flight;</l>
+                  <l>The Court's dull Silence, and this gloomy Night.</l>
+                  <l>Let us with secret Speed the <hi>Molo</hi> gain,</l>
+                  <l>Once fafe on Board, we shall be free from Pain;</l>
+                  <l>My Ship stands ready, and full fair's the Wind,</l>
+                  <l>Let us imbark, and leave this Shore behind.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>What Words can speak the Gratitude we owe!</l>
+                  <l>But Words are poor, and ill our Hearts can show.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>I'm doubly paid if I can set you free,</l>
+                  <l>We labour now for Love and Liberty.</l>
+                  <stage>[Exeunt.</stage>
+               </sp>
+               <stage>Enter the <hi>King,</hi> leading the <hi>Queen.</hi>
+               </stage>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Come forth, my Love, reviving Pleasures give,</l>
+                  <l>And let me view those Eyes by which I live.</l>
+               </sp>
+               <sp>
+                  <speaker>Queen.</speaker>
+                  <l>
+                     <stage>[Aside.]</stage> By Heav'n! my Husband's Voice:</l>
+                  <l>Oh cursed Fate!</l>
+                  <l>Instead of him I love, I've him I hate.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Furies and Hell! the Queen's dull sated Face!</l>
+                  <l>Did I for <hi>Juno,</hi> this dark Cloud embrace!</l>
+               </sp>
+               <sp>
+                  <speaker>Queen.</speaker>
+                  <l>
+                     <stage>[Aside.]</stage> Thinking I've had a <hi>Mars</hi> to <hi>Venus</hi> kind,</l>
+                  <l>I've clasp'd a <hi>Vulcan</hi> in my Arms, I find.</l>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Who waits within?</l>
+                  <stage>Enter an Attendant.</stage>
+                  <l>Bring <hi>Mirza</hi> to me strait.</l>
+                  <l>Pernicious Slave! I'll soon resolve his Fate.</l>
+               </sp>
+               <sp>
+                  <speaker>Att.</speaker>
+                  <l>My Royal Lord, <hi>Mirza</hi> is fled to Sea,</l>
+                  <l>And to the Captives has given Liberty.</l>
+               </sp>
+               <sp>
+                  <pb n="43" facs="48"/>
+                  <speaker>King.</speaker>
+                  <l>Ha! Haste to the Mole, and bid the Gallies arm;</l>
+                  <l>I'll kill the Slaves, and break this fatal Charm.</l>
+                  <l>Blow swift, ye Winds, and give my Vengeance way,</l>
+                  <l>Nor Winds nor Waves shall my dire Fury stay.</l>
+               </sp>
+               <stage>Enter an Officer.</stage>
+               <sp>
+                  <speaker>Off.</speaker>
+                  <l>My Lord, I come by <hi>Mirza</hi>'s strict Command</l>
+                  <l>To give this Paper to your Royal Hand.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>
+                     <stage>[Reads.]</stage>
+                     <floatingText type="letter">
+                        <body>
+                           <opener>
+                              <salute>My Royal Lord,</salute>
+                           </opener>
+                           <p>
+                              <hi>PArdon the Deceit I have been guilty of; I had no o<lb rend="hidden" type="hyphenInWord"/>ther Motive than to assist the Virtuous.—If your Majesty will weigh this Action calmly in the Scales of Reason, I am assur'd of my Forgiveness.—Your Queen is innocent; call back your Heart, and give it where Hea<lb rend="hidden" type="hyphenInWord"/>ven design'd it.</hi>
+                           </p>
+                           <closer>
+                              <signed>Your faithful Slave, MIRZA.</signed>
+                           </closer>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Such generous Sentiments I must approve,</l>
+                  <l>Tho' I am lost for ever to my Love. </l>
+                  <stage>[Exeunt.</stage>
+               </sp>
+               <stage>Enter <hi>Noode, Doodle, Jenny</hi> Mask'd, <hi>Davy</hi> and <hi>Lettice;</hi> meeting <hi>Moody.</hi>
+               </stage>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Ah, Father-in-Law! egad I have don't at last, I have tickled her Toby for her.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Ay, ay, Master has tickled her—</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Pray hold your Prating, Mr. <hi>Doodle</hi>—You must not be so familiar with me as you have been, now I am a marry'd Man.</p>
+               </sp>
+               <sp>
+                  <speaker>Jenn.</speaker>
+                  <p>
+                     <stage>[Unmasks.]</stage> No, my Dear, I'll take care your Servants sha'nt be impertinent for the future.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Why, what the dickens have I got here! this is the Parson's Wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Jenn.</speaker>
+                  <p>No Sir, you are mistaken—I pass'd for the Parson's Wife, to get into the House indeed,
+<pb n="44" facs="49"/>
+but I'll assure you I am no Body's Wife but thine, Deary.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Deary, with a Pox! Pray who are you? Whence came you? Whither go you? And who d'ye belong to?</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Why, in the first Place, She is my Sister.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Is she, is she?</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>And for the next Question of, <hi>Whence came you?</hi> I came from Keeping, from one that has turn'd me off.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>And in answer to your <hi>Where are you going?</hi> She is going to be Mistress of your Family.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Fourthly and Lastly, answers for it self, for I am now your Wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Well, <hi>Jenny,</hi> I'm glad of thy good Fortune.—You know I'm to have Five hundred for making the Match, my Dear.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Depend on't, I'll never be worse than my Word, my Dear.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>My Dear, and my Dear, with a Pox t'ye—I'll hang my self, be bury'd alive, and walk.</p>
+               </sp>
+               <sp>
+                  <lg n="20" type="song">
+                     <head>AIR XX. Excuse me.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <stage>Jenny.</stage>
+                        <l>If my Deary longs to swing,</l>
+                        <l>And wants a good tough Haltar,</l>
+                        <l>
+                           <pb n="45" facs="50"/>
+Your dear loving Bride</l>
+                        <l>A Rope will provide,</l>
+                        <l>For fear your Mind shou'd alter.</l>
+                     </lg>
+                     <lg>
+                        <stage>Nood.</stage>
+                        <l>Thanks, my pretty Dove,</l>
+                        <l>Now I know thy Love,</l>
+                        <l>I'll think no more of Hanging;</l>
+                        <l>For if I shou'd lead a wicked Lafe,</l>
+                        <l>I'm sure to be sav'd by my virtuous Wife.</l>
+                     </lg>
+                     <lg>
+                        <stage>Dood.</stage>
+                        <l>O Lud! good Sir, no more of Strife,</l>
+                        <l>For fear you draw on a Banging.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Well, I'll swear I think you are a happy Man, Squire.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Master, if you don't miscarry, lay the Child upon her, swear she's the Father; and have her hang'd for a Witch.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>O Lud, <hi>Doodle!</hi> I have miscarry'd already, I think.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Oons! What is the meaning of this?</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Meaning, Sir! why the Meaning's plain—This is my Sister, poor Girl, who keeping Shop, and having nothing but stale Ware to deal with, besides Losses by Fire, was almost ready to starve. So I con<lb rend="hidden" type="hyphenInWord"/>triv'd to marry her to this Gentleman, that she may know where to eat, that's all.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Oons! my Mind misgives me; where's my Daughter, Hussy?</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Lawd, don't trouble your self about your Daughter, she is full of Business.—I'm afraid she'll have Work to do all Night.—But here she comes, and your Son too.</p>
+               </sp>
+               <stage>Enter <hi>Cleremont</hi> and <hi>Caelia.</hi>
+               </stage>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Oh, here comes the Doctor!—Did not you tell me I shou'd be marry'd in half an Hour—and here—</p>
+               </sp>
+               <sp>
+                  <pb n="46" facs="51"/>
+                  <speaker>Lett.</speaker>
+                  <p>Why, is the Devil in the Man! are you not marry'd?</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Yes, but I mean to Madam <hi>Caelia.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>That cou'd hardly be, for I was forc'd to mar<lb rend="hidden" type="hyphenInWord"/>ry her my self.</p>
+               </sp>
+               <sp>
+                  <speaker>Nood.</speaker>
+                  <p>Was you so! you were devilishly hard put to't. Here, I'll give you my Wife, and Forty Shil<lb rend="hidden" type="hyphenInWord"/>lings to change, and she's a better bred Woman, I can assure you, and can get her own Living if occa<lb rend="hidden" type="hyphenInWord"/>sion be.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>I must e'en be contented as I am.</p>
+               </sp>
+               <sp>
+                  <speaker>Dood.</speaker>
+                  <p>Master, since you are so willing to part with her, give me the Money, and I'll take her. And if I don't like her, you shall have her again—for I believe she will be Wife enough for us both.</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Well said, <hi>Doodle!</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>
+                     <hi>Cleremont!</hi> let me come at the Dog; I'll mur<lb rend="hidden" type="hyphenInWord"/>der him, a Dog, a cut-throat Dog—Draw, you Dog, and let me kill you.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>No, Sir, it is not his Time to draw yet.—Come, Sir, I'll be his Champion <stage>[Draws <hi>Cleremont</hi>'s Sword.]</stage> and whip you thro' the Lungs immediately.—Why don't you make your Thrust? Oh I had forgot—those Days are over with you.—Come, Sir, and Madam, kneel down <stage>[They kneel]</stage> Come, old Fellow, give 'em your Blessing, d'ye hear!</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>I bless 'em! Damn 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>What, d'ye dispute? Zounds! do it, or I'll run my Sword thro' your Midriff.</p>
+               </sp>
+               <sp>
+                  <speaker>Mood.</speaker>
+                  <p>Why, the Devil's in her, sure.—Well, since I can't help it, Bless ye! Bless ye!</p>
+               </sp>
+               <sp>
+                  <speaker>Cler.</speaker>
+                  <p>Now, my Love, our Joys are compleated.</p>
+               </sp>
+               <sp>
+                  <speaker>Cael.</speaker>
+                  <p>Since my Father is reconcil'd, my Happiness can't receive Addition.</p>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>Well, <hi>Lettice,</hi> since my Master and your Mi<lb rend="hidden" type="hyphenInWord"/>stress have brought Matters to bear—I hope you'll let me take Possession of your Tenement.</p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>You must be Tenant for Life then—for I don't care to let Lodgings, where People run away
+<pb n="47" facs="52"/>
+and pay no Rent. Yet I have known many an honest Woman pick up a pretty Living by it—and indeed if you can't occupy the Tenement your self, it would be unreasonable it shou'd lie empty.</p>
+                  <lg n="21" type="song">
+                     <head>AIR XXI. Of all the simple things we do.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <l>When once the Lease is drawn, my Love,</l>
+                        <l>We'll manage as well as we may;</l>
+                     </lg>
+                     <lg>
+                        <stage>Davy.</stage>
+                        <l>The House shall be well kept, my Dove,</l>
+                        <l>For I'll guard it every Day.</l>
+                     </lg>
+                     <lg>
+                        <stage>Lett.</stage>
+                        <l>You must rise then and open the Door,</l>
+                        <l>And shut it again ev'ry Night.</l>
+                        <l>I'll sew, and stitch;</l>
+                     </lg>
+                     <lg>
+                        <stage>Davy.</stage>
+                        <l>I'll hedge, and ditch,</l>
+                     </lg>
+                     <lg>
+                        <stage>Both.</stage>
+                        <l>To keep our Children tight.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Davy.</speaker>
+                  <p>One thing I had like to have forgot.—There's your Money and Rings again, Squire—I did not intend to cheat you, and it was impossible to make a Fool of you, for I think you were ready made to my Hands, and I am your most humble Trout, <hi>Davy Dub-Fool.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Lett.</speaker>
+                  <p>Lovers, lead on, the Grace you know is said, The Cloath is laid, but you may Sup—in Bed.</p>
+               </sp>
+               <sp>
+                  <pb n="48" facs="53"/>
+                  <lg n="22" type="song">
+                     <head>AIR XXII. Hunt the Squirrel.</head>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <stage>Cler.</stage>
+                        <l>Now our Fears are over;</l>
+                        <l>Venus <hi>smiling,</hi>
+                        </l>
+                        <l>Cares beguiling</l>
+                        <l>Gives the faithful Lover</l>
+                        <l>Hope of all his Joy.</l>
+                     </lg>
+                     <lg>
+                        <stage>Cael.</stage>
+                        <l>Now I'm thine for ever;</l>
+                        <l>Bliss increasing,</l>
+                        <l>Never ceasing,</l>
+                        <l>Nought but Death will sever</l>
+                        <l>Love that will not cloy.</l>
+                     </lg>
+                     <lg>
+                        <stage>Davy.</stage>
+                        <l>Since the Cloth is laid,</l>
+                        <l>And the Grace is said,</l>
+                        <l>Sure we may fall too;</l>
+                        <l>I never was more inclin'd, my Dear,</l>
+                        <l>To shew thee what I can do.</l>
+                     </lg>
+                     <lg>
+                        <stage>Lett.</stage>
+                        <l>Since your Stomach's good,</l>
+                        <l>You shall meet with Food,</l>
+                        <l>Wholesome, clean, and neat;</l>
+                        <l>And since thou hast such a Mind, my Dear,</l>
+                        <l>I pr'ythee fall to thy Meat. </l>
+                     </lg>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div type="scene">
+               <pb n="49" facs="54"/>
+               <head>SCENE</head>
+               <stage>the Sea.</stage>
+               <stage>Enter <hi>Mirza, Sebastian,</hi> and <hi>Maria.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>Once more, my Friends, we Taste of Liberty,</l>
+                  <l>And are from Fears of Death and Dangers free;</l>
+                  <l>With you I will explore my Native Land,</l>
+                  <l>Where all my Fortunes wait on your Command.</l>
+               </sp>
+               <sp>
+                  <speaker>Seb.</speaker>
+                  <l>Now, my <hi>Maria,</hi> let us jointly bless</l>
+                  <l>The generous Author of our Happiness,</l>
+                  <l>To whom, both Life and Liberty we owe,</l>
+                  <l>The Friend, that drew us from a World of Woe.</l>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>What I have done was in firm Virtue's Cause.</l>
+                  <l>Thou art my Brother by the strictest Laws.</l>
+                  <l>A Chain, unseen, fast binds thee to my Heart,</l>
+                  <l>A Tye, that never can from Virtue part.</l>
+                  <stage>[Musick heard in the Air.]</stage>
+                  <l>What Divine Harmony is this we hear!</l>
+                  <l>It fills my Soul with Reverential Fear.</l>
+               </sp>
+               <stage>
+                  <hi>Neptune</hi> rises to a Symphony of soft Musick, attended by <hi>Tritons.</hi>
+               </stage>
+               <sp>
+                  <pb n="50" facs="55"/>
+                  <lg n="23" type="song">
+                     <head>AIR XXIII.</head>
+                     <byline>Set by Mr. <hi>J. Sheeles.</hi>
+                     </byline>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <stage>Nept.</stage>
+                        <l>Be still, you Monsters of the Deep,</l>
+                        <l>Ye low'ring Tempests cease to roar;</l>
+                        <l>Within your Cells supinely sleep,</l>
+                        <l>'Till these are safe on <hi>Albion</hi>'s Shore.</l>
+                        <l>Ye gentle-breathing Gales, arise;</l>
+                        <l>(Old Ocean, thou my Will obey;)</l>
+                        <l>Let no black Cloud obscure the Skies,</l>
+                        <l>But chearing Rays gild o'er the Day.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <lg n="24" type="song">
+                     <head>AIR XXIV.</head>
+                     <byline>Set by Mr. <hi>J. Sheeles.</hi>
+                     </byline>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <stage>Chorus of Tritons</stage>
+                        <l>
+                           <hi>Neptune</hi> from all Ills shall guard you,</l>
+                        <l>Sleep secure in Peace and Joy,</l>
+                        <l>
+                           <hi>Venus,</hi> smiling, will reward you,</l>
+                        <l>
+                           <hi>Hymen</hi> shall your Griefs destroy.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="51" facs="56"/>
+                  <lg n="25" type="song">
+                     <head>AIR XXV.</head>
+                     <byline>Set by Mr. <hi>Hen. Carey.</hi>
+                     </byline>
+                     <gap rend="content:〈♫〉">
+                        <desc>music</desc>
+                     </gap>
+                     <lg>
+                        <stage>Nept.</stage>
+                        <l>By Masons Art th'aspiring Dome</l>
+                        <l>In various Columns shall arise:</l>
+                        <l>All Climates are their Native Home,</l>
+                        <l>Their God-like Actions reach the Skies.</l>
+                     </lg>
+                     <lg>
+                        <stage>Chorus.</stage>
+                        <l>Heroes and Kings revere their Name,</l>
+                        <l>And Poets sing their lasting Fame.</l>
+                     </lg>
+                     <lg>
+                        <stage>Nept.</stage>
+                        <l>Great, generous, virtuous, good, and brave,</l>
+                        <l>Are Titles they most justly claim;</l>
+                        <l>Their Deeds shall live beyond the Grave,</l>
+                        <l>And ev'ry Age their Fame proclaim.</l>
+                     </lg>
+                     <lg>
+                        <stage>Chorus.</stage>
+                        <l>Time shall their glorious Acts inroll,</l>
+                        <l>And Love, with Friendship, charm the Soul.</l>
+                     </lg>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mirz.</speaker>
+                  <l>The Power that form'd the Earth, the Sea, and Air,</l>
+                  <l>Makes constant Virtue his peculiar Care:</l>
+                  <l>And tho' some bitter Moments they may find,</l>
+                  <l>To try the Strength and Courage of the Mind!</l>
+                  <l>Yet once the hard and fiery Tryal past,</l>
+                  <l>The glorious Recompence is found at last.</l>
+               </sp>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="proposaltoprint">
+            <pb facs="57"/>
+            <head>PROPOSALS</head>
+            <p>For PRINTING by SUBSCRIPTION,</p>
+            <p>The LIFE, MEMOIRS, VOYAGES, TRAVELS, and ADVENTURES, of <hi>WILLIAM OWEN GWIN VAUGHAN,</hi> 
+               <abbr>Esq</abbr>
+            </p>
+            <p>Collected from his own original Papers. Inter<lb rend="hidden" type="hyphenInWord"/>mix'd with Variety of other Memoirs.</p>
+            <p>The Book to consist of twenty eight Sheets, in <hi>Octa<lb rend="hidden" type="hyphenInWord"/>vo,</hi> Printed with a handsome Letter, on a superfine <hi>Genoa</hi> Paper.</p>
+            <p>The Price to SUBSCRIBERS Half-a-Guinea, to be paid down; and the Book to be deliver'd to the SUBSCRIBERS in <hi>April</hi> next, handsomly Bound and Gilt.</p>
+            <p>The Names of the Subscribers to be Printed.</p>
+            <p>Subscriptions are taken by the Compiler, at the Thea<lb rend="hidden" type="hyphenInWord"/>tre-Royal in <hi>Drury-Lane.</hi>
+            </p>
+         </div>
+         <div type="publishersadvertisement">
+            <head>Just Publish'd, and Sold by <hi>J. Roberts</hi> in <hi>Warwick-Lane,</hi>
+            </head>
+            <list>
+               <item>BAYES's OPERA, in Three Acts, as Per<lb rend="hidden" type="hyphenInWord"/>form'd by His Majesty's Company of Comedians, at the Theatre-Royal in <hi>Drury-Lane.</hi> With a Preface concerning that Way of Writing, by Mr. <hi>Odingsells.</hi> Price 1<hi>s.</hi> 6<hi>d.</hi>
+               </item>
+               <item>Likewise the Third Edition of the <hi>Lover's Opera.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

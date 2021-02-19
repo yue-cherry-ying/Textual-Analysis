@@ -1,0 +1,1023 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The temple of fame: a vision. By Mr. Pope.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023195.000</idno>
+            <idno type="docno">CW3315793665</idno>
+            <idno type="ecll">1027600800</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The temple of fame: a vision. By Mr. Pope.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>52,[4]p.,plate ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for Bernard Lintott,</publisher>
+                  <date>1715.</date>
+                  <idno type="TCP">K023195.000</idno>
+                  <idno type="docno">CW3315793665</idno>
+                  <idno type="ecll">1027600800</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title, and a 4-page catalogue of 'Books printed for Bernard Lintott'.</note>
+                  <note>The frontispiece, found in the majority of copies, may be a later addition.</note>
+                  <note>Also issued as part of: 'Seven select pieces written by Mr. Pope', London, 1736.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P975</note>
+                  <note>Griffith, 45</note>
+                  <note>English Short Title Catalog, ESTCT5754.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>THE TEMPLE OF FAME.</p>
+            <p>Price One Shilling.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="2"/>
+            <p>
+               <figure rend="block">
+                  <head>The Temple of Fame.</head>
+                  <p>L <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap> Cheron inv.</p>
+                  <p>Sam<hi rend="sup">l</hi>. Gribelin Jun<hi rend="sup">r</hi>. Sculp.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="titlepage">
+            <pb facs="3"/>
+            <p>THE TEMPLE OF FAME: A VISION.</p>
+            <p>By Mr. <hi>POPE.</hi>
+            </p>
+            <p>THE SECOND EDITION.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for BERNARD LINTOTT between the two <hi>Temple-Gates</hi> in <hi>Fleetstreet.</hi> 1715.</p>
+         </div>
+         <div type="authorsnote">
+            <pb facs="4"/>
+            <head>Advertisement.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Hint of the following Piece was taken from <hi>Chaucer</hi>'s <hi>House of Fame.</hi> The Design is in a man<lb rend="hidden" type="hyphenInWord"/>ner entirely alter'd, the Descrip<lb rend="hidden" type="hyphenInWord"/>tions and most of the particular Thoughts my own: Yet I could not suffer it to be printed with<lb rend="hidden" type="hyphenInWord"/>out this Acknowledgment, or think a Concealment of this Nature the less unfair for being common. The Reader who would compare this with <hi>Chaucer,</hi> may begin with his Third Book of <hi>Fame,</hi> there being nothing in the Two first Books that answers to their Title.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="7" facs="5"/>
+         <head>THE TEMPLE OF FAME.</head>
+         <lg>
+            <l>
+               <seg rend="decorInit">I</seg>N that soft Season when descending Showers</l>
+            <l>Call forth the Greens, and wake the rising Flowers;</l>
+            <l>When opening Buds salute the welcome Day,</l>
+            <l>And Earth relenting feels the Genial Ray;</l>
+            <l>
+               <pb n="8" facs="6"/>
+As balmy Sleep had charm'd my Cares to Rest,</l>
+            <l>And Love it self was banish'd from my Breast,</l>
+            <l>(What Time the Morn mysterious Visions brings,</l>
+            <l>While purer Slumber spread their golden Wings)</l>
+            <l>A Train of Phantoms in wild Order rose,</l>
+            <l>And, join'd, this Intellectual Scene compose.</l>
+         </lg>
+         <lg>
+            <l>I stood, methought, betwixt Earth, Seas, and Skies;</l>
+            <l>The whole Creation open to my Eyes:</l>
+            <l>In Air self-balanc'd hung the Globe below,</l>
+            <l>Where Mountains rise, and circling Oceans flow;</l>
+            <l>Here naked Rocks and empty Wastes were seen,</l>
+            <l>There tow'ry Cities, and the Forests green:</l>
+            <l>Here sailing Ships delight the wand'ring Eyes;</l>
+            <l>There Trees, and intermingl'd Temples rise:</l>
+            <l>
+               <pb n="9" facs="7"/>
+Now a clear Sun the shining Scene displays,</l>
+            <l>The transient Landscape now in Clouds decays.</l>
+            <l>O'er the wide Prospect as I gaz'd around,</l>
+            <l>Sudden I heard a wild promiscuous Sound,</l>
+            <l>Like broken Thunders that at distance roar,</l>
+            <l>Or Billows murm'ring on the hollow Shoar:</l>
+            <l>Then gazing up, a glorious Pile beheld,</l>
+            <l>Whose tow'ring Summit ambient Clouds conceal'd.</l>
+            <l>High on a Rock of Ice the Structure lay,</l>
+            <l>Steep its Ascent, and slipp'ry was the Way;</l>
+            <l>The wond'rous Rock like <hi>Parian</hi> Marble shone,</l>
+            <l>And seem'd to distant Sight of solid Stone.</l>
+            <l>Inscriptions here of various Names I view'd,</l>
+            <l>The greater Part by hostile Time subdu'd;</l>
+            <l>Yet wide was spread their Fame in Ages past,</l>
+            <l>And Poets once had promis'd they should last.</l>
+            <l>
+               <pb n="10" facs="8"/>
+Some fresh engrav'd appear'd of Wits renown'd;</l>
+            <l>I look'd again, nor cou'd their Trace be found.</l>
+            <l>Criticks I saw, that others Names deface,</l>
+            <l>And fix their own with Labour in their place:</l>
+            <l>Their own like others soon their Place resign'd,</l>
+            <l>Or disappear'd, and left the first behind.</l>
+            <l>Nor was the Work impair'd by Storms alone,</l>
+            <l>But felt th' Approaches of too warm a Sun:</l>
+            <l>For Fame, impatient of Extreams, decays</l>
+            <l>Not more by Envy than Excess of Praise.</l>
+            <l>Yet Part no Injuries of Heav'n cou'd feel,</l>
+            <l>Like Crystal faithful to the graving Steel:</l>
+            <l>The Rock's high Summit, in the Temple's Shade,</l>
+            <l>Nor Heat could melt, nor beating Storm invade.</l>
+            <l>There Names inscrib'd unnumber'd Ages past</l>
+            <l>From Time's first Birth, with Time it self shall last;</l>
+            <l>
+               <pb n="11" facs="9"/>
+These ever new, nor subject to Decays,</l>
+            <l>Spread, and grow brighter with the Length of Days.</l>
+         </lg>
+         <lg>
+            <l>So <hi>Zembla</hi>'s Rocks (the beauteous Work of Frost)</l>
+            <l>Rise white in Air, and glitter o'er the Coast;</l>
+            <l>Pale Suns, unfelt, at distance roll away,</l>
+            <l>And on th' impassive Ice the Lightnings play:</l>
+            <l>Eternal Snows the growing Mass supply,</l>
+            <l>Till the bright Mountains prop th' incumbent Sky:</l>
+            <l>As <hi>Atlas</hi> fix'd, each hoary Pile appears,</l>
+            <l>The gather'd Winter of a thousand Years.</l>
+         </lg>
+         <lg>
+            <l>On this Foundation <hi>Fame</hi>'s high Temple stands;</l>
+            <l>Stupendous Pile! not rear'd by mortal Hands.</l>
+            <l>Whate'er proud <hi>Rome,</hi> or artful <hi>Greece</hi> beheld,</l>
+            <l>Or elder <hi>Babylon,</hi> its Frame excell'd.</l>
+            <l>
+               <pb n="12" facs="10"/>
+Four Faces had the Dome, and ev'ry Face</l>
+            <l>Of various Structure, but of equal Grace:</l>
+            <l>Four brazen Gates, on Columns lifted high,</l>
+            <l>Salute the diff'rent Quarters of the Sky.</l>
+            <l>Here fabled Chiefs in darker Ages born,</l>
+            <l>Or Worthies old, whom Arms or Arts adorn,</l>
+            <l>Who Cities rais'd, or tam'd a monstrous Race;</l>
+            <l>The fourfold Walls in breathing Statues grace:</l>
+            <l>Heroes in animated Marble frown,</l>
+            <l>And Legislators seem to think in Stone.</l>
+         </lg>
+         <lg>
+            <l>Westward, a sumptuous Frontispiece appear'd,</l>
+            <l>On Dorick Pillars of white Marble rear'd,</l>
+            <l>Crown'd with an Architrave of antique Mold,</l>
+            <l>And Sculpture rising on the roughen'd Gold.</l>
+            <l>
+               <pb n="13" facs="11"/>
+In shaggy Spoils here <hi>Theseus</hi> was beheld,</l>
+            <l>And <hi>Perseus</hi> dreadful with <hi>Minerva</hi>'s Shield:</l>
+            <l>There great <hi>Alcides</hi> stooping with his Toil,</l>
+            <l>Rests on his Club, and holds th' <hi>Hesperian</hi> Spoil.</l>
+            <l>Here <hi>Orpheus</hi> sings; Trees moving to the Sound</l>
+            <l>Start from their Roots, and form a Shade around:</l>
+            <l>
+               <hi>Amphion</hi> there the loud creating Lyre</l>
+            <l>Strikes, and beholds a sudden <hi>Thebes</hi> aspire;</l>
+            <l>
+               <hi>Cythaeron</hi>'s Ecchoes answer'd to his Call,</l>
+            <l>And half the Mountain roll'd into a Wall:</l>
+            <l>There might you see the length'ning Spires ascend,</l>
+            <l>The Domes swell up, the widening Arches bend,</l>
+            <l>The growing Tow'rs like Exhalations rise,</l>
+            <l>And the huge Columns heave into the Skies.</l>
+         </lg>
+         <lg>
+            <pb n="14" facs="12"/>
+            <l>The Eastern Front was glorious to behold,</l>
+            <l>With Diamond flaming, and <hi>Barbarick</hi> Gold.</l>
+            <l>There <hi>Ninus</hi> shone, who spread th' <hi>Assyrian</hi> Fame,</l>
+            <l>And the great Founder of the <hi>Persian</hi> Name:</l>
+            <l>There in long Robes the Royal <hi>Magi</hi> stand,</l>
+            <l>Grave <hi>Zoroaster</hi> waves the circling Wand:</l>
+            <l>The sage <hi>Chaldaeans</hi> rob'd in White appear'd,</l>
+            <l>And <hi>Brachmans</hi> deep in desert Woods rever'd.</l>
+            <l>These stop'd the Moon, and call'd th' unbody'd Shades</l>
+            <l>To Midnight Banquets in the glimm'ring Glades;</l>
+            <l>Made visionary Fabricks round them rise,</l>
+            <l>And airy Spectres skim before their Eyes;</l>
+            <l>Of <hi>Talismans</hi> and <hi>Sigils</hi> knew the Pow'r,</l>
+            <l>And careful watch'd the Planetary Hour.</l>
+            <l>Superior, and alone, <hi>Confucius</hi> stood,</l>
+            <l>Who taught that useful Science, to be <hi>good.</hi>
+            </l>
+         </lg>
+         <lg>
+            <pb n="15" facs="13"/>
+            <l>But on the South a long Majestick Race</l>
+            <l>Of <hi>Aegypt</hi>'s Priests the gilded Niches grace,</l>
+            <l>Who measur'd Earth, describ'd the starry Spheres,</l>
+            <l>And trac'd the long Records of Lunar Years.</l>
+            <l>High on his Car <hi>Sesostris</hi> struck my View,</l>
+            <l>Whom scepter'd Slaves in golden Harness drew:</l>
+            <l>His Hands a Bow and pointed Jav'lin hold,</l>
+            <l>His Giant Limbs are arm'd in Scales of Gold.</l>
+            <l>Between the Statues Obelisks were plac'd,</l>
+            <l>And the learn'd Walls with Hieroglyphicks grac'd.</l>
+         </lg>
+         <lg>
+            <l>Of <hi>Gothick</hi> Structure was the Northern Side,</l>
+            <l>O'erwrought with Ornaments of barb'rous Pride.</l>
+            <l>There huge Colosses rose, with Trophies crown'd,</l>
+            <l>And <hi>Runick</hi> Characters were grav'd around:</l>
+            <l>
+               <pb n="16" facs="14"/>
+There sate <hi>Zamolxis</hi> with erected Eyes,</l>
+            <l>And <hi>Odin</hi> here in mimick Trances dies.</l>
+            <l>There, on rude Iron Columns smear'd with Blood,</l>
+            <l>The horrid Forms of <hi>Scythian</hi> Heroes stood,</l>
+            <l>
+               <hi>Druids</hi> and <hi>Bards</hi> (their once loud Harps unstrung)</l>
+            <l>And Youths that dy'd to be by Poets sung.</l>
+            <l>These and a thousand more of doubtful Fame,</l>
+            <l>To whom old Fables gave a lasting Name,</l>
+            <l>In Ranks adorn'd the Temple's outward Face;</l>
+            <l>The Wall in Lustre and Effect like Glass,</l>
+            <l>Which o'er each Object casting various Dies,</l>
+            <l>Enlarges some, and others multiplies.</l>
+            <l>Nor void of Emblem was the mystick Wall,</l>
+            <l>For thus Romantick Fame increases all.</l>
+         </lg>
+         <lg>
+            <pb n="17" facs="15"/>
+            <l>The Temple shakes, the sounding Gates unfold,</l>
+            <l>Wide Vaults appear, and Roofs of fretted Gold,</l>
+            <l>Rais'd on a thousand Pillars, wreath'd around</l>
+            <l>With Lawrel-Foliage, and with Eagles crown'd:</l>
+            <l>Of bright, transparent Beryl were the Walls,</l>
+            <l>The Freezes Gold, and Gold the Capitals:</l>
+            <l>As Heaven with Stars, the Roof with Jewels glows,</l>
+            <l>And ever living Lamps depend in Rows.</l>
+            <l>Full in the Passage of each spacious Gate</l>
+            <l>The sage Historians in white Garments wait;</l>
+            <l>Grav'd o'er their Seats the Form of <hi>Time</hi> was found,</l>
+            <l>His Scythe revers'd, and both his Pinions bound.</l>
+            <l>Within, stood Heroes who thro' loud Alarms</l>
+            <l>In bloody Fields pursu'd Renown in Arms.</l>
+            <l>High on a Throne with Trophies charg'd, I view'd</l>
+            <l>The <hi>Youth</hi> that all things but himself subdu'd;</l>
+            <l>
+               <pb n="18" facs="16"/>
+His Feet on Sceptres and <hi>Tiara</hi>'s trod,</l>
+            <l>And his horn'd Head express'd the <hi>Libyan</hi> God.</l>
+            <l>There <hi>Caesar,</hi> grac'd with both <hi>Minerva</hi>'s, shone;</l>
+            <l>
+               <hi>Caesar,</hi> the World's great Master, and his own;</l>
+            <l>Unmov'd, superior still in every State;</l>
+            <l>And scarce detested in his Country's Fate.</l>
+            <l>But chief were those who not for Empire fought,</l>
+            <l>But with their Toils their People's Safety bought:</l>
+            <l>High o'er the rest <hi>Epaminondas</hi> stood;</l>
+            <l>
+               <hi>Timoleon,</hi> glorious in his Brother's Blood;</l>
+            <l>And <hi>Scipio,</hi> Saviour of the <hi>Roman</hi> State,</l>
+            <l>Great in his Triumphs, in Retirement great.</l>
+         </lg>
+         <lg>
+            <l>Here too the Wise and Good their Honours claim,</l>
+            <l>Much-suff'ring Heroes, of less noisy Fame,</l>
+            <l>
+               <pb n="19" facs="17"/>
+Fair Virtue's silent Train: Supreme of these</l>
+            <l>Here ever shines the Godlike <hi>Socrates.</hi>
+            </l>
+            <l>Here triumphs He whom <hi>Athens</hi> did expel,</l>
+            <l>In all things Just, but when he sign'd the Shell.</l>
+            <l>Here his Abode the martyr'd <hi>Phocion</hi> claims,</l>
+            <l>With <hi>Agis,</hi> not the last of <hi>Spartan</hi> Names:</l>
+            <l>Unconquer'd <hi>Cato</hi> shews the Wound he tore,</l>
+            <l>And <hi>Brutus</hi> his ill Genius meets no more.</l>
+         </lg>
+         <lg>
+            <l>But in the Centre of the hallow'd Quire</l>
+            <l>Six pompous Column's o'er the rest aspire;</l>
+            <l>Around the Shrine it self of <hi>Fame</hi> they stand,</l>
+            <l>Hold the chief Honours, and the Fane command.</l>
+            <l>High on the first, the mighty <hi>Homer</hi> shone;</l>
+            <l>Eternal Adamant compos'd his Throne;</l>
+            <l>
+               <pb n="20" facs="18"/>
+Father of Verse! in holy Fillets drest,</l>
+            <l>His Silver Beard wav'd gently o'er his Breast;</l>
+            <l>Tho' blind, a Boldness in his Looks appears,</l>
+            <l>In Years he seem'd, but not impair'd by Years.</l>
+            <l>The Wars of <hi>Troy</hi> were round the Pillar seen:</l>
+            <l>Here fierce <hi>Tydides</hi> wounds the <hi>Cyprian</hi> Queen:</l>
+            <l>Here <hi>Hector</hi> glorious from <hi>Patroclus</hi> Fall,</l>
+            <l>Here dragg'd in Triumph round the <hi>Trojan</hi> Wall,</l>
+            <l>Motion and Life did ev'ry Part inspire,</l>
+            <l>Bold was the Work, and prov'd the Master's Fire;</l>
+            <l>A strong Expression most he seem'd t'affect,</l>
+            <l>And here and there disclos'd a brave Neglect.</l>
+         </lg>
+         <lg>
+            <l>A Golden Column next in Rank appear'd,</l>
+            <l>On which a Shrine of purest Gold was rear'd;</l>
+            <l>
+               <pb n="21" facs="19"/>
+Finish'd the whole, and labour'd ev'ry Part,</l>
+            <l>With patient Touches of unweary'd Art:</l>
+            <l>The <hi>Mantuan</hi> there in sober Triumph sate,</l>
+            <l>Compos'd his Posture, and his Look sedate;</l>
+            <l>On <hi>Homer</hi> still he fix'd a reverend Eye,</l>
+            <l>Great without Pride, in modest Majesty.</l>
+            <l>In living Sculpture on the Sides were spread</l>
+            <l>The <hi>Latian</hi> Wars, and haughty <hi>Turnus</hi> dead;</l>
+            <l>
+               <hi>Eliza</hi> stretch'd upon the fun'ral Pyre,</l>
+            <l>
+               <hi>Aeneas</hi> bending with his aged Sire:</l>
+            <l>
+               <hi>Troy</hi> flam'd in burnish'd Gold, and o'er the Throne</l>
+            <l>
+               <hi>Arms and the Man</hi> in Golden Cyphers shone.</l>
+         </lg>
+         <lg>
+            <l>Four Swans sustain a Carr of Silver bright,</l>
+            <l>With Heads advanc'd, and Pinions stretch'd for Flight:</l>
+            <l>
+               <pb n="22" facs="20"/>
+Here, like some furious Prophet, <hi>Pindar</hi> rode,</l>
+            <l>And seem'd to labour with th' inspiring God.</l>
+            <l>A-cross the Harp a careless Hand he flings,</l>
+            <l>And boldly sinks into the sounding Strings.</l>
+            <l>The figur'd Games of <hi>Greece</hi> the Column grace,</l>
+            <l>
+               <hi>Neptune</hi> and <hi>Jove</hi> survey the rapid Race:</l>
+            <l>The Youth's hang o'er their Chariots as they run</l>
+            <l>The fiery Steeds seem starting from the Stone;</l>
+            <l>The Champions in distorted Postures threat,</l>
+            <l>And all appear'd Irregularly great.</l>
+         </lg>
+         <lg>
+            <l>Here happy <hi>Horace</hi> tun'd th' <hi>Ausonian</hi> Lyre</l>
+            <l>To sweeter Sounds, and temper'd <hi>Pindar</hi>'s Fire:</l>
+            <l>Pleas'd with <hi>Alcaeus</hi> manly Rage t'infuse</l>
+            <l>The softer Spirit of the <hi>Sapphick</hi> Muse.</l>
+            <l>
+               <pb n="23" facs="21"/>
+The polish'd Pillar different Sculptures grace;</l>
+            <l>A Work outlasting Monumental Brass.</l>
+            <l>Here smiling <hi>Loves</hi> and <hi>Bacchanals</hi> appear,</l>
+            <l>The <hi>Julian</hi> Star and Great <hi>Augustus</hi> here.</l>
+            <l>The Doves that round the Infant Poet spread</l>
+            <l>Myrtles and Bays, hung hov'ring o'er his Head.</l>
+         </lg>
+         <lg>
+            <l>Here in a Shrine that cast a dazling Light,</l>
+            <l>Sate fix'd in Thought the mighty <hi>Stagyrite;</hi>
+            </l>
+            <l>His Sacred Head a radiant Zodiack crown'd,</l>
+            <l>And various Animals his Sides surround;</l>
+            <l>His piercing Eyes, erect, appear to view</l>
+            <l>Superior Worlds, and look all Nature thro'.</l>
+         </lg>
+         <lg>
+            <l>With equal Rays immortal <hi>Tully</hi> shone,</l>
+            <l>The <hi>Roman Rostra</hi> deck'd the Consul's Throne:</l>
+            <l>
+               <pb n="24" facs="22"/>
+Gath'ring his flowing Robe, he seem'd to stand,</l>
+            <l>In Act to speak, and graceful, stretch'd his Hand:</l>
+            <l>Behind, <hi>Rome</hi>'s <hi>Genius</hi> waits with <hi>Civick</hi> Crowns,</l>
+            <l>And the Great Father of his Country owns.</l>
+         </lg>
+         <lg>
+            <l>These massie Columns in a Circle rise,</l>
+            <l>O'er which a pompous Dome invades the Skies:</l>
+            <l>Scarce to the Top I stretch'd my aking Sight,</l>
+            <l>So large it spread, and swell'd to such a Height.</l>
+            <l>Full in the midst, proud <hi>Fame</hi>'s Imperial Seat</l>
+            <l>With Jewels blaz'd, magnificently great;</l>
+            <l>The vivid Em'ralds there revive the Eye;</l>
+            <l>The flaming Rubies shew their sanguine Dye;</l>
+            <l>Bright azure Rays from lively Saphirs stream,</l>
+            <l>And lucid Amber casts a Golden Gleam.</l>
+            <l>
+               <pb n="25" facs="23"/>
+With various-colour'd Lights the Pavement shone,</l>
+            <l>And all on fire appear'd the glowing Throne;</l>
+            <l>The Dome's high Arch reflects the mingled Blaze,</l>
+            <l>And forms a Rainbow of alternate Rays.</l>
+            <l>When on the <hi>Goddess</hi> first I cast my Sight,</l>
+            <l>Scarce seem'd her Stature of a Cubit's height,</l>
+            <l>But swell'd to larger Size, the more I gaz'd,</l>
+            <l>Till to the Roof her tow'ring Front she rais'd.</l>
+            <l>With her, the Temple ev'ry Moment grew,</l>
+            <l>And ampler <hi>Vista's</hi> open'd to my View,</l>
+            <l>Upward the Columns shoot, the Roofs ascend,</l>
+            <l>And Arches widen, and long Iles extend.</l>
+            <l>Such was her Form, as antient Bards have told,</l>
+            <l>Wings raise her Arms, and Wings her Feet infold;</l>
+            <l>A Thousand busy Tongues the Goddess bears,</l>
+            <l>And Thousand open Eyes, and Thousand list'ning Ears.</l>
+            <l>
+               <pb n="26" facs="24"/>
+Beneath, in Order rang'd, the tuneful Nine</l>
+            <l>(Her Virgin Handmaids) still attend the Shrine:</l>
+            <l>With Eyes on Fame for ever fix'd, they sing;</l>
+            <l>For Fame they raise the Voice, and tune the String.</l>
+            <l>With Time's first Birth began the Heav'nly Lays,</l>
+            <l>And last Eternal thro' the Length of Days.</l>
+         </lg>
+         <lg>
+            <l>Around these Wonders as I cast a Look,</l>
+            <l>The Trumpet sounded, and the Temple shook,</l>
+            <l>And all the Nations, summon'd at the Call,</l>
+            <l>From diff'rent Quarters fill the crowded Hall:</l>
+            <l>Of various Tongues the mingled Sounds were heard;</l>
+            <l>In various Garbs promiscuous Throngs appear'd;</l>
+            <l>Thick as the Bees, that with the Spring renew</l>
+            <l>Their flow'ry Toils, and sip the fragrant Dew,</l>
+            <l>
+               <pb n="27" facs="25"/>
+When the wing'd Colonies first tempt the Sky,</l>
+            <l>O'er dusky Fields and shaded Waters fly,</l>
+            <l>Or settling, seize the Sweets the Blossoms yield,</l>
+            <l>And a low Murmur runs along the Field.</l>
+            <l>Millions of suppliant Crowds the Shrine attend,</l>
+            <l>And all Degrees before the Goddess bend;</l>
+            <l>The Poor, the Rich, the Valiant, and the Sage,</l>
+            <l>And boasting Youth, and Narrative old Age.</l>
+            <l>Their Pleas were diff'rent, their Request the same,</l>
+            <l>For Good and Bad alike are fond of Fame.</l>
+            <l>Some she disgrac'd, and some with Honours crown'd;</l>
+            <l>Unlike Successes equal Merits found.</l>
+            <l>Thus her blind Sister, fickle <hi>Fortune</hi> reigns,</l>
+            <l>And undiscerning, scatters Crowns and Chains.</l>
+         </lg>
+         <lg>
+            <pb n="28" facs="26"/>
+            <l>First at the Shrine the Learned World appear,</l>
+            <l>And to the Goddess thus prefer their Prayer:</l>
+            <l>Long have we sought t'instruct and please Mankind,</l>
+            <l>With Studies pale, with Midnight Vigils blind;</l>
+            <l>But thank'd by few, rewarded yet by none,</l>
+            <l>We here appeal to thy superior Throne:</l>
+            <l>On Wit and Learning the just Prize bestow,</l>
+            <l>For <hi>Fame</hi> is all we must expect below.</l>
+         </lg>
+         <lg>
+            <l>The Goddess heard, and bade the Muses raise</l>
+            <l>The Golden Trumpet of eternal Praise:</l>
+            <l>From Pole to Pole the Winds diffuse the Sound,</l>
+            <l>That fills the Circuit of the World around;</l>
+            <l>Not all at once, as Thunder breaks the Cloud;</l>
+            <l>The Notes at first were rather sweet than loud:</l>
+            <l>
+               <pb n="29" facs="27"/>
+By just degrees they ev'ry moment rise,</l>
+            <l>Fill the wide Earth, and gain upon the Skies.</l>
+            <l>At ev'ry Breath were balmy Odours shed,</l>
+            <l>Which still grew sweeter as they wider spread:</l>
+            <l>Less fragrant Scents th' unfolding Rose exhales,</l>
+            <l>Or Spices breathing in <hi>Arabian</hi> Gales.</l>
+         </lg>
+         <lg>
+            <l>Next these the Good and Just, an awful Train,</l>
+            <l>Thus on their Knees address'd the sacred Fane.</l>
+            <l>Since living Virtue is with Envy curst,</l>
+            <l>And the best Men are treated like the worst,</l>
+            <l>Do thou, just Goddess, call our Merits forth,</l>
+            <l>And give each Deed th' exact intrinsic Worth.</l>
+            <l>Not with bare Justice shall your Act be crown'd,</l>
+            <l>(Said Fame) but high above Desert renown'd:</l>
+            <l>
+               <pb n="30" facs="28"/>
+Let fuller Notes th' applauding World amaze,</l>
+            <l>And the loud Clarion labour in your Praise.</l>
+         </lg>
+         <lg>
+            <l>This Band dismiss'd, behold another Crowd</l>
+            <l>Prefer'd the same Request, and lowly bow'd,</l>
+            <l>The constant Tenour of whose well spent Days</l>
+            <l>No less deserv'd a just Return of Praise.</l>
+            <l>But strait the direful Trump of Slander sounds,</l>
+            <l>Thro' the big Dome the doubling Thunder bounds:</l>
+            <l>Loud as the Burst of Cannon rends the Skies,</l>
+            <l>The dire Report thro' ev'ry Region flies:</l>
+            <l>In ev'ry Ear incessant Rumours rung,</l>
+            <l>And gath'ring Scandals grew on ev'ry Tongue.</l>
+            <l>From the black Trumpet's rusty Concave broke</l>
+            <l>Sulphureous Flames, and Clouds of rolling Smoke:</l>
+            <l>
+               <pb n="31" facs="29"/>
+The pois'nous Vapor blots the purple Skies,</l>
+            <l>And withers all before it as it flies.</l>
+         </lg>
+         <lg>
+            <l>A Troop came next, who Crowns and Armour wore,</l>
+            <l>And proud Defiance in their Looks they bore:</l>
+            <l>For thee (they cry'd) amidst Alarms and Strife,</l>
+            <l>We sail'd in Tempests down the Stream of Life;</l>
+            <l>For thee whole Nations fill'd with Flames and Blood,</l>
+            <l>And swam to Empire thro' the purple Flood.</l>
+            <l>Those Ills we dar'd thy Inspiration own,</l>
+            <l>And all that Virtue seem'd was done for thee alone.</l>
+            <l>Ambitious Fools! (the Queen reply'd, and frown'd)</l>
+            <l>Be all your Acts in dark Oblivion crown'd;</l>
+            <l>There sleep forgot, with mighty Tyrants gone,</l>
+            <l>Your Statues moulder'd, and your Names unknown.</l>
+            <l>
+               <pb n="32" facs="30"/>
+A sudden Cloud strait snatch'd them from my Sight,</l>
+            <l>And each Majestick Phantom sunk in Night.</l>
+         </lg>
+         <lg>
+            <l>Then came the smallest Tribe I yet had seen,</l>
+            <l>Plain was their Dress, and modest was their Mein.</l>
+            <l>Great Idol of Mankind! we neither claim</l>
+            <l>The Praise of Merit, nor aspire to Fame;</l>
+            <l>But safe in Deserts from the Applause of Men,</l>
+            <l>Would die unheard of, as we liv'd unseen.</l>
+            <l>'Tis all we beg thee, to conceal from Sight</l>
+            <l>Those Acts of Goodness, which themselves requite.</l>
+            <l>O let us still the secret Joy partake,</l>
+            <l>To follow Virtue ev'n for Virtue's sake.</l>
+         </lg>
+         <lg>
+            <l>And live there Men who slight immortal Fame?</l>
+            <l>Who then with Incense shall adore our Name?</l>
+            <l>
+               <pb n="33" facs="31"/>
+But, Mortals know, 'tis still our greatest Pride,</l>
+            <l>To blaze those Virtues which the Good would hide.</l>
+            <l>Rise! Muses, rise! add all your tuneful Breath,</l>
+            <l>These must not sleep in Darkness and in Death.</l>
+            <l>She said: in Air the trembling Musick floats,</l>
+            <l>And up the Winds triumphant swell the Notes;</l>
+            <l>So soft, tho' high, so loud, and yet so clear,</l>
+            <l>Ev'n list'ning Angels lean'd from Heaven to hear:</l>
+            <l>To farthest Shores th' Ambrosial Spirit flies,</l>
+            <l>Sweet to the World, and grateful to the Skies.</l>
+         </lg>
+         <lg>
+            <l>Next these a youthful Train their Vows exprest,</l>
+            <l>With Feathers crown'd, with gay Embroid'ry drest:</l>
+            <l>Hither, they cry'd, direct your Eyes, and see</l>
+            <l>The Men of Pleasure, Dress, and Gallantry:</l>
+            <l>
+               <pb n="34" facs="32"/>
+Ours is the Place at Banquets, Balls and Plays;</l>
+            <l>Sprightly our Nights, polite are all our Days;</l>
+            <l>Courts we frequent, where 'tis our pleasing Care</l>
+            <l>To pay due Visits, and address the Fair:</l>
+            <l>In fact, 'tis true, no Nymph we cou'd persuade,</l>
+            <l>But still in Fancy vanquish'd ev'ry Maid;</l>
+            <l>Of unknown Dutchesses leud Tales we tell,</l>
+            <l>Yet would the World believe us, all were well.</l>
+            <l>The Joy let others have, and we the Name,</l>
+            <l>And what we want in Pleasure, grant in Fame.</l>
+         </lg>
+         <lg>
+            <l>The Queen assents, the Trumpet rends the Skies,</l>
+            <l>And at each Blast a Lady's Honour dies.</l>
+            <l>Pleas'd with the strange Success, vast Numbers prest</l>
+            <l>Around the Shrine, and made the same Request:</l>
+            <l>
+               <pb n="35" facs="33"/>
+What you (she cry'd) unlearn'd in Arts to please,</l>
+            <l>Slaves to your selves, and ev'n fatigu'd with Ease,</l>
+            <l>Who lose a Length of undeserving Days;</l>
+            <l>Wou'd you usurp the Lover's dear-bought Praise?</l>
+            <l>To just Contempt, ye vain Pretenders, fall,</l>
+            <l>The Peoples Fable, and the Scorn of all.</l>
+            <l>Strait the black Clarion sends a horrid Sound,</l>
+            <l>Loud Laughs burst out, and bitter Scoffs fly round,</l>
+            <l>Whispers were heard, with Taunts reviling loud,</l>
+            <l>And scornful Hisses ran thro' all the Croud.</l>
+         </lg>
+         <lg>
+            <l>Last, those who boast of mighty Mischiefs done,</l>
+            <l>Enslave their Country, or usurp a Throne;</l>
+            <l>Or who their Glory's dire Foundation laid,</l>
+            <l>On Sovereigns ruin'd, or on Friends betray'd,</l>
+            <l>
+               <pb n="36" facs="34"/>
+Calm, thinking Villains, whom no Faith can fix,</l>
+            <l>Of crooked Counsels and dark Politicks;</l>
+            <l>Of these a gloomy Tribe surround the Throne,</l>
+            <l>And beg to make th' immortal Treasons known.</l>
+            <l>The Trumpet roars, long flaky Flames expire,</l>
+            <l>With Sparks, that seem'd to set the World on fire.</l>
+            <l>At the dread Sound, pale Mortals stood aghast,</l>
+            <l>And startled Nature trembled with the Blast.</l>
+         </lg>
+         <lg>
+            <l>This having heard and seen, some Pow'r un<lb rend="hidden" type="hyphenInWord"/>known</l>
+            <l>Strait chang'd the Scene, and snatch'd me from the Throne.</l>
+            <l>Before my View appear'd a Structure fair,</l>
+            <l>Its Site uncertain, if in Earth or Air;</l>
+            <l>
+               <pb n="37" facs="35"/>
+With rapid Motion turn'd the Mansion round;</l>
+            <l>With ceaseless Noise the ringing Walls resound:</l>
+            <l>Not less in Number were the spacious Doors,</l>
+            <l>Than Leaves on Trees, or Sands upon the Shores;</l>
+            <l>Which still unfolded stand, by Night, by Day,</l>
+            <l>Pervious to Winds, and open ev'ry way.</l>
+            <l>As Flames by Nature to the Skies ascend,</l>
+            <l>As weighty Bodies to the Center tend,</l>
+            <l>As to the Sea returning Rivers roll,</l>
+            <l>And the touch'd Needle trembles to the Pole:</l>
+            <l>Hither, as to their proper Place, arise</l>
+            <l>All various Sounds from Earth, and Seas, and Skies.</l>
+            <l>Or spoke aloud, or whisper'd in the Ear;</l>
+            <l>Nor ever Silence, Rest or Peace is here.</l>
+            <l>As on the smooth Expanse of Crystal Lakes,</l>
+            <l>The sinking Stone at first a Circle makes;</l>
+            <l>
+               <pb n="38" facs="36"/>
+The trembling Surface, by the Motion stir'd,</l>
+            <l>Spreads in a second Circle, then a third;</l>
+            <l>Wide, and more wide, the floating Rings advance,</l>
+            <l>Fill all the wat'ry Plain, and to the Margin dance.</l>
+            <l>Thus ev'ry Voice and Sound, when first they break,</l>
+            <l>On neighb'ring Air a soft Impression make;</l>
+            <l>Another ambient Circle then they move.</l>
+            <l>That, in its turn, impels the next above;</l>
+            <l>Thro' undulating Air the Sounds are sent,</l>
+            <l>And spread o'er all the fluid Element.</l>
+         </lg>
+         <lg>
+            <l>There various News I heard, of Love and Strife,</l>
+            <l>Of Peace and War, Health, Sickness, Death, and Life;</l>
+            <l>Of Loss and Gain, of Famine and of Store,</l>
+            <l>Of Storms at Sea, and Travels on the Shore,</l>
+            <l>
+               <pb n="39" facs="37"/>
+Of Prodigies, and Portents seen in Air,</l>
+            <l>Of Fires and Plagues, and Stars with blazing Hair,</l>
+            <l>Of Turns of Fortune, Changes in the State,</l>
+            <l>The Falls of Fav'rites, Projects of the Great,</l>
+            <l>Of old Mismanagements, Taxations new;—</l>
+            <l>All neither wholly false, nor wholly true.</l>
+         </lg>
+         <lg>
+            <l>Above, below, without, within, around,</l>
+            <l>Confus'd, unnumber'd Multitudes are found,</l>
+            <l>Who pass, repass, advance, and glide away;</l>
+            <l>Hosts rais'd by Fear, and Phantoms of a Day.</l>
+            <l>Astrologers, that future Fates foreshew,</l>
+            <l>Projectors, Quacks, and Lawyers not a few;</l>
+            <l>And Priests and Party-Zealots, num'rous Bands</l>
+            <l>With home-born Lyes, or Tales from foreign Lands;</l>
+            <l>
+               <pb n="40" facs="38"/>
+Each talk'd aloud, or in some secret Place,</l>
+            <l>And wild Impatience star'd in ev'ry Face:</l>
+            <l>The flying Rumours gather'd as they roll'd,</l>
+            <l>Scarce any Tale was sooner heard than told;</l>
+            <l>And all who told it, added something new,</l>
+            <l>And all who heard it, made Enlargements too,</l>
+            <l>In ev'ry Ear it spread, on ev'ry Tongue it grew.</l>
+            <l>Thus flying East and West, and North and South,</l>
+            <l>News travel'd with Increase from Mouth to Mouth;</l>
+            <l>So from a Spark, that kindled first by Chance,</l>
+            <l>With gath'ring Force the quick'ning Flames ad<lb rend="hidden" type="hyphenInWord"/>vance;</l>
+            <l>Till to the Clouds their curling Heads aspire,</l>
+            <l>And Tow'rs and Temples sink in Floods of Fire.</l>
+         </lg>
+         <lg>
+            <pb n="41" facs="39"/>
+            <l>When thus ripe Lyes are to perfection sprung,</l>
+            <l>Full grown, and fit to grace a mortal Tongue,</l>
+            <l>Thro' thousand Vents, impatient forth they flow,</l>
+            <l>And rush in Millions on the World below.</l>
+            <l>Fame sits aloft, and points them out their Course,</l>
+            <l>Their Date determines, and prescribes their Force:</l>
+            <l>Some to remain, and some to perish soon,</l>
+            <l>Or wane and wax alternate like the Moon.</l>
+            <l>Around a thousand winged Wonders fly,</l>
+            <l>Born by the Trumpet's Blast, and scatter'd thro' the Sky.</l>
+         </lg>
+         <lg>
+            <l>There, at one Passage, oft you might survey</l>
+            <l>A Lye and Truth contending for the way;</l>
+            <l>And long 'twas doubtful, both so closely pent,</l>
+            <l>Which first should issue thro' the narrow Vent:</l>
+            <l>
+               <pb n="42" facs="40"/>
+At last agreed, together out they fly,</l>
+            <l>Inseparable now, the Truth and Lye;</l>
+            <l>The strict Companions are for ever join'd,</l>
+            <l>And this or that unmix'd, no Mortal e'er shall find.</l>
+         </lg>
+         <lg>
+            <l>While thus I stood, intent to see and hear,</l>
+            <l>One came, methought, and whisper'd in my Ear;</l>
+            <l>What cou'd thus high thy rash Ambition raise?</l>
+            <l>Art thou, fond Youth, a Candidate for Praise?</l>
+         </lg>
+         <lg>
+            <l>'Tis true, said I, not void of Hopes I came,</l>
+            <l>For who so fond as youthful Bards of Fame?</l>
+            <l>But few, alas! the casual Blessing boast,</l>
+            <l>So hard to gain, so easy to be lost:</l>
+            <l>How vain that second Life in others Breath,</l>
+            <l>Th' Estate which Wits inherit after Death!</l>
+            <l>
+               <pb n="43" facs="41"/>
+Ease, Health, and Life, for this we must resign,</l>
+            <l>(Unsure the Tenure, but how vast the Fine!)</l>
+            <l>The Great Man's Curse without the Gains endure,</l>
+            <l>Be envy'd, wretched, and be flatter'd poor;</l>
+            <l>All luckless Wits our Enemies profest,</l>
+            <l>And all successful, jealous Friends at best.</l>
+            <l>Nor Fame I slight, nor for her Favours call;</l>
+            <l>She comes unlook'd for, if she comes at all:</l>
+            <l>But if the Purchase costs so dear a Price,</l>
+            <l>As soothing Folly, or exalting Vice:</l>
+            <l>Oh! if the Muse must flatter lawless Sway,</l>
+            <l>And follow still where Fortune leads the way;</l>
+            <l>Or if no Basis bear my rising Name,</l>
+            <l>But the fall'n Ruins of Another's Fame:</l>
+            <l>Then teach me, Heaven! to scorn the guilty Bays;</l>
+            <l>Drive from my Breast that wretched Lust of Praise;</l>
+            <l>
+               <pb n="44" facs="42"/>
+Unblemish'd let me live, or die unknown,</l>
+            <l>Oh grant an honest Fame, or grant me none!</l>
+         </lg>
+      </body>
+      <back>
+         <div type="notes">
+            <pb n="45" facs="43"/>
+            <head>NOTES.</head>
+            <p>
+               <seg rend="decorInit">S</seg>OME modern Criticks, from a pre<lb rend="hidden" type="hyphenInWord"/>tended Refinement of Taste, have declar'd themselves unable to relish allegorical Poems. 'Tis not easy to penetrate into the meaning of this Criticism; for if <hi>Fable</hi> be al<lb rend="hidden" type="hyphenInWord"/>low'd one of the chief Beauties, or as <hi>Aristotle</hi> calls it, the very <hi>Soul</hi> of Poetry, 'tis hard to com<lb rend="hidden" type="hyphenInWord"/>prehend how that Fable should be the less valua<lb rend="hidden" type="hyphenInWord"/>ble for having a Moral. The Ancients constantly made use of Allegories: My Lord <hi>Bacon</hi> has com<lb rend="hidden" type="hyphenInWord"/>pos'd an express Treatise in proof of this, entitled, <hi>The Wisdom of the Antients;</hi> where the Reader may see several particular Fictions exemplify'd and explain'd with great Clearness, Judgment and Learning. The Incidents indeed, by which the Al<lb rend="hidden" type="hyphenInWord"/>legory is convey'd, must be vary'd, according to the different Genius or Manners of different Times: and they should never be spun too long, or too much clogg'd with trivial Circumstances, or little Parti<lb rend="hidden" type="hyphenInWord"/>cularities. We find an uncommon Charm in Truth, when it is convey'd by this Side-way to our Ʋnder<lb rend="hidden" type="hyphenInWord"/>standing; and 'tis observable, that even in the most ignorant Ages this way of Writing has found Reception. Almost all the Poems in the old <hi>Pro<lb rend="hidden" type="hyphenInWord"/>vençal</hi>
+               <pb n="46" facs="44"/>
+had this Turn; and from these it was that <hi>Petrarch</hi> took the Idea of his Poetry. We have his <hi>Trionfi</hi> in this kind; and <hi>Boccace</hi> pursu'd in the same Track. Soon after <hi>Chau<lb rend="hidden" type="hyphenInWord"/>cer</hi> introduc'd it here, whose <hi>Romaunt of the Rose, Court of Love, Flower and the Leaf, House of Fame,</hi> and some others of his Wri<lb rend="hidden" type="hyphenInWord"/>tings are Master-pieces of this sort. In Epick Poetry, 'tis true, too nice and exact a Pursuit of the Allegory is justly esteem'd a Fault; and <hi>Chau<lb rend="hidden" type="hyphenInWord"/>cer</hi> had the Discernment to avoid it in his <hi>Knight</hi>'s <hi>Tale,</hi> which was an Attempt towards an Epick Poem. <hi>Ariosto,</hi> with less judgment, gave in<lb rend="hidden" type="hyphenInWord"/>tirely into it in his <hi>Orlando;</hi> which tho' carry'd to an Excess, had yet so much Reputation in <hi>Italy,</hi> that <hi>Tasso</hi> (who reduc'd Heroick Poetry to the juster Standard of the Ancients) was forc'd to prefix to his Work a scrupulous Explanation of the Allegory of it, to which the Fable it-self could scarce have directed his Readers. Our Country<lb rend="hidden" type="hyphenInWord"/>man <hi>Spencer</hi> follow'd, whose Poem is almost intire<lb rend="hidden" type="hyphenInWord"/>ly allegorical, and imitates the manner of <hi>Ariosto</hi> rather than that of <hi>Tasso.</hi> Ʋpon the whole, one may observe this sort of Writing (however dis<lb rend="hidden" type="hyphenInWord"/>continu'd of late) was in all Times so far from being rejected by the best Poets, that some of them have rather err'd by insisting in it too closely, and carrying it too far: And that to infer from thence that the Allegory it self is vicious, is a pre<lb rend="hidden" type="hyphenInWord"/>sumptuous Contradiction to the Judgment and Practice of the greatest Genius's, both ancient and modern.</p>
+            <div type="note">
+               <pb n="47" facs="45"/>
+               <head>
+                  <hi>Pag.</hi> II. <hi>ver.</hi> 3. So <hi>Zembla</hi>'s Rocks, <hi>&amp;c.</hi>
+                  <lb/>
+               </head>
+               <p>Tho' a short Verisimilitude be not requir'd in the Descriptions of this visionary and allegorical kind of Poetry, which admits of every wild Object that Fancy may present in a Dream, and where it is sufficient if the moral Meaning atone for the Im<lb rend="hidden" type="hyphenInWord"/>probability: Yet Men are naturally so desirous of Truth, that a Reader is generally pleas'd, in such a Case, with some Excuse or Allusion that seems to reconcile the Description to Probability and Na<lb rend="hidden" type="hyphenInWord"/>ture. The Simile here is of that sort, and ren<lb rend="hidden" type="hyphenInWord"/>ders it not wholly unlikely that a <hi>Rock</hi> of <hi>Ice</hi> should remain for ever, by mentioning something like it in the Northern Regions, agreeing with the Accounts of our modern Travellers.</p>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>P.</hi> 12. <hi>ver.</hi> 1. Four Faces had the Dome, <hi>&amp;c.</hi>
+                  <lb/>
+               </head>
+               <p>The Temple is describ'd to be square, the four Fronts with open Gates facing the different Quar<lb rend="hidden" type="hyphenInWord"/>ters of the World, as an Intimation that all Na<lb rend="hidden" type="hyphenInWord"/>tions of the Earth may alike be receiv'd into it. The Western Front is of <hi>Grecian</hi> Architecture: the Dorick Order was peculiarly sacred to Heroes and Warriors. Those whose Statues are here men<lb rend="hidden" type="hyphenInWord"/>tion'd, were the first Names of old <hi>Greece</hi> in Arms and Arts.</p>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>Pag.</hi> 13. <hi>ver.</hi> 3. There great <hi>Alcides,</hi> &amp;c.<lb/>
+               </head>
+               <p>This Figure of <hi>Hercules</hi> is drawn with an eye to the Position of the famous Statue of <hi>Farnese.</hi>
+               </p>
+            </div>
+            <div type="note">
+               <pb n="48" facs="46"/>
+               <head>
+                  <hi>Pag.</hi> 14. <hi>ver.</hi> 4. And the great Founder of the <hi>Persian</hi> Name.<lb/>
+               </head>
+               <p>
+                  <hi>Cyrus</hi> was the Beginner of the <hi>Persian,</hi> as <hi>Ni<lb rend="hidden" type="hyphenInWord"/>hus</hi> was of the <hi>Assyrian</hi> Monarchy. The <hi>Magi</hi> and <hi>Chaldeans</hi> (the chief of whom was <hi>Zoroaster</hi>) employ'd their Studies upon Magick and Astrology, which was in a manner almost all the Learning of the antient <hi>Asian</hi> People. We have scarce any Account of a moral Philosopher except <hi>Confucius,</hi> the great Lawgiver of the <hi>Chinese,</hi> who liv'd about two thousand Years ago.</p>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>Pag.</hi> 15. <hi>ver.</hi> 2. <hi>Egypt</hi>'s Priests, <hi>&amp;c.</hi>
+                  <lb/>
+               </head>
+               <p>The Learning of the old <hi>Egyptian</hi> Priests con<lb rend="hidden" type="hyphenInWord"/>sisted for the most part in Geometry and Astrono<lb rend="hidden" type="hyphenInWord"/>my: They also preserv'd the History of their Na<lb rend="hidden" type="hyphenInWord"/>tion. Their greatest Hero upon Record is <hi>Sesos<lb rend="hidden" type="hyphenInWord"/>tris,</hi> whose Actions and Conquests may be seen at large in <hi>Diodorus,</hi> &amp;c. He is said to have caus'd the Kings he vanquish'd to draw him in his Chariot. The Posture of his Statue, in these Verses, is correspondent to the Description which <hi>Herodotus</hi> gives of one of this Prince's Statues remaining in his own time.</p>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>Pag.</hi> 15. <hi>ver.</hi> 11. Of <hi>Gothick</hi> Structure was the Northern Side.<lb/>
+               </head>
+               <p>The Architecture is agreeable to that part of the World. The Learning of the <hi>Northern</hi> Nations lay more obscure than that of the rest. <hi>Zamolxis</hi>
+                  <pb n="49" facs="47"/>
+was the Disciple of <hi>Pythagoras,</hi> who taught the Immortality of the Soul to the <hi>Scythians. Odin,</hi> or <hi>Woden,</hi> was the great Legislator and Hero of the <hi>Goths.</hi> They tell us of him that being sub<lb rend="hidden" type="hyphenInWord"/>ject to Fits, he persuaded his Followers, that du<lb rend="hidden" type="hyphenInWord"/>ring those Trances he receiv'd Inspirations from whence he dictated his Laws. He is said to have been the Inventor of the <hi>Runic</hi> Characters.</p>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>Pag.</hi> 16. <hi>ver.</hi> 5. Druids <hi>and</hi> Bards, <hi>&amp;c.</hi>
+                  <lb/>
+               </head>
+               <p>These were the Priests and Poets of those Peo<lb rend="hidden" type="hyphenInWord"/>ple, so celebrated for their savage Virtue. Those heroick Barbarians accounted it a Dishonour to die in their Beds, and rush'd on to certain Death in the Prospect of an After-Life, and for the Glory of a Song from their Bards in Praise of their Actions.</p>
+            </div>
+            <div type="verse">
+               <head>
+                  <hi>Pag.</hi> 17. <hi>ver.</hi> ult. The Youth that all things but himself subdu'd.<lb/>
+               </head>
+               <p>
+                  <hi>Alexander</hi> the Great: The <hi>Tiara</hi> was the Crown peculiar to the <hi>Asian</hi> Princes: His Desire to be thought the Son of <hi>Jupiter Ammon</hi> caus'd him to wear the Horns of that God, and to represent the same upon his Coins, which was continu'd by se<lb rend="hidden" type="hyphenInWord"/>veral of his Successors.</p>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>Pag.</hi> 18. <hi>ver.</hi> 10. <hi>Timoleon</hi> glorious in his Bro<lb rend="hidden" type="hyphenInWord"/>ther's Blood.<lb/>
+               </head>
+               <p>
+                  <hi>Timoleon</hi> had sav'd the Life of his Brother <hi>Timophanes</hi> in the Battel between the <hi>Argives</hi>
+                  <pb n="50" facs="48"/>
+and <hi>Corinthians;</hi> but afterwards kill'd him when he affected the Tyranny, preferring his Duty to his Country to all the Obligations of Blood.</p>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>Pag.</hi> 19. <hi>ver.</hi> 3.—He whom <hi>Athens</hi> did expel, <lb/>In all things just, but when he sign'd the Shell.<lb/>
+               </head>
+               <p>
+                  <hi>Aristides,</hi> who for his great Integrity was distin<lb rend="hidden" type="hyphenInWord"/>guish'd by the Appellation of <hi>the Just.</hi> When his Countrymen would have banish'd him by the <hi>O<lb rend="hidden" type="hyphenInWord"/>stracism,</hi> where it was the Custom for every Man to sign the Name of the Person he voted to Exile in an Oyster-Shell; a Peasant, who could not write, came to <hi>Aristides</hi> to do it for him, who readily sign'd his own Name. <hi>Vide Plutarch.</hi> See the same Author of <hi>Phocion, Agis,</hi> &amp;c.</p>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>Pag.</hi> 19. <hi>ver.</hi> 9. But in the Center of the hallow'd Quire, <hi>&amp;c.</hi>
+                  <lb/>
+               </head>
+               <p>In the midst of the Temple, nearest the Throne of <hi>Fame,</hi> are plac'd the greatest Names in Learn<lb rend="hidden" type="hyphenInWord"/>ing of all Antiquity. These are describ'd in such Attitudes as express their different Characters. The Columns on which they are rais'd are adorn'd with Sculptures, taken from the most striking Subjects of their Works; which are so executed, as that the Sculpture bears a Resemblance in its Manner and Character, to the Manner and Cha<lb rend="hidden" type="hyphenInWord"/>racter of their Writings.</p>
+            </div>
+            <div type="note">
+               <pb n="51" facs="49"/>
+               <head>
+                  <hi>Pag.</hi> 21. <hi>ver.</hi> 13. Four Swans sustain, <hi>&amp;c.</hi>
+                  <lb/>
+               </head>
+               <p>
+                  <hi>Pindar</hi> being seated in a Chariot, alludes to the Chariot-races he celebrated in the <hi>Grecian</hi> Games. The Swans are the Emblems of the <hi>Ode,</hi> as their soaring Posture intimates the Sublimity and Acti<lb rend="hidden" type="hyphenInWord"/>vity of his Genius. <hi>Neptune</hi> presided over the <hi>Isthmian,</hi> and <hi>Jupiter</hi> over the <hi>Olympian</hi> Games.</p>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>Pag.</hi> 22. <hi>ver.</hi> 13. Pleas'd with <hi>Alcaeus</hi> Man<lb rend="hidden" type="hyphenInWord"/>ly Rage t' infuse<lb/>The softer Spirit of the <hi>Sapphick</hi> Muse.<lb/>
+               </head>
+               <p>This expresses the mixt Character of the Odes of <hi>Horace.</hi> The second of these Verses alludes to that Line of his:
+<q>
+                     <l>Spiritum Graiae tenuem Camoenae.</l>
+                  </q>
+As another which follows, to that,
+<q>
+                     <l>Exegi Monumentum aere perennius.</l>
+                  </q>
+The Action of the <hi>Doves</hi> hints at a Passage in the 4th Ode of his third Book.<q>
+                     <l>Me fabulosae Vulture in Appulo,</l>
+                     <l>Altricis extra limen Apuliae,</l>
+                     <l>Ludo fatigatumque somno,</l>
+                     <l>Fronde nova puerum Palumbes</l>
+                     <l>Texêre; mirum quod foret omnibus—</l>
+                     <l>Ut tuto ab atris corpore viperis</l>
+                     <l>Dormirem &amp; ursis: ut permerer sacra</l>
+                     <l>
+                        <pb n="52" facs="50"/>
+Lauroque, collataque myrto,</l>
+                     <l>Non sine Dis animosus infans.</l>
+                  </q>Which may be thus English'd;<q>
+                     <l>While yet a Child, I chanc'd to stray,</l>
+                     <l>And in a Desart sleeping lay;</l>
+                     <l>The savage Race withdrew, nor dar'd</l>
+                     <l>To touch the Muses future Bard:</l>
+                     <l>But <hi>Cytheraea</hi>'s gentle Dove</l>
+                     <l>
+                        <hi>Myrtles</hi> and <hi>Bays</hi> around me spread,</l>
+                     <l>And crown'd your Infant Poet's Head,</l>
+                     <l>Sacred to <hi>Musick</hi> and to <hi>Love.</hi>
+                     </l>
+                  </q>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishersadvertisement">
+            <pb facs="51"/>
+            <head>BOOKS printed for <hi>Bernard Lintott.</hi>
+            </head>
+            <div type="section">
+               <list>
+                  <item>Miscellanies.<list>
+                        <item>Translation of the Iliad of <hi>Homer.</hi>
+                        </item>
+                        <item>A The first Book of <hi>Statius Thebais</hi> Translated.</item>
+                        <item>The Fable of <hi>Vertumnus</hi> and <hi>Pomona</hi> from the 14th Book of <hi>Ovid</hi>'s <hi>Metamorphosis.</hi>
+                        </item>
+                        <item>To a <hi>Young Lady</hi> with the Works of <hi>Voiture.</hi>
+                        </item>
+                        <item>On <hi>Silence.</hi>
+                        </item>
+                        <item>To the Author of a <hi>Poem</hi> Entituled <hi>Succession.</hi>
+                        </item>
+                        <item>An Ode for Musick on St. <hi>Cecilia</hi>'s Day.</item>
+                        <item>
+                           <hi>Windsor Forrest.</hi>
+                        </item>
+                        <item>An Essay on <hi>Criticism.</hi>
+                        </item>
+                     </list>All these written by Mr. <hi>Pope.</hi>
+                  </item>
+                  <item>The <hi>Tragedies</hi> of Jane Shore <hi>and the</hi> Lady Jane Gray.
+By <hi>N. Rowe</hi> 
+                     <abbr>Esq</abbr> 
+                     <hi>Poet Laureat.</hi>
+                  </item>
+                  <item>Callipaedia, <hi>Or the Art of getting pretty Children.</hi> Translated by Mr. <hi>Oldisworth</hi>
+                  </item>
+                  <item>
+                     <hi>Art of Cooke<gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                           <desc>illegible</desc>
+                        </gap>
+                     </hi> in Imitation of Horace's <hi>Art of Poetry</hi> by Dr. <hi>King.</hi> 2d. Edition.</item>
+                  <item>The <hi>Art of Love</hi> in Imitation of <hi>Ovid De Arte Amandi.</hi> By Dr. <hi>King.</hi>
+                  </item>
+                  <item>The Iliad of <hi>Homer,</hi> translated from the <hi>Greek</hi> into Blank Verse, by Mr. <hi>Ozel,</hi> Mr <hi>Broom,</hi> and Mr. <hi>Oldisworth.</hi> To which are added, a Preface, the Life of <hi>Homer,</hi> and Notes by Madam <hi>Dacier;</hi> illustrated with 26 Cuts copy'd by the best Gravers from the <hi>Paris</hi> Plates design'd by <hi>Coypel,</hi> in 5 Vol. 120. The second Edition. Price 15 <hi>s.</hi>
+                  </item>
+                  <item>The Odes, Epodes, and <hi>Carmen Seculare</hi> of <hi>Horace</hi> in <hi>Latin</hi> and <hi>English,</hi> with a Translation of Dr. <hi>Bently's</hi> Notes. To which are added, Notes upon Notes: By several Hands. Price 10 <hi>s.</hi>
+                  </item>
+                  <item>The Works of <hi>Virgil,</hi> translated by the Right Honourable the Earl of <hi>Lauderdale.</hi> Printed in 2 Vol. with a new <hi>Elzevir</hi> Letter, Price 6 <hi>s.</hi>
+                  </item>
+                  <item>Praelectiones Poeticae in Scholâ naturalis Philosophiae Oxon. habitae, Authore Josepho Trapp. A.M. Price 2 <hi>s.</hi> 6 <hi>d.</hi> 
+                     <lb/>
+                     <hi>N.B.</hi> The second Vol. is now Publish'd.</item>
+                  <item>A second Edition of an Historical Account of the Heathen Gods and Heroes; necessary for the understanding of the ancient Poets. Being an Improvement of whatever has been hitherto written by the <hi>Greek, Latin, French</hi> and <hi>English</hi> Authors upon that Subject. By Dr. <hi>King.</hi> For the Use of <hi>Westminster</hi> and all other Schools. Illu<lb rend="hidden" type="hyphenInWord"/>strated with Variety of Copper Plates. Price 2 <hi>s.</hi>
+                  </item>
+                  <item>
+                     <pb facs="52"/>
+                     <hi>Quintus Curtius</hi>'s History of the Wars of <hi>Alexander,</hi> with a large Map of the Countries he conquer'd, and an Index. Printed in 120 on a fine Paper and new <hi>Elzevir</hi> Letter, in 2 Vol. Price 6 s.</item>
+                  <item>The Tragedies of <hi>Ajax, Electra</hi> and <hi>OEdipus,</hi> translated from the <hi>Greek</hi> of <hi>Sophocles</hi> into Blank Verse. In 120. Price 12 <hi>d.</hi> each.</item>
+                  <item>The celebrated Works of Monsieur <hi>de Moliere,</hi> containing all his Comedies, Interludes, &amp;c. with a large Account of his Life and remarkable Death; who, as he was acting the Part of Death in one of his Plays, was taken ill, and dyed a few Hours after. To which are added, Extracts out of divers Authors, concerning several Cir<lb rend="hidden" type="hyphenInWord"/>cumstances relating to the Life of <hi>Moliere;</hi> as likewise Judgment up<lb rend="hidden" type="hyphenInWord"/>on some of his Pieces: Also his Effigies engrav'd on Copper from an Original by Mr. <hi>Vertue.</hi> Printed in 6 Vol. 120 on a fine Paper and <hi>Elzevir</hi> Letter. Price 15 <hi>s.</hi>
+                  </item>
+                  <item>The Lives of illustrious Men done into <hi>English</hi> from the original <hi>Latin</hi> of <hi>C. Nepos. Non pluribus impar.</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+                  </item>
+                  <item>The third Edition of the Clergyman's Recreation, shewing the Plea<lb rend="hidden" type="hyphenInWord"/>sure and Profit of the Art of Gardening. By <hi>John Laurence,</hi> A.M. Rector of <hi>Yelvertoft</hi> in <hi>Northamptonshire.</hi> Price 1 <hi>s.</hi>
+                  </item>
+                  <item>A Critical Discourse upon the Iliad of <hi>Homer,</hi> translated from the <hi>French</hi> of Mr. <hi>de la Motte,</hi> a Member of the <hi>French</hi> Academy. By Mr <hi>Theobald.</hi> Price 1 <hi>s.</hi>
+                  </item>
+                  <item>The Works of Mr. <hi>Edmund Smith,</hi> late of <hi>Christ-Church, Ox<lb rend="hidden" type="hyphenInWord"/>ford;</hi> Containing, I. <hi>Phaedra</hi> and <hi>Hippolytus.</hi> II. A Poem on the Death of Mr. <hi>John Philips.</hi> III. <hi>Bodleian</hi> Speech. IV. <hi>Pocockius,</hi> &amp;c. To which is prefix'd his Character by Mr. <hi>Oldisworth;</hi> and his Epi<lb rend="hidden" type="hyphenInWord"/>taph by the Reverend Mr. <hi>Adams</hi> of <hi>Christ Church,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+                  </item>
+                  <item>The Works of Mr. <hi>Thomas Southerne,</hi> in 2 Vol. 120. The First Vol. containing The Loyal Brother, or The <hi>Persian</hi> Prince. The Disappointment, or The Mother in Fashion. Sir <hi>Anthony Love,</hi> or The Rambling Lady. The Wives Excuse, or Cuckolds make them<lb rend="hidden" type="hyphenInWord"/>selves. The second Volume containing, The Maids last Prayer, or Any rather than fail. The Fatal Marriage, or The Innocent Adultery. <hi>Oroonoko.</hi> The Fate of <hi>Capua.</hi> Pr. 5 <hi>s.</hi>
+                  </item>
+                  <item>PLAYS by the Right Honourable the Lord <hi>Landsdown,</hi> (<hi>viz.</hi>) The She Gallants, a Comedy: Heroick Love, a Tragedy, and The Jew of <hi>Venice,</hi> a Comedy.</item>
+                  <item>A Treatise upon the Modes, or a Farewel to <hi>French</hi> Kicks. <hi>Est Modus in Rebus.</hi> The Modes depend upon the Sense. Of which the chief Heads are as follows. I. The Influence of Valour and Beauty upon the Modes. II. The Genius of the <hi>French</hi> as to Epick Poetry, Eloquence, and Medals. III. Taste of the <hi>French</hi> for Musick, Paint<lb rend="hidden" type="hyphenInWord"/>ing, and their Pleas for dictating their Modes to the <hi>British</hi> Nation, and their Civility. IV. Maxims for such as Travel in <hi>France,</hi> and a Speech proper for Travellers. V. The great Cheapness of <hi>French</hi> Workmanship, with a Story of <hi>Cornelius Agrippa.</hi> VI. An Essay of Perukes, and of Poetry, and of <hi>French</hi> Education. VII. Ad<lb rend="hidden" type="hyphenInWord"/>vice to the Painters, with the History of the Feather. VIII. A
+<pb facs="53"/>
+Story of an Embassador that came into <hi>England</hi> a thousand Years ago. IX. Skill in Opticks necessary for a Head-dresser. X. An account of the <hi>Dutch</hi> Gentry, and of Military Exercises. XI. Paral<lb rend="hidden" type="hyphenInWord"/>lel between Dress and Musick. XII. Apology to the <hi>French</hi> Refu<lb rend="hidden" type="hyphenInWord"/>gees, Pr. 1 <hi>s.</hi>
+                  </item>
+                  <item>The Works of Mr. <hi>George Farquhar,</hi> containing all his Letters, Poems, Essays and Comedies publish'd in his Life Time, <hi>viz.</hi> Love and a Bottle, The Constant Couple, or a Trip to the Jubilee. Sir <hi>Harry Wild Air.</hi> Inconstant, or The Way to Win him. The Twin Rivals, The Recruiting Officer, and The Beaux Stratagem, with Cuts prefix'd to each Comedy. Pr. 6 <hi>s.</hi>
+                  </item>
+                  <item>The diverting History of the Count <hi>de Gabalis;</hi> Containing, I. An Account of the <hi>Rosicrucian</hi> Doctrine of Spirits, <hi>viz. Sylphs, Sala<lb rend="hidden" type="hyphenInWord"/>manders, Gnomes,</hi> and <hi>Daemons;</hi> shewing their various influence up<lb rend="hidden" type="hyphenInWord"/>on human Bodies. II. The Nature and Advantages of Studying the Occult Sciences. III. The Carnal Knowledge of Women to be renounc'd. IV. <hi>Adam</hi>'s Fall not occasion'd by eating the Ap<lb rend="hidden" type="hyphenInWord"/>ple, but by his carnal Knowledge of <hi>Eve.</hi> V. The Rise, Progress and Decay of Oracles. VI. A Parallel between Ancient and Modern Priestcraft. To which is prefix'd Monsieur <hi>Bayle</hi>'s Account of this Work, and of the Sect of the <hi>Rosicrucians.</hi> The 2d Edition, Pr. 1 <hi>s.</hi> 6 <hi>d.</hi>
+                  </item>
+                  <item>The Works of the celebrated and ancient English Poet <hi>Geoffrey Chaucer;</hi> carefully compar'd not only with former Editions of Value, but with many rare and ancient Manuscripts: from the collating of which the Text is in a great measure restor'd and perfected; many Errors and Corruptions that have crept in and continued in all the Editions hitherto printed, are amended; and many whole Lines omitted in all the printed Editions are inserted in their proper places. Three entire new Tales of this Author in <hi>Manuscript</hi> (never yet printed) have been recover'd, and will be added to this Edition. By which Alterations, Additions and Amendments, this Work is in a manner become new. A most useful and copious Glossary for the better understanding of this Poet than has yet been printed, will be added at the End. Begun by <hi>John Urry</hi> late Student of <hi>Christ-Church,</hi> and compleated by the Care of the Students of <hi>Christ-Church.</hi> Proposals are now Printed, and Subscriptions taken in for the Bene<lb rend="hidden" type="hyphenInWord"/>fit of the Executor, and for the carrying on the Building of <hi>Peck<lb rend="hidden" type="hyphenInWord"/>water</hi> Quadrangle; by the Undertaker <hi>Bernard Lintott.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="section">
+               <head>BOOKS preparing for the Press,</head>
+               <list>
+                  <item>A Compleat Body of Divinity, under the Title of <hi>Theologia Spe<lb rend="hidden" type="hyphenInWord"/>culativa &amp; Practica.</hi> In Two Volumes, Folio: In the First Volume will be explain'd the Principles, in the Second the Duties of Natural and Reveal'd Religion. The First Volume will be form'd upon these General Heads. I. The Existence and Attributes of God. II. Creation and Providence. III. Divine Revelation and the Holy Scriptures. IV. The Articles of the Christian Faith, as contain'd
+<pb facs="54"/>
+in the Apostles Creed. V. The Articles of the Church of <hi>Eng<lb rend="hidden" type="hyphenInWord"/>land,</hi> so far as they may admit of a distinct Consideration from those of the Creed. VI. The Rewards and Punishments propos'd in the Old and New Testament. The General Heads of the Second Volume will be I. The moral and immutable Distinction of Good and Evil. II. The positive Commands of God. III. The Ten Com<lb rend="hidden" type="hyphenInWord"/>mandments. IV. Our Saviour's Sermon on the Mount. V. The Relative Duties. VI. The Evangelical Precepts which have not fallen directly under the foregoing Heads. VII. The Reasonableness, Ne<lb rend="hidden" type="hyphenInWord"/>cessity, and Measures of Evangelical Obedience. By the Reverend RICHARD FIDDES, B.D. <hi>Rector of</hi> Halsham <hi>in</hi> Holderness <hi>in the County of</hi> York.</item>
+                  <item>The Second Edition of a compendious History of the Church from the Beginningof the World to this Time. To which is added a compleat chronological Table, and large Indexes to each Volume. Written in <hi>French:</hi> By <hi>Lewis Ellis Du Pin,</hi> Doctor of the <hi>Sorbonne,</hi> and Regius Professor of Divinity at <hi>Paris.</hi> In Four Volumes 120. Printed on a new Elzevir Letter.</item>
+                  <item>A practical Exposition of the Beatitudes, in the first Part of our Saviour's Sermon on the Mount. By <hi>James Gardiner,</hi> M.A. Sub-Dean of <hi>Lincoln.</hi> Price 3<hi>s.</hi> 6 <hi>d.</hi>
+                  </item>
+                  <item>A practical Exposition of the latter Part of our Saviour's Sermon on the Mount, from the Beatitudes, to the End of the Sermon. By <hi>James Gardiner,</hi> M.A. Sub-Dean of <hi>Lincoln.</hi> Price 4<hi>s.</hi> 6<hi>d.</hi>
+                  </item>
+                  <item>Four Offices of Prayer and Devotion, answering four of the most important Occasions of a Christian Life. I. An Office of Preparation for Death, to be us'd often in the Days of Health. II. A Penitential Office for Times of Humiliation and Confession; more especially for Fasting Days. III. An Office commemorative of our blessed Saviour's Sufferings, Death, Resurrection, &amp;c. for the Redemption of the World. IV. An Office of Preparation for the holy Sacrament of the Lord's Supper. All these carefully com<lb rend="hidden" type="hyphenInWord"/>piled out of the holy Scriptures, the Church Liturgy, and many of the best and most approv'd Books of Devotion, both of the former and present Age. By <hi>William Tilly,</hi> D.D. Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+                  </item>
+                  <item>Six Sermons on several Occasions, (<hi>viz.</hi>) I. The Difference be<lb rend="hidden" type="hyphenInWord"/>tween the Revolution and the Rebellion, preach'd <hi>Jan.</hi> 30. II. The Restoration of the King, the Act of God, <hi>May</hi> 29. III. The Necessity of Praying both for Church and State, <hi>March</hi> 7. IV. The Duty of fearing God and the King, <hi>April</hi> 10. 1715. V. Obedience to the King enforc'd from the Benefits and Advantages of a wise and just Administration, <hi>June</hi> 19. VI. Liberty and the Gospel a<lb rend="hidden" type="hyphenInWord"/>gainst Popery and Slavery, <hi>July</hi> 24. By the Reverend <hi>T. Goddard,</hi> M.A. Canon of <hi>Windsor.</hi> Price 1 <hi>s.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>

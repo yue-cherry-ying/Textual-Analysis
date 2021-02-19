@@ -1,0 +1,416 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dramatic puffers, a prelude; as performed at the Theatre-Royal in Covent-Garden:</title>
+            <author>Dudley, H. Bate, Sir (Henry Bate), 1745-1824.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020293.000</idno>
+            <idno type="docno">CW3310072026</idno>
+            <idno type="ecll">0057601500</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dramatic puffers, a prelude; as performed at the Theatre-Royal in Covent-Garden:</title>
+                  <author>Dudley, H. Bate, Sir (Henry Bate), 1745-1824.</author>
+               </titleStmt>
+               <extent>18,[2],19-20p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for G. Kearsley; and E. Macklew,</publisher>
+                  <date>1782.</date>
+                  <idno type="TCP">K020293.000</idno>
+                  <idno type="docno">CW3310072026</idno>
+                  <idno type="ecll">0057601500</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Henry Bate, afterwards Sir Henry Bate Dudley.</note>
+                  <note>With a half title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT776.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE DRAMATIC PUFFERS, A PRELUDE; AS PERFORMED AT THE THEATRE-ROYAL IN COVENT-GARDEN.</p>
+            <p>LONDON: Printed for G. KEARSLEY, FLEET-STREET; and E. MACKLEW, in the HAYMARKET. M.DCC.LXXXII.</p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="2"/>
+            <head>CHARACTERS.</head>
+            <list>
+               <label>ZEPHYR,</label>
+               <item>Mr. EDWIN,</item>
+               <label>BREEZE,</label>
+               <item>Mr. ROBSON,</item>
+               <label>AUTHOR,</label>
+               <item>Mr. LEE LEWES.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="scene">
+            <pb facs="3"/>
+            <head>THE DRAMATIC PUFFERS,</head>
+            <stage>SCENE. The Stage.</stage>
+            <stage>Enter ZEPHYR and BREEZE, meeting.</stage>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>BY this light but it is—What! Bill Breeze!</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Ah! my gentle Zephyr! <stage>(shaking hands)</stage> Why, where have you hid yourself?—But I beg par<lb rend="hidden" type="hyphenInWord"/>don—</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Oh, I make no secret of my situations; I've been obliged to lodge for a few weeks on the other side of the water; it was forcibly recom<lb rend="hidden" type="hyphenInWord"/>mended to me by a doctor well skilled in con<lb rend="hidden" type="hyphenInWord"/>sumptive cases. <stage>(quaintly.)</stage>
+               </p>
+            </sp>
+            <sp>
+               <pb n="8" facs="4"/>
+               <speaker>BREEZE.</speaker>
+               <p>And you find yourself the better for it?</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Amazingly; for I've now got rid of all those lurking symptoms which are the too frequent at<lb rend="hidden" type="hyphenInWord"/>tendants on genius, and letters.—So, I find they have had some flogging work over both courses in my absence: the different studs have been run hard, eh!</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Hard?—<hi>puff'd</hi> all round;—scarce a leg to stand on!</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>As the knowing ones have been taken in, you touch'd a little, Breeze, I hope!</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Not a ducat!—No, Zephyr, all my prospects fell with the <hi>coalition;</hi>—at the beginning of the season, indeed, I offered my services <hi>here;</hi>—but I was delicately told—that authors now-a-days took upon themselves the disagreeable task of <hi>criticizing</hi> their own pieces; and at as to the ordinary business of the theatre, a gentleman of established reputa<lb rend="hidden" type="hyphenInWord"/>tion had undertaken to do the whole upon a standing contract!</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="5"/>
+               <speaker>ZEPHYR.</speaker>
+               <p>Ay; I suppose I should have met with similar neglect on the other side of the way, if it had not been for my new invented play-house machine.</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Play-house machine! a kind of theatrical <hi>Buza<lb rend="hidden" type="hyphenInWord"/>glo,</hi> I suppose, occasionally to keep the house warm?</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>
+                  <stage>(Conceitedly,)</stage> Oh, no! you'll never guess it;—will you promise me the most profound secrecy?</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>'Pon my honour—</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>
+                  <stage>(Half whispering)</stage> Why, then, you must know I call it (and I think rather aptly)—I call it—an <hi>Applauder!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>An Applauder?</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Yes, an <hi>Applauder;</hi> a mechanical improvement on the vulgar art of manucussion; by which one man, with the simple winch of a barrel-organ, shall give a more mark'd and judicious applause, than can possibly be derived from any stationary band of hireling clappers!</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="6"/>
+               <speaker>BREEZE.</speaker>
+               <p>Egad that <hi>is</hi> a happy invention!—but pray, Zephyr, wont it tend in some measure to counteract the <hi>real</hi> plaudits of an impartial audience?</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Oh, quite the contrary; for as clapping, like gaping, is nothing more than an involuntary accordance of mus<lb rend="hidden" type="hyphenInWord"/>cular motion, I will engage, my dear Breeze,—barring rheumatic and gouty cases,—to carry every hand on any particular occasion, in unison with my Applauder.</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>A very capital idea upon my soul!</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Besides, I don't see why the benefit of it may not be extended to the performers; then you know the actors and actresses of a certain <hi>natural diffidence,</hi> need not so often be laid up, by the chilling damps of <hi>silent</hi> admiration!</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Certainly my dear friend.—But when will it come out Zephyr?</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="7"/>
+               <speaker>ZEPHYR.</speaker>
+               <p>Almost immediately; the first essay was to have been made on a late <hi>musical occasion;</hi> but the author and composer, not being able to settle which of the parts deserved the "<hi>most decisive bursts</hi> of <hi>universal applause,</hi>" the machine was laid by, and the matter left as usual to the decision of hands.</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>And so you are come here, I suppose to offer it also to this House?</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Oh, no, I have convey'd away the <hi>copy-right;</hi> and the managers of both Theatres are now contending for an exclusive patent.</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Ha! ha! ha! Do you do any thing in the <hi>parlia<lb rend="hidden" type="hyphenInWord"/>tary</hi> way now, Zephyr?</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Not a <hi>metaphor!</hi> that branch fell to nothing when gentlemen first submitted to the fatigue of carrying their <hi>own</hi> FLOWERS to <hi>market!</hi>—No, having a little
+<pb n="12" facs="8"/>
+leisure upon my hands, the prompter said he would recommend me as diurnal colourist to the young author of this night's piece.</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>That's droll enough! why, I am waiting here myself in hopes of procuring a similar employ.</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Indeed! why, then, if that's the case, suppose we conduct the matter jointly, and share the profits?</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>With all my heart:—so, if you'll undertake to waft him through the pacific ocean of the mi<lb rend="hidden" type="hyphenInWord"/>ninisterial prints, I'll engage—but soft; here, I fancy, comes the young author;—and a <hi>martial</hi> one I see by his appearance.</p>
+            </sp>
+            <stage>Enter AUTHOR, in an officer's uniform, <hi>(looking round.)</hi>
+            </stage>
+            <sp>
+               <speaker>AUTHOR.</speaker>
+               <p>It's strange I should never be able to catch those scene-painting gentry!—<hi>Wild</hi> said they would meet me here at half past five; <stage>(looking at his watch)</stage>
+                  <pb n="13" facs="9"/>
+I fear we shall not arrange the scene for the last act before the piece begins— <stage>(they advance)</stage> Oh, gentlemen, I'm glad we've met at last.</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Mr. Wild, Sir, I take it for granted—</p>
+            </sp>
+            <sp>
+               <speaker>AUTHOR.</speaker>
+               <p>Yes; but he says we've not a moment to lose!</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>True, Sir, I thought you'd be in a hurry, so we took care to be prepared.</p>
+            </sp>
+            <sp>
+               <speaker>AUTHOR.</speaker>
+               <p>I'm glad of it; and how do you intend—</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Why, Sir, as it's a first attempt, and times are ticklish, I don't think it adviseable to give any thing too highly colour'd at present, and therefore I have sketch'd something in the oblique way, which I con<lb rend="hidden" type="hyphenInWord"/>ceive however will have a fine effect.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="10"/>
+               <speaker>AUTHOR.</speaker>
+               <p>I understand you; in the <hi>side wing</hi> way; but in that case how shall we display the performers to ad<lb rend="hidden" type="hyphenInWord"/>vantage?</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Oh, dear Sir, never fear them; they are able, and willing enough to take care of themselves!</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Well, for my part, I think there is nothing like a good bold outline at once, to take in the <hi>flats.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>AUTHOR.</speaker>
+               <p>Well gentlemen, I'm indifferent whether the scene be a <hi>flat,</hi> or an <hi>oblique</hi> one, provided its effect be strik<lb rend="hidden" type="hyphenInWord"/>ingly convey'd to the galleries.</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Oh, lud Sir, make yourself perfectly easy on that score;—my designs <stage>(pulling out his papers)</stage> are cal<lb rend="hidden" type="hyphenInWord"/>culated for all classes; <stage>(gives him one)</stage> there Sir, just run your eye over that; I think that will reach the <hi>Gods,</hi> or the <hi>Devil</hi>'s in it!</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="11"/>
+               <speaker>AUTHOR.</speaker>
+               <p>
+                  <stage>(Reads)</stage> "A new constellation of resplendent brilliancy, illumin'd the theatrical hemisphere last night; the dramatic magi"— <stage>(in amazement)</stage> What am I to understand by this?</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>
+                  <stage>(Giving one of his papers)</stage> Probably, Sir, you'll like that better, from the delicacy of the <hi>keeping.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>AUTHOR.</speaker>
+               <p>
+                  <stage>(Reads)</stage> "The genius of comedy perhaps never was so illustriously display'd"—Why, what the devil is all this, gentlemen?</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Lud, Sir, don't you know? why, <hi>puffs</hi> to be sure;—puffs, and as good as any <hi>home made ones</hi>—that you'll find in the circle of your dramatic friends, depend on't.</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="12"/>
+               <speaker>AUTHOR.</speaker>
+               <p>Puffs?—</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Yes, <hi>puffs,</hi> Sir: an airy insinuating kind of sys<lb rend="hidden" type="hyphenInWord"/>tem, which, though generally despis'd, is more ge<lb rend="hidden" type="hyphenInWord"/>nerally practis'd; that has the address to baffle the whole <hi>five senses,</hi> and carry all its points in spite of conviction!</p>
+            </sp>
+            <sp>
+               <speaker>AUTHOR.</speaker>
+               <p>Indeed! is that the case?</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>To be sure, Sir!</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>No doubt, Sir:—it's what may be emphatically termed the <hi>foil-stone of fame;</hi> which, like the mock jewel of the stage, never fails to out-glare the mo<lb rend="hidden" type="hyphenInWord"/>dest sparkling diamond!—</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="13"/>
+               <speaker>AUTHOR.</speaker>
+               <p>And pray, gentlemen, to whom am I indebted for these singular obligations?—Your name, if you please?</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>My name! Breeze, Sir; I'm not asham'd of my name. <stage>(pertly)</stage>—Billy Breeze, No. 300, at the <hi>brass knocker, Air</hi>-street, Piccadilly.</p>
+            </sp>
+            <sp>
+               <speaker>AUTHOR.</speaker>
+               <p>And your's, worthy Sir?</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Zephyr, Sir, at your service.</p>
+            </sp>
+            <sp>
+               <speaker>AUTHOR.</speaker>
+               <p>And are not you, Messrs. Zephyr and Breeze, a co<lb rend="hidden" type="hyphenInWord"/>genial couple of pitiful parasites?</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Lud, Sir!</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="14"/>
+               <speaker>AUTHOR.</speaker>
+               <p>Fly hence, ye rascally retailers of ill founded repu<lb rend="hidden" type="hyphenInWord"/>tation! and by that means save your bones:—how<lb rend="hidden" type="hyphenInWord"/>however humble my genius may prove, know, that it scorns to soar upon the wretched pinion of Grub<lb rend="hidden" type="hyphenInWord"/>street Prostitution!</p>
+            </sp>
+            <sp>
+               <speaker>ZEPHYR.</speaker>
+               <p>Sir, This is no place, Sir—no place—but we'll find one, depend on't—</p>
+            </sp>
+            <sp>
+               <speaker>BREEZE.</speaker>
+               <p>Yes, Sir,—we'll tickle—</p>
+               <stage>(He drives them out.</stage>
+            </sp>
+            <stage>Enter PROMPTER's BOY.</stage>
+            <sp>
+               <speaker>BOY.</speaker>
+               <p>The scene for the last act is settled; so, if you please, Sir, we'll ring in.</p>
+            </sp>
+            <sp>
+               <speaker>AUTHOR.</speaker>
+               <p>By all means. </p>
+               <stage>(Exit Boy.)</stage>
+            </sp>
+            <stage>(The author steps forward to speak the Prologue.)</stage>
+         </div>
+         <div type="prologue">
+            <pb facs="15"/>
+            <head>THE PROLOGUE.</head>
+            <pb n="19" facs="16"/>
+            <head type="sub">THE PROLOGUE.</head>
+            <stage>Spoken by Mr. LEE LEWES.</stage>
+            <lg>
+               <l>CALL'D forth Thalia's standard to display,</l>
+               <l>And here maintain her sov'reign comic sway;</l>
+               <l>As Chief—I'll reconnoitre well the ground,</l>
+               <l>To learn what hostile lines are drawn around!</l>
+               <stage>[Surveys the House with a Glass.</stage>
+            </lg>
+            <lg>
+               <l>That's not a dark defile in yonder glade?—</l>
+               <l>For shou'd it prove a treach'rous ambuscade,</l>
+               <l>No <hi>puffing</hi> miners have I here in pay,</l>
+               <l>To sap their works, or turn their covert-way;</l>
+               <l>No mercenary band who have been wont,</l>
+               <l>To hack and hew, like pioneers in front!</l>
+            </lg>
+            <lg>
+               <l>With flying shells our engineers shall try,</l>
+               <l>That well mann'd battlement which tow'rs so high!</l>
+               <stage>[Pointing to the Upper Gallery.</stage>
+            </lg>
+            <lg>
+               <l>Beneath, our point-blank-shot will surely reach,</l>
+               <l>And in yon half-moon batt'ry make a breach!</l>
+               <stage>[To the Second Gallery.</stage>
+            </lg>
+            <lg>
+               <pb n="20" facs="17"/>
+               <l>Those lovely breast-works that adorn the field,</l>
+               <l>To nature's gentle summons soon must yield!</l>
+               <stage>[Side Boxes, &amp;c.</stage>
+            </lg>
+            <lg>
+               <l>This post advanc'd the piquet guard to keep,</l>
+               <l>And that reserve, who are entrench'd chin-deep,</l>
+               <l>We hope to carry by a bold exertion,</l>
+               <l>At least amuse, with some well plann'd diversion!</l>
+               <stage>[To the Pit.</stage>
+            </lg>
+            <lg>
+               <l>My troops are vet'rans:—it has been their lot,</l>
+               <l>To form in front of service hissing hot;</l>
+               <l>Who, when their ranks are gall'd, or put to flight,</l>
+               <l>Are sure to rally, and renew the fight,</l>
+               <l>Unless—and then no light dragoons scour fleeter—</l>
+               <l>Their powder fails for want of true salt-petre!</l>
+            </lg>
+            <lg>
+               <l>Our plan's avow'd; it is from this firm station,</l>
+               <l>To gain the heights of public approbation!</l>
+            </lg>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>

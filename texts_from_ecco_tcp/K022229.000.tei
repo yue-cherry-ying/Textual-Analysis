@@ -1,0 +1,735 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poetical epistle from the late Lord Melcombe to the Earl of Bute: with corrections, by the author of the Night thoughts:</title>
+            <author>Dodington, George Bubb, Baron of Melcombe Regis, 1691-1762.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K022229.000</idno>
+            <idno type="docno">CW3312997301</idno>
+            <idno type="ecll">0146300700</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poetical epistle from the late Lord Melcombe to the Earl of Bute: with corrections, by the author of the Night thoughts:</title>
+                  <author>Dodington, George Bubb, Baron of Melcombe Regis, 1691-1762.</author>
+               </titleStmt>
+               <extent>[4],25,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for T. Becket,</publisher>
+                  <date>1776.</date>
+                  <idno type="TCP">K022229.000</idno>
+                  <idno type="docno">CW3312997301</idno>
+                  <idno type="ecll">0146300700</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author of Night thoughts = Edward Young.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT4173.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>A POETICAL EPISTLE FROM The late LORD MELCOMBE TO The EARL of BUTE: WITH CORRECTIONS, By the Author of the NIGHT THOUGHTS.</p>
+            <p>LONDON: Printed for T. BECKET, Corner of the Adelphi, in the Strand. MDCCLXXVI.</p>
+         </div>
+         <div type="note">
+            <pb facs="2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THE distinguished NAMES on the Title-page can excite no Expectations in the Public which the Poetical Merit of the follow<lb rend="hidden" type="hyphenInWord"/>ing Epistle is not capable of gratifying. It bears Date the 26th of October 1761. To preclude every Doubt, concerning it's Authen<lb rend="hidden" type="hyphenInWord"/>ticity, the Original Manuscript, in LORD MELCOMBE's Hand-writing, with the Correc<lb rend="hidden" type="hyphenInWord"/>tions, in THAT of Dr. YOUNG, is left for In<lb rend="hidden" type="hyphenInWord"/>spection at the Shop of the Publisher.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proem">
+            <pb facs="3"/>
+            <head>PROEMIUM.</head>
+            <lg>
+               <l>POLLIO, to Thee, my Patron and my Friend,</l>
+               <l>The secret counsels of my soul I send:</l>
+               <l>Long since thy godlike Uncle<note place="bottom" n="*">JOHN Duke of ARGYLL.</note> held me dear</l>
+               <l>(Fate gave me early to thy House's care);</l>
+               <l>He dy'd, and left me unattach'd and free,</l>
+               <l>Left me a legacy from Him to Thee.</l>
+            </lg>
+            <lg>
+               <l>Mem'ry, rare gift! but giv'n us to our cost,</l>
+               <l>Thou faithful Register of Good, when lost!</l>
+               <l>
+                  <note place="bottom" n="1">
+                     <l>Each feature of the fav'rite picture trace,</l>
+                     <l>Recall his Ease, and Dignity, and Grace;</l>
+                  </note>
+                  <hi>Trace ev'ry feature of the fav'rite piece,</hi>
+               </l>
+               <l>
+                  <hi>Revive his Grace, his Dignity, and Ease;</hi>
+               </l>
+               <l>
+                  <pb n="2" facs="4"/>His Courage cool, his Wisdom void of art,</l>
+               <l>The gentlest Manners, and the warmest Heart;</l>
+               <l>His Soul with ev'ry <note place="bottom" n="1">nobler</note>
+                  <hi>noblest</hi> passion fraught,</l>
+               <l>And <note place="bottom" n="2">pushing</note>
+                  <hi>carrying</hi> Friendship sometimes to a fault;</l>
+               <l>In Arts or Arms, in Battle, or Debate,</l>
+               <l>He guarded, grac'd, and dignify'd the State;</l>
+               <l>Deserv'd the Laurel and the Bay that crown</l>
+               <l>The <note place="bottom" n="3">distant</note>
+                  <hi>blended</hi> honours of the Sword and Gown;</l>
+               <l>His Country's Bulwark, her Delight and Pride,</l>
+               <l>In War he conquer'd, and in Peace he dy'd:</l>
+               <l>His Mem'ry shall to latest times descend.</l>
+               <l>Such was the Man <note place="bottom" n="4">who</note>
+                  <hi>that</hi> bade me call him Friend.</l>
+               <l>And now let Envy all his actions scan,</l>
+               <l>
+                  <note place="bottom" n="5">
+                     <l>Then brand me for a Flatt'rer, if she can:</l>
+                  </note>
+                  <hi>Then let her call me Flatt'rer, if she can:</hi>
+               </l>
+               <l>The vain reproach I shall with scorn receive;</l>
+               <l>I wanted no distinction He could give,</l>
+               <l>
+                  <pb n="3" facs="5"/>Save one, <note place="bottom" n="1">
+                     <l>—of all Distinctions the supreme!</l>
+                     <l>His Friendship, and, more precious! his Esteem.</l>
+                  </note>
+                  <hi>to all superior and supreme,</hi>
+               </l>
+               <l>
+                  <hi>His Friendship, his Affection, his Esteem.</hi>
+               </l>
+               <l>Oh! long and much belov'd, <note place="bottom" n="2">sincerely</note>
+                  <hi>Oh! dearly</hi> mourn'd,</l>
+               <l>How often has my throbbing bosom burn'd</l>
+               <l>
+                  <note place="bottom" n="3">The fulness</note>
+                  <hi>Th' effusions</hi> of a grateful heart to pour</l>
+               <l>O'er sacred Friendship—<note place="bottom" n="4">—Friendship now no more!</note>
+                  <hi>now, alas! no more.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ere long, my gentle Friend, will come thy turn</l>
+               <l>
+                  <note place="bottom" n="5">
+                     <l>To check a tear, or drop it on my urn;</l>
+                  </note>
+                  <hi>To drop a pious tear on my poor urn;</hi>
+               </l>
+               <l>Thy feeling heart will not the task decline—</l>
+               <l>The virtues of Humanity are thine:</l>
+               <l>But tho' from Friendship's source the Passions rise</l>
+               <l>
+                  <note place="bottom" n="6">Which melt</note>
+                  <hi>That flood</hi> the Soul, and swell into the Eyes,</l>
+               <l>Th' effect will differ, tho' the source the same;</l>
+               <l>
+                  <note place="bottom" n="7">
+                     <l>My tear paid Gratitude, but Thine gives Fame.</l>
+                  </note>
+                  <hi>My tear is Gratitude, but Thine is Fame.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="4" facs="6"/>
+               <l>Farewel, illustrious Shade! for ever rest</l>
+               <l>Distinguish'd in the Mansions of the Blest!</l>
+               <l>
+                  <note place="bottom" n="1">
+                     <l>Thence let thy bright Example's brilliant ray</l>
+                     <l>To Wisdom point, and light us on our way.</l>
+                  </note>
+                  <hi>From thence, while, darkling, we thy Star survey,</hi>
+               </l>
+               <l>
+                  <hi>Thy bright Example marks and lights the way.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis well.—The throbbing of the heart subsides,</l>
+               <l>The blood begins to flow in sprightlier tides:</l>
+               <l>
+                  <note place="bottom" n="2">By</note>
+                  <hi>From</hi> Thee, my Friend, the soul with joy surveys</l>
+               <l>The Page of Mem'ry mark'd with brighter days;</l>
+               <l>
+                  <note place="bottom" n="3">By</note>
+                  <hi>From</hi> Thee—thy Mien, thy Manners, and thy Smile</l>
+               <l>Recall the gen'rous, graceful, brave ARGYLL.</l>
+               <l>
+                  <note place="bottom" n="4">
+                     <l>By Thee thus own'd, a Client of thy Race,</l>
+                     <l>Where could I with such Dignity or Grace,</l>
+                  </note>
+                  <hi>Thus own'd by Thee, thus Client of thy Race,</hi>
+               </l>
+               <l>
+                  <hi>Where could I else, with Dignity or Grace,</hi>
+               </l>
+               <l>From ev'ry Prejudice and Passion free,</l>
+               <l>Lay bare the Mind's Recesses, <note place="bottom" n="5">as</note>
+                  <hi>but</hi> to Thee?</l>
+               <l>
+                  <pb n="5" facs="7"/>Often, as from the pomp thy state requires,</l>
+               <l>To Contemplation's cell thy Friend retires,</l>
+               <l>Fast by the banks of Thames, his active mind</l>
+               <l>Dwells on the motley mask he left behind:</l>
+               <l>So far the wide Society extends,</l>
+               <l>So num'rous those <note place="bottom" n="1">—kind Custom calls our Friends;</note>
+                  <hi>we call from Custom Friends</hi>;</l>
+               <l>Yet, num'rous as they are, so very few</l>
+               <l>Wish what they ought, or as they ought pursue,</l>
+               <l>He scarce can tell what the <note place="bottom" n="2">dark</note>
+                  <hi>whole</hi> Drama means,</l>
+               <l>
+                  <note place="bottom" n="3">Or</note>
+                  <hi>Can</hi> fix the Plan, or separate the Scenes;</l>
+               <l>All would be great, but who with Care attends</l>
+               <l>Whence Greatness springs, it's Progress, and it's Ends?</l>
+            </lg>
+            <lg>
+               <l>How to direct their wand'ring footsteps right,</l>
+               <l>Or place their Errors in a stronger light,</l>
+               <l>And mark the Failings that mislead the Throng</l>
+               <l>Thro' Life, shall be the Subject of my Song.</l>
+            </lg>
+         </div>
+         <div type="epistle">
+            <pb facs="8"/>
+            <head>AN EPISTLE.</head>
+            <lg>
+               <l>POLLIO, to Thee; thy well-conducted youth</l>
+               <l>Has form'd thy mind to hear and follow Truth;</l>
+               <l>From Thee the crowds that Wisdom's laws despise</l>
+               <l>May learn that none are happy but the Wise;</l>
+               <l n="5">That Wisdom blunts the darts Misfortune flings,</l>
+               <l>And lifts to noblest heights Ambition's wings.</l>
+            </lg>
+            <lg>
+               <l>What then is Wisdom?—'Tis what gilds Success,</l>
+               <l>What makes it solid, infelt Happiness;</l>
+               <l>What keeps th' enlarg'd pursuit to Virtue true,</l>
+               <l n="10">And sinks the selfish in the social view.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="9"/>
+               <l>Say then, bright Guide! since thy <note place="bottom" n="1">auspicious</note>
+                  <hi>celestial</hi> beam</l>
+               <l>Lights us, thro' Social Happiness, to Fame;</l>
+               <l>Say, whence the gen'ral Groan, th' ensanguin'd Plain,</l>
+               <l>The <note place="bottom" n="2">royal Butcher</note>
+                  <hi>purple Murd'rer</hi> striding o'er the Slain,</l>
+               <l n="15">Sweeping half Human Kind from Nature's face,</l>
+               <l>And forging fetters for the rising race?</l>
+               <l>
+                  <note place="bottom" n="3">Say, whence, and why,</note>
+                  <hi>Whence then, and why,</hi> the Venal and the Vile,</l>
+               <l>The Voice of Honour, <note place="bottom" n="4">but</note>
+                  <hi>and</hi> the Heart of Guile,</l>
+               <l>Harden'd to crimes, and resolute to rise</l>
+               <l n="20">On <note place="bottom" n="5">holy Friendship's</note>
+                  <hi>Love and Friendship's</hi> violated ties?</l>
+               <l>The mad Voluptuary? the selfish Drone,</l>
+               <l>That stifles Merit, <note place="bottom" n="6">ardent</note>
+                  <hi>struggling</hi> to be known?</l>
+            </lg>
+            <lg>
+               <l>From CUNNING;—CUNNING, <note place="bottom" n="7">which</note>
+                  <hi>that</hi> deforms the mind,</l>
+               <l>Poisons the soil for noblest growths design'd;</l>
+               <l n="25">
+                  <pb n="9" facs="10"/>Blasts Heroes' Laurels, <note place="bottom" n="1">withers</note>
+                  <hi>blights</hi> the Statesman's Bays;</l>
+               <l>Cunning o'erturns the Throne she means to raise,</l>
+               <l>Corrupts the Heart, contracts the Social Plan,</l>
+               <l>And <note place="bottom" n="2">strangles, <hi>or</hi> smothers</note>
+                  <hi>narrows</hi> to Self-love the Love of Man:</l>
+               <l>By That the Soul, <note place="bottom" n="3">a</note>
+                  <hi>in</hi> prey to mean desires,</l>
+               <l n="30">Her flight obstructed, and impair'd her fires,</l>
+               <l>Panting for Glory, anxious to be great,</l>
+               <l>
+                  <note place="bottom" n="4">Toils</note>
+                  <hi>Moyls</hi> thro' the paths of Baseness and Deceit;</l>
+               <l>But still, tho' Fortune all her aid should lend,</l>
+               <l>She finds the Means have overturn'd the end;</l>
+               <l n="35">
+                  <note place="bottom" n="5">She loaths</note>
+                  <hi>Shrinks at</hi> the servile Croud and brib'd Address,</l>
+               <l>And sickens in the bosom of Success.</l>
+            </lg>
+            <lg>
+               <l>Wouldst thou, my Friend, survey with <note place="bottom" n="6">closer</note>
+                  <hi>stricter</hi> ken</l>
+               <l>These Rival Rulers of the Sons of Men?</l>
+               <l>
+                  <pb n="10" facs="11"/>We'll analyse their complicated frame,</l>
+               <l>And show their Pow'rs, their Passions, and their Aim;</l>
+               <l n="41">How they dispense to Mortals Good or Ill,</l>
+               <l>And how affect the bosom <note place="bottom" n="1">which</note>
+                  <hi>that</hi> they fill.</l>
+            </lg>
+            <lg>
+               <l>WISDOM's the Health and Vigour of the Mind,</l>
+               <l>
+                  <note place="bottom" n="2">It</note>
+                  <hi>That</hi> flows from ev'ry talent, justly join'd;</l>
+               <l n="45">
+                  <note place="bottom" n="3">
+                     <l>From Judgment temp'ring Wit's excessive blaze,</l>
+                     <l>And Genius bright'ning what Reflection weighs.</l>
+                  </note>
+                  <hi>Where Judgment tempers Wit's enliv'ning blaze,</hi>
+               </l>
+               <l>
+                  <hi>And Genius quickens what Reflection weighs.</hi>
+               </l>
+               <l>Parent of Peace, and Guardian of the Brave,</l>
+               <l>And teaching how to conquer and to save;</l>
+               <l>
+                  <note place="bottom" n="4">
+                     <l>Draws not the sword to fetter, but to free,</l>
+                     <l>And Vice alone is slain by her decree;</l>
+                  </note>
+                  <hi>She wars on Vice alone, and her decree</hi>
+               </l>
+               <l n="50">
+                  <hi>Draws not the sword to fetter, but to free;</hi>
+               </l>
+               <l>Her arms bid social Arts and Science rise,</l>
+               <l>And <note place="bottom" n="5">Conquest scatter</note>
+                  <hi>Victory shed</hi> blessings as she flies.</l>
+               <l>
+                  <pb n="11" facs="12"/>If to a narrower sphere her cares descend,</l>
+               <l>
+                  <note place="bottom" n="1">Her's is</note>
+                  <hi>She gives</hi> the Father, Citizen, and Friend,</l>
+               <l n="55">Th' indulgent Husband, and th' endearing Wife,</l>
+               <l>And all the tender Charities of Life.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="bottom" n="2">
+                     <l>What rich gifts flow from Wisdom's high command?</l>
+                  </note>
+                  <hi>These gifts, then, flow from Wisdom's high command:</hi>
+               </l>
+               <l>She makes the Vanquish'd bless the Victor's hand;</l>
+               <l>
+                  <note place="bottom" n="3">Adorns and dignifies</note>
+                  <hi>To raise, to dignify</hi> an humble state,</l>
+               <l n="60">Or fits the Robes of Greatness to the Great:</l>
+               <l>She leads where Virtue calls, and Fame attends.</l>
+            </lg>
+            <lg>
+               <l>CUNNING's the tim'rous Guide to sordid Ends:</l>
+               <l>Compos'd of parts which Wisdom calls Defects,</l>
+               <l>
+                  <note place="bottom" n="4">And</note>
+                  <hi>She</hi> apes her with the talents she rejects:</l>
+               <l n="65">Hence one proceeds with Firmness, one with Fear;</l>
+               <l>There manly Caution, low Suspicion here.</l>
+               <l>
+                  <pb n="12" facs="13"/>'Tis like false coin, by Cheats invented first,</l>
+               <l>The best materials <note place="bottom" n="1">mimick'd</note>
+                  <hi>copy'd</hi> with the worst;</l>
+               <l>Like that, it makes the wealth of Knaves alone,</l>
+               <l n="70">And brings as sure destruction when 'tis known.</l>
+            </lg>
+            <lg>
+               <l>As Lib'ral Arts and Love of Virtue fail</l>
+               <l>In Courts, the Cunning o'er the Wise prevail.</l>
+            </lg>
+            <lg>
+               <l>The crowds that Vice and Vanity pour forth,</l>
+               <l>Whose claims are founded on their Wants, not Worth,</l>
+               <l n="75">Ill brook the manly manners of the Wise,</l>
+               <l>Who scorn to flatter what they must despise.</l>
+            </lg>
+            <lg>
+               <l>Where solid Worth first forms the fair pretence,</l>
+               <l>Upborne by Probity, enforc'd by Sense;</l>
+               <l>Where virtuous Toil must earn what can't be sold,</l>
+               <l n="80">And Genius pants for Glory, not for Gold;</l>
+               <l>Where Brib'ry Birth, Cabal, neglected wait,</l>
+               <l>And Wisdom's hand unbars Preferment's gate,</l>
+               <l>
+                  <pb n="13" facs="14"/>This tribe th' unhospitable mansions shun,</l>
+               <l>And to th' all-courting dome of Cunning run;</l>
+               <l n="85">Run to th' important shrug, th' unmeaning hint,</l>
+               <l>
+                  <note place="bottom" n="1">Which</note>
+                  <hi>That</hi> Cunning ever coins in Falshood's mint;</l>
+               <l>To warm Professions, strangers to the mind;</l>
+               <l>To Speech, th' Interpreter of Truth design'd,</l>
+               <l>Now taught not to discover, but disguise,</l>
+               <l n="90">While the whole Man, each Look, each Gesture lyes,</l>
+               <l>With all the train of ineffectual cant,</l>
+               <l>To soothe, not satisfy—to lure, not grant.</l>
+            </lg>
+            <lg>
+               <l>Here the gay scenes with smiles perpetual strike,</l>
+               <l>All smooth, all flatt'ring, and all false alike;</l>
+               <l n="95">Insidious Praise extols, while Envy burns,</l>
+               <l>And feign'd Attachments meet with feign'd Returns;</l>
+               <l>The garb of Worth distress'd cloaks Squandring's tribes,</l>
+               <l>That Int'rest may seem gen'rous when she bribes:</l>
+               <l>Patron and Client, turn by turn, deceive,</l>
+               <l n="100">Ask from false motives, from false motives give;</l>
+               <l>
+                  <pb n="14" facs="15"/>Ill-founded all, Pretension, Promise, Grant,</l>
+               <l>Nought real, but Profusion, <note place="bottom" n="1">Bribe, and Want.</note>
+                  <hi>Brib'ry, Want.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus Prudence, Virtue, Parts, crowd Wisdom's train;</l>
+               <l>Thus Cunning sweeps the <note place="bottom" n="2">Lavish,</note>
+                  <hi>Squand'rer,</hi> False, and Vain:</l>
+               <l n="105">Just to the Tiller's care, the crop succeeds,</l>
+               <l>One binds the sheaf, and one collects the weeds.</l>
+               <l>
+                  <note place="bottom" n="3">
+                     <l>By this we see, and see without surprize,</l>
+                     <l>The Cunning far divided from the Wise.</l>
+                  </note>
+                  <hi>By this we see how far the distance lies,</hi>
+               </l>
+               <l>
+                  <hi>How wide, that parts the Cunning from the Wise.</hi>
+               </l>
+               <l>Hear, then, her Voice, whose comprehensive call</l>
+               <l n="110">Extends to the Great Vulgar and the Small.</l>
+            </lg>
+            <lg>
+               <l>When Men unfit for Greatness will be Great,</l>
+               <l>
+                  <note place="bottom" n="4">Why trust they not</note>
+                  <hi>Why don't they trust</hi> to Title and Estate?</l>
+               <l>What Daemon, envious of their Peace and Fame,</l>
+               <l>Drives them to make the Care of States their aim;</l>
+               <l n="115">
+                  <pb n="15" facs="16"/>To quit the shade of private life, and stray</l>
+               <l>Where ev'ry weakness glares in open day?</l>
+            </lg>
+            <lg>
+               <l>Whoe'er in life mistakes his destin'd place</l>
+               <l>Becomes <note place="bottom" n="1">sure</note>
+                  <hi>the</hi> Author of his own Disgrace;</l>
+               <l>For Heav'n bestows on All sufficient skill</l>
+               <l n="120">To grace the station which they ought to fill;</l>
+               <l>And, tho' to All not equally profuse,</l>
+               <l>Ordain'd us All for Decency and Use.</l>
+               <l>
+                  <note place="bottom" n="2">Is Wit deny'd?</note>
+                  <hi>Hast thou not Wit?</hi> be gen'rous and sincere:</l>
+               <l>
+                  <note place="bottom" n="3">Fails Learning too?</note>
+                  <hi>Does Learning fail?</hi> let Social Love appear;</l>
+               <l n="125">Let Truth, Good-nature, Virtue, be improv'd,</l>
+               <l>And, since thou canst not be admir'd, be lov'd.</l>
+            </lg>
+            <lg>
+               <l>Had Nature's bounty partially been shown,</l>
+               <l>And barr'd up ev'ry road to Fame but one,</l>
+               <l>'Twould seem less strange to see th' unequal strife</l>
+               <l n="130">That drives us all to shine in Public Life;</l>
+               <l>
+                  <pb n="16" facs="17"/>
+                  <note place="bottom" n="1">
+                     <l>Less strange, that Thirst of Pow'r o'er All prevails,</l>
+                     <l>And calls to Vice for aid, when Genius fails.</l>
+                  </note>
+                  <hi>How Thirst of Pow'r o'er All alike prevails,</hi>
+               </l>
+               <l>
+                  <hi>And calls in Vice to aid, where Genius fails.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Is Private Life, then, void of graceful aims?</l>
+               <l>Are Father, Husband, Friend, <note place="bottom" n="2">ignoble</note>
+                  <hi>ungraceful</hi> names?</l>
+               <l n="135">So far <note place="bottom" n="2">ignoble</note>
+                  <hi>ungraceful</hi> that we rather chuse</l>
+               <l>Pow'r, we want Genius to become or use?</l>
+            </lg>
+            <lg>
+               <l>The rule that leads us with unerring pace</l>
+               <l>To tread the various paths of Life with Grace</l>
+               <l>(Let Genius fire the blood, or Damps restrain)</l>
+               <l n="140">Confin'd to precepts obvious, easy, plain,</l>
+               <l>Alike thro' ev'ry rank, for practice fit,</l>
+               <l>To guard the plain good Man, and grace the Wit,</l>
+               <l>Thro' Court, Camp, Cottage, heard, felt, understood,</l>
+               <l>Consist in this—be honest, just, and good:</l>
+               <l>This, well observ'd, shall shield the Weak from blame,</l>
+               <l n="146">And lend Defects themselves a softer name:</l>
+               <l>
+                  <pb n="17" facs="18"/>Neglect of this debases all our thoughts,</l>
+               <l>And heightens all our Failings into Faults.</l>
+            </lg>
+            <lg>
+               <l>Failings and Faults from diff'rent springs proceed;</l>
+               <l n="150">Faults from the Heart, and Failings from the Head.</l>
+               <l>Quick to discern, and wisely to pursue,</l>
+               <l>And tread Life's labyrinth with Judgment's clue,</l>
+               <l>Are parts that few, indulg'd by Heav'n, can fill;</l>
+               <l>But all Men may be honest—if they will.</l>
+               <l>This Wisdom's laws, <note place="bottom" n="1">which</note>
+                  <hi>that</hi> first taught Virtue, teach,</l>
+               <l n="156">And place Esteem and Love in all Men's reach.</l>
+            </lg>
+            <lg>
+               <l>Her Guardian Influence then, <note place="bottom" n="2">to none unkind,</note>
+                  <hi>severely kind,</hi>
+               </l>
+               <l>Which diff'rent pow'rs to diff'rent parts assign'd,</l>
+               <l>And, thro' the whole impartial and exact,</l>
+               <l n="160">Ne'er deals the part without the pow'rs to act,</l>
+               <l>Gave Honesty, her gen'ral gift and best,</l>
+               <l>To guide, support, and dignify the rest.</l>
+            </lg>
+            <lg>
+               <pb n="18" facs="19"/>
+               <l>To Genius this secures immortal Fame,</l>
+               <l>And consecrates Ambition's boldest aim;</l>
+               <l n="165">Without it all the sparks of heav'nly fire,</l>
+               <l>Or blaze destructive, or in smoke, expire,</l>
+               <l>Giv'n to distress Mankind, and not to save:</l>
+               <l>Thus the same Sword, <note place="bottom" n="1">which,</note>
+                  <hi>that,</hi> weilded by the Brave,</l>
+               <l>In Virtue's cause, has sav'd a sinking Land,</l>
+               <l n="170">Does Midnight Murder in a Ruffian's hand.</l>
+            </lg>
+            <lg>
+               <l>If WISDOM, then, to All those pow'rs imparts</l>
+               <l>
+                  <note place="bottom" n="2">Which lead us on</note>
+                  <hi>That lead alone</hi> to Fame thro' Arms or Arts,</l>
+               <l>And sows, with bounty free and unconfin'd,</l>
+               <l>The seeds of Honesty in ev'ry mind,</l>
+               <l n="175">Which, vary'd by the soil, yet must produce</l>
+               <l>Or Private Peace of Mind, or Public Use,</l>
+               <l>(That Use which consecrates the Patriot's dust,</l>
+               <l>That Peace of Mind which ever crowns the Just):</l>
+               <l>Then boldly let the Muse this truth proclaim,</l>
+               <l n="180">Wisdom's the source, and Honesty the stream,</l>
+               <l>
+                  <pb n="19" facs="20"/>That wafts us safe, thro' Danger and Distress,</l>
+               <l>To Public Fame, or Private Happiness;</l>
+               <l>While Cunning weaves a maze without a clue,</l>
+               <l>And, <note place="bottom" n="1">purblind,</note>
+                  <hi>wav'ring,</hi> grasps False Greatness for the True.</l>
+            </lg>
+            <lg>
+               <l n="185">See the foul monster, of gigantic size,</l>
+               <l>On broken Faith and injur'd Friendship rise,</l>
+               <l>Fearful and rash, rapacious and profuse,</l>
+               <l>In Temper rigid, and in Morals loose;</l>
+               <l>By smiling Treach'ry led, with downcast eyes,</l>
+               <l n="190">And prompted by Suspicion, whisp'ring lyes;</l>
+               <l>See Ribald Mirth, and Begg'ry void of shame,</l>
+               <l>Demure Detraction, and loud-bawling Blame,</l>
+               <l>
+                  <note place="bottom" n="2">These Fiends,</note>
+                  <hi>Chos'n Friends!</hi> by Int'rest rank'd, in order stand,</l>
+               <l>And Flatt'ry next, with Falshood in her hand;</l>
+               <l n="195">Riot and Guile the wild procession ends,</l>
+               <l>And what Oppression gains Corruption spends.</l>
+            </lg>
+            <lg>
+               <pb n="20" facs="21"/>
+               <l>Descend a moment from this fancy'd height,</l>
+               <l>And view the treach'rous scene by Wisdom's light;</l>
+               <l>This pageant Pomp, this Homage of an Hour,</l>
+               <l n="200">This painted Grandeur, this unweildy Pow'r,</l>
+               <l>Shall shrink, when Truth displays her piercing beam,</l>
+               <l>Like the vain visions of a fev'rish dream,</l>
+               <l>Which promise Health and Youth for ever gay,</l>
+               <l>But yield us back to Death at break of day:</l>
+               <l n="205">So soon shall ill-got Greatness change it's state,</l>
+               <l>Turn'd to Reproach, Contempt, and Public Hate.</l>
+               <l>Proceed, and think what balm can cure the breast,</l>
+               <l>Where Guilt has enter'd once, and banish'd Rest:</l>
+               <l>If we have Friends, what Friendship can we trust,</l>
+               <l n="210">That knows us mean, ungen'rous, and unjust?</l>
+               <l>If we have Foes, how grateful to those Foes</l>
+               <l>To see us toil against our own repose!</l>
+               <l>Such is the fate of Greatness built on Vice,</l>
+               <l>Remorse the purchase, Innocence the price.</l>
+            </lg>
+            <lg>
+               <l n="215">When Wisdom's eye surveys the guilty Great,</l>
+               <l>They move our Pity, rather than our Hate:</l>
+               <l>
+                  <pb n="21" facs="22"/>I know they scorn the tricks by which they rise,</l>
+               <l>And view their ill-got Pow'r with joyless eyes;</l>
+               <l>They scorn the Prince on whom that Pow'r depends,</l>
+               <l>They scorn their Slaves, and most they scorn their Friends.</l>
+            </lg>
+            <lg>
+               <l n="221">Friendship well chose, of ev'ry blessing chief,</l>
+               <l>Doubles our Pleasures, and divides our Grief:</l>
+               <l>But view their Friendships, can we call them Choice?</l>
+               <l>No; 'tis Necessity, impos'd by Vice,</l>
+               <l n="225">Which, vile and weak itself, must always seek</l>
+               <l>For safety from the Wicked and the Weak:</l>
+               <l>Vileness must on the Villain's aid depend,</l>
+               <l>To plan fresh mischiefs, and the past defend;</l>
+               <l>And Weakness trusts the Weak, thro' jealous care,</l>
+               <l n="230">As Impotence with Eunuchs guards the Fair.</l>
+               <l>But let this truth into thy mind descend,</l>
+               <l>The Man that makes a Fool or Knave his Friend,</l>
+               <l>Whate'er pretence may seem his choice to guide,</l>
+               <l>Has crimes to perpetrate, or crimes to hide.</l>
+            </lg>
+            <lg>
+               <l n="235">True Greatness, sure, unfolds a nobler scene,</l>
+               <l>Without majestic, and within serene;</l>
+               <l>
+                  <pb n="22" facs="23"/>On Wisdom's height sublime, securely plac'd,</l>
+               <l>She plans new glories, and enjoys the past;</l>
+               <l>And, while the blasts of Rage and Faction blow,</l>
+               <l n="240">Hears the Storm rave and Thunder roll below:</l>
+               <l>There, high enthron'd, with silent joy surveys</l>
+               <l>Whole Kingdoms lift their hands in grateful praise;</l>
+               <l>
+                  <note place="bottom" n="1">And</note>
+                  <hi>Or</hi> soaring still (tho' pleas'd with deathless Fame)</l>
+               <l>
+                  <note place="bottom" n="2">
+                     <l>Ne'er fails beyond our World to stretch her aim.</l>
+                  </note>
+                  <hi>Extends, perhaps, beyond one World, her aim.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l n="245">'Tis her's to plead the suff'ring Orphan's cause,</l>
+               <l>And dry the tear that stern Oppression draws;</l>
+               <l>To call each latent seed of Virtue forth,</l>
+               <l>And <note place="bottom" n="3">wind up</note>
+                  <hi>kindle</hi> modest Diffidence to Worth.</l>
+            </lg>
+            <lg>
+               <l>If gentle Slumber o'er her eye-lids creeps,</l>
+               <l n="250">The Pray'rs of Nations guard her as she sleeps;</l>
+               <l>If Cares the fetter'd Sense from Sleep unbind,</l>
+               <l>Those Cares ensure the Quiet of Mankind:</l>
+               <l>
+                  <pb n="23" facs="24"/>She knows no guilty pang, no secret shame,</l>
+               <l>No start of horror from the midnight dream;</l>
+               <l n="255">But, wrapt in pleasing thought, with ravish'd eyes</l>
+               <l>Sees Public Good on proud Oppression rise;</l>
+               <l>And, watchful o'er the blessings of her hand,</l>
+               <l>Wakes, like the Guardian Angel of the Land.</l>
+            </lg>
+            <lg>
+               <l>Is there a Land, <note place="bottom" n="1">which</note>
+                  <hi>that</hi> such a Guard can claim,</l>
+               <l n="260">
+                  <note place="bottom" n="2">
+                     <l>Led by fair Virtue to the mount of Fame?</l>
+                  </note>
+                  <hi>By Virtue's tut'ring hand, borne up to Fame?</hi>
+               </l>
+               <l>Where sacred Liberty each breast inflames,</l>
+               <l>And Wealth and Life itself are second names;</l>
+               <l>
+                  <note place="bottom" n="3">Which</note>
+                  <hi>That</hi> dares, when Tyrants strike, repel the blow,</l>
+               <l>And lay the mighty Sons of Ruin low;</l>
+               <l n="265">
+                  <note place="bottom" n="4">Which</note>
+                  <hi>That</hi> once, tho' safe herself, by Heav'n's decree,</l>
+               <l>Dar'd fight and conquer, to set Europe free;</l>
+               <l>And, starting at her captive Neighbour's groan,</l>
+               <l>Stepp'd forth, and made the glorious cause her own.</l>
+            </lg>
+            <lg>
+               <pb n="24" facs="25"/>
+               <l>Is there where Learning may securely soar,</l>
+               <l n="270">Uncurb'd by Churchmen, unconstrain'd by Pow'r;</l>
+               <l>Where free Devotion wears an open face,</l>
+               <l>And Reason leads her to the throne of Grace;</l>
+               <l>
+                  <note place="bottom" n="1">
+                     <l>Tho' various, unconfus'd, to none a Slave,</l>
+                     <l>It's God adoring—</l>
+                  </note>
+                  <hi>Sincere, tho' various, and to none a Slave,</hi>
+               </l>
+               <l>
+                  <hi>But God is worship'd</hi> by the lights he gave?</l>
+            </lg>
+            <lg>
+               <l n="275">Is there a Prince, intrepid, just, and wise,</l>
+               <l>Who views his People with a Father's eyes,</l>
+               <l>And, pleas'd to guard that Right which Nature gave,</l>
+               <l>Scorns to debase a Subject to a Slave?</l>
+               <l>Should his bright Influence fill the courtly sphere,</l>
+               <l n="280">And Courtiers dare be honest and sincere;</l>
+               <l>Serve, tho' they promis'd; feel, tho' they profest;</l>
+               <l>Nor check the Social Virtues of the Breast.</l>
+            </lg>
+            <lg>
+               <l>Should Truth <note place="bottom" n="2">ascend</note>
+                  <hi>usurp</hi> suspicious Falshood's seat,</l>
+               <l>And Honesty grow graceful in the Great;</l>
+               <l n="285">
+                  <pb n="25" facs="26"/>Should Wit presume to speak, and Learning write,</l>
+               <l>And Pow'r and Lib'ral Arts at length unite;</l>
+               <l>Pronounce that Land the fav'rite Land of Fate,</l>
+               <l>Pronounce the Prince <note place="bottom" n="1">who</note>
+                  <hi>that</hi> rules it truly great.</l>
+            </lg>
+            <lg>
+               <l>Smit with true Glory's charms, thus far the Muse</l>
+               <l n="290">With eager steps the shining track pursues;</l>
+               <l>Strains ev'ry nerve to raise the fav'rite theme,</l>
+               <l>And fix fair Glory in the blaze of Fame:</l>
+               <l>'Tis her's to praise True Greatness on the Throne,</l>
+               <l>'Tis thine, O GEORGE! to make that Praise thy own.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

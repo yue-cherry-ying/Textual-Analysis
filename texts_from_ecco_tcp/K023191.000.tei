@@ -1,0 +1,512 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poems occasion'd by reading the travels of Captain Lemuel Gulliver, explanatory and commendatory:</title>
+            <title>Several copies of verses on occasion of Mr. Gulliver's travels</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023191.000</idno>
+            <idno type="docno">CW3324763043</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poems occasion'd by reading the travels of Captain Lemuel Gulliver, explanatory and commendatory:</title>
+                  <title>Several copies of verses on occasion of Mr. Gulliver's travels</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>16p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>Dublin :</pubPlace>
+                  <publisher>printed by and for J. Hyde,</publisher>
+                  <date>1727.</date>
+                  <idno type="TCP">K023191.000</idno>
+                  <idno type="docno">CW3324763043</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Usually attributed to Pope, perhaps in collaboration with Gay and Arbuthnot.</note>
+                  <note>Four poems only.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, S358</note>
+                  <note>Griffith, 189</note>
+                  <note>Teerink, 1224</note>
+                  <note>English Short Title Catalog, ESTCT5745.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>POEMS
+Occasion'd by Reading the
+<hi>TRAVELS</hi>
+OF
+Captain <hi>Lemuel Gulliver,</hi> EXPLANATORY
+AND
+COMMENDATORY.</p>
+            <p>
+               <hi>DUBLIN:</hi>
+Printed by and for J. HYDE, Bookseller in <hi>Dame</hi>'s-<hi>Street,</hi>
+1727.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="2"/>
+            <head>TO
+<hi>QVƲINBƲS FLESTRIN</hi>
+THE
+Man-Mountain.</head>
+            <head>AN
+ODE.</head>
+            <byline>By TITTY TITT, <abbr>Esq</abbr> Poet-Laureat to his Majesty of LILLIPUT.</byline>
+            <byline>Translated into ENGLISH.</byline>
+            <lg n="1">
+               <head>I.</head>
+               <l>
+                  <seg rend="decorInit">I</seg>N amaze</l>
+               <l>Lost, I gaze!</l>
+               <l>Can our Eyes</l>
+               <l>Reach thy Size?</l>
+               <l>May my Lays</l>
+               <l>Swell with Praise</l>
+               <l>
+                  <pb n="4" facs="3"/>
+Worthy thee!</l>
+               <l>Worthy me!</l>
+               <l>Muse inspire,</l>
+               <l>All thy Fire!</l>
+               <l>Bards of old</l>
+               <l>Of him told,</l>
+               <l>When they said</l>
+               <l>
+                  <hi>Atlas</hi> Head</l>
+               <l>Propt the Skies:</l>
+               <l>See and believe your Eyes!</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>See him stride</l>
+               <l>Vallies wide:</l>
+               <l>Over Woods,</l>
+               <l>Over Floods.</l>
+               <l>When he treads,</l>
+               <l>Mountains Heads</l>
+               <l>Groan and shake;</l>
+               <l>Armies quake,</l>
+               <l>Lest his Spurn</l>
+               <l>Overturn</l>
+               <l>Man and Steed:</l>
+               <l>Troops take heed!</l>
+               <l>Left and Right,</l>
+               <l>Speed your Flight!</l>
+               <l>Lest an Host</l>
+               <l>Beneath his Foot be lost.</l>
+            </lg>
+            <lg n="3">
+               <pb n="5" facs="4"/>
+               <head>III.</head>
+               <l>Turn'd aside</l>
+               <l>From his Hide,</l>
+               <l>Safe from Wound</l>
+               <l>Darts rebound.</l>
+               <l>From his Nose</l>
+               <l>Clouds he blows;</l>
+               <l>When he speaks,</l>
+               <l>Thunder breaks!</l>
+               <l>When he eats,</l>
+               <l>Famine threats;</l>
+               <l>When he drinks,</l>
+               <l>
+                  <hi>Neptune</hi> shrinks!</l>
+               <l>Nigh thy Ear,</l>
+               <l>In Mid Air,</l>
+               <l>On thy Hand</l>
+               <l>Let me stand,</l>
+               <l>So shall I,</l>
+               <l>Lofty Poet, touch the Sky.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="6" facs="5"/>
+            <head>THE
+LAMENTATION
+Of <hi>Glumdalclitch</hi> for the Loss of
+<hi>Grildrig.</hi>
+            </head>
+            <head>A
+PASTORAL.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>OON as <hi>Glumdalclitch</hi> mist her plea<lb rend="hidden" type="hyphenInWord"/>sing
+Care,</l>
+               <l>She wept, she blubber'd, and she
+tore her Hair.</l>
+               <l>No <hi>British</hi> Miss sincerer Grief has
+known,</l>
+               <l>Her Squirrel missing, or her Sparrow flown.</l>
+               <l>She furl'd her Sampler, and hawl'd in her Thread,</l>
+               <l>And stuck her Needle into <hi>Grildrig</hi>'s Bed;</l>
+               <l>Then spread her Hands, and with a Bounce let fall</l>
+               <l>Her Baby, like the Giant in <hi>Guild-hall.</hi>
+               </l>
+               <l>In Peals of Thunder, now she roars, and now</l>
+               <l>She gently whimpers like a lowing Cow.</l>
+               <l>Yet lovely in her Sorrow still appears:</l>
+               <l>Her Locks dishevell'd, and her Flood of Tears</l>
+               <l>Seem like the lofty Barn of some rich Swain,</l>
+               <l>When from the Thatch drips fast a Shower of Rain.</l>
+               <l>
+                  <pb n="7" facs="6"/>
+In v<gap resp="#oxf" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>n she search'd each Cranny of the House,</l>
+               <l>Each gaping Chink impervious to a Mouse.</l>
+               <l>" Was it for this (she cry'd) with daily Care</l>
+               <l>" Within thy reach I set the Vinegar?</l>
+               <l>" And fill'd the Cruet with the acid Tide,</l>
+               <l>" While Pepper-Water-Worms thy Bait supply'd;</l>
+               <l>" Where twin'd the Silver Eel around thy Hook,</l>
+               <l>" And all the little Monsters of the Brook.</l>
+               <l>" Sure in that Lake he dropt—My <hi>Grilly</hi>'s drown'd.</l>
+               <l>She dragg'd the Cruet, but no <hi>Grildrig</hi> found.</l>
+            </lg>
+            <lg>
+               <l>" Vain is thy Courage, <hi>Grilly,</hi> vain thy Boast,</l>
+               <l>" But little Creatures enterprise the most.</l>
+               <l>" Trembling, I've seen thee dare the Kitten's Paw;</l>
+               <l>" Nay, mix with Children, as they play'd at Taw;</l>
+               <l>" Nor fear the Marbles, as they bounding flew:</l>
+               <l>" Marbles to them, but rolling Rocks to you.</l>
+               <l>" Why did I trust thee with that giddy Youth?</l>
+               <l>" Who from a <hi>Page</hi> can ever learn the Truth?</l>
+               <l>" Vers'd in Court Tricks, that Money-loving Boy</l>
+               <l>" To some Lord's Daughter sold the living Toy;</l>
+               <l>" Or rent him Limb from Limb in cruel Play,</l>
+               <l>" As Children tear the Wings of Flies away:</l>
+            </lg>
+            <lg>
+               <l>" From Place to Place o'er <hi>Brobdingnag</hi> I'll roam,</l>
+               <l>" And never will return, or bring thee home.</l>
+               <l>
+                  <pb n="8" facs="7"/>
+" But who hath Eyes to trace the passing Wind,</l>
+               <l>" How then thy fairy Footsteps can I find?</l>
+               <l>" Dost thou bewildred wander all alone,</l>
+               <l>" In the green Thicket of a Mossy Stone,</l>
+               <l>" Or tumbled from the Toadstool's slipp'ry Round,</l>
+               <l>" Perhaps all maim'd, lie groveling on the Ground?</l>
+               <l>" Dost thou, imbosom'd in the lovely Rose,</l>
+               <l>" Or sunk within the Peach's Down, repose?</l>
+               <l>" Within the King-Cup if thy Limbs are spread,</l>
+               <l>" Or in the golden Cowslip's velvet Head;</l>
+               <l>" O shew me, <hi>Flora,</hi> 'midst those Sweets, the Flower</l>
+               <l>" Where sleeps my <hi>Grildrig</hi> in the fragrant Bower▪</l>
+            </lg>
+            <lg>
+               <l>" But ah! I fear thy little Fancy roves</l>
+               <l>" On little Females, and on little Loves;</l>
+               <l>" Thy pigmy Children, and thy tiny Spouse,</l>
+               <l>" The Baby Playthings that adorn thy House,</l>
+               <l>" Doors, Windows, Chimneys, and the spacious
+Rooms</l>
+               <l>" Equal in Size to Cells of Honeycombs.</l>
+               <l>" Hast thou for these now ventur'd from the Shore,</l>
+               <l>" Thy Bark a Bean-shell, and a Straw thy Oar?</l>
+               <l>" Or in thy Box, now bounding on the Main?</l>
+               <l>" Shall I ne'er bear thy self and House again?</l>
+               <l>" And shall I see thee on my Hand no more,</l>
+               <l>" To see thee leap the Lines, and traverse o'er</l>
+               <l>" My spacious Palm? of Stature scarce a Span,</l>
+               <l>" Mimick the Actions of a real Man?</l>
+               <l>
+                  <pb n="9" facs="8"/>
+" No more behold thee turn my Watches Key,</l>
+               <l>" As Seamen at a Capstern Anchors weigh?</l>
+               <l>" How wert thou wont to walk with cautious Tread,</l>
+               <l>" A Dish of Tea like Milk-Pale on thy Head?</l>
+               <l>" How chase the Mite that bore thy Cheese away,</l>
+               <l>" And keep the rolling Maggot at a Bay?</l>
+            </lg>
+            <lg>
+               <l>She spoke; but broken Accents stopt her Voice,</l>
+               <l>Soft as the speaking Trumpets mellow Noise:</l>
+               <l>She sob'd a Storm, and wip'd her flowing Eyes,</l>
+               <l>Which seem'd like two broad Suns in misty Skies:</l>
+               <l>O! squander not thy Grief, those Tears command</l>
+               <l>To weep upon our Cod in <hi>Newfound-Land:</hi>
+               </l>
+               <l>The plenteous Pickle shall preserve the Fish,</l>
+               <l>And <hi>Europe</hi> taste thy Sorrows in her Dish.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="10" facs="9"/>
+            <head>TO
+Mr. <hi>Lemuel Gulliver,</hi> The Grateful ADDRESS of the Unhappy
+HOUYHNHNMS, now in Slavery and Bon<lb rend="hidden" type="hyphenInWord"/>dage
+in <hi>England.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>O thee, we Wretches of the <hi>Houhn<lb rend="hidden" type="hyphenInWord"/>hnm</hi>
+Band,</l>
+               <l>Condemn'd to labour in a barb'rous
+Land,</l>
+               <l>Return our Thanks. Accept our
+humble Lays,</l>
+               <l>And let each grateful <hi>Houyhnhnm</hi> neigh thy Praise.</l>
+            </lg>
+            <lg>
+               <l>O happy <hi>Yahoo,</hi> purg'd from human Crimes,</l>
+               <l>By thy sweet Sojourn in those virtuous Climes,</l>
+               <l>Where reign our Sires! There, to thy Countrey's
+Shame,</l>
+               <l>Reason, you found, and Virtue were the same.</l>
+               <l>Their Precepts raz'd the Prejudice of Youth,</l>
+               <l>And even a <hi>Yahoo</hi> learn'd the Love of Truth.</l>
+            </lg>
+            <lg>
+               <l>Art thou the first who did the Coast explore;</l>
+               <l>Did never <hi>Yahoo</hi> tread that Ground before?</l>
+               <l>Yes Thousands. But in Pity to their Kind,</l>
+               <l>Or sway'd by Envy, or through Pride of Mind,</l>
+               <l>
+                  <pb n="11" facs="10"/>
+They hid their Knowledge of a nobler Race,</l>
+               <l>Which own'd, would all their Sires and Sons disgrace.</l>
+            </lg>
+            <lg>
+               <l>You, like the <hi>Samian,</hi> visit Lands unknown,</l>
+               <l>And by their wiser Morals mend your own.</l>
+               <l>Thus <hi>Orpheus</hi> travell'd to reform his Kind,</l>
+               <l>Came back, and tam'd the Brutes he left behind.</l>
+            </lg>
+            <lg>
+               <l>You went, you saw, you heard: With Virtue fought,</l>
+               <l>Then spread those Morals which the <hi>Houyhnhnms</hi>
+taught.</l>
+               <l>Our Labours here must touch thy gen'rous Heart,</l>
+               <l>To see us strain before the Coach and Cart;</l>
+               <l>Compell'd to run each knavish Jockey's Heat!</l>
+               <l>Subservient to <hi>New-market</hi>'s annual Cheat!</l>
+               <l>With what Reluctance do we Lawyers bear,</l>
+               <l>To fleece their Countrey Clients twice a Year?</l>
+               <l>Or manag'd in your Schools, for Fops to ride,</l>
+               <l>How foam, how fret beneath a Load of Pride!</l>
+               <l>Yes, we are Slaves—but yet, by Reason's Force,</l>
+               <l>Have learnt to bear Misfortune, like a Horse.</l>
+            </lg>
+            <lg>
+               <l>O would the Stars, to ease my Bonds, ordain,</l>
+               <l>That gentle <hi>Gulliver</hi> might guide my Rein!</l>
+               <l>Safe would I bear him to his Journey's End,</l>
+               <l>For 'tis a Pleasure to support a Friend.</l>
+               <l>But if my Life be doom'd to serve the Bad,</l>
+               <l>O! may'st thou never want an easy Pad!</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="12" facs="11"/>
+            <head>
+               <hi>MARY GƲLLIVER</hi> TO Capt. <hi>Lemuel Gulliver;</hi> AN EPISTLE</head>
+            <argument>
+               <p>The Captain some time after his Return, being retir'd
+to Mr. Sympson's in the Countrey, Mrs. Gulliver,
+apprehending from his late Behaviour some E<lb rend="hidden" type="hyphenInWord"/>strangement
+of his Affections, writes him the fol<lb rend="hidden" type="hyphenInWord"/>lowing
+expostulating, soothing, and tenderly-com<lb rend="hidden" type="hyphenInWord"/>plaing
+EPISTLE.</p>
+            </argument>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>ELCOME, thrice welcome to thy
+native Place!</l>
+               <l>—What, touch me not? what,</l>
+               <l>shun a wife's Embrace?</l>
+               <l>Have I for this thy tedious Absence
+born,</l>
+               <l>And wak'd and wish'd whole Nights for thy Return?</l>
+               <l>In five long Years I took no second Spouse;</l>
+               <l>What <hi>Redriff</hi> Wife so long hath kept her Vows?</l>
+               <l>Your Eyes, your Nose, Inconstancy betray;</l>
+               <l>Your Nose you stop, your Eyes you turn away.</l>
+            </lg>
+            <lg>
+               <pb n="13" facs="12"/>
+               <l>'Tis said, that thou shouldst <hi>cleave unto thy Wife</hi>;</l>
+               <l>Once <hi>thou</hi> didst cleave, and <hi>I</hi> could cleave for Life.</l>
+               <l>Hear and relent! hark, how thy Children moan;</l>
+               <l>Be kind at least to these, they are thy own:</l>
+               <l>Behold, and count them all; secure to find</l>
+               <l>The honest Number that you left behind.</l>
+               <l>See how they pat thee with their pretty Paws:</l>
+               <l>Why start you? are they Snakes? or have they Claws?</l>
+               <l>Thy Christian Seed, our mutual Flesh and Bone:</l>
+               <l>Be kind at least to these, they are thy own.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Biddel</hi> like thee, might farthest <hi>India</hi> rove;</l>
+               <l>He chang'd his Countrey, but retain'd his Love.</l>
+               <l>There's Captain <hi>Pannel,</hi> absent half his Life,</l>
+               <l>Comes back, and is the kinder to his Wife.</l>
+               <l>Yet <hi>Pannel</hi>'s Wife is brown, compar'd to me,</l>
+               <l>And Mistress <hi>Biddel</hi> sure is Fifty three.</l>
+            </lg>
+            <lg>
+               <l>Not touch me! never Neighbour call'd me Slut!</l>
+               <l>Was <hi>Flimnap</hi>'s Dame more sweet in <hi>Lilliput?</hi>
+               </l>
+               <l>I've no red Hair to breath an odious Fume;</l>
+               <l>At least thy Consort's cleaner than thy <hi>Groom.</hi>
+               </l>
+               <l>Why then that dirty Stable-boy thy Care?</l>
+               <l>What mean those Visits to the <hi>Sorrel Mare?</hi>
+               </l>
+               <l>Say, by what Witchcraft, or what Daemon led,</l>
+               <l>Preferr'st thou <hi>Litter</hi> to the Marriage Bed?</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="13"/>
+               <l>Some say the Dev'l himself is in that <hi>Mare</hi>:</l>
+               <l>If so, our <hi>Dean</hi> shall drive him forth by Prayer.</l>
+               <l>Some think you mad, some think you are possest,</l>
+               <l>That <hi>Bedlam</hi> and clean Straw would suit you best:</l>
+               <l>Vain means, alas, this Frenzy to appease!</l>
+               <l>That <hi>Straw,</hi> that <hi>Straw</hi> would heighten the Disease.</l>
+            </lg>
+            <lg>
+               <l>My Bed, (the Scene of all our former Joys,</l>
+               <l>Witness two lovely Girls, two lovely Boys)</l>
+               <l>Alone I press; in Dreams I call my Dear,</l>
+               <l>I stretch my Hand; no <hi>Gulliver</hi> is there!</l>
+               <l>I wake, I rise, and shiv'ring with the Frost,</l>
+               <l>Search all the House; my <hi>Gulliver</hi> is lost!</l>
+               <l>Forth in the Street I rush with frantick Cries;</l>
+               <l>The Windows open; all the Neighbours rise:</l>
+               <l>
+                  <hi>Where sleeps my</hi> Gulliver? <hi>O tell me where?</hi>
+               </l>
+               <l>The Neighbours answer, "<hi>With the Sorrel Mare.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At early Morn, I to the Market haste,</l>
+               <l>(Studious in ev'ry thing to please thy Taste)</l>
+               <l>A curious <hi>Fowl</hi> and <hi>Sparagrass</hi> I chose,</l>
+               <l>(For I remember'd you were fond of those)</l>
+               <l>Three Shillings cost the first, the last sev'n Groats;</l>
+               <l>Sullen you turn'd from both, and call'd for <hi>Oats.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Others bring Goods and Treasures to their Houses.</l>
+               <l>Something to deck their pretty Babes and Spouses;</l>
+               <l>
+                  <pb n="15" facs="14"/>
+My <hi>only</hi> Token was a Cup like Horn,</l>
+               <l>That's made of nothing but a Lady's <hi>Corn.</hi>
+               </l>
+               <l>'Tis not for that I grieve; O, 'tis to see</l>
+               <l>The <hi>Groom</hi> and <hi>Sorrel Mare</hi> prefer'd to me!</l>
+            </lg>
+            <lg>
+               <l>These for some Moments when you deign to quit,</l>
+               <l>And (at due distance) sweet Discourse admit,</l>
+               <l>'Tis all my Pleasure thy past Toil to know,</l>
+               <l>For pleas'd Remembrance builds Delight on Woe.</l>
+               <l>At ev'ry Danger pants thy Consort's Breast,</l>
+               <l>And gaping Infants squawle to hear the rest.</l>
+               <l>How did I tremble, when by Tousands bound,</l>
+               <l>I saw thee stretch'd on <hi>Lilliputian</hi> Ground;</l>
+               <l>When scaling Armies climb'd up ev'ry Part,</l>
+               <l>Each Step they trod, I felt upon my Heart.</l>
+               <l>But when thy Torrent quench'd the dreadful Blaze,</l>
+               <l>King, Queen and Nation staring with Amaze,</l>
+               <l>Full in my view how all my Husband came,</l>
+               <l>And what extinguish'd theirs, encreas'd my Flame.</l>
+               <l>Those <hi>Spectacles,</hi> ordain'd thine Eyes to save,</l>
+               <l>Were once my Present; <hi>Love</hi> that Armour gave.</l>
+               <l>How did I mourn at <hi>Bolgolam</hi>'s Decree!</l>
+               <l>For when he sign'd thy Death, he sentenc'd me.</l>
+            </lg>
+            <lg>
+               <l>When Folks might see thee all the Country round</l>
+               <l>For Six pence, I'd have giv'n a Thousand pound.</l>
+               <l>Lord! when the <hi>Giant-babe</hi> that Head of thine</l>
+               <l>Got in his Mouth, my Heart was up in mine!</l>
+               <l>
+                  <pb n="16" facs="15"/>
+When in the <hi>Marrow-bone</hi> I see thee ramm'd,</l>
+               <l>Or on the House-top by the <hi>Monkey</hi> cramm'd;</l>
+               <l>The piteous Images renew my Pain,</l>
+               <l>And all thy Dangers I weep o'er again!</l>
+               <l>But on the <hi>Maiden's-Nipple</hi> when you rid,</l>
+               <l>Pray Heav'n, 'twas all a wanton Maiden did!</l>
+               <l>
+                  <hi>Glumdalclitch</hi> too!—with thee I mourn her Case,</l>
+               <l>Heav'n guard the gentle Girl from all Disgrace!</l>
+               <l>O may the King that one Neglect forgive,</l>
+               <l>And pardon her the Fault by which I live!</l>
+               <l>Was there no other Way to set him free?</l>
+               <l>My Life, alas, I fear prov'd Death to Thee!</l>
+            </lg>
+            <lg>
+               <l>O teach me, dear, new words to speak my Flame;</l>
+               <l>Teach me to wooe thee by thy best-lov'd Name!</l>
+               <l>Whether the Stile of <hi>Grildrig</hi> please thee most,</l>
+               <l>So call'd on <hi>Brobdingnag</hi>'s stupendious Coast,</l>
+               <l>When on the Monarch's ample Hand you sate,</l>
+               <l>And hollow'd in his Ear, Intrigues of State:</l>
+               <l>Or <hi>Quinbus Flestrin</hi> more Endearment brings,</l>
+               <l>When like a Mountain you look'd down on Kings:</l>
+               <l>If Ducal <hi>Nardae, Lilliputian</hi> Peer,</l>
+               <l>Or <hi>Glumglum</hi>'s humbler Title sooth thy Ear;</l>
+               <l>Nay, would kind <hi>Jove</hi> my Organs so dispose,</l>
+               <l>To hymn harmonious <hi>Houyhnhnm</hi> thro' the Nose,</l>
+               <l>I'd call thee <hi>Houyhnhnm,</hi> that high sounding Name,</l>
+               <l>Thy Children's Noses all should twang the same.</l>
+               <l>So might I find my loving Spouse of course</l>
+               <l>Endu'd with all the <hi>Virtues</hi> of a <hi>Horse.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

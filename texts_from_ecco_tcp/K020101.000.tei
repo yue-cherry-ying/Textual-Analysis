@@ -1,0 +1,669 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The relief, or, day thoughts: a poem. Occasioned by The Complaint, or night thoughts. Humbly inscribed to the Right Honourable the Earl of Holderness.</title>
+            <author>Jones, Henry, 1721-1770.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020101.000</idno>
+            <idno type="docno">CW3313259062</idno>
+            <idno type="ecll">0561702500</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The relief, or, day thoughts: a poem. Occasioned by The Complaint, or night thoughts. Humbly inscribed to the Right Honourable the Earl of Holderness.</title>
+                  <author>Jones, Henry, 1721-1770.</author>
+               </titleStmt>
+               <extent>23,[1]p ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed in the year,</publisher>
+                  <date>1754.</date>
+                  <idno type="TCP">K020101.000</idno>
+                  <idno type="docno">CW3313259062</idno>
+                  <idno type="ecll">0561702500</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Henry Jones.</note>
+                  <note>Occasioned by Edward Young's poem.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT469.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE RELIEF, OR, DAY THOUGHTS: A POEM.</p>
+            <p>OCCASIONED BY THE <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>OMPLAINT, OR NIGHT THOUGHTS.</p>
+            <p>Humbly Inscribed to The RIGHT HONOURABLE The EARL of HOLDERNESS.</p>
+            <q>
+               <l>—Assert Eternal Providence,</l>
+               <l>And justify the Ways of God to Men.</l>
+               <bibl>MILTON.</bibl>
+            </q>
+            <p>LONDON: Printed in the Year M.DCC.LIV.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="2"/>
+         <head>THE RELIEF: A POEM.</head>
+         <lg>
+            <l>WHY all this solemn apparatus? why?</l>
+            <l>Why all this din about a worm's concerns?</l>
+            <l>The child of dust, of misery, of scorn;</l>
+            <l>The prey of flattery, the food of pride;</l>
+            <l>
+               <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ain expectation's bubble, reason's dupe;</l>
+            <l>
+               <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> frantic hope misled; and lost in whirls</l>
+            <l>
+               <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> visionary scenes, enchanted piles,</l>
+            <l>
+               <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>he fancy'd fabricks built by vanity</l>
+            <l>
+               <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>pon the vapours of a heated brain;</l>
+            <l>
+               <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> craft kept up in injur'd reason's spight,</l>
+            <l>
+               <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> custom held in reverential awe;</l>
+            <l>
+               <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>e sacred bugbears of a frighted world;</l>
+            <l>
+               <pb n="4" facs="3"/>To serve the purpose of designing knaves,</l>
+            <l>And yoke the neck of fools?—</l>
+         </lg>
+         <lg>
+            <l>The awful temples, tombs, and rolling clocks;</l>
+            <l>The midnight damps that drop from weeping yews,</l>
+            <l>Beneath th' eclipsed moon, (the scriech-owl's haunt)</l>
+            <l>Drenching the locks of some night-watching pil<lb rend="hidden" type="hyphenInWord"/>grim</l>
+            <l>Who sits, in dismal meditation wrapt,</l>
+            <l>And brainsick horror, o'er yon mould'ring grave,</l>
+            <l>By time defac'd, and frequent footsteps worn:</l>
+            <l>No mark remaining, but th' erected stone</l>
+            <l>Inscrib'd with narratives uncouth of birth,</l>
+            <l>Of death, (a mute unmeaning blank between)</l>
+            <l>The chissel's story to the pensive hind,</l>
+            <l>Who painful pores upon the wasted words,</l>
+            <l>And puzzling scans th' imperfect characters</l>
+            <l>Half hid in nettles, and perplex'd with thorn.</l>
+            <l>Here, moping superstition nightly broods;</l>
+            <l>Here counts the clarion of the bird of dawn,</l>
+            <l>Whose dreary note proclaims the ebbing night,</l>
+            <l>And drives the frighted goblin to his haunt,</l>
+            <l>The time-recording cock: or to the winds</l>
+            <l>Repeats her unavailing vespers o'er;</l>
+            <l>The winds, that mournful yell, from <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> vaults,</l>
+            <l>And broken sepulchres, their groaning access;</l>
+            <l>
+               <pb n="5" facs="4"/>As if they wail'd the long-departing dead,</l>
+            <l>Who slumber, deep in everlasting night,</l>
+            <l>Within these dreary mansions; where no dawn</l>
+            <l>Returns. Thus, hideous melancholy dips</l>
+            <l>Her pencil, still in dark delusive tincts,</l>
+            <l>And paints the face of things; detested growpe!</l>
+            <l>A landskip fit for hell: the work of fiends!</l>
+         </lg>
+         <lg>
+            <l>Let rescu'd fancy turn aloft her eye,</l>
+            <l>And view yon wide extended arch; behold</l>
+            <l>Yon crystal concave, studded with the gems,</l>
+            <l>The radiant gems of heav'n, that nightly burn</l>
+            <l>In golden lamps, and gild th' aetherial space;</l>
+            <l>That smiling vault, that canopy of stars,</l>
+            <l>Those cluster'd constellations! mark yon moon</l>
+            <l>Serenely shine; (her borrow'd lustre full;)</l>
+            <l>The mountain tops, the rocks, the vales, the lawns,</l>
+            <l>By her set off, adorn'd, and made delightful:</l>
+            <l>The boundless main, a polish'd mirror now,</l>
+            <l>Reflecting, from its bosom, back, the vast,</l>
+            <l>The wonderful, the glorious, glad appearance!</l>
+            <l>Bright visions eccho to th' inchanted eye;</l>
+            <l>As, on the ear, harmonious sounds return</l>
+            <l>In mimic notes, responsive made to fill,</l>
+            <l>To charm the fancy, with repeated transport.</l>
+            <l>All these, in their eternal round, rejoice;</l>
+            <l>
+               <pb n="6" facs="5"/>All these, with universal praise, proclaim</l>
+            <l>Their great creator; bountiful, benign,</l>
+            <l>Immensely good, rejoicing in his creatures!</l>
+            <l>Behold, yon blazing sun! but, Oh, to what;</l>
+            <l>To what shall we compare; (away with such</l>
+            <l>A thought) to what resemble him! this globe;</l>
+            <l>Ten thousand thousand worlds, beyond where space</l>
+            <l>Exists, where matter lives; beyond the grasp</l>
+            <l>Of human thought, imagination's ken,</l>
+            <l>Nay reason's reach, the intellect of angels?—</l>
+            <l>But, silence best becomes the boundless theme;</l>
+            <l>In wonder swallow'd up, and deep astonishment!</l>
+         </lg>
+         <lg>
+            <l>What should we fear? this glorious prospect brings</l>
+            <l>No dreadful phantom to the frighted eye,</l>
+            <l>No terror to the soul; 'tis transport all!</l>
+            <l>Here fancy roves, in sweet variety</l>
+            <l>For ever lost; her native bliss. For her,</l>
+            <l>The blue ethereal arch expands; her table</l>
+            <l>Spread out with all the dainties of the sky,</l>
+            <l>Imagination's rich regale. For her</l>
+            <l>The clouds absorb the ev'ning ray; and drink</l>
+            <l>The liquid gold, which stains their fleecy sides</l>
+            <l>With all the tincts of heav'n, transmitted through</l>
+            <l>A thousand diff'rent strainers to the eye,</l>
+            <l>
+               <pb n="7" facs="6"/>And thence upon the ravish'd soul diffus'd.</l>
+            <l>The blushing beauties of the infant morn,</l>
+            <l>Aurora's saffron beam; the splendid bow,</l>
+            <l>Whose copious arch was bent by hands divine,</l>
+            <l>An emblem form'd of half eternity,</l>
+            <l>By angels robe'd in all the aggregate,</l>
+            <l>Th' unblended aggregate, of various day,</l>
+            <l>Of heav'n's own day; and from its sun-beams drawn,</l>
+            <l>In all its tinges dipt, its glories dress'd.</l>
+            <l>For her, the smiling earth puts on her mantle;</l>
+            <l>Her mantle green, with purple mix'd, with gold,</l>
+            <l>With all the liv'ries of the youthful spring,</l>
+            <l>To wake new raptures in the heart of man;</l>
+            <l>And fill his soul with gratitude immense.</l>
+            <l>All these are reason's treasures, stores of thought;</l>
+            <l>Reflection's unexhausted funds, replete</l>
+            <l>With matter for her own delightful task.</l>
+            <l>Here wisdom works at large; here smiling builds,</l>
+            <l>For sweet content, a homely shed; where joy,</l>
+            <l>Where gladness, visit oft her temp'rate guests,</l>
+            <l>And make their willing stay: here, undisturb'd,</l>
+            <l>They reign, they revel, take their fill of all</l>
+            <l>That nature (ever bounteous mother) yields,</l>
+            <l>For use or pleasure: but excess avoid;</l>
+            <l>That fiend accurs'd, whose bloated visage wan,</l>
+            <l>
+               <pb n="8" facs="7"/>And troubled eye, betray her inward pang,</l>
+            <l>Which shakes severe her paralytic nerve,</l>
+            <l>Her tott'ring frame; e'er death, by nature taught,</l>
+            <l>And time, in season due, with gentle hand</l>
+            <l>Can cut the wasted thread: excess usurps</l>
+            <l>With force th' abortive task, and vindicates</l>
+            <l>Her prey—Come all, ye family of joy;</l>
+            <l>Ye children of the chearful hour, begot</l>
+            <l>By wisdom on the virtuous mind; O, come!</l>
+            <l>Come innocence, in conscious strength secure;</l>
+            <l>Come courage, foremost in the manly train;</l>
+            <l>Come all; and in the honest heart abide,</l>
+            <l>Your native residence, your fortress still,</l>
+            <l>From real or from fancy'd evils free:</l>
+            <l>O, come; indignant, drive out, far beyond</l>
+            <l>The utmost precincts of the human breast,</l>
+            <l>Beyond the springs of hope, the cells of joy,</l>
+            <l>And ev'ry mansion where a virtue lives;</l>
+            <l>O drive far off, for ever drive that bane,</l>
+            <l>That hideous pest, engender'd deep in hell,</l>
+            <l>Where Stygian glooms condens'd dimension'd darkness,</l>
+            <l>Contains, within its dire embrace, that monster</l>
+            <l>Horrid to sight, and by the frighted furies</l>
+            <l>In their dread pannic SUPERSTITION nam'd!</l>
+         </lg>
+         <lg>
+            <l>The close contracted span of human life</l>
+            <l>
+               <pb n="9" facs="8"/>Is dearly purchas'd by the sons of care;</l>
+            <l>Since sickness, disappointment, pain, and death,</l>
+            <l>A thousand vary'd unavoided evils,</l>
+            <l>Prey hourly on the vexing heart of man,</l>
+            <l>Like officers of wrath, let loose by pride,</l>
+            <l>To raise the rigid tax on wretched being;</l>
+            <l>A dreadful int'rest, for a sum so small!</l>
+            <l>Enough are these, alas, to gall and sting!</l>
+            <l>What need we then for fancy'd evils seek,</l>
+            <l>To scare the soul, and harrow up the heart,</l>
+            <l>Already toss'd, and torn, and broken down</l>
+            <l>By evils of its own contrivance? evils</l>
+            <l>Still adverse found, to nature's wholsome ways;</l>
+            <l>The bane of ev'ry bliss, and social joy:</l>
+            <l>Ambition, with her train; and luxury,</l>
+            <l>With custom link'd, with fell corruption join'd,</l>
+            <l>Led up by fashion in her frantic dance,</l>
+            <l>Follow'd by misery, despair, and death.</l>
+            <l>For pity's sake, forbear to haunt the world</l>
+            <l>With hideous spectres, and fantastic forms;</l>
+            <l>With harpy footed furies, fearful phantoms,</l>
+            <l>Everlasting torments, and unquenched fire.</l>
+            <l>O say, what horrid scenes are these you draw!</l>
+            <l>What portraits of th' Almighty! hence, away;</l>
+            <l>See reason turns the face aside, see nature</l>
+            <l>Start at the monstrous form! and cry aloud</l>
+            <l>
+               <pb n="10" facs="9"/>Through all her works, It is not like. Forbear,</l>
+            <l>Ye croaking ministers of midnight dreams,</l>
+            <l>Ye madding trumpeters of false report,</l>
+            <l>Forbear to pour your ghastly images</l>
+            <l>On truth, nor give just providence the lie.</l>
+            <l>What's a church-yard, what I pray? this horri<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> goblin</l>
+            <l>Array'd in midnight weeds by frantic fancy</l>
+            <l>I' th' solemn moon-struck hour? a bed prepar'd</l>
+            <l>For silent unperceiving dust that once</l>
+            <l>To human thought was wedded, vital clay,</l>
+            <l>Divorc'd by death to join the general mother,</l>
+            <l>Divided far from its companion dear,</l>
+            <l>Th' immortal soul, that now above the stars</l>
+            <l>Forgets this trampled clod, and joins the choirs</l>
+            <l>Of bliss, 'tis gloomy all and solemn. Hark,</l>
+            <l>Was it the clock that told the passing; hour,</l>
+            <l>And told it too at midnight? when deep silence</l>
+            <l>And hideous darkness reign o'er half the world</l>
+            <l>It was.—What then? it tells it too at noon,</l>
+            <l>Amidst the noise and sunshine of that hour,</l>
+            <l>The clock that calls to business or to pleasure</l>
+            <l>The sons of avarice and sensual joy.</l>
+            <l>What tragic bustle when an engine strikes!</l>
+            <l>Shall meer negations, unsubstantial shades,</l>
+            <l>Such monsters form, to fright th' unthinking crowd</l>
+            <l>
+               <pb n="11" facs="10"/>To fancy tangible, to terror real?</l>
+            <l>Let monks, let nurses put these vizors on,</l>
+            <l>To startle bigots, and astonish babes;</l>
+            <l>Reason scorns, and common sense defies 'em;</l>
+            <l>And who so weak to shudder at the sound</l>
+            <l>Of yon departed moment fled for ever!</l>
+            <l>Or with his sad foreboding sighs keep time</l>
+            <l>To each elapsing sand that silent flows</l>
+            <l>From his exhausting glass with breaking heart:</l>
+            <l>"O wretched avarice of breath, to draw</l>
+            <l>"Fresh air, or gaze upon the wearied sun;</l>
+            <l>To tread the same unvary'd round with pain,</l>
+            <l>To eat, to drink, to sleep, to satisfy</l>
+            <l>Each sensual sordid appetite, alas!</l>
+            <l>How oft have distant prospects, verdant views,</l>
+            <l>With all that fortune's faithless flattering mirror</l>
+            <l>To sanguine pride presents and vain self-love,</l>
+            <l>How oft has cheated hope complain'd, and sought</l>
+            <l>
+               <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>or refuge in despair? the sense itself</l>
+            <l>Grows weary of the toil, the beastly toil,</l>
+            <l>And reason oft repeats this lesson learn'd</l>
+            <l>From pain, 'tis time to die; and what is time</l>
+            <l>
+               <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>elf! this awful sire of births prodigious;</l>
+            <l>The creature of the mind, no more: the vassal</l>
+            <l>Of thought, whose very being is the soul</l>
+            <l>Made short or long, as that is more or less</l>
+            <l>
+               <pb n="12" facs="11"/>Employ'd.—Good heav'n and earth, what horrid noise!</l>
+            <l>What stir about a reptile's poor concerns!</l>
+            <l>And when a worm expires, shall nature, say</l>
+            <l>Shall suffering nature sympathize with me?</l>
+            <l>Re-eccho groan for groan? so pride asserts;</l>
+            <l>O, monstrous pride! made drunk by fancy at</l>
+            <l>Ambition's feast. Shall yonder sun be hid,</l>
+            <l>Fierce <hi>Aetna</hi> flame, and thunder shake the poles,</l>
+            <l>Because, forsooth, some spring eccentric moves</l>
+            <l>Within this frail machine? and passion sways</l>
+            <l>The soul, for this the universal flood</l>
+            <l>Broke loose beyond its stated bounds; for this!</l>
+            <l>The mountains melt, the comets glare; for this!</l>
+            <l>Shall famine, pestilence, and war devour?</l>
+            <l>But, hark! th' infernal forge begins to roar,</l>
+            <l>The sounds of sorrow, and the yells of pain,</l>
+            <l>Now tear the shop of death, and reach my sense:</l>
+            <l>The flames ascend, the furies howl, and all</l>
+            <l>The Stygian eccho's ring a peal; a peal so loud,</l>
+            <l>That shakes the north of hell, and makes the throne</l>
+            <l>Of terror start. O whence this fierce uproar!</l>
+            <l>This strong convulsion in the realms of woe!</l>
+            <l>Behold yon reptile gasping in the arms,</l>
+            <l>Th' inexorable arms of death; how pale!</l>
+            <l>How ghastly are its looks! Ah! see, how fear,</l>
+            <l>How dread distort the face, and fix the eye,</l>
+            <l>The pallid eye, that window of the soul,</l>
+            <l>
+               <pb n="13" facs="12"/>The parting soul, that spark of entity,</l>
+            <l>Which now stands shiv'ring on the verge of life,</l>
+            <l>And views th' imaginary gulph beneath!</l>
+            <l>What horrors! O, what anguish, must she taste,</l>
+            <l>Whilst yet her faculties are left entire;</l>
+            <l>Whilst yet, she views the gaping fiends and flames!</l>
+            <l>O say, can human thought, can words express,</l>
+            <l>What nature feels in that tremenduous hour?</l>
+            <l>What pangs, what spasms, twisting too and fro</l>
+            <l>With irritated force, convulsive, tug</l>
+            <l>The rooted fibres, and the springs of life!</l>
+            <l>By horrors heighten'd, and distemper'd fumes,</l>
+            <l>That rack the mind, and tear the tortur'd frame;</l>
+            <l>Till the crack'd heart, subdu'd at length, forgets</l>
+            <l>To pant; and death, in mercy, ends the fray:</l>
+            <l>Nor only then, when near th' expiring gasp,</l>
+            <l>(Tho' then, each moment counterweighs an age)</l>
+            <l>Not only then, but through the goaded length</l>
+            <l>Of harrass'd life, we drag the burden'd weight</l>
+            <l>Of slavish fear, impos'd on childhood's thought,</l>
+            <l>By ignorance, made grey in gainful error,</l>
+            <l>And credulous design; who sit enthron'd,</l>
+            <l>Like tyrants of an antient race, to plead</l>
+            <l>Prescription's right, and rule the passive soul.</l>
+            <l>Can then a gracious GOD be said to call</l>
+            <l>From forth the vacant unexisting blank,</l>
+            <l>
+               <pb n="14" facs="13"/>A race of creatures capable of joy.</l>
+            <l>Enrich'd with thought, and warm with fierce desire;</l>
+            <l>With delicate sensations cover'd o'er,</l>
+            <l>And nice perception, prompt to gratify</l>
+            <l>Th' implanted impulse, and the vig'rous call?</l>
+            <l>When nature makes her strong, her just demand;</l>
+            <l>When passion rises at the loud alarm;</l>
+            <l>Led up by reason to the genial task;</l>
+            <l>By reason guided to the wise retreat.</l>
+            <l>Can justice punish what herself decrees,</l>
+            <l>And make obedience to her laws a crime?</l>
+            <l>Justice is nature in her social dress;</l>
+            <l>And social virtue is the voice of heav'n.</l>
+            <l>Shall arbitrary cobwebs skreen this truth,</l>
+            <l>With positive dogmatical behests;</l>
+            <l>And give yon blazing sun the lye? Awake,</l>
+            <l>Unhood-wink'd man, and cast abroad thy eyes;</l>
+            <l>Behold all nature in one gen'rous strife,</l>
+            <l>The war of amity, and discord sweet;</l>
+            <l>The strife of strong benevolence, behold,</l>
+            <l>The universal agents all at work,</l>
+            <l>From diff'rent quarters, with contending pow'rs;</l>
+            <l>In hostile harmony, to propagate</l>
+            <l>One glorious and eternal good to man:</l>
+            <l>To beasts, to fish, to fowl; to plants, perhaps;</l>
+            <l>To all that feel th' informing touch of good,</l>
+            <l>
+               <pb n="15" facs="14"/>With grateful energy their texture strike,</l>
+            <l>And send the gladsome tiding to the soul.</l>
+            <l>See nature, in her various stile, express</l>
+            <l>The thankful tribute of incessant praise,</l>
+            <l>From lifeless matter, to the sprouting blade</l>
+            <l>Of humble grass, upon the liv'ry'd lawn;</l>
+            <l>From trodden daisies, to the plant of JOVE.</l>
+         </lg>
+         <lg>
+            <l>Behold the genial aether swarm with life;</l>
+            <l>With quick'ning millions float. Behold the ant,</l>
+            <l>That citizen severe, with all her tribes</l>
+            <l>Incorporate, or diff'rent colour'd train;</l>
+            <l>Denisons of dust, and privileg'd to think,</l>
+            <l>Employ their parsimonious intellect,</l>
+            <l>And in their turn rejoice. 'Tis life's great charter,</l>
+            <l>Giv'n from eternity to all that breathe.</l>
+            <l>Shall those, to whom our jealous pride denies</l>
+            <l>Superior talents, and immortal thought;</l>
+            <l>Shall they, in self-felicity, flow o'er,</l>
+            <l>And mental transport; since, no joy, alas,</l>
+            <l>But in the mind, can live; shall they, whom we</l>
+            <l>Meer animates, miscall; shall they rejoice,</l>
+            <l>With fearless hearts, of shadows fearless made,</l>
+            <l>And fancy'd terrors all? Imaginary</l>
+            <l>Phantoms! From these exempt, they live at ease;</l>
+            <l>Regale each sense: enjoy existence still,</l>
+            <l>
+               <pb n="16" facs="15"/>Without excess. The sons of pride may here</l>
+            <l>Be taught, what instinct and what reason mean:</l>
+            <l>Reason, thou title to superior rank,</l>
+            <l>Thou dear bought purchase of the sons of EVE,</l>
+            <l>What ravens, vultures, and what harpies cry,</l>
+            <l>What clang incessant, o'er thy destin'd head!</l>
+            <l>And scare thy timid soul, thou lord of nature!</l>
+            <l>Beast and angel join'd! eccentric wretch!</l>
+            <l>The property of custom, fraud, and cunning!</l>
+            <l>The dupe of arrogance, the fool of forms!</l>
+            <l>With envious eyes, from thy exalted stand,</l>
+            <l>Look down upon thy subject world, and ask</l>
+            <l>Thy own experienc'd heart, what living thing,</l>
+            <l>Amidst the meanest reptiles, in thy reign,</l>
+            <l>Can suffer such extremes of woe as thee?</l>
+            <l>Rise up, thou glorious attribute! assert</l>
+            <l>Thy native dignity; rise up once more,</l>
+            <l>In injur'd man's defence; rise, reason, rise;</l>
+            <l>And with thy ray, invincible, drive far</l>
+            <l>These fancy-form'd, these monster-stalking shades,</l>
+            <l>These giant shapes, by melancholy seen,</l>
+            <l>With horrid strides, to glance athwart the sick</l>
+            <l>Imagination, curtain'd in already</l>
+            <l>By superstition's hand, and terrify'd</l>
+            <l>By her magnific glass, reflecting still</l>
+            <l>The midnight goblin, and the ghastly shade.</l>
+            <l>
+               <pb n="17" facs="16"/>In justice to thy great creator, rise,</l>
+            <l>To human nature, and to injur'd truth:</l>
+            <l>Thou attribute divine! thou ray of GOD!</l>
+            <l>Immortal reason! come, and with thee bring</l>
+            <l>In thy exulting train, invincible,</l>
+            <l>The honest purpose, and the chearful heart;</l>
+            <l>The joyful fancy, fill'd with images</l>
+            <l>Of truth, of science, and of social love.</l>
+            <l>Let friendship too be there; O, closer to</l>
+            <l>Thy sacred breast embrace her; closer yet:</l>
+            <l>She comes, she comes, from heav'n, her native place,</l>
+            <l>And with her see whate'er deserves thy wish,</l>
+            <l>Whate'er is cordial, comely, and humane,</l>
+            <l>Whate'er is rational, whate'er is pure;</l>
+            <l>The handmaid of th' Almighty, sent to bless</l>
+            <l>The suffering sons of men; to soften sorrow;</l>
+            <l>To sweeten care: Seraphic guest! all hail!</l>
+            <l>Thou, dearer than relations dear; than son,</l>
+            <l>Than father, brother, wife, or tender tye;</l>
+            <l>Thou child of sweet benevolence, begot</l>
+            <l>By reason on the virtuous heart; arise,</l>
+            <l>Thou best belov'd of heav'n! thou joy, thou crown</l>
+            <l>Of man, arise; and from thy sacred presence</l>
+            <l>Drive far each hideous apparition, form'd</l>
+            <l>By midnight hags, beneath th' abortive gloom,</l>
+            <l>
+               <pb n="18" facs="17"/>The bane of ev'ry social bliss; thy bane.</l>
+            <l>What magic sounds are these, that pow'rful shed</l>
+            <l>Their thrilling transport through the raptur'd soul,</l>
+            <l>And captivate each thought? 'tis music's charms</l>
+            <l>Hark! again, again, they strike; again possess</l>
+            <l>The heart: O! sweeter, louder yet proclaim</l>
+            <l>Thy large dominion o'er the kindred soul,</l>
+            <l>Extatic harmony, triumphant bliss,</l>
+            <l>To the, glad heart! where virtue tunes the strings.</l>
+         </lg>
+         <lg>
+            <l>Awake, awake, each chearful thought; arise</l>
+            <l>At that seraphic call; 'tis friendship's voice.</l>
+            <l>Good nature, now, arise, in smiles array'd;</l>
+            <l>Thou welcome guest, with aspect open still,</l>
+            <l>And with unguarded lip, because thy heart</l>
+            <l>With social fervor glows, and sends its message</l>
+            <l>To the rich tongue, by sense directed still;</l>
+            <l>By prudence taught: behold yon smiling bowl,</l>
+            <l>By temp'rance mix'd, with chearful hand, invite<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>
+            </l>
+            <l>Thy lip: see blushing beauty there adorn'd</l>
+            <l>With modesty sublime, with meekness robe'd,</l>
+            <l>With grace invincible attract the soul,</l>
+            <l>And heighten ev'ry joy: thou fugitive,</l>
+            <l>Fly far, intruding care; from hence fly far;</l>
+            <l>And in some Gothic cell, with superstition,</l>
+            <l>With slavish horror, make thy drear abode.</l>
+            <l>
+               <pb n="19" facs="18"/>Let in the mimic arts, the muse shall lead</l>
+            <l>Them in; herself their chief, their crown, their pride,</l>
+            <l>Immortal pride, that hands them safe through all</l>
+            <l>The havock and the wrecks of time; by her</l>
+            <l>Preserv'd, recorded, and immortal made.</l>
+            <l>Behold the magic pencil's mock creation;</l>
+            <l>The peopled canvass, and the story'd wall;</l>
+            <l>How life, how passion, blend together there!</l>
+            <l>To ravish, and to warm the wond'ring soul,</l>
+            <l>And lift its faculties to heav'n. O, there</l>
+            <l>Let fancy feast, and take her fill of all,</l>
+            <l>That genius, or that learning yield; of all</l>
+            <l>That dignity or grace bestow, to banquet</l>
+            <l>Reason, and chear the heart, susceptible,</l>
+            <l>Whom genius, taste, and science, form'd to feel,</l>
+            <l>To foster, cherish, and enjoy the guests</l>
+            <l>Divine; the soul congenial, copious, warm,</l>
+            <l>Exalted and humane, with op'ning arms</l>
+            <l>Will rush to meet embrace, and welcome in</l>
+            <l>Th' angelic visitants in meek disguise,</l>
+            <l>In <hi>Britain</hi> yet, (alas, how few the friends,</l>
+            <l>The hospitable friends they find) yet there,</l>
+            <l>Yet even there, a CHESTERFIELD and HOL<lb rend="hidden" type="hyphenInWord"/>DERNESS,</l>
+            <l>Anxious for their country's fading glory,</l>
+            <l>
+               <pb n="20" facs="19"/>Inspir'd by genius and immortal fame,</l>
+            <l>Throw wide their gates, and hail the mimic arts.</l>
+            <l>Abroad, abroad, there health invites thee forth;</l>
+            <l>There, pleasure courts thee in her russet robe</l>
+            <l>Magnificent: the morning gales arise,</l>
+            <l>With freighted pinions wafting all the east</l>
+            <l>In od'rous incense to thy ravish'd mind;</l>
+            <l>Thy mind, dilated now with all the wide</l>
+            <l>Extended various prospect, stretch'd beneath</l>
+            <l>The cope of heav'n sublime; delicious feast!</l>
+            <l>Th' ecchoing hills the chearing horn delight,</l>
+            <l>The soul exerting clangor, rip'ning CERES,</l>
+            <l>And the rich swelling grape; in these exult,</l>
+            <l>In these rejoice, thy lot bestow'd, O man!</l>
+            <l>Whilst youth and vigour in thy heart remain,</l>
+            <l>And nature bids thee to her banquet come,</l>
+            <l>Thy portion giv'n beneath the sun. Once more,</l>
+            <l>Collect thy pow'rs divine, once more drive off</l>
+            <l>That evil thing call'd fear, that slavish fiend!</l>
+            <l>Let hope, let joy, thy bosom inmates be,</l>
+            <l>Through life still cherish'd, and in death held fast,</l>
+            <l>A gracious GOD, loud speaking to thy heart,</l>
+            <l>Through all his works, this truth inculcates still,</l>
+            <l>Nature's thy nurse, and providence thy friend.</l>
+            <l>Integrity, with fearless heart, ride on,</l>
+            <l>Undaunted, tread the various path, through life,</l>
+            <l>
+               <pb n="21" facs="20"/>Which leads to death, that hospitable stage:</l>
+            <l>Where weary nature takes her last repose,</l>
+            <l>And lays her down from toil, and pain, to rest</l>
+            <l>In sweet oblivion wrapt; remote from grief,</l>
+            <l>And all th' ingrafted ills which life has foster'd.</l>
+            <l>Why should approaching death affright the soul?</l>
+            <l>Why reason start, and turn away from him,</l>
+            <l>Who comes to bring us home from misery,</l>
+            <l>Mistake and fear? the messenger of heav'n!</l>
+            <l>No grisly terror to the honest heart:</l>
+            <l>If GOD be just. O blasphemy, to doubt</l>
+            <l>His justice or his mercy!—Mercy all</l>
+            <l>But not unjust) is God. O sacred source</l>
+            <l>Of bounty, life, and truth eternal; rise,</l>
+            <l>Look down, and vindicate thy injur'd name,</l>
+            <l>From those, who dress thee out in terror, thunder,</l>
+            <l>Revenge, with flaming bolts and hissing wheels;</l>
+            <l>With all the dreadful equipage of wrath,</l>
+            <l>Infernal malice, and tyrannic pride,</l>
+            <l>O bigot blasphemy! begot on fear,</l>
+            <l>By pride made drunk! by melancholy nurs'd!</l>
+            <l>By ignorance, by cruelty, brought up!</l>
+            <l>By craft accomplish'd, and by custom fix'd!</l>
+            <l>Detested monster!—Tell, ye stars that rule</l>
+            <l>Th' ambrosial night, thou circling moon proclaim,</l>
+            <l>
+               <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>azon abroad thy great original,</l>
+            <l>
+               <pb n="22" facs="21"/>Thou glorious sun! of unperceiving things,</l>
+            <l>Thy maker's brightest image! O declare,</l>
+            <l>Was it thy great, thy good creator's view,</l>
+            <l>(O horrid plan,) to cheat me into being,</l>
+            <l>To gratify revenge and rage eternal,</l>
+            <l>In tortures beyond thought, and endless woe.</l>
+            <l>Can he enjoy a wretch's dolors? He exult</l>
+            <l>At agony? can he, like <hi>Nero,</hi> view</l>
+            <l>His noblest work consum'd, and triumph in</l>
+            <l>The blaze? O justice, lift thy righteous arm:</l>
+            <l>Yet hold! Compassion, patience, and redress,</l>
+            <l>Still best become thee, 'tis but frenzy all,</l>
+            <l>And brain-sick rant, which physick should remove,</l>
+            <l>And reason cool. Thou homicide forbear!</l>
+            <l>And from thy throat thy desp'rate hand withdraw;</l>
+            <l>Lay down the murd'rous knife, the loaded gun,</l>
+            <l>And fling the baneful volume by; nay, burn it</l>
+            <l>Tear, scatter it abroad; O, quick deface</l>
+            <l>The pestilential lye that taints the whole,</l>
+            <l>And breathes thro' ev'ry page. A way with fuel</l>
+            <l>Contagion from the eyes of man; with tombs,</l>
+            <l>With church-yards, tolling midnight clocks; away</l>
+            <l>With fun'ral pomp, with gloomy mock parade,</l>
+            <l>With sable hearses, scutcheons, nodding plumes,</l>
+            <l>And all the dismal pegeantry of death.</l>
+            <l>Let fancy drive these goblins from her sight;</l>
+            <l>
+               <pb n="23" facs="22"/>Let mirth, let joy, let transport fill their place;</l>
+            <l>Philosophy and faith shall hand them in,</l>
+            <l>And nature bid them welcome. O rejoice,</l>
+            <l>Distinguish'd man! rejoice, how bless'd thy lot,</l>
+            <l>Whilst reason is thy guide! look up, look up,</l>
+            <l>O see where hope stands pointing to the sky,</l>
+            <l>On sun-beams rais'd, by angels beckon'd on;</l>
+            <l>See her celestial flight, where thou shalt follow.</l>
+            <l>Turn thy eyes thither; thither lift thy heart.</l>
+            <l>Thy gracious GOD awaits thee there; to him</l>
+            <l>Thou shalt return in season due, to taste</l>
+            <l>Immortal transports! thy beginning, end,</l>
+            <l>Thy center, father, saviour, and thy friend.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

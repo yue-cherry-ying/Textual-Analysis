@@ -1,0 +1,458 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the knowledge and characters of men: An epistle to the Right Honourable Richard Lord Viscount Cobham.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023163.000</idno>
+            <idno type="docno">CW3310104143</idno>
+            <idno type="ecll">0118700400</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the knowledge and characters of men: An epistle to the Right Honourable Richard Lord Viscount Cobham.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>12p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London [Edinburgh] :</pubPlace>
+                  <publisher>printed in the year,</publisher>
+                  <date>1734.</date>
+                  <idno type="TCP">K023163.000</idno>
+                  <idno type="docno">CW3310104143</idno>
+                  <idno type="ecll">0118700400</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Alexander Pope.</note>
+                  <note>"Printed by [Robert] Fleming on the evidence of the ornaments" (Foxon).</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P921</note>
+                  <note>Griffith, 330</note>
+                  <note>English Short Title Catalog, ESTCT5710.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>Of the Knowledge and Characters of Men.</p>
+            <p>AN EPISTLE To the Right Honourable <hi>RICHARD</hi> Lord Viscount <hi>COBHAM.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCCXXXIV.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="2"/>
+         <head>AN EPISTLE To the Right Honourable <hi>RICHARD</hi> Lord Visc<hi rend="sup">t</hi>. <hi>COBHAM.</hi>
+         </head>
+         <lg>
+            <l>
+               <seg rend="decorInit">Y</seg>ES, you despise the Man to Books confin'd,</l>
+            <l>Who from his Study rails at human kind;</l>
+            <l>Tho' what he learns he speaks, and may advance</l>
+            <l>Some gen'ral Maxims, or be right by Chance.</l>
+            <l>The coxcomb Bird, so talkative and grave,</l>
+            <l>That from his Cage cries Cuckold, Whore and Knave,</l>
+            <l>Tho' many a Passenger he rightly call,</l>
+            <l>You hold him no Philosopher at all.</l>
+         </lg>
+         <lg>
+            <l>And yet the Fate of all Extremes is such,</l>
+            <l>Men may be read, as well as Books, too much.</l>
+            <l>To Observations which our selves we make,</l>
+            <l>We grow more partial for th' Observer's sake;</l>
+            <l>
+               <pb n="4" facs="3"/>
+To written Wisdom, as another's, less:</l>
+            <l>Maxims are drawn from Notions, those from Guess.</l>
+         </lg>
+         <lg>
+            <l>There's some <hi>Peculiar</hi> in each Leaf and Grain;</l>
+            <l>Some unmark'd Fibre, or some varying Vein:</l>
+            <l>Shall only Man be taken in the gross?</l>
+            <l>Grant but as many sorts of Mind, as <note place="bottom" n="†">There are above 300 Sorts of Moss observed by Naturalists.</note>Moss.</l>
+         </lg>
+         <lg>
+            <l>That each from other differs, first confess;</l>
+            <l>Next, that he varies from himself no less:</l>
+            <l>Add Nature's, Custom's, Reason's, Passion's strife,</l>
+            <l>And all Opinion's Colours cast on Life.</l>
+         </lg>
+         <lg>
+            <l>Yet more; the Diff'rence is as great between</l>
+            <l>The Optics seeing, as the Objects seen.</l>
+            <l>All Manners take a tincture from our own,</l>
+            <l>Or come discolour'd, thro' our Passions shown,</l>
+            <l>Or Fancy's beam inlarges, multiplies,</l>
+            <l>Contracts, inverts, and gives ten thousand dyes.</l>
+         </lg>
+         <lg>
+            <l>Our Depths who fathoms, or our Shallows finds?</l>
+            <l>Quick Whir<gap resp="#oxf" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>s, and shifting Eddies of our minds?</l>
+            <l>Life's Stream for Observation will not stay,</l>
+            <l>It hurries all too fast to mark their way.</l>
+            <l>In vain sedate Reflections we would make,</l>
+            <l>When half our Knowledge we must snatch, not take▪</l>
+            <l>On human Actions reason tho' you can,</l>
+            <l>It may be Reason, but it is not Man:</l>
+            <l>
+               <pb n="5" facs="4"/>
+His Principle of Action once explore,</l>
+            <l>That instant 'tis his Principle no more;</l>
+            <l>Like following Life thro' Creatures you dissect,</l>
+            <l>You lose it, in the Moment you detect.</l>
+         </lg>
+         <lg>
+            <l>Oft, in the Passions wild rotation tost,</l>
+            <l>Our Spring of Action to our selves is lost:</l>
+            <l>Tir'd, not determin'd, to the last we yield,</l>
+            <l>And what comes then is master of the field.</l>
+            <l>As the last Image of that troubled heap,</l>
+            <l>When sense subsides, and fancy sports in sleep,</l>
+            <l>(Tho' past the recollection of the thought)</l>
+            <l>Becomes the stuff of which our Dream is wrought;</l>
+            <l>Something, as dim to our internal view,</l>
+            <l>Is thus perhaps the cause of all we do.</l>
+         </lg>
+         <lg>
+            <l>In vain the grave, with retrospective Eye,</l>
+            <l>Would from th' apparent <hi>what</hi> conclude the <hi>why,</hi>
+            </l>
+            <l>Infer the Motive from the Deed, and show</l>
+            <l>That what we <hi>chanc'd,</hi> was what we <hi>meant,</hi> to do.</l>
+            <l>Behold! if Fortune, or a Mistress frowns,</l>
+            <l>Some plunge in bus'ness, others shave their Crowns:</l>
+            <l>To ease the Soul of one oppressive Weight,</l>
+            <l>This quits an Empire, that embroils a State:</l>
+            <l>The same adust Complection has impell'd</l>
+            <l>
+               <note place="bottom" n="*">CHARLES V. PHILIP II.</note>
+               <hi>Charles</hi> to the Convent, <hi>Philip</hi> to the Field.</l>
+         </lg>
+         <lg>
+            <l>Not always <hi>Actions</hi> shew the Man: we find,</l>
+            <l>Who does a Kindness is not therefore kind;</l>
+            <l>
+               <pb n="6" facs="5"/>
+Perhaps Prosperity becalm'd his Breast;</l>
+            <l>Perhaps the Wind just shifted from the East.</l>
+            <l>Not always humble he who seeks Retreat,</l>
+            <l>Pride guides his Steps, and bids him shun the Great.</l>
+            <l>Who combats bravely, is not therefore brave;</l>
+            <l>He dreads a Death-bed like the meanest Slave.</l>
+            <l>Who reasons wisely, is not therefore wise;</l>
+            <l>His pride in reas'ning, not in acting lies.</l>
+         </lg>
+         <lg>
+            <l>But grant that Actions best discover Man;</l>
+            <l>Take the most <hi>strong,</hi> and <hi>sort</hi> them as you can:</l>
+            <l>The <hi>few</hi> that glare, each Character must mark,</l>
+            <l>You balance not the <hi>many</hi> in the dark.</l>
+            <l>What will you do with such as disagree?</l>
+            <l>Suppress them, or miscal them Policy?</l>
+            <l>Must then at once (the Character to save)</l>
+            <l>A plain, rough Hero turn a crafty Knave?</l>
+            <l>Alas! in Truth the Man but chang'd his Mind,</l>
+            <l>Perhaps was sick, in Love, or had not din'd.</l>
+         </lg>
+         <lg>
+            <l>Ask how from <hi>Britain Caesar</hi> made retreat?</l>
+            <l>
+               <hi>Caesar</hi> perhaps had told you, he was beat.</l>
+            <l>The mighty <hi>Czar</hi> what mov'd to wed a Punk?</l>
+            <l>The mighty <hi>Czar</hi> might answer, he was dunk,</l>
+            <l>But sage Historians! 'tis your task to prove</l>
+            <l>One action Conduct, one Heroic Love.</l>
+         </lg>
+         <lg>
+            <l>'Tis from <hi>high Life,</hi> high Characters are drawn;</l>
+            <l>A Saint in Crape is twice a Saint in Lawn;</l>
+            <l>A Judge is just, a Chanc'lor juster still;</l>
+            <l>A Gownman learn'd; a Bishop, what you will:</l>
+            <l>
+               <pb n="7" facs="6"/>
+Wise, if a Minister; but if a King,</l>
+            <l>More wise, more learn'd, more just, more ev'ry thing.</l>
+            <l>Court-Virtues bear, like Gems, the highest rate,</l>
+            <l>Born where Heav'ns influence scarce can penetrate.</l>
+            <l>In Life's low vale, (the soil the Virtues like)</l>
+            <l>They please as Beauties, here as Wonders strike.</l>
+            <l>Tho' the same Sun with all-diffusive rays</l>
+            <l>Blush in the Rose, and in the Diamond blaze,</l>
+            <l>We prize the stronger effort of his Pow'r,</l>
+            <l>And always set the Gem above the Flow'r.</l>
+         </lg>
+         <lg>
+            <l>'Tis <hi>Education</hi> forms the vulgar mind;</l>
+            <l>Just as the Twig is bent, the Tree's inclin'd.</l>
+            <l>Boastful and rough, your first Son is a Squire;</l>
+            <l>The next, a Trades-man, meek, and much a Liar;</l>
+            <l>
+               <hi>Tom</hi> struts a Soldier, open, bold and brave;</l>
+            <l>
+               <hi>Will</hi> sneaks a Scriv'ner, an exceeding Knave:</l>
+            <l>Is he a Churchman? then he's fond of Pow'r;</l>
+            <l>A Quaker? fly; a Presbyterian? sour;</l>
+            <l>A smart Free-thinker? all things in an Hour.</l>
+         </lg>
+         <lg>
+            <l>True, some are open, and to all Men known;</l>
+            <l>Others so very close, they're hid from none;</l>
+            <l>(So Darkness fills the Eye no less than Light)</l>
+            <l>Thus gracious CHANDOS is belov'd at sight:</l>
+            <l>And ev'ry Child hates <hi>Shylock,</hi> tho' his Soul</l>
+            <l>Still sits at squate, and peeps not from its hole.</l>
+         </lg>
+         <lg>
+            <l>At half Mankind when gen'rous <hi>Manly</hi> raves,</l>
+            <l>All know 'tis Virtue, for he thinks them Knaves:</l>
+            <l>
+               <pb n="8" facs="7"/>
+When universal homage <hi>Umbra</hi> pays,</l>
+            <l>All see 'tis Vice, and itch of vulgar praise.</l>
+            <l>Who but detests th' Endearments of <hi>Courtine?</hi>
+            </l>
+            <l>While <hi>One</hi> there is, who charms us with his <hi>Spleen.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>But these plain Characters we rarely find,</l>
+            <l>Tho' strong the Bent, yet quick the Turns of Mind,</l>
+            <l>Here puzzling Contraries confound the whole,</l>
+            <l>There Affectations quite reverse the Soul:</l>
+            <l>The dull, flat Falshood serves for Policy,</l>
+            <l>And in the Cunning, Truth itself's a Lye;</l>
+            <l>Unthought of Frailties cheat us in the Wise;</l>
+            <l>The Fool lies hid in Inconsistencies.</l>
+         </lg>
+         <lg>
+            <l>See the same Man, in vigour, in the gout:</l>
+            <l>Alone, in company; in Place, or out;</l>
+            <l>Early at Bus'ness, and at Hazard late;</l>
+            <l>Mad at a Fox-chase, wise at a Debate;</l>
+            <l>Drunk at a Borough; civil at a Ball;</l>
+            <l>Friendly at <hi>Hackney,</hi> faithless at <hi>Whitehall.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>
+               <hi>Catius</hi> is ever moral, ever grave,</l>
+            <l>Thinks who endures a Knave, is next a Knave;</l>
+            <l>Save just a Dinner—then prefers, no Doubt,</l>
+            <l>A Rogue with Ven'son to a Saint without.</l>
+         </lg>
+         <lg>
+            <l>Who would not praise <hi>Patritio</hi>'s high desert?</l>
+            <l>His Hand unstain'd, his uncorrupted Heart,</l>
+            <l>His comprehensive head? all Int'rests weigh'd,</l>
+            <l>All <hi>Europe</hi> sav'd, yet <hi>Britain</hi> not betray'd?</l>
+            <l>He thanks you not; his Pride was in Piquette,</l>
+            <l>
+               <hi>Newmarket</hi>-fame, and Judgment at a Bett.</l>
+         </lg>
+         <lg>
+            <pb n="9" facs="8"/>
+            <l>What made (say <hi>Montagne,</hi> or more sage <hi>Charron!</hi>)</l>
+            <l>
+               <hi>Otho</hi> a Warrior, <hi>Cromwell</hi> a Buffoon?</l>
+            <l>A perjur'd Prince a <hi>leaden Saint</hi> revere?</l>
+            <l>A god-less Regent tremble at a <hi>Star?</hi>
+            </l>
+            <l>The Throne a <hi>Bigot</hi> keep, a <hi>Genius</hi> quit,</l>
+            <l>Faithless thro' Piety, and dup'd thro' Wit?</l>
+            <l>
+               <hi>Europe,</hi> a Woman, Child, or Dotard rule;</l>
+            <l>And just her <hi>ablest</hi> Monarch made a Fool?</l>
+         </lg>
+         <lg>
+            <l>Know, God and Nature only are the same:</l>
+            <l>In Man, the Judgment shoots at flying Game;</l>
+            <l>A Bird of Passage! lost, as soon as found;</l>
+            <l>Now in the Moon perhaps, now under Ground.</l>
+         </lg>
+         <lg>
+            <l>Ask Mens Opinions: <hi>J * * n</hi> now shall tell</l>
+            <l>How trade increases, and the World goes well;</l>
+            <l>Strike off his Pension by the setting Sun,</l>
+            <l>And <hi>Britain,</hi> if not <hi>Europe,</hi> is undone.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>Manners</hi> with Fortunes, <hi>Humours</hi> change with Climes,</l>
+            <l>
+               <hi>Tenets</hi> with Books, and <hi>Principles</hi> with Times.</l>
+         </lg>
+         <lg>
+            <l>Judge we by <hi>Nature?</hi> Habit can efface,</l>
+            <l>Int'rest o'ercome, or Policy take Place:</l>
+            <l>By <hi>Actions?</hi> those Un certainty divides:</l>
+            <l>By <hi>Passions?</hi> these Dissimulation hides:</l>
+            <l>
+               <hi>Affections?</hi> they still take a wider range:</l>
+            <l>Find, if you can, in what you cannot change?</l>
+         </lg>
+         <lg>
+            <l>'Tis in the <hi>ruli ng Passion:</hi> There, alone,</l>
+            <l>The wild are constant, and the cunning known,</l>
+            <l>The Fool consistent, and the false sincere;</l>
+            <l>Priests, Princes, Women, no Dissemblers here.</l>
+            <l>
+               <pb n="10" facs="9"/>
+This Clue once found unravels all the rest;</l>
+            <l>The Prospect clears, and <hi>Clodio</hi> stands confest.</l>
+            <l>
+               <hi>Clodio,</hi> the Scorn and Wonder of our Days,</l>
+            <l>Whose ruling Passion was the <hi>Lust of Praise;</hi>
+            </l>
+            <l>Born with whate'er could win it from the Wise,</l>
+            <l>Women and Fools must like him, or he dies.</l>
+            <l>Tho' wond'ring Senates hung on all he spoke,</l>
+            <l>The Club must hail him Master of the <hi>Joke.</hi>
+            </l>
+            <l>Shall parts so various aim at nothing new?</l>
+            <l>He'll shine a <hi>Tully,</hi> and a <hi>Wilmot</hi> too:</l>
+            <l>Then turns repentant, and his God adores</l>
+            <l>With the same Spirit that he drinks and whores:</l>
+            <l>Enough, if all around him but admire,</l>
+            <l>And now the Punk applaud, and now the Fry'r.</l>
+            <l>Thus, with each Gift of Nature and of Art,</l>
+            <l>And wanting nothing but an honest Heart;</l>
+            <l>Grown all to <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap>, from no one Vice exempt,</l>
+            <l>And most contemptible to shun Contempt;</l>
+            <l>His Passion still to covet gen'ral praise,</l>
+            <l>His Life, to forfeit it a thousand Ways;</l>
+            <l>His constant Bounty no one Friend has made;</l>
+            <l>His Angel Tongue no mortal can persuade:</l>
+            <l>A Fool, with more of Wit than half Mankind,</l>
+            <l>Too rash for Thought, for Action too refin'd:</l>
+            <l>A Tyrant to the Wife his Heart approves;</l>
+            <l>A Rebel to the very King he loves:</l>
+            <l>He dies, sad out-cast of each Church and Sate!</l>
+            <l>And (harder still) flagitious, yet not great!</l>
+            <l>
+               <pb n="11" facs="10"/>
+Ask you why <hi>Clodio</hi> broke thro' every Rule?</l>
+            <l>'Twas all for Fear, the Knaves shou'd call him Fool.</l>
+         </lg>
+         <lg>
+            <l>Nature well known, no Miracles remain,</l>
+            <l>Comets are regular, and <hi>Clodio</hi> plain.</l>
+            <l>Yet, in the search, the wisest may mistake,</l>
+            <l>If second Qualities for first they take.</l>
+            <l>When <hi>Catiline</hi> by rapine swell'd his Store,</l>
+            <l>When <hi>Caesar</hi> made a noble Dame a Whore,</l>
+            <l>In this the Lust, in that the Avarice</l>
+            <l>Were Means, not ends, Ambition was the Vice.</l>
+            <l>That very <hi>Caesar,</hi> born in <hi>Scipio</hi>'s Days,</l>
+            <l>Had aim'd, like him, by Chastity at praise:</l>
+            <l>
+               <hi>Lucullus,</hi> when Frugality could charm,</l>
+            <l>Had roasted Turnips in the <hi>Sabin</hi> farm:</l>
+            <l>In vain th' Observer eyes the Builder's toil,</l>
+            <l>But quite mistakes the <hi>Scaffold</hi> for the <hi>Pile.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>In this one Passion Man can strength enjoy,</l>
+            <l>As Fits give vigour, just when they destroy.</l>
+            <l>Time, that on all Things lays his lenient Hand,</l>
+            <l>Yet tames not this: It sticks to our last sand.</l>
+            <l>Consistent in our Follies, and our Sins,</l>
+            <l>Here honest Nature ends as she begins.</l>
+         </lg>
+         <lg>
+            <l>Behold a rev'rend Sire, whom Want of Grace</l>
+            <l>Has made the Father of a nameless Race,</l>
+            <l>Crawl thro' the Street, shov'd on, or rudely press'd</l>
+            <l>By his own Sons, that pass him by un-bless'd!</l>
+            <l>Still to his Wench he creeps, on knocking Knees,</l>
+            <l>And envies ev'ry Sparrow that he sees.</l>
+         </lg>
+         <lg>
+            <l>A Salmon's Belly, <hi>Helluo,</hi> was thy Fate.</l>
+            <l>The Doctor call'd declares all help too late.</l>
+            <l>
+               <pb n="12" facs="11"/>
+Mercy! cries <hi>Helluo,</hi> Mercy on my Soul!</l>
+            <l>Is there no Hope? Alas!—then bring the Jowl.</l>
+         </lg>
+         <lg>
+            <l>" Odious! in <hi>Woollen<gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                     <desc>illegible</desc>
+                  </gap>
+               </hi> 'twou'd a Saint provoke,</l>
+            <l>(Were the last Words that poor <hi>Naroissa</hi> spoke)</l>
+            <l>" No, let a charming Chintz, and <hi>Brussels</hi> lace</l>
+            <l>" Wrap my cold Limbs, and shade my lifeless Face:</l>
+            <l>" One wou'd not, sure, be frightful when one's dead—</l>
+            <l>" And, <hi>Betty!</hi> give this Cheek a little Red,</l>
+         </lg>
+         <lg>
+            <l>Old Politicians chew on Wisdom past,</l>
+            <l>And blunder on in Bus'ness to the last;</l>
+            <l>As weak as earnest; and as gravely <hi>out,</hi>
+            </l>
+            <l>As sober <hi>L * * w,</hi> dancing in the Gout.</l>
+         </lg>
+         <lg>
+            <l>The Courtier smooth, who forty Years had shin'd</l>
+            <l>An humble Servant to all Human Kind,</l>
+            <l>Just brought out this, when scarce his Tongue cou'd stir.</l>
+            <l>" If—where I'm going—I could serve you, Sir?"</l>
+         </lg>
+         <lg>
+            <l>" I give and I devise (old <hi>Euclio</hi> said,</l>
+            <l>And sigh'd) "my Lands and Tenements to <hi>Ned.</hi>"</l>
+            <l>Your Money Sir? "My Money Sir! what all?</l>
+            <l>" Why—if I must—(then wept) I give it <hi>Paul.</hi>"</l>
+            <l>The Mannor, Sir?—"The Mannor! hold, he cry'd,</l>
+            <l>" Not that—I cannot part with that"—and dy'd.</l>
+         </lg>
+         <lg>
+            <l>And You! brave COBHAM, to the latest Breath</l>
+            <l>Shall feel your <hi>ruling Passion</hi> strong in Death:</l>
+            <l>Such in those Moments, as in All the past,</l>
+            <l>" Oh save my Country, Heav'n!" shall be your last.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Horace his ode to Venus. Lib. IV. Ode I. Imitated by Mr. Pope:</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023139.000</idno>
+            <idno type="docno">CW3314970895</idno>
+            <idno type="ecll">0741400900</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Horace his ode to Venus. Lib. IV. Ode I. Imitated by Mr. Pope:</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>[2],7,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Wright, and sold by J. Roberts,</publisher>
+                  <date>1737.</date>
+                  <idno type="TCP">K023139.000</idno>
+                  <idno type="docno">CW3314970895</idno>
+                  <idno type="ecll">0741400900</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Parallel Latin and English texts.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P896</note>
+                  <note>Griffith, 443</note>
+                  <note>English Short Title Catalog, ESTCT5677.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <pb facs="2"/>
+            <p>HORACE
+HIS
+Ode to VENUS. </p>
+            <p>LIB. IV. ODE I.</p>
+            <p>IMITATED
+By Mr. <hi>POPE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi>
+Printed for J. WRIGHT, and Sold by J. ROBERTS
+in <hi>Warwick-lane,</hi> MDCCXXXVII. (Price Six Pence.)</p>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="3"/>THE
+FIRST ODE
+OF THE
+FOURTH BOOK
+OF
+HORACE.</head>
+         <div xml:lang="eng" type="version">
+            <pb facs="4"/>
+            <head>Q. HORATII FLACCI
+ODARUM
+LIB. IV. ODE. I.</head>
+            <head>AD VENEREM.</head>
+            <l>
+               <seg rend="decorInit">I</seg>NTER missa Venus diu</l>
+            <l>Rursus bella moves? parce precor, precor!</l>
+            <l>Non tum qualis eram, bonae</l>
+            <l>Sub regno Cynarae: Desine, dulcium</l>
+            <l>Mater saeva Cupidinum,</l>
+            <l>Circa lustra decem flectere mollibus</l>
+            <l>Jam durum imperiis: abi</l>
+            <l>Quo blandae juvenum te revocant preces.</l>
+            <l>
+               <pb n="4" facs="6"/>
+Tempestiviùs in domo</l>
+            <l>
+               <hi>Paulli,</hi> purpureis ales oloribus,</l>
+            <l>Comessabere <hi>Maximi,</hi>
+            </l>
+            <l>Si torrere jecur quaeris idoneum.</l>
+            <l>Namque et nobilis &amp; decens,</l>
+            <l>Et pro solicitis non tacitus reis,</l>
+            <l>Et centum puer artium,</l>
+            <l>Latè signa feret militiae tuae.</l>
+            <l>Et quandoque potentior</l>
+            <l>Largis muneribus riserit aemuli,</l>
+            <l>Albanos prope te lacus</l>
+            <l>Ponet marmoream, sub trabe citrea.</l>
+            <l>Illic plurima naribus</l>
+            <l>Duces thara; lyraeque &amp; Berecynthiae</l>
+            <l>Delectabere tibiae</l>
+            <l>Mistis carminibus, non sine fistulâ.</l>
+            <l>
+               <pb n="6" facs="8"/>
+Illic bis pueri die</l>
+            <l>Numen cum teneris virginibus tuum</l>
+            <l>Laudantes, pede candido</l>
+            <l>In morem Salium ter quatient humum.</l>
+            <l>Me nec femina, nec puer</l>
+            <l>Jam, nec spes animi credula mutui,</l>
+            <l>Nec certare juvat mero:</l>
+            <l>Nec vincire novis tempora floribus.</l>
+            <l>—Sed cur, heu! Ligurine, cur</l>
+            <l>Manat rara meas lacryma per genas?</l>
+            <l>Cur facunda parum decoro</l>
+            <l>Inter verba cadit lingua silentio?</l>
+            <l>Nocturnis te ego somniis</l>
+            <l>Jam captum teneo: jam volucrem sequor</l>
+            <l>Te, per gramina Martii</l>
+            <l>Campi, te per aquas, dure, volubiles.</l>
+         </div>
+         <div xml:lang="eng" type="version">
+            <pb facs="5"/>
+            <head>THE
+FIRST ODE
+OF THE
+FOURTH BOOK
+OF
+HORACE:</head>
+            <head>TO VENUS.</head>
+            <l>
+               <seg rend="decorInit">A</seg>GAIN? new Tumults in my Breast?</l>
+            <l>Ah spare me, Venus! let me, let me rest!</l>
+            <l>I am not now, alas! the man</l>
+            <l>As in the gentle Reign of My Queen <hi>Anne.</hi>
+            </l>
+            <l>Ah sound no more the soft alarms,</l>
+            <l>Nor circle sober fifty with thy Charms.</l>
+            <l>Mother too fierce of dear Desires!</l>
+            <l>Turn, turn to willing Hearts your wanton fires.</l>
+            <l>
+               <pb n="5" facs="7"/>
+To <hi>Number five</hi> direct your Doves,</l>
+            <l>There spread round M**y all your blooming Loves;</l>
+            <l>Noble and young, who strikes the heart</l>
+            <l>With every sprightly, every decent part;</l>
+            <l>Equal, the injur'd to defend,</l>
+            <l>To charm the Mistress, or to fix the Friend.</l>
+            <l>He, with a hundred Arts refin'd,</l>
+            <l>Shall stretch thy Conquests over half the kind:</l>
+            <l>To him each Rival shall submit,</l>
+            <l>Make but his riches equal to his Wit.</l>
+            <l>Then shall thy Form the Marble grace,</l>
+            <l>(Thy Graecian Form) and Chloe lend the Face:</l>
+            <l>His House, embosom'd in the Grove,</l>
+            <l>Sacred to social Life and social Love,</l>
+            <l>Shall glitter o'er the pendent green,</l>
+            <l>Where Thames reflects the visionary Scene.</l>
+            <l>Thither, the silver-sounding Lyres</l>
+            <l>Shall call the smiling Loves, and young Desires;</l>
+            <l>There, every Grace and Muse shall throng,</l>
+            <l>Exalt the Dance, or animate the Song;</l>
+            <l>
+               <pb n="7" facs="9"/>
+There, Youths and Nymphs, in consort gay,</l>
+            <l>Shall hail the rising, close the parting day.</l>
+            <l>With me, alas! those joys are o'er;</l>
+            <l>For me, the vernal Garlands bloom no more.</l>
+            <l>Adieu! fond hope of mutual fire,</l>
+            <l>The still-believing, still-renew'd desire;</l>
+            <l>Adieu! the heart-expanding bowl,</l>
+            <l>And all the kind Deceivers of the soul!</l>
+            <l>—But why? ah tell me, ah too dear!</l>
+            <l>Steals down my cheek th'involuntary Tear?</l>
+            <l>Why words so flowing, thoughts so free,</l>
+            <l>Stop, or turn nonsense at one glance of Thee?</l>
+            <l>Thee, drest in Fancy's airy beam,</l>
+            <l>Absent I follow thro' th'extended Dream,</l>
+            <l>Now, now I seize, I clasp thy charms,</l>
+            <l>And now you burst, (ah cruel!) from my arms,</l>
+            <l>And swiftly shoot along the Mall,</l>
+            <l>Or softly glide by the Canal,</l>
+            <l>Now shown by Cynthia's silver Ray,</l>
+            <l>And now, on rolling Waters snatch'd away.</l>
+         </div>
+      </body>
+   </text>
+</TEI>

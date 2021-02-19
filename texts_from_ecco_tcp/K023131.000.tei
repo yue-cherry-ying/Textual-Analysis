@@ -1,0 +1,585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first satire of the second book of Horace, imitated: in a dialogue between Alexander Pope of Twickenham in Com. Midd. Esq; on the one part, and his learned council on the other.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023131.000</idno>
+            <idno type="docno">CW3312919144</idno>
+            <idno type="ecll">0484700500</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first satire of the second book of Horace, imitated: in a dialogue between Alexander Pope of Twickenham in Com. Midd. Esq; on the one part, and his learned council on the other.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>19,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed by L. G. [Lawton Gilliver] and sold by A. Dodd; E. Nutt; and by the booksellers of London and Westminster,</publisher>
+                  <date>1733.</date>
+                  <idno type="TCP">K023131.000</idno>
+                  <idno type="docno">CW3312919144</idno>
+                  <idno type="ecll">0484700500</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>No price on titlepage; no comma after "Pope"; press figure 1 on p. 15.</note>
+                  <note>Parallel Latin and English texts.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P886</note>
+                  <note>Griffith, 288</note>
+                  <note>English Short Title Catalog, ESTCT5666.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE
+FIRST SATIRE
+OF THE
+<hi>SECOND BOOK</hi>
+OF
+HORACE,</p>
+            <p>Imitated in a DIALOGUE between
+<hi>ALEXANDER POPE</hi> of <hi>Twickenham</hi> in <hi>Com.
+Midd.</hi> 
+               <abbr>Esq</abbr> on the one Part, and his LEARNED
+COUNCIL on the other.</p>
+            <q>Scilicet Uni Aequus Virtuti, at{que} ejus Amicis.</q>
+            <bibl>HORAT.</bibl>
+            <p>
+               <hi>LONDON:</hi>
+Printed by <hi>L. G.</hi> and sold by A. DODD, near <hi>Temple-Bar;</hi> E. NUTT,
+at the <hi>Royal Exchange;</hi> and by the Booksellers of <hi>London</hi> and
+<hi>Westminster.</hi> M.DCC.XXXIII.</p>
+         </div>
+         <div type="halftitle">
+            <pb facs="2"/>
+            <p>
+               <hi>Q. HORATII FLACCI</hi>
+SERMONUM
+LIBRI SECUNDI
+SATIRA PRIMA.</p>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="3"/>QUINTI HORATII FLACCI
+SERMONUM
+LIBER SECUNDUS.</head>
+         <div xml:lang="lat" type="version">
+            <head>SATIRA PRIMA.</head>
+            <stage>HORATIUS. TREBATIUS.</stage>
+            <sp>
+               <speaker>HOR.</speaker>
+               <l>
+                  <hi>SUNT</hi> quibus in Satyra videar nimis acer, &amp; ultra</l>
+               <l>Legem tendere opus; <milestone n="2" unit="unspec"/> sine nervis altera quicquid</l>
+               <l>Composui pars esse putat, similesque meorum</l>
+               <l>Mille die versus <hi>deduci</hi> posse. <milestone n="3" unit="unspec"/> Trebati!</l>
+               <l>Quid faciam? <hi>Praescribe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="6" facs="5"/>
+               <speaker>TREB.</speaker>
+               <l>
+                  <milestone n="4" unit="unspec"/> 
+                  <hi>Quiescas.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>HOR.</speaker>
+               <l>Ne faciam inquis,</l>
+               <l>Omnino versus?</l>
+            </sp>
+            <sp>
+               <speaker>TREB.</speaker>
+               <l>Aio.</l>
+            </sp>
+            <sp>
+               <speaker>HOR.</speaker>
+               <l>Peream male si non</l>
+               <l>Optimum erat: <milestone n="5" unit="unspec"/> verum nequeo dormire.</l>
+            </sp>
+            <sp>
+               <speaker>TREB.</speaker>
+               <l>
+                  <milestone n="6" unit="unspec"/> Ter uncti</l>
+               <l>Transnanto Tiberim, somno quibus est opus alto,</l>
+               <l>Irriguumve mero sub noctem corpus habento.</l>
+               <l>
+                  <milestone n="7" unit="unspec"/> Aut, si tantus amor scribendi te rapit, aude</l>
+               <l>
+                  <hi>CAESARIS</hi> invicti res dicere, <milestone n="8" unit="unspec"/> multa laborum</l>
+               <l>
+                  <hi>Praemia</hi> laturus.</l>
+            </sp>
+            <sp>
+               <speaker>HOR.</speaker>
+               <l>Cupidum, pater optime! vires</l>
+               <l>Deficiunt: <milestone n="9" unit="unspec"/> neque enim quivis <hi>horrentia pilis</hi>
+               </l>
+               <l>Agmina, <hi>nec</hi> fracta pereuntes cuspide Gallos,</l>
+               <l>Aut <hi>labentis equo</hi> describat vulnera Parthi.</l>
+            </sp>
+            <sp>
+               <speaker>TREB.</speaker>
+               <l>
+                  <milestone n="10" unit="unspec"/> At tamen &amp; justum poteras &amp; scribere fortem,</l>
+               <l>Scipiadam ut sapiens Lucilius.</l>
+            </sp>
+            <sp>
+               <pb n="8" facs="7"/>
+               <speaker>HOR.</speaker>
+               <l>Haud mihi deero,</l>
+               <l>Cum res ipsa feret. <milestone n="11" unit="unspec"/> Nisi <hi>dextro tempore</hi> Flacci</l>
+               <l>Verba per attentam non ibunt <hi>Caesaris</hi> aurem;</l>
+               <l>Cui male si palpere, recalcitrat undique tutus.</l>
+            </sp>
+            <sp>
+               <speaker>TREB.</speaker>
+               <l>
+                  <milestone n="12" unit="unspec"/> Quanto rectius hoc, quam tristi loedere versu</l>
+               <l>Pantolabum Scurram, Nomentanumve nepotem?</l>
+               <l>
+                  <milestone n="13" unit="unspec"/> Cum sibi quisque timet, quanquam est intactus, &amp; odit.</l>
+            </sp>
+            <sp>
+               <speaker>HOR.</speaker>
+               <l>
+                  <milestone n="14" unit="unspec"/> Quid faciam? Saltat Milonius, ut semel icto</l>
+               <l>Accessit fervor capiti numerusque lucernis.</l>
+               <l>
+                  <milestone n="15" unit="unspec"/> Castor gaudet equis; <hi>ovo prognatus eodem</hi>
+               </l>
+               <l>Pugnis: quot capitum vivunt, totidem studiorum</l>
+               <l>Millia: <milestone n="16" unit="unspec"/> me pedibus delectat claudere verba,</l>
+               <l>Lucili ritu, nostrum melioris utroque.</l>
+               <l>Ille, velut fidis arcana sodalibus olim</l>
+               <l>
+                  <pb n="10" facs="9"/>
+Credebat libris; neque si male gesserat, usquam</l>
+               <l>Decurrens alio, neque si bene: quo fit ut omnis</l>
+               <l>Votiva pateat veluti descripta tabella</l>
+               <l>Vita senis. Sequor hunc, <milestone n="17" unit="unspec"/> Lucanus an Appulus anceps:</l>
+               <l>[Nam Venusinus arat finem sub utrumque colonus,</l>
+               <l>Missus ad hoc pulsis (vetus est ut fama) Sabellis;</l>
+               <l>Quo ne per vacuum Romano incurreret hostis,</l>
+               <l>
+                  <milestone n="17" unit="unspec"/> Sive quod Appula gens, seu quod Lucania Bellum</l>
+               <l>Incuteret violenta.]</l>
+               <l>
+                  <milestone n="18" unit="unspec"/> Sed hic stylus haud petet ultro</l>
+               <l>Quenquam animantem; &amp; me veluti custodiet ensis</l>
+               <l>Vagina tectus, quem cur distringere coner,</l>
+               <l>
+                  <milestone n="19" unit="unspec"/> Tutus ab infestis latronibus? <milestone n="20" unit="unspec"/> O Pater &amp; Rex</l>
+               <l>Jupiter! ut pereat positum rubigine telum,</l>
+               <l>
+                  <pb n="12" facs="11"/>
+Nec quisquam noceat <milestone n="21" unit="unspec"/> cupido mihi pacis! at ille,</l>
+               <l>Qui me eommorit (melius non tangere clamo)</l>
+               <l>
+                  <milestone n="22" unit="unspec"/> Flebit, &amp; insignis tota cantabitur urbe.</l>
+               <lg>
+                  <l>
+                     <milestone n="23" unit="unspec"/> Cervius iratus leges minitatur &amp; urnam;</l>
+                  <l>Canidia Albuti, quibus est inimica, Venenum;</l>
+                  <l>Grande malum Turius, si quid se judice certes;</l>
+                  <l>
+                     <milestone n="24" unit="unspec"/> Ut, quo quisque valet, suspectus terreat, utque</l>
+                  <l>Imperet hoc natura potens; sic collige mecum.</l>
+                  <l>Dente lupus, cornu taurus petit; unde nisi intus</l>
+                  <l>Monstratum? <milestone n="25" unit="unspec"/> Scaevae vivacem credi nepoti</l>
+                  <l>Matrem: nil faciet sceleris pia dextra (mirum</l>
+                  <l>Ut neque calce lupus quenquam, neque dente petit bos)</l>
+                  <l>Sed mala tollet anum vitiato melle cicuta.</l>
+                  <l>Ne longum faciam; seu me tranquilla senectus</l>
+                  <l>Expectat, seu mors atris circumvolat alis;</l>
+                  <l>
+                     <pb n="14" facs="13"/>
+Dives, inops, Romae seu sors ita jusserit, exul,</l>
+                  <l>
+                     <milestone n="27" unit="unspec"/> Quisquis erit vitae, scribam, color.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>TREB.</speaker>
+               <l>
+                  <milestone n="28" unit="unspec"/> O puer, ut sis</l>
+               <l>Vitalis, metuo; &amp; majorum ne quis amicus</l>
+               <l>Frigore te feriat.</l>
+            </sp>
+            <sp>
+               <speaker>HOR.</speaker>
+               <l>
+                  <milestone n="29" unit="unspec"/> Quid? cum est Lucilius ausus</l>
+               <l>Primus in hunc operis componere carmina morem,</l>
+               <l>
+                  <milestone n="30" unit="unspec"/> Detrahere &amp; pellem, nitidus <hi>qua quisque per ora</hi>
+               </l>
+               <l>Cederet, <hi>introrsum turpis;</hi> num Laelius, &amp; qui</l>
+               <l>Duxit ab oppressa meritum Carthagine nomen,</l>
+               <l>Ingenio ofsensi? aut laeso doluere Metello,</l>
+               <l>Famosisque Lupo cooperto versibus? Atqui</l>
+               <l>
+                  <hi>Primores</hi> populi arripuit, <hi>populumque</hi> tributim;</l>
+               <pb n="16" facs="15"/>
+               <l>Scilicet <milestone n="31" unit="unspec"/> UNI AEQUUS VIRTUTI ATQUAE EJUS
+AMICIS.</l>
+            </sp>
+            <lg>
+               <l>
+                  <milestone n="32" unit="unspec"/> Quin ubi se a <hi>Vulgo &amp; Scena,</hi> in <hi>Secreta</hi> remorant</l>
+               <l>Virtus Scipiadae, &amp; <hi>mitis</hi> Sapientia Laeli;</l>
+               <l>Nugari cum illo, &amp; discincti ludere, donec</l>
+               <l>Decoqueretur olus, soliti.</l>
+            </lg>
+            <lg>
+               <l>—Quicquid sum ego, quamvis</l>
+               <l>Infra Lucili censum, ingeniumque, tamen me</l>
+               <l>
+                  <milestone n="34" unit="unspec"/> Cum magnis <hi>vixisse</hi> invita fatebitur usque</l>
+               <l>Invidia, &amp; fragili quaerens illidere dentem,</l>
+               <l>Offendet solido;—</l>
+            </lg>
+            <lg>
+               <pb n="18" facs="17"/>
+               <l>— <milestone n="35" unit="unspec"/> Nisi quid tu, <hi>docte Trebati,</hi>
+               </l>
+               <l>Dissentis.</l>
+            </lg>
+            <sp>
+               <speaker>TREB.</speaker>
+               <l>
+                  <milestone n="36" unit="unspec"/> Equidem nihil hinc diffindere possum.</l>
+               <l>Sed tamen ut monitus caveas, ne forte negoti</l>
+               <l>Incutiat tibi quid sanctarum inscitia legum.</l>
+               <l>
+                  <milestone n="37" unit="unspec"/> "Si mala condiderit in quem quis carmina jus est
+Judiciumque."</l>
+            </sp>
+            <sp>
+               <speaker>HOR.</speaker>
+               <l>Esto, siquis <milestone n="38" unit="unspec"/> 
+                  <hi>mala;</hi> sed <hi>bona</hi> siquis</l>
+               <l>Judice condiderit laudatur <hi>CAESARE:</hi> siquis</l>
+               <l>Opprobrijs dignum laceraverit, integer ipse,</l>
+               <l>
+                  <milestone n="39" unit="unspec"/> Solventur risu tabulae; tu missus abibis.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div xml:lang="eng" type="version">
+            <pb facs="4"/>
+            <head>THE
+FIRST SATIRE
+OF THE
+SECOND BOOK
+OF
+HORACE.</head>
+            <sp>
+               <speaker>P.</speaker>
+               <l>THERE are (I scarce can think it, but am told)</l>
+               <l>
+                  <milestone n="1" unit="unspec"/> There are to whom my Satire seems too bold,</l>
+               <l>Scarce to wise <hi>Peter</hi> complaisant enough,</l>
+               <l>And something said of <hi>Chartres</hi> much too rough.</l>
+               <l>
+                  <milestone n="2" unit="unspec"/> The Lines are weak, another's pleas'd to say,</l>
+               <l>Lord <hi>Fanny</hi> spins a thousand such a Day.</l>
+               <l>Tim'rous by Nature, of the Rich in awe,</l>
+               <l>
+                  <milestone n="3" unit="unspec"/> I come to Council learned in the Law.</l>
+               <l>You'll give me, like a Friend both sage and free,</l>
+               <l>Advice; and (as you use) without a Fee.</l>
+            </sp>
+            <sp>
+               <pb n="7" facs="6"/>
+               <speaker>L.</speaker>
+               <l>
+                  <milestone n="4" unit="unspec"/> I'd write no more.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>Not write? but then I <hi>think,</hi>
+               </l>
+               <l>
+                  <milestone n="5" unit="unspec"/> And for my Soul I cannot sleep a wink.</l>
+               <l>I nod in Company, I wake at Night,</l>
+               <l>Fools rush into my Head, and so I write.</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>You could not do a worse thing for your Life.</l>
+               <l>Why, if the Nights seem tedious—take a Wife;</l>
+               <l>
+                  <milestone n="6" unit="unspec"/> Or rather truly, if your Point be Rest,</l>
+               <l>Lettuce and Cowslip Wine; <hi>Probatum est.</hi>
+               </l>
+               <l>But talk with <hi>Celsus, Celsus</hi> may advise</l>
+               <l>Hartshorn, or something that shall close your Eyes.</l>
+               <l>
+                  <milestone n="7" unit="unspec"/> Or if you needs must write, write CAESAR'S Praise:</l>
+               <l>
+                  <milestone n="8" unit="unspec"/> You'll gain at least a <hi>Knighthood,</hi> or the <hi>Bays.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>What? like Sir <milestone n="9" unit="unspec"/> 
+                  <hi>Richard,</hi> rumbling, rough and fierce,</l>
+               <l>With ARMS and GEORGE, and BRUNSWICK crowd the Verse?</l>
+               <l>Or nobly wild, with <hi>Budgell</hi>'s Fire and Force,</l>
+               <l>Paint Angels trembling round his <hi>falling Horse?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>
+                  <milestone n="10" unit="unspec"/> Then all your Muse's softer Art display,</l>
+               <l>Let <hi>Carolina</hi> smooth the tuneful Lay,</l>
+               <l>Lull with <hi>Amelia</hi>'s liquid Name the Nine,</l>
+               <l>And sweetly flow through all the Royal Line.</l>
+            </sp>
+            <sp>
+               <pb n="9" facs="8"/>
+               <speaker>P.</speaker>
+               <l>
+                  <milestone n="11" unit="unspec"/> Alas! few Verses touch their nicer Ear;</l>
+               <l>They scarce can bear their <hi>Laureate</hi> twice a Year:</l>
+               <l>And justly CAESAR scorns the Poet's Lays,</l>
+               <l>It is to <hi>History</hi> he trusts for Praise.</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>
+                  <milestone n="12" unit="unspec"/> Better be <hi>Cibber,</hi> I'll maintain it still,</l>
+               <l>Than ridicule all <hi>Taste,</hi> blaspheme <hi>Quadrille,</hi>
+               </l>
+               <l>Abuse the City's best good Men in Metre,</l>
+               <l>And laugh at Peers that put their Trust in <hi>Peter.</hi>
+               </l>
+               <l>
+                  <milestone n="13" unit="unspec"/> Ev'n those you touch not, hate you.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>What should ail 'em?</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>A hundred smart in <hi>Timon</hi> and in <hi>Balaam:</hi>
+               </l>
+               <l>The fewer still you name, you wound the more;</l>
+               <l>
+                  <hi>B—nd</hi> is but one, but <hi>Harpax</hi> is a Score.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>
+                  <milestone n="14" unit="unspec"/> Each Mortal has his Pleasure: None deny</l>
+               <l>
+                  <hi>Sc—le</hi> his Bottle, <hi>D—ty</hi> his Ham-Pye;</l>
+               <l>
+                  <hi>Ridotta</hi> sips and dances, till she see</l>
+               <l>The doubling Lustres dance as well as she;</l>
+               <l>
+                  <milestone n="15" unit="unspec"/> —loves the <hi>Senate, Hockley-Hole</hi> his Brother,</l>
+               <l>Like in all else, as one Egg to another.</l>
+               <l>
+                  <milestone n="19" unit="unspec"/> I love to pour out all myself, as plain</l>
+               <l>As downright <hi>Shippen,</hi> or as old <hi>Montagne.</hi>
+               </l>
+               <l>
+                  <pb n="11" facs="10"/>
+In them, as certain to be lov'd as seen,</l>
+               <l>The Soul stood forth, nor kept a Thought within;</l>
+               <l>In me what Spots (for Spots I have) appear,</l>
+               <l>Will prove at least the Medium must be clear.</l>
+               <l>In this impartial Glass, my Muse intends</l>
+               <l>Fair to expose myself, my Foes, my Friends;</l>
+               <l>Publish the present Age, but where my Text</l>
+               <l>Is Vice too high, reserve it for the next:</l>
+               <l>My Foes shall wish my Life a longer date,</l>
+               <l>And ev'ry Friend the less lament my Fate.</l>
+               <l>My Head and Heart thus flowing thro' my Quill,</l>
+               <l>
+                  <milestone n="17" unit="unspec"/> Verse-man or Prose-man, term me which you will,</l>
+               <l>Papist or Protestant, or both between,</l>
+               <l>Like good <hi>Erasinus</hi> in an honest Mean,</l>
+               <l>In Moderation placing all my Glory,</l>
+               <l>While Tories call me Whig, and Whigs a Tory.</l>
+               <l>
+                  <milestone n="18" unit="unspec"/> Satire's my Weapon, but I'm too discreet</l>
+               <l>To run a Muck, and tilt at all I meet;</l>
+               <l>
+                  <milestone n="19" unit="unspec"/> I only wear it in a Land of Hectors,</l>
+               <l>Thieves, Supercargoes, Sharpers, and Directors.</l>
+               <l>
+                  <milestone n="20" unit="unspec"/> Save but our <hi>Army!</hi> and let <hi>Jove</hi> incrust</l>
+               <l>Swords, Pikes, and Guns, with everlasting Rust!</l>
+               <l>
+                  <pb n="13" facs="12"/>
+Peace is my dear Delight—not <hi>Fleury</hi>'s more:</l>
+               <l>But touch me, and no Minister so sore.</l>
+               <l>Who-e'er offends, at some unlucky Time</l>
+               <l>
+                  <milestone n="22" unit="unspec"/> Slides into Verse, and hitches in a Rhyme,</l>
+               <l>Sacred to Ridicule! his whole Life long,</l>
+               <l>And the sad Burthen of some merry Song.</l>
+               <l>
+                  <milestone n="23" unit="unspec"/> Slander or Poyson, dread from <hi>Delia</hi>'s Rage,</l>
+               <l>Hard Words or Hanging, if your J—ge be—</l>
+               <l>From furious <hi>Sappho</hi> yet a sadder Fate,</l>
+               <l>P—x'd by her Love, or libell'd by her Hate:</l>
+               <l>
+                  <milestone n="24" unit="unspec"/> Its proper Pow'r to hurt, each Creature feels,</l>
+               <l>Bulls aim their horns, and Asses lift their heels,</l>
+               <l>'Tis a Bear's Talent not to kick, but hug,</l>
+               <l>And no man wonders he's not stung by Pug:</l>
+               <l>
+                  <milestone n="25" unit="unspec"/> So drink with <hi>W—t—rs,</hi> or with <hi>Ch—t—rs</hi> eat,</l>
+               <l>They'll never poison you, they'll only cheat.</l>
+               <l>
+                  <milestone n="26" unit="unspec"/> Then learned Sir! (to cut the Matter short)</l>
+               <l>What-e'er my Fate, or well or ill at Court,</l>
+               <l>Whether old Age, with faint, but chearful Ray,</l>
+               <l>Attends to gild the Evening of my Day,</l>
+               <l>Or Death's black Wing already be display'd</l>
+               <l>To wrap me in the Universal Shade;</l>
+               <l>
+                  <pb n="15" facs="14"/>
+Whether the darken'd Room to muse invite,</l>
+               <l>Or whiten'd Wall provoke the Skew'r to write,</l>
+               <l>In Durance, Exile, Bedlam, or the Mint,</l>
+               <l>
+                  <milestone n="27" unit="unspec"/> Like <hi>Lee</hi> or <hi>B—ll,</hi> I will Rhyme and Print.</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>
+                  <milestone n="28" unit="unspec"/> Alas young Man! your Days can ne'r be long,</l>
+               <l>In Flow'r of Age you perish for a Song!</l>
+               <l>Plums, and Directors, <hi>Shylock</hi> and his Wife,</l>
+               <l>Will club their Testers, now, to take your Life!</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>
+                  <milestone n="29" unit="unspec"/> What? arm'd for <hi>Virtue</hi> when I point the Pen,</l>
+               <l>Brand the bold Front of shameless, guilty Men,</l>
+               <l>Dash the proud Gamester in his gilded Car,</l>
+               <l>Bare the mean Heart that lurks beneath a Star;</l>
+               <l>Can there be wanting to defend Her Cause,</l>
+               <l>Lights of the Church, or Guardians of the Laws?</l>
+               <l>Could pension'd <hi>Boileau</hi> lash in honest Strain</l>
+               <l>Flatt'rers and Bigots ev'n in <hi>Louis'</hi> Reign?</l>
+               <l>Could Laureate <hi>Dryden</hi> Pimp and Fry'r engage,</l>
+               <l>Yet neither <hi>Charles</hi> nor <hi>James</hi> be in a Rage?</l>
+               <l>And I not <milestone n="30" unit="unspec"/> strip the Gilding off a Knave,</l>
+               <l>Un-plac'd, un-pension'd, no Man's Heir, or Slave?</l>
+               <l>
+                  <pb n="17" facs="16"/>
+I will, or perish in the gen'rous Cause.</l>
+               <l>Hear this, and tremble! you, who 'scape the Laws.</l>
+               <l>
+                  <milestone n="31" unit="unspec"/> To VIRTUE ONLY and HER FRIENDS, A FRIEND,</l>
+               <l>The World beside may murmur, or commend.</l>
+               <l>Know, all the distant Din that World can keep</l>
+               <l>Rolls o'er my <hi>Grotto,</hi> and but sooths my Sleep.</l>
+               <l>
+                  <milestone n="32" unit="unspec"/> There, my Retreat the best Companions grace,</l>
+               <l>Chiefs, out of War, and Statesmen, out of Place.</l>
+               <l>There <hi>St. John</hi> mingles with my friendly Bowl,</l>
+               <l>The Feast of Reason and the Flow of Soul:</l>
+               <l>And He, whose Lightning pierc'd th' <hi>Iberian</hi> Lines,</l>
+               <l>Now, forms my Quincunx, and now ranks my Vines,</l>
+               <l>Or tames the Genius of the stubborn Plain,</l>
+               <l>Almost as quickly, as he conquer'd <hi>Spain.</hi>
+               </l>
+               <l>
+                  <milestone n="34" unit="unspec"/> 
+                  <hi>Envy</hi> must own, I live among the Great,</l>
+               <l>No Pimp of Pleasure, and no Spy of State,</l>
+               <l>With Eyes that pry not, Tongue that ne'er repeats,</l>
+               <l>Fond to spread Friendships, but to cover Heats,</l>
+               <l>To help who want, to forward who excel;</l>
+               <l>This, all who know me, know; who love me, tell;</l>
+               <l>And who unknown defame me, let them be</l>
+               <l>Scriblers or Peers, alike are <hi>Mob</hi> to me.</l>
+               <l>
+                  <pb n="19" facs="18"/>
+This is my Plea, on this I rest my Cause—</l>
+               <l>
+                  <milestone n="35" unit="unspec"/> What saith my Council learned in the Laws?</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>
+                  <milestone n="36" unit="unspec"/> Your Plea is good. But still I say, beware!</l>
+               <l>Laws are explain'd by Men—so have a care.</l>
+               <l>It stands on record, that in ancient Times</l>
+               <l>A Man was hang'd for very honest Rhymes.</l>
+               <l>
+                  <milestone n="37" unit="unspec"/> Consult the Statute: <hi>quart.</hi> I think it is,</l>
+               <l>Edwardi Sext. <hi>or</hi> prim. &amp; quint. Eliz:</l>
+               <l>See <hi>Libels, Satires—</hi> there you have it—read.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>
+                  <milestone n="38" unit="unspec"/> 
+                  <hi>Libels</hi> and <hi>Satires!</hi> lawless Things indeed!</l>
+               <l>But grave <hi>Epistles,</hi> bringing Vice to light,</l>
+               <l>Such as a <hi>King</hi> might read, a <hi>Bishop</hi> write,</l>
+               <l>Such as Sir <hi>Robert</hi> would approve—</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>Indeed?</l>
+               <l>The Case is alter'd—you may then proceed.</l>
+               <l>
+                  <milestone n="39" unit="unspec"/> In such a Cause the Plaintiff will be hiss'd,</l>
+               <l>My Lords the Judges laugh, and you're dismiss'd.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

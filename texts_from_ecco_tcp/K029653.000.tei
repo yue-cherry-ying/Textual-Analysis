@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The actor: A poetical epistle to Bonnell Thornton, Esq.</title>
+            <author>Lloyd, Robert, 1733-1764.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K029653.000</idno>
+            <idno type="docno">CW3315816616</idno>
+            <idno type="ecll">1034500500</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The actor: A poetical epistle to Bonnell Thornton, Esq.</title>
+                  <author>Lloyd, Robert, 1733-1764.</author>
+               </titleStmt>
+               <extent>[4],20p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for R. and J. Dodsley,</publisher>
+                  <date>1760.</date>
+                  <idno type="TCP">K029653.000</idno>
+                  <idno type="docno">CW3315816616</idno>
+                  <idno type="ecll">1034500500</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Robert Lloyd.</note>
+                  <note>With a half-title.</note>
+                  <note>A variant titlepage shows a broken comma after 'A poetical epistle'.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT19078.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>THE ACTOR. A POETICAL EPISTLE.</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>THE ACTOR. A POETICAL EPISTLE. TO <hi>BONNELL THORNTON,</hi> Esq.</p>
+            <q>Quocunque animum auditoris agunto.
+<bibl>HOR.</bibl>
+            </q>
+            <p>LONDON, Printed for R. and J. DODSLEY, in <hi>Pall-mall.</hi> MDCCLX.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="1" facs="3"/>
+         <head>THE ACTOR.</head>
+         <lg>
+            <l>ACTING, dear <hi>Bonnell,</hi> it's Perfection draws</l>
+            <l>From no Observance of mechanic Laws.</l>
+            <l>No settled Maxims of a fav'rite Stage,</l>
+            <l>No Rules deliver'd down from Age to Age,</l>
+            <l>Let Players nicely mark them as they will,</l>
+            <l>Can e'er entail hereditary Skill.</l>
+            <l>If 'mongst the humble Hearers of the Pit,</l>
+            <l>At some lov'd Play the old Man chance to sit,</l>
+            <l>
+               <pb n="2" facs="4"/>Am I pleas'd more because 'twas acted so</l>
+            <l>By <hi>Booth</hi> and <hi>Cibber</hi> thirty Years ago?</l>
+            <l>The Mind recalls an Object held more dear,</l>
+            <l>And hates the Copy that it comes so near.</l>
+            <l>Why lov'd we <hi>Wilks's</hi> Air, <hi>Booth's</hi> nervous Tone?</l>
+            <l>In them 'twas natural, 'twas all their own.</l>
+            <l>A <hi>Garrick's</hi> Genius must our Wonder raise,</l>
+            <l>But gives his Mimic no reflected Praise.</l>
+            <l>Thrice happy Genius, whose unrival'd Name</l>
+            <l>Shall live for ever in the Voice of Fame!</l>
+            <l>'Tis thine to lead with more than magic Skill,</l>
+            <l>The Train of captive Passions at thy Will;</l>
+            <l>To bid the bursting Tear spontaneous flow</l>
+            <l>In the sweet Sense of sympathetic Woe.</l>
+            <l>Through ev'ry Vein I feel a Chilness creep,</l>
+            <l>When Horrors such as thine <hi>have murder'd Sleep.</hi>
+            </l>
+            <l>
+               <pb n="3" facs="5"/>And at the old Man's Look and frantic Stare</l>
+            <l>'Tis <hi>Lear</hi> alarms me, for I see him there.</l>
+            <l>Nor yet confin'd to tragic Walks alone</l>
+            <l>The comic Muse too claims thee for her own.</l>
+            <l>With each delightful Requisite to please,</l>
+            <l>Taste, Spirit, Judgment, Elegance, and Ease,</l>
+            <l>Familiar Nature forms thy only Rule,</l>
+            <l>From <hi>Ranger's</hi> Rake to <hi>Drugger's</hi> vacant Fool.</l>
+            <l>With Powers so pliant, and so various blest,</l>
+            <l>That what we see the last, we like the best.</l>
+            <l>Not idly pleas'd at Judgment's dear Expence</l>
+            <l>But burst ourageous with the laugh of Sense.</l>
+         </lg>
+         <lg>
+            <l>PERFECTION'S Top with weary Toil and Pain</l>
+            <l>'Tis Genius only that can hope to gain.</l>
+            <l>The Play'r's Profession (tho' I hate the Phrase,</l>
+            <l>'Tis so <hi>mechanic</hi> in these modern Days)</l>
+            <l>
+               <pb n="4" facs="6"/>Lies not in Trick, or Attitude, or Start,</l>
+            <l>Nature's true Knowledge is his only Art.</l>
+            <l>The strong-felt Passion bolts into the Face,</l>
+            <l>The Mind untouch'd, what is it but Grimace?</l>
+            <l>To this one Standard make your just Appeal</l>
+            <l>Here lies the golden Secret; learn to FEEL.</l>
+            <l>Or Fool or Monarch, happy or distrest,</l>
+            <l>No Actor pleases that is not <hi>possess'd.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>ONCE on the Stage in <hi>Rome's</hi> declining Days,</l>
+            <l>When Christians were the Subject of their Plays,</l>
+            <l>Ere Persecution dropp'd her iron Rod,</l>
+            <l>And Mortals wag'd an impious War with God,</l>
+            <l>An Actor flourish'd of no vulgar Fame,</l>
+            <l>Nature's Disciple, and <hi>Genest</hi> his Name.</l>
+            <l>A noble Object for his Skill he chose,</l>
+            <l>A Martyr dying midst insulting Foes.</l>
+            <l>
+               <pb n="5" facs="7"/>Resign'd with Patience to Religion's Laws,</l>
+            <l>Yet braving Monarchs in his <hi>Saviour's</hi> Cause.</l>
+            <l>Fill'd with th' Idea of the sacred Part,</l>
+            <l>He felt a Zeal beyond the reach of Art,</l>
+            <l>While Look and Voice, and Gesture all exprest</l>
+            <l>A kindred Ardour in the Player's Breast,</l>
+            <l>Till as the Flame thro' all his Bosom ran,</l>
+            <l>He lost the Actor and commenc'd the Man:</l>
+            <l>Profest the Faith, his pagan Gods denied,</l>
+            <l>And what he acted then, he after died.</l>
+         </lg>
+         <lg>
+            <l>THE Player's Province they but vainly try,</l>
+            <l>Who want these pow'rs <hi>Deportment, Voice,</hi> and <hi>Eye.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>THE Critic Sight 'tis only <hi>Grace</hi> can please</l>
+            <l>No Figure charms us if it has not <hi>Ease.</hi>
+            </l>
+            <l>
+               <pb n="6" facs="8"/>There are who think the Stature all in all,</l>
+            <l>Nor like the Hero if he is not tall.</l>
+            <l>The feeling Sense all other Wants supplies,</l>
+            <l>I rate no Actor's Merit from his Size.</l>
+            <l>Superior Hight requires superior Grace,</l>
+            <l>And what's a Giant with a vacant Face?</l>
+         </lg>
+         <lg>
+            <l>THEATRIC Monarchs in their tragic Gait</l>
+            <l>Affect to mark the solemn Pace of State.</l>
+            <l>One Foot put forward in Position strong,</l>
+            <l>The other like its Vassal dragg'd along.</l>
+            <l>So grave each Motion, so exact and slow,</l>
+            <l>Like wooden Monarchs at a Puppet-Show.</l>
+            <l>The Mien delights us that has native Grace</l>
+            <l>But Affectation ill supplies its Place.</l>
+         </lg>
+         <lg>
+            <pb n="7" facs="9"/>
+            <l>UNSKILFUL Actors, like your mimic Apes,</l>
+            <l>Will writhe their Bodies in a thousand Shapes;</l>
+            <l>However foreign from the Poet's Art,</l>
+            <l>No tragic Hero but admires a Start.</l>
+            <l>What though unfeeling of the nervous Line,</l>
+            <l>Who but allows his <hi>Attitude</hi> is fine?</l>
+            <l>While a whole Minute equipoiz'd he stands,</l>
+            <l>Till Praise dismiss him with her echoing Hands.</l>
+            <l>Resolv'd, though Nature hate the tedious Pause,</l>
+            <l>By Perseverance to extort Applause.</l>
+            <l>When <hi>Romeo</hi> sorrowing at his <hi>Juliet's</hi> Doom,</l>
+            <l>With eager Madness bursts the canvass Tomb,</l>
+            <l>The sudden Whirl, stretch'd Leg, and lifted Staff,</l>
+            <l>Which please the Vulgar, make the Critic laugh.</l>
+         </lg>
+         <lg>
+            <pb n="8" facs="10"/>
+            <l>TO point the Passion's Force, and mark it well,</l>
+            <l>The proper Action Nature's Self will tell.</l>
+            <l>No pleasing Pow'rs Distortions e'er express,</l>
+            <l>And nicer Judgment always loaths Excess.</l>
+            <l>In Sock or Buskin who o'erleaps the Bounds,</l>
+            <l>Disgusts our Reason, and the Taste confounds.</l>
+         </lg>
+         <lg>
+            <l>OF all the Evils which the Stage molest</l>
+            <l>I hate your Fool who overacts his Jest.</l>
+            <l>Who murders what the Poet finely writ,</l>
+            <l>And like a Bungler haggles all his Wit,</l>
+            <l>With Shrug, and Grin, and Gesture out of Place,</l>
+            <l>And writes a foolish Comment with his Face.</l>
+            <l>Old <hi>Johnson</hi> once, tho' <hi>Cibber's</hi> perter Vein,</l>
+            <l>But meanly groupes him with a num'rous Train,</l>
+            <l>
+               <pb n="9" facs="11"/>With steady Face, and sober hum'rous Mien,</l>
+            <l>Fill'd the strong Outlines of the comic Scene.</l>
+            <l>What was writ down, with decent Utterance spoke,</l>
+            <l>Betray'd no Symptom of the conscious Joke;</l>
+            <l>The very Man in Look, in Voice, in Air,</l>
+            <l>And though upon the Stage, he seem'd no Play'r.</l>
+            <l>The Word and Action should conjointly suit,</l>
+            <l>But acting Words is labour too minute.</l>
+            <l>Grimace will ever lead the Judgment wrong,</l>
+            <l>While sober Humour marks th' Impression strong.</l>
+            <l>Her proper Traits the fixt Attention hit,</l>
+            <l>And bring me closer to the Poet's Wit;</l>
+            <l>With her delighted o'er each Scene I go,</l>
+            <l>Well-pleas'd, and not asham'd of being so.</l>
+         </lg>
+         <lg>
+            <l>'TIS not enough the <hi>Voice</hi> be sound and clear,</l>
+            <l>'Tis Modulation that must charm the Ear.</l>
+            <l>
+               <pb n="10" facs="12"/>When desperate Heroines grieve with tedious Moan,</l>
+            <l>And whine their Sorrows in a see-saw Tone;</l>
+            <l>The same soft Sounds of unimpassioned Woes</l>
+            <l>Can only make the yawning Hearers doze.</l>
+         </lg>
+         <lg>
+            <l>THE Voice all Modes of Passion can express,</l>
+            <l>That marks the proper Word with proper Stress.</l>
+            <l>But none emphatic can that Actor call,</l>
+            <l>Who lays an equal Emphasis on <hi>all.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>SOME o'er the Tongue the labour'd Measures roll</l>
+            <l>Slow and delib'rate as the parting Toll,</l>
+            <l>Point ev'ry Stop, mark ev'ry Pause so strong,</l>
+            <l>Their Words, like Stage-Processions stalk along.</l>
+            <l>All Affectation but creates Disgust,</l>
+            <l>And e'en in speaking <hi>We</hi> may seem <hi>too</hi> just.</l>
+            <l>
+               <pb n="11" facs="13"/>Nor proper, <hi>Thornton,</hi> can those Sounds appear,</l>
+            <l>Which bring not Numbers to thy nicer Ear;</l>
+            <l>For them in vain the pleasing Measure flows</l>
+            <l>Whose Recitation runs it all to Prose;</l>
+            <l>Repeating what the Poet sets not down,</l>
+            <l>The Verb disjointing from its friendly Noun.</l>
+            <l>While Pause, and Break, and Repetition join</l>
+            <l>To make a Discord in each tuneful Line.</l>
+         </lg>
+         <lg>
+            <l>SOME placid Natures fill th' allotted Scene</l>
+            <l>With lifeless Drone, insipid and serene;</l>
+            <l>While others thunder ev'ry Couplet o'er,</l>
+            <l>And almost crack your Ears with Rant and Roar.</l>
+            <l>In so much Noise but little Sense is found,</l>
+            <l>As empty Barrels make the greatest Sound.</l>
+         </lg>
+         <lg>
+            <pb n="12" facs="14"/>
+            <l>MORE Nature oft and finer Strokes are shown,</l>
+            <l>In the low Whisper than tempestuous Tone.</l>
+            <l>And <hi>Hamlet's</hi> hollow Voice and fixt Amaze,</l>
+            <l>More powerful Terror to the Mind conveys,</l>
+            <l>Than he, who swol'n with big impetuous Rage,</l>
+            <l>Bullies the bulky Phantom off the Stage.</l>
+         </lg>
+         <lg>
+            <l>THE Modes of Grief are not included all</l>
+            <l>In the white Handkerchief and mournful Drawl;</l>
+            <l>A single Look more marks th' internal Woe,</l>
+            <l>Than all the Windings of the lengthen'd Oh.</l>
+         </lg>
+         <lg>
+            <l>UP to the <hi>Face</hi> the quick Sensation flies,</l>
+            <l>And darts its meaning from the speaking Eyes;</l>
+            <l>Love, Transport, Madness, Anger, Scorn, Despair,</l>
+            <l>And all the Passions, all the Soul is there.</l>
+         </lg>
+         <lg>
+            <pb n="13" facs="15"/>
+            <l>IN vain <hi>Ophelia</hi> gives her Flowrets round,</l>
+            <l>And with her Straws fantastic strews the Ground;</l>
+            <l>In vain now sings, now heaves the desp'rate Sigh,</l>
+            <l>If Phrenzy sit not in the troubled Eye.</l>
+            <l>In <hi>Cibber's</hi> Look commanding Sorrows speak,</l>
+            <l>And call the Tear fast trick'ling down my Cheek.</l>
+         </lg>
+         <lg>
+            <l>HE who in Earnest studies o'er his Part</l>
+            <l>Will find true Nature cling about his Heart.</l>
+            <l>All from their Eyes impulsive Thought reveal,</l>
+            <l>And none can want Expression, who can feel.</l>
+         </lg>
+         <lg>
+            <l>THERE is a Fault which stirs the Critic's Rage,</l>
+            <l>A Want of due Attention on the Stage.</l>
+            <l>There have been Actors, and admir'd ones too,</l>
+            <l>Whose tongues wound up set forward from their cue.</l>
+            <l>
+               <pb n="14" facs="16"/>In their own Speech who whine, or roar away,</l>
+            <l>Yet unconcern'd at what the rest may say.</l>
+            <l>Whose Eyes and Thoughts on diff'rent Objects roam</l>
+            <l>Until the Prompter's Voice recall them home.</l>
+         </lg>
+         <lg>
+            <l>DIVEST yourself of Hearers if you can,</l>
+            <l>And strive to speak, and be the very Man.</l>
+            <l>Why should the well-bred Actor wish to know</l>
+            <l>Who sits above To-night, or who below.</l>
+            <l>So mid th' harmonious Tones of Grief or Rage,</l>
+            <l>Italian Squallers oft disgrace the Stage.</l>
+            <l>When with a simp'ring Leer, and Bow profound,</l>
+            <l>The squeaking <hi>Cyrus</hi> greets the Boxes round;</l>
+            <l>Or proud <hi>Mandane</hi> of imperial Race,</l>
+            <l>Familiar drops a Curtsie to her Grace.</l>
+         </lg>
+         <lg>
+            <pb n="15" facs="17"/>
+            <l>TO suit the Dress demands the Actor's Art,</l>
+            <l>Yet there are those who over-dress the Part.</l>
+            <l>To some prescriptive Right gives settled Things,</l>
+            <l>Black Wigs to Murd'rers, feather'd Hats to Kings.</l>
+            <l>But <hi>Michel Cassio</hi> might be drunk enough,</l>
+            <l>Tho' all his Features were not grim'd with Snuff.</l>
+            <l>Why shou'd <hi>Pol Peachum</hi> shine in sattin Cloaths?</l>
+            <l>Why ev'ry Devil dance in scarlet Hose?</l>
+         </lg>
+         <lg>
+            <l>BUT in Stage-Customs what offends me most</l>
+            <l>Is the Slip-door, and slowly-rising Ghost.</l>
+            <l>Tell me, nor count the Question too severe,</l>
+            <l>Why need the dismal powder'd Forms appear?</l>
+         </lg>
+         <lg>
+            <l>WHEN chilling Horrors shake th' affrighted King,</l>
+            <l>And Guilt torments him with her Scorpion Sting;</l>
+            <l>
+               <pb n="16" facs="18"/>When keenest Feelings at his Bosom pull,</l>
+            <l>And Fancy tells him that the Seat is full,</l>
+            <l>Why need the Ghost usurp the Monarch's Place,</l>
+            <l>To frighten Children with his mealy Face?</l>
+            <l>The King alone should form the Phantom there,</l>
+            <l>And talk and tremble at the vacant Chair.</l>
+         </lg>
+         <lg>
+            <l>IF <hi>Belvidera</hi> her lov'd Loss deplore,</l>
+            <l>Why for twin Spectres bursts the yawning Floor?</l>
+            <l>When with disorder'd Starts, and horrid Cries,</l>
+            <l>She paints the murder'd Forms before her Eyes,</l>
+            <l>And still pursues them with a frantic Stare:</l>
+            <l>'Tis pregnant Madness brings the Visions there.</l>
+            <l>More instant Horror would enforce the Scene,</l>
+            <l>If all her Shuddrings were at Shapes unseen.</l>
+         </lg>
+         <lg>
+            <pb n="17" facs="19"/>
+            <l>POET and Actor thus with blended Skill,</l>
+            <l>Mould all our Passions to their instant Will;</l>
+            <l>'Tis thus, when feeling <hi>Garrick</hi> treads th' Stage,</l>
+            <l>(The speaking Comment of his <hi>Shakespear's</hi> Page.)</l>
+            <l>Oft as I drink the Words with greedy Ears,</l>
+            <l>I shake with Horror, or dissolve with Tears.</l>
+         </lg>
+         <lg>
+            <l>O ne'er may Folly seize the Throne of Taste,</l>
+            <l>Nor Dulness lay the Realms of Genius waste.</l>
+            <l>No bouncing Crackers ape the Thundrer's Fire,</l>
+            <l>No Tumbler float upon the bending Wire.</l>
+            <l>More natural Uses to the Stage belong,</l>
+            <l>Than Tumblers, Monsters, Pantomime, or Song.</l>
+            <l>For other Purpose was that Spot design'd;</l>
+            <l>To purge the Passions and reform the Mind,</l>
+            <l>
+               <pb n="18" facs="20"/>To give to Nature all the Force of Art,</l>
+            <l>And while it charms the Ear to mend the Heart.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>Thornton,</hi> to Thee I dare with Truth commend,</l>
+            <l>The decent Stage as Virtue's natural Friend.</l>
+            <l>Tho' oft debas'd with Scenes profane and loose,</l>
+            <l>No Reason weighs against it's proper Use.</l>
+            <l>Tho' the lewd Priest his sacred Function shame,</l>
+            <l>Religion's perfect Law is still the same.</l>
+         </lg>
+         <lg>
+            <l>Shall they who trace the Passions from their rise</l>
+            <l>Shew Scorn her Features, her own Image Vice;</l>
+            <l>Who teach the Mind it's proper Force to scan,</l>
+            <l>And hold the faithful Mirrour up to Man,</l>
+            <l>Shall their Profession e'er provoke Disdain,</l>
+            <l>Who stand the formost in the moral Train.</l>
+            <l>
+               <pb n="19" facs="21"/>Who lend Reflexion all the Grace of Art,</l>
+            <l>And strike the Precept home upon the Heart.</l>
+         </lg>
+         <lg>
+            <l>YET, hapless Artist, tho' thy Skill can raise</l>
+            <l>The bursting Peal of universal Praise,</l>
+            <l>Tho' at thy Beck, Applause delighted stands,</l>
+            <l>And lifts <hi>Briareus</hi>' like her hundred Hands.</l>
+            <l>Know Fame awards Thee but a partial Breath,</l>
+            <l>Not all thy Talents brave the Stroke of Death.</l>
+            <l>Poets to Ages yet unborn appeal,</l>
+            <l>And latest Times th' eternal Nature feel.</l>
+            <l>Tho' blended here the Praise of Bard and Play'r,</l>
+            <l>While more than Half becomes the Actor's Share,</l>
+            <l>Relentless Death untwists the mingled Fame,</l>
+            <l>And sinks the Player in the Poet's Name.</l>
+         </lg>
+         <lg>
+            <pb n="20" facs="22"/>
+            <l>THE pliant Muscles of the various Face,</l>
+            <l>The Mein that gave each Sentence Strength and Grace,</l>
+            <l>The tuneful Voice, the Eye that spoke the Mind,</l>
+            <l>Are gone, nor leave a single Trace behind.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

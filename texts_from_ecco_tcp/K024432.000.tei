@@ -1,0 +1,1495 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fall of Mexico, a poem. By Mr. Jerningham:</title>
+            <author>Jerningham, Mr. (Edward), 1737?-1812.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024432.000</idno>
+            <idno type="docno">CW3311760151</idno>
+            <idno type="ecll">0346502000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fall of Mexico, a poem. By Mr. Jerningham:</title>
+                  <author>Jerningham, Mr. (Edward), 1737?-1812.</author>
+               </titleStmt>
+               <extent>[4],59,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed by Scott, for J. Robson,</publisher>
+                  <date>1775.</date>
+                  <idno type="TCP">K024432.000</idno>
+                  <idno type="docno">CW3311760151</idno>
+                  <idno type="ecll">0346502000</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes 'The Venetian marriage, by the same'.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Sabin, 36060</note>
+                  <note>English Short Title Catalog, ESTCT9192.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE FALL OF MEXICO, A POEM.</p>
+            <p>BY MR. JERNINGHAM.</p>
+            <p>LONDON: PRINTED BY SCOTT, FOR J. ROBSON, BOOKSELLER, NEW BOND STREET.</p>
+            <p>MDCCLXXV.</p>
+         </div>
+         <div type="note">
+            <pb facs="2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>GUATIMOZINO, the last emperour of MEXICO, having op<lb rend="hidden" type="hyphenInWord"/>posed the SPANIARDS with great bravery, in various en<lb rend="hidden" type="hyphenInWord"/>gagements, was at length defeated and taken prisoner. In order to extort from him a discovery of the principal mines, he was laid on burning coals: The second in command was also condemn'd to the same torture, and amidst his sufferings called upon his royal master to be released from the vow of secrecy, which drew from GUATIMOZINO these memo<lb rend="hidden" type="hyphenInWord"/>rable words: <hi>Am I on a Bed of Roses?</hi>
+            </p>
+            <p>DRYDEN has put these words into the mouth of MONTEZU<lb rend="hidden" type="hyphenInWord"/>MA contrary to the testimony of the historians.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="3"/>
+            <head>THE FALL OF MEXICO.</head>
+            <lg>
+               <l>THE Sun now glitter'd in the front of day,</l>
+               <l>And wide-diffusing his resplendent ray,</l>
+               <l>Look'd willing to adorn the glorious meed,</l>
+               <l>The realm!—To GUATIMOZINO decreed!</l>
+               <l>Whom for his valour tried and virtue known,<milestone n="5" unit="unspec"/>
+               </l>
+               <l>His country's voice invited to the throne.</l>
+            </lg>
+            <lg>
+               <l>Now, thro' th' applauding clamour of the throng,</l>
+               <l>Th' august procession slowly mov'd along,</l>
+               <l>While in the rear of this progressive scence,</l>
+               <l>Endearing sight! the chosen Youth was seen,<milestone n="10" unit="unspec"/>
+               </l>
+               <l>
+                  <pb n="2" facs="4"/>Rais'd on a lofty seat of burnish'd gold,</l>
+               <l>Which twelve illustrious MEXICANS uphold.</l>
+            </lg>
+            <lg>
+               <l>The law ordain'd a signal to display</l>
+               <l>The function, mode, and colour of the day:</l>
+               <l>A splendid streamer playing to the view,<milestone n="15" unit="unspec"/>
+               </l>
+               <l>(Inwrought with plumage of celestial blue)</l>
+               <l>Mark'd from the summit of a lofty tow'r,</l>
+               <l>Of Joy's great festival the leading hour:</l>
+               <l>This master-sign the distant flag obey'd,</l>
+               <l>And prompt alike the glad report convey'd,<milestone n="20" unit="unspec"/>
+               </l>
+               <l>Which posting on the rapid wings of sight,</l>
+               <l>To ev'ry city urg'd its speedy flight,</l>
+               <l>Till MEXICO throughout her vast extent</l>
+               <l>Burst into joy with one declar'd assent!</l>
+            </lg>
+            <lg>
+               <l>Behold the solemn slow-advancing train <milestone n="25" unit="unspec"/>
+               </l>
+               <l>Approach the precincts of the sacred fane;</l>
+               <l>A venerable, rude, majestic pile,</l>
+               <l>Of time remote, which claim'd the stubborn toil:</l>
+               <l>
+                  <pb n="3" facs="5"/>By gloomy Fancy on the portal plann'd,</l>
+               <l>Bold from the sculptor's all-creative hand,<milestone n="30" unit="unspec"/>
+               </l>
+               <l>Full many a wild terrific image sprung:</l>
+               <l>There angry serpents intertwining hung:</l>
+               <l>There the God's agent, Terrour! fond to dwell,</l>
+               <l>Breath'd all around his awe-diffusing spell.</l>
+            </lg>
+            <lg>
+               <l>See now the train the spacious dome receive,<milestone n="35" unit="unspec"/>
+               </l>
+               <l>Where clouds of fragrance circling altars heave!</l>
+               <l>Four golden columns with bright jasper crown'd,</l>
+               <l>The hallow'd image of the God surround.</l>
+               <l>Now from his seat the chosen Youth descends,</l>
+               <l>And to that image prompt his footsteps bends,<milestone n="40" unit="unspec"/>
+               </l>
+               <l>Where ANDALUSIA, form'd in Beauty's mould,</l>
+               <l>And high on Virtue's sacred list enroll'd,</l>
+               <l>With fear, with love, with bashful youth impress'd,</l>
+               <l>Expecting stood the bride of his request.</l>
+            </lg>
+            <lg>
+               <l>"Deign to partake, th' illustrious chieftan said,<milestone n="45" unit="unspec"/>
+               </l>
+               <l>"The growing honours that around me spread;</l>
+               <l>
+                  <pb n="4" facs="6"/>"Consent the glory of a throne to share,</l>
+               <l>"Be thine the pleasure, and be mine the care."</l>
+            </lg>
+            <lg>
+               <l>Lo at their side the priest TALEPO stands.</l>
+               <l>And joins, in wedlock's tie, their willing hands:<milestone n="50" unit="unspec"/>
+               </l>
+               <l>Then rearing to the view th' imperial crown,</l>
+               <l>The pontiff said: "Thou fav'rite of renown,</l>
+               <l>"Warm in whose breast each kindred virtue lives,</l>
+               <l>"Behold the glorious meed thy country gives!</l>
+               <l>"The trembling hand which late to thine I join'd,<milestone n="55" unit="unspec"/>
+               </l>
+               <l>"Is as the pledge of her love-glowing mind,</l>
+               <l>"So is this crown the thronging votes impart,</l>
+               <l>"The sacred token of thy country's heart.</l>
+               <l>"The radiant wisdom to thy birth allied,</l>
+               <l>"Thy valour in the field of danger tried,<milestone n="60" unit="unspec"/>
+               </l>
+               <l>"Thy sympathy that wakes at Sorrow's sigh,</l>
+               <l>"These are the charms that glitter in her eye!</l>
+               <l>"Thy valour rushing as th' impetuous stream,</l>
+               <l>"(Ah let me linger on th' enchanting theme)</l>
+               <l>
+                  <pb n="5" facs="7"/>"Impell'd thee to resist the foreign host,<milestone n="65" unit="unspec"/>
+               </l>
+               <l>"That pour their numbers on our wond'ring coast,</l>
+               <l>"And hurl'd, like Gods, destructive thunders round!</l>
+               <l>"Alarm'd, astounded at th' unusual sound,</l>
+               <l>"Our archers hurried from th' unequal fight,</l>
+               <l>"And urg'd precipitate their trembling flight; <milestone n="70" unit="unspec"/>
+               </l>
+               <l>"While female shrieks, and children's piercing cries,</l>
+               <l>"With mix'd discordance, issued to the skies.</l>
+               <l>"'Twas then, amid this universal fear,</l>
+               <l>"That thou, undaunted, did'st thy valour rear,</l>
+               <l>"And as the rock that checks the torrent's roll,<milestone n="75" unit="unspec"/>
+               </l>
+               <l>"Ev'n so did'st thou the flying throng control,</l>
+               <l>"And on each archer's breast, to terrour prone,</l>
+               <l>"Did'st pour the warm effusions of thy own:</l>
+               <l>"Charm'd by the spell of thy enliv'ning word,</l>
+               <l>"They face the daring foe with one accord; <milestone n="80" unit="unspec"/>
+               </l>
+               <l>"With thee the terrours of the combat brave,</l>
+               <l>"And make th' extensive coast one SPANISH grave.</l>
+               <l>"For this thy country decks thee with renown,</l>
+               <l>"And fixes on thy brow this splendid crown."</l>
+               <l>
+                  <pb n="6" facs="8"/>He ceas'd—while thro' the wide extending fane <milestone n="85" unit="unspec"/>
+               </l>
+               <l>The voice of Gladness pours her plausive strain,</l>
+            </lg>
+            <lg>
+               <l>Lo! now, and herald comes with speedy pace,</l>
+               <l>His thought expanding o'er th' expressive face:</l>
+               <l>Festivity resigns her short-liv'd charms,</l>
+               <l>While loud he cries— "To arms—To arms—To arms!<milestone n="90" unit="unspec"/>
+               </l>
+               <l>"Proud of their daring, an alarming host</l>
+               <l>"Of warring SPANIARDS darken all the coast:</l>
+               <l>"High-rais'd on beings of superior force,</l>
+               <l>"They urge resistless their destructive course:</l>
+               <l>"Their chieftan's voice these monsters well obey,<milestone n="95" unit="unspec"/>
+               </l>
+               <l>"Fierce they pursue where he directs the way!</l>
+               <l>"Babes, mothers, men, are in one carnage trod,</l>
+               <l>"By these new engines of that demi-God!"</l>
+            </lg>
+            <lg>
+               <l>"Hail to th' event, the new-crown'd youth returns,</l>
+               <l>"To meet these foes my panting bosom burns:"<milestone n="100" unit="unspec"/>
+               </l>
+               <l>Then to the beauteous bride, o'erwhelm'd with grief,</l>
+               <l>With plaintive voice applied the royal chief:</l>
+               <l>
+                  <pb n="7" facs="9"/>"The joy expectancy had painted high,</l>
+               <l>"And bath'd in all the colours of the sky,</l>
+               <l>"Flies like the bird who deck'd with ev'ry hue,<milestone n="105" unit="unspec"/>
+               </l>
+               <l>"Wings gayly by, and shoots beyond the view:</l>
+               <l>"Now to the House of Sorrow urge thy way,<note place="bottom" n="*">ANTONIO DE SOLIS mentions in his history the House of Mourning, which was frequented in the season of calamity.</note>
+               </l>
+               <l>"Whose darksome round forbids the laughing day:</l>
+               <l>"As there thou shalt revolve the future scenes,</l>
+               <l>"While Fancy lifts the veil that intervenes,<milestone n="110" unit="unspec"/>
+               </l>
+               <l>"Let Hope celestial inmate of the heart,</l>
+               <l>"Her half-expanding prospects still impart:</l>
+               <l>"Think thro' the perils that encircling rear,</l>
+               <l>"I shall securely urge my bold career,</l>
+               <l>"And at the closing of th' embattled strife,<milestone n="115" unit="unspec"/>
+               </l>
+               <l>"Return perchance with fame-ennobled life,</l>
+               <l>"And fondly hanging on thy neck, recite</l>
+               <l>"The toil, the havock of the daring fight.</l>
+            </lg>
+            <lg>
+               <l>The fair return'd (with deep affliction fraught)</l>
+               <l>"When Gratitude first wak'd my infant thought,<milestone n="120" unit="unspec"/>
+               </l>
+               <l>
+                  <pb n="8" facs="10"/>"And bade me raise it to th' august abode,</l>
+               <l>"In thanks for ev'ry gift the God bestow'd,</l>
+               <l>"In glowing thanks did I pour out my mind,</l>
+               <l>"That thou best gift was to my wish assign'd:</l>
+               <l>"Still with the fond expectancy elate <milestone n="125" unit="unspec"/>
+               </l>
+               <l>"Oft would my heart forerun the ling'ring date:</l>
+               <l>"Now as the Sun the splendid hour ascends,</l>
+               <l>"Misfortune o'er the scene her cloud extends:</l>
+               <l>"Ah, GUATIMOZINO, what voice can tell</l>
+               <l>"The various ills that darken this farewell!<milestone n="130" unit="unspec"/>
+               </l>
+               <l>"Expos'd to peril, that enchanting form</l>
+               <l>"The thunder of the stranger may deform:</l>
+               <l>"Methinks I view thee in that blasted state,</l>
+               <l>"Dread spectacle—what horrours round thee wait?</l>
+               <l>"In vain these anxious eyes attempt to trace <milestone n="135" unit="unspec"/>
+               </l>
+               <l>"Ev'n the last ling'ring melancholy grace</l>
+               <l>"That death bestows!"—Her voice now fails to flow,</l>
+               <l>Curs'd with the dire presagement of her woe.</l>
+               <l>Behold, encircled by her virgin train,</l>
+               <l>The sorrow-wedded fair forsakes the fane:<milestone n="140" unit="unspec"/>
+               </l>
+               <l>
+                  <pb n="9" facs="11"/>The parting fair the hero's eyes pursue,</l>
+               <l>While glisten'd his young cheek with Pity's dew.</l>
+            </lg>
+            <lg>
+               <l>Lo, now commence the military rites,</l>
+               <l>While love of fame each panting breast excites.</l>
+               <l>Two youths, whom friendship and whom glory warms,<milestone n="145" unit="unspec"/>
+               </l>
+               <l>Come to demand the privilege of arms:</l>
+               <l>Beside the statue of the God they stand,</l>
+               <l>And rev'rent kiss the darts that grace his hand:</l>
+               <l>These sacred darts the pow'r above bestow'd,</l>
+               <l>A spirit bore them from the bright abode,<milestone n="150" unit="unspec"/>
+               </l>
+               <l>And in his passage to the sphere below,</l>
+               <l>He dipt their plumage in the vernal bow.</l>
+            </lg>
+            <lg>
+               <l>See now at GUATIMOZINO'S command,</l>
+               <l>To tuneful measures move the warlike band!</l>
+               <l>The square encircling an extensive plain,<milestone n="155" unit="unspec"/>
+               </l>
+               <l>Receives the patriot military train:</l>
+               <l>To them approach'd with speedy march the foe,</l>
+               <l>While on each bosom valour pour'd a glow.</l>
+               <l>
+                  <pb n="10" facs="12"/>But chiefly GUATIMOZINO confess'd</l>
+               <l>The hero's feelings lab'ring in his breast:<milestone n="160" unit="unspec"/>
+               </l>
+               <l>There youthful Valour wak'd his ardent flame,</l>
+               <l>There breath'd contempt of death and love of fame,</l>
+               <l>There Intrepidity that scorns to stoop,</l>
+               <l>And soft-ey'd Clemency—enchanting group!</l>
+               <l>O'er these as Fancy stretch'd her brooding wing,<milestone n="165" unit="unspec"/>
+               </l>
+               <l>Prescient she saw, from this assortment, spring</l>
+               <l>Some great, she knew not what, excelling deed,</l>
+               <l>That shou'd from Glory's hand obtain a meed.</l>
+               <l>Ev'n thus the bard who sleeps near Avon's wave,</l>
+               <l>To whom the Muse her unsunn'd treasures gave,<milestone n="170" unit="unspec"/>
+               </l>
+               <l>When Genius smote him with his fiercest beam,</l>
+               <l>And rous'd his bosom to some lofty theme,</l>
+               <l>His heart confess'd the something yet unknown,</l>
+               <l>Which shou'd (to vigour's full perfection grown)</l>
+               <l>Rise on the field of Poetry sublime,<milestone n="175" unit="unspec"/>
+               </l>
+               <l>And brave invincible the scythe of Time.</l>
+            </lg>
+            <lg>
+               <l>Now from the bows the pointed weapons fly,</l>
+               <l>While from the foe the thund'ring tubes reply:</l>
+               <l>
+                  <pb n="11" facs="13"/>OF CORTEZ rushing on a fiery steed</l>
+               <l>The new-crown'd chieftain dares the course impede; <milestone n="180" unit="unspec"/>
+               </l>
+               <l>His eye illum'd with Valour's sparkling glance</l>
+               <l>Deep in the courser's chest he roots his lance;</l>
+               <l>But not his valour does the foe appall,</l>
+               <l>Still bleeding warriours round their hero fall.</l>
+               <l>Now to the lofty fane his troops repair,<milestone n="185" unit="unspec"/>
+               </l>
+               <l>Whose high ascending tow'rs are lost in air,</l>
+               <l>From whence the MEXICANS with speedy art</l>
+               <l>Show'r on the foe the death-inflicting dart:</l>
+               <l>Yet then by CORTEZ led, still undismay'd,</l>
+               <l>The SPANIARD host the lofty fane invade.<milestone n="190" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>The two illustrious youths (whom Friendship's hand,</l>
+               <l>Had join'd with her indissoluble band)</l>
+               <l>Beheld indignant, smit with patriot grief,</l>
+               <l>The great achievements of the hostile chief:</l>
+               <l>And now JANELLAN thus accosts his friend:<milestone n="195" unit="unspec"/>
+               </l>
+               <l>"Firm to no purpose, active to no end,</l>
+               <l>
+                  <pb n="12" facs="14"/>"See from our gallant men yon hallow'd tow'r▪</l>
+               <l>"Already ravish'd by th' invading pow'r:</l>
+               <l>"Must this, committed to our mutual care,</l>
+               <l>"The same defeat, the same dishonour share?<milestone n="200" unit="unspec"/>
+               </l>
+               <l>"If so—the victor shall not long survive—</l>
+               <l>"A thought that bids my fading hope revive:</l>
+               <l>"A thought—that like the thunder-flash of night</l>
+               <l>"Darts on my darken'd mind a radiant light—</l>
+               <l>"But ere my veil'd designment I unfold,<milestone n="205" unit="unspec"/>
+               </l>
+               <l>"Declare, however rash, however bold,</l>
+               <l>"Thou'lt not o'ershade with Caution's chill controul,</l>
+               <l>"The splendid purpose of my ardent soul."</l>
+            </lg>
+            <lg>
+               <l>VENZULA to his breast his hand applied,</l>
+               <l>And thus beyond the pow'r of words replied.<milestone n="210" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>The youth resum'd—"From this aerial height,</l>
+               <l>"Bid thy bold vision take its deepest flight,</l>
+               <l>"Down to yon rock, far stretching o'er the shore,</l>
+               <l>"'Gainst which the raging waves incessant roar,</l>
+               <l>
+                  <pb n="13" facs="15"/>"Whose clashing voices into stillness fade,<milestone n="215" unit="unspec"/>
+               </l>
+               <l>"Ere this tremendous distance they pervade:</l>
+               <l>"If Fortune bless what my proud counsels urge,</l>
+               <l>"Yon waves shall murmur soon the victor's dirge!</l>
+               <l>"My secret project I will now unveil:</l>
+               <l>"Should CORTEZ o'er this valiant band prevail,<milestone n="220" unit="unspec"/>
+               </l>
+               <l>"Should thro' controlment, and thro' stubborn force,</l>
+               <l>"Pour like a torrent his destructive course,</l>
+               <l>"When on this summit first he shall appear,</l>
+               <l>"I will advance, with well-dissembled fear,</l>
+               <l>"And, suppliant as I kneel to win his grace,<milestone n="225" unit="unspec"/>
+               </l>
+               <l>"I'll dauntless lock him in a stern embrace,</l>
+               <l>"Bear him reluctant to yon giddy steep,</l>
+               <l>"Where yawns a dreadful opening to the deep,</l>
+               <l>"And thence—self-ruin'd for my country's good,</l>
+               <l>"Plunge with her foe into the whelming flood!"<milestone n="230" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>VENZULA answered—"Yes, I much admire</l>
+               <l>"What now thy matchless virtue dares inspire:</l>
+               <l>
+                  <pb n="14" facs="16"/>"But wilt thou, with an avarice of fame,</l>
+               <l>"The meed of Glory all exclusive claim?</l>
+               <l>"Wilt thou to perils close to Death adjoin'd <milestone n="235" unit="unspec"/>
+               </l>
+               <l>"Advance, and leave thy faithful friend behind?</l>
+               <l>"In infancy we shar'd the glitt'ring toys,</l>
+               <l>"And in one circle play'd our harmless joys:</l>
+               <l>"And when we quitted childhood's lowly vale,</l>
+               <l>"Where springing flow'rets scent the playful gale,<milestone n="240" unit="unspec"/>
+               </l>
+               <l>"Still hand in hand we climb'd youth's arduous height,</l>
+               <l>"Whence greater scenes expanded on the sight,</l>
+               <l>"Still our pursuits consenting to one plan,</l>
+               <l>"Like wedded streams our lives united ran:</l>
+               <l>"And wilt thou now oppose the sacred tide,<milestone n="245" unit="unspec"/>
+               </l>
+               <l>"And bid the friendly waves disparting glide?"</l>
+            </lg>
+            <lg>
+               <l>JANELLAN spoke—"Endearing youth forgive:</l>
+               <l>"The conq'ror of some future CORTEZ live!</l>
+               <l>"Nor mark my fall with Grief's dejected brow,</l>
+               <l>"View from my death the bright effects that flow:<milestone n="250" unit="unspec"/>
+               </l>
+               <l>
+                  <pb n="15" facs="17"/>"Behold the tomb that Gratitude shall raise,</l>
+               <l>"Illustrious signal of my country's praise."</l>
+            </lg>
+            <lg>
+               <l>To this the brave VENZULA made reply,</l>
+               <l>And as he spoke, tears started from his eye:</l>
+               <l>"What tho' Felicity thy gift shall stream <milestone n="255" unit="unspec"/>
+               </l>
+               <l>"Sunlike o'er MEXICO with brightest beam,</l>
+               <l>"Not all the splendour that her rays impart,</l>
+               <l>"Will e'er illumine my benighted heart,</l>
+               <l>"When destitute of thee, its only ray,</l>
+               <l>"Without the hope of kind returning day."<milestone n="260" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>"Thou best of friends, JANELLAN said, suppress</l>
+               <l>"Of thy bright amity this warm excess,</l>
+               <l>"Lest shrinking as it scorches I dissolve,</l>
+               <l>"Unfram'd, unequal to my great resolve!"</l>
+            </lg>
+            <lg>
+               <l>"Yet lend thine ear, VENZULA then rejoin'd,<milestone n="265" unit="unspec"/>
+               </l>
+               <l>"Sublimer motives urge my steady mind:</l>
+               <l>
+                  <pb n="16" facs="18"/>"Recall, recall that joy-diffusing hour,</l>
+               <l>"When gay Prosperity adorn'd my bow'r,</l>
+               <l>"As thy fair sister, half-afraid to speak,</l>
+               <l>"With down-cast look, and blush-embellish'd cheek,<milestone n="270" unit="unspec"/>
+               </l>
+               <l>"At Love's request assented to be mine:</l>
+               <l>"Of fleeting bliss vain momentary shine;</l>
+               <l>"For she, in flow'r of Youth and Virtue's bloom,</l>
+               <l>"Was swept untimely to the rav'nous tomb:</l>
+               <l>"As sorrow-wounded o'er her couch I hung,<milestone n="275" unit="unspec"/>
+               </l>
+               <l>"To catch the tones that faded as they sprung,</l>
+               <l>"<hi>The God,</hi> she said, <hi>now summons me away,</hi>
+               </l>
+               <l>"<hi>Far from the confines of th' endearing day:</hi>
+               </l>
+               <l>"<hi>Thou of the life I lose the dearest part,</hi>
+               </l>
+               <l>"<hi>Thou chosen spouse! thou sun-beam of my heart</hi>
+                  <milestone n="280" unit="unspec"/>
+               </l>
+               <l>"<hi>Say, by Affection's glowing hand impress'd,</hi>
+               </l>
+               <l>"<hi>Shall I not live in thy recording breast!</hi>
+               </l>
+               <l>"<hi>If sacred be the suff'rer's last desires,</hi>
+               </l>
+               <l>"<hi>Revere what now my parting soul requires:</hi>
+               </l>
+               <l>"<hi>I leave a brother, by bright Honour rear'd,</hi>
+                  <milestone n="285" unit="unspec"/>
+               </l>
+               <l>"<hi>By all approv'd, and much to me endear'd:</hi>
+               </l>
+               <l>
+                  <pb n="17" facs="19"/>"<hi>Be, for the sister's love, the brother's friend;</hi>
+               </l>
+               <l>"<hi>Nor from his side depart when storms descend:</hi>
+               </l>
+               <l>"<hi>The palm of Glory waving in your sight,</hi>
+                  <milestone n="290" unit="unspec"/>
+               </l>
+               <l>
+                  <hi>"In council, peril, enterprise unite."</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>"Shall I, when danger calls, consign to air</l>
+               <l>"The last bequeathing wishes of the fair?</l>
+               <l>"Perdition catch the base unmanly thought!</l>
+               <l>"By Love's subliming purest dictates taught <milestone n="295" unit="unspec"/>
+               </l>
+               <l>"Amid the perils that around thee wait,</l>
+               <l>"View me resolv'd to share th' impending fate:</l>
+               <l>"Now to this spot the foe impels the war,</l>
+               <l>"Discordance screams, opposing lances jar:</l>
+               <l>"The steep ascent lo CORTEZ now has gain'd,<milestone n="300" unit="unspec"/>
+               </l>
+               <l>"Ah, mark his spear with streaming gore distain'd.</l>
+            </lg>
+            <lg>
+               <l>Th' illustrious youths now act their dread design,</l>
+               <l>See at the victor's knee they low incline!</l>
+               <l>Now clasp with circling force th' incautious foe,</l>
+               <l>And close adhering to his figure grow:<milestone n="305" unit="unspec"/>
+               </l>
+               <l>
+                  <pb n="18" facs="20"/>Their deadly aim his better fate controll'd,</l>
+               <l>With matchless pow'r he bursts their stubborn hold:</l>
+               <l>The heroes, blasted in their bold intent,</l>
+               <l>Approach'd (Death hov'ring near) the dire descent:</l>
+               <l>Then, in each other's circling arms compress'd,<milestone n="310" unit="unspec"/>
+               </l>
+               <l>The last and dear farewell in sighs express'd:</l>
+               <l>'Twas Friendship burning with meridian flame,</l>
+               <l>One cause—one thought—one ruin—and one flame—</l>
+               <l>Tremendous moment! See, they fall from light,</l>
+               <l>And dauntless rush to never ending night!<milestone n="315" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Ye self-devoted patriot victims, hail!</l>
+               <l>Oblivion's gulph shall ne'er entomb your tale:</l>
+               <l>While History to Time's extremest goal</l>
+               <l>Her stream majestic shall thro'ages roll,</l>
+               <l>Like two fair flow'rets on one stem that blow <milestone n="320" unit="unspec"/>
+               </l>
+               <l>Ye on her margin shall for ever glow.<note place="bottom" n="*">This sublime instance of heroic Friendship is recorded by AN<lb rend="hidden" type="hyphenInWord"/>TONIO DE SOLIS.</note>
+               </l>
+            </lg>
+            <lg>
+               <pb n="19" facs="21"/>
+               <l>The royal youth, who saw th' aspiring foe</l>
+               <l>The faint-opposing MEXICANS o'erthrow,</l>
+               <l>Felt (as he saw proud SPAIN'S victorious scene)</l>
+               <l>The wound of Shame, the pointed shaft unseen <milestone n="325" unit="unspec"/>
+               </l>
+               <l>That stings the heart: yet then to valour true,</l>
+               <l>The palm of Victory his thoughts pursue:</l>
+               <l>"Oh, youth of MEXICO, once valiant train,</l>
+               <l>"Raze from your radiant life this dark'ning stain:</l>
+               <l>"Say, shall the breasts where Valour's flame should burn,</l>
+               <l>"Your lifeless hearts as sepulchres inurn?</l>
+               <l>"Thou western Sun retard thy closing race,</l>
+               <l>"Nor to the Godhead witness our disgrace:</l>
+               <l>"Our souls returning, a new contest claim,</l>
+               <l>"Still thy last ray shall on our honour flame."<milestone n="335" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>The daring chief, with these exalting words,</l>
+               <l>Each slacken'd heart to Valour's tone accords:</l>
+               <l>And as a cloud by adverse winds repell'd,</l>
+               <l>Returns full oft with double force impell'd,</l>
+               <l>
+                  <pb n="20" facs="22"/>Then sailing pregnant with destructive storms,<milestone n="340" unit="unspec"/>
+               </l>
+               <l>Diffuses darkness, and the day deforms,</l>
+               <l>Till now descending with terrific roar,</l>
+               <l>Bursts from its womb the dire engender'd store:</l>
+               <l>So, vengeance-stor'd, the fierce returning train</l>
+               <l>Impetuous rush upon the sons of SPAIN; <milestone n="345" unit="unspec"/>
+               </l>
+               <l>Who ill the fierce destructive impulse meet,</l>
+               <l>While terrour whispers to their souls—<hi>retreat:</hi>
+               </l>
+               <l>That ignominious counsel they obey,</l>
+               <l>And urge precipitate their speedy way.</l>
+               <l>The warm pursuit the MEXICANS release,<milestone n="350" unit="unspec"/>
+               </l>
+               <l>Night spreads her starry veil, and all is peace:</l>
+               <l>When sudden from the tow'r's aspiring height</l>
+               <l>The clarion <note place="bottom" n="*">The MEXICAN Historian takes notice of the <hi>sacred Trumpet.</hi> It was not permitted to any but the priests to sound it; and that only when they animated the people on the part of their Gods.</note> pierc'd the drowsy ear of night;</l>
+               <l>That sacred instrument! whose voice renown'd</l>
+               <l>Yields rarely to the world its tone profound:<milestone n="355" unit="unspec"/>
+               </l>
+               <l>TALEPO breathing thro' its brazen throat,</l>
+               <l>Diffus'd around a deep-inspiring note,</l>
+               <l>
+                  <pb n="23" facs="23"/>While on each youthful valour-heaving breast</l>
+               <l>Religion her warm energy impress'd:</l>
+               <l>Now tenfold rage impels the martial train,<milestone n="360" unit="unspec"/>
+               </l>
+               <l>While leaps the pulse thro' ev'ry ardent vein:</l>
+               <l>Fierce they pursue the fleeting SPANIARD host,</l>
+               <l>Who from the neighbouring lake's projected coast,</l>
+               <l>Rush down (as on their prey the Falcons dart)</l>
+               <l>And trust to safety from their buoyant art:<milestone n="365" unit="unspec"/>
+               </l>
+               <l>Vain hope! see at the royal chief's command</l>
+               <l>Of dauntless MEXICANS a chosen band,</l>
+               <l>Prompt as the quickness of the lightning's gleam,</l>
+               <l>Plunge with their leader in the roaring strem:</l>
+               <l>With one bold arm thro' clam'rous waves they steer,<milestone n="270" unit="unspec"/>
+               </l>
+               <l>With one they raise aloft the threat'ning spear:</l>
+               <l>Thus vehement they urge the hostile train,</l>
+               <l>Inflicting vengeance on the sons of SPAIN,</l>
+               <l>Ev'n till the wide-diffusing drops of blood</l>
+               <l>Spread like a scarlet mantle o'er the flood.<milestone n="375" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Of MEXICO the Genius now descends,</l>
+               <l>And near the angry waters as he bends,</l>
+               <l>
+                  <pb n="24" facs="24"/>The crystal goblet that his hand sustain,</l>
+               <l>He plunges thrice into the tinctur'd main!</l>
+               <l>Then soars, and on the neighb'ring mountain's height,<milestone n="380" unit="unspec"/>
+               </l>
+               <l>The radiant pow'r arrests his rapid flight,</l>
+               <l>Where in full conclave a terrific band,</l>
+               <l>The spirits of illustrious chieftains stand!—</l>
+               <l>Not with the patriot does his passion die,</l>
+               <l>It breathes—'tis Immortality's ally:<milestone n="385" unit="unspec"/>
+               </l>
+               <l>Still from the tomb the warm affections flow</l>
+               <l>Ev'n as the sunset-sky retains a glow.</l>
+            </lg>
+            <lg>
+               <l>"Mark, mark, the Genius said, this precious vase,</l>
+               <l>"Here pleas'd affix, here feast your raptur'd gaze:</l>
+               <l>"The vast canal near MEXICO that flows,<milestone n="390" unit="unspec"/>
+               </l>
+               <l>"Assumes the colour that this crystal shows:</l>
+               <l>"Its swelling surges dash the sounding shore,</l>
+               <l>"Inflam'd and crimson'd with the hostile gore."</l>
+            </lg>
+            <lg>
+               <l>Touch'd at the welcome tidings they rejoice,</l>
+               <l>And to the gale commit their feeble voice:<milestone n="395" unit="unspec"/>
+               </l>
+               <l>
+                  <pb n="21" facs="25"/>Lo, now disburden'd of their pressing care,</l>
+               <l>They tow'r aloft, and vanish into air.</l>
+            </lg>
+            <lg>
+               <l>Tho' Victory her sun-bright glory shed</l>
+               <l>Full and unsullied round the hero's head,</l>
+               <l>At Nature's voice he checks the smile of Joy,<milestone n="400" unit="unspec"/>
+               </l>
+               <l>And fun'ral duties now his thoughts employ:</l>
+               <l>The death-ground opening its capacious womb</l>
+               <l>Receives the dread deposite in its gloom.</l>
+               <l>Now, with uneven, but persuasive strains,</l>
+               <l>To wake the bosom, Harmony complains,<milestone n="405" unit="unspec"/>
+               </l>
+               <l>While Joy, obedient to the magic lay,</l>
+               <l>Dissolves like snow before the melting ray:</l>
+               <l>Now fades th' expiring sweetly plaintive sound,</l>
+               <l>While still as midnight, Silence reigns around:</l>
+               <l>Chain'd is each voice, while o'er the awe-struck sense <milestone n="410" unit="unspec"/>
+               </l>
+               <l>Distill the sober horrours of suspense:</l>
+               <l>At length the chief th' expecting silence broke,</l>
+               <l>While pointing to the patriot tomb, he spoke:</l>
+            </lg>
+            <lg>
+               <pb n="22" facs="26"/>
+               <l>"Hail, sepulchre, which ev'ry coward shuns!</l>
+               <l>"Thou glorious hecatomb of Valour's sons!<milestone n="415" unit="unspec"/>
+               </l>
+               <l>"On thee, oh sacred altar of renown,</l>
+               <l>"Th' eternal being looks propitious down!</l>
+               <l>"They, they are dear to that all-seeing eye,</l>
+               <l>"Who greatly daring act, or bravely die.</l>
+               <l>"Let this suggestion soothe the bleeding heart,<milestone n="420" unit="unspec"/>
+               </l>
+               <l>"In which despair has lodg'd his poison'd dart:</l>
+               <l>"To you I speak, ye fair afflicted train,</l>
+               <l>"Who weep for brothers, friends, and lovers slain:</l>
+               <l>"To you I speak, ye widows plung'd in care;</l>
+               <l>"And you whose sons stern fate refus'd to spare.<milestone n="425" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>As thus he said—deep from some breast unknown,</l>
+               <l>Burst unsubdued: Affliction's piercing moan,</l>
+               <l>Now intermitting, now returning loud—</l>
+               <l>At length, advancing thro' the wond'ring crowd,</l>
+               <l>A matron-form th' attentive hero view'd,<milestone n="430" unit="unspec"/>
+               </l>
+               <l>Her robe neglected, and her tresses rude,</l>
+               <l>
+                  <pb n="25" facs="27"/>With hurried step the royal youth she sought,</l>
+               <l>Her wild eye speaking th' inexpressive thought:</l>
+               <l>Close at her side a lovely boy appears—</l>
+               <l>Now through opposing grief her voice she rears:<milestone n="435" unit="unspec"/>
+               </l>
+               <l>"Give, give to me, the virtue that repels,</l>
+               <l>"The whelming surge of Sorrow at it swells:</l>
+               <l>"Two valiant sons, in age my comfort's store,</l>
+               <l>"My lov'd, my duteous children, are no more:</l>
+               <l>"This morn, this direful morn, a prey to fears,<milestone n="440" unit="unspec"/>
+               </l>
+               <l>"I bath'd our parting with presaging tears:</l>
+               <l>"That they expir'd on Honour's sacred bed,</l>
+               <l>"That their souls mingle with th' illustrious dead,</l>
+               <l>"Well do I know—and glory in the thought:</l>
+               <l>"Bright Virtue's flame, perchance, from me they caught,</l>
+               <l>"From me th' instructive lesson first they claim'd,</l>
+               <l>"This bosom nurtur'd, and this voice inflam'd.</l>
+               <l>"Yet ill with this vain pomp of splendid words,</l>
+               <l>"My drooping, loaded, sinking heart accords:</l>
+               <l>"Ah, still to Glory's thought despair succeeds,<milestone n="450" unit="unspec"/>
+               </l>
+               <l>"And th' agonizing mother inly bleed.</l>
+               <l>
+                  <pb n="26" facs="28"/>"This orphan babe to you I now bequeathe,</l>
+               <l>"With Honour's brightest flow'rs his mind inwreathe."</l>
+            </lg>
+            <lg>
+               <l>The child, half-conscious of the mother's grief,</l>
+               <l>As if attempting to dispense relief,<milestone n="455" unit="unspec"/>
+               </l>
+               <l>Stretch'd forth his little arms, and playful smil'd.</l>
+               <l>In vain the boy her scorpion thoughts beguil'd,</l>
+               <l>Inclining at his call her anguish'd face,</l>
+               <l>Death-struck she perish'd in the wish'd embrace.</l>
+            </lg>
+            <lg>
+               <l>'Twas then the hero thus his thoughts express'd:<milestone n="460" unit="unspec"/>
+               </l>
+               <l>"Fly, wounded spirit, to the realms of rest!</l>
+               <l>"This orphan child committed to my care,</l>
+               <l>"This tender object of thy closing pray'r,</l>
+               <l>"The blood that warms his breast, his helpless years,</l>
+               <l>"But most thy last request, to me endears.<milestone n="465" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>The hero added—"Shall the captive train</l>
+               <l>"Partake the fate the rigid laws ordain?</l>
+               <l>"As erring friends 'tis virtuous to forgive,</l>
+               <l>"'Tis godlike to decree the foe to live!</l>
+               <l>
+                  <pb n="27" facs="29"/>"Ah then, while Pity does her thoughts suggest,<milestone n="470" unit="unspec"/>
+               </l>
+               <l>"We feel the glowing God within our breast.</l>
+               <l>"Amid the captives one superiour moves,</l>
+               <l>"Whose gen'rous deeds humanity approves,</l>
+               <l>"One whose pure bosom all the Virtues claim,</l>
+               <l>"Respectful man! LAS CASAS is his name; <milestone n="475" unit="unspec"/>
+               </l>
+               <l>"He for Religion's sake Religion woo'd,</l>
+               <l>"Warm at her shrine the priest enamour'd stood:</l>
+               <l>"When cruel Havock bade the war encrease,</l>
+               <l>"Still o'er the plain he strew'd the flow'rs of Peace:</l>
+               <l>"To soothe the prostrate foe his wisdom plann'd,<milestone n="480" unit="unspec"/>
+               </l>
+               <l>"While hover'd o'er the wound his healing hand:</l>
+               <l>"Yet not to these endearing acts confin'd,</l>
+               <l>"He pour'd the balm of comfort on the mind:</l>
+               <l>"Let then the sacred priest your friendship share,</l>
+               <l>"And at his voice the death-doom'd captives spare."<milestone n="485" unit="unspec"/>
+               </l>
+               <l>He said—and to the God of war ordain'd</l>
+               <l>A spotless rite by human gore unstain'd. <note place="bottom" n="*">See the character of this SPANISH Bishop, so celebrated for his humanity, as it is drawn by the masterly hand of the Abbé RAYNAL in the third volume of his <hi>Histoire philosophique et politique.</hi>
+                  </note>
+               </l>
+            </lg>
+            <lg>
+               <pb n="28" facs="30"/>
+               <l>Now, see the hero with the wedded fair,</l>
+               <l>(While sportive Fancy runs before) repair,</l>
+               <l>By Truth conducted to the dim alcove,<milestone n="490" unit="unspec"/>
+               </l>
+               <l>Where Pleasure rears the rosy couch of Love.</l>
+            </lg>
+            <lg>
+               <l>TALEPO now the Christian priest address'd:</l>
+               <l>"While Silence lulls the drooping world to rest,</l>
+               <l>"Let us enjoy the conf'rence of an hour</l>
+               <l>"Within the bosom of this seret bow'r:<milestone n="495" unit="unspec"/>
+               </l>
+               <l>"Say, 'mid the spoilers of this peaceful land,</l>
+               <l>"That rude unfeeling, bold destructive band,</l>
+               <l>"Who their base hands in guiltless blood imbrue,</l>
+               <l>"Oh, priest of meekness, what had'st thou to do?</l>
+               <l>"Say, of your country thus inur'd to fight,<milestone n="500" unit="unspec"/>
+               </l>
+               <l>"Do all in strife and massacres delight?</l>
+               <l>"Say, to what rigid Deity ye bend,</l>
+               <l>"If thro' our woes your pray'rs approv'd ascend?</l>
+            </lg>
+            <lg>
+               <l>LAS CASAS spoke—"Compell'd to join the host,</l>
+               <l>"Reluctantly I sought your peaceful coast:<milestone n="505" unit="unspec"/>
+               </l>
+               <l>
+                  <pb n="29" facs="31"/>"Nor of my country, with inhuman joy,</l>
+               <l>"Do all uplift their weapons to destroy:</l>
+               <l>"Nor is the Deity to whom we bow,</l>
+               <l>"Such as your vague bewild'ring thoughts avow:</l>
+               <l>"Indignant He beheld the martial train,<milestone n="510" unit="unspec"/>
+               </l>
+               <l>"With bloody purpose rushing o'er the main:</l>
+               <l>"Ill we deserve the blessings he bestow'd:</l>
+               <l>"For us he quitted the divine abode—</l>
+               <l>"As on the humble earth with man He trod</l>
+               <l>"Thro' all her works aw'd Nature own'd her God.<milestone n="515" unit="unspec"/>
+               </l>
+               <l>"The palsied suff'rer left his weary bed,</l>
+               <l>"While on his cheek Health's brightest colour bled:</l>
+               <l>"And stranger still—the tenant of the tomb,</l>
+               <l>"Who long had dwelt in Death's relentless womb,</l>
+               <l>"Upborn abruptly from the yawning ground,<milestone n="520" unit="unspec"/>
+               </l>
+               <l>"Amazement-smitten cast his eyes around!"</l>
+            </lg>
+            <lg>
+               <l>"Ah, highly favour'd race, TALEPO cried,</l>
+               <l>"Say, wherefore was your bliss to us denied?</l>
+               <l>
+                  <pb n="30" facs="32"/>"God of the Christians, speak the crime unknown</l>
+               <l>"For which an host of Virtues can't atone!<milestone n="525" unit="unspec"/>
+               </l>
+               <l>"For which proscrib'd, disgrac'd, this hapless coast</l>
+               <l>"Is ravish'd of those gifts your children boast!</l>
+               <l>"Ah now, LAS CASAS, hasten to relate,</l>
+               <l>"The bright effects of your exalted state,</l>
+               <l>"The fruits that ripen from celestial seeds!<milestone n="530" unit="unspec"/>
+               </l>
+               <l>"Heroic thoughts! and burst of glorious deeds!</l>
+               <l>"You pause—what means that sorrow-shaded eye?</l>
+               <l>"That fix'd reluctance, that betraying sigh?</l>
+            </lg>
+            <lg>
+               <l>"Forbear, the priest return'd, thy vain request,</l>
+               <l>"Nor call the truth from this unwilling breast:<milestone n="535" unit="unspec"/>
+               </l>
+               <l>"Tho' many godlike deeds our faith endear,</l>
+               <l>"The Christian story blasts th' expecting ear.</l>
+               <l>"The Godhead spoke—<hi>Let Meekness as a dove</hi>
+               </l>
+               <l>"<hi>Brood in man's heart the sacred acts of Love.</hi>
+               </l>
+               <l>"But mark the strange result—in hostile bands <milestone n="540" unit="unspec"/>
+               </l>
+               <l>"The Christians hurry to remoter lands,</l>
+               <l>
+                  <pb n="31" facs="33"/>"To Death consigning, deaf to Pity's claim,</l>
+               <l>"The realms unknowing of their founder's name.</l>
+               <l>"From these dire acts they rouz'd to new alarms,</l>
+               <l>"And on each other turn'd their reeking arms.<milestone n="545" unit="unspec"/>
+               </l>
+               <l>"The gen'ral Faith receiv'd Destruction's shock,</l>
+               <l>"And as a vessel dash'd against a rock,</l>
+               <l>"Was split into a thousand jarring creeds,</l>
+               <l>"Each breathing rage and sanguinary deeds.</l>
+               <l>"Then Persecution wak'd the Martyr's pile,<milestone n="550" unit="unspec"/>
+               </l>
+               <l>"And hail'd the sparkles with a greedy smile."</l>
+            </lg>
+            <lg>
+               <l>TALEPO said—"The creed of distant tribes,</l>
+               <l>"From your high-favour'd realm remote, imbibes</l>
+               <l>"No knowledge of your God.—Ah, tell me true,</l>
+               <l>"Bright Virtue's path do we in vain pursue?<milestone n="555" unit="unspec"/>
+               </l>
+               <l>"Say, do we nurse with ineffectual care</l>
+               <l>"The hope which soothes the pain that all must bear,</l>
+               <l>"Who speaks of bliss beyond this lower sphere,</l>
+               <l>"And whispers comfort to the dying ear?"</l>
+            </lg>
+            <lg>
+               <pb n="32" facs="34"/>
+               <l>"Thrice virtuous sage, the feeling priest rejoin'd,<milestone n="560" unit="unspec"/>
+               </l>
+               <l>"Ah let not doubt o'ershade thy spotless mind:</l>
+               <l>"The diff'rent tenets that each nation claims—</l>
+               <l>"To heav'nly pow'r affix'd the various names—</l>
+               <l>"Are as the rays projecting from the sun!</l>
+               <l>"Are but the titles of th' Eternal One!<milestone n="565" unit="unspec"/>
+               </l>
+               <l>"The many modes of worship, as they tend</l>
+               <l>"To one refining pure celestial end,</l>
+               <l>"Ev'n from that, diverse homage may aspire</l>
+               <l>"A grateful off'ring to th' immortal Sire,</l>
+               <l>"As from the flow'rs of variegated dies <milestone n="570" unit="unspec"/>
+               </l>
+               <l>"Exhales a blended incense to the skies.</l>
+               <l>"On us with energy the Godhead beams,</l>
+               <l>"And on thy valiant clime but faintly gleams,</l>
+               <l>"Yet be not thou disturb'd, nor fear to stray</l>
+               <l>"In quest of Virtue far from Virtue's way:<milestone n="575" unit="unspec"/>
+               </l>
+               <l>"As round his little path, tho' gloom'd by night,</l>
+               <l>"The radiant insect throws a guiding light;</l>
+               <l>"So all unerring see to act their part,</l>
+               <l>"Taught by the glitt'ring glow-worm of the heart."</l>
+            </lg>
+            <lg>
+               <pb n="33" facs="35"/>
+               <l>TALEPO now, to bright conviction won,<milestone n="580" unit="unspec"/>
+               </l>
+               <l>Exclaim'd, enchanted, "Oh thou better Sun!</l>
+               <l>"Thy words like dayspring on the breast of night,</l>
+               <l>"Pour on my darken'd soul th' endearing light—</l>
+               <l>"But partial light, for still within the mind</l>
+               <l>"Full many a painful doubt remains behind.<milestone n="585" unit="unspec"/>
+               </l>
+               <l>"What is that pow'r we Chance or Fortune call,</l>
+               <l>"Who holds her veering ministry o'er all,</l>
+               <l>"Resembling still that spirit of the sky,</l>
+               <l>"Whose secret form eludes the human eye;</l>
+               <l>"Who now unmindful of its matchless pow'r <milestone n="590" unit="unspec"/>
+               </l>
+               <l>"Indulgent whispers to the vernal flow'r,</l>
+               <l>"Plays with her leaves, and hov'ring o'er her bloom</l>
+               <l>"From her young breast allures the enclos'd perfume:</l>
+               <l>"And now envelop'd in a sullen mood,</l>
+               <l>"Tempestuous rushes on the groaning wood,<milestone n="595" unit="unspec"/>
+               </l>
+               <l>"Arm'd with destructive energy, invades,</l>
+               <l>"Despoils, devasts the consecrated shades.</l>
+            </lg>
+            <lg>
+               <pb n="34" facs="36"/>
+               <l>"Still with the cloud of Ignorance oppress'd,</l>
+               <l>"Enlighten'd priest, unfold to my request,</l>
+               <l>"Of dire Necessity the hidden cause,<milestone n="600" unit="unspec"/>
+               </l>
+               <l>"Who seems on Freedom's ground to fix her laws,</l>
+               <l>"And combats and distracts the human will,</l>
+               <l>"As the wild storm confounds the pilot's skill.</l>
+            </lg>
+            <lg>
+               <l>"Tell, if thou can'st, what pow'r impels the mind,</l>
+               <l>"When, loth in narrow bounds to be confin'd,<milestone n="605" unit="unspec"/>
+               </l>
+               <l>"She breaks disdainful from her native sphere,</l>
+               <l>"And soars exulting in a new career:</l>
+               <l>"And in her progress sends a daring glance</l>
+               <l>"Along Futurity's opaque expanse,</l>
+               <l>"That dread depository, veil'd abode,<milestone n="610" unit="unspec"/>
+               </l>
+               <l>"Where breathe the secret counsels of the God!</l>
+            </lg>
+            <lg>
+               <l>"Still in my soul perplexing doubts remain,</l>
+               <l>"All knowing sage, that radiant pow'r explain,</l>
+               <l>"Who when the world with low'ring clouds is hung,</l>
+               <l>"Darts like the sun from his high orbit flung,<milestone n="615" unit="unspec"/>
+               </l>
+               <l>
+                  <pb n="35" facs="37"/>"And wing'd with swiftness, wild distracted flies,</l>
+               <l>"Dispersing terrour thro' the conscious skies:</l>
+               <l>"Then the tremendous voice that speaks on high,</l>
+               <l>"As if some angry God bade Nature die,"</l>
+            </lg>
+            <lg>
+               <l>Thus thro' their converse stole with magic pow'r <milestone n="620" unit="unspec"/>
+               </l>
+               <l>All unobserv'd, the slow nocturnal hour;</l>
+               <l>Till, as the shades forsook the morning sky,</l>
+               <l>The God of day disclos'd his radiant eye,</l>
+               <l>Which dropping lustre on the conscious main,</l>
+               <l>Shew'd to the deep-desponding sons of SPAIN,<milestone n="625" unit="unspec"/>
+               </l>
+               <l>A kindred fleet by urging zephyrs fann'd,</l>
+               <l>Triumphant sailing to th' impatient strand.</l>
+               <l>Rich tablature! by Expectation glaz'd,</l>
+               <l>By Hope high-colour'd, and by Joy emblaz'd.</l>
+               <l>See CORTEZ now, emerging from despair,<milestone n="630" unit="unspec"/>
+               </l>
+               <l>For all the butchery of war prepare;</l>
+               <l>Revenge and massacre, the saints that crown</l>
+               <l>The bloody altar of his base renown,</l>
+               <l>
+                  <pb n="36" facs="38"/>Now goad him on to snatch the wealthy prize,</l>
+               <l>Whose golden treasures glitter in his eyes.<milestone n="635" unit="unspec"/>
+               </l>
+               <l>Meanwhile Despondence (like approaching night)</l>
+               <l>Of INDIAN valour dims the splendid light;</l>
+               <l>O'er MEXICANS her fenny pinions spreads,</l>
+               <l>And on their bosoms chilling fear-drops sheds.</l>
+               <l>To raise their drooping soul the chief compels <milestone n="640" unit="unspec"/>
+               </l>
+               <l>The magic seers to quit their lonely cells:</l>
+               <l>Three awful forms appear—in white array'd,</l>
+               <l>Whose rev'rend temples silver tresses shade.</l>
+               <l>To them TALEPO—"If your hallow'd mind,</l>
+               <l>"As Fame reports by Wisdom's ray refin'd,<milestone n="645" unit="unspec"/>
+               </l>
+               <l>"Can glance into Futurity's contents,</l>
+               <l>"And wander forth to meet the great events</l>
+               <l>"At distance sailing thro' their long career,</l>
+               <l>"To take their station in this lower sphere!</l>
+               <l>"Then speak our fate—does Ruin hover near?<milestone n="650" unit="unspec"/>
+               </l>
+               <l>"And do we vainly grasp the hostile spear?"</l>
+            </lg>
+            <lg>
+               <pb n="37" facs="39"/>
+               <l>DRACONO spoke—"Thy wond'ring vision raise,</l>
+               <l>"And mark yon angry comet's threat'ning blaze!</l>
+               <l>"Hast thou not heard loud howlings of despair,</l>
+               <l>"And shrieks of horrour vex the midnight air?<milestone n="655" unit="unspec"/>
+               </l>
+               <l>"The dreaded pow'r, who from his baleful breath</l>
+               <l>"Sends pains, sends pestilence, and sudden death,</l>
+               <l>"Amid the terrours of the conscious night,</l>
+               <l>"That God malignant rush'd upon my sight:</l>
+               <l>"<hi>Advert to</hi> MEXICO<hi>'s distressful state,</hi>
+                  <milestone n="660" unit="unspec"/>
+               </l>
+               <l>"<hi>Behold the future picture of her fate.</hi>
+               </l>
+               <l>He said—when lo a low'ring cloud o'erspread</l>
+               <l>"And mantled MEXICO's imperial head:</l>
+               <l>"Tall columns of dun smoke encircling join'd,</l>
+               <l>"Which wreaths of flame like angry snakes entwin'd."</l>
+            </lg>
+            <lg>
+               <l>"Peace, terrour-spreading priest, the chief replied,</l>
+               <l>"Think not my people in your voice confide:</l>
+               <l>"Well I recall, how, in my early youth,</l>
+               <l>"Your dark predictions wander'd far from truth:</l>
+               <l>
+                  <pb n="38" facs="40"/>"The mid-day sun recoil'd, involv'd in night,<milestone n="670" unit="unspec"/>
+               </l>
+               <l>"While thou, the pander to the gen'ral fright,</l>
+               <l>"Did'st dastard-like thy voice prophetic rear,</l>
+               <l>"And loud assert—<hi>The death of Time was near,</hi>
+               </l>
+               <l>"<hi>That at her flood-gates stood Destruction's pow'r</hi>
+               </l>
+               <l>
+                  <hi>"To deluge Nature in a fiery show'r."</hi>
+                  <milestone n="675" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>"The trembling world the chain of Silence bound,</l>
+               <l>"While dreadful Expectation hover'd round:</l>
+               <l>"When from his cloud emerg'd the God of day,</l>
+               <l>"And nature burst into a grateful lay:</l>
+               <l>"So from the low'ring cloud of our distress <milestone n="680" unit="unspec"/>
+               </l>
+               <l>"May dart the glorious sun-beams of Success.</l>
+               <l>"To war, to war let us again resort,</l>
+               <l>"And Victory by deeds of valour court."</l>
+               <l>He added not—but hast'ning to the shore,</l>
+               <l>He bade his warriours grasp the guiding oar,<milestone n="685" unit="unspec"/>
+               </l>
+               <l>Determin'd on the bosom of the main</l>
+               <l>To dare the proud augmented pow'r of SPAIN,</l>
+               <l>
+                  <pb n="39" facs="41"/>Whose stately brigantines, with spreading sail,</l>
+               <l>Approach obedient to the sullen gale,</l>
+               <l>Which like a mischief-urging spirit guides <milestone n="690" unit="unspec"/>
+               </l>
+               <l>The hostile vessels o'er the rolling tides:</l>
+               <l>With ruin fraught the vast progressive scene</l>
+               <l>Disparting—leaves a dreadful space between.</l>
+               <l>To this dread space to war the stronger foe,</l>
+               <l>The daring chief directs his light canoe:<milestone n="695" unit="unspec"/>
+               </l>
+               <l>So mariners have seen the Sword-fish sail</l>
+               <l>With bold intent to wound the giant Whale.</l>
+               <l>NOW SPANISH art unlocks her deathful store,</l>
+               <l>While on the gallies bursts Destruction's roar.</l>
+               <l>Dark o'er the scene impends a veil of smoke,<milestone n="700" unit="unspec"/>
+               </l>
+               <l>By frequent flashes of the cannon broke.</l>
+            </lg>
+            <lg>
+               <l>'Twas then Fatality, mysterious queen,</l>
+               <l>Who reigns despotic o'er this lower scene,</l>
+               <l>Unquestion'd guides the rise and fall of realms,</l>
+               <l>An empire now exalts, and now o'erwhelms,<milestone n="705" unit="unspec"/>
+               </l>
+               <l>
+                  <pb n="40" facs="42"/>Beheld her priestess, Revolution, stand!</l>
+               <l>Prompt on the mystic wheel to lay her hand:</l>
+               <l>"Urge, urge thy task, the fatal Goddess said,</l>
+               <l>"For MEXICO must bend her regal head."</l>
+               <l>The mystic wheel performs th' appointed round,<milestone n="710" unit="unspec"/>
+               </l>
+               <l>And mark the chief in chains disgraceful bound:</l>
+               <l>Ah, see the youth approach the crowded shore,</l>
+               <l>While from the foe ascends th' applauding roar.</l>
+               <l>Now to the royal dome his steps he bends,</l>
+               <l>So lately peopled with his valiant friends:<milestone n="715" unit="unspec"/>
+               </l>
+               <l>There, there, oh fight accurs'd, in evil hour</l>
+               <l>He views proud CORTEZ on the seat of pow'r:</l>
+               <l>Who meanly vain, thus loud insulting said,</l>
+               <l>"Is all thy courage and resistance dead?</l>
+               <l>"The loyal troops that tread thy subject plains,<milestone n="720" unit="unspec"/>
+               </l>
+               <l>"Do they consent to view their king in chains?</l>
+               <l>"Audacious MEXICAN, behold how vain</l>
+               <l>"To war against th' uplifted arm of SPAIN!</l>
+            </lg>
+            <lg>
+               <pb n="41" facs="43"/>
+               <l>"Beneath yon plains, in some sequester'd scene,</l>
+               <l>"Well do I know that Nature works unseen,<milestone n="725" unit="unspec"/>
+               </l>
+               <l>"Forms with creative hand the buried ore,</l>
+               <l>"To you an useless and unheeded store:</l>
+               <l>"Does strong desire still prompt thy heart to live,</l>
+               <l>"Then give to my impatient sight, oh give!</l>
+               <l>"The cunning artist at her secret toil,<milestone n="730" unit="unspec"/>
+               </l>
+               <l>"And glut my wishes with the glitt'ring spoil!"</l>
+            </lg>
+            <lg>
+               <l>The captive hero gave these words to flow</l>
+               <l>(While his eye flash'd defiance on the foe)</l>
+               <l>"These chains but only reach th' exterior form,</l>
+               <l>"The bulwark of the mind thou can'st not storm:<milestone n="735" unit="unspec"/>
+               </l>
+               <l>"Misjudging man! think not thy proud control,</l>
+               <l>"Tho' all around your boasted thunders roll,</l>
+               <l>"Can e'er invade the temple of the Soul;</l>
+               <l>"There lives the secret that thou woud'st devour,</l>
+               <l>"And laughs at thy vain impotence of pow'r."<milestone n="740" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <pb n="42" facs="44"/>
+               <l>"Still shall thy haughtiness be taught to crouch,</l>
+               <l>"The victor said—Prepare the fiery couch,</l>
+               <l>"Pile glowing torches on th' extended frame,</l>
+               <l>"And clothe it with a robe of raging flame."</l>
+            </lg>
+            <lg>
+               <l>Yet unappall'd the godlike youth rejoin'd:<milestone n="745" unit="unspec"/>
+               </l>
+               <l>"If thro' the night of thine umbrageous mind,</l>
+               <l>"Could radiant mercy dart a cheering ray,</l>
+               <l>"And melt to softness thy tyrannic sway,</l>
+               <l>"To thy distinction would I then confide</l>
+               <l>"That youthful captive, to my blood allied:<milestone n="750" unit="unspec"/>
+               </l>
+               <l>"Ah, on that venerable grief-struck sage</l>
+               <l>"Look down, and smooth the rugged path of age.</l>
+               <l>"But most relenting to this mourner bend,</l>
+               <l>"And o'er her days thy guardian care extend."</l>
+               <l>He ceas'd—and turning to the drooping fair,<milestone n="755" unit="unspec"/>
+               </l>
+               <l>Who stood a monument of dumb Despair;</l>
+               <l>While Sorrow's iron hand her bosom wrung,</l>
+               <l>He on her neck in mournful silence hung.</l>
+               <l>
+                  <pb n="43" facs="45"/>Now from the chains that frame this fond delay,</l>
+               <l>Victorious o'er himself he breaks away,<milestone n="760" unit="unspec"/>
+               </l>
+               <l>And now advances, by rude ruffians led,</l>
+               <l>With step undaunted, to the tort'ring bed:</l>
+               <l>Alarm'd to meet his kindred warriour there—</l>
+               <l>"Oh thou, he said, who did'st the battle share,</l>
+               <l>"Must thou, unhappy youth, endure with me <milestone n="765" unit="unspec"/>
+               </l>
+               <l>"This last severe result of SPAIN'S decree?</l>
+               <l>"Then raise thy heart superiour to the task,</l>
+               <l>"Nor fear beneath those transient flames to bask;</l>
+               <l>"Ev'n ere they fade th' immortal Soul shall rise,</l>
+               <l>"And take its seat of bliss in yonder skies,<milestone n="770" unit="unspec"/>
+               </l>
+               <l>"Where to thy wond'ring vision shall expand,</l>
+               <l>"Adorn'd with heroes, a refulgent land,</l>
+               <l>"Where valiant MEXICANS, secure from woe,</l>
+               <l>"Look down contemptuous on the SPANISH foe."</l>
+            </lg>
+            <lg>
+               <l>He said—and to his rigid doom resign'd,<milestone n="775" unit="unspec"/>
+               </l>
+               <l>Along the flaming couch his form reclin'd:</l>
+               <l>
+                  <pb n="44" facs="46"/>The partner of his fate submissive bends,</l>
+               <l>And o'er the tort'ring bed his frame extends;</l>
+               <l>Yet then unequal to the conq'ring pain,</l>
+               <l>He spoke his suff'ring in lamenting strain:<milestone n="780" unit="unspec"/>
+               </l>
+               <l>"O, royal master, give me to disclose</l>
+               <l>"Where in the mine the golden treasure glows—</l>
+               <l>"I shrink, I faint, inferiour to my part,</l>
+               <l>"And this frail frame betrays my daring heart."</l>
+            </lg>
+            <lg>
+               <l>Amidst the raging flames that round him blaz'd <milestone n="785" unit="unspec"/>
+               </l>
+               <l>The royal chief his martyr'd figure rais'd,</l>
+               <l>Cast on the youth a calm-reproaching eye,</l>
+               <l>And spoke—oh eloquent, sublime reply!</l>
+               <l>Oh heav'n! oh earth! attend</l>
+               <l>"Do I REPOSE</l>
+               <l>"ALL ON THE SILKEN FOLIAGE OF THE ROSE?"</l>
+               <l>He ceas'd—and deep within his soul retir'd,</l>
+               <l>To honour firm, triumphant he expir'd.</l>
+            </lg>
+            <lg>
+               <l>Thy arduous task, brave youth, thou'st well perform'd,</l>
+               <l>Tho' perils, threats, and tortures round thee storm'd:</l>
+               <l>
+                  <pb n="45" facs="47"/>O'er thy last scene admiring angels hung,<milestone n="795" unit="unspec"/>
+               </l>
+               <l>And at thy exit lound applauding sung:</l>
+               <l>Thy spirit glowing with celestial fire,</l>
+               <l>To Heav'n is wafted by th' angelic quire:</l>
+               <l>The gorgeous spectacle ascending high,</l>
+               <l>Sails thro' the portal of the parting sky,<milestone n="800" unit="unspec"/>
+               </l>
+               <l>And at the living throne arrests its flight,</l>
+               <l>O'er which is spread a brilliant flood of light;</l>
+               <l>There the dread presence dwells in deep recess,</l>
+               <l>Encompass'd round with Glory's rich excess.</l>
+               <l>Now, thro' the veil of bright redundant beams,<milestone n="805" unit="unspec"/>
+               </l>
+               <l>A voice is heard—"'From me Creation streams—</l>
+               <l>"'I am the Pow'r—I from th' entombing Earth</l>
+               <l>"'Exalt the virtuous to a second Birth;</l>
+               <l>"'To them delighted I disclose the ray</l>
+               <l>"'Of Immortality's long Summer Day."'<milestone n="810" unit="unspec"/>
+               </l>
+            </lg>
+            <lg>
+               <l>But see TALEPO, venerable seer;</l>
+               <l>Approach the scene, impress'd with busy fear,</l>
+               <l>
+                  <pb n="46" facs="48"/>When first th' inhuman deed appall'd his sight</l>
+               <l>Ev'n as the cedar shrunk in sudden blight</l>
+               <l>He stood—while at the dire appearance thrill'd,<milestone n="815" unit="unspec"/>
+               </l>
+               <l>Each function of the soul stiff Horrour chill'd:</l>
+               <l>At length relenting into conscious grief,</l>
+               <l>He loud exclaim'd—" Oh lov'd, oh hapless chief!</l>
+               <l>"The ashes still that feed yon ling'ring flame,</l>
+               <l>"Do they of all thou art th' existence claim?<milestone n="820" unit="unspec"/>
+               </l>
+               <l>"Long school'd in pale Adversity's rude porch,</l>
+               <l>"Where Hope's gay domes are burnt by Havock's torch,</l>
+               <l>"For me, with grief adjoin'd to age oppress'd,</l>
+               <l>"Remain'd but this to cleave my care-worn breast.</l>
+               <l>"In early youth to me thou wast consign'd <milestone n="825" unit="unspec"/>
+               </l>
+               <l>"I watch'd the dawn of thy celestial mind,</l>
+               <l>"I saw, by Nature wak'd, thy talents rise,</l>
+               <l>"And Virtue mark them with her brightest dies.</l>
+               <l>"Ah what avail these fruitless tears I shed?</l>
+               <l>"Tho' thou art gone—yet Vengeance is not dead:<milestone n="830" unit="unspec"/>
+               </l>
+               <l>"The pregnant womb of Time"—He added not—</l>
+               <l>While from his eye a radiant meaning shot.</l>
+               <l>
+                  <pb n="47" facs="49"/>His bosom heav'd with a prophetic throe,</l>
+               <l>Till language gave his struggling thoughts to flow.</l>
+            </lg>
+            <lg>
+               <l>"Methinks Futurity, celestial maid,<milestone n="835" unit="unspec"/>
+               </l>
+               <l>"Thro' distant Time's dim length'ning isle display'd,</l>
+               <l>"Pours on my favour'd vision days unborn,</l>
+               <l>"That pant impatient for the ling'ring morn:</l>
+               <l>"Smooth as the clear expanse of vernal skies,</l>
+               <l>"A world of water claims my wond'ring eyes,<milestone n="840" unit="unspec"/>
+               </l>
+               <l>"See on its wavy breast, in splendid pride,</l>
+               <l>"Innum'rous brigantines triumphant ride: <note place="bottom" n="*">The SPANISH Armada sailed in 1588, <hi>disposed in the form of a crescent, and stretching the distance of seven miles from the extre<lb rend="hidden" type="hyphenInWord"/>mity of one division to that of the other.</hi>
+                     <bibl>HUME</bibl>
+                  </note>
+               </l>
+               <l>"Mark how the gorgeous mass advancing ploughs</l>
+               <l>"The groaning main with high aspiring prows:</l>
+               <l>"Secure in all the haughtiness of strength,<milestone n="845" unit="unspec"/>
+               </l>
+               <l>"It moves a crescent of tremendous length,</l>
+               <l>"And big with thunders and destructive force,</l>
+               <l>"To BRITAIN'S coast directs its threat'ning course.</l>
+               <l>
+                  <pb n="48" facs="50"/>"Oft has LAS CASAS, in applauding strain,</l>
+               <l>"To me reveal'd that sea-encircled plain.<milestone n="850" unit="unspec"/>
+               </l>
+               <l>"Thou Glory of the West! inchanted isle,</l>
+               <l>"Where beauteous maids on godlike heroes smile:</l>
+               <l>"By Nature's hand with Nature's chaplet crown'd</l>
+               <l>"In arts, in commerce, and in arms renown'd;</l>
+               <l>"August, magnificent, exalted Dame,<milestone n="855" unit="unspec"/>
+               </l>
+               <l>"As with a garment rob'd in Freedom's flame!</l>
+               <l>"Arise, arise—forestall th' intended blow,</l>
+               <l>"See to thy portal sails th' audacious foe.</l>
+            </lg>
+            <lg>
+               <l>"Another scenery is now display'd</l>
+               <l>"No more the main assembled vessels shade,<milestone n="860" unit="unspec"/>
+               </l>
+               <l>"A beggar'd remnant (of the splendid throng</l>
+               <l>"That swept in conscious majesty along)</l>
+               <l>"With prows disfigur'd, and dishonour'd masts,</l>
+               <l>"While thro' the rent sails mourn the hollow blasts,</l>
+               <l>"In shatter'd, mean, dismantled rude array,<milestone n="865" unit="unspec"/>
+               </l>
+               <l>"Steal o'er the waves their ignominious way.</l>
+               <l>
+                  <pb n="49" facs="51"/>"Oh of thy brilliant and extensive train</l>
+               <l>"Do these, ARMADA, these alone remain?</l>
+               <l>"Who has o'erthrown the honours of thy helm?</l>
+               <l>The voice of Fame replies—ELIZA's realm!<milestone n="870" unit="unspec"/>
+               </l>
+               <l>"Where lurk thy galleons that surpris'd the deep?</l>
+               <l>"Loud Fame replies—in Ocean's tomb they sleep!</l>
+               <l>"And of HISPANIA once the bright renown,</l>
+               <l>"Now glows an added gem to BRITAIN'S crown.</l>
+            </lg>
+            <lg>
+               <l>"Enough—enough, submissive to my fate <milestone n="875" unit="unspec"/>
+               </l>
+               <l>"I now return to my distressful state:</l>
+               <l>"Thanks to the God, whose kind revealing pow'r</l>
+               <l>"Gilds with a chearful ray my closing hour."</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="52"/>
+            <head>THE VENETIAN MARRIAGE, BY THE SAME.</head>
+            <head>
+               <pb facs="53"/>
+THE VENETIAN MARRIAGE.</head>
+            <lg>
+               <l>THE western sun's expiring ray▪</l>
+               <l>To VENICE gave a milder day;</l>
+               <l>Till by degrees the ling'ring light</l>
+               <l>Hung trembling on the verge of night.</l>
+               <l>CAMILLA then, with fearful soul,</l>
+               <l>To th' Adriatic margin stole,</l>
+               <l>Where in a bark, at Love's command,</l>
+               <l>PLACENTIO took his faithful stand.</l>
+               <l>Possessing now his future bride,</l>
+               <l>He bade the bark securely glide,</l>
+               <l>Which far unlike that gally show'd</l>
+               <l>That down the silver Cydnus row'd,</l>
+               <l>
+                  <pb n="54" facs="54"/>Beneath whose purple sails were seen,</l>
+               <l>Proud Ostentation's gaudy Queen,</l>
+               <l>Who sure of conquest, vain of mind,</l>
+               <l>All languishingly lay reclined!</l>
+               <l>Here Beauty undefil'd by art,</l>
+               <l>Whose bosom own'd a tender heart,</l>
+               <l>Beneath the sails from home remov'd,</l>
+               <l>And trusted to the man she lov'd.</l>
+            </lg>
+            <lg>
+               <l>A vernal calmness lull'd the deep,</l>
+               <l>And hush'd each wavy surge to sleep:</l>
+               <l>The air along the sultry day,</l>
+               <l>Scorch'd by the Summer's fervent ray,</l>
+               <l>Was freshen'd by a recent show'r,</l>
+               <l>While Silence solemniz'd the hour.</l>
+            </lg>
+            <lg>
+               <l>The still solemnity impress'd</l>
+               <l>With awful thought's CAMILLA'S breast,</l>
+               <l>For now by prompting Love impell'd,</l>
+               <l>Now by Timidity witheld,</l>
+               <l>
+                  <pb n="55" facs="55"/>The words which to pronounce she tried,</l>
+               <l>Recoil'd, and unaccented died.</l>
+               <l>PLACENTO too alike subdued,</l>
+               <l>They sail'd along in silent mood,</l>
+               <l>And stillness reign'd from shore to shore,</l>
+               <l>Unbroke— but by the dashing oar.</l>
+            </lg>
+            <lg>
+               <l>At length the fair dissolv'd the charm—</l>
+               <l>"Ah, wonder not I feel alarm!</l>
+               <l>"Confiding in thy love I came,</l>
+               <l>"And risk'd for thee my virgin fame:</l>
+               <l>"Ah tell me to what place we sail,</l>
+               <l>"For in my bosom fears prevail:</l>
+               <l>"Yet answer not this idle fear,</l>
+               <l>"Where'er thou art bright honour's there."</l>
+            </lg>
+            <lg>
+               <l>"The plan I form, the youth replied,</l>
+               <l>"To Innocence is close allied,</l>
+               <l>"And fearful of thy virgin fame</l>
+               <l>"As of her babe the tender dame.</l>
+               <l>
+                  <pb n="56" facs="56"/>"These waves that wander to the sea,</l>
+               <l>"Wash in their pilgrimage a tree,</l>
+               <l>"Which spreads its lowly branches wide,</l>
+               <l>"And dips them in the passing tide:</l>
+               <l>"There, in a shade compos'd of reeds,</l>
+               <l>"An aged hermit tells his beads:</l>
+               <l>"He, gen'rous sage, will join our hands</l>
+               <l>"In wedlock's unremitting bands.</l>
+               <l>"Then to VALCLUSA we'll repair▪</l>
+               <l>"Where LAURA'S soul informs the air:</l>
+               <l>"Where PETRARCH'S spirit hovers round,</l>
+               <l>"The guardian of the sacred ground,</l>
+               <l>"Forbidding still that fiend of art,</l>
+               <l>"That shrewd perverter of the heart,</l>
+               <l>"The snake, Inconstancy, to rove</l>
+               <l>"Within the paradise of Love.</l>
+            </lg>
+            <lg>
+               <l>"As when chill Winter quits the land,</l>
+               <l>"The snow-drop does her leaves expand,</l>
+               <l>
+                  <pb n="57" facs="57"/>"So may chill fears your breast release,</l>
+               <l>"Till gently it expands to peace,</l>
+               <l>"Mild as these twilight breezes blow,</l>
+               <l>"Soft as the waves on which we flow."</l>
+            </lg>
+            <lg>
+               <l>"Ye walls where first I drew the air,</l>
+               <l>"Return'd (assur'd) the beauteous fair;</l>
+               <l>"Ye turrets which but dimly seen</l>
+               <l>"Encrease the terrour of the scene!</l>
+               <l>"Ye stately tow'rs! and rising spires!</l>
+               <l>"From you CAMILLA now retires.</l>
+               <l>"Thou tomb whose pious urn contains</l>
+               <l>"My sacred parents' cold remains!</l>
+               <l>"Ye partners of my tender years,</l>
+               <l>"Whom youthful sympathy endears:</l>
+               <l>"Ye joys that crown my native coast,</l>
+               <l>"Well for PLACENTIO all are lost."</l>
+            </lg>
+            <lg>
+               <l>She ceas'd—and on her pensive soul</l>
+               <l>Again an awful musing stole,</l>
+               <l>
+                  <pb n="58" facs="58"/>Such as the twilight scene excites,</l>
+               <l>Such as the feeling heart delights;</l>
+               <l>For as the coy nocturnal flow'r</l>
+               <l>No more its sweets at eve witholds,</l>
+               <l>So the meek heart at th' evening hour</l>
+               <l>Its sensibility unfolds.</l>
+            </lg>
+            <lg>
+               <l>See now they reach the sacred cell</l>
+               <l>Where Wisdom, Peace, and Virtue dwell:</l>
+               <l>There, bent beneath the weight of age,</l>
+               <l>They find prepar'd th' expecting sage</l>
+               <l>He hail'd them in a friendly tone,</l>
+               <l>And bade them call his cell their own:</l>
+               <l>Where rose an altar form'd of moss,</l>
+               <l>Crown'd with a simple wooden cross!</l>
+               <l>There too a taper, mildly bright,</l>
+               <l>Supplied a pompous glare of light▪</l>
+               <l>No holy relick rich-enchas'd</l>
+               <l>This unambitious altar grac'd:</l>
+               <l>
+                  <pb n="59" facs="59"/>Here Flora, Nature's priestess, stood,</l>
+               <l>And round her fragrant off'rings strew'd.</l>
+            </lg>
+            <lg>
+               <l>The hermit spoke—"Hail, virtuous pair,</l>
+               <l>"May your misfortunes perish here:</l>
+               <l>"Tho' youth be yours, yet well I know</l>
+               <l>"You've tasted deep of human woe!</l>
+               <l>"Control, and art, and baseness join'd,</l>
+               <l>"To cancel what your hearts design'd:</l>
+               <l>"But now Misfortune's reign is o'er,</l>
+               <l>"And Pleasure opens all her store."</l>
+            </lg>
+            <lg>
+               <l>He paus'd—and now the youthful pair</l>
+               <l>Th' irrevocable vow prefer:</l>
+               <l>And now the hermit clos'd their hands</l>
+               <l>In willing and unvenal bands,</l>
+               <l>Unspotted bands! which mutual Love,</l>
+               <l>And Confidence and Virtue wove.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

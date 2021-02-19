@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord's cup: or, the dispensations of providence with regard to good and evil, considered in a sermon; by William Gilpin,...</title>
+            <author>Gilpin, William, 1724-1804.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K025748.000</idno>
+            <idno type="docno">CW3319888685</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord's cup: or, the dispensations of providence with regard to good and evil, considered in a sermon; by William Gilpin,...</title>
+                  <author>Gilpin, William, 1724-1804.</author>
+               </titleStmt>
+               <extent>15,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>Lymington :</pubPlace>
+                  <publisher>printed and sold by J. B. Rutter,</publisher>
+                  <date>1797.</date>
+                  <idno type="TCP">K025748.000</idno>
+                  <idno type="docno">CW3319888685</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT11644.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE LORD'S CUP; OR, THE Dispensations of Providence WITH REGARD TO <hi>GOOD AND EVIL,</hi> CONSIDERED IN A SERMON;</p>
+            <p>
+               <hi>BY WILLIAM GILPIN,</hi> VICAR OF BOLDRE.</p>
+            <p>
+               <hi>LYMINGTON:</hi> PRINTED AND SOLD BY J. B. RUTTER▪ 1797.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <head>TO THE INHABITANTS <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> LYMINGTON,</head>
+            <p>This discourse, preached former<lb rend="hidden" type="hyphenInWord"/>ly in their church, and now printed to encourage a deserving young townsman of theirs, who has just set up a press, is inscribed, by their</p>
+            <closer>
+               <signed>affectionate, and humble Servant, Will: Gilpin.</signed>
+               <dateline>
+                  <hi>Vicar's Hill,</hi> 
+                  <date>
+                     <hi>March</hi> 25, 1797.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <pb facs="3"/>
+         <epigraph>
+            <q>In the hand of the Lord <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>ere is a cup; and the wine is red: it is full-mixed, and he poureth out of the same. As for the dregs thereof, the ungodly of the earth shall drink them, and suck them out.
+<bibl>
+                  <hi>Psalm lxxv. 9.10.</hi>
+               </bibl>
+            </q>
+         </epigraph>
+         <p>THE dispensations of God with regard to this world, are represented in scripture under various similitudes; not so much with a view to explain them, as to give us such conceptions of them only, as are necessary.—Among these several images, that of a <hi>cup</hi> is one of the most frequent. It occurs in many of the Divine Writers—in David particularly. He speaks of the <hi>cup of salvation</hi>— of the <hi>Lord's being the portion of his cup</hi>—of his <hi>cup running over</hi>—and here, in this beautiful pas<lb rend="hidden" type="hyphenInWord"/>sage, he carries the illustration farther. <hi>In the hand of the Lord there is a cup; and the wine is red; it is full-mixed, and he poureth out of the same. As for the dregs thereof, the ungodly of the earth shall drink them, and suck them out.</hi>
+         </p>
+         <p>
+            <pb n="6" facs="4"/>From these words I shall First examine the <hi>Contents</hi> of the Lord's cup: and shall Secondly and Thirdly shew you how the <hi>Ungodly,</hi> and how the <hi>Godly</hi> drink of it.</p>
+         <p>First, with regard to the Contents of the Lord's cup, we are told, <hi>the wine is red,</hi> but <hi>it is full-mixed;</hi>—that is, however fair the appearances of things may be, however splendid any state of happiness, or any situation of life may appear, it is <hi>full-mixed</hi>—there is always added to it a certain portion of evil. By <hi>evil,</hi> I mean only the usual misfortunes and afflictions of human life. These are what temper the <hi>cup of the Lord:</hi> and in this <hi>mixed</hi> state it is poured out to the inhabitants of the earth.</p>
+         <p>All nature, as well as man, partakes of this mix<lb rend="hidden" type="hyphenInWord"/>ture.—We see storms purifying the air; but at the same time destroying the labours of men— the seasons sometimes kind; but as often inclement —rains fertilizing the earth; but also deluging it—the ground bearing fruits and grain; but weeds also and noxious herbs—the ocean expanding its broad bosom for the benefit of commerce; but the scene also of devouring tempests, and overflowing tides.</p>
+         <p>
+            <pb n="7" facs="5"/>If we examine animal life, we shall find here also, as far as it regards man, the same mixture of good and evil. Some animals are useful for food; others for labour; and others for conveni<lb rend="hidden" type="hyphenInWord"/>ence; but a greater number we find are mischiev<lb rend="hidden" type="hyphenInWord"/>ous. The larger beasts of prey devour by their strength; the inferior by their craft; and the blighting infect by its multitude.</p>
+         <p>If from the irrational part of nature we take a view of man, and his labours, we shall find the same mixture of good and evil. In himself, what a compound is he of virtue and vice? Religion, and hypocrisy; honesty, and deceit; charity, and ma<lb rend="hidden" type="hyphenInWord"/>lice; compassion, and unfeelingness; with many other contrarieties, are continually taking their turns in his mind. Good suggestions often im<lb rend="hidden" type="hyphenInWord"/>press him: but temptations are strong; and his practice wayward.</p>
+         <p>Man being thus compounded of good and evil, all his labours partake of the mixture. His food is turned to intemperance; his dress to vanity; his amusements to diffipation. Let him form what schemes, what plans, what systems he will; let him employ all his little prudence and foresight in bringing them to perfection, still he will find, mixed with them in some shape or other, uncer<lb rend="hidden" type="hyphenInWord"/>tainty, disappointment, and miscarriage.</p>
+         <p>
+            <pb n="8" facs="6"/>Thus in the various circumstances of his life, good and bad pursue each other, like the lights and shadows of a stormy day. The sun may break out at intervals; yet it never happens, but that either the morning, the noon, or at least the evening of his day is obscured. Light and darkness are not more connected than good and evil. David al<lb rend="hidden" type="hyphenInWord"/>luding to these sudden changes, tells us, that <hi>heavi<lb rend="hidden" type="hyphenInWord"/>ness may endure for a night, but joy cometh in the morning.</hi>
+         </p>
+         <p>As this is the case therefore—as the <hi>Lord's cup</hi> is thus mixed with bitter as well as sweet ingredi<lb rend="hidden" type="hyphenInWord"/>ents; and as we all must drink it, let us examine in what way we may drink it best.—And first let us see, how the <hi>Ungodly man</hi> drinks it; which was the <hi>Second</hi> point I proposed to consider.</p>
+         <p>The text says, <hi>he drinks the dregs.</hi> Now the dregs of any liquor are the pernicious parts. It is fairly implied therefore, that the Ungodly man turns both the good and evil of life to his own destruction.</p>
+         <p>Let us first see him in prosperous circumstances, with the cup of plenty in his hand. Here he ap<lb rend="hidden" type="hyphenInWord"/>pears in a very unfavourable light. Prosperity hardens him. It supplies nourishment to all his bad passions. <hi>His</hi> unfeeling heart is never touched
+<pb n="9" facs="7"/>by the wants of others. All is centered in him<lb rend="hidden" type="hyphenInWord"/>self.—If he has been, by the favour of Providence, successful in any trade or profession, it is then his language—at least his sentiment—that he has made himself happy—let others take the same means if they will.—If they have been less prudent, or less industrious than he has been, let them suffer for their folly. In short, from looking up to no cause above him; but thinking himself the source of all his enjoyments, he begins to fancy himself superior to others, and of course holds others in contempt. He becomes arrogant, proud, and as<lb rend="hidden" type="hyphenInWord"/>suming; and his features are commonly marked with what the Psalmist so expressively calls <hi>the scornful reproof of the wealthy.</hi>
+         </p>
+         <p>In his gratifications, perhaps the <hi>Ungodly</hi> man takes the road of pleasure. Then all is riot and excess: religion, conscience, decency, are no limits to him.—Ruin often succeeds.</p>
+         <p>But perhaps he drinks the cup of prosperity more cautiously. He has the foresight to provide against the ruin which destroys the thoughtless pro<lb rend="hidden" type="hyphenInWord"/>fligate, and to act under the conduct of worldly wisdom. Then we see him enjoying his prospe<lb rend="hidden" type="hyphenInWord"/>rity in a different way. Instead of squandering his wealth, he hoards it. Every increase of his for<lb rend="hidden" type="hyphenInWord"/>tune increases also his desires. The same hardness
+<pb n="10" facs="8"/>of heart, which the other shewed in providing for his pleasures, he shews in raising an estate. Con<lb rend="hidden" type="hyphenInWord"/>science and religion are equally the scorn of both.</p>
+         <p>The prosperity of the <hi>Ungodly</hi> man takes com<lb rend="hidden" type="hyphenInWord"/>monly one or the other of these courses; the <hi>blessings</hi> of the Lord's cup he turns to his own destruction. As he is ill qualified to receive <hi>good</hi> from the Lord, let us now see whether he is better qualified to receive <hi>evil;</hi> for, as we observ<lb rend="hidden" type="hyphenInWord"/>ed, the cup of the Lord is <hi>full-mixed.</hi> Evil in some shape, will sooner or later certainly overtake him. When the weight of misfortune, or the dis<lb rend="hidden" type="hyphenInWord"/>tress of sickness, or the infirmities of age come up<lb rend="hidden" type="hyphenInWord"/>on him, then the <hi>dregs of the Lord's cup</hi> become a bitter potion to him. Like a froward child he knows not what he wants. Every thing distresses, nothing can please him. He never feels the joys of religion—the heartfelt satisfaction of a good con<lb rend="hidden" type="hyphenInWord"/>science, and the tranquility of a peaceful mind, which alone can soothe the anxiety of misfortune, or ease the bed of sickness. Now he <hi>suffers</hi> that keen distress, which he never <hi>pitied</hi> in others—that want of assistance himself, which he never adminis<lb rend="hidden" type="hyphenInWord"/>tered to them.</p>
+         <p>Thus wretched in himself, you see him in a still more disagreeable light when he mixes with others.
+<pb n="11" facs="9"/>See him when you will, he is always either finding fault, or making complaint. But follow him home, and you will there find his ill-humours breaking out with double force. Miserable are all, who are thus unhappily connected with him. In<lb rend="hidden" type="hyphenInWord"/>stead of the mild, sweet smile of suffering piety, the softened look of tenderness, with which every offer to do him service should be received; he spurns the hand that soothes him. The kindest offers to serve him, are received like injuries. The tenderness of relations, the consolation of friends, instead of asswaging his ill-humours, serve only to excite them. Peevish and fretful, he distributes his own sufferings in large proportions upon his ser<lb rend="hidden" type="hyphenInWord"/>vants, dependants, and nearer connections.—And yet tho you would imagine he was wholly out of love with life, and wished for nothing more, than to leave it with disgust, you are mistaken. He seems fonder of it, at least more loth to leave it, than the man who enjoys it most. His attachment to the expiring moments of life, is most happily expressed in the text: he not only drinks the dregs of the cup; but he keeps them to his mouth as long as he can—<hi>he sucks them out.</hi>—The most horrible sight which the world can furnish, is that of a wicked wretch on the edge of eternity; when all hope of
+<pb n="12" facs="10"/>life is over, and he has just sensibility enough to see before him the gulf of despair. Let us turn aside from a spectacle, which makes the blood run cold; and see, as we proposed <hi>Thirdly,</hi> how the <hi>Godly man</hi> drinks of the Lord's cup.</p>
+         <p>In the first place, the <hi>Godly man</hi> expects to find a portion of evil in his cup. He sees the pro<lb rend="hidden" type="hyphenInWord"/>priety of it, and fully acknowledges the great usefulness of this <hi>mixture</hi> of good and evil. If the potion were perfectly palatable, he fears he might drink to excess. If all things went smooth and easy with him—if in the current of life, no rubs, no stoppages, no difficulties, ever occurred, what would be the consequence? He might be secure in the midst of danger. Tho mortal, he might never think of mortality. The difficulties of life —the frequent checks he meets with, are what put him continually on his guard. Disappointment corrects his passions; and shews him that he is not to imagine he must have things here as he pleases; but must expect his portion of evil. He takes the world therefore for what it is, and does not fix his happiness upon it.</p>
+         <p>All this in the sincerity of his heart, he acknow<lb rend="hidden" type="hyphenInWord"/>ledges, and approves; and thus far even his reason
+<pb n="13" facs="11"/>carries him. But when he opens the word of God, he finds the various dispensations of heaven placed in a still juster light. He finds this world repre<lb rend="hidden" type="hyphenInWord"/>sented in the gospel as a state of trial, prepara<lb rend="hidden" type="hyphenInWord"/>tory to future happiness; and the good and evil of life, as the <hi>means of this trial;</hi> contributing equally to <hi>exercise,</hi> and <hi>prove</hi> his religion.</p>
+         <p>Many are the virtues which <hi>prosperity</hi> gives him room to exercise; and which he could not exer<lb rend="hidden" type="hyphenInWord"/>cise amidst the <hi>evils</hi> of life; and many are the vir<lb rend="hidden" type="hyphenInWord"/>tues, which are the attendants of <hi>affliction;</hi> and are little known in the prosperous hour. He drinks the cup of the Lord, therefore, as the Lord intends.</p>
+         <p>When it pleases heaven to bless him; when his designs succeed; and his hopes dilate in some view of happiness before him, "Now is the time," (he suggests to himself) <q>when I must guard my heart with double care. Now is the time, when inso<lb rend="hidden" type="hyphenInWord"/>lence, and wantonness, and pride, the attendants of a prosperous hour, are most liable to corrupt me. Let me be careful to bar all entrance against them. Let prosperity soften my heart, instead of hardening it. Let me be humble, and mild, and condescending, and obliging to all. In the midst of my own enjoyments, let my heart ex<lb rend="hidden" type="hyphenInWord"/>pand.
+<pb n="14" facs="12"/>Let me feel the misery of others; and turn my plenty, to the relief of their necessity.</q>
+         </p>
+         <p>Again, when it pleases heaven to mix some bitter ingredient in his cup, still he has the same sense of acting under the will of God. <q>Now, he cries, is the time, when I am to exercise patience and resignation. Now my religion is put to the test. <hi>Shall I receive good at the hand of the Lord, and not receive evil?</hi>—Gracious God! grant that I may improve my heart under this trial of my faith; and make my sufferings through Jesus Christ, the means of purifying my affecti<lb rend="hidden" type="hyphenInWord"/>ons. Let me for his sake bear a trifling part of what he bore for me; and let me keep that great pattern of suffering resignation always be<lb rend="hidden" type="hyphenInWord"/>fore my eyes.</q>
+         </p>
+         <p>Thus the <hi>Godly man</hi> drinks of the Lord's cup, and his draught whether sweet, or bitter, is whole<lb rend="hidden" type="hyphenInWord"/>some to him. This blessed resignation of his own will in all instances to the will of God, regulates his affections—corrects his thoughts—and draws him back to the sober recollection of his station here; by checking each idea as it arises, of worldly happiness. And yet, tho this pious re<lb rend="hidden" type="hyphenInWord"/>signation lessens the world in his eye, it is so far from interfering with his worldly happiness, that
+<pb n="15" facs="13"/>it sheds the sunshine of chearfulness continually in his breast.—But most of all when the world sinks under him, he feels its blessed effects. While life is extinguishing, it is a cordial to pain; and gives tranquility to death.</p>
+         <p>Let us then after the <hi>Godly man's</hi> example, take the Lord's cup with all its ingredients <hi>full-mixed,</hi> in<lb rend="hidden" type="hyphenInWord"/>to our hands. Let us always remember whose cup it is, and who <hi>pours it out.</hi> It is the Lord himself Whatever therefore the draught is, let us consider it as mixed and tempered by the great physician of our souls. It may be unpalatable—but it is our own fault, if it be not beneficial.</p>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>

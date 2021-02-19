@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Mayor and aldermen of the City of London: the humble petition of the colliers, cooks, cook-maids, black-smiths, jack-makers, brasiers, and others, sheweth:</title>
+            <author>Arbuthnot, John, 1667-1735.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023997.000</idno>
+            <idno type="docno">CW3304581684</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Mayor and aldermen of the City of London: the humble petition of the colliers, cooks, cook-maids, black-smiths, jack-makers, brasiers, and others, sheweth:</title>
+                  <author>Arbuthnot, John, 1667-1735.</author>
+               </titleStmt>
+               <extent>2 p. ; 1/2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London :</pubPlace>
+                  <publisher>printed for J. Roberts, at the Oxford-Arms in Warwick-Lane,</publisher>
+                  <date>1716]</date>
+                  <idno type="TCP">K023997.000</idno>
+                  <idno type="docno">CW3304581684</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By John Arbuthnot.</note>
+                  <note>A satire : a petition against the innovations introduced by the 'Catoptrical victuallers'.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Colophon.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT8242.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#http://authorities.loc.gov/">
+               <term>Satire, English</term>
+               <term>England -- Economic conditions</term>
+               <term>England -- Social life and customs</term>
+               <term>Great Britain -- History</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <pb n="1" facs="1"/>
+         <head>To the RIGHT HONOURABLE
+The MAYOR and ALDERMEN of the
+City of <hi>LONDON:</hi>
+         </head>
+         <head>The Humble Petition
+Of the Colliers, <hi>Cooks, Cook-Maids, Black<lb rend="hidden" type="hyphenInWord"/>smiths,</hi>
+            <hi>Jack-makers, Brasiers,</hi> and Others,</head>
+         <opener>SHEWETH;</opener>
+         <p>
+            <seg rend="decorInit">T</seg>HAT whereas certain <hi>Virtuosi</hi> Disaffected to the Government, and
+to the Trade and Prosperity of this Kingdom, taking upon them
+the Name and Title of the CATOPTRICAL VICTUALLERS, have
+presumed, by Gathering, Breaking, Folding, and Bundling up the
+Sun-Beams, by the help of certain <hi>Glasses,</hi> to Make, Produce, and
+Kindle up several New <hi>Focus's</hi> or Fires within these His Majesty's
+Dominions, and thereby to Boil, Bake, Stew, Fry, and Dress all sorts of Victuals
+and Provisions, to Brew, Distil Spirits, Smelt Oars, and, in general, to perform
+all the Offices of Culinary Fires; and are endeavouring to procure to themselves
+the Monopoly of this their said Invention. We beg leave humbly to represent to
+your Honours,</p>
+         <p>That such Grant or Patent will utterly <gap resp="#oxf" extent="1+ letters" rend="content:•…">
+               <desc>illegible</desc>
+            </gap>ain and reduce to Beggary your Peti<lb rend="hidden" type="hyphenInWord"/>tioners,
+their Wives, Children, Servants, and Trades on them depending; there
+being nothing left to them, after the said Invention, but Warming of Cellars and
+Dressing of Suppers in the Winter-time. That the abolishing so considerable a
+branch of the Coasting Trade as that of the Colliers, will destroy the Navigation
+of this Kingdom. That whereas the said <hi>Catoptrical Victuallers</hi> talk of making
+use of the <hi>Moon</hi> by Night, as of the <hi>Sun</hi> by Day, they will utterly ruin the
+numerous Body of Tallow-Chandlers, and impair a very considerable branch of
+the Revenue which arises from the Tax upon Tallow and Candles.</p>
+         <p>That the said <hi>Catoptrical Victuallers</hi> do profane the Emanations of that Glorious
+Luminary the <hi>Sun,</hi> which is appointed to <hi>Rule the Day,</hi> and not to <hi>Roast Mutton.</hi>
+And we humbly conceive, It will be found contrary to the known Laws of this
+Kingdom, to Confine, Forestall, and Monopolize the Beams of the Sun. And
+whereas the said <hi>Catoptrical Victuallers</hi> have undertaken, by Burning-Glasses made
+of Ice, to Roast an Ox upon the <hi>Thames</hi> next Winter: We conceive all such
+Practices to be an Encroachment upon the Rights and Privileges of the Company
+of <hi>Watermen.</hi>
+         </p>
+         <p>That the Diversity of Exposition of the several Kitchins in this great City,
+whereby some receive the Rays of the Sun sooner, and others later, will occasion
+great Irregularity as to the Time of Dining of the several Inhabitants, and conse<lb rend="hidden" type="hyphenInWord"/>quently
+great Uncertainty and Confusion in the dispatch of Business: And to those
+who, by reason of their Northern Exposition, will be still forced to be at the Ex<lb rend="hidden" type="hyphenInWord"/>pences
+of Culinary Fires, it will reduce the Price of their Manufacture to such
+Inequality as is inconsistent with common Justice: And the same Inconveniency
+will affect Landlords in the Value of their Rents.</p>
+         <p>
+            <pb n="2" facs="2"/>
+That the Use of the said Glasses will oblige Cooks and Cook-Maids to study
+Opticks and Astronomy, in order to know the due Distances of the said <hi>Focus's</hi>
+or Fires, and to adjust the Position of their Glasses to the several Altitudes of the
+Sun, varying according to the Hours of the Day, and the Seasons of the Year;
+which Studies, at these Years, will be highly Troublesome to the said Cooks and
+Cook-Maids, not to say any thing of the utter Incapacity of some of them to go
+through with such difficult Arts; or (which is still a greater Inconveniency) it
+will throw the whole Art of <hi>Cookery</hi> into the Hands of Astronomers and Glass-Grinders,
+Persons utterly unskill'd in other parts of that Profession, to the great
+Detriment of the Health of His Majesty's good Subjects.</p>
+         <p>That it is known by Experience, That Meat Roasted with Sun-Beams is ex<lb rend="hidden" type="hyphenInWord"/>treamly
+unwholesome; witness several that have dy'd suddenly after eating the
+Provisions of the said <hi>Catoptrical Victuallers</hi>; being that the Sun-Beams taken
+inwardly, render the Humours too Hot and Adust, occasion great Sweatings,
+and dry up the Rectual Moisture.</p>
+         <p>That Sun-Beams taken inwardly, shed a Malignant Influence upon the Brain,
+by their natural Tendency towards the Moon; produce Madness and Destraction
+at the time of the Full Moon. That the constant use of so great Quantities of
+this Inward Light, will occasion the Growth of Quakerism, to the Danger of the
+Church; and Poetry, to the Danger of the State.</p>
+         <p>That the Influences of the Constellations, through which the Sun passes, will,
+with his Beams, be convey'd into the Blood; and when the Sun is amongst the
+Horned Signs, may produce such a Spirit of Unchastity, as is dangerous to the
+Honour of your Worships Families.</p>
+         <p>That Mankind living much upon the Seeds and other parts of Plants, these
+being impregnated with the Sun-Beams, may vegetate and grow in the Bowels,
+a Thing of more dangerous Consequence to Human Bodies than Breeding of
+Worms; and this will fall heaviest upon the Poor, who live upon Roots; and the
+Weak and Sickly, who live upon Barley and Rue-Gruel, <hi>&amp;c.</hi> for which we are
+ready to produce to your Honours the Opinions of Eminent Physicians, That the
+Taste and Property of the Victuals is much alter'd to the worse by the said <hi>Solar
+Cookery,</hi> the Fricasses being depriv'd of the <hi>Haut Gout</hi> they acquire by being dress'd
+over Charcoal.</p>
+         <p>
+            <hi>Lastly,</hi> Should it happen by an Eclipse of an Extraordinary Length, that this
+City should be depriv'd of the Sun-Beams for several Months; how will His Ma<lb rend="hidden" type="hyphenInWord"/>jesty's
+Subjects subsist in the Interim, when common Cookery, with the Arts de<lb rend="hidden" type="hyphenInWord"/>pending
+upon it, is totally lost.</p>
+         <p>In Consideration of these, and many other inconveniences, your Petitioners
+humbly pray, That your Honours would either totally prohibit the Con<lb rend="hidden" type="hyphenInWord"/>fining
+and Manufacturing the Sun-Beams for any of the useful Purposes
+of Life, or in the ensuing Parliament procure a Tax to be laid upon them,
+which may answer both the Duty and Price of Coals, and which we humbly
+conceive cannot be less than Thirty Shillings <hi>per</hi> Yard Square, reserving
+the sole Right and Privilege of the <hi>Catoptrical Cookery</hi> to the <hi>Royal Socie<lb rend="hidden" type="hyphenInWord"/>ty,</hi>
+and to the Commanders and Crew of the Bomb-Vessels, under the Di<lb rend="hidden" type="hyphenInWord"/>rection
+of Mr. <hi>Whiston,</hi> for finding out the Longitude, who by Rea<lb rend="hidden" type="hyphenInWord"/>son
+of the Remoteness of their Nations, may be reduc'd to Streights for
+want of Firing.</p>
+         <p>And we likewise beg that your Honours, as to the forementioned
+Points, would hear the Reverend Mr. <hi>Flamsted,</hi> who is the Legal
+Officer appointed by the Government to <hi>look after the Heavenly
+Luminaries,</hi> whom we have constituted our Trusty and Learned
+Solicitor.</p>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for J. ROBERTS, at the <hi>Oxford-Arms</hi>
+in <hi>Warwick-Lane.</hi> 1716. [Price 2<hi>d.</hi>]</p>
+         </div>
+      </back>
+   </text>
+</TEI>

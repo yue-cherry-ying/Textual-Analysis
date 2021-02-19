@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The universal prayer: By the author of the Essay on man.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023198.000</idno>
+            <idno type="docno">CW3313134792</idno>
+            <idno type="ecll">0524701000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The universal prayer: By the author of the Essay on man.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>7,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for R. Dodsley,</publisher>
+                  <date>1738.</date>
+                  <idno type="TCP">K023198.000</idno>
+                  <idno type="docno">CW3313134792</idno>
+                  <idno type="ecll">0524701000</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The author of the Essay on man = Alexander Pope.</note>
+                  <note>This edition has "Incence" in last line.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P982</note>
+                  <note>Griffith, 492</note>
+                  <note>English Short Title Catalog, ESTCT5757.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE UNIVERSAL PRAYER.</p>
+            <p>By the AUTHOR of the ESSAY on MAN.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for R. DODSLEY, at <hi>Tully</hi>'s-<hi>Head,</hi> in <hi>Pall-mall.</hi> MDCCXXXVIII. (Price Six-Pence.)</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>THE UNIVERSAL PRAYER.</head>
+         <epigraph>
+            <q>DEO OPT. MAX.</q>
+         </epigraph>
+         <lg n="1">
+            <head>I.</head>
+            <l>
+               <seg rend="decorInit">F</seg>ATHER of All! in every Age,</l>
+            <l>In every Clime ador'd,</l>
+            <l>By Saint, by Savage, and by Sage,</l>
+            <l>Jehovah, Jove, or Lord!</l>
+         </lg>
+         <lg n="2">
+            <head>II.</head>
+            <l>Thou Great First Cause, least understood!</l>
+            <l>Who all my Sense confin'd</l>
+            <l>To know but this,—that Thou art Good,</l>
+            <l>And I my self am blind:</l>
+         </lg>
+         <lg n="3">
+            <pb n="4" facs="3"/>
+            <head>III.</head>
+            <l>Yet gave me, in this dark Estate,</l>
+            <l>To see the Good from Ill;</l>
+            <l>And binding Nature fast in Fate,</l>
+            <l>Left Conscience free, and Will.</l>
+         </lg>
+         <lg n="4">
+            <head>IV.</head>
+            <l>What Conscience dictates to be done,</l>
+            <l>Or warns me not to doe,</l>
+            <l>This, teach me more than Hell to shun,</l>
+            <l>That, more than Heav'n pursue.</l>
+         </lg>
+         <lg n="5">
+            <head>V.</head>
+            <l>What Blessings thy free Bounty gives,</l>
+            <l>Let me not cast away;</l>
+            <l>For God is pay'd when Man receives,</l>
+            <l>T'enjoy, is to obey.</l>
+         </lg>
+         <lg n="6">
+            <pb n="5" facs="4"/>
+            <head>VI.</head>
+            <l>Yet not to Earth's contracted Span,</l>
+            <l>Thy Goodness let me bound;</l>
+            <l>Or think thee Lord alone of Man,</l>
+            <l>When thousand Worlds are round.</l>
+         </lg>
+         <lg n="7">
+            <head>VII.</head>
+            <l>Let not this weak, unknowing hand</l>
+            <l>Presume Thy Bolts to throw,</l>
+            <l>And deal Damnation round the land,</l>
+            <l>On each I judge thy Foe.</l>
+         </lg>
+         <lg n="8">
+            <head>VIII.</head>
+            <l>If I am right, thy Grace impart</l>
+            <l>Still in the right to stay;</l>
+            <l>If I am wrong, oh teach my heart</l>
+            <l>To find that better Way.</l>
+         </lg>
+         <lg n="9">
+            <pb n="6" facs="5"/>
+            <head>IX.</head>
+            <l>Save me alike from foolish Pride,</l>
+            <l>Or impious Discontent,</l>
+            <l>At ought thy Wisdom has deny'd,</l>
+            <l>Or ought thy Goodness lent.</l>
+         </lg>
+         <lg n="10">
+            <head>X.</head>
+            <l>Teach me to feel another's Woe;</l>
+            <l>To hide the Fault I see;</l>
+            <l>That Mercy I to others show,</l>
+            <l>That Mercy show to me.</l>
+         </lg>
+         <lg n="11">
+            <head>XI.</head>
+            <l>Mean tho' I am, not wholly so</l>
+            <l>Since quicken'd by thy Breath,</l>
+            <l>Oh lead me wheresoe'er I go,</l>
+            <l>Thro' this day's Life, or Death:</l>
+         </lg>
+         <lg n="12">
+            <pb facs="6"/>
+            <head>XII.</head>
+            <l>This day, be Bread and Peace my Lot;</l>
+            <l>All else beneath the Sun,</l>
+            <l>Thou know'st if best bestow'd, or not;</l>
+            <l>And let Thy Will be done.</l>
+         </lg>
+         <lg n="13">
+            <head>XIII.</head>
+            <l>To Thee, whose Temple is all Space,</l>
+            <l>Whose Altar, Earth, Sea, Skies;</l>
+            <l>One Chorus let all Being raise!</l>
+            <l>All Nature's Incence rise!</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Honoria: or the day of All Souls, a poem, with other poetical pieces:</title>
+            <author>Jerningham, Mr. (Edward), 1737?-1812.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024661.000</idno>
+            <idno type="docno">CW3313960997</idno>
+            <idno type="ecll">0681301100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Honoria: or the day of All Souls, a poem, with other poetical pieces:</title>
+                  <author>Jerningham, Mr. (Edward), 1737?-1812.</author>
+               </titleStmt>
+               <extent>[4],25,[3]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Robson,</publisher>
+                  <date>1782.</date>
+                  <idno type="TCP">K024661.000</idno>
+                  <idno type="docno">CW3313960997</idno>
+                  <idno type="ecll">0681301100</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Edward Jerningham.</note>
+                  <note>With a final leaf of advertisements.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT9585.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>HONORIA: OR THE DAY OF ALL SOULS, A POEM, WITH OTHER POETICAL PIECES.</p>
+            <p>LONDON: PRINTED for J. ROBSON, BOOKSELLER, IN NEW BOND STREET. M DCC LXXXII.</p>
+         </div>
+         <div type="note">
+            <pb facs="2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THE Scene of the following little Poem is supposed to be in the great church of St. Am<lb rend="hidden" type="hyphenInWord"/>brose at Milan the second of November, on which day the most solemn office is performed for the repose of the Dead.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="3"/>
+            <head>HONORIA.</head>
+            <lg>
+               <l>'YE hallow'd bells, whose voices thro' the air</l>
+               <l>'The awful summons of affliction bear:</l>
+               <l>'Ye slowly-waving banners of the dead,</l>
+               <l>'That o'er yon altar your dark horrours spread:</l>
+               <l>'Ye curtain'd lamps, whose mitigated ray</l>
+               <l>'Casts round the fane, a pale, reluctant day:</l>
+               <l>'Ye walls, ye shrines, by melancholy drest,</l>
+               <l>'Well do ye suit the fashion of my breast!</l>
+               <l>'Have I not lost what language can't unfold,</l>
+               <l>'The form of valour cast in beauty's mould!</l>
+               <l>'Th' intrepid youth the path of battle tried,</l>
+               <l>'And foremost in the hour of peril died.</l>
+               <l>
+                  <pb n="2" facs="4"/>'Nor was I present to bewail his fate,</l>
+               <l>'With pity's lenient voice to soothe his state,</l>
+               <l>'To watch his looks, to read while death stood by,</l>
+               <l>'The last expression of his parting eye.</l>
+            </lg>
+            <lg>
+               <l>'But other duties, other cares impend,</l>
+               <l>'Cares that beyond the mournful grave extend:</l>
+               <l>'Now, now I view conven'd the pious train,</l>
+               <l>'Whose bosom sorrows at another's pain,</l>
+               <l>'While recollection pleasingly severe</l>
+               <l>'Wakes for the awful dead the silent tear,</l>
+               <l>And pictures (as to each her sway extends)</l>
+               <l>'The sacred forms of lovers, parents, friends.</l>
+               <l>'Now Charity a fiery seraph stands</l>
+               <l>'Beside yon altar with uplifted hands.</l>
+            </lg>
+            <lg>
+               <l>'Yet, can this high solemnity of grief</l>
+               <l>'Yield to the youth I love the wish'd relief?</l>
+               <l>
+                  <pb n="3" facs="5"/>'These rites of death—Ah! what can they avail?</l>
+               <l>'Honorius died beyond the hallow'd pale:</l>
+               <l>'Plung'd in the gulph of fear—distressful state!</l>
+               <l>'My anxious mind dares not enquire his fate:</l>
+               <l>'Yet why despond? cou'd one slight errour roll</l>
+               <l>'A flood of poison o'er the healthful soul?</l>
+               <l>'Had not thy virtues full sufficing pow'r</l>
+               <l>'To clear thee in the dread recording hour?</l>
+               <l>'Did they before the judge abash'd remain?</l>
+               <l>'Did they, weak advocates, all plead in vain?</l>
+               <l>'By love, by piety, by reason taught,</l>
+               <l>'My soul revolts at the blaspheming thought:</l>
+               <l>'Sure in the breast to pure religion true,</l>
+               <l>'Where virtue's templed, God is templed too.</l>
+            </lg>
+            <lg>
+               <l>'Then while th' august procession moves along,</l>
+               <l>'Midst swelling organs, and the pomp of song;</l>
+               <l>
+                  <pb n="4" facs="6"/>'While the dread chaunt, still true to Nature's laws,</l>
+               <l>'Is deepen'd by the terrour-breathing pause;</l>
+               <l>'While 'midst encircling clouds of incense lost</l>
+               <l>'The trembling priest upholds the <hi>sacred host</hi>;</l>
+               <l>'Amid these scenes shall I forget my suit?</l>
+               <l>'Amid these scenes shall I alone be mute?</l>
+               <l>'Nor to the footsteps of the throne above</l>
+               <l>'Breathe the warm requiem to the youth I love?</l>
+            </lg>
+            <lg>
+               <l>'Now silence reigns along the gloomy fane,</l>
+               <l>'And wraps in dread repose the pausing strain:</l>
+               <l>'When next it bursts my humble voice I'll join,</l>
+               <l>'Disclose my trembling wish at mercy's shrine,</l>
+               <l>'Unveil my anguish to the throne above,</l>
+               <l>'And sigh the requiem to the youth I love.</l>
+            </lg>
+            <lg>
+               <l>'—Does fancy mock me with a false delight,</l>
+               <l>'Or does some hallow'd vision cheer my sight?</l>
+               <l>
+                  <pb n="5" facs="7"/>'Methinks, emerging from the gloom below,</l>
+               <l>'Th' immortal spirits leave the house of woe!</l>
+               <l>'Inshrin'd in glory's beams they reach the sky,</l>
+               <l>'While choral songs of triumph burst from high!</l>
+               <l>'See, at the voice of my accorded pray'r,</l>
+               <l>'The radiant youth ascend the fields of air!</l>
+               <l>'Behold!—He mounts unutterably bright,</l>
+               <l>'Cloath'd in the sun-robe of unfading light!</l>
+               <l>'Applauding seraphs hail him on his way,</l>
+               <l>'And lead him to the gates of everlasting day.'</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="8"/>
+            <head>THE SOLDIER's FAREWELL ON THE EVE OF A BATTLE.</head>
+            <lg>
+               <l>NIGHT, expecting the dread morrow</l>
+               <l>Hover'd o'er the martial train,</l>
+               <l>Beauteous Alice, led by sorrow.</l>
+               <l>Hurried to the silent plain:</l>
+            </lg>
+            <lg>
+               <l>'Give the watch-word, the guard utter'd</l>
+               <l>'Loudly from his destin'd place;</l>
+               <l>'Lo! 'tis I, fair Alice mutter'd,</l>
+               <l>'Hast'ning to his fond embrace.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="9"/>
+               <l>'Ever beauteous, faithful ever,</l>
+               <l>'Quick the gallant youth rejoin'd,</l>
+               <l>'Cruel death can only sever</l>
+               <l>'Hearts in love's strong links entwin'd:</l>
+            </lg>
+            <lg>
+               <l>'Soon shall we be torn asunder,</l>
+               <l>'Therefore welcome art thou come;</l>
+               <l>'Till morn wakes the battle's thunder</l>
+               <l>'Rest thee on that broken drum:'</l>
+            </lg>
+            <lg>
+               <l>She sat down, in mind reviewing</l>
+               <l>Ills the morning might behold,</l>
+               <l>Tears still other tears pursuing,</l>
+               <l>Down her cheek in silence roll'd:</l>
+            </lg>
+            <lg>
+               <l>Thoughts to other thoughts succeeding</l>
+               <l>O'er her mind incessant flow;</l>
+               <l>She, like meekness inly-bleeding,</l>
+               <l>Broods in stillness o'er her woe:</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="10"/>
+               <l>'Wherefore, Alice, dost thou ponder</l>
+               <l>'Evils that are fancy's brood;</l>
+               <l>'Sure our parting might be fonder</l>
+               <l>'Than beseems this silent mood?</l>
+            </lg>
+            <lg>
+               <l>'Yet continue still to ponder</l>
+               <l>'Things thy voice wants pow'r to say,</l>
+               <l>'Thy dumb grief to me seems fonder,</l>
+               <l>'Than words deck'd in bright array.'</l>
+            </lg>
+            <lg>
+               <l>She replied (her tears still gushing)</l>
+               <l>'What avails it to be brave?</l>
+               <l>'Thou, amidst the battle rushing,</l>
+               <l>'Here perchance may meet a grave:</l>
+            </lg>
+            <lg>
+               <l>'Shou'd'st thou perish in the action,</l>
+               <l>'Where's the peace to soothe my care?</l>
+               <l>'All my life wou'd be distraction,</l>
+               <l>'Madness, wailing, and despair.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="11"/>
+               <l>'Still thou wert of gentlest carriage,</l>
+               <l>'Still affectionately true,</l>
+               <l>'And a lover still in marriage,</l>
+               <l>'And a friend and parent too.</l>
+            </lg>
+            <lg>
+               <l>'Cheer thee, cheer thee, best of women,</l>
+               <l>'Trust to the great Pow'r above;</l>
+               <l>'When I rush amidst the foemen,</l>
+               <l>'Heav'n may think on her I love:</l>
+            </lg>
+            <lg>
+               <l>'Saving is the miser's pleasure,</l>
+               <l>'Spending is the soldier's thrift,</l>
+               <l>'Take this guinea, all my treasure,</l>
+               <l>'Take it as a parting gift.</l>
+            </lg>
+            <lg>
+               <l>'Here end we this mournful meeting,</l>
+               <l>'Catch from my lips this fond sigh;</l>
+               <l>'If this be our last, last greeting,</l>
+               <l>'Know, that I was born to die.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="12"/>
+               <l>'See! the day-spring gilds the streamers</l>
+               <l>'Waving o'er the martial train;</l>
+               <l>'Now the hoarse drum wakes the dreamers,</l>
+               <l>'Ne'er perchance to dream again:</l>
+            </lg>
+            <lg>
+               <l>'Hark, I hear the trumpet's clangor</l>
+               <l>'Bid the British youth excell;</l>
+               <l>'Now, now glows the battle's anger,</l>
+               <l>'Lovely Alice, fare thee well.'</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="13" facs="13"/>
+            <head>TO THE MEMORY OF A YOUNG LADY.</head>
+            <l>ENDOW'D with all that Fortune cou'd bestow;</l>
+            <l>With brilliancy of wit and beauty's glow,</l>
+            <l>Francisca, rising to her fifteenth year,</l>
+            <l>Stood mid the virgin train without a peer:</l>
+            <l>Her conscious bosom throbb'd to virtue warm,</l>
+            <l>While diffidence still heighten'd ev'ry charm:</l>
+            <l>But Heav'n's decree forbad this beauty's queen</l>
+            <l>To act her part thro' beauty's short-liv'd scene:</l>
+            <l>A gradual illness on her figure prey'd,</l>
+            <l>And slowly, slowly sunk the fading maid:</l>
+            <l>
+               <pb n="14" facs="14"/>Torn from each wish to which her youth aspir'd,</l>
+            <l>Unfearing—uncomplaining—she expir'd:</l>
+            <l>Thus some faint lily to its mother-ground</l>
+            <l>In silence falls—while spring is blooming round.</l>
+         </div>
+         <div type="poem">
+            <pb n="15" facs="15"/>
+            <head>INSCRIPTION INTENDED FOR AN OLD THATCHED CHURCH.</head>
+            <l>FAR from the splendour of a costly fane,</l>
+            <l>My low roof canopies the humble train:</l>
+            <l>Deep in my vaults divorc'd from human woes,</l>
+            <l>The life-worn, weary villagers repose:</l>
+            <l>When at my altar kneels the hamlet fair,</l>
+            <l>And to her God unveils her bosom'd care!</l>
+            <l>Or does the herdsman bend with grief distrest,</l>
+            <l>Kind comfort steals upon their lighten'd breast:</l>
+            <l>
+               <pb n="16" facs="16"/>Here too Religion weaves with viewless hand,</l>
+            <l>For spotless village hearts, the nuptial band,</l>
+            <l>And twines with many a charm the holy braid</l>
+            <l>That joins the lab'rer and the nut-brown maid.</l>
+         </div>
+         <div type="poem">
+            <pb n="17" facs="17"/>
+            <head>ON THE DEATH of TWO FAVOURITE BIRDS.</head>
+            <l>INVOLV'D in flame and suffocating breath</l>
+            <l>A hapless bird was doom'd to sudden death;</l>
+            <l>The female, touch'd at his uncommon fate,</l>
+            <l>Survey'd the form of her disfigur'd mate;</l>
+            <l>With drooping head, and shiv'ring wings she stood</l>
+            <l>In all the agony of widowhood!</l>
+            <l>At length, to grief's severest pow'r a prey,</l>
+            <l>She dropt—and sigh'd her little soul away.</l>
+            <l>
+               <pb n="18" facs="18"/>Ye wedded birds, tho' rigid be your doom,</l>
+            <l>Yet Anna <note place="bottom" n="†">Miss Ann Beauclerk.</note> watches at your early tomb;</l>
+            <l>For you her flowing pity bursts restraint,</l>
+            <l>Your dirge is utter'd in her soft complaint,</l>
+            <l>Your elegy, without the poet's art,</l>
+            <l>Is writ by sorrow on the purest heart.</l>
+         </div>
+         <div type="poem">
+            <pb n="19" facs="19"/>
+            <head>THE OAK.</head>
+            <l>MARK well yon tree, that shades the neighb'ring plain,</l>
+            <l>And looks the ancestor of this domain!</l>
+            <l>Beneath the slowly-waving branches hoar,</l>
+            <l>(Meet temple for a vow) this morn I swore,</l>
+            <l>To rear solicitous bright Friendship's flow'r,</l>
+            <l>And fence it from bleak Time's destructive pow'r:</l>
+            <l>To guard with holy care the tender frame,</l>
+            <l>And on the fragrant leaves inscribe his name,</l>
+            <l>Whose presence gilds with smiles this mild retreat,</l>
+            <l>Within whose breast the virtues love to meet:</l>
+            <l>
+               <pb n="20" facs="20"/>Who woos coy science to frequent his scene,</l>
+            <l>And bids good nature gambol o'er the green:</l>
+            <l>I spoke the word—The solemn branches bow'd,</l>
+            <l>As conscious of the sacred deed I vow'd.</l>
+         </div>
+         <div type="poem">
+            <pb n="21" facs="21"/>
+            <head>SENSIBILITY.</head>
+            <l>CELESTIAL spring! to Nature's favourites giv'n,</l>
+            <l>Fed by the dews that bathe the flow'rs of heav'n:</l>
+            <l>From the pure crystal of thy fountain flow</l>
+            <l>The tears that trickle o'er another's woe;</l>
+            <l>The silent drop that calms our own distress;</l>
+            <l>The gush of rapture at a friend's success;</l>
+            <l>Thine the soft show'rs down beauty's breast that steal</l>
+            <l>To soothe the heart-wounds they can never heal:</l>
+            <l>Thine too the tears of ecstasy that roll,</l>
+            <l>When genius whispers to the list'ning soul;</l>
+            <l>And thine the hallow'd flood that drowns the eye,</l>
+            <l>When warm Religion lifts the thought on high.</l>
+         </div>
+         <div type="poem">
+            <pb n="23" facs="22"/>
+            <head>MAY the 9th, 1779, MISS BOYLE's BIRTH DAY.</head>
+            <lg>
+               <l>OH, shade of Hanb'ry<note place="bottom" n="†">Sir Charles Hanbury Williams.</note>, from thy seat bestow</l>
+               <l>One transient aspect on this scene below:</l>
+               <l>This youngest flow'ret of thy bow'r survey,</l>
+               <l>Who meekly rears her head to welcome May,</l>
+               <l>And looks the lily of the primros'd dale,</l>
+               <l>Just breaking thro' its green o'ermantling veil.</l>
+            </lg>
+            <lg>
+               <l>Behold the Mother <note place="bottom" n="‡">The Honourable Mrs. Walsingham.</note> prompt (with skill refin'd)</l>
+               <l>To watch the dawning of a Daughter's mind:</l>
+               <l>
+                  <pb n="24" facs="23"/>With those clear rays which her bright noon adorn,</l>
+               <l>She streaks and beautifies her pupil's morn:</l>
+               <l>Foe to th' enamel'd rules of Stanhope's art,</l>
+               <l>With Nature's sentiments she feeds the heart;</l>
+               <l>Whose strong ascendant in due time display'd</l>
+               <l>Shall as a buckler shield the tender maid,</l>
+               <l>When call'd to enter on her fate's career,</l>
+               <l>Thro' life's uncertain voyage she shall steer.</l>
+               <l>Methinks I now behold that future day,</l>
+               <l>When the light galley shall the fair convey:</l>
+               <l>I see this artless Cleopatra glide,</l>
+               <l>Hope at her helm, and Virtue at her side,</l>
+               <l>Firm (as her Father to repel the foe)</l>
+               <l>To meet when Heav'n ordains th' assailing woe.</l>
+               <l>Ah! new adventurer on the sea of life,</l>
+               <l>May'st thou ne'er meet the waves' insulting strife;</l>
+               <l>
+                  <pb n="25" facs="24"/>Ne'er may thy bark amidst the whirlwind's roar</l>
+               <l>Dash its young bosom on the bulging shore:</l>
+               <l>May halcyon stillness brood along the deep,</l>
+               <l>And treach'rous Syrens in some cavern sleep:</l>
+               <l>Allur'd by smiling skies, may playful gales</l>
+               <l>Toy round thy mast, and flutter in the sails.</l>
+               <l>Enough—To merriment the hours devote,</l>
+               <l>Each accent tune to laughing pleasure's note.</l>
+            </lg>
+            <lg>
+               <l>For thee the darling of these humble lays,</l>
+               <l>Whose early merit wakes the voice of praise,</l>
+               <l>From the bright date of this recorded day</l>
+               <l>Thou shalt be styled the Little Queen of May.</l>
+            </lg>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <pb facs="25"/>
+            <p>LATELY PUBLISHED, THE ANCIENT ENGLISH WAKE, Price One Shilling and Sixpence.</p>
+            <p>
+               <hi>Also in One Volume Octavo,</hi> Price Three Shillings, POEMS BY MR. JERNINGHAM. THE FIFTH EDITION.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

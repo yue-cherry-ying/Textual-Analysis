@@ -1,0 +1,1963 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The camp: a musical entertainment, as performed at the Theatre Royal, Drury Lane. By R. B. Sheridan, Esq.</title>
+            <author>Sheridan, Richard Brinsley, 1751-1816.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K029722.000</idno>
+            <idno type="docno">CW3316744931</idno>
+            <idno type="ecll">0509501200</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The camp: a musical entertainment, as performed at the Theatre Royal, Drury Lane. By R. B. Sheridan, Esq.</title>
+                  <author>Sheridan, Richard Brinsley, 1751-1816.</author>
+               </titleStmt>
+               <extent>28p. ; 12⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed in the year,</publisher>
+                  <date>1795.</date>
+                  <idno type="TCP">K029722.000</idno>
+                  <idno type="docno">CW3316744931</idno>
+                  <idno type="ecll">0509501200</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Almost certainly by Sheridan, perhaps with some contributions by John Burgoyne.</note>
+                  <note>Sometimes attributed to Richard Tickell, from a rough draft in his handwriting.</note>
+                  <note>Many songs borrowed from Thomas Hill's 'The royal merchant'.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT19858.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <pb facs="2"/>
+            <p>THE CAMP, A <hi>MUSICAL ENTERTAINMENT,</hi> AS PERFORMED AT THE THEATRE ROYAL, DRURY LANE.</p>
+            <p>BY R. B. SHERIDAN, ESQ.</p>
+            <p>
+               <hi rend="blackletterType">London:</hi> PRINTED IN THE YEAR M,DCC,XCV.</p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="3"/>
+            <head>DRAMATIS PERSONAE.</head>
+            <list>
+               <head>MEN.</head>
+               <label>Gage,</label>
+               <item>Mr. PARSONS.</item>
+               <label>O Daub,</label>
+               <item>Mr. MOODY,</item>
+               <label>Sir Harry Bouquet,</label>
+               <item>Mr. DODD,</item>
+               <label>Serjeant,</label>
+               <item>Mr. BANNISTER.</item>
+               <label>Corporal William,</label>
+               <item>Mr. WEBSTER.</item>
+               <label>Boulard,</label>
+               <item>Mr. BADDELY.</item>
+               <label>First Countryman,</label>
+               <item>Mr. FAWCET.</item>
+               <label>Second Countryman,</label>
+               <item>Mr. KEEN.</item>
+               <label>Old Man,</label>
+               <item>Mr. CHAPMAN.</item>
+               <label>Boy,</label>
+               <item>Mr. SUETT.</item>
+               <label>Officers, Recruits, &amp;c.</label>
+               <item> </item>
+            </list>
+            <list>
+               <head>WOMEN.</head>
+               <label>Nell,</label>
+               <item>Mrs. WRIGHTON.</item>
+               <label>Lady Plume,</label>
+               <item>Miss FARREN.</item>
+               <label>Lady Sash,</label>
+               <item>Miss POPE.</item>
+               <label>Lady Gorget,</label>
+               <item>Mrs. WARD.</item>
+               <label>Nancy</label>
+               <item>Miss WALPOLE.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="4"/>THE CAMP.</head>
+         <div n="1" type="act">
+            <head>ACT I.</head>
+            <div n="1" type="scene">
+               <head>SCENE I. <stage>The Road near the CAMP.</stage>
+               </head>
+               <stage>Enter Old Man.</stage>
+               <sp>
+                  <p>COME along, neighbours, come along, we shall be too late for the suttlers market.</p>
+               </sp>
+               <stage>Enter 2nd. Man.</stage>
+               <sp>
+                  <p>Put on, put on, neighbours. Here Robin, where are you boy.</p>
+               </sp>
+               <stage>Robin, Behind.</stage>
+               <sp>
+                  <p>I'm coming Feather, as soon as I can get the colt up, for the plaguy beast is down again, and mother and chickens are all in the slough.</p>
+               </sp>
+               <sp>
+                  <speaker>Old Man.</speaker>
+                  <p>Why, is the colt down again? You graceless dog, help your mother up.—Oh, neigh<lb rend="hidden" type="hyphenInWord"/>bour Farrow has helped her up I see.</p>
+               </sp>
+               <stage>
+                  <hi>Enter,</hi> OLD WOMAN.</stage>
+               <sp>
+                  <speaker>O. Woman.</speaker>
+                  <p>Husband, as sure as you are alive, that rogue of a boy drove the colt in the dirt for the purpose, and down we came with such a wang.—</p>
+               </sp>
+               <sp>
+                  <speaker>O. Man.</speaker>
+                  <p>What a mercy it is the chickens escaped!—Come, put on neighbours.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> ROBIN and COLT.</stage>
+               <sp>
+                  <speaker>Robin.</speaker>
+                  <p>Why, Feather how could I help it?—The colt has not had an eye in his head these eight years.</p>
+               </sp>
+               <sp>
+                  <pb n="4" facs="5"/>
+                  <speaker>O. Woman.</speaker>
+                  <p>O, here comes our Kinswoman, and her Daughter, <stage>(<hi>enter Miss</hi>)</stage> Bless me child! you are in such a heat you'll quite spoil your complexion.</p>
+               </sp>
+               <sp>
+                  <speaker>Miss.</speaker>
+                  <p>Lord neighbours, you hurry one so.—</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. Woman.</speaker>
+                  <p>Put on. put on; make haste, we shall be too late—O dear, here comes Nell, and she'll scold us all, for cheating the soldiers.</p>
+               </sp>
+               <sp>
+                  <speaker>3rd. Woman.</speaker>
+                  <p>Damn that wench, she won't cheat herself, nor let other honest people do it, if she can help it: and she says she likes a soldier so well she would sell them goods for nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. Man.</speaker>
+                  <p>Come neighbours, now we shall see what bargains your Daughter will make at the Camp.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. Woman.</speaker>
+                  <p>Aye, Aye, soldiers are testy custo<lb rend="hidden" type="hyphenInWord"/>mers—They won't buy of the ugly ones—O, here Nell comes.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> NELL.</stage>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Why how now, what you are consulting how you shall cheat the poor soldiers: for shame! for shame! how can you use the poor fellows so? a parcel of unfeeling wretches! Poor fellows, that risque their Lives to defend your property, and yet you make it your study to defraud them.</p>
+               </sp>
+               <sp>
+                  <speaker>O. Woman.</speaker>
+                  <p>It's very hard, Nell; you won't let us have a little picking among em. What is it to you what we do.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Yes it is to me; I never will bear to see a soldier cheated, with my eyes open. I love a sol<lb rend="hidden" type="hyphenInWord"/>dier, and will always stand by them.</p>
+               </sp>
+               <sp>
+                  <speaker>Miss.</speaker>
+                  <p>Mind your own business, Nell.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>What's that you say, Miss Minx? Here's a wench dressed out; the poor soldiers are forced to pay for all this finery, you impudent slut you.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. Man.</speaker>
+                  <p>Why, Nell, if you go on at this rate we'll tell his worship, Mr. Gage of you: He's an exciseman, and a great friend to us poor solks.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>What's that you say, master Grinder?
+<pb n="5" facs="6"/>
+Come forward, you sneaking sniveling sot you, I think your tricks are pretty well known. Was n't you caught soaking eggs in lime and water to make them pass for new ones: and did not you sit in the stocks for robbing the 'Squire's rookery to make your pigeon pies.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. Woman.</speaker>
+                  <p>Well, well, we'll tell Mr. Gage, and then what will he say to you?</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Tell Mr. Gage, will you, he's a pretty protector indeed he's a disgrace to his Majesty's inkhorn—while he seizes with one hand, he smug<lb rend="hidden" type="hyphenInWord"/>gles with the other.—Why, no longer ago than last summer he was a broken attorney at Rochester, and came down here, and bought this place with his vote, and now he is both a smuggler and contractor. O my conscience, if I had the management of affairs, I would severely punish all such fellows who would be so base as to cheat a poor soldier.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. Woman.</speaker>
+                  <p>If his worship was here, you dare not say so. Here he comes, here he comes. Now you'll change your note.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Will I? you shall see if I do. No, no; I'll tell him my mind; that's always my way.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> GAGE.</stage>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>Ah! Mr. Gage.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Hey dey! what's the matter? What the plague is there a civil war broke out among you?</p>
+               </sp>
+               <sp>
+                  <speaker>1st. Woman.</speaker>
+                  <p>Why, Mr. Gage, Nell here has been scolding us for cheating the soldiers,</p>
+               </sp>
+               <sp>
+                  <speaker>2nd Woman.</speaker>
+                  <p>Yes, and says you encourage us in it.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Encourage you? to be sure I do, in the way of trade.</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>Aye, in the way of trade.</p>
+               </sp>
+               <sp>
+                  <speaker>1st. Woman.</speaker>
+                  <p>Yes, and she has been rating the poor girl, and says I dress her up thus only to make the better bargains.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>And e'cod you're in the right of it; your
+<pb n="6" facs="7"/>
+mother is a sensible old woman. Well said dame, put plenty in your baskets, and sell your wares at the sign of your daughters face.</p>
+               </sp>
+               <sp>
+                  <speaker>1st. Woman.</speaker>
+                  <p>Aye, aye, so I say.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Right—Soldiers are testy customers, and this is the market where the prettiest will always make the best bargains.</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>Very true, very true.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>To besure; I hate to see an awkward gawkey come sneaking into the market, with her damned half-price countenance, and is never able to get scarce double the value of her best goods.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>I can hold no longer: are you not ashamed you who are a contractor, and has the honour to carry his Majesty's inkhorn at your button-hole, to teach these poor wretches all your court tricks. I'll tell you what. If I was to sit on a court mar<lb rend="hidden" type="hyphenInWord"/>tial against such a fellow as you, you should have had your deserts, from the pilfering suttler to the head contractor, you should have the cat o' nine tails, and be forced to run the gauntlet, from Cox<lb rend="hidden" type="hyphenInWord"/>heath to Warley common, that you should.</p>
+               </sp>
+               <sp>
+                  <speaker>1st. Man.</speaker>
+                  <p>How durst you talk so saucily to his worship?</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Hold your tongue, or I'll throttle you, you sheep biter. <stage>(<hi>collaring him.</hi>)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>1st. Man.</speaker>
+                  <p>O lord! your worship, if you don't put her under an arrest she'll choak me.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>
+                     <stage>(<hi>Aside.</hi>)</stage> Come, Nell, hold your tongue, and I'll give you a pound of smuggled hyson, and, throw you a silk handkerchief into the bargain.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Here's a rogue! Bear witness neighbours he has offered me a bribe;—a pound of tea. No, Sir, take your pitiful present, and know that I am not to be bribed to screen your villainies by influ<lb rend="hidden" type="hyphenInWord"/>ence and corruption. <stage>(<hi>throws it at him,</hi>)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Don't mind her, she's mad, she talks trea<lb rend="hidden" type="hyphenInWord"/>son. Away with you! I'll put every body under an arrest that stays to listen to her.</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>Aye, aye, she's mad. Come along, we shall be too late for market. <stage>(<hi>Gage drives them all off.</hi>)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="7" facs="8"/>
+                  <speaker>Gage.</speaker>
+                  <p>Here Nell, will you take the tea? <stage>(<hi>offers it to her.</hi>)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>No Sir, I wont.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Well then I will. <stage>(<hi>puts it in his pocket.</hi>)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <p>
+                     <floatingText>
+                        <body>
+                           <head>AIR.</head>
+                           <sp>
+                              <speaker>NELL.</speaker>
+                              <lg>
+                                 <l>
+                                    <hi>Now coaxing, caressing,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Now wheedling, distressing,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>As fortune delights to exalt or confound,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Her smile or her frown</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Sets them up, knocks them down,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Turning, turning, turning as the wheel goes round.</hi>
+                                 </l>
+                              </lg>
+                              <lg n="2">
+                                 <head>II.</head>
+                                 <l>
+                                    <hi>O fie, Mr. Gage!</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Quit the tricks of the age;</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Scorn the slaves that to fortune, false fortune are bound,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Their cringes and bows,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Protections and vows,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Turning, turning, &amp;c.</hi>
+                                 </l>
+                              </lg>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+                  <stage>Exit Nell.</stage>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Foolish girl, not to accept a bribe, and follow the example of her betters.—But who have we here?</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> O DAUB.</stage>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Ah, my little Gage! to be sure I am not in luck; I will not want an interpreter to shew me the views about here; and by my shoul I'll force you to accept my offer.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Why, what's your errand?</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Why upon my conscience a very dan<lb rend="hidden" type="hyphenInWord"/>gerous one: Jack the Painter's job was a fool to it. I am come to take the Camp.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>The devil you are!</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Aye, and must bring it away with me in my pocket too.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Indeed!</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Aye, here's my military chest; these are my colours you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>O, I guess your errand.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Then faith it's a very foolish one.
+<pb n="8" facs="9"/>
+You must know, I got so much credit at the Fete Champetre there, that little Roscius recommended me to the Managers of Drury Lane, and so now I am a sort of deputy superintendant under Mr. Lanturnburg, the great painter; that as soon as he executes a thing, I always design it after him, my jewel; so I'm going to take a side front view of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>What then they are going to introduce the camp on the stage I suppose.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>To be sure you have hit it—Cox<lb rend="hidden" type="hyphenInWord"/>heath by candle light, my jewel.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>And will that answer?</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>O, to be sure it will answer, when a jontlemen can have a warm seat, and see the whole tote of it for two thirteens, and be comfortable into the bargain. Why it has cost me above three guineas already, and I came the cheapest way too, for three of us went halves in the Maidstone Dilly, my dear.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Well, and how do you like the prospect?</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Upon my shoul my jewel, I dont know what to make o'nt, so I am come to be a little far<lb rend="hidden" type="hyphenInWord"/>ther off, that I may have a nearer view of it. I think it looks like my cousin O Doiley's great bleach yard in the County of Antrim. <stage>(<hi>Boulard fings without</hi>)</stage> Tunder and wounds! what outland<lb rend="hidden" type="hyphenInWord"/>ish creature is this coming here?</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>O, that is Monsieur Boulard, the suttler.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Then perhaps he can help me to a bit of something to eat, for I feel a sort of craving in my stomach after my journey.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Why he's a very honest fellow, and will be happy in obliging you, Oh, here he comes.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> BOULARD.</stage>
+               <sp>
+                  <speaker>Boul.</speaker>
+                  <p>Ah! begar, Monsieur Gage, I am glad I have found you; begar I have been through Berkshire, Suffolk, and Yorkshire, and could not find you.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Through Berkshire, Suffolk, and York<lb rend="hidden" type="hyphenInWord"/>shire—What the devil does he mean?</p>
+               </sp>
+               <sp>
+                  <pb n="9" facs="10"/>
+                  <speaker>Gage.</speaker>
+                  <p>O, he means through the regiments.</p>
+               </sp>
+               <sp>
+                  <speaker>Boulard.</speaker>
+                  <p>By gar, mounsieur Gage, I must de<lb rend="hidden" type="hyphenInWord"/>pend on you for supply. I have got one, two, tree brigade dinners bespoke, besides the fat alder<lb rend="hidden" type="hyphenInWord"/>man and his lady from London.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Then you must send out a party of cooks to forage at Maidstone.</p>
+               </sp>
+               <sp>
+                  <speaker>Boulard.</speaker>
+                  <p>Parblue, monsieur Gage, I must look to you, for by gar I have got nothing in de house to eat.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Then the devil burn me if I come to dine with you honey.</p>
+               </sp>
+               <sp>
+                  <speaker>Boulard.</speaker>
+                  <p>O, Sire, I have got every ting for you and Monsieur Gage. You shall have any ting you ike in von moment!</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Ah, ha, I tank you honey: But pray now, Mr. Blaud, if your own countrymen were to come over here, would not you be a little puz<lb rend="hidden" type="hyphenInWord"/>zled to know which side to be on?</p>
+               </sp>
+               <sp>
+                  <speaker>Boulard.</speaker>
+                  <p>Puzzled!—parblue Monsieur, I do assure you I love de English ver well, and vill never leave dem vile dey are victorious; and I do love mine own countrymen very well; but depend on it, Monsieur Gage, I vill always stay with do strongest.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>You see, Mr. O Daub, my friend Mon<lb rend="hidden" type="hyphenInWord"/>sieur Boulard is divested of all national prejudice, I assure you.</p>
+               </sp>
+               <sp>
+                  <speaker>Boulard.</speaker>
+                  <p>Prejudice—by gar I have too much honour ever to leave de English while dey do vin de battle. But, Monsieur Gage, vill you bring your friend, and taste my vine; I have got every ting for you and your friend, I assure you. M. Gage, I vill never forsake de English so long as dey are victorious; but if mine own countrymen were to come, and make de English run, I would run a little way with dem; and if mine own country¦men were likely to overtake dem, I would stop short, bow to dem, and say, how you do, my ver good countrymen. By gar I shall be ver glad to see you both, so come along—but depend
+<pb n="10" facs="11"/>
+on mine honour, Monsieur Gage, I vill never leave de English vile dey do vin de battle.—No, never! never! <stage>(<hi>Exit.</hi>
+                     </stage>
+                  </p>
+                  <stage>[Singing.</stage>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Well said Monsieur Boulard.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Your sarvant Mr. Blaud, though faith to do him justice, he has forgot the fashion of his country, for when he is determined to be a rogue he is honest enough to own it. But pray what connection have you with the suttlers? You are no victualler here are you?</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Not absolutely a victualler, but I deal in various articles.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Indeed.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Yes, but no business is done here only by contract.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>A contractor! Why what the devil you are not risen to such preferment as that sure? I never knew you was able to furnish any con<lb rend="hidden" type="hyphenInWord"/>tract.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Nothing more easy; the circumstance depends upon the quantity, not the quality. I got on very well lately, but at first it brought me in several confounded scrapes.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>As how?</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Why, I undertook to serve a regiment with hair powder.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Hair powder? What, and you sent them flower I suppose.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Flower! no, no—I should have saved nothing by that: I went to the fountain head—the pit, and gave 'em a plentiful stock of lime.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Lime? brick and mortar lime?</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Yes, brick and mortar lime.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>And, what the plague, was not the cheat found out?</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Why at first it answered the purpose very well, while the weather was fine it did charmingly, but one field-day they was all caught in a fine soaking shower; the smoke ran along the lines, ecod their heads were all slack'd in an instant, and by the time they returned to the camp, damme if
+<pb n="11" facs="12"/>
+all their heads were not as smooth as an old half crown.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>A very cross accident indeed.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Yes, I stood a near chanceof being tied up to the halberts; but I excused myself by saying, they looked only like raw recruits before; but now they appeared like old veterans of service.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>But you lost your contract I suppose.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Yes, but I soon got another; a shaving Contract to a company of grenadiers.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>'Faith I never knew you practised that business.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Never handled a razor in all my life: I shave by deputy; hired Sam Sickle down from London—an excellent hand! handles a razor like a scythe;—he'll mow you down a regiment of beards in the beating a revally.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Upon my conscience, a pretty way this of working at secondhand. I wish myself could do a little by proxy.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>But come, what say you for something to eat, and a glass of my friend Boulard's wine, and drink his Majesty's health?</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>With all my heart, my dear, and to the two camps if you will.</p>
+               </sp>
+               <sp>
+                  <speaker>Gage.</speaker>
+                  <p>Two?—what two do you mean?</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Why the one at Coxheath, and the other at Drury Lane.</p>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div type="scene">
+               <head>SCENE.—<hi>
+                     <stage>A Grove near the Camp.</stage>
+                  </hi>
+               </head>
+               <stage>
+                  <hi>Enter</hi> TWO COUNTRYMEN.</stage>
+               <sp>
+                  <speaker>First Countryman.</speaker>
+                  <p>I TELL you I will certainly list; I ha' made up my mind on't.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>Well, well, I'll say no more.</p>
+               </sp>
+               <sp>
+                  <speaker>1st. C.</speaker>
+                  <p>Besides the camp lies so convenient, I mayn't have such another opportunity.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>Why its main jolly to be sure and all that
+<pb n="12" facs="13"/>
+so fair. Now if I were to list, I should like hugely to belong to a regiment of horse, and here is one of the grandest troop com'd lately. I see'd two of the officers, mighty delicate looking gentlemen, they were drest quite different from the others; their jackets, indeed, are pretty much the same, but then they wear a sort of petticoat as 'twere, with a large hat and feather, and a mortal sight of hair. I suppose now they are some of your out<lb rend="hidden" type="hyphenInWord"/>landish troops; your foreign Hessians or such like,</p>
+               </sp>
+               <sp>
+                  <speaker>1st. C.</speaker>
+                  <p>Aye, like enough. Here comes the sar<lb rend="hidden" type="hyphenInWord"/>jeant. Ecod he can sing louder than his own drum. Zooks! see how brave they march. Well, walk<lb rend="hidden" type="hyphenInWord"/>ing is a mighty dull way of going after all.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> SERJEANT, DRUMMER, RECRUITS, <hi>&amp;c.</hi>
+               </stage>
+               <sp>
+                  <p>
+                     <floatingText>
+                        <body>
+                           <head>SONG.</head>
+                           <sp>
+                              <speaker>SERJEANT.</speaker>
+                              <lg>
+                                 <lg>
+                                    <l>
+                                       <hi>Great Caesar once renownd in fame,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>For a mighty arm, and a laurel brow,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>With his</hi> VE-NI, VI-DI, VI-CI <hi>came,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>And he conquerd the world with his row dow dow.</hi>
+                                    </l>
+                                 </lg>
+                                 <lg>
+                                    <stage>Chor.</stage>
+                                    <l> 
+                                       <hi>Row, dow, dow; row, dow, dow,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>And he conquerd the world, &amp;c.</hi>
+                                    </l>
+                                 </lg>
+                              </lg>
+                              <lg>
+                                 <lg>
+                                    <l>
+                                       <hi>Then should our vaunting Enemies come,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>And winds, and waves their cause allow,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>By Freedom's Flag we'll beat our drum,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>And they'll fly from the sound of our row, dow, dow.</hi>
+                                    </l>
+                                 </lg>
+                                 <lg>
+                                    <l>
+                                       <hi>Row, dow, dow, &amp;c.</hi>
+                                    </l>
+                                 </lg>
+                              </lg>
+                              <lg>
+                                 <lg>
+                                    <l>
+                                       <hi>Then come my lads, our Bounty share,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>Whose honest hearts British Valour avow,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>In Freedom's cause to Camp repair,</hi>
+                                    </l>
+                                    <l>
+                                       <hi>And follow the beat of my row, dow, dow.</hi>
+                                    </l>
+                                 </lg>
+                                 <lg>
+                                    <l>
+                                       <hi>Row, dow, dow, &amp;c.</hi>
+                                    </l>
+                                 </lg>
+                              </lg>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Serj.</speaker>
+                  <p>Come my lads now is your time to serve the King, and make men of yourselves: Well my lad, what do you say?</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>I canno' leave my farm.</p>
+               </sp>
+               <sp>
+                  <pb n="13" facs="14"/>
+                  <speaker>Serjeant.</speaker>
+                  <p>Your farm?—what would would you plow and sow for the hungry Frenchmen to come and reap. Come my lads! let your fields lie fal<lb rend="hidden" type="hyphenInWord"/>low this year, and I'll insure you double crops ever after. Why now here's a fellow made for a soldier; there's a leg for a spatterdash, with an eye like the King of Prussia.</p>
+               </sp>
+               <sp>
+                  <speaker>1st C.</speaker>
+                  <p>Aye, but serjeant, I hanna' the air.</p>
+               </sp>
+               <sp>
+                  <speaker>Serjeant.</speaker>
+                  <p>The air, O, we'll soon learn you that; why now here's little Ralph; there's a fellow for you, he has not been listed afortnight, and see what a presence—there's dignity! O, there is nothing like the drill for grace.</p>
+               </sp>
+               <sp>
+                  <speaker>1st C.</speaker>
+                  <p>Serjeant, I'm your man.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd C.</speaker>
+                  <p>And so am I.</p>
+               </sp>
+               <sp>
+                  <speaker>Serj.</speaker>
+                  <p>That's right my lads; this is much better than to be dragg'd away like a slave, or be scratch'd off the church door for the militia. Now you have present pay, and the bounty money into the bargain. But come my lads, let me ask you a few questions, and then the business is done.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <floatingText>
+                        <body>
+                           <head>TRIO.</head>
+                           <sp>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>Yet ere you're permitted to list with me,</hi>
+                              </l>
+                              <l>
+                                 <hi>Answer me strait twice questions three.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>1st. C.</speaker>
+                              <l>
+                                 <hi>No lies, master Serjeant, well tell unto you,</hi>
+                              </l>
+                              <l>
+                                 <hi>For tho' we be poor lads we're honest and true.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>First, can you drink well?</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>1st. C.</speaker>
+                              <l>
+                                 <hi>Cheerly, cheerly.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>Each man a gallon?</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>2nd. C.</speaker>
+                              <l>
+                                 <hi>Nearly, nearly.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>Love a sweet wench too?</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Both.</speaker>
+                              <l>
+                                 <hi>Dearly, dearly.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>The answer is honest, bold, and fair;</hi>
+                              </l>
+                              <l>
+                                 <hi>So drink to the King, for his soldiers you are.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Chorus.</speaker>
+                              <l>
+                                 <hi>The answer is honest, &amp;c.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>When bullets are whizzing around your head,</hi>
+                              </l>
+                              <l>
+                                 <hi>You'll boldly march on wherever you're led.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>2nd. C.</speaker>
+                              <l>
+                                 <hi>To death we'll rush forward without delay,</hi>
+                              </l>
+                              <l>
+                                 <hi>If good master serjeant, you'll shew us the way</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <pb n="14" facs="15"/>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>Next, can you swear well?</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>2nd. C.</speaker>
+                              <l>
+                                 <hi>Bluffly, bluffly.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>Handle a frenchman—</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>1st. C.</speaker>
+                              <l>
+                                 <hi>Roughly, roughly.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>Frown at a cannon?</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Both.</speaker>
+                              <l>
+                                 <hi>Gruffly, gruffly.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Ser.</speaker>
+                              <l>
+                                 <hi>The answers are honest, bold, and fair,</hi>
+                              </l>
+                              <l>
+                                 <hi>So drink to the King for his soldiers you are.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Chorus.</speaker>
+                              <l>
+                                 <hi>The answers are honest, &amp;c.</hi>
+                              </l>
+                              <l>
+                                 <hi>Huzza! Huzza! Huzza!</hi>
+                              </l>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> NELL.</stage>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Well said my lads, I am glad to see so many good hearts in the country—O, but was not you saying one of your recruits knows me!</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>O, yes Nell, a lad from suffolk. Hark'ye, where's the Suffolk boy as we call him? O, here he comes.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> NANCY.</stage>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>Ah serjeant, did you not begin to think you had lost me? But come, will you leave me a few minutes with Nelly.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>With all my heart. Come, my lads, let's to the heart of oak, where we'll drink his Ma<lb rend="hidden" type="hyphenInWord"/>jesty's health. <stage>(<hi>Exit singing The answer, &amp;c. and two huzzas.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>Why Nelly, don't you know me?</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Know you? Egad I don't know whether I do or not—sure it can't be—and yet, sure it is Nancy Granger.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>It is her, my dear Nelly, who kisses you now with the truest sense of gratitude for your former kindness and friendship.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>My dear girl—Odso! I must take care of my reputation.—But what in the name, of fancy brings you here, and in this dress child?</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>How can you ask me that question, Nelly? You are no stranger to the love William and I have for each other; a few days would have united us
+<pb n="15" facs="16"/>
+for ever, had not cruel fate separated us; the regiment being ordered to march immediately, no resource was then left, but my flying from my father's house: I procured a dress from one of our neighbours sons, and that love which induced me to forsake my sex, still supports me under e<lb rend="hidden" type="hyphenInWord"/>very affliction. Fortunately, on my way, I met the serjeant, and after some entreaty was inlisted and equipped as you see. What think you Nell? does not my dress become me?</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Yes, indeed, I think you make a smart little soldier.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>Why indeed I am rather under size, but I fancy in action I could do more real execution than those who look bigger, and talk louder. But tell me, my dear Nelly, where is William? I long to see him: Does he ever speak of his poor Nancy? sure he cannot be faithless.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Why really, Nancy, I have some doubts.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>Heavens! is it possible?</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Ah, my poor little soldier, I only did it to try your affection. Your William is true, and wor<lb rend="hidden" type="hyphenInWord"/>thy of your love.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>You have made a greater shock on my spirits than even an army of Frenchmen could have done.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <floatingText>
+                        <body>
+                           <head>AIR.</head>
+                           <l>
+                              <hi>When War's Alarms enticed my Willy from me,</hi>
+                           </l>
+                           <l>
+                              <hi>My fond heart with grief did figh,</hi>
+                           </l>
+                           <l>
+                              <hi>Each fresh remembrance brought fresh sorrow on me;</hi>
+                           </l>
+                           <l>
+                              <hi>I waked ere yet the morn was nigh,</hi>
+                           </l>
+                           <l>
+                              <hi>No other could delight him,</hi>
+                           </l>
+                           <l>
+                              <hi>Ah! why did I ere slight him,</hi>
+                           </l>
+                           <l>
+                              <hi>Cooly answering his fond tale?</hi>
+                           </l>
+                           <l>
+                              <hi>Which drove him far,</hi>
+                           </l>
+                           <l>
+                              <hi>Amid the rage of war,</hi>
+                           </l>
+                           <l>
+                              <hi>And left silly me thus to bewail.</hi>
+                           </l>
+                           <l>
+                              <hi>But I no longer thus, a maid forsaken,</hi>
+                           </l>
+                           <l>
+                              <hi>Nor will I mourn like yonder dove,</hi>
+                           </l>
+                           <l>
+                              <pb n="16" facs="17"/>
+                              <hi>For ere the dawn to-morrow shall awaken,</hi>
+                           </l>
+                           <l>
+                              <hi>I'll go seek my absent love:</hi>
+                           </l>
+                           <l>
+                              <hi>The distant hills all over,</hi>
+                           </l>
+                           <l>
+                              <hi>I'll fly to seek my lover,</hi>
+                           </l>
+                           <l>
+                              <hi>Scorning every threat'ning fear;</hi>
+                           </l>
+                           <l>
+                              <hi>Nor distant shore,</hi>
+                           </l>
+                           <l>
+                              <hi>Nor cannon's loud roar,</hi>
+                           </l>
+                           <l>
+                              <hi>Shall longer keep me from my dear.</hi>
+                           </l>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>But, my dear girl, consider, do you think you can cheerfully go through the toil and fatigue and not repine after your own happy situation you left behind you?</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>O no, I still must love, though I should regret the occassion of our difficulties.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Difficulty?—Why then marry him at the drum head and that will end all your difficulties.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <floatingText>
+                        <body>
+                           <head>AIR.</head>
+                           <lg>
+                              <l>
+                                 <hi>What can our wisest heads provide</hi>
+                              </l>
+                              <l>
+                                 <hi>For the child we doat on dearly;</hi>
+                              </l>
+                              <l>
+                                 <hi>But a merry soul, and an honest heart</hi>
+                              </l>
+                              <l>
+                                 <hi>In a lad who loves her dearly;</hi>
+                              </l>
+                              <l>
+                                 <hi>Who with kisses and chat,</hi>
+                              </l>
+                              <l>
+                                 <hi>And all all that,</hi>
+                              </l>
+                              <l>
+                                 <hi>Will sooth him late and early,</hi>
+                              </l>
+                              <l>
+                                 <hi>If the truth she tell,</hi>
+                              </l>
+                              <l>
+                                 <hi>When she knows him well,</hi>
+                              </l>
+                              <l>
+                                 <hi>She'll swear she loves him dearly.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <l>
+                                 <hi>Let the prude at the name or sight of man,</hi>
+                              </l>
+                              <l>
+                                 <hi>Pretend to rail severely;</hi>
+                              </l>
+                              <l>
+                                 <hi>But alack a day! unseen she'll play</hi>
+                              </l>
+                              <l>
+                                 <hi>With the lad who loves her dearly,</hi>
+                              </l>
+                              <l>
+                                 <hi>Say old men whate'r they will,</hi>
+                              </l>
+                              <l>
+                                 <hi>'Tis a lover still</hi>
+                              </l>
+                              <l>
+                                 <hi>Makes day and night roll cheerly</hi>
+                              </l>
+                              <l>
+                                 <hi>What makes our may</hi>
+                              </l>
+                              <l>
+                                 <hi>All holiday,</hi>
+                              </l>
+                              <l>
+                                 <hi>But the lad we doat on dearly.</hi>
+                              </l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="17" facs="18"/>
+                  <speaker>Nell.</speaker>
+                  <p>Well, my dear Nancy, you must endea<lb rend="hidden" type="hyphenInWord"/>vour to throw off that dress as soon as possible. I'll tell you what, here are some ladies in the camp, who condescend, to notice me, I'll endea<lb rend="hidden" type="hyphenInWord"/>vour to introduce you to them, and they may be of great service to you: in the mean time, should you by chance meet with William, besure you dont discover yourself—Hush! here is the serjeant.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> SERJEANT.</stage>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Why Nelly, how's this? You have had a long conversation together; I began to think you had run away with my new recruit.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>O, there's no great danger serjeant; he's no soldier for me; pray is he perfect in his ex<lb rend="hidden" type="hyphenInWord"/>ercise?</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>O, as handy a lad as ever was: Come, youngster, convince her. <stage>(<hi>Nancy goes through the exercise.</hi>)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Very well indeed: But serjeant, I must beg of you to befriend him as much as you can, for my sake.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Any service in my power you may com<lb rend="hidden" type="hyphenInWord"/>mand, but a soldier's life is not the easiest in the world, so they ought to befriend each other.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <floatingText>
+                        <body>
+                           <head>TRIO.</head>
+                           <l>
+                              <hi>O the joy! when the trumpets sound,</hi>
+                           </l>
+                           <l>
+                              <hi>And the march beats around,</hi>
+                           </l>
+                           <l>
+                              <hi>When the steed tears the ground,</hi>
+                           </l>
+                           <l>
+                              <hi>And shouts to the skies resound,</hi>
+                           </l>
+                           <l>
+                              <hi>On glittering arms the sun-beams playing,</hi>
+                           </l>
+                           <l>
+                              <hi>Heighten the soldier's charms.</hi>
+                           </l>
+                           <l>
+                              <hi>The sife and the roll of the distant drum</hi>
+                           </l>
+                           <l>
+                              <hi>Cry hark! the enemy come!</hi>
+                           </l>
+                           <l>
+                              <hi>To arms! the attack's begun.</hi>
+                           </l>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <trailer>End of ACT I.</trailer>
+         </div>
+         <div n="2" type="act">
+            <pb n="18" facs="19"/>
+            <head>ACT II.</head>
+            <div n="1" type="scene">
+               <head>SCENE I. <stage>A Grove near the Camp.</stage>
+               </head>
+               <stage>
+                  <hi>Enter</hi> NELL, <hi>speaking without.</hi>
+               </stage>
+               <sp>
+                  <p>WILLIAM! come speak to him another time, sure nothing could be more lucky; how<lb rend="hidden" type="hyphenInWord"/>ever, I must obey their ladyship's instructions, and keep him in ignorance, that they may be present at the discovery. Poor fellow, its almost a pity too, when one has it in ones power to make him so happy.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> WILLIAM.</stage>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I am sorry Nell to make you wait, but it was an old friend.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Aye, aye, some one from Suffolk I suppose, who has brought you news of your dear Nancy.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>I wish it had; it's unaccountable that I don't hear from her.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Unaccountable? not at all: I suppose she has changed her mind.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>No Nelly, that's impossible, and you would think so, had you heard how she plighted her faith to me, and vowed, notwithstanding her pa<lb rend="hidden" type="hyphenInWord"/>rents were my enemies, nothing but death should prevent our union.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>O, I beg your pardon; if her father and mother indeed are against you, you need not doubt her constancy. But come, dont be melancholy, I tell you I want to have you stay somewhere near the Inn, and perhaps I may bring you some in<lb rend="hidden" type="hyphenInWord"/>telligence of her.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>How! dear Nell?</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Tho' Indeed I think you are very fool<lb rend="hidden" type="hyphenInWord"/>ish to plague yourself so, for even had Nancy loved you well enough to have carried your knap<lb rend="hidden" type="hyphenInWord"/>sack, you would have been very imprudent to have suffered her.</p>
+               </sp>
+               <sp>
+                  <pb n="19" facs="20"/>
+                  <speaker>Will.</speaker>
+                  <p>Aye, but prudence, you know, is not a soldiers virtue. Its our business to hold life itself cheap, much more the comforts of it. Shew me a young fellow in our regiment who, if he gains the heart of a worthy girl, and afraid to marry her for want of a little wealth, I would have him drummed out of the regiment for discretion.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Very fine! but must not the poor girl share in all your fatigues and mishaps.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>There Nell I own is the objection, but tenderness and affection may soften even these; yet if my Nancy ever makes the trial, though I may not be able to prevent her from undergoing hardships, I am sure my affection will make her wonder at their being called so; I wish I could once boast that the experiment was made.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <floatingText>
+                        <body>
+                           <head>AIR.</head>
+                           <l>
+                              <hi>My Nancy quits the rural train</hi>
+                           </l>
+                           <l>
+                              <hi>A camp's distress to prove,</hi>
+                           </l>
+                           <l>
+                              <hi>All other ills she can sustain,</hi>
+                           </l>
+                           <l>
+                              <hi>But living from her love.</hi>
+                           </l>
+                           <l>
+                              <hi>Yet, dearest, tho' your Soldier's there,</hi>
+                           </l>
+                           <l>
+                              <hi>Would not your spirits fail,</hi>
+                           </l>
+                           <l>
+                              <hi>To mark the hardships you must share,</hi>
+                           </l>
+                           <l>
+                              <hi>Dear Nancy of the dale.</hi>
+                           </l>
+                           <l>
+                              <hi>Or should you, love, each danger share,</hi>
+                           </l>
+                           <l>
+                              <hi>Ah! how shall I secure,</hi>
+                           </l>
+                           <l>
+                              <hi>Your health, 'mid toils which you are born</hi>
+                           </l>
+                           <l>
+                              <hi>To soothe, but not endure,</hi>
+                           </l>
+                           <l>
+                              <hi>A thousand perils I must view,</hi>
+                           </l>
+                           <l>
+                              <hi>A thousand ills assail,</hi>
+                           </l>
+                           <l>
+                              <hi>Nor must I tremble e'en for you,</hi>
+                           </l>
+                           <l>
+                              <hi>Dear Nancy of the dale.</hi>
+                           </l>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <head>SCENE II.— <stage>An open View near the Camp.</stage>
+               </head>
+               <stage>
+                  <hi>Enter</hi> O DAUB;</stage>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Well, to be sure this same Camp is a pretty place with their drums, and their fifes and
+<pb n="20" facs="21"/>
+their gigs and their marches, and their Ladies in their regimentals; upon my conscience I believe they'd form a troop of side-saddle cavalry if there was any hopes of an invasion. But now I am alone by myself, tis time I should be after taking my plan; and here I see are some of my directions for it. <stage>(<hi>pulls out a pocket book and pencil.</hi>)</stage> I cant think what it is makes my hand shake so, unless it is Mr. Blaud's wine that is got into my head: so, so! Let me study my orders a little, for I am not used to this business, O. P. and P. S. Who the devil is to understand that? O! here is the explanation: P. S. the prompter's side, and O. P. opposite the prompter. So I'm to mark down the view as it is to be taken on one side, and the other. Very well: P. S. and O. P. Let me see Somewhere hereabout is certainly the best point to take it from. <stage>(<hi>retires.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> SERJEANT <hi>and the</hi> TWO COUNTRYMEN.</stage>
+               <sp>
+                  <speaker>1st. Countryman.</speaker>
+                  <p>There you rogues, there he is!</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>Aye aye, that's him sure enough, I have seen him skulking about these two days, if he ben't a spy I'll suffer hanging.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>He certainly must be a spy by his drawing figures.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>Do seize on him or the whole camp may be blown up before we are aware!</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Prompter's side.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Hush! we shall convict him out of his own mouth.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>O yes, the star and garter must certainly be P. S.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>P. S. What the devil does he say?</p>
+               </sp>
+               <sp>
+                  <speaker>2nd C.</speaker>
+                  <p>Treason you may be sure, by your not understanding him.</p>
+               </sp>
+               <sp>
+                  <speaker>O. Daub.</speaker>
+                  <p>And then O. P. will have the advan<lb rend="hidden" type="hyphenInWord"/>tage.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>O. P. That's the old Pretender. A damn'd Jacobite spy, my life on't.</p>
+               </sp>
+               <sp>
+                  <pb n="21" facs="22"/>
+                  <speaker>1st. C.</speaker>
+                  <p>And P. S. is Prince Charles, I suppose.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>No, you fool; P. S. is the Pretender's Son.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>Aye, aye, like enough</p>
+               </sp>
+               <sp>
+                  <speaker>O. Daub.</speaker>
+                  <p>Memorandum—the officers tents are in the rear of the line.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>Mark that.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>
+                     <hi>N B.</hi> the Generals tents are all houses.</p>
+               </sp>
+               <sp>
+                  <speaker>1st. C.</speaker>
+                  <p>Remember that.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Then the park of Artillery; I shall never make any thing of that. Oh! the devil burn the park of artillery!</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>There's a villain! He'll burn the park of artillery will he?</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Well faith this camp is easier taken than I thought it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Is it so, you rogue? but you shall find the difference on't. O, what a providential discovery!</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>To besure the people will like it much, and in the course of the winter it may surprise his majesty.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>O, the villain! seize him directly—Fellow, you are a dead man if you stir!—We seize you Sir as a spy.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>A spy—phoo, phoo; get about your business.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Bind him, and blinfold him if he resists.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>Aye, blindfold him for certain, and search him too; I dare say his pockets are crouded with powder, matches, and tinder-boxes at every corner.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Tunder and owns! what do you mean?</p>
+               </sp>
+               <sp>
+                  <speaker>1st. C.</speaker>
+                  <p>Hold him fast</p>
+               </sp>
+               <sp>
+                  <speaker>O. Daub.</speaker>
+                  <p>Why here's some ladies coming, who know me. Here's Lady Sarah Sash, and Lady Plume, who were at the Fete-Champetre, and will give me a good character.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Why, villain, your papers have proved you a spy, and sent by the old Pretender.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>O Lord! O Lord! I never saw the old gentleman in all my life.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Why, you dog, did'n't you say the camp
+<pb n="22" facs="23"/>
+was easier taken than you thought it was.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>Aye, deny that.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>And that you would burn the artillery and surprise his majesty—so come, you had better confess before you are hanged.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Hanged for a spy? O, to besure my<lb rend="hidden" type="hyphenInWord"/>self is got into a pretty scrape.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Bring him away; but blindfold him, the dog shall see no more.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>I'll tell you what, Mr. soldier, or Mr. Sarjeant, or what the devil's your name, upon my conscience and soul I'm nothing at all but an Irish painter employed by Monsieur Lanternburg,</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>There, he has confessed himself a foreigner, and employed by Marshal Leatherbag.</p>
+               </sp>
+               <sp>
+                  <speaker>2nd. C.</speaker>
+                  <p>Oh, he'll be convicted by his tongue. You may swear he is a foreigner by his lingo.</p>
+               </sp>
+               <sp>
+                  <speaker>1st. C.</speaker>
+                  <p>Bring him away. I long to see him hanging.</p>
+               </sp>
+               <sp>
+                  <speaker>O Daub.</speaker>
+                  <p>Tunder and wounds! If I am hanged what will become of the theatre and the mana<lb rend="hidden" type="hyphenInWord"/>gers; and the devil fly away with you all together for a parcel of red black-guards! <stage>(<hi>They hurry him off.</hi>)</stage>
+                  </p>
+               </sp>
+            </div>
+            <div type="scene">
+               <head>SCENE— <stage>Part of the Camp.</stage>
+               </head>
+               <stage>
+                  <hi>Enter,</hi> LADY GORGET, LADY SASH, <hi>and</hi> LADY PLUME.</stage>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>O! my dear lady Sash, indeed you are too severe; and I'm sure if Lady Gorget had been here she would have been of my opinion.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>Not in the least.</p>
+               </sp>
+               <sp>
+                  <speaker>Lady Plume.</speaker>
+                  <p>You must know, she has been rally<lb rend="hidden" type="hyphenInWord"/>ing my poor brother, Sir Harry Bouquet, for not being in the militia, and so ill-naturedly.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>So he should indeed; but all I said was, he looked so french and so finical, that I thought he ran a risque of being mistaken for another female chevalier.</p>
+               </sp>
+               <sp>
+                  <pb n="23" facs="24"/>
+                  <speaker>L. Plume.</speaker>
+                  <p>Yet, you must confess, that our situ<lb rend="hidden" type="hyphenInWord"/>ation is open to a little raillery: A few elegan<lb rend="hidden" type="hyphenInWord"/>cies of accomodation are considerably wanting, though one's toilet, as Sir Harry says, is not abso<lb rend="hidden" type="hyphenInWord"/>lutely spread on a drum-head.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>He vows there is an eternal confusion between stores military, and millinery; such a description he gives—On one shelf, cartriges and and cosmetics, pouches and patches; here a stand of arms, there a file of black pins; in one drawer bullet-moulds and essence-bottles, pistols and twee<lb rend="hidden" type="hyphenInWord"/>zer cases, with battle-powder mixed with mare<lb rend="hidden" type="hyphenInWord"/>chelle.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Gorget.</speaker>
+                  <p>O, the malicious creature!</p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>But pray, Lady Sash, don't renew it, for see here comes Sir Harry to join us.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> SIR HARRY BOUQUET.</stage>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Now, Lady Sash, I beg a truce; Lady Gorget I am rejoiced to see you at this de<lb rend="hidden" type="hyphenInWord"/>lectable spot, where Lady Plume, you may be amused with such a dismal variety.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Gorget.</speaker>
+                  <p>You see, Lady Plume, he perseveres.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>I assure you, Sir Harry, I should have been against you in your raillery.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Now as Gad's my judge, I admire the place; here's all the pride, pomp, and circum<lb rend="hidden" type="hyphenInWord"/>stance of glorious war! Mars in a vis-a-vis, and Bellona giving a Fete-Champetre.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>But now, seriously brother, what can make you judge so indifferently of the camp from any body else?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Why seriously then, I think it the worst planned thing I ever beheld, for instance now, the tents are all ranged in a strait line, now Lady Gorget, can any thing be worse than a strait line; and is not there a horrid uniformity in their infinite vista of canvas? no curve, no break, and the avenue of marquees abominable.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>O, to be sure a circus or a crescent would have been vastly better.</p>
+               </sp>
+               <sp>
+                  <pb n="24" facs="25"/>
+                  <speaker>L. Gorget.</speaker>
+                  <p>What a pity Sir Harry was not consulted.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>As Gad's my judge I think so; for there is great capability in the ground.</p>
+               </sp>
+               <sp>
+                  <speaker>Lady Sash.</speaker>
+                  <p>A camp cognoscenti possitively, Sir Harry, we will have you publish a treatise on military virtue.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Very well, but how will you excuse this; the officer's tents are close to the common soldiers; what an arrangment is that now? If I might have advised, there certainly should have been one part for the canaille, and the west end of the camp for the noblesse and persons of a certain rank.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Gorget.</speaker>
+                  <p>Very right. I dare say you would have thought of proper marquees for hazard and quinze.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>To be sure, with festino tents, and opera pavilions.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Gad, the only plan that could make it supportable for a week; Well, certainly the great<lb rend="hidden" type="hyphenInWord"/>est defect in a general is want of taste.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash</speaker>
+                  <p>Undoubtedly, and conduct, discipline, and want of humanity, are no atonements for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>None in nature.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>But, Sir Harry, it is rather unlucky that the military spirit is so universal, for you will hardly find one to side with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Universal indeed; and the ridicule of it is to see how this madness had infected the whole road from Maidstone to London; the camp jargon is as current all the way as bad silver; the very postillions that drive you talk of their cavalry, and refuse to charge on a trot up the hill, the turnpikes seem converted into redoubts, and the dogs demanded the countersign of my servants, insteed of the tickets; then when I got to Maid<lb rend="hidden" type="hyphenInWord"/>stone I found the very waiters had got a smattering of tactics, for enquiring what I could have for dinner, a cursed drilled waiter, after reviewing his bill of fare, with the air of a field marshal,
+<pb n="25" facs="26"/>
+proposed an advanced party of soup and bouille to be followed by the main body of ham and chic<lb rend="hidden" type="hyphenInWord"/>kens, flanked by a fricasee, with sallads in the in<lb rend="hidden" type="hyphenInWord"/>tervals and corps de reserve of sweetmeats, and whipt syllabubs to form a hollow square in the centre:</p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>Ha! ha! ha! Sir Harry, I am very sorry you have so strong a dislike to every thing militaty; for unless you would contribute to the fortune of our little recruit—</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>O madam, most willingly; and very apropos here comes your ladyship's protagec, and has brought I see the little recruit, as you desired.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> NELL <hi>and</hi> NANCY.</stage>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Here Nancy make your curtsey, or your bow to the ladies, who have so kindly promised you protection.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>Simple gratitude is the only return I can make, but I am sure the ladies who have hearts to do so good natured a deed, will excuse my not be<lb rend="hidden" type="hyphenInWord"/>ing able to answer them as I ought.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>She means, an' please your ladyships, that she will always acknowledge your ladyships good<lb rend="hidden" type="hyphenInWord"/>ness to the last hour of her life, and, as in duty bound, will ever pray for your ladyships happiness and prosperity. That's what you mean, you know. <stage>(<hi>aside to Nancy.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>Very well: But, Nancy, are you satisfied that your soldier shall continue in his duty.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>O yes, your ladyship, she's quite satisfied.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>Well child, we're all your friends, and be assured your William shall be no sufferer by his constancy.</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>There Nancy, say something.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>But are you sure you will be able to bear the hardships of your situation. <stage>(<hi>retires up with Nancy.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>
+                     <stage>(<hi>to Nell.</hi>)</stage> You have seen him then?</p>
+               </sp>
+               <sp>
+                  <pb n="26" facs="27"/>
+                  <speaker>Nell.</speaker>
+                  <p>O, yes, your ladyship.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>Go and bring him here. <stage>(<hi>Exit Nell.</hi>)</stage> Sir Harry we have a little plot, which you must assist us in.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>
+                     <stage>(<hi>Coming forward with Lady Sash</hi>)</stage> O, madam, most willingly.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <floatingText>
+                        <body>
+                           <head>SONG.</head>
+                           <lg>
+                              <l>
+                                 <hi>The fife and drum sounds merrily,</hi>
+                              </l>
+                              <l>
+                                 <hi>A soldier, a soldier's the lad for me;</hi>
+                              </l>
+                              <l>
+                                 <hi>With my true love I soon shall be;</hi>
+                              </l>
+                              <l>
+                                 <hi>For who so kind, so true as he;</hi>
+                              </l>
+                              <l>
+                                 <hi>With him in every toil I'll share,</hi>
+                              </l>
+                              <l>
+                                 <hi>To please him shall be all my care;</hi>
+                              </l>
+                              <l>
+                                 <hi>Each peril I'll dare, all hardship I'll bear,</hi>
+                              </l>
+                              <l>
+                                 <hi>For a soldier, a soldier's the lad for me.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <l>
+                                 <hi>Then if kind heaven preserve my love,</hi>
+                              </l>
+                              <l>
+                                 <hi>What rapturous joys shall Nancy prove?</hi>
+                              </l>
+                              <l>
+                                 <hi>Swift through the camp shall my footsteps bound,</hi>
+                              </l>
+                              <l>
+                                 <hi>To meet my William with conquest crown'd,</hi>
+                              </l>
+                              <l>
+                                 <hi>Close to my faithful bosom prest,</hi>
+                              </l>
+                              <l>
+                                 <hi>Soon shall he hush his cares to rest;</hi>
+                              </l>
+                              <l>
+                                 <hi>Clasp'd in these arms, forget wars alarms,</hi>
+                              </l>
+                              <l>
+                                 <hi>For a soldier, a soldier's the lad for me.</hi>
+                              </l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>Now Nancy, you must be ruled by us.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>As I live there's my dear William!</p>
+               </sp>
+               <sp>
+                  <speaker>L. Plume.</speaker>
+                  <p>Turn from him—you must.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>O, I shall discover myself—I tremble so unlike a soldier.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> NELL <hi>with</hi> WILLIAM.</stage>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Why I tell you, William, the ladies want to ask you some questions.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry,</speaker>
+                  <p>Honest corporal, here's a little recruit, son to a tenant of mine, and, as I am told, you are an intelligent young fellow, I mean to put him under your care.</p>
+               </sp>
+               <sp>
+                  <pb n="27" facs="28"/>
+                  <speaker>Will.</speaker>
+                  <p>What that boy, your honour? Lord bless you sir, I shall never be able to make any thing of him.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>
+                     <stage>(<hi>aside.</hi>)</stage> I am sorry for that,</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>Nay corporal, he's very young,</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>He is under-size, my lady, such a stripling is fitter for a drummer than a rank and file.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>But he's straight and well made.</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>I wish I was ordered to right about.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Well I'll do all in my power to oblige your ladyship. Come youngster, turn about—ah, Nelly!—tell me, is't not she?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Why don't you march him off?</p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>Is he undersize corporal? O, you block-head!</p>
+               </sp>
+               <sp>
+                  <speaker>Nancy.</speaker>
+                  <p>O ladies pray excuse me!—My dear William! <stage>(<hi>runs in his arms.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Nell.</speaker>
+                  <p>They'll never be able to come to an expla<lb rend="hidden" type="hyphenInWord"/>nation before your ladyships—Go, go and talk by yourselves. <stage>(<hi>they retire up the stage.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> SERJEANT, <hi>two</hi> COUNTRYMEN, <hi>Fife &amp;c.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Please your ladyships, we have taken a sort of a spy this morning, who has the assurance to deny it, tho' he confesses himself an Irish painter. I have undertaken however to bring this letter from him to lady Sarah Sash.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir. Harry.</speaker>
+                  <p>What appears against him?</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>A great many suspicious circumstances, please your honour; he has an O before his name, and we took him with a draught of the camp in his hand.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>Ha, ha ha! this is ridiculous enough, 'tis O Daub, the Irish painter, who diverted us sometime ago at the Fete-Champetre. Honest ser<lb rend="hidden" type="hyphenInWord"/>jeant we'll see your prisoner, and I fancy you may release him.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Pray serjeant what's to be done this evening?</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>The line, your honour, turns out, and as there are pleasure tents pitched, perhaps the ladies
+<pb n="26" facs="29"/>
+                     <gap resp="#oxf" extent="1 page" rend="content:〈1 page duplicate〉">
+                        <desc>duplicate</desc>
+                     </gap>
+                     <pb n="27" facs="30"/>
+                     <gap resp="#oxf" extent="1 page" rend="content:〈1 page duplicate〉">
+                        <desc>duplicate</desc>
+                     </gap>
+                     <pb n="28" facs="31"/>
+will condescend to hear a march and chorus, which some recruits are practising against his majesty comes to the camp.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>Come Sir Harry, you'll grow fond of a camp life yet.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Your ladyships will grow tired of it first I'll answer for it.</p>
+               </sp>
+               <sp>
+                  <speaker>L. Sash.</speaker>
+                  <p>No, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Harry.</speaker>
+                  <p>Yes, on the first bad weather you'll give orders to strike your tents and toilets, and secure a retreat at Tunbridge.</p>
+               </sp>
+               <stage>A march while the scene changes to a View of the Camp.</stage>
+               <sp>
+                  <p>
+                     <floatingText>
+                        <body>
+                           <head>FINALE.</head>
+                           <sp>
+                              <speaker>SERJEANT.</speaker>
+                              <l>
+                                 <hi>While the loud voice of war resounds from afar,</hi>
+                              </l>
+                              <l>
+                                 <hi>Songs of duty and triumph we'll pay;</hi>
+                              </l>
+                              <l>
+                                 <hi>When our Monarch appears, we'll give him three cheers,</hi>
+                              </l>
+                              <l>
+                                 <hi>With huzza! huzza! huzza!</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>NANCY.</speaker>
+                              <l>
+                                 <hi>Ye sons of the field, whose bright valour's your shield,</hi>
+                              </l>
+                              <l>
+                                 <hi>Love and beauty your toils shall repay;</hi>
+                              </l>
+                              <l>
+                                 <hi>Inspir'd by the charms, of wars fierce alarms,</hi>
+                              </l>
+                              <l>
+                                 <hi>Huzza! huzza! huzza!</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>WILLIAM.</speaker>
+                              <l>
+                                 <hi>Inspir'd by my love all dangers I'll prove,</hi>
+                              </l>
+                              <l>
+                                 <hi>No perils shall William dismay;</hi>
+                              </l>
+                              <l>
+                                 <hi>In wars fierce alarms, inspir'd by those charms,</hi>
+                              </l>
+                              <l>
+                                 <hi>Huzza! huzza! huzza!</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>CHORUS.</speaker>
+                              <l>
+                                 <hi>May true glory still wave her bright banners around,</hi>
+                              </l>
+                              <l>
+                                 <hi>Still with fame, pow'r &amp; freedom old England be crown'd.</hi>
+                              </l>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

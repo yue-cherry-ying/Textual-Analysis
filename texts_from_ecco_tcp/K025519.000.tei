@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech delivered by Robert Jephson, Esq; on the 11th of February, 1774, in the debate on the committing heads of a bill, for "the better encouragement of persons professing the Popish religion to become Protestants, and for the further improvement of the kingdom." John Foster, Esq; in the chair:</title>
+            <author>Jephson, Robert, 1736-1803.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K025519.000</idno>
+            <idno type="docno">CW3324579917</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech delivered by Robert Jephson, Esq; on the 11th of February, 1774, in the debate on the committing heads of a bill, for "the better encouragement of persons professing the Popish religion to become Protestants, and for the further improvement of the kingdom." John Foster, Esq; in the chair:</title>
+                  <author>Jephson, Robert, 1736-1803.</author>
+               </titleStmt>
+               <extent>viii,32p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>Dublin :</pubPlace>
+                  <publisher>printed by James Hoey, Jun.,</publisher>
+                  <date>1774.</date>
+                  <idno type="TCP">K025519.000</idno>
+                  <idno type="docno">CW3324579917</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT11231.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE SPEECH DELIVERED BY ROBERT JEPHSON, <abbr>Esq</abbr> On the 11th of FEBRUARY, 1774, In the Debate on the COMMITTING HEADS OF A BILL, FOR <q>The better Encouragement of Per<lb rend="hidden" type="hyphenInWord"/>sons professing the <hi>Popish Religion</hi> to become <hi>Protestants,</hi> and for the further Improvement of the Kingdom.</q>
+            </p>
+            <p>JOHN FOSTER, <abbr>Esq</abbr> in the Chair.</p>
+            <p>DUBLIN: PRINTED BY JAMES HOEY, JUN. AT THE MERCURY IN PALIAMENT-STREET. M,DCC,LXXIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="totheeditor">
+            <pb facs="2"/>
+            <head>To the Editor.</head>
+            <opener>
+               <salute>Mr. HOEY,</salute>
+            </opener>
+            <p>HAVING, through your in<lb rend="hidden" type="hyphenInWord"/>dulgence, perused a manu<lb rend="hidden" type="hyphenInWord"/>script, which, from its substance, should become the property of the public; it is a great satisfaction, to find that the Author hath been
+<pb n="iv" facs="3"/>prevailed upon to yield it up.— No subject can be more important, than one which involves the happi<lb rend="hidden" type="hyphenInWord"/>ness of our country: none in which mistakes can be more fatal.—The <hi>internal</hi> interests of IRELAND, lye within a small compass; the employ<lb rend="hidden" type="hyphenInWord"/>ment of our people in useful indus<lb rend="hidden" type="hyphenInWord"/>try, and security to individuals in the pursuit of it. On this principle it was, that our <hi>penal laws,</hi> became lately a matter of consideration in our own HOUSE OF COMMONS, and certainly no subject at present, re<lb rend="hidden" type="hyphenInWord"/>quires to be more fully discussed.—
+<pb n="v" facs="4"/>One gentleman in particular, distin<lb rend="hidden" type="hyphenInWord"/>guished himself in the debate, and pronounced the Speech, now happily drawn (through your hands) from the Shades of the closet. On the day of its being delivered, it made an impression, where impression should begin. The contents flew rapidly from the House to the people, and became the principal topic of every conversation. The Speaker's great powers gave splendor to argu<lb rend="hidden" type="hyphenInWord"/>ment, and suspicion could not fall on eloquence, when it was seen that every ray of illumination, converged
+<pb n="vi" facs="5"/>to a single point; to the good of his country.——Taking political philo<lb rend="hidden" type="hyphenInWord"/>sophy for his guide, he could not lose his way;—in that way he could not walk alone, but collected the united powers of the heart and head, to lead others <hi>into it.</hi> His abun<lb rend="hidden" type="hyphenInWord"/>dance bore on his hearers, like a torrent, which confirmed habits of thinking could hardly resist.— He shewed; he proved, that the prosperity of this nation can never be obtained from the depression of two thirds of the people, born to labour, and who must be destitute
+<pb n="vii" facs="6"/>of every convenience of life without it.—That the improvement of this country cannot be expected from men virtually forbid by law <hi>to em<lb rend="hidden" type="hyphenInWord"/>prove</hi>; from men limited in landed tenures, and from tenures limited in profit.</p>
+            <p>BUT the truths delivered, and the truths implied in the Speech itself, must come very faintly from the delineation of a common hand. They will be exhibited by you, Sir, in their full lustre, from the colouring of a great master, who has already freed some, from the captivity of pre<lb rend="hidden" type="hyphenInWord"/>occupation,
+<pb n="viii" facs="7"/>and taught them to sub<lb rend="hidden" type="hyphenInWord"/>stitute knowledge to opinion; as a preliminary to the substitution of confidence to jealousy.—This surely is beginning well, before the pre<lb rend="hidden" type="hyphenInWord"/>scription of necessity comes too late, for re-establishing a sickly public.</p>
+            <closer>
+               <signed>I am, Sir, Your very humble servant, C. O'CONOR.</signed>
+               <dateline>
+                  <date>April 2d, 1774.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb facs="8"/>
+            <head>A SPEECH, &amp;c.</head>
+            <opener>
+               <salute>Mr. FORSTER,</salute>
+            </opener>
+            <p>THE Question at present before us may be considered in two lights, either as a scheme for induc<lb rend="hidden" type="hyphenInWord"/>ing Papists to contribute to the
+<pb n="2" facs="9"/>population and improvement of corporate towns, by allowing them to take lots for building; or, to the cultivation of the country in general, by permitting them to have small portions of land, with a more advantageous tenure in their leases than they were before entitled to, from the circumscriptions they labour under, in consequence of the several statutes in force against them: or, the Bill may be consi<lb rend="hidden" type="hyphenInWord"/>dered as one step towards the par<lb rend="hidden" type="hyphenInWord"/>tial repeal of a body of laws, which
+<pb n="3" facs="10"/>have been esteemed by some, as one of the principal barriers of our civil and religious constitutions.</p>
+            <p>IN the first view, 'tis certainly an object of some consequence; in the second, of the utmost mag<lb rend="hidden" type="hyphenInWord"/>nitude. —The arguments which have been offered in favour of the Bill, as an expedient for ef<lb rend="hidden" type="hyphenInWord"/>fecting the desirable purpose held forth in it's title, and in the con<lb rend="hidden" type="hyphenInWord"/>templation of my worthy friend <note>place="foot" N="*" H—s L—she, Esq.</note> who introduced it, have been
+<pb n="4" facs="11"/>sufficient to convince me, that, there is no danger of prejudice to the established interest of Ireland by our passing it into a law: espe<lb rend="hidden" type="hyphenInWord"/>cially, when there are such prudent regulations in regard to the power of devise: therefore, Sir, I shall not take up your time by a repetition of reasons which you have heard already, with much greater weight to the same point, from other gen<lb rend="hidden" type="hyphenInWord"/>tlemen; but I beg your indulgence, while I deliver my sentiments on this subject in a more comprehensive
+<pb n="5" facs="12"/>view than it will admit of, if con<lb rend="hidden" type="hyphenInWord"/>tracted to the narrow bottom of the first simple consideration.</p>
+            <p>As I intend to give my vote in favour of the Bill, 'tis a great sa<lb rend="hidden" type="hyphenInWord"/>tisfaction to me, to find it admitted on all sides, that, the laws of Ireland against Popery are in many respects inconsistent with true religion and rectitude, not to be justified in se<lb rend="hidden" type="hyphenInWord"/>veral instances on spiritual or moral principles, but as they first sprung from necessity, can best be sup<lb rend="hidden" type="hyphenInWord"/>ported
+<pb n="6" facs="13"/>by the predominancy of that plea only.</p>
+            <p>THERE is, Sir, no principle of natural justice more clear, no pre<lb rend="hidden" type="hyphenInWord"/>cept of moral policy more evident, than, that the rigour of penal sta<lb rend="hidden" type="hyphenInWord"/>tutes ought not to extend beyond the bounds absolutely necessary for the maintenance and good order of society; when they transgress such limits, every foundation of reliance between the legislature and the people, is shaken: such laws be<lb rend="hidden" type="hyphenInWord"/>come
+<pb n="7" facs="14"/>the terror, not the protection of the subject; he walks under them, not as under the friendly roof which is to shelter him from the furious storm of wild unbridled outrage, but, like the tottering wall that every moment may crush him by its casual ruin; accident, not justice, is his deliverer; nor can he boast, that, committing no offence, he fear<lb rend="hidden" type="hyphenInWord"/>ed no punishment; his miserable consolation is, that, with innocence at his side, he had the good for<lb rend="hidden" type="hyphenInWord"/>tune to escape it.—As natural
+<pb n="8" facs="15"/>justice is the principle, common be<lb rend="hidden" type="hyphenInWord"/>nefit is the end of state penalties. Let the dreary tracts of desolate and uncultivated territory, in every pro<lb rend="hidden" type="hyphenInWord"/>vince of your kingdom, proclaim how this end has been defeated by your penal statutes against Popery; the husbandman will not turn up the earth, nor the sower put down the grain, when they know another is to reap the fruits of their toil and industry.—Blessed, Sir, as this island is by fertility of soil and tem<lb rend="hidden" type="hyphenInWord"/>perature of climate, we have often
+<pb n="9" facs="16"/>endeavoured to investigate the causes of its partial barrenness and depo<lb rend="hidden" type="hyphenInWord"/>pulation. Sometimes we complain, that our relative and dependent situ<lb rend="hidden" type="hyphenInWord"/>ation on a too powerful neighbour, has dried up the springs of industry; sometimes we say, the rigorous ex<lb rend="hidden" type="hyphenInWord"/>actions of our landlords damp all vigour and exertion in the in<lb rend="hidden" type="hyphenInWord"/>ferior classes of our peasantry: and sometimes, with listless despondency, we supinely acquiesce under the lazy reproach of national sloth and inac<lb rend="hidden" type="hyphenInWord"/>tivity: but, we carefully avert our
+<pb n="10" facs="17"/>eyes from these acts of our fore<lb rend="hidden" type="hyphenInWord"/>fathers, more prohibitory than the jealous and illiberal policy of a sister country, more fraught with oppression than the unfeeling rapa<lb rend="hidden" type="hyphenInWord"/>city of our many-acred landholders, more productive of inertness than the unmerited character of national indolence.</p>
+            <p>WE must speak with deference of these laws, while they are yet in being; but, were they once annul<lb rend="hidden" type="hyphenInWord"/>led, humanity would exult over
+<pb n="11" facs="18"/>their abrogation: it would say, they were unlike all other legal promul<lb rend="hidden" type="hyphenInWord"/>gations; not the bridle, but the spur to wickedness; tempting, not re<lb rend="hidden" type="hyphenInWord"/>straining the most dangerous passi<lb rend="hidden" type="hyphenInWord"/>ons; encouraging, not chastising the worst transgressions. The jurispru<lb rend="hidden" type="hyphenInWord"/>dence of other civilized governments knows them not; the universal in<lb rend="hidden" type="hyphenInWord"/>stinct of nature disclaims them. Can the partial code of any community, or of the greatest nation, drown the universal voice of nature; or can volumes of parchment confront her
+<pb n="12" facs="19"/>ordinances? Divine and natural pre<lb rend="hidden" type="hyphenInWord"/>cepts say, <q> Honour him who gave you being:</q>the popery laws of Ireland say, <q> Betray and beggar him.</q> —To knit more closely the endearing ties of private faith and of domestic security, has been the fa<lb rend="hidden" type="hyphenInWord"/>vourite aim of every polished legis<lb rend="hidden" type="hyphenInWord"/>lature: this angry code makes them the objects of scrutiny, and the prey of the informer: it ransacks the oeconomy of families, excites the in<lb rend="hidden" type="hyphenInWord"/>terest of the son against his filial duty, converts the brother into a
+<pb n="13" facs="20"/>spy; nay, the marriage-bed (that last assylum of repose and tenderness) it disturbs with perpetual apprehen<lb rend="hidden" type="hyphenInWord"/>sions of discovery and separation.</p>
+            <p>IT is a maxim, Sir, and a sound one, that the strict execution of every unrepealed law, is the part of clemency and wisdom. How is this consistent with our policy? The pledge of our security, we are told, is, that these laws may be always put in execution; the boast of our humanity is, that they are seldom
+<pb n="14" facs="21"/>executed. For my part, Sir, I know little disference between the appre<lb rend="hidden" type="hyphenInWord"/>hension and the existence of a dan<lb rend="hidden" type="hyphenInWord"/>ger. The worst of every evil is the fear. I would rather be pierced at once to the Heart, than have the sword of the tyrant for ever suspend<lb rend="hidden" type="hyphenInWord"/>ed over me.</p>
+            <p>THERE is also, Sir, another maxim, equally incontrovertible with the former. That, clemency ought rather to reside in a body of laws, than in the private feeling of
+<pb n="15" facs="22"/>any individual. Our penal system against Popery is harsh and restric<lb rend="hidden" type="hyphenInWord"/>tive to the utmost extent of unsan<lb rend="hidden" type="hyphenInWord"/>guinary rigour. It rises statute after statute, and clause after clause, to the consummation of legislative severity. The unhappy objects of this code are sometimes obliged to the inadvertency, sometimes to the indolence, often to the humanity of their orthodox brethren; but the letter and spirit of the edict are their deadly enemies, and under this sanc<lb rend="hidden" type="hyphenInWord"/>tion, interest, or revenge, caprice or
+<pb n="16" facs="23"/>malignity may gorge and riot to the sating of every appetite.</p>
+            <p>It is true, Sir, our market places don't as formerly blaze with the fires of martyrdom, scaffolds do not reek with noble blood, nor are gibbets loaded with human carcasses; and as the bloody spirit of past times is spent, so is the enthusiastic. Bigo<lb rend="hidden" type="hyphenInWord"/>try, the disease of weak minds, and superstition, the disgrace of true piety, are now rarely to be found, even in convents or in cloysters,
+<pb n="17" facs="24"/>though they abound in the annals of former ages, but not in our expe<lb rend="hidden" type="hyphenInWord"/>rience, nor amongst our contempo<lb rend="hidden" type="hyphenInWord"/>raries. What is the complaint of churchmen all over Europe? not, that the laity are wedded to parti<lb rend="hidden" type="hyphenInWord"/>cular tenets and doctrines, and are ready with unshaken constancy to commute the world for conscience; but that Religion has lost it's strong grasp on the minds of all men, and that decency, or custom at best, are become it's lukewarm substitutes. The reason, Sir, is obvious. The
+<pb n="18" facs="25"/>pompous glare and pageantry of the Romish ritual were well calculated for the ages of ignorance and dark<lb rend="hidden" type="hyphenInWord"/>ness, when it had greatest preva<lb rend="hidden" type="hyphenInWord"/>lence. Captivated by gawdy pro<lb rend="hidden" type="hyphenInWord"/>cessions, and allured by the enchant<lb rend="hidden" type="hyphenInWord"/>ments of harmony, the delusion of the senses was often mistaken for the conviction of the understanding; and as it answered every purpose of a proud and ambitious hierarchy, was long substituted for, and made the test of devotion. But these sacred sarces have been too often
+<pb n="19" facs="26"/>exhibited, the very externals of re<lb rend="hidden" type="hyphenInWord"/>spect to these pious mummeries are now enforced by the secular autho<lb rend="hidden" type="hyphenInWord"/>rity; nor can the supposed real pre<lb rend="hidden" type="hyphenInWord"/>sence of the Deity, that most exalted mystery of their holy profanation, extort a genuflexion, till the fixed bayonet of the soldier commands the unwilling reverence.—I myself have seen it.</p>
+            <p>The amenability of our fellow<lb rend="hidden" type="hyphenInWord"/>subjects, of a different communion, has been often urged in their favour,
+<pb n="20" facs="27"/>and has as often been overturned by the steady perseverance of their de<lb rend="hidden" type="hyphenInWord"/>termined opponents. Against a demeanour, on their part loyal, sub<lb rend="hidden" type="hyphenInWord"/>missive and dutiful, for now near an hundred years, are produced two or three meagre examples of petulance and contumacy among the very re<lb rend="hidden" type="hyphenInWord"/>fuse of their people. Against a great principle of humanity and national policy, are started a remote appre<lb rend="hidden" type="hyphenInWord"/>hension, and a possible inconvenience, and we are instructed to conclude, that, as terror, not conviction, has
+<pb n="21" facs="28"/>wrought their submission and our safety, it would be a species of vir<lb rend="hidden" type="hyphenInWord"/>tual suicide to relax any thing of our former severity; nay, we should ra<lb rend="hidden" type="hyphenInWord"/>ther swell the massey volume of premunires, amercements, commina<lb rend="hidden" type="hyphenInWord"/>tions and interdicts.</p>
+            <p>But in my judgment, Sir, we frustrate all hopes of uniformity, by mistaking the means of conversion. —The mild genius of toleration every day makes proselytes, it heaps coals of fire on resistance and pre<lb rend="hidden" type="hyphenInWord"/>judice,
+<pb n="22" facs="29"/>and melts them down to ac<lb rend="hidden" type="hyphenInWord"/>quiescence and conformity. Perse<lb rend="hidden" type="hyphenInWord"/>cution animates disobedience, and multiplies the refractory. Is the spirit of Popery weak and timorous? Subdue it not with pains, nor frighten it by penalties. Is it acrimonious, persevering, vindictive?—Give not rancour the eternal food of gall<lb rend="hidden" type="hyphenInWord"/>ing statutes, and ignominious cir<lb rend="hidden" type="hyphenInWord"/>cumscriptions. Take a link or two from the heavy iron load of these legal fetters, and bind your fellow<lb rend="hidden" type="hyphenInWord"/>subjects by the gentler ties of grati<lb rend="hidden" type="hyphenInWord"/>tude
+<pb n="23" facs="30"/>and affection.—In what his<lb rend="hidden" type="hyphenInWord"/>tory of any country has it been found, that persecution rooted out religious heresies, or terrified men into the pale of establishment? In none that I have read or heard of. Non-conformists mingle peaceably and amicably with other members of whatever state they live in, till the blast of intolerance drives them toge<lb rend="hidden" type="hyphenInWord"/>ther. Then they separate from the state, then self-preservation sets them on contrivance, then they grow dis<lb rend="hidden" type="hyphenInWord"/>contented and unhappy; no wonder
+<pb n="24" facs="31"/>they should become desperate and dangerous.—But after all, Sir, 'tis not the mode of faith, 'tis not the ceremonial of worship, 'tis not the point of controversy, 'tis the point of honour that resists your confisca<lb rend="hidden" type="hyphenInWord"/>tions, pains, and penalties. 'Tis not the disciple of Calvin, nor the worshipper of saints and idols; 'tis not the religionist, but the MAN, who kindles against menaces and dangers.</p>
+            <p>OUR ancestors passed such laws, because they were necessary. Their
+<pb n="25" facs="32"/>times required them. That necessity is over, those times are altered. The Royal Succession and the religion of these countries is established beyond the power of subversion. Our So<lb rend="hidden" type="hyphenInWord"/>vereign reigns in the interests and in the hearts of his people, while the destitute pretender to his right wanders from court to court, the burden of every petty state, and the outcast of every powerful. The for<lb rend="hidden" type="hyphenInWord"/>mer adherents to his line, wretched themselves and friendless, scarce re<lb rend="hidden" type="hyphenInWord"/>member his name, but by their af<lb rend="hidden" type="hyphenInWord"/>flictions, and with a contemptuous
+<pb n="26" facs="33"/>retrospect to his baffled projects for royalty. Our Monarch gives laws to Europe; kingly diadems have receiv<lb rend="hidden" type="hyphenInWord"/>ed stipends and subsidies from his bounty and his opulence, while the house of Stuart can hardly obtain a subsistance from their charity. What could not be effected when these principles were in their bloom and vigour, when interest, revenge, ca<lb rend="hidden" type="hyphenInWord"/>pacity, and power united in the quarrel, and ranked under the same banners; will it now be attempted, when such claims are antiquated and such distinctions forgotten?</p>
+            <p>
+               <pb n="27" facs="34"/>
+WHEN the body of Jacobitism has long been laid quietly in the dust, shall the wisdom of Parliament realize the fears of childhood and tremble at its apparition?</p>
+            <p>No man, Sir, is more inclined than I am to pay all due deference to the wisdom of our fore-fathers, and to the sanctity of prescription; but never were laws of this nature framed without some tincture of the times they passed in. Subsequent experience matures and mellows what was crude and undigested in earlier determinations. We surely,
+<pb n="28" facs="35"/>Sir, mistake our duty, and relin<lb rend="hidden" type="hyphenInWord"/>quish one of the most valuable rights of Parliament, if we suppose any antecedent law is too sacred for modern touch, and that these espe<lb rend="hidden" type="hyphenInWord"/>cially, like old medals, will lose their value, if the venerable rust of antiquity is rubbed off by the handling. Can it, Sir, be a dange<lb rend="hidden" type="hyphenInWord"/>rous innovation, to attempt the mitigation of laws, which have had already all the effect and opera<lb rend="hidden" type="hyphenInWord"/>tion they were intended to pro<lb rend="hidden" type="hyphenInWord"/>duce? Laws, of which the acri<lb rend="hidden" type="hyphenInWord"/>mony only remains while the spirit
+<pb n="29" facs="36"/>is evaporated. Is it an instance of short sighted policy to attach three fourths of the community to the preservation of the whole? When we have failed to induce them by principle, to try what can be effected by interest?—To make the coun<lb rend="hidden" type="hyphenInWord"/>try they inhabit dear to our fellow subjects, by some more rational tye than the fortuitous circumstance of its being the place of their nativity. Is it an unconstitutional endeavour to diffuse the blessings of a mild and beneficent government to every order and distinction of the people? A
+<pb n="30" facs="37"/>government, the immunities of which become every day more precious in this country, from the excellent character of that incomparable person into whose hands is delegated its executive authority. Is it rash and un<lb rend="hidden" type="hyphenInWord"/>advised, to convert discontent into satisfaction, poverty into opu<lb rend="hidden" type="hyphenInWord"/>lence, sloth into industry, and in<lb rend="hidden" type="hyphenInWord"/>difference to the commonwealth into zeal for the general prosperity? —This Bill, and every one of a similar tendency, are so many steps
+<pb n="31" facs="38"/>to such desireable purposes: as such, I hope, we shall advance to meet it. This Bill does not give to Papists the possession or the use of arms, which may be wielded against the religion or the liberty of Protestants. It does not invest them with the offices of state, or with the powers of government: It allows them no coercive authority over the con<lb rend="hidden" type="hyphenInWord"/>science or the property of the re<lb rend="hidden" type="hyphenInWord"/>formed. It only induces them, by a permanent and valuable deposit, to dispense that wealth they have earned by industry, to the improve<lb rend="hidden" type="hyphenInWord"/>ment
+<pb n="32" facs="39"/>of a country, where hitherto, Sir, they have sojourned but as strangers. It gives them a freight in the general vessel, to whose wreck or prosperity they were before in<lb rend="hidden" type="hyphenInWord"/>different. It secures their co-opera<lb rend="hidden" type="hyphenInWord"/>tion by their partnership, and grap<lb rend="hidden" type="hyphenInWord"/>ples their allegiance by their interest.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

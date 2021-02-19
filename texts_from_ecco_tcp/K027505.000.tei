@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tears of Amaryllis for Amyntas. A pastoral: Lamenting the death of the late Lord Marquis of Blanford. ... By Mr. Congreve.</title>
+            <author>Congreve, William, 1670-1729.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K027505.000</idno>
+            <idno type="docno">CW3310255605</idno>
+            <idno type="ecll">0154101700</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tears of Amaryllis for Amyntas. A pastoral: Lamenting the death of the late Lord Marquis of Blanford. ... By Mr. Congreve.</title>
+                  <author>Congreve, William, 1670-1729.</author>
+               </titleStmt>
+               <extent>[4],8p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for Jacob Tonson,</publisher>
+                  <date>1703.</date>
+                  <idno type="TCP">K027505.000</idno>
+                  <idno type="docno">CW3310255605</idno>
+                  <idno type="ecll">0154101700</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, C379-C380</note>
+                  <note>Pforzheimer, 211</note>
+                  <note>English Short Title Catalog, ESTCT14538.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE TEARS OF <hi>AMARYLLIS</hi> FOR <hi>AMYNTAS.</hi> A PASTORAL. Lamenting the DEATH of The late Lord Marquiss of <hi>BLANFORD.</hi>
+            </p>
+            <p>Inscrib'd to the Right Honourable the Lord <hi>GODOLPHIN,</hi> Lord High-Treasurer of <hi>England.</hi>
+            </p>
+            <p>By Mr. <hi>CONGREVE.</hi>
+            </p>
+            <q>
+               <l>Qualis populeâ moerens Philomela sub umbra</l>
+               <l>Amissos queritur fetus—</l>
+               <l>—miserabile Carmen</l>
+               <l>Integrat, &amp; moestis late loca quaestibus implet.</l>
+               <bibl>Virg. Geor. 4.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jacob Tonson,</hi> within <hi>Grays-Inn Gate</hi> next <hi>Grays-Inn Lane,</hi> 1703.</p>
+         </div>
+         <div type="tothereader">
+            <pb facs="2"/>
+            <head>To the READER.</head>
+            <p>THESE Verses had been Printed soon after they were written, if they had not been design'd rather privately to Condole, than publickly to Lament; for it is not pretended that they are in any kind equal to the Subject. But, by some Accident, many Copies of 'em have been dispersed, and one, I was informed, had been shewn to a Bookseller. So that it was high time for me to prevent their appearing with more Faults than their own, which might probably have met with Encrease, if not from the Malice or Ignorance, at least from the Carelessness of an under-hand Publisher.</p>
+            <p>I have particularly Reason at this time to apprehend the disingenuous Proceeding of some such Person, hav<lb rend="hidden" type="hyphenInWord"/>ing lately seen some Verses Printed, and Intitled <hi>A Sa<lb rend="hidden" type="hyphenInWord"/>tyr against Love, Revised and Corrected by Mr.</hi> Congreve; who does assure the Reader he never saw or heard of any such Verses before they were so Print<lb rend="hidden" type="hyphenInWord"/>ed, <hi>viz.</hi> without either the Name of the Author, Book<lb rend="hidden" type="hyphenInWord"/>seller or Printer, being Publish'd after the manner of a Libel.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="1" facs="3"/>
+         <head>THE TEARS OF <hi>AMARYLLIS</hi> FOR <hi>AMYNTAS.</hi> A PASTORAL.</head>
+         <lg>
+            <l>'TWAS at the Time, when new returning Light,</l>
+            <l>With welcome Rays begins to chear the Sight;</l>
+            <l>When grateful Birds prepare their Thanks to pay,</l>
+            <l>And warble Hymns to hail the dawning Day;</l>
+            <l>When woolly Flocks their bleating Cries renew,</l>
+            <l>And from their fleecy Sides first shake the silver Dew.</l>
+         </lg>
+         <lg>
+            <pb n="2" facs="4"/>
+            <l>'Twas then that <hi>Amaryllis,</hi> Heav'nly Fair,</l>
+            <l>Wounded with Grief, and wild with her Despair,</l>
+            <l>Forsook her Myrtle Bow'r and Rosie Bed,</l>
+            <l>To tell the Winds her Woes, and mourn <hi>Amyntas</hi> dead.</l>
+            <l>Who had a Heart so hard, that heard her Cries</l>
+            <l>And did not weep? Who such relentless Eyes?</l>
+            <l>Tygers and Wolves their wonted Rage forego,</l>
+            <l>And dumb Distress and new Compassion shew,</l>
+            <l>As taught by her to taste of Human Woe.</l>
+            <l>Nature her self attentive Silence kept,</l>
+            <l>And Motion seem'd suspended while she wept;</l>
+            <l>The rising Sun restrain'd his fiery Course,</l>
+            <l>And rapid Rivers listen'd at their Source;</l>
+            <l>Ev'n Eccho fear'd to catch the flying Sound,</l>
+            <l>Lest Repetition should her Accents drown;</l>
+            <l>The very Morning Wind with-held his Breeze,</l>
+            <l>Nor fann'd with fragrant Wings the noiseless Trees;</l>
+            <l>As if the gentle <hi>Zephyr</hi> had been dead,</l>
+            <l>And in the Grave with lov'd <hi>Amyntas</hi> laid.</l>
+            <l>No Voice, no whisp'ring Sigh, no murm'ring Groan,</l>
+            <l>Presum'd to mingle with a Mother's Moan;</l>
+            <l>Her Cries alone her Anguish could express,</l>
+            <l>All other Mourning would have made it less.</l>
+         </lg>
+         <lg>
+            <l>Hear me, she cry'd, ye Nymphs and Silvan Gods,</l>
+            <l>Inhabitants of these once lov'd Abodes;</l>
+            <l>
+               <pb n="3" facs="5"/>
+Hear my Distress, and lend a pitying Ear,</l>
+            <l>Hear my Complaint—you would not hear my Pray'r;</l>
+            <l>The Loss which you prevented not, deplore,</l>
+            <l>And mourn with me <hi>Amyntas</hi> now no more.</l>
+         </lg>
+         <lg>
+            <l>Have I not Cause, ye cruel Pow'rs, to mourn?</l>
+            <l>Lives there like me another Wretch forlorn?</l>
+            <l>Tell me, thou Sun that round the World dost shine,</l>
+            <l>Hast thou beheld another Loss like mine?</l>
+            <l>Ye Winds, who on your Wings sad Accents bear,</l>
+            <l>And catch the Sounds of Sorrow and Despair,</l>
+            <l>Tell me if e'er your tender Pinions bore</l>
+            <l>Such weight of Woe, such deadly Sighs before?</l>
+            <l>Tell me, thou Earth, on whose wide-spreading Base</l>
+            <l>The wretched Load is laid of Human Race,</l>
+            <l>Dost thou not feel thy self with me opprest?</l>
+            <l>Lie all the Dead so heavy on thy Breast?</l>
+            <l>When hoary Winter on thy shrinking Head</l>
+            <l>His lcy, Cold, depressing Hand has laid,</l>
+            <l>Hast thou not felt less Chilness in thy Veins?</l>
+            <l>Do I not pierce thee with more freezing Pains;</l>
+            <l>But why to thee do I relate my Woe,</l>
+            <l>Thou cruel Earth, my most remorseless Foe?</l>
+            <l>Within whose darksome Womb the Grave is made,</l>
+            <l>Where all my Joys are with <hi>Amyntas</hi> laid.</l>
+            <l>
+               <pb n="4" facs="6"/>
+What is't to me, tho' on thy naked Head</l>
+            <l>Eternal Winter should his Horror shed?</l>
+            <l>Tho' all thy Nerves were numm'd with endless Frost,</l>
+            <l>And all thy Hopes of future Spring were lost;</l>
+            <l>To me what Comfort can the Spring afford?</l>
+            <l>Can my <hi>Amyntas</hi> be with Spring restor'd?</l>
+            <l>Can all the Rains that fall from weeping Skies,</l>
+            <l>Unlock the Tomb where my <hi>Amyntas</hi> lies?</l>
+            <l>No, never! never!—Say then, rigid Earth,</l>
+            <l>What is to me thy everlasting Dearth?</l>
+            <l>Tho' never Flow'r again its Head should rear,</l>
+            <l>Tho' never Tree again should Blossom bear;</l>
+            <l>Tho' never Grass should cloath the naked Ground,</l>
+            <l>Nor ever healing Plant or wholesome Herb be found.</l>
+            <l>None, none were found when I bewail'd their Want;</l>
+            <l>Nor wholesome Herb was found, nor healing Plant,</l>
+            <l>To ease <hi>Amyntas</hi> of his cruel Pains;</l>
+            <l>In vain I search'd the Valleys, Hills and Plains;</l>
+            <l>But wither'd Leaves alone appear'd to view,</l>
+            <l>Or pois'nous Weeds distilling deadly Dew.</l>
+            <l>And if some naked Stalk, not quite decay'd,</l>
+            <l>To yield a fresh and friendly Bud essay'd,</l>
+            <l>Soon as I reach'd to crop the tender Shoot,</l>
+            <l>A shrieking Mandrake kill'd it at the Root.</l>
+            <l>Witness to this, ye Fawns of ev'ry Wood,</l>
+            <l>Who at the Prodigy astonish'd stood.</l>
+            <l>
+               <pb n="5" facs="7"/>
+Well I remember what sad Signs ye made,</l>
+            <l>What Show'rs of unavailing Tears ye shed;</l>
+            <l>How each ran fearful to his mossie Cave,</l>
+            <l>When the last Gasp the dear <hi>Amyntas</hi> gave.</l>
+            <l>For then the Air was fill'd with dreadful Cries,</l>
+            <l>And sudden Night o'erspread the darken'd Skies;</l>
+            <l>Phantoms, and Fiends, and wand'ring Fires appear'd,</l>
+            <l>And Skreams of ill-presaging Birds were heard.</l>
+            <l>The Forest shook, and flinty Rocks were cleft,</l>
+            <l>And frighted Streams their wonted Channels left;</l>
+            <l>With frantick Grief o'erflowing fruitful Ground,</l>
+            <l>Where many a Herd and harmeless Swain was drown'd.</l>
+            <l>While I forlorn and desolate was left,</l>
+            <l>Of ev'ry Help, of ev'ry Hope bereft;</l>
+            <l>To ev'ry Element expos'd I lay,</l>
+            <l>And to my Griefs a more defenceless Prey.</l>
+            <l>For thee, <hi>Amyntas,</hi> all these Pains were born,</l>
+            <l>For thee these Hands were wrung, these Hairs were torn;</l>
+            <l>For thee my Soul to sigh shall never leave,</l>
+            <l>These Eyes to weep, this throbbing Heart to heave.</l>
+            <l>To mourn thy Fall I'll fly the hated Light,</l>
+            <l>And hide my Head in Shades of endless Night:</l>
+            <l>For thou were Light, and Life, and Health to me;</l>
+            <l>The Sun but thankless shines that shews not thee.</l>
+            <l>Wert thou not Lovely, Graceful, Good and Young?</l>
+            <l>The Joy of Sight, the Talk of ev'ry Tongue?</l>
+            <l>
+               <pb n="6" facs="8"/>
+Did ever Branch so sweet a Blossom bear?</l>
+            <l>Or ever early Fruit appear so fair?</l>
+            <l>Did ever Youth so far his Years transcend?</l>
+            <l>Did ever Life so immaturely end!</l>
+            <l>For thee the tuneful Swains provided Lays,</l>
+            <l>And ev'ry Muse prepar'd thy future Praise.</l>
+            <l>For thee the busie Nymphs stripp'd ev'ry Grove,</l>
+            <l>And Myrtle Wreaths and Flow'ry Chaplets wove.</l>
+            <l>But now, ah dismal Change! the tuneful Throng</l>
+            <l>To loud Lamentings turn the chearful Song.</l>
+            <l>Their pleasing Task the weeping Virgins leave,</l>
+            <l>And with unfinish'd Garlands strew thy Grave.</l>
+            <l>There let me fall, there, there lamenting lie,</l>
+            <l>There grieving grow to Earth, despair, and die.</l>
+         </lg>
+         <lg>
+            <l>This said, her loud Complaint of force she ceas'd,</l>
+            <l>Excess of Grief her faultring Speech suppress'd.</l>
+            <l>Along the Ground her colder Limbs she laid,</l>
+            <l>Where late the Grave was for <hi>Amyntas</hi> made;</l>
+            <l>Then from her swimming Eyes began to pour,</l>
+            <l>Of softly falling Rain a Silver Show'r;</l>
+            <l>Her loosely flowing Hair, all radiant bright,</l>
+            <l>O'er-spread the dewy Grass like Streams of Light.</l>
+            <l>As if the Sun had of his Beams been shorn,</l>
+            <l>And cast to Earth the Glories he had worn.</l>
+            <l>
+               <pb n="7" facs="9"/>
+A Sight so lovely sad, such deep Distress</l>
+            <l>No Tongue can tell, no Pencil can express.</l>
+         </lg>
+         <lg>
+            <l>And now the Winds, which had so long been still,</l>
+            <l>Began the swelling Air with Sighs to fill;</l>
+            <l>The Water-Nymphs, who motionless remain'd,</l>
+            <l>Like Images of Ice, while she complain'd,</l>
+            <l>Now loos'd their Streams; as when descending Rains</l>
+            <l>Roll the steep Torrents headlong o'er the Plains.</l>
+            <l>The prone Creation, who so long had gaz'd,</l>
+            <l>Charm'd with her Cries, and at her Griefs amaz'd,</l>
+            <l>Began to roar and howl with horrid Yell,</l>
+            <l>Dismal to hear, and terrible to tell;</l>
+            <l>Nothing but Groans and Sighs were heard around,</l>
+            <l>And Eccho multiply'd each mournful Sound.</l>
+         </lg>
+         <lg>
+            <l>When all at once an universal Pause</l>
+            <l>Of Grief was made, as from some secret Cause.</l>
+            <l>The Balmy Air with fragrant Scents was fill'd,</l>
+            <l>As if each weeping Tree had Gums distill'd.</l>
+            <l>Such, if not sweeter, was the rich Perfume</l>
+            <l>Which swift ascended from <hi>Amyntas</hi>'s Tomb;</l>
+            <l>As if th' <hi>Arabian</hi> Bird her Nest had fir'd,</l>
+            <l>And on the spicy Pile were new expir'd.</l>
+         </lg>
+         <lg>
+            <l>And now the Turf, which late was naked seen,</l>
+            <l>Was sudden spread with lively springing Green;</l>
+            <l>
+               <pb n="8" facs="10"/>
+And <hi>Amaryllis</hi> saw, with wond'ring Eyes,</l>
+            <l>A flow'ry Bed, where she had wept, arise;</l>
+            <l>Thick as the pearly Drops the Fair had shed,</l>
+            <l>The blowing Buds advanc'd their Purple Head;</l>
+            <l>From ev'ry Tear that fell, a Violet grew,</l>
+            <l>And thence their Sweetness came, and thence their mournful Hew.</l>
+         </lg>
+         <lg>
+            <l>Remember this, ye Nymphs and gentle Maids,</l>
+            <l>When Solitude ye seek in gloomy Shades;</l>
+            <l>Or walk on Banks where silent Waters flow,</l>
+            <l>For there this lonely Flow'r will love to grow.</l>
+            <l>Think on <hi>Amyntas,</hi> oft as ye shall stoop</l>
+            <l>To crop the Stalks and take 'em softly up.</l>
+            <l>When in your snowy Necks their Sweets you wear,</l>
+            <l>Give a soft Sigh, and drop a tender Tear:</l>
+            <l>To lov'd <hi>Amyntas</hi> pay the Tribute due,</l>
+            <l>And bless his peaceful Grave, where first they grew.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

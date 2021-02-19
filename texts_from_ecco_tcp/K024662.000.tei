@@ -1,0 +1,796 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Enthusiasm: a poem. In two parts. By Mr. Jerningham:</title>
+            <author>Jerningham, Mr. (Edward), 1737?-1812.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024662.000</idno>
+            <idno type="docno">CW3313961033</idno>
+            <idno type="ecll">0681301300</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Enthusiasm: a poem. In two parts. By Mr. Jerningham:</title>
+                  <author>Jerningham, Mr. (Edward), 1737?-1812.</author>
+               </titleStmt>
+               <extent>[4],33,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Robson and W. Clarke,</publisher>
+                  <date>1789.</date>
+                  <idno type="TCP">K024662.000</idno>
+                  <idno type="docno">CW3313961033</idno>
+                  <idno type="ecll">0681301300</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT9586.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>ENTHUSIASM: A POEM. IN TWO PARTS. BY MR. JERNINGHAM.</p>
+            <p>LONDON: PRINTED FOR J. ROBSON AND W. CLARKE, BOOKSELLERS, NEW BOND-STREET. M.DCC.LXXXIX.</p>
+         </div>
+         <div type="note">
+            <pb facs="2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>IN endeavouring to display the good and bad effects occasioned by Enthu<lb rend="hidden" type="hyphenInWord"/>siasm, I might have drawn many signal instances from that inexhaustible mine, the Greek and Roman story; but it appeared to me more eligible to work upon materials hewn from the modern quarry only: the subject, thus treated, I conceived would come more home to the feelings of the reader. With regard to the execution, that rests entirely on the judgment of the
+<pb facs="3"/>
+Public, into whose presence I now enter, impressed with a mingled sensation of hope and apprehension.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="4"/>
+         <head>ENTHUSIASM.</head>
+         <div n="1" type="part">
+            <head>PART THE FIRST.</head>
+            <lg>
+               <l>BEYOND th' exalted sun's meridian site,</l>
+               <l>Beyond the glimm'ring stars ethereal height,</l>
+               <l>A brighter realm immortal spring displays,</l>
+               <l>Mid the soft breathing of unclouded days:</l>
+               <l>Where sacred minds to virtue high allied,</l>
+               <l>Aerial beings, orient forms abide,</l>
+               <l>Seraphic people! ministers of grace,</l>
+               <l>Prompt to defend and cheer the human race:</l>
+               <l>The mighty mother earth who bears mankind,</l>
+               <l>Is to their care and guardian pow'r consign'd.</l>
+               <l>When clashing waves swell high, and angry Fate</l>
+               <l>Tosses the lab'ring vessel of the state,</l>
+               <l>
+                  <pb n="2" facs="5"/>The chosen Angel of th' appointed realm</l>
+               <l>Hastes from his throne, and grasps the trembling helm:</l>
+               <l>To some the honor'd privilege is giv'n</l>
+               <l>To waft the clay-divested soul to heav'n,</l>
+               <l>Weed from the feeling heart the rising sigh,</l>
+               <l>And sweep with viewless hand the clouded eye:</l>
+               <l>Each in his turn descending from above,</l>
+               <l>Performs the generous ministry of love.</l>
+            </lg>
+            <lg>
+               <l>BEHOLD superior to the sun-rob'd quire</l>
+               <l>A female form to regal pow'r aspire!</l>
+               <l>High on a throne, in brighter beams array'd,</l>
+               <l>Reigns in full pomp th' enthusiastic Maid!</l>
+               <l>Daughter of Energy, who boldly leads</l>
+               <l>The hallow'd few to great and splendid deeds:</l>
+               <l>Who urges man the steep ascent to climb.</l>
+               <l>And lifts the soul to virtue's height sublime.</l>
+               <l>Thus when of late to fam'd Iberia's coast<note place="bottom" n="*">GIBRALTAR.</note>
+               </l>
+               <l>Sail'd o'er the wond'ring main th' unnumber'd host,</l>
+               <l>
+                  <pb n="3" facs="6"/>Swift from her seat th' impatient Goddess sprung,</l>
+               <l>And o'er the spot with anxious bosom hung,</l>
+               <l>Till shedding on her sons, to fame consign'd,</l>
+               <l>Some emanation of her dauntless mind,</l>
+               <l>She saw the valiant long-enduring band</l>
+               <l>(Whose fall confederated nations plann'd)</l>
+               <l>Achieve that deed which time shall still revere,</l>
+               <l>That British miracle to glory dear!</l>
+            </lg>
+            <lg>
+               <l>LONG had th' Enthusiast held her rank supreme,</l>
+               <l>Belov'd, ador'd, of every voice the theme;</l>
+               <l>At length the blast of satire dimm'd the rays,</l>
+               <l>Whose soft effulgence play'd around her praise:</l>
+               <l>The throne encircling frequent murmurs flew,</l>
+               <l>And busy charges trimm'd in motley hue:</l>
+               <l>Yet then confiding in her god-like plan,</l>
+               <l>Which warms, invigorates, and hallows man,</l>
+               <l>She dares her foes, she dares the hostile train</l>
+               <l>To shake the pillars of her stedfast reign:</l>
+               <l>Urg'd by her innate energy to meet</l>
+               <l>The gath'ring war, she quits her lofty seat,</l>
+               <l>
+                  <pb n="4" facs="7"/>At Reason's bar presents her holy form,</l>
+               <l>Provokes the thund'rers, and demands the storm.</l>
+            </lg>
+            <lg>
+               <l>A living crescent the bright pow'rs display,</l>
+               <l>Rank above rank in terrible array:</l>
+               <l>While trembling silence breathes upon the train,</l>
+               <l>And expectation throbs in ev'ry vein,</l>
+               <l>Amid this scene th' accusing Angel rose,</l>
+               <l>On his stern brow bold indignation glows;</l>
+               <l>Some troubling vision, with disaster fraught,</l>
+               <l>Employs, detains, alarms his wond'ring thought:</l>
+               <l>—"What rising structure rushes on my sight,</l>
+               <l>Of bulk enormous, of aspiring height<note place="bottom" n="*">The ALEXANDRIAN LIBRARY, consisting of four hundred thousand ma<lb rend="hidden" type="hyphenInWord"/>nuscripts, was burnt in the sixth century by the order of OMAR, whose enthusiastic zeal for his religion forced from him this memorable saying: "If the books contain only what is in the CORAN they are useless, and dangerous if they contain any thing else."</note>?</l>
+               <l>Th' Enthusiast, hast'ning thro' the regal porch,</l>
+               <l>Waves in the eye of day a raging torch:</l>
+               <l>See (impious spectacle!) she fires the pile,</l>
+               <l>And hails the sparkles with a greedy smile:</l>
+               <l>Wide and more wide th' imparted flame extends,</l>
+               <l>And now in dreadful victory ascends.</l>
+               <l>
+                  <pb n="5" facs="8"/>Not sumptuous palaces, not awful fanes,</l>
+               <l>Nor of old time the proud, august remains,</l>
+               <l>Not airy villas, nor majestic tow'rs,</l>
+               <l>High massive bulwarks, nor gay pleasure's bow'rs,</l>
+               <l>But to th' unhallowed blaze I see consign'd</l>
+               <l>The splendid temple of the poet's mind.</l>
+               <l>Ah! lov'd TYRTAEUS<note place="bottom" n="*">TYRTAEUS reanimated the dejected minds of the SPARTANS with the irre<lb rend="hidden" type="hyphenInWord"/>sistible power of his poetry, accompanied by the harp.</note>, tow'ring son of fame,</l>
+               <l>Thy pages shrivel at th' insatiate flame:</l>
+               <l>The glorious workings of thy pregnant heart,</l>
+               <l>The sallies from the inmost breast that start,</l>
+               <l>Eloquent threats that lawless pow'r controul,</l>
+               <l>Thy bursts of rage, and vehemence of soul.</l>
+               <l>Unrivall'd leader of th' ecstatic train,</l>
+               <l>Farewell (for ever lost) thy forceful strain:</l>
+               <l>Farewell (for ever lost) the Spartan song,</l>
+               <l>Which rouz'd to conquest the dejected throng:</l>
+               <l>Did not despondence, like a gath'ring show'r,</l>
+               <l>Hang o'er thy countrymen in evil hour?</l>
+               <l>Say, did she not her fenny pinions spread,</l>
+               <l>And on each bosom chilling fear-drops shed?</l>
+               <l>
+                  <pb n="6" facs="9"/>Thou like the sun a cheerful radiance threw,</l>
+               <l>And from the soil the noxious vapour drew,</l>
+               <l>Till the fall'n soul uprising from her death,</l>
+               <l>Inhales once more th' invigorating breath.</l>
+               <l>Thy voice—'Tis honor's call on virtue's train:</l>
+               <l>Thy voice—Yes, Sparta hears th' inspiring strain;</l>
+               <l>To that vindictive with bold step she speeds,</l>
+               <l>And reaps the harvest of immortal deeds.</l>
+            </lg>
+            <lg>
+               <l>UNRIVALL'D leader of th' ecstatic quire,</l>
+               <l>Peace to the manes of thy war-bred lyre,</l>
+               <l>If peace can be while with licentious pow'r</l>
+               <l>The hungry fires thy last remains devour:</l>
+               <l>Methinks thy lucid, unsubstantial frame,</l>
+               <l>Now hovers o'er the wide destructive flame,</l>
+               <l>I see thee toss thine airy arms on high,</l>
+               <l>I hear at times thy shrill, despairing cry:</l>
+               <l>So the fond mother-bird, alarm'd, distrest,</l>
+               <l>Indignant flutters round her peopled nest,</l>
+               <l>While (piteous sight!) a ruthless hand invades,</l>
+               <l>And bears away the music of the shades.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="10"/>
+               <l>SEE to the dome (thro' many an age rever'd)</l>
+               <l>The star-illumin'd dome which science rear'd,</l>
+               <l>The fiery deluge rolls with threat'ning roar,</l>
+               <l>And sweeps away the long-collected store:</l>
+               <l>Alluring apologues address'd to youth,</l>
+               <l>Pure maxims moulded in the breast of truth,</l>
+               <l>Which from the holy lips of sages breath'd,</l>
+               <l>Rich moral legacies to man bequeath'd:</l>
+               <l>Celestial thoughts, which (like the fav'ring gales</l>
+               <l>Whose gentle pressure swells the gladsome sails)</l>
+               <l>Waft the dejected mind, with toil o'erspent,</l>
+               <l>To the gay-winding harbor of content.</l>
+            </lg>
+            <lg>
+               <l>NOW History with a heart-felt sigh surveys</l>
+               <l>Her themes, her annals, midst the sounding blaze:</l>
+               <l>Fame smiles no more, but with an alter'd mien,</l>
+               <l>Stands trembling at destruction's growing scene:</l>
+               <l>And now methinks she views thro' fancy's eye,</l>
+               <l>Her burnish'd battlements that kiss'd the sky:</l>
+               <l>Her glitt'ring pinnacles, her golden tow'rs,</l>
+               <l>That vaunting dar'd old Time's devasting pow'rs:</l>
+               <l>
+                  <pb n="8" facs="11"/>Ascending obelisks that point to heav'n,</l>
+               <l>Triumphal arches to the conq'ror giv'n:</l>
+               <l>She views these honors of her gorgeous state</l>
+               <l>Dismantled, torn, and bending to their fate;</l>
+               <l>Ah, now they yield, they fall with deaf'ning sound,</l>
+               <l>And in tumultuous havoc spread around!</l>
+               <l>At length, descending like a low-hung cloud,</l>
+               <l>Oblivion o'er the waste expands her shroud,</l>
+               <l>Beneath whose dark'ning canopy is cast</l>
+               <l>The fond remembrance of transactions past:</l>
+               <l>Of youthful warriors, who, by glory led,</l>
+               <l>Bold in the clam'rous van of danger bled,</l>
+               <l>Who, midst the storms of state and home-born wars,</l>
+               <l>Gleam'd thro' the thick'ning shade like morning stars,</l>
+               <l>Till flung untimely from their radiant height,</l>
+               <l>Down, down they hurried to eternal night:</l>
+               <l>Of patriots, who, to honor close allied,</l>
+               <l>In times disastrous stood their country's pride!</l>
+               <l>How these sublime state-columns, tempest-proof,</l>
+               <l>Upheld, midst bursting clouds, the sacred roof,</l>
+               <l>
+                  <pb n="9" facs="12"/>Firm to their cause, and obstinately great,</l>
+               <l>No voice of mortal ever shall relate:</l>
+               <l>Nor shall the voice of mortal e'er display,</l>
+               <l>Or annals usher to the eye of day,</l>
+               <l>The various orders of the female train</l>
+               <l>Diffus'd like flow'rets o'er the smiling plain,</l>
+               <l>Who, like those flow'rets in their beauty's glow,</l>
+               <l>Were harshly mangled by the scythe of woe.</l>
+            </lg>
+            <lg>
+               <l>HERE then, to keen reflection's crowded eye,</l>
+               <l>As in a deep sepulchral mansion lie,</l>
+               <l>In iron slumber wrapt and dread repose,</l>
+               <l>A train of human virtues, human woes:</l>
+               <l>This moral loss the world must now sustain,</l>
+               <l>Swells o'er the boundary of domestic pain,</l>
+               <l>Calls down the gushes of the bleeding mind,</l>
+               <l>And claims th' expansive sorrow of mankind."</l>
+            </lg>
+            <lg>
+               <l>HE ceas'd.—A Seraph, to his cause allied.</l>
+               <l>And firm to battle on th' accusing side,</l>
+               <l>
+                  <pb n="10" facs="13"/>Resum'd the theme! his arm exalted high,</l>
+               <l>A wild fire flashing from his pregnant eye—</l>
+               <l>"What numerous fugitives arrest my view<note place="bottom" n="*">Alluding to the revocation of the Edict of NANTES, in consequence of which the HUGONOTS quitted the kingdom.</note>,</l>
+               <l>Their cheek discolour'd with dejection's hue?</l>
+               <l>What ruthless pow'r the wanton act decreed?</l>
+               <l>What led the monarch to this desp'rate deed?</l>
+               <l>Behold—th' Enthusiast at the regal chair</l>
+               <l>Breathes her inflaming whispers on his ear:</l>
+               <l>Now, now she urges his reluctant hand</l>
+               <l>To ratify the terrible command:</l>
+               <l>O hapless, lost, exterminated race,</l>
+               <l>What can atone this unprovok'd disgrace?</l>
+               <l>Ye venerable men with silver hair,</l>
+               <l>Gall'd by the heavy yoke of thornful care,</l>
+               <l>With dauntless soul, enshrin'd in feeble forms,</l>
+               <l>Ye meet the thunders of the rushing storms,</l>
+               <l>Prompt a bold war for virtue's sake to wage</l>
+               <l>Against the comforts of reposing age:</l>
+               <l>
+                  <pb n="11" facs="14"/>Friends, honors, kindred, country ye disclaim,</l>
+               <l>The smiles of patronage, the wreaths of fame,</l>
+               <l>Firm to endure the persecuting rod,</l>
+               <l>And in th' abyss of grief to seek your God.</l>
+               <l>Ye too, ye fair, on virtue's list enroll'd,</l>
+               <l>Whom Nature fashion'd in her softer mould,</l>
+               <l>In pale adversity's rude science vers'd,</l>
+               <l>Your feeling soul with sorrow's dart transpierc'd,</l>
+               <l>I see you slowly move a length'ning train,</l>
+               <l>Far from the bounds of your domestic plain:</l>
+               <l>Imagination renovates the hour</l>
+               <l>Ye fell the victims of relentless pow'r,</l>
+               <l>How still ye linger'd on your native strand,</l>
+               <l>Enclos'd by friendship's small but ardent band,</l>
+               <l>How as ye wept, caressing and caress'd,</l>
+               <l>Your babes were ravish'd from your throbbing breast.</l>
+            </lg>
+            <lg>
+               <l>BUT now, intruding on my wond'ring sight,</l>
+               <l>My strong abhorrence other scenes excite.</l>
+               <l>Beneath the roof, where Death's chill banners spread,</l>
+               <l>An agonizing fair reclines her head:</l>
+               <l>
+                  <pb n="12" facs="15"/>Around the mournful couch of languor stand</l>
+               <l>(In hallow'd vestment) a monastic band!</l>
+               <l>Yet not to act affection's sacred part,</l>
+               <l>With lenient hand to draw the rankling dart,</l>
+               <l>Thro' hope's gay perspective command to rise</l>
+               <l>A soothing prospect of the opening skies;</l>
+               <l>Ah! not for heav'nly charity's best end</l>
+               <l>The gloomy fathers o'er the suff'rer bend,</l>
+               <l>But from th' alarm'd reluctant mind to wrest</l>
+               <l>The coy assentment to the hateful Test<note place="bottom" n="*">This relates to a penal law which confiscated the estates of those who did not, at their deaths, renounce the reformed religion.—See SAURIN's SERMONS, vol. i. page 152.</note>.</l>
+            </lg>
+            <lg>
+               <l>AT this the mourner lifts her drooping head—</l>
+               <l>'While here I languish on affliction's bed,</l>
+               <l>Say, is it thus ye minister relief,</l>
+               <l>And whisper comfort to the soul of grief?</l>
+               <l>Disgrac'd, accurs'd with hearts untaught to feel,</l>
+               <l>O iron progeny of barb'rous zeal!</l>
+               <l>When harrass'd nature with herself at strife,</l>
+               <l>The last gleam fading on the lamp of life,</l>
+               <l>
+                  <pb n="13" facs="16"/>When to the storm succeeds the welcome calm,</l>
+               <l>When angel hands reach out the victor's palm,</l>
+               <l>Must I that bliss, that heav'nly prize forego,</l>
+               <l>And whelm my spirit in immortal woe?</l>
+               <l>Yet then my infants, by pale Famine led,</l>
+               <l>Must ask from Pity's hand the scanty bread;</l>
+               <l>Methinks I see them now expos'd to scorn,</l>
+               <l>Their little bosoms pierc'd with sorrow's thorn:</l>
+               <l>O what an image to a mother's sight,</l>
+               <l>The view transports me into madd'ning fright;</l>
+               <l>I yield, I yield, unfold the fatal creed,</l>
+               <l>And Mercy from his thought efface the deed!'</l>
+            </lg>
+            <lg>
+               <l>AT these dread words, that clos'd th' eventful scene,</l>
+               <l>Religion blush'd and veil'd her awful mien:</l>
+               <l>Yet on the crime, from tyrant edicts born,</l>
+               <l>By nature from the dying mother torn,</l>
+               <l>Wrung from the bosom, by distraction riv'n,</l>
+               <l>Forgiveness dropt the holy tear of Heav'n.</l>
+            </lg>
+            <lg>
+               <l>NOW to my view, by terrors undismay'd,</l>
+               <l>The glory of the priesthood stands display'd!</l>
+               <l>
+                  <pb n="14" facs="17"/>The virtuous Pastor <note place="bottom" n="*">JAMES SAURIN, the celebrated preacher at the HAGUE, where he resided several years, and was at once the edification and comfort of his exiled brethren.</note> of the suff'ring race,</l>
+               <l>Proud of his wrongs and patient of disgrace:</l>
+               <l>Him the unhappy fugitives enclose,</l>
+               <l>While thus he speaks—'Ye partners of my woes,</l>
+               <l>O Strenuous found in persecution's day,</l>
+               <l>Ye faithful, dear companions of my way,</l>
+               <l>I now behold you as the snow-wing'd dove,</l>
+               <l>Expell'd the ancient mansions of her love,</l>
+               <l>Whose plumes, while clouds o'ercanopy her flight,</l>
+               <l>Assume the splendor of a purer white.</l>
+               <l>Here pause—and, while we view th' expanding main,</l>
+               <l>Salute the breeze that flies to freedom's plain;</l>
+               <l>Across the waves ere yet our course we steer.</l>
+               <l>One duteous moment let us linger here,</l>
+               <l>And, tho' rejected, (still to nature true)</l>
+               <l>Sigh to our parent-land the fond adieu:</l>
+               <l>Ah! far from us remove that breast of steel,</l>
+               <l>Whose rooted principle is not to feel,</l>
+               <l>
+                  <pb n="15" facs="18"/>Which, like the sapless oak's time-moulder'd form,</l>
+               <l>Nor heeds the vernal air or wintry storm.</l>
+               <l>On man bestow'd, and to the brute denied,</l>
+               <l>The tear of nature sure is nature's pride.</l>
+               <l>Ev'n He, the general victim of mankind,</l>
+               <l>Who each disgrace, each torture predesign'd,</l>
+               <l>Ev'n He, when grief and agony drew near,</l>
+               <l>Felt on his cheek the self-compassion'd tear.</l>
+               <l>Does not dim obloquy attaint our birth?</l>
+               <l>Are not our temples levell'd with the earth?</l>
+               <l>Are not our kindred, friends in fetters bound,</l>
+               <l>Plung'd in the terrors of the cavern'd ground?</l>
+               <l>And we, meek victims, as we pass'd along,</l>
+               <l>Endur'd we not the loud upbraiding throng.</l>
+               <l>While the loose soldiery added to these woes</l>
+               <l>With jeering insults and degrading blows?</l>
+               <l>It seem'd as nature mark'd us for disgrace,</l>
+               <l>The outcast offals of the human race.</l>
+               <l>O thou<note place="bottom" n="*">LEWIS XIV.</note>, by all these horrors unappall'd,</l>
+               <l>Whom with delight I royal master call'd,</l>
+               <l>
+                  <pb n="16" facs="19"/>Thou to remembrance now no longer dear,</l>
+               <l>Whom as the scourge of Heav'n I still revere,</l>
+               <l>Farewell!—Thou too, by partial fortune blest,</l>
+               <l>All Nature's off'rings breathing at thy breast,</l>
+               <l>Thrice happy FRANCE, farewell!—these eyes no more</l>
+               <l>Shall view thy charms that spread from shore to shore:</l>
+               <l>Thy harvests waving with a stately pride,</l>
+               <l>Thy vintage blushing on the mountain's side.</l>
+               <l>Original and self-exuberant soil,</l>
+               <l>Refusing nothing to the hand of toil,</l>
+               <l>And where the Arts, a bright harmonious band,</l>
+               <l>Refine, exalt, and decorate the land,</l>
+               <l>Where Mirth, the native of thy social bow'rs,</l>
+               <l>Sheds on each lip his fascinating pow'rs;</l>
+               <l>With thee may bliss still undiminish'd dwell,</l>
+               <l>Hail, O my country, and a last farewell!'</l>
+            </lg>
+            <lg>
+               <l>THE Pastor ceas'd.—Then sorrow burst its bound,</l>
+               <l>With fervent lips some kiss'd their parent-ground,</l>
+               <l>Some with the same tormenting thought imprest</l>
+               <l>Tore the wild grass and flow'rets from her breast,</l>
+               <l>
+                  <pb n="17" facs="20"/>To bear a relic of their natal plain</l>
+               <l>To scenes unknown, and realms beyond the main.</l>
+               <l>So firm, so pow'rful on the heart of man</l>
+               <l>(Above inconstancy's relenting plan)</l>
+               <l>Is fix'd, enthron'd by Nature's hallow'd hand,</l>
+               <l>The glowing passion of his native land.</l>
+            </lg>
+            <lg>
+               <l>THESE are the evils (woe succeeding woe)</l>
+               <l>Which from th' Enthusiast in long order flow:</l>
+               <l>Yet not for these does terror daunt her soul,</l>
+               <l>Mark that proud eye impatient of controul,</l>
+               <l>See riding on that brow imperial will,</l>
+               <l>And tyranny the minister of ill.</l>
+               <l>Let then resentment fierce, terrific, loud,</l>
+               <l>Burst like the thunder from the rifted cloud:</l>
+               <l>The course of her devasting steps I've run;</l>
+               <l>My journey's o'er, the mournful tale is done."</l>
+            </lg>
+            <trailer>END OF THE FIRST PART.</trailer>
+         </div>
+         <div n="2" type="part">
+            <pb n="18" facs="21"/>
+            <head>PART THE SECOND.</head>
+            <lg>
+               <l>NOW rose a Seraph, by affection led,</l>
+               <l>A wreathing glory hovers o'er his head,</l>
+               <l>His flowing accents spotless candour own'd,</l>
+               <l>And on his brow sat energy enthron'd:</l>
+               <l>He speaks—"The vulture hast'ning to his prey,</l>
+               <l>With sounding pinions wins his distant way,</l>
+               <l>Regardless of the charms that Nature's hand</l>
+               <l>In gay profusion scatters o'er the land,</l>
+               <l>And, summon'd by the pestilential gale,</l>
+               <l>Speeds to the carcase fest'ring in the vale:</l>
+               <l>So these accusers in their rav'ning mood</l>
+               <l>Appear to emulate the gory brood,</l>
+               <l>Unmindful of the virtues that surround</l>
+               <l>The spot on which their censures most abound.</l>
+            </lg>
+            <lg>
+               <pb n="19" facs="22"/>
+               <l>NOW deeds long past like exhalations roll,</l>
+               <l>Now nearer move, now open on the soul:</l>
+               <l>I see the pale-ey'd citizens convene,</l>
+               <l>In Hist'ry's drama high-recorded scene<note place="bottom" n="*">EDWARD III. was so exasperated at the long and gallant resistance he met with from the citizens of CALAIS, that he threatened to put all the inhabitants to the sword: he desisted from this atrocious design, on the condition that six persons should be sent to him for the purpose of immediate execution. He required that they should approach his presence bare-footed, cloathed in mourning, with ropes round their necks.</note>!</l>
+               <l>The dread resolve from EDWARD's bosom sprung,</l>
+               <l>Wild consternation o'er the city flung:</l>
+               <l>With chilling, blood-recoiling thoughts imprest,</l>
+               <l>Entrancing terror deadens ev'ry breast.</l>
+               <l>At length from out the silent depth emerg'd</l>
+               <l>An ardent chief, by glory's impulse urg'd:</l>
+               <l>Th' Enthusiast wraps him in her wak'ning fires,</l>
+               <l>And thus he utters what her soul inspires:</l>
+               <l>'Ye firm associates in the highest cause,</l>
+               <l>On whom posterity will show'r applause,</l>
+               <l>Who, while calamity severely reign'd,</l>
+               <l>Well the long labours of the siege sustain'd!</l>
+               <l>
+                  <pb n="20" facs="23"/>Deign to accept what my affections give,</l>
+               <l>And bid your kindred, friends, and children live:</l>
+               <l>This, this will cheer me in the trying hour,</l>
+               <l>When I shall bend at the stern tyrant's pow'r,</l>
+               <l>And the doom'd victim (as his rage decreed)</l>
+               <l>On the pure altar of my country bleed:</l>
+               <l>Ah! should my strong forebodings tell me true,</l>
+               <l>Pass one swift moment, these glad eyes shall view</l>
+               <l>The destin'd number of the victims rise,</l>
+               <l>To swell the rites of patriot sacrifice!'—</l>
+               <l>These words prophetic were not ardor's rant,</l>
+               <l>Five kindred bosoms warm for glory pant,</l>
+               <l>These youths th' Enthusiast, fev'ring from the rest,</l>
+               <l>Informs, and breathes herself into their breast,</l>
+               <l>And now envelop'd in her active flame,</l>
+               <l>The daring chiefs the pond'rous honor claim.</l>
+               <l>See, thro' th' applauses of the grateful throng,</l>
+               <l>The self-devoted heroes move along.</l>
+               <l>To EUSTACE now advanc'd a beauteous maid,</l>
+               <l>In the rude garb of negligence array'd,</l>
+               <l>
+                  <pb n="21" facs="24"/>Her auburn tresses ruffling to the wind,</l>
+               <l>Her eye expressive of her tortur'd mind:</l>
+               <l>'Say, desp'rate youth,' the wild'ring fair exclaim'd,</l>
+               <l>'What dire conception has thy bosom fram'd?</l>
+               <l>O death-importing scenery! sight abhorr'd!</l>
+               <l>Whence this attire, this ignominious cord?</l>
+               <l>Impell'd by frenzy whither dost thou tend?</l>
+               <l>Relent, relent, thine impious steps suspend!'—</l>
+               <l>With a calm fortitude the chieftain said,</l>
+               <l>'The path that climbs to honor's height I tread:</l>
+               <l>These joyful loud acclaims that rend the air</l>
+               <l>Wouldst thou convert to howlings of despair?</l>
+               <l>Ev'n love commands—with eager step I go</l>
+               <l>To shield JOANNA from impending woe.'</l>
+               <l>'What peace,' she answers, 'can I thence derive?</l>
+               <l>The lover murder'd, say can joy survive?</l>
+               <l>While famine, sickness, terrors I endur'd,</l>
+               <l>Was this the future bliss that hope assur'd?</l>
+               <l>To length'ning care, to sorrow still allied,</l>
+               <l>Behold JOANNA stands Misfortune's bride:</l>
+               <l>
+                  <pb n="22" facs="25"/>What time her flush'd expectancies drew near,</l>
+               <l>She meets her bridegroom on the hopeless bier.</l>
+               <l>Had Mercy, heav'n-descending Mercy stole</l>
+               <l>Her gentle radiance o'er the conq'ror's soul,</l>
+               <l>This day, escap'd from wide affliction's wreck,</l>
+               <l>This day might I, reclining on thy neck,</l>
+               <l>Have utter'd EDWARD's praise—that thought is flown,</l>
+               <l>And each fond project of my heart o'erthrown.</l>
+               <l>When from thy wound I drew the British dart,</l>
+               <l>And with these lips embalm'd th' envenom'd part,</l>
+               <l>Would that the poison like a subtile flame</l>
+               <l>Had scorch'd my entrails, and dissolv'd my frame!'</l>
+               <l>She ceas'd—her eye emits a weaker glance,</l>
+               <l>While her dim reason fades into a trance:</l>
+               <l>The youth, as if indignant of delay,</l>
+               <l>Drops her pale hand, and turns abrupt away:</l>
+               <l>Then to the partners of his fate he cried,</l>
+               <l>'Ye willing victims, to my soul allied,</l>
+               <l>Forgive, if passion's all-subduing pow'r</l>
+               <l>Dare to profane this high important hour;</l>
+               <l>
+                  <pb n="23" facs="26"/>Now, free of weakness, clear of love's controul,</l>
+               <l>I lead the way that runs to virtue's goal.'</l>
+            </lg>
+            <lg>
+               <l>ARRIV'D at EDWARD's tent, the dauntless youth</l>
+               <l>Resum'd—'Invested in this garb uncouth,</l>
+               <l>If, at thy bidding, thus we meet thine eye,</l>
+               <l>For grace (the coward's hope) we heave no sigh:</l>
+               <l>Since acts of slaughter are thy soul's best food,</l>
+               <l>O gorge thy rav'ning appetite of blood!'—</l>
+               <l>Now with the glowing youths, of equal mind,</l>
+               <l>In one resolve, one hope, one peril join'd,</l>
+               <l>He stands, unaw'd by death, sublimely great,</l>
+               <l>True to his cause, rejoicing in his fate.</l>
+            </lg>
+            <lg>
+               <l>BUT other scenes of high illustrious fame</l>
+               <l>Burst on my soul, impatient of their claim:</l>
+               <l>Behold! th' Enthusiast, freedom to regain,</l>
+               <l>Leads her stern Barons o'er the sacred plain;</l>
+               <l>'Tis glory's chase! how eagerly they speed</l>
+               <l>O'er the fam'd ransom-ground of RUNNYMEDE!</l>
+               <l>
+                  <pb n="24" facs="27"/>To the proud Monarch daring they complain—</l>
+               <l>'Say, hast thou not polluted ALBION's fane,</l>
+               <l>And plunder'd thence, with sacrilegious stealth,</l>
+               <l>The brightest gem, our pride, our better wealth.</l>
+               <l>Fair Freedom's heav'nly form? Of her bereft,</l>
+               <l>Life is a burden, not an envied gift.</l>
+               <l>The bending seer, with sorrow's weight opprest.</l>
+               <l>Who beats in his despair his wither'd breast,</l>
+               <l>Shall sooner from his tortur'd mind efface</l>
+               <l>The wretch who plung'd his daughter in disgrace,</l>
+               <l>Who in his sight compell'd her to his arms,</l>
+               <l>And rudely ravish'd her untasted charms,</l>
+               <l>Than we forgive thy violating pow'r,</l>
+               <l>That wrested Freedom from her native bow'r:</l>
+               <l>Licentious Monarch, thy approaching hand</l>
+               <l>Profanes the ark, and desecrates the land!'</l>
+               <l>They spoke—each battle-axe, now rear'd on high,</l>
+               <l>(Catching the splendor of th' unclouded sky)</l>
+               <l>Cast on th' illumin'd field a sudden light,</l>
+               <l>Whose rapid flash o'erpower'd the monarch's sight:</l>
+               <l>
+                  <pb n="25" facs="28"/>Upbraiding thoughts his wav'ring mind assail'd,</l>
+               <l>And fear, the tyrant's curse, his aspect pal'd:</l>
+               <l>At length he seals, with mean, reluctant soul,</l>
+               <l>(To BRITAIN ever dear) th' immortal scroll.</l>
+               <l>Hail, welcome instance of submitting pow'r,</l>
+               <l>Hail, holy Freedom's sacramental hour,</l>
+               <l>In which that offspring of indulgent Heav'n</l>
+               <l>Was with dread pomp to ENGLAND's sons regiv'n.</l>
+               <l>Now thro' disclosing skies th' angelic train</l>
+               <l>Pour on th' enraptur'd ear the choral strain,</l>
+               <l>'Be cheerful praise, be salutations paid,</l>
+               <l>'And hymns symphonious, to the godlike Maid,</l>
+               <l>'Whose energy resists the tyrant's plan:</l>
+               <l>'Joy be to Saints, and liberty to Man!'—</l>
+            </lg>
+            <lg>
+               <l>FROM Time's dark gulph, revolving back to light,</l>
+               <l>What new-born image rushes on my sight?</l>
+               <l>The bold COLUMBUS dedicates his sail</l>
+               <l>To the wild breathing of a stranger gale:</l>
+               <l>Th' Enthusiast bids his dauntless soul explore</l>
+               <l>Realms unreveal'd, and seas unplough'd before:</l>
+               <l>
+                  <pb n="26" facs="29"/>The hour now ripening in the womb of time,</l>
+               <l>Th' inspir'd adventurer reach'd the point sublime,</l>
+               <l>The long-obscuring veil for him was furl'd.</l>
+               <l>And on his vision burst another world!</l>
+               <l>Ecstatic Wonder heard the proud event,</l>
+               <l>And o'er the ocean the glad tidings sent:</l>
+               <l>Then Industry, as by electric stroke,</l>
+               <l>From her enduring sleep instinctive broke:</l>
+               <l>With brightest omens of her future reign,</l>
+               <l>This better VENUS rising from the main,</l>
+               <l>Saw from all harbours, rushing with the tide,</l>
+               <l>Unnumber'd vessels at her beck'ning glide:</l>
+               <l>Did it not seem as if the sever'd earth,</l>
+               <l>Like two fair sisters parted from their birth,</l>
+               <l>Acknowledging at length their kindred race,</l>
+               <l>Felt the warm transport of a first embrace?</l>
+            </lg>
+            <lg>
+               <l>NOW the same age a different scene presents,</l>
+               <l>And the bold vision labours with events:</l>
+               <l>Methinks I see, extending wide around,</l>
+               <l>A tow'ring wood with crowding leaves imbrown'd;</l>
+               <l>
+                  <pb n="27" facs="30"/>Beneath whose vast display of deadly shade</l>
+               <l>Her listless length lethargic EUROPE laid:</l>
+               <l>There Superstition her deep plan design'd</l>
+               <l>Against the awful sanctuary of the mind:</l>
+               <l>There the wan sorceress, haggard fiend of hell,</l>
+               <l>Midst her dim orgies mutter'd the dread spell.</l>
+               <l>The sun abhors to pour his radiant flood</l>
+               <l>O'er the dumb horror of the slumb'ring wood;</l>
+               <l>Yet thro' the gloom of sacerdotal night</l>
+               <l>One peerless star reveals a cheerful light:</l>
+               <l>Ah! why in mystic strains eclipse his name?</l>
+               <l>Demand, O LUTHER, thine unbounded fame:</l>
+               <l>Advance, advance, thou elder son of Truth,</l>
+               <l>Sublime, all-daring, restless, ardent youth!</l>
+               <l>I now behold th' enthusiastic Maid</l>
+               <l>Rushing impetuous to her fav'rite's aid:</l>
+               <l>She reaches to his lips a cup of fire,</l>
+               <l>Whose living drops the leaping pulse inspire,</l>
+               <l>O'er each thrill'd artery entracing roll,</l>
+               <l>And sublimate the high-aspiring soul.</l>
+               <l>
+                  <pb n="28" facs="31"/>Revealing now his mission from the skies,</l>
+               <l>He utters to the torpid world—'Arise!'</l>
+               <l>The sullen forest, wrapt in tenfold night,</l>
+               <l>Swift thro' a thousand vistas drinks the light:</l>
+               <l>Th' imprison'd tenants burst the mental tomb,</l>
+               <l>While from their eyes recedes the massive gloom:</l>
+               <l>The flaky clouds admit an orient ray,</l>
+               <l>And laughing morn unlocks the gates of day.</l>
+               <l>Prompt Apprehension sends her view around,</l>
+               <l>While her bold thoughts o'erleap their former bound,</l>
+               <l>And Joy proclaims throughout th' applauding earth.</l>
+               <l>The hallow'd festival of Reason's birth.</l>
+            </lg>
+            <lg>
+               <l>NOW the couch'd mind reveals its spotless eye,</l>
+               <l>Weak to sustain the splendor of the sky,</l>
+               <l>Till strength'ning at th' irradiating gleam,</l>
+               <l>It meets unblenching Truth's refulgent beam:</l>
+               <l>So when the keenly-glitt'ring darts of light</l>
+               <l>Pierce the loose film that dims the eaglet's sight,</l>
+               <l>First with an ignorant and coy survey</l>
+               <l>The dazzled bird admires the stranger day,</l>
+               <l>
+                  <pb n="29" facs="32"/>Then glancing on the sun with tow'ring gaze,</l>
+               <l>Kindles his vision at the noon-tide blaze.</l>
+            </lg>
+            <lg>
+               <l>NOW Science hears a voice unknown before—</l>
+               <l>'Haste, pilot, pilot quit the drowsy shore;</l>
+               <l>The fav'ring winds thy destin'd hour proclaim,</l>
+               <l>Display thy sails, and launch into thy fame.'</l>
+            </lg>
+            <lg>
+               <l>MEEK Toleration, heav'n-descending maid,</l>
+               <l>A vernal rainbow glitt'ring o'er her head,</l>
+               <l>Smooths the rough path destructive feet have trac'd,</l>
+               <l>Adorns and peoples Persecution's waste:</l>
+               <l>She, like the FLORA of the Pagan reign,</l>
+               <l>Sprinkles with roses the enamell'd plain,</l>
+               <l>Bids ev'ry flow'r of ev'ry clime arise,</l>
+               <l>And freely breathe its incense to the skies.</l>
+            </lg>
+            <lg>
+               <l>SEE Superstition, madd'ning at th' alarm,</l>
+               <l>Extend in thunder cloath'd her threat'ning arm,</l>
+               <l>But with'ring at the heart she rues the hour</l>
+               <l>That harshly severs her diminish'd pow'r:</l>
+               <l>
+                  <pb n="30" facs="33"/>Thus as the serpent, sleeping on the plain,</l>
+               <l>Feels the rude pressure of the loaded wain,</l>
+               <l>With apt revenge, and indignation stung,</l>
+               <l>She rears her crest, and darts her fiery tongue,</l>
+               <l>But impotent of rage, her trailing wound</l>
+               <l>She languishingly sweeps along the ground."</l>
+            </lg>
+            <lg>
+               <l>HERE clos'd the Seraph his illustrious theme,</l>
+               <l>Which on his audience flash'd conviction's beam.</l>
+               <l>—And now th' Enthusiast, with her hand high-rear'd,</l>
+               <l>Express'd a look demanding to be heard:</l>
+               <l>The circling Hierarchy, with one acclaim,</l>
+               <l>Urge her to vindicate her injur'd fame;</l>
+               <l>She, to their judgment fearlessly consign'd,</l>
+               <l>Thus pour'd th' effusion of her glowing mind:—</l>
+            </lg>
+            <lg>
+               <l>"BOLD on a tow'ring rock, with soul elate,</l>
+               <l>I saw BRITANNIA sit in regal state,</l>
+               <l>Around the globe she threw her vast survey,</l>
+               <l>And mark'd the realms devoted to her sway:</l>
+               <l>
+                  <pb n="31" facs="34"/>Her western clime, her oriental reign,</l>
+               <l>Her glory's theatre th' unbounded main:</l>
+               <l>I thus address'd her—'Hail, immortal dame,</l>
+               <l>Who high-exalted crowd'st the seat of fame,</l>
+               <l>Suspend the thoughts of thine imperial state.</l>
+               <l>And listen to th' event that heaves with fate:—</l>
+               <l>A prosp'rous mother (so did Heav'n ordain)</l>
+               <l>Bless'd and ennobled by a numerous train,</l>
+               <l>Beheld (a stranger to affection's tie)</l>
+               <l>Her youngest born with a disclaiming eye,</l>
+               <l>And, breaking loose from ev'ry moral band,</l>
+               <l>Stretch'd o'er th' innocuous babe an iron hand,</l>
+               <l>And hard'ning in her wrath, the helpless child</l>
+               <l>Was from her presence and her thought exil'd:</l>
+               <l>This little outcast lately I survey'd,</l>
+               <l>As mid the flow'rets of the wild he play'd</l>
+               <l>Artless and gay, himself the wilder flow'r,</l>
+               <l>Bare to the with'ring heat and quenching show'r.'</l>
+            </lg>
+            <lg>
+               <l>BRITANNIA quick return'd with loud acclaim,</l>
+               <l>'O piteous infant, O inhuman dame!</l>
+               <l>
+                  <pb n="32" facs="35"/>Where, where does she abide, that I may dart</l>
+               <l>The shaft of death into her wolfish heart?'</l>
+            </lg>
+            <lg>
+               <l>'TWAS then I added with indignant air—</l>
+               <l>'Dismiss thy threats, thy warm resentment spare,</l>
+               <l>Or droop thyself beneath a flood of shame,</l>
+               <l>Thine, thine the child, and thou th' inhuman dame.'</l>
+               <l>I said—and throwing back my flowing vest,</l>
+               <l>Disclos'd the infant clinging at my breast:</l>
+               <l>'Behold,' I cried, ' this flow'ret of the wild,</l>
+               <l>This orphan nursling, this rejected child,</l>
+               <l>Mark how around his brow of virtue's mold,</l>
+               <l>The signs of greatness dare ev'n now unfold;</l>
+               <l>How on the vigorous eye the morning ray</l>
+               <l>Preludes the splendor of meridian day:</l>
+               <l>Marvellous infant, doom'd to act my plan,</l>
+               <l>AMERICANUS, hasten into man!</l>
+               <l>O doom'd to act what Heaven's dread thought devis'd,</l>
+               <l>Thou at the font of Energy baptis'd,</l>
+               <l>Whose rigid waves thy conscious soul encreas'd,</l>
+               <l>Myself at once the sponsor and the priest——'"</l>
+            </lg>
+            <lg>
+               <pb n="33" facs="36"/>
+               <l>'ENOUGH,' th' abruptly-rising Quire exclaim,</l>
+               <l>'Aspire, Enthusiast, to thy wonted fame;</l>
+               <l>Thy virtues, claims, and eminence we own,</l>
+               <l>Resume thy dignities, ascend thy throne:</l>
+               <l>Still to frail man thy daring strength impart,</l>
+               <l>Still flame th' incentive seraph of his heart;</l>
+               <l>And when the scenes of earth shall fade away,</l>
+               <l>And man shall need no more thy active ray,</l>
+               <l>Then, sacred object of our praiseful theme,</l>
+               <l>Bright emanation of th' eternal beam,</l>
+               <l>Thou shalt regain thy native, dread abode,</l>
+               <l>And glow for ever in the breast of GOD.'</l>
+            </lg>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>

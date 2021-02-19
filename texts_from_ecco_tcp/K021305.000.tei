@@ -1,0 +1,1124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Clifton: a poem, in two cantos: Including Bristol and all its environs. By Henry Jones, ...</title>
+            <author>Jones, Henry, 1721-1770.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K021305.000</idno>
+            <idno type="docno">CW3310229327</idno>
+            <idno type="ecll">0146200400</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Clifton: a poem, in two cantos: Including Bristol and all its environs. By Henry Jones, ...</title>
+                  <author>Jones, Henry, 1721-1770.</author>
+               </titleStmt>
+               <extent>[4],44p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>Bristol :</pubPlace>
+                  <publisher>printed by E. Farley and Co. for the author: and sold in London by Dodsley; Walters; Davies; Kearsley; and Almon; and by the booksellers of Bristol and Bath,</publisher>
+                  <date>MDCLXVII [1767]</date>
+                  <idno type="TCP">K021305.000</idno>
+                  <idno type="docno">CW3310229327</idno>
+                  <idno type="ecll">0146200400</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT2151.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>CLIFTON: A POEM, In TWO CANTOS.</p>
+            <p>INCLUDING BRISTOL and all its ENVIRONS.</p>
+            <p>By <hi>HENRY JONES,</hi> Author of the EARL OF ESSEX, ISLE OF WIGHT, KEW-GARDENS, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>BRISTOL:</hi> Printed by E. FARLEY and Co. for the AUTHOR: And sold in <hi>London</hi> by DODSLEY, in <hi>Pall-Mall</hi>; WALTERS, <hi>Charing-Cross</hi>; DA<lb rend="hidden" type="hyphenInWord"/>VIES, in <hi>Russel-street</hi>; KEARSLEY, on <hi>Ludgate-Hill</hi>; and ALMON, in <hi>Piccadilly</hi>; and by the BOOKSELLERS of <hi>Bristol</hi> and <hi>Bath.</hi>
+            </p>
+            <p>MDCLXVII.</p>
+            <p>[Price Two Shillings and Sixpence.]</p>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <p>TO THE RIGHT HONORABLE NORBORNE Lord BOTTETOURT, The following <hi>Poem</hi> is humbly inscribed by</p>
+            <closer>
+               <signed>His Lordship's Obliged, and Obedient Servant, <hi>HENRY JONES.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <pb facs="3"/>
+         <div n="1" type="canto">
+            <head>CLIFTON.</head>
+            <head type="sub">CANTO I.</head>
+            <lg>
+               <l>CLIFTON, rich source of <hi>Heliconian</hi> stream!</l>
+               <l>Thou teeming topic! and thou lofty theme!</l>
+               <l>Where art, where nature leads the soul along,</l>
+               <l>And taste and commerce crown the copious song;</l>
+               <l>Where vast variety the heart expands,</l>
+               <l>And giving grandeur opens wide her hands;</l>
+               <l>With nature's noblest gifts regales the soul,</l>
+               <l>Each part a paradise—a heaven the whole!</l>
+               <l>Where health, where vigour quaffs the winnow'd air,</l>
+               <l>And drives far off the ugly fiend, <hi>Despair.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>MY muse, O CLIFTON! would thy summits climb,</l>
+               <l>And hand thy beauties down to latest time;</l>
+               <l>
+                  <pb n="2" facs="4"/>To ages yet unborn thy charms display,</l>
+               <l>In numbers lasting as the lamp of day;</l>
+               <l>Would <hi>Inspiration</hi> prompt my proud desire,</l>
+               <l>The song and subject should at once expire.</l>
+            </lg>
+            <lg>
+               <l>How epic wonders here the soul delight!</l>
+               <l>There, distant beauties strain th' impassion'd sight;</l>
+               <l>See rocks coeval with the world arise,</l>
+               <l>Whose cloud-swept groves seem waving in the skies;</l>
+               <l>By ages furrow'd deep, with time-plow'd mien,</l>
+               <l>With adverse frowns, with fractur'd foreheads seen,</l>
+               <l>Whilst <hi>Neptune</hi> rolls his rapid tides between.</l>
+               <l>See <hi>Wealth</hi> quick flying in the freighted gale,</l>
+               <l>See East, see West expand th' impatient sail;</l>
+               <l>Here earth, here ocean, mountains, rocks unite,</l>
+               <l>And in harmonious discord give delight;</l>
+               <l>There, princely piles in classic taste express'd,</l>
+               <l>In <hi>Grecian</hi> garb, in <hi>Roman</hi> grandeur dress'd,</l>
+               <l>A line of palaces o'erlook the town,</l>
+               <l>That with a jealous pride the prospect crown:</l>
+               <l>On different heights they stand in stately strife,</l>
+               <l>Like rank and dignity in moral life:</l>
+               <l>
+                  <pb n="3" facs="5"/>In various climax court th' attracted eyes,</l>
+               <l>The objects changing as the structures rise:</l>
+               <l>From pile to pile a prospect new appears,</l>
+               <l>And now the hills and now the river cheers.</l>
+               <l>See num'rous ships with sudden glance shoot by,</l>
+               <l>The sails and streamers only strike the eye:</l>
+               <l>Between th' embracing banks, for ever green,</l>
+               <l>They seem to move on land, their bulk unseen;</l>
+               <l>By glad propitious gales impatient blown,</l>
+               <l>With rapid speed and motion not their own.</l>
+               <l>See next a <note place="bottom" n="*">
+                     <hi>Dundry.</hi>
+                  </note> steeple on yon hill appear,</l>
+               <l>Yon distant hill, the <hi>Proteus</hi> of the year;</l>
+               <l>From whose oft-changing look, the watchful swain</l>
+               <l>Foretells the weather, and avoids the rain.</l>
+               <l>The blue aetherial hills see last uprise,</l>
+               <l>In azure robe to meet the bending skies.</l>
+               <l>Here pendent gardens with rich fruits appear,</l>
+               <l>The rip'ning bounty of the lavish year.</l>
+               <l>The temple rais'd above the group see sway,</l>
+               <l>And all th' extended various view survey.</l>
+               <l>Divine ambition in the choice is found,</l>
+               <l>Nay taste itself mark'd out the sacred ground;</l>
+               <l>
+                  <pb n="4" facs="6"/>With holy pride the lofty seat to shew,</l>
+               <l>And reign exulting o'er the world below;</l>
+               <l>Where some on others look with scornful phlegm,</l>
+               <l>Whilst others look with equal scorn on them;</l>
+               <l>With mole-hill malice dash the cup of life,</l>
+               <l>An inch in difference makes the mountain strife:</l>
+               <l>From proud comparison we quaff our all,</l>
+               <l>That source of human sweets, or human gall:</l>
+               <l>At which the restless soul impatient pants,</l>
+               <l>Begets her anguish, and creates her wants.</l>
+               <l>Oh frantic fallacy! oh brain-sick need!</l>
+               <l>Shall thy sleek beaver make my bosom bleed?</l>
+               <l>Thy better buckled belt make me repine,</l>
+               <l>Or if thy nails be closer cut than mine?</l>
+               <l>Shall I my lips with inward anguish bite,</l>
+               <l>If thy black kitten's tail be tipt with white?</l>
+               <l>Or if thy leeks than mine should greener grow,</l>
+               <l>And make thy fancied bliss, my REAL woe?</l>
+               <l>Envy in courts and cottages will dwell,</l>
+               <l>Nay climb to heaven itself, tho' born in hell:</l>
+               <l>In every living bosom lurks this pest,</l>
+               <l>But reigns unrival'd in the human breast;</l>
+               <l>
+                  <pb n="5" facs="7"/>On reason's throne usurps a thorny part,</l>
+               <l>And plants a thousand daggers in the heart.</l>
+            </lg>
+            <lg>
+               <l>THE moral here and natural world we see,</l>
+               <l>In wise gradation, and in just degree:</l>
+               <l>Where all constructed for one system's sake,</l>
+               <l>A happy, heterogeneous prospect make:</l>
+               <l>Where reason's scale from class to class can fall,</l>
+               <l>And measure equal bounty dealt to all;</l>
+               <l>Each lot can justly prize, in fortune's wheel,</l>
+               <l>But not from what we have, but what we feel.</l>
+            </lg>
+            <lg>
+               <l>FROM moral strains, let my glad numbers soar,</l>
+               <l>And yon coincidence with speed explore:</l>
+               <l>Where strong extremes produce a striking taste,</l>
+               <l>A <hi>Gothic</hi> building by a <hi>Greek</hi> embrac'd:</l>
+               <l>In contrast kind, the feasted eye to fill,</l>
+               <l>And mark the summit of the social hill:</l>
+               <l>Where <hi>Goldney</hi> acts the meek, the moral part,</l>
+               <l>And daily works new miracles of art.</l>
+               <l>Where he like <hi>Moses</hi> makes the water flow,</l>
+               <l>His gold the rock obeys, but not his blow:</l>
+               <l>
+                  <pb n="6" facs="8"/>His gold, that conquers nature's hardest laws,</l>
+               <l>And fountains from the rocky center draws:</l>
+               <l>His well spent gold a two-fold transport gives,</l>
+               <l>The garden gladdens, and the labourer lives.</l>
+               <l>Such toils refresh at once the heart and head,</l>
+               <l>Give taste a banquet, and the rustic bread:</l>
+               <l>Make nature wonder at her thin-wove mask,</l>
+               <l>And truth survey her own transparent task.</l>
+               <l>The master's pleasure with th' improvement grows,</l>
+               <l>In all the rapture, that a parent knows:</l>
+               <l>When wise discretion weighs th' unerring coin,</l>
+               <l>And makes his pleasure with his prudence join.</l>
+               <l>Then sweet ambition bids the heart begin,</l>
+               <l>For genius feels a paradise within:</l>
+               <l>And tho' at first her task may seem too hard,</l>
+               <l>The accomplish'd wonder is its own reward.</l>
+               <l>Then fancy triumphs, when by judgment led,</l>
+               <l>And wears the well-earn'd wreath around her head:</l>
+               <l>Without a blush her own bright work surveys,</l>
+               <l>Improves the rapture, and enjoys the praise:</l>
+               <l>A new creation lifts the admiring lid,</l>
+               <l>Here nature looks abroad, here art lies hid:</l>
+               <l>
+                  <pb n="7" facs="9"/>O'er the grand form her mantle meek she flings,</l>
+               <l>But ornaments are arbitrary things:</l>
+               <l>Yet even there should fancy never stray,</l>
+               <l>From nature's path, or seek a wiser way;</l>
+               <l>Art is but nature in her best array.</l>
+               <l>With simple elegance she smiling stands,</l>
+               <l>In blameless garb, put on by <hi>Goldney</hi>'s hands:</l>
+               <l>Him genius taught the tasteful eye to cheer,</l>
+               <l>With sober judgment whispering in his ear:</l>
+               <l>As wise discretion rules the realms of wit,</l>
+               <l>The happy medium here, he happy hit;</l>
+               <l>Where each bright incident performs its part,</l>
+               <l>With inward rapture melts the master's heart;</l>
+               <l>And each congenial guest with joy invades,</l>
+               <l>The fountains, grottos, and the clear cascades;</l>
+               <l>The tall parterres that lift the comely face,</l>
+               <l>And yield at once such majesty and grace,</l>
+               <l>With ev'ry growing beauty in its place.</l>
+               <l>A minor <hi>Stow</hi> on <hi>Clifton</hi>'s crown we find,</l>
+               <l>In <hi>Epic</hi> meekness, like its master's mind.</l>
+            </lg>
+            <lg>
+               <l>HERE buildings boast a robe, tho' rich yet chaste,</l>
+               <l>The robe of judgment, and of ripen'd taste:</l>
+               <l>
+                  <pb n="8" facs="10"/>Convenience here is mix'd with manly grace,</l>
+               <l>Yet ornament but holds the second place.</l>
+               <l>To human frames these structures seem akin,</l>
+               <l>With aspect fair, while reason rules within.</l>
+               <l>These domes discretion decks and fancy cheers,</l>
+               <l>
+                  <hi>Palladio</hi>'s stile in <hi>Patty</hi>'s plans appears:</l>
+               <l>Himself a master with the first to stand,</l>
+               <l>For <hi>Clifton</hi> owes her beauties to his hand.</l>
+            </lg>
+            <lg>
+               <l>HENCE to the vale, by mountain rocks secur'd,</l>
+               <l>By nature's own immortal hand immur'd,</l>
+               <l>The vale, where skreen'd <hi>Avona</hi> sinks and swells,</l>
+               <l>That warping leads me to the hallow'd <hi>Wells,</hi>
+               </l>
+               <l>I wander joyful, with unbounded glee,</l>
+               <l>From all I raptur'd hear, and raptured see:</l>
+               <l>To where sweet health her far-sought balm bestows,</l>
+               <l>And beauty with re-kindled fervor glows.</l>
+               <l>Above this fountain of supreme delight,</l>
+               <l>Two ponderous rocks surprize and please the sight:</l>
+               <l>With bending brows of nearer terms they treat,</l>
+               <l>Thro' countless ages essay'd oft to meet;</l>
+               <l>With grey address the tedious courtship con,</l>
+               <l>And wish the aerial arch would make them one:</l>
+               <l>
+                  <pb n="9" facs="11"/>The nuptial bridge sublime their brows would join,</l>
+               <l>Whilst <hi>Europe</hi> wonder'd at the work divine.</l>
+               <l>Blenheim <hi>should blush, tho' high her concave swells,</hi>
+               </l>
+               <l>Nay <hi>Venice</hi> veil her bonnet to the <hi>Wells</hi>:</l>
+               <l>Her proud <hi>Rialto</hi> should no more appear,</l>
+               <l>But <hi>France</hi> and <hi>Italy</hi> come crowding here;</l>
+               <l>Can then ambition sleep when GLORY calls,</l>
+               <l>The MUSE herself shall help to raise the walls;</l>
+               <l>With <hi>Orphean</hi> sounds the work divine advance,</l>
+               <l>And make the willing stones in order dance;</l>
+               <l>Expand the joy-touch'd heart, enlarge the mind,</l>
+               <l>And <note place="bottom" n="*">
+                     <hi>James Lacy,</hi> 
+                     <abbr>Esq</abbr> the Designer of Ranelagh-House was consulted on the project of building a Bridge from Rock to Rock.</note> 
+                  <hi>Lacy</hi> leave one wonder more behind:</l>
+               <l>The groves on high their frequent nod bestow,</l>
+               <l>And earth and water give consent below;</l>
+               <l>Whilst ART stands ready with impatient hands,</l>
+               <l>But gold, demurring gold forbids the bands;</l>
+               <l>That scrupulous wight, whom lock'd-up souls adore,</l>
+               <l>He listens not, alas! to amorous lore,</l>
+               <l>Who many a noble match hath marr'd before.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="12"/>
+               <l>THE walks see full, see health disclose her hive,</l>
+               <l>Whilst all the neighbouring objects seem alive;</l>
+               <l>See bounty there her healing store unlocks,</l>
+               <l>Breathes all her vital veins, her genial rocks,</l>
+               <l>Distill'd by nature in her richest cell,</l>
+               <l>Where health sits brooding, and her offspring dwell;</l>
+               <l>With heaven in council deep, for mortal weal,</l>
+               <l>Where angels blend the balm, and bid it heal;</l>
+               <l>There love and beauty revel in the tide,</l>
+               <l>There grace and vigour wanton at their side;</l>
+               <l>That with more lustre make glad beauty glow,</l>
+               <l>Than all the diamonds orient realms bestow;</l>
+               <l>The cheek to vermil, and relume the eye,</l>
+               <l>And make disease that pallid fantom fly</l>
+               <l>From all his windings in the nerves and limbs,</l>
+               <l>When thro' the laxed tubes he lazy swims,</l>
+               <l>The sizy, creeping, tardy, torpid flood,</l>
+               <l>That long in hesitating lakes hath stood</l>
+               <l>With loaded bane to blast the balmy blood,</l>
+               <l>With pining atrophy, and spitting gore,</l>
+               <l>And all the wastings of the vital store;</l>
+               <l>With diabetes and its irksome train,</l>
+               <l>And life-consuming dews, and mental pain.</l>
+               <l>
+                  <pb n="11" facs="13"/>Here health expels disease, that deep-hid mole,</l>
+               <l>Winds up the body, and lets loose the soul,</l>
+               <l>Calls virtue home, with health, in exile still,</l>
+               <l>Revives th' affections, and awakes the will,</l>
+               <l>Bids love and friendship in the bosom play,</l>
+               <l>And drives each dark dissocial cloud away,</l>
+            </lg>
+            <lg>
+               <l>HERE art and nature lift the patient up,</l>
+               <l>When learned ** guides the healing cup,</l>
+               <l>The lenient friend can smiling health restore,</l>
+               <l>When leeches frown, and cordials cure no more;</l>
+               <l>Would his lov'd <hi>Bath</hi> permit him oft to roam,</l>
+               <l>And make the wishing <hi>Wells</hi> his happy home;</l>
+               <l>With **'s balm his healing stores to blend,</l>
+               <l>And be to virtue, health, and each a friend;</l>
+               <l>Then virtue, health, their own glad growth, should see,</l>
+               <l>And like their friendships and their art agree.</l>
+            </lg>
+            <lg>
+               <l>HAIL, health! thou harmony of parts and whole,</l>
+               <l>Thou sweet consent of body and of soul,</l>
+               <l>Who makes thy citadel the central heart,</l>
+               <l>And sends rich succours thence to every part;</l>
+               <l>
+                  <pb n="12" facs="14"/>Thro' aiding arteries, and vivid veins,</l>
+               <l>Thy virtue quickens, and thy vigour reigns;</l>
+               <l>The smallest parts remote they glad console,</l>
+               <l>The smallest parts return thee to the whole;</l>
+               <l>Thee, goddess, thee the grateful muse would sing,</l>
+               <l>And dip her deep in thy <hi>Castalian</hi> spring:</l>
+               <l>Hail, thou fountain fair, inspiring health,</l>
+               <l>Thou soul of rapture, and of reason's wealth;</l>
+               <l>Thou purest bliss, with least of life's alloy,</l>
+               <l>Content and thee, the crown of ev'ry joy;</l>
+               <l>If thou art absent, gold but grieves the more,</l>
+               <l>And kings look up with envy at the poor;</l>
+               <l>The scepter sickens, at the healthful spade,</l>
+               <l>And God maintains the equal law he made;</l>
+               <l>At <hi>Clifton</hi> long the languid spirit cheer,</l>
+               <l>And send thy vital cordials far and near,</l>
+               <l>And call from either pole the patient here.</l>
+            </lg>
+            <lg>
+               <l>THE festive rooms their aiding balm bestow,</l>
+               <l>When music mingles with thy vital glow,</l>
+               <l>And dancing kindles up the lamp of joy,</l>
+               <l>Where care must never peep, nor pain annoy.</l>
+               <l>
+                  <pb n="13" facs="15"/>The ecchoing rooms, to grand proportion true,</l>
+               <l>The self-begetting sounds, the charming view,</l>
+               <l>The converse glowing, and the melting glance</l>
+               <l>Thro' all the mazes of th' inspiring dance,</l>
+               <l>Bid joy and vigour in the visage blend,</l>
+               <l>And love and friendship in the soul contend.</l>
+            </lg>
+            <lg>
+               <l>THEE, <hi>Lysaght,</hi> lovely as the summer rose;</l>
+               <l>On whom, in vain, the breath of envy blows;</l>
+               <l>Thee, <hi>Lysaght,</hi> thee, the muse would justly praise,</l>
+               <l>On that high theme would fain exalt her lays:</l>
+               <l>Thy beauty rises like the rising day,</l>
+               <l>And drives the clouds of malice far away;</l>
+               <l>The shafts of rancour at thy feet see fall,</l>
+               <l>Thy beauty blunts, thy virtue spurns them all;</l>
+               <l>Victorious in thy march, triumphant move,</l>
+               <l>Arm'd by each grace, each virtue, and each love;</l>
+               <l>These inmates firm, these bright, these strong allies,</l>
+               <l>Reign in thy soul, and conquer in thy eyes:</l>
+               <l>The muse ambitious would exalt her fame,</l>
+               <l>And graft her lawrel on thy envy'd name.</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="16"/>
+               <l>THERE <hi>Murray</hi> shines, that <hi>Caledonian</hi> star,</l>
+               <l>In her illustrious sphere belov'd from far:</l>
+               <l>She glads the glowing heart, she charms the eye,</l>
+               <l>Like <hi>Venus</hi> winding in her orb on high.</l>
+            </lg>
+            <lg>
+               <l>Laroche, <hi>distinguish'd in th' inchanting maze,</hi>
+               </l>
+               <l>With ease, with beauty, born to melt and raise</l>
+               <l>The gazer's transport, and the poet's praise;</l>
+               <l>
+                  <hi>Bristol</hi> in her may boast a nymph divine,</l>
+               <l>And lot the offer'd incense now he mine.</l>
+            </lg>
+            <lg>
+               <l>SWEET <hi>Mosely</hi> there adorns the brilliant hand,</l>
+               <l>By graces molded, and by beauty's hand:</l>
+               <l>The finish'd frame a faultless shape can shew,</l>
+               <l>A face unhurt by beauty's greatest foe:</l>
+               <l>With tender hand he touch'd her radiant cheek,</l>
+               <l>Aw'd by her air divine, her presence meek;</l>
+               <l>His visit scarce the lovely virgin felt,</l>
+               <l>Her virtues made the tyrant's rage to melt,</l>
+               <l>He durst not hurt the shrine where angels dwelt.</l>
+               <l>Such <hi>beauties,</hi> health, are here thy sweet allies,</l>
+               <l>They charm at once the heart, the ears, the eyes.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="17"/>
+               <l>TH' adjacent squares bestow their sheltering state,</l>
+               <l>With proud urbanity they willing wait,</l>
+               <l>Like city sheriffs at St. <hi>James</hi>'s gate.</l>
+            </lg>
+            <lg>
+               <l>ASCEND, my muse, on eagle pinions rise,</l>
+               <l>Wheel round the broad expanse, the joyful skies,</l>
+               <l>Survey th' enormous rocks, that high hang o'er,</l>
+               <l>The frighted billows, and the sounding shore,</l>
+               <l>And all the prospect on the wing explore.</l>
+               <l>Let all the landskip in my fancy live,</l>
+               <l>And numbers equal to the subject give;</l>
+               <l>On proud excursion wider stretch the wing,</l>
+               <l>And gather graces that at distance spring;</l>
+               <l>With richest fragrance make the wreath complete,</l>
+               <l>And lay it breathing, down at <hi>Berkley</hi>'s feet.</l>
+               <l>Will he adopt the well-intended lays,</l>
+               <l>To <hi>Berkley</hi> sacred, and to virtue's praise?</l>
+               <l>Will <hi>Berkley</hi> lend the muse his powerful aid,</l>
+               <l>And graft her lays beneath his sheltering shade,</l>
+               <l>With fostering influence lift her laurel high,</l>
+               <l>From that illustrious stem to reach the sky?</l>
+            </lg>
+            <lg>
+               <pb n="16" facs="18"/>
+               <l>WHAT lofty mansion sudden strikes the sight!</l>
+               <l>With awful grandeur, and serene delight,</l>
+               <l>With princely air that lifts the head on high,</l>
+               <l>And reigns unrival'd o'er the heart and eye:</l>
+               <l>Whose candid mien, with manly welcome chears,</l>
+               <l>Whilst all the <note place="bottom" n="*">Mihi Vobisque.</note> motto in the pile appears.</l>
+               <l>Another <hi>Windsor</hi> crowns th' exalted hill,</l>
+               <l>O'erwhelms the fancy, and absorbs the will,</l>
+               <l>With true magnificence elates the mind,</l>
+               <l>By time made awful, and by taste refin'd.</l>
+            </lg>
+            <lg>
+               <l>THEE, <hi>Stoke</hi>! th' ambitious muse, sincere would sing,</l>
+               <l>To <hi>Berkley</hi>'s high domain her tribute bring;</l>
+               <l>His <hi>titled name</hi> for numbers is too hard,</l>
+               <l>The <hi>patriot,</hi> not the <hi>peer,</hi> excites the bard.</l>
+               <l>True <hi>British</hi> worth the honest muse would praise,</l>
+               <l>True <hi>British</hi> worth, not rank, deserves her lays.</l>
+               <l>Tho' honour's stamp, first minted for the best,</l>
+               <l>Is oft on dross, as well as gold impress'd;</l>
+               <l>In him the rank and sterling worth accord,</l>
+               <l>
+                  <hi>Intrinsic worth</hi> for once hath made a <hi>lord.</hi>
+               </l>
+               <l>
+                  <pb n="17" facs="19"/>The <hi>insignia</hi> there let sharpest malice scan,</l>
+               <l>The <hi>title</hi> owes its value to the <hi>man</hi>:</l>
+               <l>True worth, and long roll'd down, his claim makes good,</l>
+               <l>Ennobled by his own and <hi>Beaufort</hi>'s blood.</l>
+            </lg>
+            <lg>
+               <l>SEE, see, what sense, what taste with truth abound,</l>
+               <l>In every stately groupe and grove around,</l>
+               <l>With unaffected air and casual glance,</l>
+               <l>That look like nature, led by happy chance:</l>
+               <l>Where <hi>art</hi> seems vanish'd from the <hi>Epic</hi> space,</l>
+               <l>But leaves behind, her simple robe her grace;</l>
+               <l>In meek disguise, so rich and yet so plain,</l>
+               <l>O'erlook'd and lost in nature's nobler train:</l>
+               <l>To dress her mistress out, is all her part,</l>
+               <l>With pure simplicity and sparing art,</l>
+               <l>To give, not hide her, from the head and heart.</l>
+            </lg>
+            <lg>
+               <l>BEHOLD the goddess stretch her lawful reign,</l>
+               <l>With polish'd scepter, o'er the hills and plain,</l>
+               <l>O'er the tall terrace and the vales preside,</l>
+               <l>Her scope magnificence, good-sense her guide;</l>
+               <l>
+                  <pb n="18" facs="20"/>With easy grandeur and untechnic mien,</l>
+               <l>In form a wood-nymph, but in state a queen.</l>
+               <l>How graceful there the gradual slopes incline!</l>
+               <l>Like bowing kings, or beauty's bending line:</l>
+               <l>There, <hi>Phoebus</hi> self from hill to hill might rove,</l>
+               <l>Might wake with heav'nly harp the vocal grove,</l>
+               <l>And <hi>Juno</hi> make the vale her rich alcove:</l>
+               <l>Such keeping there, such contrast bold we see,</l>
+               <l>There beauties differ most, there most agree.</l>
+               <l>With thee, lov'd <hi>Stoke</hi>! what rival can compare?</l>
+               <l>A country, not a garden strikes us there,</l>
+               <l>With native charms thy continent regales,</l>
+               <l>With more true grandeur than at proud <hi>Versailles</hi>;</l>
+               <l>Where <hi>fiction</hi> nature's loaded face belies,</l>
+               <l>With arbitrary masks, and false disguise;</l>
+               <l>Where simple <hi>truth,</hi> the child of guided chance,</l>
+               <l>Is lost in marvellous and vain romance:</l>
+               <l>There, magic miracles obedient stand,</l>
+               <l>As when some wizard waves his potent wand</l>
+               <l>With stroke astonishing makes wonder stare,</l>
+               <l>For <hi>Truth</hi> and <hi>Nature</hi> have no business there.</l>
+            </lg>
+            <lg>
+               <pb n="19" facs="21"/>
+               <l>AT <hi>Stoke,</hi> correct, see symbols list you, like</l>
+               <l>True classic epithets, that strongly strike</l>
+               <l>A manly character, and meaning round,</l>
+               <l>That mark and sanctify the story'd ground.</l>
+               <l>An awful vestige, reverend made by years,</l>
+               <l>A ruin there its shatter'd head uprears,</l>
+               <l>By taste imagin'd, with a moral eye,</l>
+               <l>Lo! there the <hi>Pyramid</hi> invades the sky:</l>
+               <l>Whilst heart-felt ornaments regale above,</l>
+               <l>The fragrant green-house and the genial grove,</l>
+               <l>By nature helmed with a gothic roof,</l>
+               <l>To ward the sun, in beauty's bright behoof,</l>
+               <l>And hold the rude insulting storms aloof.</l>
+            </lg>
+            <lg>
+               <l>SEE, prudence here and pleasure hand in hand,</l>
+               <l>Walk o'er the living lawns and fertile land:</l>
+               <l>The vallies rich, see, stock'd with stately steers,</l>
+               <l>Who look at distance like incamped deers:</l>
+               <l>Who grouping gaze among the vales and wood,</l>
+               <l>As erst the speckled long-neck'd nations stood,</l>
+               <l>For private ornament and public good.</l>
+            </lg>
+            <lg>
+               <pb n="20" facs="22"/>
+               <l>WOULD gold and grandeur lift the lordly mind,</l>
+               <l>To wed with wealth the <hi>love of human-kind</hi>;</l>
+               <l>Would <hi>Britain</hi> copy <hi>Berkley</hi>'s noble plan,</l>
+               <l>That friend to <hi>genius,</hi> and that friend to <hi>man</hi>:</l>
+               <l>Then <hi>title</hi> should unenvied honours spread</l>
+               <l>Around th' applauded patriot's sacred head;</l>
+               <l>The <hi>arts</hi> should flourish, and the poor have bread.</l>
+            </lg>
+            <trailer>End of the first Canto.</trailer>
+         </div>
+         <div n="2" type="canto">
+            <pb facs="23"/>
+            <head>CLIFTON.</head>
+            <head type="sub">CANTO II.</head>
+            <lg>
+               <l>AGAIN, the muse attempts her towering flight,</l>
+               <l>To virtue sacred, and to pure delight;</l>
+               <l>Where wide variety the soul expands,</l>
+               <l>Exalts the fancy, and the heart commands;</l>
+               <l>From scene, to scene, on raptur'd wing would rove,</l>
+               <l>Like <hi>Maia</hi>'s offspring, or the bird of <hi>Jove</hi>;</l>
+               <l>Enjoy the beauties that serene abound</l>
+               <l>With graceful forms, above, below, around;</l>
+               <l>The whole horizon, fill'd through every part</l>
+               <l>With nature's wonders, and thy wonders, art!</l>
+               <l>Where both excel, where both ambitious vie</l>
+               <l>To charm the fancy, and to feast the eye.</l>
+               <l>
+                  <pb n="22" facs="24"/>
+                  <hi>King's-weston</hi> there, delightful various scene!</l>
+               <l>The muse enjoys, and reigns a raptur'd queen!</l>
+               <l>With throbbing bosom, and extatic eye,</l>
+               <l>O'er all the subject, ocean, hills and sky,</l>
+               <l>The saint perspective, and the dying view,</l>
+               <l>The boundless plan to just proportion true,</l>
+               <l>Where each bright beauty spreads its tints abroad</l>
+               <l>In all the splendors of thy pencil, <hi>Claude</hi>!</l>
+               <l>Where parts, on parts, reflect a lucid ray,</l>
+               <l>That all the lustre of the whole display;</l>
+               <l>Where harmony her happy order shews,</l>
+               <l>In all the art that on the canvass glows;</l>
+               <l>The plastic picture strikes th' astonish'd mind,</l>
+               <l>The ships in prospect, and the hills behind;</l>
+               <l>The woods, the mountains at due distance rise,</l>
+               <l>In perfect unison with sea and skies!</l>
+               <l>There light and shade their wond'rous strength impart,</l>
+               <l>There nature seems to take the hint from art.</l>
+            </lg>
+            <lg>
+               <l>THE vale incult, by random robe see grac'd,</l>
+               <l>With <hi>Southwell</hi> soaring to the mark of taste;</l>
+               <l>
+                  <pb n="23" facs="25"/>Whose classic eye each erring stroke shall scan,</l>
+               <l>Reform the model, and improve the plan;</l>
+               <l>To simple majesty reduce the pile,</l>
+               <l>And bid discretion through the garden smile;</l>
+               <l>Make truth and unity in all combine,</l>
+               <l>And taste and judgment crown the clear design;</l>
+               <l>Unnumber'd beauties thence attract the soul,</l>
+               <l>That seem expanded to the distant pole;</l>
+               <l>The outline endless, charms th' insatiate eyes,</l>
+               <l>Within that trait ten thousand beauties rise,</l>
+               <l>With incidents above <hi>Salvator</hi>'s hand,</l>
+               <l>Of ocean, air, of forest, sky, and land.</l>
+            </lg>
+            <lg>
+               <l>THEE, <hi>Blazwood,</hi> next shalt in my verse appear,</l>
+               <l>In all the mantles of the various year,</l>
+               <l>At once invelop'd, and forever drest,</l>
+               <l>Her winter, vernal, and autumnal vest.</l>
+               <l>Thee, proud assemblage of great nature's skill,</l>
+               <l>Where rock and cave, and wood, and vale, and hill,</l>
+               <l>In congregated awful groupes, unite,</l>
+               <l>That yield at once both terror and delight;</l>
+               <l>
+                  <pb n="24" facs="26"/>A lovely lawn, that spreads both far and wide,</l>
+               <l>Where thin-sprung trees expand their stately pride,</l>
+               <l>Invites the eye with hospitable air;</l>
+               <l>There spring exults, and summer loiters there;</l>
+               <l>Thence to a sounding gloomy vale we walk,</l>
+               <l>Where ecchos to responsive ecchos talk;</l>
+               <l>A deep-hid gurgling noise the car invades,</l>
+               <l>From craggy falls, and murmuring cascades,</l>
+               <l>With vocal streams invisible that glide,</l>
+               <l>Where jealous shades the hoarse musicians hide,</l>
+               <l>By nature taught to pour her notes along,</l>
+               <l>In sounds sonorous, and in lofty song,</l>
+               <l>That all th' aspiring theatre can sill,</l>
+               <l>The sounds sonorous toss from hill to hill.</l>
+               <l>Now up the walk we tread with slow ascent,</l>
+               <l>The rocky walk from nature's bowels rent,</l>
+               <l>With story'd climax through the vale ascends,</l>
+               <l>And here and there the visual ray extends,</l>
+               <l>Lets in the object that at distance grows,</l>
+               <l>And now a wood, and now a villa shews</l>
+               <l>In contrast strong, and high opposing pride,</l>
+               <l>The theatre still travels by its side,</l>
+               <l>
+                  <pb n="25" facs="27"/>With hoary verdure o'er the vocal brooks,</l>
+               <l>And on the naked rock disdainful looks:</l>
+               <l>From stage, to stage, we pausing win our way,</l>
+               <l>The twilight brightens, and discloses day,</l>
+               <l>By just degrees revealing wood and lawn,</l>
+               <l>And rises radiant, like the rising dawn:</l>
+               <l>A shining vision, stretching far and nigh,</l>
+               <l>With sudden blaze devellops earth and sky,</l>
+               <l>Relieves the fancy and inchants the eye.</l>
+               <l>Here <hi>Farr</hi> with inbred rapture may resort,</l>
+               <l>And see his ships glad sailing into port,</l>
+               <l>With <hi>Indian</hi> treasures on the current ride,</l>
+               <l>To crown the prospect, and enrich the tide:</l>
+               <l>What nameless raptures must his joys renew,</l>
+               <l>With growing taste at once, and wealth, in view;</l>
+               <l>The harbour, ships, the sea, the mountains shine,</l>
+               <l>With instant lustre, and with ray divine;</l>
+               <l>Lo, <hi>Southwell</hi>'s landskip, happy <hi>Farr,</hi> is thine!</l>
+               <l>There on the right a <hi>Roman</hi> camp we find,</l>
+               <l>Lest by the lords and masters of mankind;</l>
+               <l>Where coins and medals narrative are found,</l>
+               <l>Those story'd registers from under ground,</l>
+               <l>
+                  <pb n="26" facs="28"/>A moral lecture to the mind convey;</l>
+               <l>The <hi>Latian</hi> glories, in their last decay,</l>
+               <l>May mad ambition's frantic boast deride,</l>
+               <l>And human vanity, and human pride:</l>
+               <l>From hence, kind nature opens wide her arms,</l>
+               <l>Her pictures ravish, and her prospect charms;</l>
+               <l>From hence, the sated soul forbids the sight,</l>
+               <l>O'ercome, and fill'd with surfeits of delight.</l>
+               <l>Where erst the <hi>Roman</hi> eagles wav'd in air,</l>
+               <l>Behold a peaceful growing pile appear,</l>
+               <l>For friendly banquet, in a <hi>Gothic</hi> guise,</l>
+               <l>From forth the center of the camp arise;</l>
+               <l>Which shall each sense with each regale supply,</l>
+               <l>But feast for ever the insatiate eye;</l>
+               <l>Thence down a vegetable arch we stray,</l>
+               <l>A growing gallery, with winding way,</l>
+               <l>Where lovely labyrinths in mazes run,</l>
+               <l>To the sweet rustic lawn where we begun:</l>
+               <l>There <hi>Farr</hi> with willing heart can frequent blend</l>
+               <l>The connoisseur, the merchant, and the friend;</l>
+               <l>At the rich genial board in each can shine,</l>
+               <l>And make his converse lively as his wine;</l>
+               <l>
+                  <pb n="27" facs="29"/>His three years toil with happy eye may view,</l>
+               <l>And joyful guess what three years more can do.</l>
+               <l>His lov'd <hi>Lucinda</hi> in her orb can charm,</l>
+               <l>Her smile can gladden, and her music warm;</l>
+               <l>From forth the answering keys her fingers call</l>
+               <l>The soul of harmony, that joy of all;</l>
+               <l>Her measures, like her mind, are fill'd with grace,</l>
+               <l>In sounds you hear, you see it in her face.</l>
+            </lg>
+            <lg>
+               <l>To <hi>Tyndall</hi> next the muse her lyre shall sound,</l>
+               <l>To <hi>Draper</hi> brave, by both <hi>Minervas</hi> crown'd;</l>
+               <l>Athwart the down, she waves once more the wing,</l>
+               <l>Her much-lov'd <hi>Clifton</hi>'s praise, once more would sing;</l>
+               <l>It's various beauties and it's lofty state,</l>
+               <l>With all the villas that it's levee wait;</l>
+               <l>Where <hi>Tyndall</hi>'s stands above th' alternate flood,</l>
+               <l>In peaceful pomp array'd, belov'd and good,</l>
+               <l>Was once the mark of discord and of blood;</l>
+               <l>Of civil blood, when bold rebellion reign'd,</l>
+               <l>And nature's bosom with her vitals stain'd;</l>
+               <l>A royal fort upon that spot uprose,</l>
+               <l>Which thunder'd strong on freedom's fatal foes;</l>
+               <l>
+                  <pb n="28" facs="30"/>When sell fanatic fury tore the land,</l>
+               <l>And wrench'd the scepter, <hi>Charles,</hi> from thy just hand:</l>
+               <l>Oh, days accurs'd! may they return no more,</l>
+               <l>With crimes all spotted, and with kindred gore;</l>
+               <l>Let loyalty long flourish, peace prevail;</l>
+               <l>And <hi>George</hi> and justice poize th' unerring scale;</l>
+               <l>Let commerce roll; let <hi>Britain</hi>'s trident grow,</l>
+               <l>Her matchless thunder blast the foreign foe,</l>
+               <l>Whilst each firm heart shall firmest aid afford,</l>
+               <l>Like <hi>Tyndall</hi>'s treasures, and like <hi>Draper</hi>'s sword;</l>
+               <l>Who here high blest with retrospect serene,</l>
+               <l>Enjoys his two-sold wreath forever green.</l>
+            </lg>
+            <lg>
+               <l>SEE <hi>Redland</hi> rising in harmonious scale;</l>
+               <l>There order, taste, there truth and grace prevail:</l>
+               <l>A plan so pure might <hi>Stanhope</hi>'s eye delight,</l>
+               <l>Where genius, art, where <hi>Greece</hi> and <hi>Rome</hi> unite;</l>
+               <l>Correct and finish'd, in proportion true,</l>
+               <l>To feast the judgment, and to charm the view,</l>
+               <l>The fair domain, the garden, and the grove,</l>
+               <l>Are made for wisdom's walk, are made for love.</l>
+               <l>
+                  <pb n="29" facs="31"/>A beauteous pile, see, built for soul sent pray'r,</l>
+               <l>There saints might kneel, and angels offer there.</l>
+            </lg>
+            <lg>
+               <l>Lo, <hi>Kingsdown</hi> next, I view with heart elate,</l>
+               <l>And <hi>Reeve</hi>'s at distance on the city wait;</l>
+               <l>With beauties different as their different place,</l>
+               <l>Like courtly dames their awful queen they grace:</l>
+               <l>There <hi>Rake</hi> supplies with ready hand the bowl,</l>
+               <l>Who gives the banquet, when he gives his soul.</l>
+               <l>Unnumber'd charms the city sides surround,</l>
+               <l>Lo! <hi>Bristol</hi> shines, by art and nature crown'd;</l>
+               <l>Thee, <hi>Bristol,</hi> thee th' elated muse shall praise,</l>
+               <l>And bind thy sorehead with unsading bays,</l>
+               <l>Thee, mart of commerce, and of rip'ning taste,</l>
+               <l>By manners polish'd, and by wealth increas'd;</l>
+               <l>Extended nobly with becoming pride,</l>
+               <l>With streets, with palaces both far and wide</l>
+               <l>Supreme adorn'd, with fanes that lofty swell,</l>
+               <l>Where sanctity may soar, and seraphs dwell;</l>
+               <l>Where holiness in beauty's ray may shine,</l>
+               <l>And purity proclaim the space divine;</l>
+               <l>
+                  <pb n="30" facs="32"/>Thy rich <hi>Cathedral</hi> fills th' expanded mind,</l>
+               <l>With <hi>Redcliff</hi> fairest of the <hi>Gothic</hi> kind;</l>
+               <l>To <hi>Mary</hi>'s fane the muse would frequent climb,</l>
+               <l>The station lofty as the form sublime;</l>
+               <l>See, both magnificent, with reverend mien;</l>
+               <l>See, both imbellish'd with a graceful green;</l>
+               <l>With copious courts, and porticos of state,</l>
+               <l>With awful air, and ever opening gate;</l>
+               <l>Frequent and full, where fervor lifts the voice,</l>
+               <l>And high hosannahs make the heart rejoice;</l>
+               <l>Where piety on angel pinion springs,</l>
+               <l>With faith to heaven, with loyalty to kings.</l>
+               <l>From pile to pile the raptur'd muse would range,</l>
+               <l>And pitch triumphant on the proud <hi>Exchange</hi>;—</l>
+               <l>Important dome, that traffic's eye consoles,</l>
+               <l>That grasps with wide embrace th' extended poles;</l>
+               <l>Thou vital ventricle, whence commerce slows,</l>
+               <l>Where strength and wealth, and warmest friendship glows;</l>
+               <l>Thy gushing bounty <hi>Britain</hi>'s monarch greets,</l>
+               <l>His dreaded armies, and his matchless fleets,</l>
+               <l>Thy circulating swelling streams sustain,</l>
+               <l>His strength on land, his empire on the main.</l>
+               <l>
+                  <pb n="31" facs="33"/>Thou, second source of <hi>George</hi>'s spreading same;</l>
+               <l>
+                  <hi>Avona</hi> next to <hi>Thames</hi> supports his claim:</l>
+               <l>Next to <hi>Augusta</hi> shall thy column rise,</l>
+               <l>That noblest aggregate beneath the skies!</l>
+               <l>Thou, source of public and of private joys,</l>
+               <l>That all the monarch and the man employs:</l>
+               <l>Each rank, each order, must thy influence own,</l>
+               <l>From toiling slaves to kings upon the throne.</l>
+               <l>Hail, commerce, hail! thou gate of ev'ry good,</l>
+               <l>Who swells triumphant, like thy trading flood;</l>
+               <l>Thy precious stores in countless value rise,</l>
+               <l>They make us virtuous, and they make us wise;</l>
+               <l>They stretch out friendship's facil hand divine,</l>
+               <l>To where new stars and constellations shine;</l>
+               <l>On t'other side the globe exchange the soul,</l>
+               <l>And form salubrious leagues beneath the pole;</l>
+               <l>Thy means still equal to the glorious end,</l>
+               <l>Make life a comfort, and make man a friend;</l>
+               <l>Bring home each cordial to the heart and head,</l>
+               <l>By goodness guided, and by wisdom led;</l>
+               <l>The soul to soften, and enlarge the mind,</l>
+               <l>Make man to man in social office kind;</l>
+               <l>
+                  <pb n="32" facs="34"/>M<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap> sweet compassion with the toils of gain,</l>
+               <l>And all the wants of sinking life sustain.</l>
+               <l>List up infirmity with potent hand,</l>
+               <l>And draw down blessings on a grateful land:</l>
+               <l>Bright angel, charity, whom heaven loves most,</l>
+               <l>Thou crown of man, and <hi>Bristol</hi>'s glorious boast.</l>
+               <l>In her rich bosom rest thy radiant head,</l>
+               <l>Her sick have solace, and her poor have bread:</l>
+               <l>In her rich heart thy vivid virtue glows,</l>
+               <l>To sooth affliction, and to soften woes.</l>
+               <l>The alms-house here, the lame, the blind supplies:</l>
+               <l>And there the hospitals propitious rise;</l>
+               <l>The sick, the wounded, there forget their smart:</l>
+               <l>Thy hand auxiliar to the hand of art,</l>
+               <l>Removes each malady, makes anguish smile,</l>
+               <l>Whilst gracious heaven, well pleas'd, looks down the while,</l>
+               <l>In showers of blessings thy oblation pays,</l>
+               <l>Whilst soaring seraphs sound thy sacred praise.</l>
+               <l>Here festive mirth at thy glad shrine we see;</l>
+               <l>Here public banquets are but boons to thee.</l>
+               <l>Devotion here invites the ardent guest,</l>
+               <l>Thy fervors working in his feeling breast,</l>
+               <l>
+                  <pb n="33" facs="35"/>With kind compassion, and with christian pride,</l>
+               <l>He makes his pleasures for the poor provide;</l>
+               <l>Th' apprentic'd orphan rises on thy plan,</l>
+               <l>The future citizen, the useful man.</l>
+            </lg>
+            <lg>
+               <l>IN the calm regions of the righteous rest</l>
+               <l>Oh, <hi>Colston</hi>! sacred name! forever blest!</l>
+               <l>Thou virtuous chief, that mightier deeds hast done,</l>
+               <l>Than <hi>Pompey, Julius,</hi> or than <hi>Philip</hi>'s son;</l>
+               <l>What breathing statues should thy worth relate,</l>
+               <l>Or muse immortal snatch thy deeds from fate.</l>
+               <l>Oh man belov'd! oh parent of the poor!</l>
+               <l>Thy matchless bounty shall thy name secure:</l>
+               <l>That sacred legacy with time shall last,</l>
+               <l>Nay shine above the stars, when time is past;</l>
+               <l>On thankful hearts engrav'd, what thou hast done,</l>
+               <l>Shall still descend from father down to son.</l>
+               <l>That oral tale shall unmix'd truth proclaim,</l>
+               <l>And let my verse bear witness to thy name;</l>
+               <l>If worthy thee my numbers ought can give,</l>
+               <l>If worthy thee, my verse may hope to live;</l>
+               <l>
+                  <pb n="34" facs="36"/>By thee long nourish'd, let my laurel bloom</l>
+               <l>With vivid verdure, near thy hallow'd tomb.</l>
+            </lg>
+            <lg>
+               <l>WHAT grand magnificence on virtue grows,</l>
+               <l>What squares, what palaces have late arose!</l>
+               <l>How wealth, how taste in every pile appear,</l>
+               <l>With still improving grace from year to year;</l>
+               <l>Lo <hi>Queen</hi>'s, enrich'd by <hi>Rysbrack</hi>'s <hi>Roman</hi> hand,</l>
+               <l>See <hi>William</hi>'s finish'd form majestic stand;</l>
+               <l>His martial form express'd with <hi>Attic</hi> force,</l>
+               <l>Erect, like <hi>Antonine</hi>'s, his warlike horse,</l>
+               <l>With lofty elegance, and <hi>Grecian</hi> Air,</l>
+               <l>To feast the classic eye, and fill the square.</l>
+            </lg>
+            <lg>
+               <l>NEXT lofty <hi>Somerset</hi> the muse demands,</l>
+               <l>That high secreted near St. <hi>Mary</hi>'s stands,</l>
+               <l>A laughing lawn in <hi>Flora</hi>'s flowery gown,</l>
+               <l>So distant from, and yet so near the Town,</l>
+               <l>Whom beauteous buildings regular embrace;</l>
+               <l>A central bason see those buildings grace;</l>
+               <l>A prospect pour abroad its wide delight,</l>
+               <l>With <hi>Dundry</hi> ever in the gazer's sight;—</l>
+               <l>
+                  <pb n="35" facs="37"/>Officious <hi>Dundry</hi> waits you where you will,</l>
+               <l>'Tis here, 'tis there, and with it waits the hill;</l>
+               <l>Like <hi>Paul</hi>'s high dome, this tower attracts the eye,</l>
+               <l>Is ever first in view, is ever nigh.</l>
+               <l>Behold a sweet expanse of hill and dale,</l>
+               <l>A wind-mill whirling o'er the various vale,</l>
+               <l>With silver malls that serpentine between</l>
+               <l>The waving margents of the flowery green;</l>
+               <l>See beauty's line alternate sink and swell,</l>
+               <l>See sweet variety each care dispel;</l>
+               <l>There health, and ease, and elegance should dwell.</l>
+            </lg>
+            <lg>
+               <l>THEE, <hi>Brandon-hill, Eliza</hi>'s royal boon,</l>
+               <l>The muse shall mount at night's serenest noon,</l>
+               <l>To spell the stars, and meet the soaring moon;</l>
+               <l>Or mourn the ruins, where a chapel rose;</l>
+               <l>That boast of reason and religion's foes;</l>
+               <l>Or, wrapt in visionary trances, view</l>
+               <l>Cromwell <hi>'s grim shade, and his rebellious crew</hi>
+               </l>
+               <l>Re-acting there, with shadowy cannon's roar,</l>
+               <l>The dreadful part they play'd an age before;</l>
+               <l>
+                  <pb n="36" facs="38"/>When death set out with each destructive ball,</l>
+               <l>Bid <hi>Bristol</hi> tremble, and her temples fall;</l>
+               <l>From that black battery on <hi>Brandon</hi> brow,</l>
+               <l>The mark of mischief then, and horror now;</l>
+               <l>Or wak'd by soaring larks from that sad dream,</l>
+               <l>The mariner's glad voice, the dawning gleam,</l>
+               <l>Shake off the spectres of delusive night,</l>
+               <l>Enjoy the breeze, and quaff the morning bright,</l>
+               <l>And call no more that retrospect to sight,</l>
+               <l>But follow fancy to the lunar sphere,</l>
+               <l>Or mix with fairies that inhabit here;</l>
+               <l>Deep in the bosom of the hill they hide,</l>
+               <l>Or on the rainbow's radiant circle ride,</l>
+               <l>Or mount on gossomers, in troops to play,</l>
+               <l>Or bask like butterflies the morning ray;</l>
+               <l>Oft with their shapes they shift their insect sport,</l>
+               <l>In <hi>Brandon</hi>'s deep alcove they keep their court,</l>
+               <l>With concert, masquerade, and rout, and ball,</l>
+               <l>Like human fantoms, in th' aerial hall;</l>
+               <l>The gliding shapes, at music's soft command,</l>
+               <l>In measures move, whilst echo forms the band,</l>
+               <l>In sounds remote from dull made mortal ears,</l>
+               <l>Reflected from the music of the spheres;</l>
+               <l>
+                  <pb n="37" facs="39"/>Assemblies, drums, and even cards are there,</l>
+               <l>With <hi>Tunbridge</hi> toys, with tea, and china-ware,</l>
+               <l>With eye-brow pruners, dentists, those that dance,</l>
+               <l>The curl-composing hand, the finger'd lance,</l>
+               <l>With fifty operators more from <hi>France</hi>
+               </l>
+               <l>Are here employ'd by these light mimics meek,</l>
+               <l>They patch the forehead, and they paint the cheek;</l>
+               <l>The nice nick-nack, the love, the toy-shop trade,</l>
+               <l>And who so merry at a masquerade;</l>
+               <l>'Till wearied out with folly's whims they rest,</l>
+               <l>Or laugh like reason, at the toilsome jest.</l>
+               <l>A wardrobe of each fashion there hath stood,</l>
+               <l>In long array of mantle, hoop and hood,</l>
+               <l>And all the changing modes since <hi>Noah</hi>'s flood;</l>
+               <l>Which <hi>Time</hi> with moving finger oft hath told,</l>
+               <l>And made them, like his seasons, new and old.</l>
+               <l>Kind visits too they oft exchange at will,</l>
+               <l>And slide from <hi>Brandon</hi> o'er to <hi>Dundry</hi> hill;</l>
+               <l>Their airy coach the calmest gale that swells,</l>
+               <l>They often swarm, like bees, about the <hi>Wells</hi>;</l>
+               <l>The balmy breath of beauty there they sip,</l>
+               <l>Like atoms fall on <hi>Lysaght</hi>'s fragrant lip,</l>
+               <l>
+                  <pb n="38" facs="40"/>From cheek to cheek, from chin to dimple fly,</l>
+               <l>Now on the pendant perch, and now the eye;</l>
+               <l>Now on the shape divine, and air they gaze,</l>
+               <l>Now clap their little wings, and joyful praise;</l>
+               <l>In the gay dance they mingle with the throng,</l>
+               <l>And on the streams of music float along;</l>
+               <l>Our stormy notes their filmy fabrics shake,</l>
+               <l>But bodies of condensed air they make;</l>
+               <l>They rob the rainbow and th' etherial lawn,</l>
+               <l>The plaited clouds that deck the crimson dawn;</l>
+               <l>These to sharp fairy eyes appear from far,</l>
+               <l>Like the first blushes of the morning star,</l>
+               <l>With all the tints that vernal breezes bring,</l>
+               <l>When nature wakes, and <hi>Flora</hi> leads the spring;</l>
+               <l>To houshold cares their thoughts they oft apply,</l>
+               <l>But still on mortals keep a watchful eye;</l>
+               <l>The ways of men their wiser thoughts engage,</l>
+               <l>In registers laid up from age to age;</l>
+               <l>These records deep in adamant are cast,</l>
+               <l>As long as <hi>Brandon,</hi> nay the world, shall last,</l>
+               <l>They still compare the present with the past:</l>
+               <l>To faithful lovers they still lend an ear;</l>
+               <l>The fairies love, and have their love-plots here,</l>
+               <l>
+                  <pb n="39" facs="41"/>The pleasing pangs they oft by turns endure,</l>
+               <l>Like us they feel 'em, and like us they cure;</l>
+               <l>Round beauty still with viewless wing they fly,</l>
+               <l>Weigh the young wish, and watch the wand'ring eye,</l>
+               <l>O'er-hear the frangil vow, the whisper'd league,</l>
+               <l>With all the movements of the soft intrigue;</l>
+               <l>To virtue still a faithful shield they prove,</l>
+               <l>And in the sun-beam oft like motes, they move</l>
+               <l>Unseen, unheeded by the yielding fair,</l>
+               <l>As honour's life-guard they do duty there,</l>
+               <l>When felon <hi>Cupid</hi> and the foe draw nigh,</l>
+               <l>In fearful ambush when his arrows fly,</l>
+               <l>And honour's on the very point to die:</l>
+               <l>Their guardian task perform'd, they silent glide</l>
+               <l>To <hi>Brandon</hi> back; their subtle shapes they hide;</l>
+               <l>On folds of lillies and of roses lay</l>
+               <l>Their little heads to rest, and dream till day;</l>
+               <l>Or rushing rapid like a whirlwind forth,</l>
+               <l>They drive the dazzling dancers of the north;</l>
+               <l>Those radiant bands their breath about can blow,</l>
+               <l>And puff the bright battalions to and fro,</l>
+               <l>These atmospherial files they quick can raise,</l>
+               <l>And fill the welkin with a warlike blaze;</l>
+               <l>
+                  <pb n="40" facs="42"/>Round <hi>Saturn</hi>'s ring, in frolic dance they play,</l>
+               <l>Bestride the comet's tail, and sweep the milky way;</l>
+               <l>Through yonder vault, the lightnings flash they guide,</l>
+               <l>Then on the thunder's rapid vollies ride;</l>
+               <l>They shoot the stars that glance athwart the night,</l>
+               <l>Sup in the moon, and safe on <hi>Brandon</hi> light.</l>
+            </lg>
+            <lg>
+               <l>A THOUSAND rich improvements round me rise,</l>
+               <l>And <hi>Bristol</hi>'s new-born beauties charm my eyes;</l>
+               <l>There embryon plans to ripe perfection swell,</l>
+               <l>Which time shall foster, and which fame shall tell:</l>
+               <l>How letter'd taste its progress here improves,</l>
+               <l>Which sense inculcates, and which wisdom loves:</l>
+               <l>The dawning mind would drink each classic ray,</l>
+               <l>And pants impatient for a brighter day.</l>
+               <l>Here science, like the sun, see radiant rise,</l>
+               <l>With intellectual beam, through mental skies,</l>
+               <l>To gild, to gladden all th' improving space,</l>
+               <l>With taste, with candor, learning, sense, and grace;</l>
+               <l>To light up all the mind's remotest cells,</l>
+               <l>Where fancy fledges, and where genius dwells;</l>
+               <l>To bid the soul her own rich funds employ,</l>
+               <l>Incrodse her treasures, and her wealth enjoy;</l>
+               <l>
+                  <pb n="41" facs="43"/>On talents and on taste propitious smile,</l>
+               <l>To the proud muses rear a pompous pile:</l>
+               <l>A theatre, that erst at <hi>Rome</hi> might rise,</l>
+               <l>When <hi>Rome</hi> was valiant, and when <hi>Rome</hi> was wise,</l>
+               <l>Where tragic scenes shall all their pow'r display,</l>
+               <l>And comedy shall laugh our cares away;</l>
+               <l>Where wit and beauty shall with rival rays,</l>
+               <l>Provoke our wonder, and divide our praise:</l>
+               <l>There <hi>Bristol</hi> proud, her daughters' charms shall see;</l>
+               <l>Their polish'd charms the muses theme shall be,</l>
+               <l>Her florid sons shall stand in next degree.</l>
+               <l>In bright assemblies see them winding move,</l>
+               <l>In all the measur'd modes of grace and love;</l>
+               <l>In labyrinths reciprocal they roam,</l>
+               <l>Whilst breathing beauties deck the beauteous dome;</l>
+               <l>Th' accomplish'd pile invites with polish'd air,</l>
+               <l>The well-bred letter'd youth, the lovely fair,</l>
+               <l>With chaste delight to meet and mingle there;</l>
+               <l>The youth in every step new talents show,</l>
+               <l>Whilst beauty brightens as the graces grow.</l>
+            </lg>
+            <lg>
+               <pb n="42" facs="44"/>
+               <l>HERE health and plenty crown th' adjacent plains,</l>
+               <l>Whilst ev'ry human bliss at <hi>Bristol</hi> reigns:</l>
+               <l>Here health and plenty in her presence stand,</l>
+               <l>Here hospitality oft waves the hand,</l>
+               <l>With social beckon to the genial board,</l>
+               <l>Where mirth and friendship all their joys afford,</l>
+               <l>And converse rises o'er the technic kind,</l>
+               <l>By wit exalted, and by sense resin'd:</l>
+               <l>Here music, painting, gain alternate ground,</l>
+               <l>With magic light and shade, with magic sound;</l>
+               <l>Where manners soften, and where humour glows,</l>
+               <l>Where virtue kindles, and where friendship grows;</l>
+               <l>Here wealth and wisdom with each other blend,</l>
+               <l>And sense and taste in social strife contend:</l>
+               <l>Here time leads up the rich improving band,</l>
+               <l>On gradual step to ripe perfection's hand,</l>
+               <l>Whilst ruddy commerce crowns her fragrant stores,</l>
+               <l>With spicey treasures from ten thousand shores;</l>
+               <l>Thy flood-gate's wealth from both the <hi>Indies</hi> flow,</l>
+               <l>Avona <hi>richer than the</hi> Rhine <hi>or</hi> Po,</l>
+               <l>The world's vast tribute to thy threshold brings,</l>
+               <l>On groaning bottoms, and on golden wings;</l>
+               <l>
+                  <pb n="43" facs="45"/>Each tide comes pregnant with a precious load,</l>
+               <l>And wealth at <hi>Bristol</hi> makes its wise abode,</l>
+               <l>'Till thence sent rushing through <hi>Britannia</hi>'s veins,</l>
+               <l>She warms <hi>Europa</hi>'s vitals with her gains;</l>
+               <l>Augusta <hi>shakes with her the trading hand,</hi>
+               </l>
+               <l>They scatter blessings o'er a happy land;</l>
+               <l>They bid <hi>Britannia</hi> break the tyrant's chain,</l>
+               <l>Bid freedom flourish through the land and main,</l>
+               <l>And o'er the earth extend great GEORGE's reign.</l>
+            </lg>
+            <lg>
+               <l>HAIL happy fountains, hail!—oh, rich run o'er,</l>
+               <l>With wealth and strength, 'till time shall be no more:</l>
+               <l>Bid <hi>Britain</hi> soar, her matchless trident rear,</l>
+               <l>Her glory circle with the circling year;</l>
+               <l>Bid her high flag o'er nations yet unknown</l>
+               <l>Triumphant wave, and make the globe her own;</l>
+               <l>Her freedom, laws from pole to pole prevail,</l>
+               <l>And justice weigh the world in <hi>Britain</hi>'s scale!</l>
+               <l>Let faction fall, let red-ey'd rancour end,</l>
+               <l>Let discord to her native hell descend,</l>
+               <l>And with her drag her black, her bloated train,</l>
+               <l>Her bosom scorpions, and her inbred bane,</l>
+               <l>
+                  <pb n="44" facs="46"/>With all the stings that in the soul abide,</l>
+               <l>With meek hypocrisy, and holy pride:</l>
+               <l>Let fell corruption lift no more the head,</l>
+               <l>But, trampled freedom! at thy feet lie dead:</l>
+               <l>Let peace, let truth, advancing hand in hand,</l>
+               <l>Let love, let loyalty o'erspread the land:</l>
+               <l>The olive high let <hi>England</hi>'s angel bear,</l>
+               <l>And time bring on her millenary year:</l>
+               <l>Let seraphs in her councils oft preside,</l>
+               <l>Her monarch whisper, and her senates guide!</l>
+               <l>Let Heav'n's own hand be <hi>Britain</hi>'s strong ally;</l>
+               <l>Let <hi>Europe</hi> tremble when her thunders fly,</l>
+               <l>'Till nature sink, and time himself shall die!</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,554 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kilkenny: or, the old man's wish. By W. R. Chetwood:</title>
+            <author>Chetwood, W. R. (William Rufus), d. 1766.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K025607.000</idno>
+            <idno type="docno">CW3316195646</idno>
+            <idno type="ecll">1084303600</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kilkenny: or, the old man's wish. By W. R. Chetwood:</title>
+                  <author>Chetwood, W. R. (William Rufus), d. 1766.</author>
+               </titleStmt>
+               <extent>20p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>Dublin :</pubPlace>
+                  <publisher>printed for the author, and sold by G. Faulkner, G. and A. Ewing, and P. Wilson, and J. Esdall,</publisher>
+                  <date>1748.</date>
+                  <idno type="TCP">K025607.000</idno>
+                  <idno type="docno">CW3316195646</idno>
+                  <idno type="ecll">1084303600</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, C142</note>
+                  <note>English Short Title Catalog, ESTCT11385.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>KILKENNY: OR, THE OLD MAN'S WISH.</p>
+            <p>By W. R. CHETWOOD.</p>
+            <q>
+               <l>Tho' Rough the Lines, they speak the Heart,</l>
+               <l>Therefore excuse the want of Art.</l>
+            </q>
+            <p>DUBLIN: Printed for the AUTHOR, And Sold by G. FAULKNER, in <hi>Essex Street,</hi> G. and A. EWING, and P. WILSON in <hi>Dame-street,</hi> and J. ESDALL, on <hi>Cork-hill,</hi> 1748.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="2"/>
+         <head>KILKENNY: OR, THE Old Man's WISH.</head>
+         <lg>
+            <l>SINCE Man is surely Born to Die,</l>
+            <l>And Rise to long Eternity;</l>
+            <l>Let Virtue guide his steps below,</l>
+            <l>That fearless, he may meet the Blow,</l>
+         </lg>
+         <lg>
+            <l>AS I am one of Human Race,</l>
+            <l>With Patience waiting heavenly Grace;</l>
+            <l>And Age has worn me fifty Years,</l>
+            <l>With tardy Hopes, and Swift-wing'd Fears,</l>
+            <l>
+               <pb n="4" facs="3"/>I'd Wish the Lees of Life to wear</l>
+            <l>Without the weight of Wordly care.</l>
+         </lg>
+         <lg>
+            <l>HAD I my <hi>Wish,</hi> or <hi>choice</hi> to Dwell,</l>
+            <l>It should 'be some clean rural Cell,</l>
+            <l>Beneath the Shade of spreading Trees,</l>
+            <l>Whose murm'rings with a gentle Breeze,</l>
+            <l>Might Lull my Senses into Rest,</l>
+            <l>And sooth the Troubles of my Breast.</l>
+         </lg>
+         <lg>
+            <l>O! <hi>Dunmore!</hi> seat of earthly Bliss!</l>
+            <l>Where <hi>Pan,</hi> and <hi>Echo,</hi> sweetly Kiss! <note place="bottom" n="(a)">
+                  <hi>Pan,</hi> the God of Groves, Woods, Mountains, and Shepherds, was beloved by <hi>Echo.</hi>
+               </note>
+            </l>
+            <l>Whose lofty Woods, and Sylvan Scenes</l>
+            <l>Thy Dells, and Varigated Greens</l>
+            <l>Seem to surpass old <hi>Tempe</hi>'s Grove, <note place="bottom" n="(b)">
+                  <hi>Tempe,</hi> the most delightful Situation in <hi>Thessaly,</hi> a Vale surrounded with Woods, Groves, Rivers, <hi>&amp;c.</hi>
+               </note>
+            </l>
+            <l>That seat of joy, and springing Love!</l>
+            <l>Within thy Shade i'd fix my Cell,</l>
+            <l>There's none on Earth wou'd please so well.</l>
+            <l>Through the vast Globe I've wander'd o'er</l>
+            <l>And touch'd at many a distant Shore;</l>
+            <l>
+               <pb n="5" facs="4"/>Seen various Nations, <hi>Rude,</hi> and <hi>Mild,</hi>
+            </l>
+            <l>Nature improv'd, and nature <hi>Wild:</hi>
+            </l>
+            <l>Yet none have such Contentment given,</l>
+            <l>As thou, <hi>Dunmore,</hi> an earthly Heav'n!</l>
+            <l>Yet when I view thy mould'ring Walls,</l>
+            <l>Whose trembling Ruin daily Falls,</l>
+            <l>I must Lament thy Ancient Date</l>
+            <l>With him, that urg'd his luckless Fate!</l>
+         </lg>
+         <lg>
+            <l>A LITTLE Garden, form'd for Food,</l>
+            <l>Self-cultur'd, to enlive my Blood:</l>
+         </lg>
+         <lg>
+            <l>IF Lab'ring in my Garden's bound,</l>
+            <l>Along hid Treasure shou'd be found,</l>
+            <l>For Ages bury'd under Ground,</l>
+            <l>In during Marble, wou'd I raise,</l>
+            <l>To you great <note place="bottom" n="*">Mr. <hi>Collis,</hi> the Inventor of the Marble Mills near <hi>Kilkenny.</hi>
+               </note> COLLIS, endless Praise!</l>
+            <l>With Artful chissel should be shown</l>
+            <l>In Bust, a Figure, like thy own:</l>
+            <l>O! great Inventor! Native Son!</l>
+            <l>No Art can equal what thou'st done,</l>
+            <l>
+               <pb n="6" facs="5"/>HIBERNIA, may with Pride declare,</l>
+            <l>Nought under Heav'n is found so Rare.</l>
+         </lg>
+         <lg>
+            <l>MY Garden Borders, set with Flowers,</l>
+            <l>Bedew'd with artificial Showers,</l>
+            <l>Shou'd Nature, heated, cease to deign</l>
+            <l>Her Friendly Clouds and dropping Rain:</l>
+            <l>There wou'd I scent the Damask Rose,</l>
+            <l>That in my vernal border grows;</l>
+            <l>And as it's sweetness meets Decay</l>
+            <l>I shou'd Reflect, and sighing say,</l>
+            <l>
+               <hi>Thus Life blooms up, and Fades away!</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>BENEATH my little Garden Wall,</l>
+            <l>A purling Stream shou'd gently fall</l>
+            <l>Whose limpid murmurings might glide,</l>
+            <l>Unmix'd, with any lustful Tide,</l>
+            <l>To violate her virtuous Bed,</l>
+            <l>And swell her Womb, with riseing dread;</l>
+            <l>Then leave her Stain'd to Weep and Mourn,</l>
+            <l>With various Mischiefs not her own,</l>
+            <l>As many a Wretch, has Woman done!</l>
+         </lg>
+         <lg>
+            <l>O! lovely Sex! your Virtue keep,</l>
+            <l>Let no ill Thoughts disturb your Sleep;</l>
+            <l>
+               <pb n="7" facs="6"/>Take sage Advice, from him that knows</l>
+            <l>The strength, and Number of your Foes:</l>
+            <l>All sullied Arts, and Sighs despise,</l>
+            <l>Repell the Darts of guilty Eyes.</l>
+            <l>The glitt'ring Gem the Orient yields,</l>
+            <l>(The Flow'rs that deck the Fragrant Fields)</l>
+            <l>The Silks inrich'd with burnish'd Gold</l>
+            <l>(For these poor Beauty oft is sold)</l>
+            <l>All these true Virtue will outshine,</l>
+            <l>For Virtue's Robe is all Divine.</l>
+         </lg>
+         <lg>
+            <l>RAIS'D o'er the Brook, an ever-green,</l>
+            <l>The Vine, and Woodbine mixt between,</l>
+            <l>Whose tendrils shou'd conjointly move,</l>
+            <l>To form a Sphaeral Arch above:</l>
+            <l>There woul'd I sit, to breath fresh Air,</l>
+            <l>And view the glorious Hemisphere.</l>
+            <l>With Contemplation fill my Soul!</l>
+            <l>Admire the Beauty of the whole,</l>
+            <l>Then Praise the great Almighty Hand,</l>
+            <l>Who form'd the World at his Command!</l>
+            <l>What Reptile Heart, all these cou'd see,</l>
+            <l>And yet that Wretch an <hi>Atheist</hi> be?</l>
+         </lg>
+         <lg>
+            <pb n="8" facs="7"/>
+            <l>SEE, from this height the <hi>Castle</hi> rise,</l>
+            <l>Whose Turrets seem to brave the Skies:</l>
+            <l>Behold those Domes for Heav'n design'd,</l>
+            <l>To cure the Passions of the Mind:</l>
+            <l>There, mixing with the early Guest,</l>
+            <l>I'd Pray to gain eternal Rest:</l>
+            <l>Forgive, as I wou'd be Forgiven,</l>
+            <l>And live in Hope to merit Heav'n.</l>
+         </lg>
+         <lg>
+            <l>HOW I regret the want of Art,</l>
+            <l>To show the ardours of my Heart!</l>
+            <l>Had I great <note place="bottom" n="*">A. Phillips, <hi>
+                     <abbr>Esq</abbr>
+                  </hi>
+               </note> 
+               <hi>Phillip</hi>'s honest skill,</l>
+            <l>Who in sweet Honey dip'd his Quill:</l>
+            <l>Whose well-taught Numbers gently fall:</l>
+            <l>Not like lost <hi>Pope,</hi> who wrote in Gall!</l>
+            <l>
+               <hi>Drawcansir</hi> like, at every blow,</l>
+            <l>He struck at ALL, both <hi>Friend,</hi> and <hi>Foe.</hi>
+            </l>
+            <l>O! awful <hi>Phillips!</hi> cou'd I be</l>
+            <l>By Inspiration Fir'd by thee!</l>
+            <l>How smooth my rugged Lines would flow?</l>
+            <l>With pleasing Raptures as they go,</l>
+            <l>
+               <pb n="9" facs="8"/>A gentle, generous Flame impart,</l>
+            <l>To warm the Thought, and touch the Heart.</l>
+         </lg>
+         <lg>
+            <l>MY Habit, plain, devoid of Lace,</l>
+            <l>That Suits not an <hi>Autumnal</hi> Face:</l>
+            <l>A coarse dark <hi>Frize</hi> may fit my Age</l>
+            <l>That might the Northern blasts asswage.</l>
+         </lg>
+         <lg>
+            <l>WHEN Winters Snow, and petrid Hail,</l>
+            <l>Deform the riseing Hill, and Dale,</l>
+            <l>And hoary Frosts disguise the Woods,</l>
+            <l>And bind in Chains the rapid Floods,</l>
+            <l>Within my Cell, I wou'd Retire,</l>
+            <l>And warm me with <hi>Kilkenny</hi> Fire.</l>
+            <l>A few well chosen Books I'd have,</l>
+            <l>Some to prepare me for the Grave:</l>
+            <l>The rest to pass my time away;</l>
+            <l>(Heav'n asks not all my Hours to pray)</l>
+            <l>
+               <hi>Religion</hi> ought to cheer the mind,</l>
+            <l>Form us Benevolent and kind;</l>
+            <l>No scowling looks, or sour grimace,</l>
+            <l>Shou'd ere be seated on the Face,</l>
+            <l>But all diffus'd with smilling Grace.</l>
+         </lg>
+         <lg>
+            <pb n="10" facs="9"/>
+            <l>SOME Friends select, like <hi>Books,</hi> I'd chuse</l>
+            <l>For converse fit, or scan the <hi>Muse:</hi>
+            </l>
+            <l>To read a <hi>Play,</hi> I think no crime,</l>
+            <l>Or any other <hi>decent</hi> Rhyme,</l>
+            <l>Yet, shun all those whom <hi>Vice</hi> approve,</l>
+            <l>Or give Success to <hi>Lawless</hi> Love.</l>
+            <l>Wou'd <hi>Helsham</hi> deign to condescend <note place="bottom" n="(c)">Arthur Helsham, <hi>
+                     <abbr>Esq</abbr> Recorder of</hi> Kilkenny.</note>
+            </l>
+            <l>To rank me as his meanest Friend:</l>
+            <l>Or <hi>Evans,</hi> thou just Magistrate, <note place="bottom" n="(d)">Alderman <hi>Evans,</hi> chose Mayor of the City, two succeeding Years for his Justice and Integrity.</note>
+            </l>
+            <l>Whose double Honours speak thee Great,</l>
+            <l>The feather'd Hours wou'd smiling pass,</l>
+            <l>Altho' we chac'd the circ'ling Glass.</l>
+            <l>Good Wine, with moderation us'd</l>
+            <l>Revives the Sense, but drowns abus'd.</l>
+         </lg>
+         <lg>
+            <l>IF I shou'd hear the early Horn,</l>
+            <l>With sprightly Notes awake the Morn,</l>
+            <l>Expelling Slumber from the Eyes,</l>
+            <l>Bidding the lazy Sluggard Rise,</l>
+            <l>
+               <pb n="11" facs="10"/>(To mount the fiery mettled Steed,</l>
+            <l>Who champs, and foaming to be Freed,</l>
+            <l>With guided Rein, to scour the mead,</l>
+            <l>Or ore the breathing Mountain lead.)</l>
+            <l>My Blood wou'd rouze me from my Cell</l>
+            <l>To view the Sport I lov'd so well:</l>
+            <l>Yet take Discretion for my Guide,</l>
+            <l>And <hi>Walk</hi> such Hills I us'd to Ride:</l>
+            <l>Then, when the pleasing Toil was o're,</l>
+            <l>And Hounds, and Horns were heard no more</l>
+            <l>I'd to my quiet Cell repair</l>
+            <l>And Healthfull feed on homely Fare:</l>
+            <l>High Sauces but corrupt the Blood,</l>
+            <l>Diffusing Poison with our Food.</l>
+            <l>A little, Nature will suffice,</l>
+            <l>An <hi>Epicure</hi> was never Wise.</l>
+         </lg>
+         <lg>
+            <l>WHEN Spring revives the flowry Field</l>
+            <l>And calls the Feather'd Race to build;</l>
+            <l>When they begin to strain their Throats,</l>
+            <l>With various, and delightful Notes;</l>
+            <l>I shou'd not judge it any Crime</l>
+            <l>To call back years of fletting time,</l>
+            <l>
+               <pb n="12" facs="11"/>And, tho those Days are long since past,</l>
+            <l>(For pleasing Moments fly in Haste)</l>
+            <l>Yet, I may think upon the Fair,</l>
+            <l>Whose lovely Eyes dispel'd dispair!</l>
+            <l>But then to lose a virtuous Wife,</l>
+            <l>That joy dispenser of my Life,</l>
+            <l>That social Balm to ev'ry Smart,</l>
+            <l>That Cordial to an aching Heart!</l>
+            <l>He that can feel by Simphathy,</l>
+            <l>Must lose his Wife, and love like me.</l>
+            <l>For Love in Age to Friendship turns,</l>
+            <l>And with a lasting ardour Burns.</l>
+            <l>Hale Youth, perhaps, may smilling seem</l>
+            <l>To taunt, and Ridicule this Theme,</l>
+            <l>But youngsters, I would have you know,</l>
+            <l>I once was young as well as you!</l>
+            <l>True Love was never thought a Crime</l>
+            <l>A pleasing Joy, a Bliss Sublime!</l>
+            <l>A beauteous Infant ever mild,</l>
+            <l>A Transport-touching tender Child!</l>
+            <l>When his chast Bow, and thrilling Dart:</l>
+            <l>Fixes his Empire in the Heart,</l>
+            <l>
+               <pb n="13" facs="12"/>But then, this lovely beauteous youth,</l>
+            <l>This Child of Innocence and Truth,</l>
+            <l>A <hi>Brother</hi> has so like in Face,</l>
+            <l>Adorn'd with all his smiling Grace:</l>
+            <l>The first, inspiring <hi>heavenly</hi> Love!</l>
+            <l>The last, to <hi>guilty</hi> Passions move!</l>
+            <l>Infects the Blood within the Veins,</l>
+            <l>And tortures with Infernal Pains!</l>
+            <l>O! shun his lewd detested Art,</l>
+            <l>You'll know him by his <hi>leaden</hi> Dart.</l>
+         </lg>
+         <lg>
+            <l>WHEN <hi>Phoebus,</hi> with enliv'ning Ray,</l>
+            <l>Improves the Glebe, and lengthens Day</l>
+            <l>Then to the Silver stream repair</l>
+            <l>(Breathing the wholesome Morning Air)</l>
+            <l>And e're <hi>Aurora</hi> shews her Face</l>
+            <l>Prepare to Trap the finny Race:</l>
+            <l>Great Nature there, we may behold.</l>
+            <l>Some ting'd with <hi>Azure,</hi> some with <hi>Gold,</hi>
+            </l>
+            <l>Some arm'd with Scales prepar'd for War,</l>
+            <l>The Innocent for Flight prepare</l>
+            <l>So <hi>Butchers,</hi> (if a <hi>Butcher</hi>'s nigh)</l>
+            <l>When <hi>harmless</hi> Curs are passing by,</l>
+            <l>
+               <pb n="14" facs="13"/>Hallo their Dogs to set them on,</l>
+            <l>And <hi>laugh</hi> to see them piece-meal torn.</l>
+            <l>Thus, in the Stream, the weak-ones fall,</l>
+            <l>But wily Man betrays them all.</l>
+         </lg>
+         <lg>
+            <l>THOU <hi>Dunmore Cave,</hi> I wou'd once more <note place="bottom" n="(e)">
+                  <hi>Dunmore</hi> Cave in the Park.</note>
+            </l>
+            <l>(But not alone) thy Womb explore</l>
+            <l>Where Nature, Playfull, has design'd</l>
+            <l>Such Works, as will surprize Mankind!</l>
+            <l>Ill omen'd Birds the Mouth Resort,</l>
+            <l>The Dwellers of this dreary Court:</l>
+            <l>Descending then by slow degrees,</l>
+            <l>Your Hands sustain'd by hanging Trees;</l>
+            <l>The Vault enlarges to your sight,</l>
+            <l>Displays to view, a gloomy Light;</l>
+            <l>There, as in new found Worlds, you see</l>
+            <l>Great Nature's vast variety</l>
+            <l>Where dropping Waters change to Stone</l>
+            <l>To form the <hi>Cylinder,</hi> and <hi>Cone,</hi>
+            </l>
+            <l>There concav'd <hi>Organs,</hi> Pillars rise,</l>
+            <l>And <hi>Tubes</hi> that might deceive the Eyes.</l>
+            <l>
+               <pb n="15" facs="14"/>But stay not long, for all beneath</l>
+            <l>Is noxious Air the Vitals breath.</l>
+            <l>The Caverns ending none can tell,</l>
+            <l>Old Fables say there <hi>Witches</hi> dwell,</l>
+            <l>And this the ready Road to Hell.</l>
+            <l>Miles have been trac'd the gloomy Way</l>
+            <l>Without the sight of chearing Day.</l>
+            <l>Yet, all the surface over head,</l>
+            <l>Is fertile Land, and grass-grown Mead,</l>
+            <l>Where Cattle graze, and Nightly Sleep,</l>
+            <l>And <hi>Shepherd's</hi> keep their harmless Sheep,</l>
+            <l>To watch their Lambs, to give Relief,</l>
+            <l>Or Guard them from the prouling Thief:</l>
+            <l>The <hi>Wolves,</hi> whom oft their Flocks annoy'd,</l>
+            <l>Long Ages past have been destroy'd:</l>
+            <l>But Monsters of the <hi>Human</hi> Race,</l>
+            <l>Now <hi>Wolves</hi> are gone, usurp their place.</l>
+         </lg>
+         <lg>
+            <l>BEHOLD, where shallow <hi>Dinan</hi> flows, <note place="bottom" n="(f)">
+                  <hi>Dinan,</hi> a turbulant shallow River that crosses the Park.</note>
+            </l>
+            <l>Noisy as <hi>Fops,</hi> or empty <hi>Beaux,</hi>
+            </l>
+            <l>
+               <pb n="16" facs="15"/>Till quite absorb'd within the <hi>Nore,</hi> 
+               <note place="bottom" n="(g)">The <hi>Nore,</hi> the <hi>Barrow,</hi> and the <hi>Sure,</hi> are called the three Sisters; they all meet near <hi>Waterford,</hi> and join the Sea.</note>
+            </l>
+            <l>Is silent, curb'd beneath her Shore.</l>
+            <l>See how the noble Sister glides!</l>
+            <l>With lovely Borders on her Sides,</l>
+            <l>To meet the other Royal Pair,</l>
+            <l>As full as Beautifull and Fair,</l>
+            <l>
+               <hi>Hibernia</hi>'s Sisters, Graces three,</l>
+            <l>They Kiss, embrace, then meet the Sea.</l>
+         </lg>
+         <lg>
+            <l>THUS wou'd I pass my Days and Nights,</l>
+            <l>In Social innocent Delights.</l>
+         </lg>
+         <lg>
+            <l>WHAT Hope, alas! have I to find,</l>
+            <l>Such sweet contentment for my Mind?</l>
+            <l>A Dream of transient Bliss too Great!</l>
+            <l>O! teach me Heav'n! to bear my Fate:</l>
+            <l>I've learnt too late in Sorrows School,</l>
+            <l>The easy Man's the <hi>Villians</hi> Tool!</l>
+            <l>Tho' <hi>Britain</hi> is my Mother Earth,</l>
+            <l>She prov'd a <hi>Step-dame</hi> from my Birth:</l>
+            <l>
+               <pb n="17" facs="16"/>Therefore, if I my Wishes have,</l>
+            <l>This much-lov'd Soil shall be my Grave.</l>
+         </lg>
+         <lg>
+            <l>O! BLEST IERNE! happy Isle!</l>
+            <l>Around thee, Heav'n and Nature Smile!</l>
+            <l>No <hi>Murrain</hi> o'er thy Cattle Reigns</l>
+            <l>Nor War-drawn-blood imbrue thy Plains,</l>
+            <l>Replete with Plenty, Health and ease</l>
+            <l>In War, enjoying sweet-ey'd Peace!</l>
+            <l>Beholding Arts, that smilling Rise!</l>
+            <l>O! MADDEN! justly <hi>good</hi> and Wise</l>
+            <l>Thou art the Source from whence they flow,</l>
+            <l>From thee, next Heav'n, they Spring and grow.</l>
+            <l>One <hi>Monarch</hi> may his People gain,</l>
+            <l>Succeeding Kings with Blessings Reign;</l>
+            <l>Yet these, when Death's cold slumbers call,</l>
+            <l>Are lost, and in Oblivion Fall:</l>
+            <l>But MADDEN, endless Praise will find,</l>
+            <l>Rever'd by long unborn Mankind!</l>
+         </lg>
+         <lg>
+            <l>HERE Harmony has chose her Seat,</l>
+            <l>Within this Halcion safe Retreat</l>
+            <l>
+               <pb n="18" facs="17"/>Here <hi>Mathew</hi>'s flying Fingers roul</l>
+            <l>To calm and thrill the raptur'd Soul.</l>
+            <l>Immortal Music form'd the World,</l>
+            <l>That lay in dreary Chaos hurld,</l>
+            <l>The <hi>Sphaeres</hi> began their heav'nly Strains,</l>
+            <l>To range the Vocal Hills and Plains;</l>
+            <l>All order came by sweet Degrees,</l>
+            <l>To bound the Rivers, Lakes and Seas,</l>
+            <l>Soft <hi>Ovid</hi> elegantly Sings</l>
+            <l>What energy from <hi>Musick</hi> Springs</l>
+            <l>
+               <hi>Appollo</hi> charm'd Imperial <hi>Jove,</hi>
+            </l>
+            <l>With all the Heav'nly Court above.</l>
+            <l>All Hell was struck by <hi>Orpheus'</hi> Lute,</l>
+            <l>The tripple <hi>Cerberus</hi> was mute,</l>
+            <l>The Tortur'd rested from their Pains,</l>
+            <l>And softly shook their binding Chains.</l>
+            <l>
+               <hi>Amphion</hi> with his artful skill,</l>
+            <l>Allur'd the Dolphin to his will:</l>
+            <l>Yet one prevail'd to gain a Wife,</l>
+            <l>The last, to save precarious Life.</l>
+            <l>But none of these displaid their Art,</l>
+            <l>To ease the pineing Captives Heart,</l>
+            <l>
+               <pb n="19" facs="18"/>That goodness is <hi>Ierne</hi> given</l>
+            <l>The copy of Aetherial Heav'n!</l>
+            <l>Hail! Social Virtue! gift Divine,</l>
+            <l>How heav'nly bright your Actions shine!</l>
+            <l>Your Souls unitedly agree,</l>
+            <l>To give the wretched Liberty.</l>
+         </lg>
+         <lg>
+            <l>AGAIN I must pursue my Theme</l>
+            <l>This Airy, Hopeless, empty Dream!</l>
+         </lg>
+         <lg>
+            <l>IF Neigh'bring Peasants round my Cell,</l>
+            <l>Shou'd not in seemly concord dwell</l>
+            <l>I'd try to Heal their home-bred Wars,</l>
+            <l>And with good councel Cure their Jars.</l>
+         </lg>
+         <lg>
+            <l>WHEN e're the Rural Nymphs and Swains,</l>
+            <l>Prepare their Sports upon the Plains,</l>
+            <l>I'd mix, and leaning on my Staff</l>
+            <l>Partake their Joy, and join their Laugh.</l>
+            <l>Old Age with youth, might well agree,</l>
+            <l>Wou'd they shake off Severity:</l>
+            <l>The <hi>Harp,</hi> harmoniously be strung,</l>
+            <l>If Age wou'd think they once were young.</l>
+         </lg>
+         <lg>
+            <pb n="20" facs="19"/>
+            <l>BUT if my End, with Giant' strides,</l>
+            <l>Comes roleing with impetuous Tides;</l>
+            <l>And all the Lumber of Disease,</l>
+            <l>Which <hi>Death</hi> alone, can only ease:</l>
+            <l>Grant Heav'n! with Patience, I may bear,</l>
+            <l>The destin'd load of sickly care;</l>
+            <l>And when pale Death's unerring Dart,</l>
+            <l>(The Fate of King's) has pierc'd my Heart,</l>
+            <l>'Tis this, and all I wou'd have said—</l>
+            <l>
+               <hi>Alas! the good old Man is DEAD!</hi>
+            </l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <head>Speedily will be PUBLISHED. (Subscription a British Shilling) THE IRISH THEATRE.</head>
+            <p>Illustrated with Notes, Moral, Historical, Poetical, Theatrical, Geographical, Political, Ancient and Modern, Foreign and Domestic, Serious and Com<lb rend="hidden" type="hyphenInWord"/>ical.</p>
+            <byline>Collected and Digested by W. R. CHETWOOD.</byline>
+            <epigraph>
+               <q>
+                  <l>Life's but a walking Shadow, a poor Player,</l>
+                  <l>That struts, and frets his Hour upon the Stage,</l>
+                  <l>And then is heard no more.</l>
+                  <bibl>
+                     <hi>MACBETH.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+         </div>
+      </back>
+   </text>
+</TEI>

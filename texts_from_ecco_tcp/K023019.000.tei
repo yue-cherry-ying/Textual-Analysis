@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The court ballad: By Mr. Pope. To the tune of, To all you ladies now at land, &amp;c.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023019.000</idno>
+            <idno type="docno">CW3313744783</idno>
+            <idno type="ecll">0653500600</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The court ballad: By Mr. Pope. To the tune of, To all you ladies now at land, &amp;c.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>2p. ; 1/2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London] :</pubPlace>
+                  <publisher>Printed for R. Burleigh, in Amen-Corner,</publisher>
+                  <date>[1717]</date>
+                  <idno type="TCP">K023019.000</idno>
+                  <idno type="docno">CW3313744783</idno>
+                  <idno type="ecll">0653500600</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P762</note>
+                  <note>Griffith, 67</note>
+                  <note>English Short Title Catalog, ESTCT5527.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <pb n="1" facs="1"/>
+         <head>THE COURT BALLAD.</head>
+         <byline>By Mr. <hi>POPE.</hi>
+         </byline>
+         <opener>To the Tune of, <hi>To all you Ladies now at Land,</hi> &amp;c.</opener>
+         <lg n="1">
+            <head>I.</head>
+            <l>TO One Fair Lady out of Court,</l>
+            <l>And Two Fair Ladies in,</l>
+            <l>Who think the TURK<note n="*" place="marg">The Little <hi>Turk.</hi>
+               </note> and POPE<note n="†" place="marg">The <hi>Au<lb rend="hidden" type="hyphenInWord"/>thor.</hi>
+               </note> a Sport,</l>
+            <l>And Wit and Love no Sin,</l>
+            <l>Come these soft Lines with nothing Stiff in</l>
+            <l>To <hi>B<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>ll<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>ne, Le<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>p<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>lle,</hi> and <hi>G<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>ff<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>n.</hi>
+            </l>
+            <l>
+               <hi>With a fa, la, la.</hi>
+            </l>
+         </lg>
+         <lg n="2">
+            <head>II.</head>
+            <l>What passes in the Dark Third Row,</l>
+            <l>And what behind the Scene,</l>
+            <l>Coaches and crip'led Chairs I know,</l>
+            <l>And Garrets hung with Green;</l>
+            <l>I know the swing of sinful Hack,</l>
+            <l>Where many Damsels cry alack.</l>
+            <l>
+               <hi>With a fa, la, la.</hi>
+            </l>
+         </lg>
+         <lg n="3">
+            <head>III.</head>
+            <l>Then why to Court shou'd I Repair,</l>
+            <l>Where's such ado with <hi>T<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d.</hi>
+            </l>
+            <l>To hear each Mortal Stamp and Swear</l>
+            <l>And ev'ry Speech with Zouns end,</l>
+            <l>To hear 'em Rail at honest <hi>S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d</hi>
+            </l>
+            <l>And rashly Blame the Realm of Blunderland<note n="*" place="marg">Ireland.</note>
+            </l>
+            <l>
+               <hi>With a fa, la, la.</hi>
+            </l>
+         </lg>
+         <lg n="4">
+            <head>IV.</head>
+            <l>Alas like <hi>S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>z</hi> I cannot Pun,</l>
+            <l>Like <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>t<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>n</hi> Court the <hi>Germans,</hi>
+            </l>
+            <l>Tell <hi>P<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>k<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>n<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>g</hi> how Slim she's grown,</l>
+            <l>Like <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>ws</hi> Run to Sermons,</l>
+            <l>To Court, Ambitious Men may Roam,</l>
+            <l>But I and <hi>Marlbro</hi>' stay at Home.</l>
+            <l>
+               <hi>With a fa, la, la.</hi>
+            </l>
+         </lg>
+         <lg n="5">
+            <pb n="2" facs="2"/>
+            <head>V.</head>
+            <l>In truth by what I can discern,</l>
+            <l>Of Courtiers 'twixt you Three,</l>
+            <l>Some Wit you have and more may Learn,</l>
+            <l>From Court than <hi>Gay</hi> or <hi>Me,</hi>
+            </l>
+            <l>Perhaps in time you'll leave High Diet,</l>
+            <l>To Sup with Us on Mirth and Quiet,</l>
+            <l>
+               <hi>With a fa, la, la.</hi>
+            </l>
+         </lg>
+         <lg n="6">
+            <head>VI.</head>
+            <l>At <hi>Leicester-Fields</hi> a House full high,</l>
+            <l>With Door all Painted Green,</l>
+            <l>Where Ribbons Wave upon the Tye,</l>
+            <l>(A Milliner I mean)</l>
+            <l>There may you Meet Us Three to Three,</l>
+            <l>For <hi>Gay</hi> can well make Two of Me.</l>
+            <l>
+               <hi>With a fa, la, la.</hi>
+            </l>
+         </lg>
+         <lg n="7">
+            <head>VII.</head>
+            <l>But shou'd you catch the Prudish Itch,</l>
+            <l>And each become a Coward,</l>
+            <l>Bring sometimes with you Mistress <hi>R<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>h,</hi>
+            </l>
+            <l>And sometimes Mistress <hi>H<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d.</hi>
+            </l>
+            <l>For Virgins to keep Chaste must go</l>
+            <l>Abroad with such as are not so.</l>
+            <l>
+               <hi>With a fa, la, la.</hi>
+            </l>
+         </lg>
+         <lg n="8">
+            <head>VIII.</head>
+            <l>And thus Fair Maids my Ballad ends,</l>
+            <l>God send the King Safe Landing,</l>
+            <l>And make all Honest Ladies Friends,</l>
+            <l>To Armies that are Standing,</l>
+            <l>Preserve the Limits of these Nations,</l>
+            <l>And take off Ladies Limitations.</l>
+            <l>
+               <hi>With a fa, la, la.</hi>
+            </l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>R. Burleigh,</hi> in <hi>Amen-Corner.</hi> Price 2<hi>d.</hi> Where may be had, <hi>Pope</hi>'s Miscellany. Containing the following Poems, <hi>viz.</hi> The Basset-Table, The Drawing Room, The Toilet, The Looking-Glass, The Worms, The First Psalm, Translated for the Use of a Young Lady. Price Six Pence. Also, A True Character of Mr. <hi>Pope,</hi> and his Writings. Price Three Pence.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

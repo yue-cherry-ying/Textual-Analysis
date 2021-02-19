@@ -1,0 +1,1018 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paine's four letters. Letters on government: including both his letters to Mr. Dundas; with two letters to Lord Onslow, and two from Paris. By Thomas Paine, ... to which are prefixed anecdotes of his life:</title>
+            <author>Paine, Thomas, 1737-1809.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023225.000</idno>
+            <idno type="docno">cw3306059562</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Paine's four letters. Letters on government: including both his letters to Mr. Dundas; with two letters to Lord Onslow, and two from Paris. By Thomas Paine, ... to which are prefixed anecdotes of his life:</title>
+                  <author>Paine, Thomas, 1737-1809.</author>
+               </titleStmt>
+               <extent>xii,23,[1] p. ; 12⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>sold by C. Stalker; and by all booksellers,</publisher>
+                  <date>1792.</date>
+                  <idno type="TCP">K023225.000</idno>
+                  <idno type="docno">cw3306059562</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT5787.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>
+               <hi>Paine's Four Letters.</hi>
+            </p>
+            <p>LETTERS ON GOVERNMENT: INCLUDING BOTH HIS LETTERS TO MR. DUNDAS; WITH TWO LETTERS TO LORD ONSLOW▪ AND TWO FROM PARIS.</p>
+            <p>By <hi>THOMAS PAINE,</hi> AUTHOR OF "RIGHTS OF MAN," "COMMON SENSE, &amp;c.</p>
+            <p>TO WHICH ARE PREFIXED <hi>ANECDOTES OF HIS LIFE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> SOLD BY C. STALKER, STATIONERS' COURT, LUDGATE-STREET; AND BY ALL BOOKSELLERS.</p>
+            <p>1792.</p>
+            <p>[PRICE SIXPENCE.]</p>
+         </div>
+         <div type="publishersadvertisement">
+            <pb facs="2"/>
+            <p>
+               <hi>The Patrons of Liberty are informed, that in a fe<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> days will be published, at a small price, a Pam¦phlet, entitled,</hi>
+            </p>
+            <p>THE FRIEND OF THE PEOPLE; OR, A VIEW OF THE ENGLISH GOVERNMENT FOR THE INSTRUCTION OF PLAIN PERSONS.</p>
+            <p>SOLD BY ALL BOOKSELLERS.</p>
+         </div>
+         <div type="anecdotes">
+            <pb facs="3"/>
+            <head>ANECDOTES OF THE LIFE OF <hi>THOMAS PAINE.</hi>
+            </head>
+            <p>THE celebrated Author of "THE RIGHTS OF MAN" has not been without his biographer. In a pamphlet which extends to one hundred and sixty-six pages, and which is published under the sanction of the fictitious name of <hi>Oldys,</hi> we have been made acquainted with many parti<lb rend="hidden" type="hyphenInWord"/>culars of Mr. PAINE'S private history. This pamphlet is, in <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> degree, <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> and abusive; and the <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> of it had evidently dipped his pen in the bitter spirit of Party Oppo<lb rend="hidden" type="hyphenInWord"/>sition. However, the incidents which it contains seem to have been collected with care and assiduity, and to rest, as to their authenticity, on the evidence of dates and records. It should be remembered, likewise, that these particulars have not been contradicted, either by Mr. PAINE, or by any of his numerous admirers; most, if not all, of whom appear to have had no doubt of their reality. Perhaps, the impartial Public may be pleased with beholding the follow<lb rend="hidden" type="hyphenInWord"/>ing Anecdotes, stript of that <hi>high colouring</hi> which preju<lb rend="hidden" type="hyphenInWord"/>dice and party-malice are capable of giving to truth.</p>
+            <p>THOMAS PAINE was born at Thetford, in the county of Norfolk, on the 29th of January, 1736-7. His father,
+<pb n="iv" facs="4"/>the son of a small but reputable farmer, was a stay-make by trade, and a Quaker by religion: his mother was th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> daughter of an attorney at Thetford, and of the Establishe<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Church. He was educated at his native town, under the Rev. WILLIAM KNOWLES, master of the grammar schoo<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> at Thetford, and was deemed a boy of considerable abili<lb rend="hidden" type="hyphenInWord"/>ties, though without much regular application. His studies were directed, by his expectations, to what is useful, rather than to what is ornamental;—to reading, writing, and arithmetic. With this kind of instruction he left the school, at the age of thirteen, in order to learn his father's business, which, though he did not like it, he continued to work at for nearly five years.</p>
+            <p>When almost twenty, and in the year 1756, the subject of these memoirs entered London, the common receptacle of the silly and the wise, of the poor and the opulent, of the busy and the idle. He worked for some time with Mr MORRIS, a very noted stay-maker, in Hanover-street Long-Acre. He did not, however, continue long in Lon<lb rend="hidden" type="hyphenInWord"/>don; and it seems probable that this was the period at which he made his sea-faring adventure.</p>
+            <p>At an early age (as he himself observes,) raw and ad<lb rend="hidden" type="hyphenInWord"/>venturous, and heated with the false heroism of a master who had served in a man-of-war, he began the career of his own fortune, and entered on board the <hi>Terrible</hi> privateer Captain DEATH. From this adventure he was happil<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> prevented by the affectionate and moral remonstrance of good father, who, from his own habits of life, being of the Quaker profession, must have begun to look upon him a<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> lost. But the impression, much as it effected at the time began to wear away, and he entered afterwards in the <hi>King of Prussia</hi> privateer, and went with her to sea. What the event of his expedition was, whether successful or other¦wise, we are not informed; but it is certain, that in the way of life he did not continue long, for in the year 175<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> we find him at Dover, where he worked at his trade s<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> almost a twelvemonth.</p>
+            <p>In April 1759 he settled, as a master stay-maker, Sandwich; and, on the 27th of September following, ma<lb rend="hidden" type="hyphenInWord"/>ried
+<pb n="v" facs="5"/>MARY LAMBERT, a pretty girl of modest behaviour, and the daughter of an exciseman. At Sandwich, how<lb rend="hidden" type="hyphenInWord"/>ever, he did not continue long: but on the 7th of April, 1760, went, with his wife, to Margate, and a little time af<lb rend="hidden" type="hyphenInWord"/>ter, having lost his wife, again mingled with the crowds of London.</p>
+            <p>The trials which our Author had made of his trade, as they had brought him no pleasure and little gain, induced him to renounce it at this time for ever. When a youth, he had enquired into the duty, and envied the perquisites, of an exciseman. His wife had, doubtless, spoken of the honours and emoluments of her deceased father. And he was induced by these considerations, in July, 1761, to seek for shelter in his father's house, that he might prosecute, in quiet privacy at Thetford, the great object of his future course.</p>
+            <p>After fourteen months of study, our Author was esta<lb rend="hidden" type="hyphenInWord"/>blished in the excise, on the 1st of December, 1762, at the age of twenty-five. He owed this gratification of his wishes to the friendly interference of Mr. COCKSEDGE, the learned Recorder of Thetford; but in this situation he did not continue more than two or three years; for it is certain that, whatever was the cause, he was dismissed from his office on the 27th of August, 1765.</p>
+            <p>In consequence of this misfortune, our celebrated Author was reduced to great want. He is said to have been, for some time, almost without food and shelter. On the 11th of July, 1766, he was restored to his office; a circumstance which seems to prove that he had not merited his dismis<lb rend="hidden" type="hyphenInWord"/>sion.</p>
+            <p>Mere restoration, however, did not bring him immediate employment. At this interval he was employed to teach English at an academy in Leman-street, Goodman's-Fields, for which he received a salary of twenty-five pounds a year; and afterwards he lived, for a short time, in a similar situ<lb rend="hidden" type="hyphenInWord"/>ation at Kensington.</p>
+            <p>
+               <pb n="vi" facs="6"/>In March, 1768, he was sent to be an excise officer at Lewes, in Sussex. In this place he lodged with Mr. OL<lb rend="hidden" type="hyphenInWord"/>LIVE, a tobacconist; after whose death, in 1769, he opened the shop in his own name, as a grocer, and married ELI<lb rend="hidden" type="hyphenInWord"/>ZABETH OLLIVE, the daughter of his late landlord. This period is said to have been one of the happy parts of his life.</p>
+            <p>In 1771 he made his first appearance as a writer. The poets of Lewes were called upon, by one of the candidates for the <hi>honour</hi> (we must not say, the <hi>interest</hi>) of represent<lb rend="hidden" type="hyphenInWord"/>ing in Parliament the Electors of New Shoreham, to fur<lb rend="hidden" type="hyphenInWord"/>nish an appropriate song; and Mr. PAINE obtained the laurel, with three guineas for his labour.</p>
+            <p>In 1772 a design was formed by the excise-officers throughout the kingdom, to apply to Parliament for some addition to their salaries. Our Author, being one of the leading men among them, was requested to write their <hi>Case,</hi> which he produced and published, after many months' application. This is an octavo pamphlet of twenty-one pages, which, exclusive of the <hi>Introduction,</hi> is divided into two heads, viz. <hi>The State of the Salary of the Officers of the Excise;</hi> and <hi>Thoughts of the Corruption arising from the Poverty of Excise Officers.</hi> On these topics he says all that the ablest writer could have said. Four thousand of the <hi>Case</hi> were printed at Lewes; but, notwithstanding this effort, no application was made to Parliament.</p>
+            <p>In the month of April, 1774, misfortunes crowded fast upon him. The effects of his shop were sold to pay his debts. Having dealt likewise, as a grocer, in exciseable articles, he was suspected (whether with reason or other<lb rend="hidden" type="hyphenInWord"/>wise, does not appear) of unfair practices; and, on the 8th of the same month, was again dismissed from the excise after a dozen years service.</p>
+            <p>On the 24th of May following, Mr. PAINE and his wife entered into articles of separation; and these articles were in consequence of some disagreement, again drawn on the 4th of June. Some persons have not scrupled to asser<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>
+               <pb n="vii" facs="7"/>that he treated his wife with cruelty, and that this was the cause of their separation.</p>
+            <p>Towards the close of the year, in consequence of a strong recommendation to Dr. FRANKLIN, he formed the resolution of quirting his native country; and, in the month of September, he set sail for America. He arrived at Philadelphia in the winter, a few months, as he himself relates, before the battle of Lexington, which was fought in April, 1775.</p>
+            <p>In the New World, his first employment was that of shopman to Mr. AITKIN, an industrious bookseller at Philadelphia, with a salary of twenty pounds a-year. Soon after, he turned chemist; and in November, as foreign supplies of gunpowder were stopped, he employed his fer<lb rend="hidden" type="hyphenInWord"/>tile genius in making experiments for the purpose of dis<lb rend="hidden" type="hyphenInWord"/>covering some cheap and expeditious method of furnishing Congress with saltpetre.</p>
+            <p>From this aera he becomes more known, and his con<lb rend="hidden" type="hyphenInWord"/>duct is entitled to particular attention. On the 10th of January, 1776, he published his celebrated pamphlet, in<lb rend="hidden" type="hyphenInWord"/>titled <hi>Common Sense.</hi> This work was universally read, and very generally applauded. The first edition was quickly sold. A second, with a Supplement of one third more, was immediately prepared. But let us here attend to Mr. PAINE himself. Speaking of the testimony which his own heart bore to his integrity, he thus remarks.</p>
+            <p>"Politics and self-interest have been so uniformly con<lb rend="hidden" type="hyphenInWord"/>nected, that the world, from being so often deceived, has a right to be suspicious of public characters. But with re<lb rend="hidden" type="hyphenInWord"/>gard to myself, I am perfectly easy on this head. I did not, at my first setting out in public life, nearly seventeen years ago, turn my thoughts to subjects of Government from motives of interest; and my conduct, from that mo<lb rend="hidden" type="hyphenInWord"/>ment to this, proves the fact. I saw an opportunity in which I thought I could do some good, and I followed ex<lb rend="hidden" type="hyphenInWord"/>tily what my heart dictated. I neither read books, nor
+<pb n="viii" facs="8"/>studied other people's opinions. I thought for myself. Th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> case was this:</p>
+            <p>"During the suspension of the old Governments in Ame¦rica, both prior to, and at the breaking out of hostilities, <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> was struck with the order and decorum with which every thing was conducted, and impressed with the idea that a little more than what Society naturally performed, was all the Government that was necessary, and that Monarchy and Aristocracy were frauds and impositions upon mankind. On these principles, I published the pamphlet, <hi>Common Sense.</hi> The success it met with was beyond any thing since the invention of printing. I gave the copy-right up to every State in the Union, and the demand ran to not less than one hundred thousand copies."—Owing to this disin<lb rend="hidden" type="hyphenInWord"/>terested conduct of Mr. PAINE, it seems that, notwith<lb rend="hidden" type="hyphenInWord"/>standing the extensive sale of the pamphlet, he was in debt to the printer, to the amount of 29l. 12s. 1d.</p>
+            <p>In the course of this year, 1776, Mr. PAINE joined the army, but in what capacity is not known. It is certain, however, that he accompanied WASHINGTON in his retreat from Hudson's River to the Delaware. At this time the Congress fled, and all were terrified. But our Author was undismayed. He saw that the Americans were possessed of resources sufficient to authorize hope, and he endea¦vourd to inspire others with the same confidence. Wit<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> this view, on the 19th of December, he published th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> 
+               <hi>Crisis,</hi> wherein he states every topic of hope, and examine<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> every motive of apprehension. This work, which extended to thirteen Numbers, he published at different interval till the complete establishment of the Revolution. T<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> last Number appeared on the 19th of April, 1783, the sam<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> day that a cessation of hostilities was proclaimed.</p>
+            <p>In 1777, Congress unanimously, and unknown to M<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> PAINE, appointed him Secretary in the Foreign Depar<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>¦ment; and from this time he enjoyed the corresponden<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> of FRANKLIN. This appointment was agreeable to hi<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> because it gave him the opportunity of seeing into the a<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>¦lities of Foreign Courts, and their manner of doing bu<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>¦ness,
+<pb n="ix" facs="9"/>But a misunderstanding arising between Congress and him, respecting one of their Commissioners, then in Europe, Mr. SILAS DEANE, he resigned the office on the 8th of January, 1779, and declined, at the same time, the pecuniary offers made him by the Ministers of France and Spain, M. GERARD, and DON JUAN MIRRALLES.</p>
+            <p>Soon after this he was made Master of Arts by the Uni<lb rend="hidden" type="hyphenInWord"/>versity of Philadelphia; and, in 1780, was chosen a mem<lb rend="hidden" type="hyphenInWord"/>ber of the <hi>American Philosophical Society,</hi> when it was re<lb rend="hidden" type="hyphenInWord"/>vived by the legislature of the province of Pensylvania. His independence, as a political writer, was well known. His patriotism had gained him many friends; and, among others, it appears that General Washington entertained a high sense of the importance of his services.—On account of these services, New-York conferred on him some for<lb rend="hidden" type="hyphenInWord"/>feited lands at New-Rochelle, and Pensylvania presented him with five hundred pounds.</p>
+            <p>As his exertions were no longer necessary in America, be set sail for France in the autumn of 1786, and arrived at Paris in the beginning of the year 1787; carrying with him his fame as a writer, and the model of a bridge, which was shewn to the Academy of Sciences. From Paris he came over to England on the 3d of September; just thir<lb rend="hidden" type="hyphenInWord"/>teen years after his departure for Philadelphia. Before the end of the month, he went to Thetford to see his mo<lb rend="hidden" type="hyphenInWord"/>ther, to whom he allowed 9s. a-week; but, owing to the bankruptcy of the American merchant who was ap<lb rend="hidden" type="hyphenInWord"/>pointed to pay it, this allowance was afterwards stop<lb rend="hidden" type="hyphenInWord"/>ped.</p>
+            <p>During part of the year 1788, Mr. PAINE resided at Ro<lb rend="hidden" type="hyphenInWord"/>theram in Yorkshire, where his iron bridge was cast and created, chiefly at the expence of the ingenious Mr. Wal<lb rend="hidden" type="hyphenInWord"/>ter. The design, however, had cost our Author a consi<lb rend="hidden" type="hyphenInWord"/>derable sum, and the assignees of the American merchant, finding six hundred and twenty pounds charged against him, caused him to be arrested on the 29th of October, 1789. On this occasion, two respectable merchants be<lb rend="hidden" type="hyphenInWord"/>came his bail; and on his paying down four hundred and sixty pounds, which he had received from America, and
+<pb n="x" facs="10"/>giving his note for the remainder, he was set at liberty in November, after three weeks confinement.</p>
+            <p>In consequence of the publication of Mr. Burke's <hi>Re<lb rend="hidden" type="hyphenInWord"/>flections on the French Revolution,</hi> Mr. PAINE produced, in the month of February 1791, his well-known Work, intitled, the <hi>Rights of Man.</hi> This pamphlet was print<lb rend="hidden" type="hyphenInWord"/>ed for Mr. Johnson, in St. Paul's Church-Yard: but the work containing some just but severe reflections on various parts of the English government, Mr. Johnson was induced, by the advice of some of his friends, to de<lb rend="hidden" type="hyphenInWord"/>cline the publication of it; and, after a month's delay, it was published, on the 13th of March, by Mr. Jordan, in Fleet-Street.</p>
+            <p>About the middle of May, Mr. PAINE again went to France. When the King fled from Paris, he observed to his friend, Mr. Christie, <q>You see the absurdity of mo<lb rend="hidden" type="hyphenInWord"/>narchical governments. Here will be a whole nation disturbed by the folly of one man.</q> On the return of the King, our Author was in considerable danger. An officer proclaimed the will of the National Assembly, that all should be silent, and covered. In a moment, all hats were on. Mr. PAINE, however, had lost his cock<lb rend="hidden" type="hyphenInWord"/>ade, the emblem of liberty and equality. A cry arose <hi>Aristocrat! Aristocrat! A' la lanterne! a' la lanterne!</hi> He was desired by those who stood near him, to put on his hat. And it was not till after some time, that the mob was satisfied by explanation.</p>
+            <p>On the 13th of July, he returned to London; but i<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> was not thought prudent that he should attend the cele<lb rend="hidden" type="hyphenInWord"/>bration of the French Revolution. He afterwards dre<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> up the <hi>Address</hi> and <hi>Declaration</hi> of the Gentlemen who me<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> at the Thatched-House-Tavern, on the 20th of Augu<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> following.</p>
+            <p>In the month of February 1792, appeared the Secon<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Part of <hi>Rights of Man;</hi> a publication, which has con<lb rend="hidden" type="hyphenInWord"/>ferred additional celebrity on its Author, and greatly in<lb rend="hidden" type="hyphenInWord"/>creased
+<pb n="xi" facs="11"/>the number of converts to the cause of liberty, and just government.</p>
+            <p>The sale of these justly-admired productions has been much greater than that of, perhaps, any work ever pub<lb rend="hidden" type="hyphenInWord"/>lished in England. When the Second Part of <hi>Rights of Man</hi> appeared, the number of copies to which the First Part had extended, including England, Scotland, and Ireland, was not less than between forty and fifty thousand; and when it is recollected that, exclusive of the Second, the First Part of the work has now been eight months longer on sale, and that cheap editions of each have been published, very many thousands of which have been sold, the number purchased cannot be supposed to fall far short of, if indeed it does not exceed, one hundred thousand copies.</p>
+            <p>Thus have we presented to our readers the principal circumstances of Mr. PAINE's history. The changes which he has witnessed have been various; and the man, who can drop a tear of sorrow at the recollection of the miseries of his fellow-creatures, will feel regret still more poignant when contemplating the many difficulties under which that man has laboured, who may justly be styled the BENEFACTOR OF NATIONS. But, perhaps, (as he has well observed) it is to his advantage that he has served an apprenticeship to life. He now knows the value of moral instruction, for he has seen the danger of the contrary.</p>
+            <p>The number of converts to Mr. PAINE's sentiments on Civil Government is rapidly encreasing. It is a class which comprehends the most truly independent characters throughout the nation; men, who belong to no party but that of truth, and who acknowledge no objects of political <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>doration but those of public liberty and public happiness. The names of <hi>Pittite</hi> and <hi>Foxite,</hi> with those other blan<lb rend="hidden" type="hyphenInWord"/>
+               <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ishments with which <hi>interest</hi> has contrived to catch the yes and seduce the attention of the unthinking and the rulgar, are regarded by them as the rattles of childhood. They aspire to a nobler character; and, instead of consign<lb rend="hidden" type="hyphenInWord"/>ing their understandings to the custody of others, are de<lb rend="hidden" type="hyphenInWord"/>
+               <gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap>mined to take the trouble of thinking for themselves.</p>
+            <p>
+               <pb n="xii" facs="12"/>Yet we would not be uncandid; we would not be un<lb rend="hidden" type="hyphenInWord"/>just. Candour is the fair offering of ingenuous excel<lb rend="hidden" type="hyphenInWord"/>lence, and justice is the due of all. Many, no doubt, there are who oppose reformation from conviction, and whose upright hearts, if accompanied with enlightened under<lb rend="hidden" type="hyphenInWord"/>standings, would strink with horror at the idea of those miseries which the villainy of Kings and Ministers has al<lb rend="hidden" type="hyphenInWord"/>lotted to their equals. For why must the People groan under the load of poverty and want, that Statesmen and Kings may live in splendour?—But Heaven be praised for that light which is already diffused, and which will as<lb rend="hidden" type="hyphenInWord"/>suredly dispel that mental darkness which has so long over<lb rend="hidden" type="hyphenInWord"/>shadowed the earth!</p>
+            <p>The Author of the <hi>Rights of Man,</hi> as a reward for his public-spirited exertions, is now the subject of a Govern<lb rend="hidden" type="hyphenInWord"/>ment prosecution. Of these proceedings and their ad<lb rend="hidden" type="hyphenInWord"/>visers we shall simply say, that they produce, in the patr<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>∣otic breast, the fervour of indignation, or the coolness <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> contempt.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="13"/>
+         <head>LETTERS ON GOVERNMENT.</head>
+         <div n="1" type="letter">
+            <head>LETTER I. <hi>To Mr. HENRY DUNDAS,</hi> In Answer to his Speech on the late EXCELLENT Proclamation.</head>
+            <opener>
+               <salute>SIR,</salute>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>June</hi> 
+                     <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap> 1792.</date>
+               </dateline>
+            </opener>
+            <p>AS you opened the debate in the House of Commons, May 25th, on the Proclamation for suppressing Publi<lb rend="hidden" type="hyphenInWord"/>cations, which that Proclamation (without naming any) calls wicked and seditions, and as you applied those opprobrious epi<lb rend="hidden" type="hyphenInWord"/>thets to the works entitled "RIGHTS OF MAN," I think it unnecessary to offer any other reason for addressing this Letter to you.</p>
+            <p>I begin, then, at once, by declaring that I do not believe there are to be found in the writings of any author, ancient or modern, on the subject of Government, a spirit of greater be<lb rend="hidden" type="hyphenInWord"/>nignity, and a stronger inculcation of moral principles than in those which I have published. They come, Sir, from a man, who, by having lived in different countries, and under different systems of Government, and who, being intimate in the construction of them, is a better judge of the subject than it is possible that you, from the want of those opportu<lb rend="hidden" type="hyphenInWord"/>nities, can be:—And, besides this, they come from an heart that knows not how to beguile.</p>
+            <p>I will further say, that when that moment arrives in which the best consolation that shall be left will be that of looking back on some past actions, more virtuous, more meritorious, than the rest, I shall then with happiness remember, among other things. I have written the RIGHTS OF MAN.—As to what Proclamations, or Prosecutions, or Place-men, or Place-expectants,
+<pb n="2" facs="14"/>—those who possess, or those who are gaping for office, may say of them, it will not alter their character, either with the world or with me.</p>
+            <p>Having, Sir, made this declaration, I shall proceed to re<lb rend="hidden" type="hyphenInWord"/>mark, not particularly upon your own Speech on that occasion, but on any other Speech to which your Motion on that day gave rise; and I shall begin with that of Mr. ADAM.</p>
+            <p>This gentleman accuses me of <hi>not</hi> having done the very thing that <hi>I have done,</hi> and which, he says, if I <hi>had</hi> done, he should not have accused me.</p>
+            <p>Mr. ADAM, in his Speech, (see the Morning Chronicle of May 26,) says, <q>That he had well considered the subject of Constitutional Publications, and was by no means ready to say (but the contrary) that books of science upon Govern<lb rend="hidden" type="hyphenInWord"/>ment, though recommending a doctrine or system different from the form of our Constitution (meaning that of Eng<lb rend="hidden" type="hyphenInWord"/>land) were fit objects of prosecution; that if he did, he must condemn (which he meant not to do) HARRINGTON for his Oceana, Sir THOMAS MOORE for his Eutopia, and HUME for his Idea of a perfect Common-wealth. But (continued Mr. ADAM) the Publication of Mr. PAINE was very diffe<lb rend="hidden" type="hyphenInWord"/>rent; for it reviled what was <hi>most sacred</hi> in the Constitu<lb rend="hidden" type="hyphenInWord"/>tion, destroyed every principle of subordination, and <hi>esta<lb rend="hidden" type="hyphenInWord"/>blished nothing in their room.</hi>
+               </q>
+            </p>
+            <p>I readily perceive that Mr. ADAM had not read the <hi>Second</hi> Part of <hi>Rights of Man,</hi> and I am put under the necessity, either of submitting to an erroneous charge, or of justifying myself against it; and I certainly shall prefer the latter.—If, then, I shall prove to Mr. ADAM, that, in my reasoning upon systems of government in the Second Part of <hi>Rights of Man,</hi> I have shown as clearly, I think, as words can convey ideas, a cer<lb rend="hidden" type="hyphenInWord"/>tain System of Government, and that not existing in theory only, but already in full and established practice, and systema<lb rend="hidden" type="hyphenInWord"/>tically and practically free from all the vices and defects, of the English Government, and capable of producing more happiness to the People, and that also with an eightieth part of the Taxes, which the present System of English Government con<lb rend="hidden" type="hyphenInWord"/>sumes. I hope he will do me the justice when he next goes <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> the House, to get up and confess he had been mistaken in say<lb rend="hidden" type="hyphenInWord"/>ing, that I had <hi>established nothing, and that I had destroyed every principle of subordination.</hi> Having thus opened the case I now come to the point.</p>
+            <p>In the Second Part of RIGHTS OF MAN, I have distinc<lb rend="hidden" type="hyphenInWord"/>guisted Government into two classes or systems; the one, th<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> hereditary system; the other the representative system.</p>
+            <p>In the First Part of <hi>Rights of Man,</hi> I have endeavoured shew, and I challenge any man to refute it, that there does n<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>
+               <pb n="3" facs="15"/>exist a right to establish hereditary Government; or, in other words, Hereditary Governors; because Hereditary Govern<lb rend="hidden" type="hyphenInWord"/>ment always means a Government yet to come, and the case always is, that the People who are to live afterwards have always the same right to chuse a government for themselves, as the People had who lived before them.</p>
+            <p>In the Second Part of <hi>Rights of Man,</hi> I have not repeated those arguments, because they are irrefutable; but have confin<lb rend="hidden" type="hyphenInWord"/>ed myself to shew the defects of what is called Hereditary Go<lb rend="hidden" type="hyphenInWord"/>vernment, or Hereditary Succession; that it must, from the nature of it, throw Government into the hands of men totally unworthy of it, from want of principle or unfitted for it from want of capacity.—James the IId. is recorded as an in<lb rend="hidden" type="hyphenInWord"/>stance of the first of these cases; and instances are to be found almost all over Europe to prove the truth of the latter.</p>
+            <p>To shew the absurdity of the Hereditary system still more strongly, I will now put the following case—Take any fifty men promiscuously, and it will be very extraordinary, if, out of that number, one man should be found, whose principles and talents taken together (for some might have principles, and o<lb rend="hidden" type="hyphenInWord"/>thers have talents) would render him a person truly fitted to fill any very extraordinary office of National Trust. If, then, such a fitness of character could not be expected to be found in more than one person out of fifty, it would happen but once in a thousand years to the eldest son of any one family, admitting each, on an average, to hold the office twenty years. Mr. A<lb rend="hidden" type="hyphenInWord"/>dam talks of something in the constitution which he calls <hi>most sacred,</hi> but I hope he does not mean Hereditary succession, a thing which appears to me a violation of every order of na<lb rend="hidden" type="hyphenInWord"/>ture, and of common sense.</p>
+            <p>When I look into History, and see the multitudes of men o<lb rend="hidden" type="hyphenInWord"/>therwise virtuous, who have died, and their families been ruined in defence of knaves and fools, and which they would not have done had they reasoned at all upon the system; I do not know a greater good that an individual can render to mankind, than to endeavour to break the chains of political superstition. Those chains are now dissolving fast, and proclamation and prosecu<lb rend="hidden" type="hyphenInWord"/>tion will serve but to hasten that dissolution.</p>
+            <p>Having thus spoken of the Hereditary system as a had sys<lb rend="hidden" type="hyphenInWord"/>tem, and subject to every possible defect; I now come to the Representative System; and this Mr. ADAM will find stated in the Second Part of the Rights of Man, not only as the best, but as the only <hi>Theory</hi> of Government under which the liberties of a people can be permanently secure.</p>
+            <p>But it is needless now to talk of mere Theory, since there is already a Government in full Practice, established upon that Theory, or, in other Words, upon the Rights of Man, and
+<pb n="4" facs="16"/>has been so for almost twenty years. Mr. Pitt, in a speech of his some short time since, said, <q>That there never did, and never could exist a Government established upon those Rights; and that if it began at noon, it would end at night.</q> Mr. Pitt is not yet arrived at the degree of a school-boy in this species of knowledge. His practice has been confined to the means of extorting revenue, and his boast has been—how much?—Whereas the boast of the System of Government that I am speaking of, is not how much, but how little.</p>
+            <p>The System of Government, purely representative, unmixed with any thing of hereditary nonsense, began in America. I will now compare the effects of that system of Government with the system of Government in England, both during, and since the close of the war.</p>
+            <p>So powerful is the Representative system, first, by combin<lb rend="hidden" type="hyphenInWord"/>ing and consolidating all the parts of a country together, how<lb rend="hidden" type="hyphenInWord"/>ever great the extent; and secondly, by admitting of none but men properly qualified into the Government, or dismissing them if they prove to be otherwise, that America was enabled thereby totally to defeat and overthrow all the schemes and projects of the Hereditary Government of England against her, As the establishment of the Revolution and Independence of America is a proof of this fact, it is needless to enlarge upon it.</p>
+            <p>I now come to the comparative effect of the two Systems since the close of the war; and I request Mr. Adam to attend to it.</p>
+            <p>America had internally sustained the revenge of upwards of seven years of war, which England had not. England sustained only the expence of the war; whereas America sustained not only the expence, but the destruction of property committed by both armies. Not a house was built during that period, and many thousands were destroyed. The farms and plantations along the coast of the country, for more than a thousand miles, were laid waste. Her commerce was annihilated, her ships were either taken or had rotted within her own harbours. The credit of her funds had fallen upwards of ninety per cent. that is, an o<lb rend="hidden" type="hyphenInWord"/>riginal hundred pounds would not sell for ten pounds. In <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ine she was apparently put back an hundred years when the wa<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> closed; which was not the case with England.</p>
+            <p>But such was the event, that the same representative Sys<lb rend="hidden" type="hyphenInWord"/>tem of Government, though since better organized, which enabled her to conquer, enabled her also to recover; and sh<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap> now presents a more flourishing condition, and a more happ<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> and harmonized society under that system of Government that any country in the world can boast under any other. He<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> towns are rebuilt, much better than before; her farms an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> plantations are in higher improvement than ever; her com¦merce
+<pb n="5" facs="17"/>is spread over the world, and her funds have risen from less than ten pounds the hundred to upwards of one hundred and twenty. Mr. Pitt, and his colleagues, talk of the things that have happened in his boyish Administration, without knowing what greater things have happened elsewhere and un<lb rend="hidden" type="hyphenInWord"/>der other systems of Government.</p>
+            <p>I next come to state the expence of the two systems, as they now stand in each of the countries; but it may first be proper to observe, that Government in America is what it ought to be, a matter of honour and trust, and not made a trade of for the purpose of lucre.</p>
+            <p>The whole amount of the net taxes in England (exclusive of the expence of collection, of drawbacks, of seizures and condemnations, of sines and penalties, of fees of office, of liti<lb rend="hidden" type="hyphenInWord"/>gations and informers, which are some of the blessed means of enforcing them) is seventeen millions. Of this sum about nine millions go for the payment of the interest of the Nation<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>l Debt, and the remainder, being about eight millions, is for the current annual expences. Thus much for one side of the case. I now come to the other.</p>
+            <p>The expence of all the several departments of the general Representative Government of the United States of America, extending over a space of country nearly ten times larger than England, is two hundred and ninety-four thousand five hun<lb rend="hidden" type="hyphenInWord"/>dred and fifty-eight dollars, which, at 4s. 6d. per dollar, is 66, 275l. 11s. sterling, and is thus apportioned.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Expence of the Executive Department.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                  </row>
+                  <row>
+                     <cell>The Office of the Presidency, at which the President receives nothing for himself</cell>
+                     <cell>5,625</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Vice President</cell>
+                     <cell>1,125</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Chief Justice</cell>
+                     <cell>900</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Five Associate Justices</cell>
+                     <cell>3,937</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Nineteen Judges of Districts and Attorney General</cell>
+                     <cell>6,873</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Legislative Department.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>Members of Congress, at six Dollars (1l. 7s.) per day, their Secretaries, Clerks, Chaplains, Messengers, Doot-Keepers, &amp;c.</cell>
+                     <cell>25,5<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                           <desc>illegible</desc>
+                        </gap>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Treasury Department.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>Secretary, Assistant, Comptroller, Auditor, Treasurer, Re<lb rend="hidden" type="hyphenInWord"/>gister, and Loan-Office Keeper, in each State, together with all necessary Clerks, Office-keepers, &amp;c.</cell>
+                     <cell>12,825</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Department of State, including Foreign Affairs.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>Secretary, Clerks, &amp;c. &amp;c.</cell>
+                     <cell>1,406</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Department of War.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>Secretary, Clerks, Paymaster, Commissioner, &amp;c.</cell>
+                     <cell>1,462</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Commissioners for settling old Accounts.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>The whole Board, Clerks, &amp;c.</cell>
+                     <cell>2,598</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Incidental and Contingent Expences.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>For Fire-wood; Stationary, Printing, &amp;c.</cell>
+                     <cell>4,006</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total</cell>
+                     <cell>60,275</cell>
+                     <cell>1<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                           <desc>illegible</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="6" facs="18"/>On account of the incursions of the Indians on the back set<lb rend="hidden" type="hyphenInWord"/>tlements, Congress is, at this time, obliged to keep six thou<lb rend="hidden" type="hyphenInWord"/>sand militia in pay, in addition to a regiment of foot, and a battalion of artillery, which it always keeps; and this increases the expence of the War Department to 390,000 dollars, which is 87, 795l. sterling; but when peace shall be concluded with the Indians, the greatest part of this expence will cease, and the total amount of the expence of Government, including that of the army, will not amount to one hundred thousand pounds sterling, which, as has been already stated, is but an eightieth part of the expences of the English Government.</p>
+            <p>I request Mr. Adam and Mr. Dundas, and all those who are talking of Constitutions, and blessings, and Kings, and Lords, and the Lord knows what, to look at this statement. Here is a form and system of Government, that is better organised and better administered than any Government in the world, and that for less than one hundred thousand pounds per annum, and yet every Member of Congress receives, as a compensation for his time and attendance on public business, one pound seven shillings per day, which is at the rate of nearly five hundred pounds a-year.</p>
+            <p>This is a government that has nothing to fear. It needs no proclamations to deter people from writing and reading. It needs no political superstition to support it. It was by encou<lb rend="hidden" type="hyphenInWord"/>raging discussion, and rendering the press free upon all subjects of Government, that the principles of Government became up<lb rend="hidden" type="hyphenInWord"/>derstood in America, and the people are now enjoying the pre<lb rend="hidden" type="hyphenInWord"/>sent blessings under it. You hear of no riots, tumults, and dis<lb rend="hidden" type="hyphenInWord"/>orders in that country; because there exists no cause to product them. Those things are never the effect of Freedom, but o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> restraint, oppression, and excessive taxation.</p>
+            <p>In America there is not that class of poor and wretched peo<lb rend="hidden" type="hyphenInWord"/>ple that are so numerously dispersed all over England, and who are to be told by a Proclamation, that they are happy; and thi<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> is in a great measure to be accounted for, not by the differenc<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> of Proclamations, but by the difference of Governments, and tha<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> difference of Taxes between that country and this. What tha<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> labouring people of that country earn they apply to their own use, and to the education of their children, and do not pay <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> away in taxes as fast as they earn it, to support Court extrava<lb rend="hidden" type="hyphenInWord"/>gance, and a long enormous list of Place-men and Pensioners and besides this, they have learned the manly doctrine of reve<lb rend="hidden" type="hyphenInWord"/>rencing themselves, and consequently of respecting each other and they laugh at those imaginary beings called Kings an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Lords, and all the fraudulent trumpery of Courts.</p>
+            <p>When Place-men and Pensioners, or those who expect to <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> such, are lavish in praise of a Government, it is not a sign <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap>
+               <pb n="7" facs="19"/>its being a good one. The pension list alone, in England (see Sir John Sinclair's History of the Revenue, page 6, of the Ap<lb rend="hidden" type="hyphenInWord"/>pendix) is One Hundred and Seven Thousand Four Hundred and Four Pounds, <hi>which is more than the expences of the whole Government of America amount to.</hi> And I am now more con<lb rend="hidden" type="hyphenInWord"/>vinced than before, that the offer that was made to me of a Thousand Pounds, for the copy-right of the Second Part of the <hi>Rights of Man,</hi> together with the remaining copy-right of the First Part, was to have effected, by a quick suppression, what is now attempted to be done by a prosecution. The connection which the person who made that offer has with the King's Printing Office, may furnish part of the means of en<lb rend="hidden" type="hyphenInWord"/>quiring into this affair, when the Ministry shall please to bring their prosecution to issue. But to return to my subject.—</p>
+            <p>I have said, in the Second Part of <hi>Rights of Man,</hi> and I re<lb rend="hidden" type="hyphenInWord"/>pent it here, that the service of any man, whether called King, President, Senator, Legislator, or any thing else, cannot be worth more to any country, in the regular routine of office, than Ten Thousand Pounds per annum. We have a better man in America, and more of a gentleman than any King I ever knew of, who does not occasion even half that expence: for, though the salary is fixed at Five Thousand Two Hundred and Sixty-five Pounds, he does not accept it, and it is only the in<lb rend="hidden" type="hyphenInWord"/>cidental expences that are paid out of it. The name by which a man is called is, of itself, but an empty thing. It is worth and character alone which can render him valuable, for without these, Kings, and Lords, and Presidents are but jingling names.</p>
+            <p>But without troubling myself about constitutions of Govern<lb rend="hidden" type="hyphenInWord"/>ment, I have shewn in the Second Part of <hi>Rights of Man,</hi> that an alliance may be formed between England, France, and America, and that the expence of Government in England may be put back to one million and an half, viz.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Civil expence of Government,</cell>
+                     <cell>£. 500,000</cell>
+                  </row>
+                  <row>
+                     <cell>Army,</cell>
+                     <cell>500,000</cell>
+                  </row>
+                  <row>
+                     <cell>Navy,</cell>
+                     <cell>500,000</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">1,500,000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And even this sum is fifteen times greater than the expences of Government are in America; and it is also greater than the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>hole peace establishment of England amounted to about an <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>undred years ago. So much has the weight and oppression of <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>axes encreased since the Revolution, and especially since the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ear 1714.</p>
+            <p>To shew that the sum of 500,000l. is sufficient to defray all <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>e civil expences of Government, I have, in that work, an<lb rend="hidden" type="hyphenInWord"/>
+               <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>exed the following estimate for any country of the same ex<lb rend="hidden" type="hyphenInWord"/>
+               <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>nt as England:</p>
+            <p>
+               <pb n="8" facs="20"/>In the first place, three hundred Representatives, fairly e<lb rend="hidden" type="hyphenInWord"/>lected, are sufficient for all the purposes to which legislation can apply, and preferable to a larger number.</p>
+            <p>If then an Allowance, at the rate of five hundred pound per ann. be made to every Representative, deducting for non attendance, the expence, if the whole number attended so months each year, would be £ 75,000</p>
+            <p>The Official Departments could not possibly exceed the follow<lb rend="hidden" type="hyphenInWord"/>ing number, with the salaries annexed, viz.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Three Officers,</cell>
+                     <cell>at 10,000l. each,</cell>
+                     <cell>30,000</cell>
+                  </row>
+                  <row>
+                     <cell>Ten ditto,</cell>
+                     <cell>at 5,000l. each,</cell>
+                     <cell>50,000</cell>
+                  </row>
+                  <row>
+                     <cell>Twenty ditto,</cell>
+                     <cell>at 2,000l. each,</cell>
+                     <cell>40,000</cell>
+                  </row>
+                  <row>
+                     <cell>Forty ditto</cell>
+                     <cell>at 1,000l. each,</cell>
+                     <cell>40,000</cell>
+                  </row>
+                  <row>
+                     <cell>Two hundred ditto</cell>
+                     <cell>at 500l. each,</cell>
+                     <cell>100,000</cell>
+                  </row>
+                  <row>
+                     <cell>Three hundred ditto,</cell>
+                     <cell>at 200l. each,</cell>
+                     <cell>60,000</cell>
+                  </row>
+                  <row>
+                     <cell>Five hundred ditto,</cell>
+                     <cell>at 100l. each,</cell>
+                     <cell>50,000</cell>
+                  </row>
+                  <row>
+                     <cell>Seven hundred ditto,</cell>
+                     <cell>at 75l. each,</cell>
+                     <cell>52,500</cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell role="total">£ 497,500</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If a nation chose, it might deduct 4 per cent. from all th<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> offices, and make one of twenty thousand pounds per ann. an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> style the person who should fill it, King, or Majesty, or Madjes<lb rend="hidden" type="hyphenInWord"/>ty, or give him any other title.</p>
+            <p>Taking, however, this sum of one million and an half as a abundant supply for all the expences of Government under an form whatever, there will remain a surplus of nearly six mi<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>∣lions and a half out of the present Taxes, after paying the in<lb rend="hidden" type="hyphenInWord"/>terest of the National Debt; and I have shewn, in the Secon<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Part of <hi>Rights of Man,</hi> what appears to me the best mode <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> applying the surplus money; for I am now speaking of exper<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>∣ces and savings, and not of systems of Government.</p>
+            <p>I have, in the first place, estimated the poor-rates at t<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> millions annually, and shewn that the first effectual step wou<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> be to abolish the poor-rates entirely (which would be a savi<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> of two millions to the house-keepers) and to remit four million<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> out of the surplus taxes to the poor, to be paid to them in m<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>∣ney in proportion to the number of children in each famil<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> and the number of aged persons.</p>
+            <p>I have estimated the number of persons of both sexes <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> England, of fifty years of age and upwards, at 420,000, a<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> have taken one-third of this number, viz. 140,000, to be po<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> people.</p>
+            <p>To save long calculations, I have taken 70,000 of them <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> be upwards of fifty years of age and under sixty, and <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> other to be sixty years and upwards; and to allow six pounds <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap>
+               <pb n="9" facs="21"/>
+               <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> to the former class, and ten pounds per ann. to the latter. The expence of which will be,</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Seventy thousand persons at 6l. per ann.</cell>
+                     <cell>420,000</cell>
+                  </row>
+                  <row>
+                     <cell>Seventy thousand persons at 10l. per ann.</cell>
+                     <cell>700,000</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">£ 1,120,000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>There will then remain of the four millions 2,880,000l. I have stated two different methods of appropriating this money. The one is to pay it in proportion to the number of children in each family, at the rate of three or four pounds per ann. for each child; the other is, to apportion it according to the ex<lb rend="hidden" type="hyphenInWord"/>pence of living in different countries; but in either of these cases it would, together with the allowance to be made to the aged, completely take off taxes from one third of all the fa<lb rend="hidden" type="hyphenInWord"/>milies in England, besides relieving all the other families from the burthen of poor-rates.</p>
+            <p>The whole number of families in England, lotting five souls to each family, is one million four hundred thousand, of which I take one third, viz. 466,666 to be poor families, who now pay four millions of taxes, and that the poorest pays at least four guineas a year; and that the other thirteen millions are paid by the other two-thirds. The plan, therefore, as stated in the work is, first, to remit or repay, as is already stated, this sum of four millions to the poor, because it is impossible to se<lb rend="hidden" type="hyphenInWord"/>parate them from the others in the present mode of collecting taxes on articles of consumption; and, secondly, to abolish the poor-rates, the house and window-light tax, and to change the Commutation Tax into a progressive Tax on large estates, the particulars of all which are set forth in the work, and to which I desire Mr. ADAM to refer for particulars. I shall here con<lb rend="hidden" type="hyphenInWord"/>tent myself with saying, that to a town of the population of Manchester, it will make a difference in its favour, compared with the present state of things, of upwards of fifty thousand pounds annually, and so in proportion to all other places throughout the nation. This certainly is of more consequence, than that the Tame sums should be collected to be afterwards <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>pent by riotous and profligate courtiers, and in nightly revels <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>t the Star and Garter Tavern, Pall-Mall.</p>
+            <p>I will conclude this part of my letter with an extract from be Second Part of <hi>Rights of Man,</hi> which Mr. Dundas (a man <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>olling in luxury at the expence of the nation) has branded with the epithet of "wicked."</p>
+            <q>By the operation of this plan, the poor laws, those instru<lb rend="hidden" type="hyphenInWord"/>ments of civil torture, will be superseded, and the wasteful expence of litigation prevented. The hearts of the humane will not be shocked by ragged and hungry children, and persons of seventy and eighty years of age begging for brench.
+<pb n="10" facs="22"/>The dying poor will not be dragged from place to place to breathe their last, as a reprisal of parish upon parish. Wi<lb rend="hidden" type="hyphenInWord"/>dows will have a maintenance for their children, and no be carted away, on the death of their husbands, like culpri<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> and criminals, and children will no longer be considered a<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> increasing the distresses of their parents. The haunts of the wretched will be known, because it will be to their ad<lb rend="hidden" type="hyphenInWord"/>vantage, and the number of petty crimes, the offspring of poverty and distress, will be lessened. The poor, as well as the rich, will then be interested in the support of Govern<lb rend="hidden" type="hyphenInWord"/>ment, and the cause and apprehension of riots and tumult<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> will cease. Ye who sit in case, and solace yourselves in plenty, and such there are in Turkey and Russia, as well as in England, and who say to yourselves, <hi>are we not wel<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> off?</hi> have ye thought of these things? When ye do, ye<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> will cease to spaak and feel for yourselves alone. <bibl>—Right<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> of Man, Part II. p. 136.</bibl>
+            </q>
+            <p>After this remission of four millions be made, and the Poor Rates and House and Window-light tax be abolished, and the Commutation Tax changed, there will still remain nearly on<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> million and an half of surplus taxes; and as by an alliance be<lb rend="hidden" type="hyphenInWord"/>tween England, France, and America, armies and navies will, i<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> a great measure, be rendered unnecessary; and as men who have either been brought up in, or long habited to, those lines o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> life, are still citizens of a nation in common with the rest, an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> have a right to participate in all plans of National Benefit, i<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> is stated in that work (Rights of Man, Part II.) to apply an<lb rend="hidden" type="hyphenInWord"/>nually 507,000l. out of the surplus taxes to this purpose in th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> following manner:</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>To fifteen thousand disbanded soldiers, 3s. per week each (clear of deductions) during life</cell>
+                     <cell>117,00</cell>
+                  </row>
+                  <row>
+                     <cell>Additional pay to the remaining soldiers, per ann.</cell>
+                     <cell>19,5<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                           <desc>illegible</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To the officers of the disbanded corps, during life, the same sum of</cell>
+                     <cell>117,0<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                           <desc>illegible</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To fifteen thousand disbanded sailors, 3s. per week, during life</cell>
+                     <cell>117,0<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                           <desc>illegible</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Additional pay to the remaing sailors</cell>
+                     <cell>19,5<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                           <desc>illegible</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To the officers of the disbanded part of the navy, during life</cell>
+                     <cell>117,0<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                           <desc>illegible</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">£. 507,0<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                           <desc>illegible</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The limits to which it is proper to confine this letter, w<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> not admit of my entering into further particulars. I addr<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> it to Mr. Dundas, because he took the lead in the debate, a<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> he wishes, I suppose, to appear conspicuous; but the purp<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> of it is to justify myself from the charge which Mr. Adam made.</p>
+            <p>This Gentleman, as has been observed in the beginning this letter, considers the writings of Harrington, Moore, a<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>
+               <pb n="11" facs="23"/>Hume, as justifiable and legal publications, because they rea<lb rend="hidden" type="hyphenInWord"/>soned by comparison, though, in so doing, they shewed plans and systems of Government, not only different from, but pre<lb rend="hidden" type="hyphenInWord"/>ferable to, that of England; and he accuses me of endeavour<lb rend="hidden" type="hyphenInWord"/>ing to confuse, instead of producing a system in the room of that which I had reasoned against; whereas the fact is, that I have not only reasoned by comparison of the Representative system against the Hereditary system, but I have gone further; for I have produced an instance of a Government established entirely on the Representative system, under which much greater happiness is enjoyed, much fewer Taxes required, and much higher credit is established, than under the system of Government in England. The Funds in England have risen since the war only from 54l. to 97l. and they have been down, since the Pro<lb rend="hidden" type="hyphenInWord"/>clamation, to. 87l. whereas the Funds in America rose in the mean time from 10l. to 120l. His charge against me "of de<lb rend="hidden" type="hyphenInWord"/>stroying every principle of subordination," is equally as ground<lb rend="hidden" type="hyphenInWord"/>less, which even a single paragraph from the work will prove, and which I shall here quote:</p>
+            <q>Formerly, when divisions arose respecting Governments, recourse was had to the sword, and a civil war ensued. That savage custom is exploded by the new system, and <hi>recourse is had to a National Convention.</hi> Discussion, and the ge<lb rend="hidden" type="hyphenInWord"/>neral will, arbitrates the question, and to this private opi<lb rend="hidden" type="hyphenInWord"/>nion yields with a good grace, and <hi>order is preserved unin<lb rend="hidden" type="hyphenInWord"/>terrupted.</hi> 
+               <bibl>—Rights of Man, Part II. p. 173.</bibl>
+            </q>
+            <p>That two different charges should be brought at the same <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ime, the one by a Member of the Legislative for <hi>not</hi> doing a certain thing, and the other by the Attorney General for <hi>doing</hi> 
+               <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap>, is a strange jumble of contradictions. I have now justified myself, or the work rather, against the first, by stating the case <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> this letter, and the justification of the other will be under<lb rend="hidden" type="hyphenInWord"/>taken in its proper place. But in any case the work will go on. I shall now conclude this Letter with saying, that the only <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>jection I found against the plan, and principles contained in <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>e Second Part of <hi>Rights of Man,</hi> when I had written the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ook, was, that they would beneficially interest at least ninety<lb rend="hidden" type="hyphenInWord"/>
+               <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>e persons out of every hundred throughout the nation, and herefore would not leave sufficient room for men to act from <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>e direct and disinterested principle of honour; but the pro<lb rend="hidden" type="hyphenInWord"/>
+               <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>tution now commenced has fortunately removed that ob<lb rend="hidden" type="hyphenInWord"/>jection, and the approvers and protectors of that work now feel <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>e immediate impulse of honour, added to that of National <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>erest.</p>
+            <closer>I am,<salute> Mr. Dundas,</salute> 
+               <signed>Not your obedient humble Servant, But the contrary, THOMAS PAINE.</signed>
+            </closer>
+         </div>
+         <div n="2" type="letter">
+            <pb n="12" facs="24"/>
+            <head>
+               <hi>LETTER II.</hi> To LORD ONSLOW.</head>
+            <opener>
+               <salute>SIR,</salute>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>June</hi> 17th, 1792.</date>
+               </dateline>
+            </opener>
+            <p>I HAVE seen in the public News-papers the following Ad<lb rend="hidden" type="hyphenInWord"/>vertisement, to wit—</p>
+            <q>
+               <p>To the Nobility, Gentlemen, Clergy, Freeholders, an other inhabitants of the County of Surry.</p>
+               <p>At the requistion and desire of several of the Freeholder of the County, I am, in the absence of the Sheriff, to d<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap> the favour of your attendance, at a Meeting to be held <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> Epsom, on Monday, the 18th instant, at 12 o'clock at noo<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> to consider of an humble Address to his MAJESTY, to ex<lb rend="hidden" type="hyphenInWord"/>press our grateful approbation of his MAJESTY'S patern and well-timed attention to the public welfare, in his la<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> most gracious Proclamation against the Enemies of o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> happy Constitution. (Signed) ONSLOW CRANLEY.</p>
+            </q>
+            <p>Taking it for granted, that the aforesaid Advertisement equally as obscure as the Proclamation to which it refers, h<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> nevertheless, some meaning, and is intended to affect some pur<lb rend="hidden" type="hyphenInWord"/>pose and as a prosecution (whether wisely or unwisely, ju<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> or unjustly) is already commenced against a work, in<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap> 
+               <hi>Rights of Man,</hi> of which I have the honour and the happin<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap> to be the author, I feel it necessary to address this letter to y<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> and to request that it may be read publicly to the Gentlemen<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> who shall meet at Epsom in consequence of that Advertise<lb rend="hidden" type="hyphenInWord"/>ment.</p>
+            <p>The work now under prosecution is, I conceive, the s<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> work which is intended to be suppressed by the aforesaid <gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap>∣clamation. Admitting this to be the case, the Gentlement the county of Surry are called upon by somebody to cond<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap> a work, and they are at the same time forbidden by the <gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap>∣clamation to know what that work is; and they are fu<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap> called upon to give their aid and assistance to prevent <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> people from knowing it also. It is therefore necessary <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> the author, for his own justification, as well as to preven<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> Gentlemen who shall meet from being imposed upon by <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> representation, should give some out-lines of the princ<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> and plans which that work contains.</p>
+            <p>
+               <pb n="13" facs="25"/>The work, Sir, in question, contains, first, an investigation of general principles of Government.</p>
+            <p>It also distinguishes Government into two classes or systems; the one the hereditary system—the other the representative system; and it compares those two systems with each other.</p>
+            <p>It shews, that what is called Hereditary Government cannot exist as a matter of right, because Hereditary Government al<lb rend="hidden" type="hyphenInWord"/>ways means a Government yet to come; and the case always is, that those who are to live afterwards have always the same right to establish a Government for themselves as the People had who lived before them.</p>
+            <p>It also shews the defect to which Hereditary Government is unavoidably subject; that it must, from the nature of it, throw Government into the hands of men totally unworthy of it from want of principle, or unfitted for it from want of capa<lb rend="hidden" type="hyphenInWord"/>city. JAMES the IId. and many others are recorded in the English history as proofs of the former of those cases, and in<lb rend="hidden" type="hyphenInWord"/>stances are to be found almost all over Europe, to prove the truth of the latter.</p>
+            <p>It then shews, that the Representative System is the only true system of Government; that it is also the only system under which the liberties of any People can be permanently secure; and further, that it is the only one that can continue the same equal probability at all times of admitting none but men properly qualified, both by principles and abilities, into the Government, and of excluding such as are otherwise.</p>
+            <p>The work shews also, by plans and calculations nor hitherto denied nor controverted, not even by the prosecution that is commenced, that the taxes now existing may be reduced at least six millions, that taxes may be entirely taken off from the Poor, who are computed at one third of the nation, and that the taxes on the other two-thirds may be very considerably re<lb rend="hidden" type="hyphenInWord"/>duced— that the aged Poor may be comfortably provided for, and the children of poor families properly educated—that fif<lb rend="hidden" type="hyphenInWord"/>teen thousand soldiers, and the same number of sailors, may be disbanded, and allowed three shillings per week during life out of the surplus taxes; and also, that a proportionate allow<lb rend="hidden" type="hyphenInWord"/>ance may be made to the officers, and the pay of the remaining soldiers and sailors be encreased; and that it is better to ap<lb rend="hidden" type="hyphenInWord"/>ply the surplus taxes to those purposes, than to consume them on lazy and profligate placemen and pensioners; and that the revenue, said to be twenty thousand pounds per annum, raised by a tax upon coals, and given to the Duke of RICHMOND, is a gross imposition upon all the people of London, and ought to be instantly abolished.</p>
+            <p>This, Sir, is a concise abstract of the principles and plans contained in the work that is now prosecuted, and for the sup<lb rend="hidden" type="hyphenInWord"/>pression
+<pb n="14" facs="26"/>of which the Proclamation appears to be intended: But as it is impossible that I can, in the compass of a letter, bring into view all the matters contained in the work, and as it is proper that the Gentlemen who may compose that Meeting should know what the merits or demerits of it are, before they come to any resolutions, either directly or indirectly relating thereto, I request the honour of presenting them with one hundred copies of the Second Part of RIGHTS OF MAN, and also one thousand copies of my letter to Mr. DUNDAS, which I have directed to be sent to Epsom for that purpose; and I beg the favour of the Chairman to take the trouble of pre<lb rend="hidden" type="hyphenInWord"/>senting them to the Gentlemen who shall meet on that occa<lb rend="hidden" type="hyphenInWord"/>sion, with my sincere wishes for their happiness, and for that of the Nation in general.</p>
+            <p>Having now closed thus much of the subject of my letter, I next come to speak of what has relation to me personally. I am well aware of the delicacy that attends it, but the purpose of calling the Meeting appears to me so inconsistent with that jus<lb rend="hidden" type="hyphenInWord"/>tice that is always due between man and man, that it is proper I should (as well on account of the Gentlemen who may meet, as on my own account) explain myself fully and candidly thereon.</p>
+            <p>I have already informed the Gentlemen, that a prosecution is commenced against a work of which I have the honour and hap<lb rend="hidden" type="hyphenInWord"/>piness to be the author, and I have good reasons for believing, that the Proclamation which the Gentlemen are called to consi<lb rend="hidden" type="hyphenInWord"/>der, and to present an Address upon, is purposely calculated to give an impression to the Jury before whom that matter is to come. In short, that it is dictating a verdict by Proclamation and I consider the instigators of the meeting to be held at Ep<lb rend="hidden" type="hyphenInWord"/>som, as aiding and abetting the same improper, and, in my opinion, illegal purpose, and that in a manner very artfully contrived, as I shall now shew.</p>
+            <p>Had a Meeting been called of the Freeholders of the County of Middlesex, the Gentlemen who had composed that Meeting would have rendered themselves objectionable as persons t<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> serve on a Jury before whom the judicial case was afterward to come. But by calling a Meeting out of the County <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> Middlesex, that matter is artfully avoided, and the Gentlemen of Surry are summoned, as if it were intended thereby to gi<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> a tone to the sort of verdict which the instigators of the Meet<lb rend="hidden" type="hyphenInWord"/>ing no doubt wish should be brought in, and to give counte<lb rend="hidden" type="hyphenInWord"/>nance to the Jury in so doing.</p>
+            <closer>I am, <salute>Sir,</salute> 
+               <signed>With much respect to the Gentlemen who shall meet, Their and your Obedient humble Servant, THOMAS PAINE.</signed>
+            </closer>
+         </div>
+         <div n="3" type="letter">
+            <pb n="15" facs="27"/>
+            <head>LETTER III. TO ONSLOW CRANLEY, COMMONDY CALLED <hi>LORD ONSLOW.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>June</hi> 21st, 1792.</date>
+               </dateline>
+            </opener>
+            <p>WHEN I wrote you the Letter which Mr. Horne Tooke did me the favour to present to you, as Chairman of the Meeting held at Epsom, Monday, June 18th, it was not with much expectation that you will do me the justice of per<lb rend="hidden" type="hyphenInWord"/>mitting, or recommending it to be publicly read. I am well aware that the signature of Thomas Paine has something in it dreadful to sinecure Placemen and Pensioners; and when you, on seeing the Letter opened, informed the Meeting that it was signed Thomas Paine, and added, in a tone of exclamation, "the common enemy of us all;" you spoke one of the greatest truths you ever uttered, if you confine the expression to men of the same description with yourself; men living in indo<lb rend="hidden" type="hyphenInWord"/>lence and luxury, on the spoil and labours of the Public.</p>
+            <p>The Letter has since appeared in the Argus, and probably in other papers. It will justify itself; but if any thing on that account had been wanting, your own conduct at the Meeting would have supplied the omission. You there sufficiently prov<lb rend="hidden" type="hyphenInWord"/>ed, that I was not mistaken in supposing that the meeting was called to give an indirect aid to the prosecution commenced a<lb rend="hidden" type="hyphenInWord"/>gainst a work, the reputation of which will long out-live the memory of the Pensioner I am writing to.</p>
+            <p>When meetings, Sir, are called by the partizans of the Court to preclude the nation the right of investigating Systems and Principles of Government, and exposing errors and defects, under the pretence of prosecuting an individual—it furnishes an additional motive for maintaining sacred that violated right.</p>
+            <p>The principles and arguments contained in the work in ques<lb rend="hidden" type="hyphenInWord"/>tion, RIGHTS OF MAN, have stood, and they now stand, and I believe ever will stand, unrefuted. They are stated in a fair and open manner to the world, and they have already re<lb rend="hidden" type="hyphenInWord"/>ceived the public approbation of a greater number of men, of
+<pb n="16" facs="28"/>the best of characters, of every denomination of religion, and of every rank in life, (Placemen and Pensioners excepted) than all the Juries that shall meet in England, for ten years to come will amount to; and I have moreover good reasons for believ<lb rend="hidden" type="hyphenInWord"/>ing, that the approvers of that work, as well private as public, are already more numerous than all the present Electors throughout the nation.</p>
+            <p>Not less than forty pamphlets, intended as answers thereto have appeared, and as suddenly disappeared: scarcely are the titles of any of them remembered, notwithstanding their en<lb rend="hidden" type="hyphenInWord"/>deavours have been aided by all the daily abuse which the Court and Ministerial News-papers, for almost a year and a half, could bestow, both upon the work and the author: and now that every attempt to refute, and every abuse has failed, the invention of calling the work a Libel has been hit upon, and the discomfited party has pusillanimously retreated to Pro<lb rend="hidden" type="hyphenInWord"/>secution, and a Jury, and obscure Addresses.</p>
+            <p>As I well know that a long Letter from me will not be agreeable to you, I will relieve your uneasiness by making it as short as I conveniently can; and will conclude it with tak<lb rend="hidden" type="hyphenInWord"/>ing up the subject at that part where Mr. Horne Tooke was interrupted from going on when at the Meeting.</p>
+            <p>That gentleman was stating, that the situation you stood in rendered it improper for you to appear <hi>actively</hi> in a scene in which your private interest was too visible: That you were a Bed-chamber Lord at a thousand a year, and a Pensioner at 3000l. a year more—and here he was stopt by the little, but noisy circle you had collected round you. Permit me then, Sir, to add an explanation to his words, for the bene<lb rend="hidden" type="hyphenInWord"/>fit of your neighbours, and with which, with a few observa<lb rend="hidden" type="hyphenInWord"/>tions, I shall close my letter.</p>
+            <p>When it was reported in the English News-papers, some short time since, that the Empress of Russia had given to one of her minions a large tract of country, and several thousands of peasants as property, it very justly provoked indignation and abhorrence in those who heard it. But if we compare the mode practised in England, with that which appears to u<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> so abhorrent in Russia, it will be found to amount to very nearly the same thing:—for example:</p>
+            <p>As the whole of the revenue in England is drawn by taxe<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> from the pockets of the people, those things called gifts and grants (of which kind are all Pensions and Sinecure places) and paid out of that stock. The difference, therefore, between th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> two modes is, that in England the money is collected by th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Government, and then given to the Pensioner, and in Russia h<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> is left to collect it for himself. The smallest sum which th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> poorest family in a county so near to London as Surry, can b<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>
+               <pb n="17" facs="29"/>supposed to pay annually of taxes, is not less than sive pounds; and as your sinecure of one thousand, and pension of three thousand per annum, are made up of taxes paid by eight hun<lb rend="hidden" type="hyphenInWord"/>dred of such poor families, it comes to the same thing as if the eight hundred families had been given to you, as in Russia, and you had collected money on your own account. Were you to say that you are not quartered particularly on the peo<lb rend="hidden" type="hyphenInWord"/>ple of Surry, but on the nation at large, objection would amount to nothing: for as there are more pensioners than counties, every one may be considered as quartered on that in which he lives.</p>
+            <p>What honour or happiness you can derive from being the Principal Pauper of the neighbourhood, and occasioning a greater expence than the poor, the aged, and the infirm, for ten miles round you, I leave you to enjoy. At the same time I can see that it is no wonder you should be strenuous in suppressing a book which strikes at the root of those abuses. No won<lb rend="hidden" type="hyphenInWord"/>der that you should be against Reforms—against the Freedom of the Press, and the Right of Investigation. To you and to others of your description, these are dreadful things; but you should also consider, that the motives which prompt you to <hi>act,</hi> ought, by reflection, to compel you to be <hi>silent.</hi>
+            </p>
+            <p>Having now returned your compliment, and sufficiently tired your patience, I take my leave of you, with mention<lb rend="hidden" type="hyphenInWord"/>ing, that if you had not prevented my former letter from being read at the Meeting, you would not have had the trouble of reading this; and also with requesting, that the next time you call me <hi>"a common enemy,"</hi> you would add, <hi>"of us Sinecure Placemen and Pensioners."</hi>
+            </p>
+            <closer>I am, <salute>Sir, &amp;c. &amp;c.</salute> 
+               <signed>THOMAS PAINE.</signed>
+            </closer>
+         </div>
+         <div n="4" type="letter">
+            <pb n="18" facs="30"/>
+            <head>
+               <hi>LETTER IV.</hi> TO MR. SECRETARY DUNDAS.</head>
+            <opener>
+               <salute>SIR,</salute>
+               <dateline>
+                  <hi>Calais,</hi> 
+                  <date>
+                     <hi>Sept.</hi> 15, 1792.</date>
+               </dateline>
+            </opener>
+            <p>I Conceive it necessary to make you acquainted with the following circumstances. The Department of Calais ha<lb rend="hidden" type="hyphenInWord"/>ving elected me a Member of the National Convention of France, I set off from London the 13th inst. in company with Mr. Frost, of Spring Gardens, and Mr. Audibert, on of the Municipal Officers of Calais, who brought me the certificate of my being elected. We had not arrived more, I believe, than five minutes at the York Hotel, at Dover, than the train of circumstances began, that I am going to relate. We had ta<lb rend="hidden" type="hyphenInWord"/>ken our baggage out of the carriage and put it into a room, into which we went. Mr. Frost having occasion to go out, was stopt in the passage by a gentleman, who told him, he must return into the room, which he did, and the gentleman came in with him and shut the door: I had remained in the room. Mr. Audibert had gone to inquire when the packe<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> was to sail. The gentleman then said, that he was Collector of the Customs, and had an information against us, and must examine our baggage for prohibited articles. He produced his commission as Collector. Mr. Frost demanded to see the information, which the Collector refused to shew, and conti<lb rend="hidden" type="hyphenInWord"/>nued to refuse on every demand that we made. The Collecto<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> then called in several other officers, and began, first, to searc<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> our pockets. He took from Mr. Audibert, who was then re<lb rend="hidden" type="hyphenInWord"/>turned into the room, every thing he found in his pockets and laid them on the table. He then searched Mr. Frost i<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> the same manner (who, among other things, had the key <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> the trunks in his pocket) and then did the same by me. M<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> Frost wanting to go out, mentioned it, and was going toward<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> the door, on which the Collector placed himself against th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> door, and said nobody should depart the room. After the ke<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> had been taken from Mr. Frost (for I had given him the ke<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> of my trunks beforehand, for the purpose of his attendi<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> the baggage to the Customs, if it should be necessary) <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> Collector asked us to open the trunks, presentings us the ke<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> for that purpose; this we declined to do, unless he wou<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>
+               <pb n="19" facs="31"/>produce his information, which he again refused. The Col<lb rend="hidden" type="hyphenInWord"/>lector then opened the trunks himself, and took out every pa<lb rend="hidden" type="hyphenInWord"/>per and letter, sealed or unsealed. On our remonstrance with him on the bad policy, as well as the illegality of Custom<lb rend="hidden" type="hyphenInWord"/>
+               <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ouse Officers seizing papers and letters, which were things that did not come under their cognizance, he replied, that the <hi>Proclamation</hi> gave him that authority.</p>
+            <p>Among the Letters which he took out of my trunk were two sealed letters given into my charge by the American Mi<lb rend="hidden" type="hyphenInWord"/>nister at London, one of which was directed to the American Minister at Paris; the other to a private gentleman; a letter from the President of the United States, and a letter from the Secretary of State in America, both directed to me, and which. I had received from the American Minister now in London, and were private letters of friendship; a letter from the Elec<lb rend="hidden" type="hyphenInWord"/>toral Body of the Department of Calais, containing the noti<lb rend="hidden" type="hyphenInWord"/>fication of my being elected to the National Convention; and a letter from the President of the National Assembly, inform<lb rend="hidden" type="hyphenInWord"/>ing me of my being also elected for the Department of Oise.</p>
+            <p>As we found that all remonstrances with the Collector, on the bad policy and illegality of seizing papers and letters, and detaining our persons by force, under the pretence of search<lb rend="hidden" type="hyphenInWord"/>ing for prohibited articles, were vain (for he justified himself on the <hi>Prolamation,</hi> and on the information which he refused to shew) we contented ourselves with assuring him, that what he was then doing he would afterwards have to answer for, and left it to himself to do as he pleased.</p>
+            <p>It appeared to us that the Collector was acting under the di<lb rend="hidden" type="hyphenInWord"/>rection of some other person or persons then in the hotel, but whom he did not chuse we should see, or who did not chuse to be seen by us; for the Collector went several times out of the room for a few minutes, and was also called out several times.</p>
+            <p>When the Collector had taken what papers and letters he pleased out of the trunks, he proceeded to read them. The first letter he took up for this purpose was that from the President of the United States to me. While he was doing this, I said, that it was very extraordinary that General Washington could <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ot write a letter of private friendship to me without its being <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>ject to be read by a Custom-house Officer. Upon this, <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> Frost laid his hand over the face of the letter, and told the Collector he should not read it, and took it from him. Mr. Frost, then casting his eye on the concluding paragraph of he letter, said, I will read this part to you, which he did; <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>f which the following is an exact transcript—<q>and as no one <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> can feel a greater interest in the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>appiness of mankind than <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> also, it is the first wish of my heart, that the enlightened po<lb rend="hidden" type="hyphenInWord"/>licy
+<pb n="20" facs="32"/>of the present age may diffuse to all men those bless<lb rend="hidden" type="hyphenInWord"/>ings to which they are entitled, and lay the foundation of happiness to future generations.</q>
+            </p>
+            <p>As all the other letters and papers lay then on the table, the Collector took them up, and was going out of the room with them. During the transactions already stated, I contented myself with observing what passed, but spoke but little; but on seeing the Collector going out of the room with the letters, I told him that the papers and letters then in his hand, were either belonging to me, or entrusted to my charge, and that as I could not permit them to be out of my sight, I must insist on going with him.</p>
+            <p>The Collector then made a list of the letters and papers, and went out of the room, giving the letters and papers into the charge of one of the officers. He returned in a short time, and after some trifling conversation, chiefly about the Proclama<lb rend="hidden" type="hyphenInWord"/>tion, told us that he saw <hi>the information was ill-founded,</hi> and asked if we chose to put the letters and papers in the trunk our<lb rend="hidden" type="hyphenInWord"/>selves: which, as we had not taken them out, we declined doing, and he did it himself, and returned us the keys.</p>
+            <p>In stating to you these matters, I make no complaint against the personal conduct of the Collector, or of any of the Officers Their manner was as civil as such an extraordinary piece of business could admit of.</p>
+            <p>My chief motive in writing to you on this subject is, that you may take measures for preventing the like in future, no<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> only as it concerns private individuals, but in order to preve<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> a renewal of those unpleasant consequences that have here<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>¦fore arisen between nations from circumstances equally as i<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> significant. I mention this only for myself; but as the inter¦ruption extended to two other gentlemen, it is probable th<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> they, as individuals, will take some more effectual mode <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> redress.</p>
+            <closer>I am, <salute>Sir,</salute> 
+               <signed>yours, &amp;c. THOMAS PAINE.</signed>
+               <postscript>
+                  <p>P. S. Among the papers seized was a copy of the Attorn<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap> General's information against me for publishing <hi>the Rights Man,</hi> and a printed proof copy of my latter to the Addre<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                        <desc>illegible</desc>
+                     </gap> which will soon be published.</p>
+               </postscript>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="21" facs="33"/>
+            <head>EXTRACT OF A LETTER FROM CALAIS.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>"Sept.</hi> 15, 1792.</date>
+               </dateline>
+            </opener>
+            <q rend="inline normQuotes">
+               <p>Mr. THOMAS PAINE, after a passage of three hours, ar<lb rend="hidden" type="hyphenInWord"/>rived here yesterday from Dover. The different treatment he met with at the two sea-ports is such as ought to make an En<lb rend="hidden" type="hyphenInWord"/>glishman blush for the character of his nation<note place="bottom" n="*">We must here correct our Correspondent's account. It is true, at he was insulted by the Custom House Officers, and some persons <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>ed, as he went down to the vessel. But the <hi>people</hi> were very civil; done of them, in particular, came up to him, and said, that he did <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                        <desc>illegible</desc>
+                     </gap> want friends in Dover.</note>.</p>
+               <p>On the name of PAINE being announced, the soldiery at the gates were drawn up, and the officer on guard, having embraced him, presented him with the National cockade. A very pretty woman, who stood by, desired she might have the honour of putting it in his hat, expressing her hopes that he would continue his exertions in favour of Liberty, Equality, and France. This ceremony being over, he walked to DE<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>∣<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>EINS, (whose street is now called <hi>Rue de l'Egalité,</hi> formerly <hi>Rue de Roi</hi>) attended by men, women, and children, crowd<lb rend="hidden" type="hyphenInWord"/>ing round him, and calling out "<hi>Vive</hi> THOMAS PAINE!" He was then conducted to the Town-Hall, and there presented to the Municipality, who, with the greatest affection, embraced their new Representative. The Mayor then addressed him in <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> short speech, which was interpreted to him by Mr. AUDI<lb rend="hidden" type="hyphenInWord"/>
+                  <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>ERT, to which PAINE (laying his hand on his heart) replied, saying, his life should be devoted to their service.</p>
+               <p>At the inn he was waited upon by the different persons in authority, and by the President of the Constitutional Society, desiring he would attend their meeting of that night. The whole town would have been there, had there been room; the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>all of the <hi>'Minimes'</hi> was so crowded, that it was with diffi<lb rend="hidden" type="hyphenInWord"/>culty they made way for him to the side of the President. Over <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>he chair he sat in was placed the bust of MIRABEAU, and the colours of France, England, and America, united. A speaker <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>cquainted him, from the tribune, of his election, amidst the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>audits of the people. The women did not spare their hands;
+<pb n="22" facs="34"/>and for some minutes nothing was heard but "<hi>Vive la Nation! Vive</hi> THOMAS PAINE!" in voices male and female. They have appointed an extra meeting in the church to-morrow, in honour of their Deputy to the Convention, the <hi>Minimes</hi> be<lb rend="hidden" type="hyphenInWord"/>ing found quite suffocating, from the concourse of people who attended yesterday. To-night there is to be a play, at which a box is to be reserved for the author of "THE RIGHTS OF MAN," <hi>the object of the English Proclamation.</hi>
+               </p>
+               <p>Every thing here has the appearance of peace and quiet<lb rend="hidden" type="hyphenInWord"/>ness. The arsenals are well supplied, and are able to stand, two years' siege.</p>
+               <p>The Duke of BRUNSWICK is still at Verdun; DUMOU<lb rend="hidden" type="hyphenInWord"/>RIER and KELLERMAN have joined in his rear, and he is now surrounded by near a hundred thousand men.</p>
+            </q>
+            <closer>
+               <signed>"I am, &amp;c.</signed>
+               <postscript>
+                  <q>P. S. Mr. PAINE has received a letter from the National Assembly, which he is said to be answering from hence. He will not probably be at Paris so soon as he thinks, since he has been elected for Abbeville and Beavais, as well as for Ca<lb rend="hidden" type="hyphenInWord"/>lais; and they will hardly let him pass without paying him some mark of their attention.</q>
+               </postscript>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>We present this Letter of Mr. <hi>AUDIBERT</hi> to our readers, a an additional confirmation of the rising prosperity of France the defeat of the Prussians at Thionville, and the false state<lb rend="hidden" type="hyphenInWord"/>ment of continental affairs in the ministerial papers. Th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> public will be pleased to recollect, that Mr. <hi>AUDIBERT</hi> wa<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> the gentleman appointed to introduce that profound politician Mr. <hi>THOMAS PAINE,</hi> to his foreign constituents.</head>
+            <p>YOU desire to know the state of affairs in France. As th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Papers in the pay of Government afford no certain in<lb rend="hidden" type="hyphenInWord"/>telligence, but rather endeavour to raise the prejudices of you<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> nation against mine, I am happy to answer your question.</p>
+            <p>We are now as quiet as ever we were in the most profound peace. On the seat of war our friends are all busy, b<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> without confusion. Paris is calm, Calais is quiet and agreea<lb rend="hidden" type="hyphenInWord"/>ble, and many French and English families arrive here dai<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> If you have any desire to reside here, or travel through t<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> country, you may do either with the greatest safety. T<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> you may depend on. The news arrived this day is very <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>∣vourable
+<pb n="23" facs="35"/>to the cause of liberty. The Austrians attacked Lille, and were repulsed with great loss. Thionville was also attacked, and the Prussian army twice driven back. The Prussians lost 550 men, among whom, the Prince of WAL<lb rend="hidden" type="hyphenInWord"/>DECK; two other German Princes were killed, and many wounded. The combined forces attacked General DUMOU<lb rend="hidden" type="hyphenInWord"/>RIER's army on three points at once, and were every where repulsed with loss. Three hundred thousand men are now marching to annihilate the despots and their satellites, and I doubt not but before the campaign is finished, that desirable object will be accomplished. Liberty must finally triumph throughout the world.</p>
+            <p>I went to London ten days ago, deputed by the Electoral Assembly to conduct hither Mr. THOMAS PAINE (Author of "THE RIGHTS OF MAN") who is chosen a Member of the National Convention. The ministerial party commissioned persons to pursue us to Dover, to insult us in a scandalous man<lb rend="hidden" type="hyphenInWord"/>ner, and search all our papers. The custom-house Officers, when reprimanded for their behaving so insolently, told us they were commanded by people of high authority to do so. You will see this subject treated upon in THE ARGUS OF THE CONSTITUTION, and other patriotic papers. I have written to Mr. DUNDAS, and am determined to prosecute the Custom-house Officer, to determine publicly, whether minis<lb rend="hidden" type="hyphenInWord"/>ters, or their creatures, are authorized by the laws of your country to maltreat any person who conducts himself peaceably and properly. At present you only possess the <hi>shadow</hi> of li<lb rend="hidden" type="hyphenInWord"/>berty: but I hope the time is not far distant, when we shall all not only be <hi>nominally</hi> but <hi>actually</hi> free.</p>
+            <closer>I remain, <signed>with respect and esteem, Your most obedient and very humble servant, ACHILLES AUDIBERT.</signed>
+               <dateline>
+                  <hi>Calais,</hi> 
+                  <date>
+                     <hi>Sept.</hi> 17, 1792.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <p>
+               <hi>Lately published, and sold by</hi> C. STALKER, <hi>Sta<lb rend="hidden" type="hyphenInWord"/>tioners' Court, Ludgate-street,</hi>
+            </p>
+            <p n="1">I. THE CHRISTIAN MISCELLANY; con<lb rend="hidden" type="hyphenInWord"/>sisting of pieces in prose and verse, on re<lb rend="hidden" type="hyphenInWord"/>ligious, moral, and other subjects. Price 4s. 6d. in boards.</p>
+            <p>
+               <hi>N. B. Those Persons who have purchased th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> early Numbers of this Work, may, at present procure the remainder. Price</hi> 6d.<hi>each.</hi>
+            </p>
+            <p n="2">II. A RECOMMENDATION OF FAMILY RELIGION: addressed to Christians of al<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Denominations. By B. KINGSBURY. Price 2s.</p>
+            <p n="3">III. PRAYERS FOR THE USE OF FAMI<lb rend="hidden" type="hyphenInWord"/>LIES. By B. KINGSBURY. Price 2s. 6d.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

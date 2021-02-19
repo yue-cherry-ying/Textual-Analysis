@@ -1,0 +1,1422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philander. A dramatic pastoral: By the author of the Female quixote.</title>
+            <author>Lennox, Charlotte, ca. 1729-1804.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024779.000</idno>
+            <idno type="docno">CW3317025496</idno>
+            <idno type="ecll">1205901700</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Philander. A dramatic pastoral: By the author of the Female quixote.</title>
+                  <author>Lennox, Charlotte, ca. 1729-1804.</author>
+               </titleStmt>
+               <extent>48p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for A. Millar,</publisher>
+                  <date>1758.</date>
+                  <idno type="TCP">K024779.000</idno>
+                  <idno type="docno">CW3317025496</idno>
+                  <idno type="ecll">1205901700</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Charlotte Lennox, and dated Nov. 20, 1757.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT9992.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>PHILANDER.</p>
+            <p>A DRAMATIC PASTORAL.</p>
+            <p>By the AUTHOR of the FEMALE QUIXOTE.</p>
+            <p>LONDON: Printed for A. MILLAR, in the Strand. MDCCLVIII.</p>
+            <p>[Price ONE SHILLING.]</p>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <head>TO THE RIGHT HONOURABLE LORD VISCOUNT CHARLEMONT.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>IT is generally expected that there should be some rela<lb rend="hidden" type="hyphenInWord"/>tion between the character of the patron and the nature of the work, for which protection is solicited.</p>
+            <p>
+               <pb n="iv" facs="3"/>BUT this law, like many others, is broken when it op<lb rend="hidden" type="hyphenInWord"/>poses the gratification of pas<lb rend="hidden" type="hyphenInWord"/>sions too strong for the re<lb rend="hidden" type="hyphenInWord"/>straints of regularity. Ambi<lb rend="hidden" type="hyphenInWord"/>tion, which often overpowers the judgment in questions of more importance, has made me forget the disproportion be<lb rend="hidden" type="hyphenInWord"/>tween Your Lordship's name, and a Dramatic Pastoral; and I have ventured to lay before You a composition of little dignity in the design, and per<lb rend="hidden" type="hyphenInWord"/>haps of little elegance in the execution.</p>
+            <p>YET for whatever we re<lb rend="hidden" type="hyphenInWord"/>solve, we labour to find reasons,
+<pb n="v" facs="4"/>
+till in time we forget its impro<lb rend="hidden" type="hyphenInWord"/>priety; I begin to hope, that by offering to Your Lordship a performance of an airy and luxuriant kind, which can at best hope only for excuse, I expose myself less to the im<lb rend="hidden" type="hyphenInWord"/>putation of arrogance, than if I had prefixed Your name to a piece more grave and oftenta<lb rend="hidden" type="hyphenInWord"/>tious, which might have been suspected of pretending to ap<lb rend="hidden" type="hyphenInWord"/>probation.</p>
+            <p>I am, my Lord, far from imagining that any of my ideas can be new to Your extensive knowledge, or that I have at<lb rend="hidden" type="hyphenInWord"/>tained any beauties of style or
+<pb n="vi" facs="5"/>
+sentiment adequate to Your delicacy of taste. The merit of this Poem is but small in my own opinion, and yet, of the lit<lb rend="hidden" type="hyphenInWord"/>tle praise which it may receive, I must resign a part, by confes<lb rend="hidden" type="hyphenInWord"/>sing that the first hint was taken from the PASTOR FIDO, and that the two songs marked with asterisks <note place="bottom" n="†">See page 11, and 24.</note>, were written by another hand.</p>
+            <p>WHATEVER praise this con<lb rend="hidden" type="hyphenInWord"/>fession may detract from my abilities, it will add to my sin<lb rend="hidden" type="hyphenInWord"/>cerity; and I should discover little knowledge of Your Lord<lb rend="hidden" type="hyphenInWord"/>ship, if I should endeavour to
+<pb n="vii" facs="6"/>
+recommend myself, rather by elevation of genius than by pu<lb rend="hidden" type="hyphenInWord"/>rity of manners.</p>
+            <closer>
+               <signed>I am, with great respect, MY LORD, Your Lordship's Most obliged Humble servant, CHARLOTTE LENNOX.</signed>
+               <dateline>LONDON, <date>Nov. 20, 1757.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="7"/>
+            <head>PERSONS of the DRAMA.</head>
+            <list>
+               <item>MONTANO, Priest of <hi>Apollo.</hi>
+               </item>
+               <item>PHILANDER, his son, in love with <hi>Sylvia.</hi>
+               </item>
+               <item>THIRSIS, his friend.</item>
+               <item>SATYR.</item>
+               <item>SYLVIA, a huntress, betrothed to <hi>Philander.</hi>
+               </item>
+               <item>NERINA, her friend.</item>
+               <item>NYMPHS and SATYRS.</item>
+            </list>
+            <p>SCENE, ARCADIA.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="8"/>
+         <head>PHILANDER.</head>
+         <div n="1" type="act">
+            <head>ACT I.</head>
+            <stage>SCENE, <hi>An open plain, with the prospect of a wood at a distance.</hi>
+            </stage>
+            <stage>Enter SYLVIA. NERINA following.</stage>
+            <sp>
+               <speaker>NERINA.</speaker>
+               <p>
+                  <seg rend="decorInit">Y</seg>OU shun me then, my <hi>Sylvia?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>No, my friend,</l>
+               <l>Not you, 'tis the fond voice of love, I shun;</l>
+               <l>Chuse any other theme, and I will listen</l>
+               <l>Still as the night, when not a zephyr stirs</l>
+               <l>The trembling leaves.</l>
+            </sp>
+            <sp>
+               <pb n="10" facs="9"/>
+               <speaker>NERINA.</speaker>
+               <l>And why not talk of love?</l>
+               <l>While that soft bloom glows on thy beauteous cheek,</l>
+               <l>While thy eyes dart their undiminish'd rays,</l>
+               <l>And every feature smiles with rosy youth.</l>
+               <l>Youth, the fit season for delight and joy.</l>
+               <l>Ah! trifler, waste not thus the fleeting hours,</l>
+               <l>The spring of life knows no return; and age,</l>
+               <l>The ceaseless winter of the human frame,</l>
+               <l>Steals silent on, to blast thy flow'ry prime.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>Ah! waste not thus thy flow'ry prime,</l>
+                        <l>The vernal season of delight;</l>
+                        <l>Youth flies upon the wings of time,</l>
+                        <l>And age and winter are in sight.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Then let me seize each minute as it flies,</l>
+               <l>Consume in varied sports the blissful day,</l>
+               <l>Rise with the dawn, and join the virgin train,</l>
+               <l>Bound o'er the dewy vale, dislodge the deer,</l>
+               <l>Pursue with flying pace the nimble doe,</l>
+               <l>And with the savage wage a distant war.</l>
+            </sp>
+            <sp>
+               <pb n="11" facs="10"/>
+               <speaker>NERINA.</speaker>
+               <l>Ah! foolish nymph, begin the war at home:</l>
+               <l>Within thy charming breast the savage lies,</l>
+               <l>Covert too sweet for such a dang'rous foe.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>Would'st thou a greater monster quell,</l>
+                        <l>Than all our teeming woods e'er bore:</l>
+                        <l>Subdue thy pride, that foe repel,</l>
+                        <l>And yield to love's persuasive lore.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Thee, chaste <hi>Diana,</hi> all my wishes claim;</l>
+               <l>By choice thy vot'ry, my whole life is thine.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>Oh! goddess of the Sylvan reign</l>
+                        <l>Where peace, where innocence abide;</l>
+                        <l>My freedom is to wear thy chain,</l>
+                        <l>In serving thee my noblest pride.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>NERINA.</speaker>
+               <l>Thy infant-vows, to young <hi>Philander</hi> given,</l>
+               <l>Thou stand'st excluded from the virgin choir.</l>
+            </sp>
+            <sp>
+               <pb n="12" facs="11"/>
+               <speaker>SYLVIA.</speaker>
+               <l>
+                  <hi>Philander</hi> was my parent's choice, not mine.</l>
+               <l>My heart subscrib'd not to th' unhallow'd vow</l>
+               <l>That pass'd my infant lips; urge it no more.</l>
+            </sp>
+            <sp>
+               <speaker>NERINA.</speaker>
+               <l>
+                  <hi>Montano</hi>'s heir, <hi>Montano Phoebus</hi>' priest,</l>
+               <l>Dear to his patron-god, and blest with wealth:</l>
+               <l>Where could your choice have fix'd, had it been free</l>
+               <l>But on your destin'd spouse? <hi>Arcadia</hi>'s boast,</l>
+               <l>The secret wish of every blooming maid.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Take him who will, this all-accomplish'd youth:</l>
+               <l>My part in him I quit, and, sweet exchange!</l>
+               <l>Be freedom mine; mine the enchanting joys</l>
+               <l>These woods and forests yield, this well-strung bow,</l>
+               <l>This sounding quiver, pure delights supply.</l>
+               <l>Be but my arrows fleet, and just their aim,</l>
+               <l>And I have all my wish.</l>
+            </sp>
+            <sp>
+               <pb n="13" facs="12"/>
+               <speaker>NERINA.</speaker>
+               <l>Take heed, fond maid!</l>
+               <l>For love has arrows fleeter far; and oh!</l>
+               <l>More deadly too, if pointed with despair.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>Think what the hapless virgin proves,</l>
+                        <l>Who loves in vain, yet fondly loves;</l>
+                        <l>While modesty and female pride,</l>
+                        <l>The slighted passion seek to hide.</l>
+                        <l>For oh! in vain the sigh's represt</l>
+                        <l>That struggling heaves her anxious breast.</l>
+                        <l>In vain the falling tear's with-held,</l>
+                        <l>The conscious wish in vain repell'd.</l>
+                        <l>Her faded cheek, and air forlorn,</l>
+                        <l>Coarse jests invite, and cruel scorn.</l>
+                        <l>To hopeless love she falls a prey,</l>
+                        <l>And wastes in silent grief away.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>With her own coldness <hi>Cynthia</hi> guards my breast;</l>
+               <l>And the soft god can find no entrance there.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <pb n="14" facs="13"/>
+                        <head>SONG.</head>
+                        <lg>
+                           <l>Ye gently-breathing zephyrs say,</l>
+                           <l>If as your airy course yon fly,</l>
+                           <l>Did you e'er meet with one so gay,</l>
+                           <l>So happy, or so free, as I.</l>
+                        </lg>
+                        <lg>
+                           <l>Ye softly-murm'ring streams declare,</l>
+                           <l>If on your banks you ever knew</l>
+                           <l>A maid who own'd so little care,</l>
+                           <l>A heart to liberty so true.</l>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>NERINA.</speaker>
+               <l>Yet dread the anger of avenging gods,</l>
+               <l>For broken vows and violated faith.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>The gods are just: they form'd me what I am,</l>
+               <l>Cold and disdainful of the nuptial tye;</l>
+               <l>They will not punish faults themselves have caus'd.</l>
+               <l>But while forgetful of the promis'd chace,</l>
+               <l>With thee the moments idly thus I waste,</l>
+               <l>A bevy of bright nymphs, already met</l>
+               <l>In yonder grove of oaks, expect my coming.</l>
+               <l>This day we hunt the stag.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <pb n="15" facs="14"/>
+                        <head>SONG.</head>
+                        <l>Celestial huntress, deign to grace</l>
+                        <l>Our sports, and bless the morning chace.</l>
+                        <l>The goddess comes, she comes, and lo!</l>
+                        <l>I see her silver-beaming bow.</l>
+                        <l>I hear her rattling quiver sound,</l>
+                        <l>Her nymphs with chearful shoutings fill the place,</l>
+                        <l>And the glad echos from the hills rebound.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <stage>[Going.]</stage>
+            <stage>PHILANDER <hi>meets her.</hi>
+            </stage>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>One moment stay.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Detain me not, the morning wears apace.</l>
+               <l>The nymphs expect me to the promis'd chace.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Ah! quit the <hi>Sylvan</hi> war, the hunter's toils,</l>
+               <l>Love, nobler trophies yields, and sweeter spoils.</l>
+               <l>Beauty like your's should these rough sports despise,</l>
+               <l>Nor with your arrows conquer, but your eyes.</l>
+            </sp>
+            <sp>
+               <pb n="16" facs="15"/>
+               <speaker>SYLVIA.</speaker>
+               <l>Beauty's short conquests soon to bondage turn,</l>
+               <l>The vanquish'd triumph, and the victors mourn.</l>
+               <l>With haughty sway his empire Love maintains,</l>
+               <l>And all are vassals, where a tyrant reigns.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Yet his soft power, even gods themselves confess,</l>
+               <l>'Tis his to conquer, but 'tis his to bless.</l>
+               <l>Then yield thee, beauteous nymph, and thou shalt prove</l>
+               <l>How faint all joys compar'd to mutual love.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Away, presumptuous! taint not my chaste car</l>
+               <l>With sounds <hi>Diana</hi>'s handmaid must not hear.</l>
+               <l>Hate ever be my part, be thine despair,</l>
+               <l>Away, presumptuous! and thy suit forbear.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>Yes, cruel maid, I go to prove</l>
+                        <l>The last sad effort of despair:</l>
+                        <l>One death shall this lost wretch remove,</l>
+                        <l>And thousands from thy scorn shall spare.</l>
+                        <l>
+                           <pb n="17" facs="16"/>Yet shall thy image bless my closing eye,</l>
+                        <l>And my last breath thy still lov'd name shall sigh.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <stage>Exeunt.</stage>
+            <sp>
+               <speaker>NERINA.</speaker>
+               <l>Oh! cruelty extreme! ungrateful maid,</l>
+               <l>Thus, is it thus, that faithful love is paid?</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Cease chiding now, my savage lover comes,</l>
+               <l>The rude, rough <hi>Satyr</hi>—ah! he's here already.</l>
+               <stage>Enter the SATYR.</stage>
+               <l>Ah! <hi>Sylvia,</hi> whither, whither, dost thou fly?</l>
+               <l>Turn, cruel maid, too lovely <hi>Sylvia</hi> turn.</l>
+               <l>Oh! fairer than the fairest lillies thou,</l>
+               <l>Erect and tall as alders; thy soft skin</l>
+               <l>More sleek than orient shells; and whiter far</l>
+               <l>Than falling snows; turn, turn thy starry eyes,</l>
+               <l>And bless thy lover with their beauteous rays.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Great terror of these woods; ah! why on me,</l>
+               <l>This lavish praise? know thy own worth, and woo</l>
+               <l>
+                  <pb n="18" facs="17"/>Some nymph, if such there be, whose won<lb rend="hidden" type="hyphenInWord"/>drous form</l>
+               <l>Is lovely as thy own.—</l>
+            </sp>
+            <sp>
+               <speaker>SATYR.</speaker>
+               <l>Insulting maid!</l>
+               <l>This form despis'd by thee wants not its charms,</l>
+               <l>If in the liquid mirror of the sea</l>
+               <l>I view myself aright, this face of mine</l>
+               <l>A sanguine colour boasts; these shaggy limbs</l>
+               <l>For strength and swiftness form'd, and manly grace.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>If charms like these want pow'r to gain my love,</l>
+               <l>Blame my dull eyes, and my still duller mind.</l>
+            </sp>
+            <sp>
+               <speaker>SATYR.</speaker>
+               <l>To charm those eyes the aid of art I'll try,</l>
+               <l>To move that mind the force of gifts I'll prove,</l>
+               <l>A pair of turtles callow from the nest,</l>
+               <l>Court the soft soothings of thy lilly-hand;</l>
+               <l>Oh! learn of them to love, and pay my pains.</l>
+               <q>
+                  <pb n="19" facs="18"/>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>Doves are <hi>Venus'</hi> birds, and bear</l>
+                        <l>Her chariot through the yielding air;</l>
+                        <l>
+                           <hi>Cupid,</hi> with their feathers, wings</l>
+                        <l>Those darts th' unerring archer flings.</l>
+                        <l>Yet his soft rage the wantons prove,</l>
+                        <l>And all their little life, is love.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Melodious strains, indeed! your music, <hi>Satyr,</hi>
+               </l>
+               <l>Nought equals, but your verse.</l>
+            </sp>
+            <sp>
+               <speaker>SATYR.</speaker>
+               <l>Do my songs please thee? stay then and behold</l>
+               <l>A vintage measure, and my skill applaud</l>
+               <l>As in the harmonious maze I lightly move.</l>
+               <l>Here on the verdant turf recline, while I</l>
+               <l>Summon my fellows to the antic round.</l>
+               <stage>Enter SATYRS.</stage>
+               <l>Ye dear companions of my rural joys,</l>
+               <l>This paragon of nymphs, this conquering fair</l>
+               <l>Deigns to behold our sports; begin and shew</l>
+               <l>
+                  <pb n="20" facs="19"/>That <hi>Satyrs</hi> have their graces, and can tread</l>
+               <l>With <hi>Bacchanalian</hi> skill the sprightly dance.</l>
+               <l>Begin, I say.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>This lawless rout with terror chills my heart:</l>
+               <l>Seize the first happy moment, to retire.</l>
+            </sp>
+            <stage>[<hi>To</hi> NERINA.]</stage>
+            <stage>DANCE of the SATYRS.</stage>
+            <stage>
+               <hi>Sylvia</hi> and <hi>Nerina</hi> steal off when it is almost ended.</stage>
+            <sp>
+               <speaker>SATYR.</speaker>
+               <l>Ha, gone! break off the dance:</l>
+               <l>She is not here whose eyes I sought to charm.</l>
+               <l>Ah! cruel nymph, inexorable fair,</l>
+               <l>Harder than tygers to be broke; than rocks</l>
+               <l>More fix'd in thy disdain; more haughty far</l>
+               <l>Than the vain peacock in its plumy pride.</l>
+               <l>Why seek I thee with song and dance to move?</l>
+               <l>Colder than fountains; like the sliding streams</l>
+               <l>Impossible to hold: but here I swear</l>
+               <l>By <hi>Pan,</hi> great author of our race, I swear,</l>
+               <l>
+                  <pb n="21" facs="20"/>Since song, nor dance, nor gifts, nor pray'rs can move</l>
+               <l>Thy stubborn soul, by force I'll crown my love.</l>
+            </sp>
+            <trailer>END of the FIRST ACT.</trailer>
+         </div>
+         <div n="2" type="act">
+            <pb n="22" facs="21"/>
+            <head>ACT the SECOND.</head>
+            <stage>SCENE <hi>continues.</hi>
+            </stage>
+            <stage>Enter SYLVIA and NYMPHS, as from hunting, with bows and arrows.</stage>
+            <sp>
+               <speaker>First NYMPH.</speaker>
+               <l>GRace of our woods! sure <hi>Dian</hi>'s self directs</l>
+               <l>Thy still unerring dart.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Be her's the praise.</l>
+               <l>Oh! virgin huntress, to thy fav'ring smile</l>
+               <l>Alone I owe, that foremost in the chace</l>
+               <l>My shaft transfixes first the trembling prey.</l>
+               <l>Thou speed'st the whistling arrow to its mark:</l>
+               <l>Wing'd with thy swiftness o'er the plain I fly,</l>
+               <l>And all my honours are deriv'd from thee.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <pb n="23" facs="22"/>
+                        <head>SONG.</head>
+                        <l>
+                           <hi>Cynthia,</hi> queen of rural pleasures,</l>
+                        <l>Pleasures which no guilt destroys,</l>
+                        <l>Thine are all health's choicest treasures,</l>
+                        <l>Thine are virtue's solid joys.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <stage>[Here the <hi>Satyr</hi> appears listening.]</stage>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Now while the sun darts fierce the noon-tide blaze,</l>
+               <l>Haste to the neighb'ring grove, fair nymphs, and shun</l>
+               <l>His fervid ray; mean time, in yonder vale</l>
+               <l>Where pines and cedars mingling grateful shade,</l>
+               <l>And from the stream which slowly glides be<lb rend="hidden" type="hyphenInWord"/>neath</l>
+               <l>Excludes the light; there will I bathe, then taste</l>
+               <l>A short repose upon its flow'ry border.</l>
+            </sp>
+            <sp>
+               <speaker>First NYMPH.</speaker>
+               <l>Soft be thy slumbers, gentle maid, farewel!</l>
+            </sp>
+            <stage>Exeunt.</stage>
+            <stage>
+               <hi>The</hi> SATYR <hi>comes forward.</hi>
+            </stage>
+            <sp>
+               <pb n="24" facs="23"/>
+               <speaker>SATYR.</speaker>
+               <l>So my coy <hi>Nymph</hi>! I think I hold thee now</l>
+               <l>Safe in my toils; go on, securely go</l>
+               <l>To thy well-chosen privacy; by <hi>Pan,</hi>
+               </l>
+               <l>It fits my purpose well: yes, stubborn maid!</l>
+               <l>There shalt thou find an unexpected guest,</l>
+               <l>An injur'd lover bent on great revenge.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>I hate your sighing, fawning, lying,</l>
+                        <l>To cry each moment one is dying,</l>
+                        <l>In some sick puppy's tone.</l>
+                        <l>No: while her pride looks most demurely,</l>
+                        <l>Let me, invading, clasp securely</l>
+                        <l>What force has made my own.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <stage>
+               <hi>Exeunt</hi> Satyr.</stage>
+            <stage>Enter PHILANDER in a melancholy posture.</stage>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <lg>
+                           <l>In vain I strive to fly</l>
+                           <l>This soul-consuming care;</l>
+                           <l>My sorrow's always nigh,</l>
+                           <l>And present every where.</l>
+                        </lg>
+                        <lg>
+                           <pb n="25" facs="24"/>
+                           <l>In vain I seek the grove,</l>
+                           <l>There no repose I find,</l>
+                           <l>What shades can shut out love?</l>
+                           <l>Or cool the fever'd mind?</l>
+                        </lg>
+                        <lg>
+                           <l>That sweetly-dashing stream,</l>
+                           <l>Those gales that whisper round,</l>
+                           <l>Increase the fatal flame,</l>
+                           <l>Enlarge the bleeding wound.</l>
+                        </lg>
+                        <lg>
+                           <l>The silent gloom of night</l>
+                           <l>Adds horror to my grief;</l>
+                           <l>The gay return of light</l>
+                           <l>To me brings no relief.</l>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+               <l>Why do I wander thus in woods alone?</l>
+               <l>Why vent to senseless trees my mournful plaints;</l>
+               <l>Sigh to the fleeting wind; with tears deface</l>
+               <l>The dimpled stream? Oh! <hi>Sylvia,</hi> cruel maid!</l>
+               <l>Thy pride a savage sacrifice demands,</l>
+               <l>Nor will be satisfied with less than life.</l>
+            </sp>
+            <stage>Enter THIRSIS.</stage>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>I sought thee, dear <hi>Philander!</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="26" facs="25"/>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! my <hi>Thirsis!</hi>
+               </l>
+               <l>Why seek a wretch who cannot find himself?</l>
+               <l>Lost to each joy, to fierce despair a prey?</l>
+               <l>Fain would I shun all commerce with man<lb rend="hidden" type="hyphenInWord"/>kind:</l>
+               <l>In these dark shades wear out the sad remains</l>
+               <l>Of hated life.</l>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>Oh love! thou tyrant of the human breast,</l>
+               <l>Fierce and remorseless as the prowling wolf</l>
+               <l>That nightly makes the helpless flock his prey:</l>
+               <l>Falsly they call thee god of pleasing pains,</l>
+               <l>Of gentle wishes and refin'd delights:</l>
+               <l>Doubts, fears, and jealousies, surround thy throne;</l>
+               <l>Eternal sighs fan thy destructive fires,</l>
+               <l>And broken hearts are thy sad sacrifice.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Such is, indeed, the fate of hopeless love;</l>
+               <l>And such is mine.</l>
+            </sp>
+            <sp>
+               <pb n="27" facs="26"/>
+               <speaker>THIRSIS.</speaker>
+               <l>You make yourself your fate;</l>
+               <l>Love should be paid with love, and hate with hate.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>In vain my passion you reprove,</l>
+                        <l>This heart, alas! was form'd for love,</l>
+                        <l>His pains, if not his joys, to feel:</l>
+                        <l>Here the soft god has fix'd his throne,</l>
+                        <l>But oh! 'midst sighs, and tears alone,</l>
+                        <l>Nor deigns the wounds he makes to heal.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>Oh! bend not thus thy drooping head to earth,</l>
+               <l>Like tender plants beneath the beating storm;</l>
+               <l>This day thy father, by thy griefs impell'd,</l>
+               <l>With grateful off'rings seeks his patron god;</l>
+               <l>Prostrate before his altar now he lies,</l>
+               <l>And all his pious prayers ascend for thee.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>To mine, alas! no pitying pow'rs enclin'd,</l>
+               <l>Unheard, and mingled with the vagrant wind.</l>
+            </sp>
+            <sp>
+               <pb n="28" facs="27"/>
+               <speaker>THIRSIS.</speaker>
+               <l>Hope better now, for see thy fire appears,</l>
+               <l>A solemn joy upon his brow he wears:</l>
+               <l>Some pleasing news he brings.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Be still, my heart!—</l>
+               <l>Oh! throb not thus, can hope be painful too?</l>
+            </sp>
+            <stage>Enter MONTANO.</stage>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Oh! thou to fierce despair a wretched prey,</l>
+               <l>Much-lov'd, lamented youth.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Ill-omen'd pity!</l>
+               <l>Alas! my father mourns my fate; 'tis past,</l>
+               <l>Hope is no more.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>I bring thee more than hope,</l>
+               <l>My vows are heard, thy wishes all are crown'd,</l>
+               <l>No more the haughty maid shall fly thy love.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! sounds which might arrest the stroke of death,</l>
+               <l>
+                  <pb n="29" facs="28"/>Call back the soul to her abandon'd seat,</l>
+               <l>And give it more than life, give immortality.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>With awful rev'rence hear the god's decree,</l>
+               <l>At whose dread altars I so long have serv'd;</l>
+               <l>
+                  <hi>Sylvia,</hi> by plighted vows, thy lawful claim</l>
+               <l>Must either yield this day to be thy bride,</l>
+               <l>Or by her death—</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! love! almighty love!</l>
+               <l>What do I hear?</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Or, by her death atone</l>
+               <l>For violated faith. Thus dooms <hi>Apollo.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Is this to crown my wishes? oh! my father▪</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Rash youth, repine not at the god's decree,</l>
+               <l>But to the haughty fair reveal her sentence,</l>
+               <l>This day to be a victim, or a bride,</l>
+               <l>Is all her fate allows.</l>
+            </sp>
+            <sp>
+               <pb n="30" facs="29"/>
+               <speaker>PHILANDER.</speaker>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>Oh! stop that death-denouncing sound,</l>
+                        <l>Nor mix it with the passing air,</l>
+                        <l>Lest by some ruder zephyr found,</l>
+                        <l>'Tis wasted to the trembling fair.</l>
+                        <l>His own soft cause love best can plead,</l>
+                        <l>Or let me die, or let me thus succeed.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <stage>[Exit.]</stage>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>Despair is in his eyes, oh! sage <hi>Montano!</hi>
+               </l>
+               <l>Should the proud nymph persist in her denial,</l>
+               <l>Her sentence urg'd would aggravate his woe;</l>
+               <l>And, but forgive my sad foreboding fears,</l>
+               <l>Perhaps involve him in her wretched fate.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Dismiss thy fears, thy unexperienc'd youth</l>
+               <l>Reads not the secret heart of varying woman;</l>
+               <l>Form'd to ensnare, and practis'd to delude,</l>
+               <l>She flies, but flying, hopes to be pursu'd,</l>
+               <l>With doubling arts long keeps the doubtful field,</l>
+               <l>And yields, or seems to force alone to yield.</l>
+            </sp>
+            <trailer>END of the SECOND ACT.</trailer>
+         </div>
+         <div n="3" type="act">
+            <pb n="31" facs="30"/>
+            <head>ACT the THIRD.</head>
+            <stage>SCENE, <hi>A Grove.</hi>
+            </stage>
+            <stage>SYLVIA discovered sleeping at a distance; PHILANDER enters and gazes on her.</stage>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>SHE sleeps, and I may gaze securely now,</l>
+               <l>Nor fear the lightning of her angry eyes;</l>
+               <l>So looks the goddess of the silver bow!</l>
+               <l>When by <hi>Eurota</hi>'s lucid wave she lies.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <lg>
+                           <l>On those fair eye-lids, gentle sleep,</l>
+                           <l>Thy softest influence shed,</l>
+                           <l>Still in thy downy fetters keep</l>
+                           <l>The lovely, cruel maid.</l>
+                        </lg>
+                        <lg>
+                           <l>Ye sighing gales, ye murm'ring streams,</l>
+                           <l>Ye tenants of the grove,</l>
+                           <l>Oh! lengthen out her pleasing dreams,</l>
+                           <l>And tune her soul to love.</l>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+               <l>
+                  <pb n="32" facs="31"/>Conceal'd I'll guard thy slumbers, lovely maid,</l>
+               <l>Lest some rude swain the sweet recess invade,</l>
+               <l>Those charms a lover views with chasten'd fires,</l>
+               <l>In vulgar breasts may kindle loose desires.</l>
+            </sp>
+            <stage>Enter the SATYR looking about him.</stage>
+            <sp>
+               <speaker>SATYR.</speaker>
+               <l>Low murm'ring sounds I heard, yet none are here;</l>
+               <l>'Twas but the whispers of the am'rous breeze</l>
+               <l>That plays among the boughs.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA</speaker>
+               <stage>awaking.</stage>
+               <l>What do I see?</l>
+               <l>The brutal <hi>Satyr!</hi> guard me, chaste <hi>Diana.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SATYR.</speaker>
+               <l>Aye, you may call your goddess to your aid,</l>
+               <l>She hears you not; the music of her hounds</l>
+               <l>And beagle-horn will drown your feeble cries.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Ah! whither would'st thou drag me, cruel Sylvan?</l>
+               <l>Help, help, some pitying power!</l>
+            </sp>
+            <stage>
+               <pb n="33" facs="32"/>Enter PHILANDER.</stage>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Vile monster! hence.</l>
+            </sp>
+            <stage>
+               <hi>The</hi> SATYR <hi>runs off.</hi>
+            </stage>
+            <stage>PHILANDER <hi>approaches</hi> SYLVIA, <hi>who turns from him.</hi>
+            </stage>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! stedfast hate, yet hear me, cruel maid,</l>
+               <l>If to have sav'd thee from the brutal rage</l>
+               <l>Of that fierce Sylvan, claims one kind regard,</l>
+               <l>Turn, turn, and listen to my ardent vows.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Why will you still this hated theme pursue?</l>
+               <l>Must I another Satyr find in you?</l>
+               <l>Both persecutors in a different way,</l>
+               <l>My honour he, you would my heart betray.</l>
+               <q>
+                  <floatingText>
+                     <body>
+                        <head>SONG.</head>
+                        <l>Love, o'er the abject breast may reign,</l>
+                        <l>With all his light fantastic train</l>
+                        <l>
+                           <pb n="34" facs="33"/>Of wishes, cares, and fond desires,</l>
+                        <l>Fears and hopes, and jealous fires,</l>
+                        <l>Be mine from the soft folly free;</l>
+                        <l>Love has no charms like liberty.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Yet, yet, relent! yield to a lover's prayer.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Away, or this detested theme forbear.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>What shall I say, her stubborn mind to move?</l>
+               <l>Declare her sentence: no, forbid it love!</l>
+               <stage>[To her]</stage>
+               <l>Yet hear me, <hi>Sylvia,</hi> e'er it be too late,</l>
+               <l>Speak one kind word, for oh! thy breath is fate.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Mark then my firm resolves, and oh! be thou,</l>
+               <l>Celestial maid, propitious to my vow;</l>
+               <l>With thee an humble vot'ry to remain,</l>
+               <l>Tho' last and meanest of thy virgin train.</l>
+               <l>If cold and temp'rate as thy own mild ray,</l>
+               <l>Thy shades I haunt, and thy commands obey,</l>
+               <l>
+                  <pb n="35" facs="34"/>Still, goddess, thy protection let me prove,</l>
+               <l>And guard me from the sly seducer, love.</l>
+            </sp>
+            <stage>[Exit.]</stage>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Stay, <hi>Sylvia,</hi> stay, and from these trembling lips</l>
+               <l>Hear the stern god's decree—Alas! she flies</l>
+               <l>Swift as the trackless winds, to death she flies,</l>
+               <l>Death less abhorr'd than me.</l>
+            </sp>
+            <stage>Enter NERINA.</stage>
+            <sp>
+               <speaker>NERINA.</speaker>
+               <l>Here <hi>Sylvia</hi> should be found; but sure I heard</l>
+               <l>The plaintive voice of sorrow—'tis <hi>Philander,</hi>
+               </l>
+               <l>Alas! poor youth, he weeps, I will observe him.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Why wears</l>
+               <l>The face of nature such a chearful smile?</l>
+               <l>Why this soft verdure? why this gaudy bloom?</l>
+               <l>Fall horrors, fall, and make this beauteous scene</l>
+               <l>Dark as my gloomy soul—oh <hi>Sylvia! Sylvia!</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>NERINA.</speaker>
+               <l>Would she were here, and heard thee.</l>
+            </sp>
+            <sp>
+               <pb n="36" facs="35"/>
+               <speaker>PHILANDER.</speaker>
+               <l>Cold shadowy queen, who laugh'st at lover's woes,</l>
+               <l>Thy self unloving, unbelov'd, now save</l>
+               <l>From the sad doom incurr'd, thy beauteous vot'ry.</l>
+            </sp>
+            <sp>
+               <speaker>NERINA</speaker>
+               <stage>(approaching him)</stage>
+               <l>Alas! what doom? speak'st thou of <hi>Sylvia,</hi> shepherd?</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Ha! sure the goddess' self inspires the thought.</l>
+               <l>Haste, haste <hi>Nerina,</hi> seek thy cruel friend,</l>
+               <l>Tell her—oh heaven! tell her that <hi>Phoebus</hi> claims</l>
+               <l>Her forfeit life for violated faith:</l>
+               <l>Fly, bid her seek <hi>Diana</hi>'s sacred fane,</l>
+               <l>And claim protection there.</l>
+            </sp>
+            <sp>
+               <speaker>NERINA.</speaker>
+               <l>Oh gen'rous youth! oh my unhappy friend!</l>
+            </sp>
+            <stage>[Exit running.]</stage>
+            <stage>Enter THIRSIS.</stage>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>He's here: how shall I speak the dreadful news?</l>
+            </sp>
+            <sp>
+               <pb n="37" facs="36"/>
+               <speaker>PHILANDER.</speaker>
+               <l>Why art thou thus alarm'd? say, dearest <hi>Thirsis.</hi>
+               </l>
+               <l>Alas! 'tis the sad privilege of despair</l>
+               <l>To fear no worse.</l>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>She has refus'd you then.—</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>She has, and oh! with such a fix'd disdain!</l>
+               <l>Ungrateful maid, then when my timely aid</l>
+               <l>Had sav'd her from a brutal Satyr's lust,</l>
+               <l>Then to reject my humble suff'ring love,</l>
+               <l>And, in despite of former ties, renew</l>
+               <l>Her vows to the rough goddess of the woods.</l>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>Horrid ingratitude! would thou could'st hate her.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Hate her! yes, friend, I'll tear her from my breast.</l>
+               <l>Oh! may she feel, like me, the pangs of love,</l>
+               <l>Like me unpity'd mourn, and sigh in vain.</l>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>The righteous gods, to noblervengeance doom</l>
+               <l>The perjur'd maid.</l>
+            </sp>
+            <sp>
+               <pb n="38" facs="37"/>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! <hi>Thirsis,</hi> there I'm lost.</l>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>
+                  <hi>Arcadia</hi> groans beneath <hi>Apollo</hi>'s frown,</l>
+               <l>In thee his priest is scorn'd; the wrathful god</l>
+               <l>Bends his dread bow o'er our devoted plains,</l>
+               <l>And claims his victim.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>
+                  <hi>Sylvia</hi> then must die!</l>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>She must, my friend, e'en now with mild en<lb rend="hidden" type="hyphenInWord"/>treaty</l>
+               <l>Thy father urg'd her to perform her vow,</l>
+               <l>Scornful she heard, nor shook at the sad sen<lb rend="hidden" type="hyphenInWord"/>tence</l>
+               <l>Which he with tears pronounc'd.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Yet hold my heart,—</l>
+               <l>Where is she now?</l>
+            </sp>
+            <sp>
+               <speaker>THRISIS.</speaker>
+               <l>I saw her, guarded by the attending priests</l>
+               <l>In sad procession, led tow'rds the temple:</l>
+               <l>
+                  <pb n="39" facs="38"/>Her griev'd companions rend the air with cries,</l>
+               <l>And beat their snowy breasts in wild despair.</l>
+               <l>But she with haughty mien, erect and firm</l>
+               <l>As the stern deity by her obey'd,</l>
+               <l>Welcomes her fate; nor can th'approach of death</l>
+               <l>Banish the colour from her cheeks; or rage</l>
+               <l>And fierce disdain plant fresher roses there.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! <hi>Sylvia,</hi> must thou die?</l>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>Alas! my friend,</l>
+               <l>You tremble, you look pale; think on your wrongs,</l>
+               <l>Think on her scorn, and th'impending curse</l>
+               <l>That threats <hi>Arcadia,</hi> till the god's appeas'd.</l>
+            </sp>
+            <stage>SOLEMN MUSIC <hi>at a distance.</hi>
+            </stage>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>By all the pangs that rend this tortur'd breast,</l>
+               <l>The sad solemnity is now begun:</l>
+               <l>Ah! friend, farewel! farewel my dearest <hi>Thirsis.</hi>
+               </l>
+            </sp>
+            <stage>[Embracing him.]</stage>
+            <sp>
+               <pb n="40" facs="39"/>
+               <speaker>THIRSIS.</speaker>
+               <l>Ha! whither now? what mean'st thou, dear <hi>Philander?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh <hi>Thirsis!</hi> I must see her once again.</l>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>You must not go, forgive my friendly zeal.</l>
+            </sp>
+            <stage>[Holding him.]</stage>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Off! or by heaven this moment is my last.</l>
+               <l>See, fate is in my power.</l>
+            </sp>
+            <stage>[Shewing a poniard.]</stage>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>Desp'rate youth!</l>
+            </sp>
+            <stage>[<hi>Exit</hi> PHILANDER. THIRSIS <hi>following.</hi>]</stage>
+            <stage>
+               <pb n="41" facs="40"/>SCENE <hi>changes to the temple of</hi> Apollo, <hi>an altar, priests attending: solemn music plays; then the procession appears; four priests walk two and two,</hi> Montano <hi>next with the sacred knife in his hand; after him</hi> Sylvia <hi>in white, led by two priests, her head bound with the sacred fillets; a train of virgins following weeping: they ad<lb rend="hidden" type="hyphenInWord"/>vance to the altar: the</hi> HYMN <hi>to</hi> Apollo <hi>is sung.</hi>
+            </stage>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>HYMN to APOLLO.</head>
+                     <lg>
+                        <l>HAIL <hi>Phoebus,</hi> son of <hi>Jove,</hi>
+                        </l>
+                        <l>Great patron of the moving lyre,</l>
+                        <l>Whose sounds, soft peace and smiling joy inspire,</l>
+                        <l>And give new pleasures to the blest above.</l>
+                        <l>To thee our noblest lays belong,</l>
+                        <l>Thine is the poet, thine the song,</l>
+                        <l>Eternal source of light, of music, and of love.</l>
+                     </lg>
+                     <lg>
+                        <l>Hail! mighty <hi>Paean,</hi> hail!</l>
+                        <l>Asserter of thy father's throne,</l>
+                        <l>Thy force the rebel giants own,</l>
+                        <l>Who vainly hop'd against him to prevail:</l>
+                        <l>Thy name redeem'd <hi>Thessalia</hi> sings,</l>
+                        <l>And all her noblest off'rings brings</l>
+                        <l>To thee, by whose dread arm the monster <hi>Python</hi> fell.</l>
+                        <l>
+                           <pb n="42" facs="41"/>
+Who can thy frown sustain?</l>
+                        <l>Or bear impure, thy piercing ray?</l>
+                        <l>Thou, on the guilty bosom pour'st the day,</l>
+                        <l>And all the wretch's crimes are seen:</l>
+                        <l>Lo! perjur'd beauty justly dies,</l>
+                        <l>Accept this awful sacrifice,</l>
+                        <l>And bless, oh! bless <hi>Arcadia</hi> with thy smiles again.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Ill-fated maid! whose soul no pray'rs could move,</l>
+               <l>No sorrows soften, and no vows could bind;</l>
+               <l>Tho' by thy fierce disdain, my hapless son</l>
+               <l>In anguish wastes his days: tho' o'er <hi>Arcadia</hi>
+               </l>
+               <l>
+                  <hi>Apollo</hi> bends his fatal bow, and claims</l>
+               <l>Thy forfeit life, yet still this aged hand</l>
+               <l>Shrinks to perform its office.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>You may spare</l>
+               <l>Your ill-tim'd pity, priest, I need it not.</l>
+               <l>O <hi>Cynthia!</hi> guardian-goddess of my youth,</l>
+               <l>To whom my virgin vows have still been paid;</l>
+               <l>I die thy votary, and this pure blood</l>
+               <l>Shed in thy cause, seals me for ever thine.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO to the PRIESTS.</speaker>
+               <l>Lead her to the altar.</l>
+            </sp>
+            <stage>
+               <pb n="43" facs="42"/>Enter PHILANDER.</stage>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>I charge you hold.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Rash youth retire, nor with your useless grief</l>
+               <l>Profane the solemn rites.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! give me way.—</l>
+               <l>I swear the awful pow'r shall be appeas'd,</l>
+               <l>He shall, my father; only suffer me</l>
+               <l>To kneel before that dear devoted maid,</l>
+               <l>And groan for pardon, since she dies my victim.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA to PHILANDER,</speaker>
+               <stage>who kneels.</stage>
+               <l>Hence, from my sight, and let me die in peace.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER</speaker>
+               <stage>rising.</stage>
+               <l>Oh, cruel even in death! yet hold, my heart,</l>
+               <l>Break not, e'er thy sad purpose is compleated,</l>
+               <l>Lest heaven reject th'imperfect sacrifice.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>What mean'st thou?</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Mighty love!</l>
+               <l>This is thy triumph, <hi>Sylvia</hi> thou art free,</l>
+               <l>
+                  <pb n="44" facs="43"/>Oh! hate not life, because it is my gift;</l>
+               <l>Thus I appease the god, and die to save thee.</l>
+            </sp>
+            <stage>
+               <hi>Kneels before the altar, and as he raises his arm to stab himself,</hi> Thirsis <hi>enters and holds him.</hi>
+            </stage>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>Help! save him, help!</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>My son! my dear <hi>Philander!</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Oh! wond'rous proof of unexampled love!</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Eternal night shroud my unhappy eyes.</l>
+            </sp>
+            <sp>
+               <speaker>THIRSIS.</speaker>
+               <l>Why this excess of grief? your son is safe.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>No pow'r on earth</l>
+               <l>Can save him now, our sacred law forbids</l>
+               <l>A second victim; well he knew it's force,</l>
+               <l>And hence this dire resolve.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Ah me! unhappy —</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Dost thou weep, proud maid?</l>
+               <l>Inhuman tears! such the hyena sheds</l>
+               <l>Over her helpless prey.</l>
+            </sp>
+            <sp>
+               <pb n="45" facs="44"/>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! sacred drops,</l>
+               <l>To me more grateful than the morning dew</l>
+               <l>On dying plants; then dost thou pity me?</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Pity! yet sure there is a softer name</l>
+               <l>For what I feel this moment—oh <hi>Philander!</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Why dost thou pause? why dost thou turn away?</l>
+               <l>Speak, speak again, and bless my ravish'd eyes</l>
+               <l>With one look more, then let them close for ever.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>For me thou shalt not die.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>For thee I will,</l>
+               <l>And oh! be witness, love!</l>
+               <l>With what extatic joy I meet my fate.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Ungrateful to a father's tender cares,</l>
+               <l>A faithful lover, but a son unkind!</l>
+               <l>Yet let me fold thee to my aking breast</l>
+               <l>Before we part for ever,—now farewel!</l>
+               <l>Receive your victim, priests, but spare my eyes</l>
+               <l>The dreadful sight!—I go to weep and die.</l>
+            </sp>
+            <sp>
+               <pb n="46" facs="45"/>
+               <speaker>SYLVIA.</speaker>
+               <l>Stay, holy sire.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>What would'st thou?</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>O! behold</l>
+               <l>The only lawful victim, save your son,</l>
+               <l>And strike this harden'd breast.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Away, fond maid!</l>
+               <l>Your pity comes too late — oh, my <hi>Philander!</hi>
+               </l>
+            </sp>
+            <stage>[Going.]</stage>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Oh! youth, too little known, belov'd too late,</l>
+               <l>Thou shalt not conquer in this noble strife:</l>
+               <l>I cannot change, but I will share thy fate,</l>
+               <l>And death shall give what I deny'd in life.</l>
+            </sp>
+            <stage>[Snatches a dart from one of the nymphs.]</stage>
+            <sp>
+               <speaker>PHILANDER</speaker>
+               <stage>(<hi>catching hold of her.</hi>)</stage>
+               <l>Oh! hold thy hand, or hate me once again:</l>
+               <l>Live, beauteous maid, nor let me die in vain.</l>
+            </sp>
+            <stage>
+               <hi>Thunder; a bright cloud appears</hi>; Apollo <hi>is discovered seated in his chariot; soft music as he descends.</hi>
+            </stage>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>He comes, the awful god himself appears!</l>
+               <l>Kneel, and confess the present deity.
+<stage>[All kneel.]</stage>
+               </l>
+            </sp>
+            <sp>
+               <pb n="47" facs="46"/>
+               <speaker>APOLLO.</speaker>
+               <lg>
+                  <l>
+                     <hi>Returning virtue's contrite sighs,</hi>
+                  </l>
+                  <l>
+                     <hi>Are heaven's most pleasing sacrifice;</hi>
+                  </l>
+                  <l>
+                     <hi>Through the wide space of yielding air,</hi>
+                  </l>
+                  <l>
+                     <hi>The winds the grateful incense bear,</hi>
+                  </l>
+                  <l>
+                     <hi>And waft it to the skies.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Blest shepherd! who such truth could prove,</hi>
+                  </l>
+                  <l>
+                     <hi>Blest maid! whom truth at last could move;</hi>
+                  </l>
+                  <l>
+                     <hi>On you th'immortal pow'rs bestow</hi>
+                  </l>
+                  <l>
+                     <hi>Their best, their fairest gifts below,</hi>
+                  </l>
+                  <l>
+                     <hi>Peace, innocence, and love.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Oh! pow'r by me ador'd, with awful love,</l>
+               <l>With duteous rev'rence serv'd, gracious, accept</l>
+               <l>A happy father's thanks.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! son of <hi>Jove,</hi>
+               </l>
+               <l>Immortal <hi>Phoebus,</hi> light-dispensing god,</l>
+               <l>And theme of verse perpetual, be thy praise</l>
+               <l>For ever sung by me.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Oh! pow'r benign!</l>
+               <l>Fav'rite of gods and men, my grateful heart</l>
+               <l>To thee its purest vows shall ever pay.</l>
+            </sp>
+            <sp>
+               <pb n="48" facs="47"/>
+               <speaker>PHILANDER to SYLVIA.</speaker>
+               <l>Restor'd to life, to hope, to love, and thee,</l>
+               <l>Now let me gaze upon thy beauteous eyes,</l>
+               <l>And read my bliss confirm'd, or else in vain</l>
+               <l>A god pronounc'd me happy.</l>
+            </sp>
+            <sp>
+               <speaker>SYLVIA.</speaker>
+               <l>Dearest and best</l>
+               <l>Of all thy sex; oh! if thou read'st not there</l>
+               <l>The softest, truest passion, that e'er warm'd</l>
+               <l>A virgin-breast, they injure what I feel.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER</speaker>
+               <stage>(taking her hand)</stage>
+               <l>Oh! sweet reward of suff'ring love; oh! bliss</l>
+               <l>Unutterable.</l>
+            </sp>
+            <sp>
+               <speaker>MONTANO.</speaker>
+               <l>Still may your joys increase, a virtuous flame</l>
+               <l>Knows no decay, and burns through life the same;</l>
+               <l>Like noon-tide sun it glows in youth's short day,</l>
+               <l>And milder friendship is its setting ray.</l>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>It cannot rain but it pours: or, London strow'd with rarities. Being, an account of the arrival of a white bear, at the house of Mr. Ratcliff in Bishopsgate-Street: as also of the Faustina, ... and of the copper-farthing dean from Ireland. And lastly, of the wonderful wild man.:</title>
+            <author>Arbuthnot, John, 1667-1735.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024720.000</idno>
+            <idno type="docno">CW3305173843</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>It cannot rain but it pours: or, London strow'd with rarities. Being, an account of the arrival of a white bear, at the house of Mr. Ratcliff in Bishopsgate-Street: as also of the Faustina, ... and of the copper-farthing dean from Ireland. And lastly, of the wonderful wild man.:</title>
+                  <author>Arbuthnot, John, 1667-1735.</author>
+               </titleStmt>
+               <extent>10,[2]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Roberts,</publisher>
+                  <date>1726.</date>
+                  <idno type="TCP">K024720.000</idno>
+                  <idno type="docno">CW3305173843</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probably started by John Arbuthnot, but completed by another hand.</note>
+                  <note>Doubtfully attributed to Dean Swift by Teerink in the first edition of his bibliography but ascribed to Arbuthnot et al. in the second edition.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT9689.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>It cannot Rain but it Pours: OR, <hi>London</hi> strow'd with Rarities.</p>
+            <p>BEING, An ACCOUNT of the Arrival of a White Bear, at the House of Mr. <hi>Rat<lb rend="hidden" type="hyphenInWord"/>cliff</hi> in <hi>Bishopsgate-Street</hi>: As also of the <hi>Faustina,</hi> the celebrated <hi>Italian</hi> Singing Woman; And of the Copper-Farthing Dean from <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>And Lastly,</hi> Of the wonderful Wild Man that was nursed in the Woods of <hi>Germany</hi> by a Wild Beast, hunted and taken in Toyls; how he beha<lb rend="hidden" type="hyphenInWord"/>veth himself like a dumb Creature, and is a Christian like one of us, being call'd <hi>Peter</hi>; and how he was brought to Court all in Green, to the great Astonishment of the Quality and Gentry.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for J. ROBERTS, near the <hi>Oxford-Arms,</hi> in <hi>Warwick-Lane.</hi> MDCCXXVI. (Price Three-Pence.)</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="2"/>
+         <head>It cannot Rain but it Pours: OR, <hi>London</hi> strow'd with Rarities.</head>
+         <head type="sub">BEING An ACCOUNT of the Arrival of a White Bear, at the House of Mr. <hi>Ratcliff</hi> in <hi>Bishopsgate-Street,</hi> &amp;c.</head>
+         <p>WE shall begin with a Description of <hi>Peter</hi> the Savage, deferring our o<lb rend="hidden" type="hyphenInWord"/>ther Curiosities to some following Papers.</p>
+         <p>
+            <hi>Romulus</hi> and <hi>Remus,</hi> the two famous wild Men of Antiquity, and <hi>Orsin</hi> that of the Mo<lb rend="hidden" type="hyphenInWord"/>derns, have been justly the Admiration of all Mankind: Nor can we presage less of this
+<pb n="4" facs="3"/>
+Wild Youth, as may be gathered from that famous and well-known Prophecy of <hi>Lilly</hi>'s, which being now accomplish'd, is most easily interpreted.<q>
+               <l>When <hi>Rome</hi> shall wend to <hi>Bene<lb rend="hidden" type="hyphenInWord"/>vento,</hi>
+               </l>
+               <l>And <hi>Espagne</hi> breaking the <hi>Assiento;</hi>
+               </l>
+               <l>When Eagle Split shall fly to <hi>China,</hi>
+               </l>
+               <l>And Christian Folks adore <hi>Fau<lb rend="hidden" type="hyphenInWord"/>stina:</hi>
+               </l>
+               <l>Then shall an Oak be brought to Bed,</l>
+               <l>Of Creature neither taught nor fed;</l>
+               <l>Great Feats shall he atchieve—</l>
+            </q>
+         </p>
+         <p>The Pope is now going to <hi>Benevento;</hi> the <hi>Spaniards</hi> have broke their Treaty; the Em<lb rend="hidden" type="hyphenInWord"/>peror Trades to <hi>China;</hi> and <hi>Lilly,</hi> were he alive, must be convinced, that it was not the Empress <hi>Faustina</hi> that was was meant in the Prophecy.</p>
+         <p>
+            <pb n="5" facs="4"/>
+It is evident by several Tokens about this Wild Gentleman, that he had a Father and Mo<lb rend="hidden" type="hyphenInWord"/>ther like one of us; but there being no Register of his Christning, his Age is only to be guessed at by his Stature and Countenance, and ap<lb rend="hidden" type="hyphenInWord"/>peareth to be about Twelve or Thirteen. His being so young was the Occasion of the great Disappointment of the Ladies, who came to the Drawing Room in full Expectation of some Attempt upon their Chastity: So far is true, that he endeavour'd to Kiss the young Lady <hi>W—le,</hi> who for that reason is become the Envy of the Circle; this being a Declaration of Nature, in favour of her superior Beauty.</p>
+         <p>
+            <hi>Aristotle</hi> saith, That Man is the most Mi<lb rend="hidden" type="hyphenInWord"/>mick of all Animals; which Opinion of that great Philosopher is strongly confirm'd by the Behaviour of this Wild Gentleman, who is en<lb rend="hidden" type="hyphenInWord"/>dow'd with that Quality to an extreme Degree. He receiv'd his first Impressions at Court: His Manners are, first to lick People's Hands, and then turn his Breech upon them; to thrust his Hand into every body's Pocket; to climb over Peoples Heads; and even to make use of the Royal Hand, to take what he has a mind to. At his first Appearance he seiz'd on the Lord Chamberlain's Staff, put on his Hat be<lb rend="hidden" type="hyphenInWord"/>fore the King; from whence some have conje<lb rend="hidden" type="hyphenInWord"/>ctur'd, that he is either descended from a Gran<lb rend="hidden" type="hyphenInWord"/>dee
+<pb n="6" facs="5"/>
+of <hi>Spain,</hi> or the Earls of <hi>Kingsale</hi> in <hi>Ireland.</hi> However, these are manifest Tokens of his innate Ambition; he is extremly tena<lb rend="hidden" type="hyphenInWord"/>cious of his own Property, and ready to in<lb rend="hidden" type="hyphenInWord"/>vade that of other People. By this mimick Quality he discovered what wild Beast had nursed him: Observing Children to ask Blessing of their Mothers, one Day he fell down upon his Knees to a Sow, and mutter'd some Sounds in that humble Posture.</p>
+         <p>It has been commonly thought, that he is <hi>U—</hi> natural Brother, because of some re<lb rend="hidden" type="hyphenInWord"/>semblance of Manners, and the officious Care of <hi>U—</hi> about him; but the Superiority of the Parts and Genius in <hi>Peter,</hi> demonstrates this to be impossible.</p>
+         <p>Though he is ignorant both of ancient and modern Languages, (that Care being left to the ingenious Physician, who is entrusted with his Education) yet he distinguishes Objects by certain Sounds fram'd to himself, which Mr. <hi>Rotenberg,</hi> who brought him over, un<lb rend="hidden" type="hyphenInWord"/>derstands perfectly. Beholding one Day the Shambles with great Fear and Astonish<lb rend="hidden" type="hyphenInWord"/>ment, ever since he calls Man by the same Sound which expresseth Wolf. A young Lady is a Peacock, old Women Mag<lb rend="hidden" type="hyphenInWord"/>pyes and Owls; a Beau with a <hi>Toupee,</hi> a Monkey; Glass, Ice; Blue, Red, and Green
+<pb n="7" facs="6"/>
+Ribbons, he calls Rainbows; an Heap of Gold a Turd. The first Ship he saw, he took to be a great Beast swimming on her Back, and her Feet tied above her: The Men that came out of the Hold he took to be her Cubs, and won<lb rend="hidden" type="hyphenInWord"/>der'd they were so unlike their Dam. He un<lb rend="hidden" type="hyphenInWord"/>derstands perfectly the Language of all Beasts and Birds, and is not, like them, confin'd to that of one Species. He can bring any Beast what he calls for, and no doubt is much miss'd now in his Native Woods, where he us'd to do good Offices among his Fellow Citizens, and serv'd as a Mediator to reconcile their Diffe<lb rend="hidden" type="hyphenInWord"/>rences. One Day he warn'd a Flock of Sheep that were driving to the Shambles, of their Danger, and upon uttering some Sounds, they all fled. He takes vast Pleasure in Conversa<lb rend="hidden" type="hyphenInWord"/>tion with Horses; and going to the <hi>Meuse</hi> to converse with Two of his intimate Acquain<lb rend="hidden" type="hyphenInWord"/>tances in the King's Stable, as he pass'd by, he Neighed to the Horse at <hi>Charing-Cross;</hi> be<lb rend="hidden" type="hyphenInWord"/>ing as it were surpriz'd to see him so high, he seem'd to take it ill that the Horse did not an<lb rend="hidden" type="hyphenInWord"/>swer him; but I think no body can undervalue his Understanding for not being skilled in Sta<lb rend="hidden" type="hyphenInWord"/>tuary.</p>
+         <p>He expresseth his Joy most commonly by Neighing; and whatever the Philosophers may talk of their Risibility, Neighing is a more noble Expression of that Passion than Laughing,
+<pb n="8" facs="7"/>
+which seems to me to have something Silly in it; and besides, is often attended with Tears. Other Animals are sensible they debase them<lb rend="hidden" type="hyphenInWord"/>selves, by mimicking Laughter; and I take it to be a general Observation, that the top Felicity of Mankind is to imitate Monkeys and Birds: Witness <hi>Harlequins, Scaramouches</hi> and <hi>Masquerades;</hi> on the other Hand, Monkeys, when they would look extreamly silly, endea<lb rend="hidden" type="hyphenInWord"/>vour to bring themselves down to Mankind. Love he expresseth by the Cooing of a Dove, and Anger by the Croaking of a Raven, and it is not doubted but that he will serve in Time as an Interpreter between us and other Animals.</p>
+         <p>Great Instruction is to be had from this Wild Youth in the Knowledge of Simples; and I am of Opinion, that he ought al<lb rend="hidden" type="hyphenInWord"/>ways to attend the Censors of the Col<lb rend="hidden" type="hyphenInWord"/>lege in their Visitation of Apothecaries Shops.</p>
+         <p>I am told that the new Sect of Herb<lb rend="hidden" type="hyphenInWord"/>eaters intend to follow him into the Fields, or to beg him for a Clerk of their Kitchen: And that there are many of them now thinking of turning their Children into Woods to Graze with the Cattle, in hopes to raise a healthy and moral Race, refin'd from the Corruptions of this Luxurious World.</p>
+         <p>
+            <pb n="9" facs="8"/>
+He sings naturally several pretty Tunes of his own Composing, and with equal Faci<lb rend="hidden" type="hyphenInWord"/>lity, in the <hi>Chromatick, Inharmonick,</hi> and <hi>Diatonick</hi> Stile, and consequently must be of infinite Use to the Academy, in judging of the Merits of their Composers, and is the only Person that ought to decide betwixt <hi>Cuzzoni</hi> and <hi>Faustina.</hi>
+         </p>
+         <p>I cannot omit his first Notion of Cloaths, which he took to be the natural Skins of the Creatures that wore them, and seem'd to be in great Pain for the pulling off a Stock<lb rend="hidden" type="hyphenInWord"/>ing, thinking the poor Man was a Fleaing.</p>
+         <p>I am not ignorant that there are disaffected People, who say he is a <hi>Pretender,</hi> and no genuine Wild Man. This Calumny proceeds from the false Notions they have of Wild Men, which they frame from such as they see about the Town, whose Actions are rather absurd than wild; therefore it will be incumbent on all young Gentlemen, who are ambitious to ex<lb rend="hidden" type="hyphenInWord"/>cel in this Character, to Copy this true Origi<lb rend="hidden" type="hyphenInWord"/>nal of Nature.</p>
+         <p>The Senses of this Wild Man are vastly more acute than those of a Tame one; he can follow the Track of a Man, or any other Beast of Prey. A Dog is an Ass to him for
+<pb n="10" facs="9"/>
+finding Trouf<gap resp="#oxf" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>es; his Hearing is more perfect, because his Ears not having been co<gap resp="#oxf" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>fin'd by Bandages, he can move them like a Drill, and turn them towards the Sonorous Object.</p>
+         <p>Let us pray the Creator of all Beings, Wild and Tame, that as this wild Youth, by being brought to Court, has been made a Christian; so such as are at Court, and are no Christians, may lay aside their Savage and Rapacious Na<lb rend="hidden" type="hyphenInWord"/>ture, and return to the Meekness of the Gospel.</p>
+      </body>
+      <back>
+         <div type="notice">
+            <pb facs="10"/>
+            <head>ADVERTISEMENT,</head>
+            <p>TO warn all Ladies and Gentlemen who intend to Visit this Wild Man, not to carry any Thing in their Pockets that is indecent, to prevent Accidents for the future.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

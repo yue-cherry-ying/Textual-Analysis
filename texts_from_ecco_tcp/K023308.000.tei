@@ -1,0 +1,791 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The quip modest: a few words by way of supplement to Remarks, critical and illustrative, on the text and notes of the last edition of Shakspeare; occasioned by a republication of that edition, revised ... by the editor of Dodsleys Old plays.</title>
+            <author>Ritson, Joseph, 1752-1803.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023308.000</idno>
+            <idno type="docno">cw3316266069</idno>
+            <idno type="ecll">1108800300</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The quip modest: a few words by way of supplement to Remarks, critical and illustrative, on the text and notes of the last edition of Shakspeare; occasioned by a republication of that edition, revised ... by the editor of Dodsleys Old plays.</title>
+                  <author>Ritson, Joseph, 1752-1803.</author>
+               </titleStmt>
+               <extent>vii,[1],32p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Johnson,</publisher>
+                  <date>1788.</date>
+                  <idno type="TCP">K023308.000</idno>
+                  <idno type="docno">cw3316266069</idno>
+                  <idno type="ecll">1108800300</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: J. R., i.e. Joseph Ritson.</note>
+                  <note>Refers to Johnson and Steevens' edition of Shakespeare, revised by Isaac Reed.</note>
+                  <note>The last word of text on the verso of A4: "romances" and last word of text on p. 28 "himself".</note>
+                  <note>In some copies sig. A4 is a cancel, last word on verso: "vol. iv" and sig. E2 is a cancel, last word of text on p. 28: "proposed".</note>
+                  <note>Some copies contain an additional unpaginated final leaf, signed F, beginning: "P. 11. Since this pamphlet was printed off, .. ".</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT5912.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE QUIP MODEST; A FEW WORDS BY WAY OF SUPPLEMENT TO <hi>REMARKS, CRITICAL AND ILLUSTRATIVE, ON THE TEXT and NOTES of the LAST EDITION OF SHAKSPEARE;</hi> OCCASIONED BY A REPUBLICATION OF THAT EDITION, REVISED AND AUGMENTED BY THE EDITOR OF DODSLEYS OLD PLAYS.</p>
+            <q>
+               <l>WE'LL SIFT THIS MATTER FURTHER.</l>
+               <l>ALL'S WELL THAT ENDS WELL.</l>
+            </q>
+            <p>LONDON: PRINTED FOR J. JOHNSON IN ST. PAULS CHURCH YARD.</p>
+            <p>M DCC LXXXVIII.</p>
+         </div>
+         <div type="preface">
+            <pb facs="2"/>
+            <head>PREFACE.</head>
+            <p>IN the beginning of 1783 I published a book or pamphlet, intitled, "Remarks, critical and illustrative, on the Text and Notes of the last Edition of Shakspeare," which, I under<lb rend="hidden" type="hyphenInWord"/>stand, has been represented as the most incorrect publication that ever appeared; and, indeed, from the list of <hi>errata</hi> in the book itself, and the additional one given at the end of this Preface, the charge does not seem to be without founda<lb rend="hidden" type="hyphenInWord"/>tion. There is, however, one work which, I believe, may vye with mine in point of inaccuracy, and that is the revis<lb rend="hidden" type="hyphenInWord"/>ed edition of Johnson and Steevenses Shakspeare, which has since made its immaculate appearance, without the notifi<lb rend="hidden" type="hyphenInWord"/>cation of a single error <note place="bottom" n="*">
+                  <p>A complete table of <hi>errata</hi> would be too arduous a task, perhaps, for an individual; the booksellers may therefor think themselves obli<lb rend="hidden" type="hyphenInWord"/>ged to any person that will contribute to it. I accordingly offer my mite, in the following brief but decent specimen of the accuracy of this famous edition.</p>
+                  <list>
+                     <item>V. I. p. 21. <hi>boltsprit</hi> for <hi>bowsprit.</hi>
+                     </item>
+                     <item>V. I. p. 48. Ale-<hi>wrights</hi> for ale-<hi>knights.</hi>
+                     </item>
+                     <item>V. I. p. 70. <hi>Trinculo</hi> for <hi>Stephano.</hi>
+                     </item>
+                     <item>V. I. p. 72. <hi>never</hi> (to spoil the metre) for <hi>ne'er.</hi>
+                     </item>
+                     <item>V. I. p. 347 <hi>&amp; passim. Manhood</hi> for <hi>Manwood.</hi> In another place Sir <hi>Hugh</hi> Spelman.</item>
+                     <item>Vol. II. p. 39. <hi>distant</hi> for <hi>instant.</hi>
+                     </item>
+                     <item>Vol. II. <hi>Ignomy</hi> for <hi>Ignominy.</hi>
+                     </item>
+                     <item>Vol. II. p. 68. <hi>construction</hi> for <hi>contraction.</hi>
+                     </item>
+                     <item>Vol. II. p. 71. <hi>some</hi> for <hi>same.</hi>
+                     </item>
+                     <item>Vol III. p. 295. You <hi>shall</hi> not have mocked me before, for you <hi>should</hi> not, &amp;c.</item>
+                     <item>Vol. III. p. 378. <hi>Hear</hi> for <hi>Here.</hi>
+                     </item>
+                     <item>Vol. III. p. 466. <hi>Pletony</hi> the son of Lagus.</item>
+                     <item>Vol. III. p. 496. <hi>a cuchstold's</hi> horn.</item>
+                     <item>Vol. IV. p. 94. promise-<hi>maker</hi> for promise-<hi>breaker.</hi>
+                     </item>
+                     <item>Vol. IV. p. 118. <hi>Intergatories</hi> for <hi>Interrogatories.</hi>
+                     </item>
+                     <item>Vol. IV. p. 164. <hi>man</hi> for <hi>name.</hi>
+                     </item>
+                     <item>Vol. IV. p. 211. <hi>Fie away</hi> for <hi>fly away.</hi>
+                     </item>
+                     <item>Vol. IV. p. 264. <hi>danger</hi> for <hi>dagger.</hi>
+                     </item>
+                     <item>Vol. IV. p. 331. <hi>curse</hi> him for <hi>nurse</hi> him.</item>
+                     <item>Vol. IV. p. 347. Verstigans <hi>Institution</hi> for Verstègans <hi>Restitution.</hi>
+                     </item>
+                     <item>Vol. IV. p. 430. <hi>That</hi> rarest for <hi>The</hi> rarest.</item>
+                     <item>Vol. V. p. 113. <hi>How</hi> for <hi>now.</hi>
+                     </item>
+                     <item>Vol. V. p. 161. <hi>Banish'st</hi> for <hi>Banish'd.</hi>
+                     </item>
+                     <item>Vol. VI. p. 23. A line omitted: Else would I have a fling at Winchester.</item>
+                     <item>Vol. VII. p. 371. If <hi>do</hi> for If <hi>I do.</hi>
+                     </item>
+                     <item>Vol. VIII. p. 190. <hi>to</hi> draw, for <hi>do</hi> draw.</item>
+                     <item>Vol. IX. p. 26. <hi>like</hi> for <hi>lye.</hi>
+                     </item>
+                     <item>Vol. IX. p. 80. <hi>store</hi> for <hi>sore.</hi>
+                     </item>
+                     <item>Vol. IX. p. 109. The lees and dregs of a flat piece. <hi>Tamed</hi> omitted.</item>
+                     <item>Vol. X. p. 331. <hi>Heywood</hi> for <hi>Hayward.</hi> &amp;c. &amp;c. &amp;c. &amp;c.</item>
+                  </list>
+               </note>. I am, nevertheless, far from
+<pb n="iv" facs="3"/>meaning to reproach the learned gentleman who appears to have had the care of that edition, with the negligence of his printers; nor do I think myself at all more culpable on ac<lb rend="hidden" type="hyphenInWord"/>count of the blunders of mine. Every person who has the entire revision of his own press-work will be soon con<lb rend="hidden" type="hyphenInWord"/>vinced, that nothing is so truly incorrigible as <hi>a virgin proof sheet in its primitive state of unamendment.</hi> There is, how<lb rend="hidden" type="hyphenInWord"/>ever, some little difference in printers; else mercy on the poor author!</p>
+            <p>Another charge which has been brought against me, is no less than downright <hi>felony.</hi> It seems that some of my happiest emendations had already appeared in the margin of the very edition I had presumed to criticise; and the candour of the Critical Reviewers led them to conclude that I must have stole them ready made. Those venerable personages, who have the disinterestedness to devote six days
+<pb n="v" facs="4"/>in seven <note place="bottom" n="*">I conclude, that on <hi>Sunday</hi> the worthy critics "rest from their labours," and go to <hi>Meeting.</hi> They are very good Christians.</note> to the service of the public, in passing sentence upon books which they never read, and on the character of writ<lb rend="hidden" type="hyphenInWord"/>ers whom they do not know, could not for their souls com<lb rend="hidden" type="hyphenInWord"/>prehend that two persons might happen to hit upon the same idea, or that one, having possessed himself of the idea of an<lb rend="hidden" type="hyphenInWord"/>other, might, from a defective memory, or any other cause, come in time to imagine it his own. All that I can say upon this head, though I shall not expect credit for my assertion from the good-natured gentlemen I have just mentioned, is, that at the time of the publication of the book, I was not aware of being anticipated in more than a single instance, and even that one I thought my own.</p>
+            <p>Incorrect, however, and felonious as these same Re<lb rend="hidden" type="hyphenInWord"/>marks might be, I found that the revised Edition I have mentioned had got near 200 of them in its margin, all of which were received without opposition; not to speak of the alterations or corrections which I had a right to presume myself the occasion of. There are a few in<lb rend="hidden" type="hyphenInWord"/>deed which have not passed muster, but, on the con<lb rend="hidden" type="hyphenInWord"/>trary, are treated with such an air of peevishness, that I esteem myself a very unnatural father of so hopeful an off<lb rend="hidden" type="hyphenInWord"/>spring, in not having come forward in their vindication sooner. It will be thought, perhaps, by some, altogether unreasonable, that, after the editor of the revised edition has adopted so considerable a majority of my remarks, I should be disposed to find sault with him for his cavalier treatment of a few. I can only say, that is was not to me of the smallest consequence whether he condescended to honour my publication with his notice or not; but I think it my duty to defend every part of it from injury and mis<lb rend="hidden" type="hyphenInWord"/>representation. I know of no difference between the inte<lb rend="hidden" type="hyphenInWord"/>grity or character of a writer and that of any other indi<lb rend="hidden" type="hyphenInWord"/>vidual; nor ought an unjust charge against the former to remain unrefuted, any more than one against the latter.
+<pb n="vi" facs="5"/>"This defence, I allow, is rather of the latest in making its appearance, and my liberal and candid friends above men<lb rend="hidden" type="hyphenInWord"/>tioned will scarcely neglect the opportunity of paying my prudence a compliment, in having attended so well to Ho<lb rend="hidden" type="hyphenInWord"/>races rule. The fact is, that my notes were taken in turning over the revised edition immediately after its pub<lb rend="hidden" type="hyphenInWord"/>lication, but have till very lately been laid aside, and, in short, almost forgotten; and perhaps I only anticipate a pleasant observation of my small friends, so oft alluded to, in adding, that it would have proved no great loss if they had been altogether so.</p>
+            <p>I must not pretend to be ignorant that I have been ac<lb rend="hidden" type="hyphenInWord"/>cused of treating the most eminent Editors, Commenta<lb rend="hidden" type="hyphenInWord"/>tors, and Critics, with too little ceremory; and, indeed,
+<q>
+                  <l>I fear I've wrong'd the honorable men</l>
+                  <l>Whose goose-quills have stabb'd Shakspeare.</l>
+               </q>
+"If it be so," it is unquestionably "a grievous fault." But I can with great truth and justice urge in my defence, that
+<q>
+                  <l>I have no personal cause to spurn at them.</l>
+                  <l>But for the general.</l>
+               </q>
+And that
+<q>
+                  <l>How far I have proceeded in this matter,</l>
+                  <l>Or how far further shall, is warranted</l>
+                  <l>By the example of preceeding critics,</l>
+                  <l>Yea, the whole critic tribe.</l>
+               </q>
+            </p>
+            <p>Before I conclude, I beg leave to assure the respectable gentleman who had the care of the revised edition, that so far from meaning to treat him with the slightest degree of levity or freedom, I do not consider him as responsible for any one of the notes which are the principal objects of the present pamphlet: I conclude them to have been furnish<lb rend="hidden" type="hyphenInWord"/>ed by some obliging friend, who has desired to be effectual<lb rend="hidden" type="hyphenInWord"/>ly
+<pb n="vii" facs="6"/>concealed under the sanction of the Editors signature <note place="bottom" n="*">This worthy gentleman is probably the infamous scoundrel who published "An Address to the curious in ancient poetry," as, however little relation it may have to Shakspeare, the author has had interest enough to procure it a place in the "List of Detached Pieces of Criticism, &amp;c." prefixed to the revised edition. A congeniality of disposition in the Critical Reviewers procured this fellow a diffe<lb rend="hidden" type="hyphenInWord"/>rent reception from those literary hangmen, from that which he may one day experience from a well known practical professor of the same mystery.</note> If I could possibly think this were not the case, I am under too many obligations to that gentleman, in the course of my different literary pursuits, not to have kissed the rod in si<lb rend="hidden" type="hyphenInWord"/>lence. However, I doubt not there are many things in the following pages which I might have been allowed to say, without running any possible risk of giving offence to him; alive as an editor is on such occasions said to feel himself.</p>
+            <p>At the end of the <hi>Remarks,</hi> &amp;c. I inserted an advertise<lb rend="hidden" type="hyphenInWord"/>ment of "an edition of the plays of Shakspeare," as then "preparing for the press;" and some enquiries have been made when it would appear. In truth, the attention requi<lb rend="hidden" type="hyphenInWord"/>site to the publication of so voluminous a work, and the little likelihood there is of its being productive to the un<lb rend="hidden" type="hyphenInWord"/>dertaker of any thing but trouble and expence, together with other causes of less consequence, have hitherto de<lb rend="hidden" type="hyphenInWord"/>terred me from putting it to the press. But I have neither laid aside all thoughts of bringing it forward, nor can I pledge myself to produce it in any given time. I have little reason to suppose that the Public interests itself at all in the matter, and therefor think myself at full liberty to suit my own inclination and convenience.</p>
+            <closer>
+               <dateline>
+                  <date>1st February 1788.</date>
+               </dateline>
+               <signed>J. R.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="7"/>
+            <head>
+               <hi>ERRATA</hi> in the REMARKS, &amp;c. Discovered after Publication.</head>
+            <list>
+               <item>P. 12. after l. 5. <hi>add</hi> p. 228.</item>
+               <item>P. 20. l. 8. <hi>for</hi> p 6. <hi>r.</hi> p. 64.</item>
+               <item>P. 25. after l. 8. <hi>add</hi> COMEDY OF ERRORS.</item>
+               <item>l. 21. <hi>for</hi> referred <hi>r.</hi> restored.</item>
+               <item>P. 26. l. 6. <hi>dele</hi> this line.</item>
+               <item>P. 28. l. 9. <hi>dele</hi> it.</item>
+               <item>P. 29. after l. 23. <hi>r.</hi> MUCH ADO ABOUT NOTHINGS and <hi>dele</hi> those words in the next page.</item>
+               <item>P. 33. l. 17. <hi>for</hi> Mr. Steevenses <hi>r.</hi> Dr. Warburtone.</item>
+               <item>P. 86. l. 14. <hi>for</hi> chidlless <hi>r.</hi> childless.</item>
+               <item>P. 94. l. ult. (n.) <hi>for</hi> strange <hi>r.</hi> kind of.</item>
+               <item>P. 98. l. 14. <hi>for</hi> absurdity <hi>r.</hi> necessity.</item>
+               <item>P. 123. l. 9. <hi>for</hi> certainly so <hi>r.</hi> certainly done so.</item>
+               <item>P. 124. l. penult. <hi>for</hi> constittuion <hi>r.</hi> constitution.</item>
+               <item>P. 157. l. 11. <hi>for</hi> is cynical <hi>r.</hi> is as cynical.</item>
+               <item>P. 195. l. 1. <hi>for</hi> quicscent <hi>r.</hi> crescent.</item>
+               <item>P. 196. l. 9. <hi>for</hi> Each of these proposals is, <hi>r.</hi> The second and third of these proposals are.</item>
+               <item>P. 222. l. 25. <hi>for</hi> play <hi>r.</hi> pay.</item>
+               <item>P. 230. before l. 1. <hi>Insert,</hi> P. 502.</item>
+               <item>
+                  <hi>
+                     <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>a.</hi> King Stephen was a worthy <hi>peer.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>
+                  <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>. e.</hi> says Mr. Steevens, a worthy fellow. In this sense <hi>peer, fere,</hi> and <hi>phe<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>re,</hi> he <gap resp="#pdcc" extent="1 span" rend="content:〈…〉">
+                  <desc>illegible</desc>
+               </gap> often used by the writers o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> 
+               <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> earliest romances.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="8"/>
+         <head>SUPPLEMENT to <hi>REMARKS,</hi> &amp;c.</head>
+         <div type="play">
+            <head>TWO GENTLEMEN OF VERONA.</head>
+            <p>Vol. I. p. 155 <note place="bottom" n="*">The paging in this pamphlet is generally from the revised edi<lb rend="hidden" type="hyphenInWord"/>tion.</note>.</p>
+            <p>IN answer to what I have been pleased to assert in de<lb rend="hidden" type="hyphenInWord"/>fence of Shakspeare, <note place="marg">REMARKS. p. 7.</note> against the charge of taking a li<lb rend="hidden" type="hyphenInWord"/>berty with his words, by stretching them out to suit the purpose of his metre, Mr. Tyrwhitt has observed as fol<lb rend="hidden" type="hyphenInWord"/>lows: "As to this <hi>supposed</hi> canon of the English language, it would be easy to shew that it is quite fanciful and un<lb rend="hidden" type="hyphenInWord"/>founded; and what he calls <hi>the right method of printing the above words,</hi> is such as, I believe, was never adopted be<lb rend="hidden" type="hyphenInWord"/>fore by any mortal in writing them, nor can be followed in the pronunciation of them, without the help of an en<lb rend="hidden" type="hyphenInWord"/>tirely new system of spelling. But any further discussion of the matter is unnecessary; because the hypothesis, though allowed in its utmost extent, will not prove either of the points to which it is applied. It will neither prove that Shakspeare has not taken a liberty in extending cer<lb rend="hidden" type="hyphenInWord"/>tain words, nor, that he has not taken that liberty chiefly with certain words in which <hi>l</hi> or <hi>r</hi> is subjoined to another consonant. The following are all instances of nouns, sub<lb rend="hidden" type="hyphenInWord"/>stantive or adjective, which can receive no support from the supposed canon. That Shakspeare has taken a liberty in extending these words, is evident, from the consideration
+<pb n="2" facs="9"/>that the same words are more frequently used by his con<lb rend="hidden" type="hyphenInWord"/>temporaries, and by himself, without the additional syllable. Why he has taken this liberty with words in which <hi>l</hi> or <hi>r</hi> is subjoined, must be obvious to every one who can pro<lb rend="hidden" type="hyphenInWord"/>nounce the language.</p>
+            <q>
+               <p>
+                  <hi>Country,</hi> trisyllable.</p>
+               <q>
+                  <bibl>
+                     <hi>Twelfth Night,</hi> Act I. sc. 2.</bibl> The like of him. Know'st thou this <hi>country?</hi> 
+                  <note place="bottom" n="*">As a single instance is sufficient for my purpose, every additional one has been omitted.</note>
+               </q>
+               <p>
+                  <hi>Remembrance,</hi> quadrisyllable.</p>
+               <q>
+                  <bibl>
+                     <hi>Twelfth Night,</hi> Act I. sc. 1.</bibl> And lasting in her sad <hi>remembrance.</hi>
+               </q>
+               <p>
+                  <hi>Angry,</hi> trisyllable.</p>
+               <q>
+                  <bibl>
+                     <hi>Timon of Athens,</hi> Act III. sc. 5.</bibl> But who is man that is not <hi>angry?</hi>
+               </q>
+               <p>
+                  <hi>Henry,</hi> trisyllable.</p>
+               <q>
+                  <bibl>
+                     <hi>Rich.</hi> III. Act II. sc. 3.</bibl> So stood the state when <hi>Henry</hi> the Sixth.</q>
+               <p>
+                  <hi>Monstrous,</hi> trisyllable.</p>
+               <q>
+                  <bibl>
+                     <hi>Macbeth,</hi> Act IV. sc. 6.</bibl> Who cannot want the thought how <hi>monstrous.</hi>
+               </q>
+               <p>
+                  <hi>Assembly,</hi> quadrisyllable.</p>
+               <q>
+                  <bibl>
+                     <hi>Much ado about Nothing,</hi> Act V. sc. last.</bibl> Good mor<lb rend="hidden" type="hyphenInWord"/>row to this fair <hi>assembly.</hi>
+               </q>
+               <p>
+                  <hi>Douglas,</hi> trisyllable.</p>
+               <q>
+                  <bibl>1 Henry IV. Act V. sc. 2.</bibl> Lord <hi>Douglas,</hi> go you and tell him so.</q>
+               <p>
+                  <hi>England,</hi> trisyllable.</p>
+               <q>
+                  <bibl>
+                     <hi>Rich.</hi> II. Act IV. sc. 1.</bibl> Then Bolingbroke return to <hi>England.</hi>
+               </q>
+               <p>
+                  <pb n="3" facs="10"/>
+                  <hi>Humbler,</hi> trisyllable.</p>
+               <q>
+                  <bibl>1 Hen. VI. Act IV. sc. 1.</bibl> Methinks his lordship should be <hi>humbler.</hi>
+               </q>
+               <p>
+                  <hi>Nobler,</hi> trisyllable.</p>
+               <q>
+                  <bibl>Coriolanus, Act III. sc. 2.</bibl> You do the <hi>nobler. Cor.</hi> I muse my mother.</q>
+            </q>
+            <p>The learned and respectable writer of these observations is now unfortunately no more; but his opinions will not on that account have the less influence with the readers of the re<lb rend="hidden" type="hyphenInWord"/>vised edition of Shakspeare. I am therefor still at liberty to enforce the justice and propriety of my own sentiments, which I trust I shall be found to do with all possible deli<lb rend="hidden" type="hyphenInWord"/>cacy toward the memory and character of the ingenious gentleman from whom I have the misfortune to differ.</p>
+            <p>I humbly conceive, that upon more mature considera<lb rend="hidden" type="hyphenInWord"/>tion Mr. Tyrwhitt would have admitted, that if the me<lb rend="hidden" type="hyphenInWord"/>thod of printing the words in question were once proved to be right, it would be of little consequence whether the discovery had ever been adopted before, or could be follow<lb rend="hidden" type="hyphenInWord"/>ed in pronunciation, without the help of an entire new system of spelling: which in fact is the very object I mean to contend for; or rather for <hi>a system of spelling,</hi> as I am perfectly confident we have none at present, or at least I have never been able to find it. I shall have reason to think myself peculiarly unfortunate if, after my hypothe<lb rend="hidden" type="hyphenInWord"/>sis is allowed in its utmost extent, it will not prove what it was principally formed to do, viz. that Shakspeare has not taken a liberty in extending certain words to suit the purpose of his metre. But surely, if I prove that he has only written the words in question as they ought to be written, I prove the whole of my position, which of course should cease to be termed or considered an hypothesis. I may safely admit, that the words in question "are more frequently used by his contemporaries, and by himself, without the additional syllable;" but this will only shew, that his contemporaries and himself have more frequently
+<pb n="4" facs="11"/>taken the liberty of shortening those words than in writing them at length. Such a word as <hi>alarm'd,</hi> for instance, is generally, perhaps constantly, used by poets as a dissyl<lb rend="hidden" type="hyphenInWord"/>lable; and yet, if we found it with its full power, <hi>alarmed,</hi> we should scarcely say that the writer had taken a liberty in lengthening it a syllable. Thus too the word <hi>diamond</hi> is generally spoken as if two syllables; but it is certainly three, and is so properly given by Shakspeare:
+<q>Sir, I must have that <hi>diamond</hi> from you.</q>
+The words <hi>observation</hi> and <hi>affection</hi> are usually pronounced, the one as consisting of three, the other of four syllables; but each, notwithstanding, is really a syllable longer:
+<q>
+                  <l>With <hi>observation,</hi> the which he vents.</l>
+                  <l>Yet have I fierce <hi>affections</hi> and think.</l>
+               </q>
+But examples of this nature would be endless.</p>
+            <p>Of the words quoted by Mr. Tyrwhitt, as instances of the liberty taken by Shakspeare, those which I admit to be properly a syllable shorter, certainly obtained the same pro<lb rend="hidden" type="hyphenInWord"/>nunciation in the age of that author as he has annexed to them. Thus <hi>country, monstrous, remembrance, assembly,</hi> were not only pronounced in Shakspeares time, the two former as <hi>three,</hi> the other as <hi>four</hi> syllables, but <hi>are so still;</hi> and the reason, to borrow Mr. Tyrwhitts own words, "must be obvious to every one who can pronounce the language."</p>
+            <p>"<hi>Henry</hi> was not only usually pronounced (as indeed it is still) but frequently written as a trisyllable, even in prose. Thus in Dr. Huttons Discourse on the Antiquities of Ox<lb rend="hidden" type="hyphenInWord"/>ford, at the end of Hearnes <hi>Textus Roffensis,</hi>
+               <q>King <hi>Henery</hi> the eights colledge<note place="bottom" n="*">See, upon this subject, <hi>Wallisii Grammatica,</hi> p. 57.</note>.</q>
+            </p>
+            <p>That Mr. Tyrwhitt should have treated the words <hi>angry, humbler, nobler,</hi> used as trisyllables, among those which could "receive no support from the supposed ca<lb rend="hidden" type="hyphenInWord"/>non," must have been owing to the obscure or imperfect manner in which I attempted to explain it, as these are the
+<pb n="5" facs="12"/>very instances which the canon, if a canon it must be, is purposely made to support, or rather by which it is to be sup<lb rend="hidden" type="hyphenInWord"/>ported. This canon, in short, is nothing but a very short and simple rule of English grammar, which has been repeated over and over: Every word, compounded upon the prin<lb rend="hidden" type="hyphenInWord"/>ciples of the English language, always preserves the radical word unchanged. Thus <hi>humbler</hi> and <hi>nobler,</hi> for instance, are composed of the adjectives <hi>humble</hi> and <hi>noble,</hi> and <hi>er,</hi> the sign of the comparative degree; <hi>angry,</hi> of the noun <hi>anger,</hi> and <hi>y,</hi> the Saxon ig. In the use of all these as tri<lb rend="hidden" type="hyphenInWord"/>syllables Shakspeare is most correct; and that he is no less so in <hi>England,</hi> which used to be pronounced as three syllables, and is so still indeed with those who do not ac<lb rend="hidden" type="hyphenInWord"/>quire the pronunciation of their mother-tongue from the book, and speech certainly preceded writing, will be evi<lb rend="hidden" type="hyphenInWord"/>dent from the etymology, which should be more and attended to. Let us examine the word.—How is it to be divided? <hi>Eng-land,</hi> or <hi>En-gland?</hi> It will be evident that there is a defect somewhere: but write it as it should be written, <hi>En-gle-land,</hi> and you have the meaning and etymology of the word and the origin of the nation at first sight, from the Saxon Englalanda, the land or country of the <hi>Angles;</hi> as in <hi>Scotland, Ireland, Finland, Lapland,</hi> the country of the <hi>Scot,</hi> the Ine, the <hi>Fin,</hi> the <hi>Lap:</hi> and yet, in despite of all sense and reason, about half the words in the language are in the same awkward predicament.</p>
+            <p>I flatter myself I have completely justified this divine author from the charge of racking his words, as the tyrant did his captives. I hope too I have made it appear, that there is something defective and improper in the common methods of spelling, or rather mis-spelling. A learned and ingenious gentleman, who has undertaken a New Dic<lb rend="hidden" type="hyphenInWord"/>tionary of the language upon an excellent plan, will have it very much in his power to introduce a systematical re<lb rend="hidden" type="hyphenInWord"/>form, which, once established, would remain unvaried and invariable as long as the language endured. This John<lb rend="hidden" type="hyphenInWord"/>son might have had the honour of; but it is evident that he was very little acquainted with the principles and for<lb rend="hidden" type="hyphenInWord"/>mation
+<pb n="6" facs="13"/>of the words he undertook to explain. Every dic<lb rend="hidden" type="hyphenInWord"/>tionary, to be perfect, should display a system of orthogra<lb rend="hidden" type="hyphenInWord"/>phy, by dividing the words upon etymological principles. At first sight, one would think there was very little diffi<lb rend="hidden" type="hyphenInWord"/>culty in this; and yet I know not that any grammarian or lexicographer has attempted it. Something of this kind has been effected in Italy, France, and Spain, by the diffe<lb rend="hidden" type="hyphenInWord"/>rent academies there. And however violent the proposed reform may appear, it is certain, that if two or three of the first printers in London were to adopt it, it would cease to be remarkable in half a year: but till this is done, it does not seem worth the while of an individual to render <hi>his self</hi> singular, when he cannot see the least probability of being able to convince the public of the propriety of his conduct; and there seems no necessity for making such a matter as <hi>this</hi> a point of conscience.</p>
+            <p>P. 194.</p>
+            <q>
+               <sp>
+                  <speaker>Host.</speaker>
+                  <l>
+                     <note place="marg">REMARKS, p. 11.</note> By my <hi>hallidom</hi> I was fast asleep.</l>
+               </sp>
+            </q>
+            <p>That I should fall into an error myself, is perfectly na<lb rend="hidden" type="hyphenInWord"/>tural; but that I should have led the infallible editors of Shakspeare into one, is strange indeed. I had hastily sup<lb rend="hidden" type="hyphenInWord"/>posed <hi>hallidom</hi> to be a corruption of <hi>holy dame,</hi> i. e. the Blessed Virgin, as she is generally called. But it is not, being immediately from the Saxon haligdom, which, as I take it, means, my sentence at the general resurrection, or, as I hope to be saved <note place="bottom" n="*">I see too they have adopted my explanation of <hi>valanc'd</hi> (Re<lb rend="hidden" type="hyphenInWord"/>marks, p. 198.) which, either through ignorance or inattention, I had made to signify <hi>overhung with a canopy or tester like a bed;</hi> whereas it means <hi>furbelowed with a fringed curtain,</hi> like that which generally surrounds the said canopy or tester, and also the bed itself, and is to this day called the <hi>valance.</hi>
+               </note>.</p>
+         </div>
+         <div type="play">
+            <head>MERRY WIVES OF WINDSOR.</head>
+            <p>Vol. I. p. 252.</p>
+            <q>
+               <sp>
+                  <speaker>Slen.</speaker>
+                  <l>
+                     <note place="marg">REMARKS, p. 12.</note> Two <hi>Edward shovel-boards,</hi> that cost me two shillings and two-pence apiece.</l>
+               </sp>
+            </q>
+            <p>
+               <pb n="7" facs="14"/>My remark on this passage is considered by my anony<lb rend="hidden" type="hyphenInWord"/>mous friend in the following terms. "Dr. Farmers note, and the authority he quotes, might, I think, pass uncensured, unless better proofs could be produced in op<lb rend="hidden" type="hyphenInWord"/>position to them. They have, however, been objected to, and we are positively told, that Master Slenders "Edward shovel-boards have <hi>undoubtedly</hi> been <hi>broad shil<lb rend="hidden" type="hyphenInWord"/>lings of Edward the Third.</hi> I believe the broad shillings of that monarch were never before heard of, as he <hi>un<lb rend="hidden" type="hyphenInWord"/>doubtedly</hi> did not coin any shilling whatever."</p>
+            <p>Without attempting to palliate the gross blunder I was <hi>undoubtedly</hi> guilty of in the remark alluded to, I may be permitted to observe, that neither "Dr. Farmers note," nor "the authority he quotes," was censured in that re<lb rend="hidden" type="hyphenInWord"/>mark, unless difference in opinion necessarily imply cen<lb rend="hidden" type="hyphenInWord"/>sure. No one can have either less reason or less inclina<lb rend="hidden" type="hyphenInWord"/>tion to <hi>censure</hi> this respectable scholar and critic than my<lb rend="hidden" type="hyphenInWord"/>self: and I am confident that <hi>he</hi> would never have thought it necessary to defend either his notes or his authorities in such a stile as the above. By whom the English shilling was first coined, is a piece of knowledge from which the possessor can derive so little merit, that I should think my pleasant and gentlemanlike friend in the dark will scarcely dispute my having had opportunities of acquiring it: how I happened to make so ill a use of them is another matter; which I can neither apologise nor account for. And though I do not think the inaccuracy or inattention of one writer is any excuse for that of another, I may be permitted to notice a few similar slips, to prove my offence is not with<lb rend="hidden" type="hyphenInWord"/>out its parallels.</p>
+            <p>In vol. iii. p. 474, Boccaccio is said to be the inventor of the story of Patient Grissel, though Petrarch, to whom he had sent it, expressly tells him, that he had read the story in his infancy.</p>
+            <p>In vol, v. p. 153, the reader is referred to <hi>Matthew Pa<lb rend="hidden" type="hyphenInWord"/>ris,</hi> for the proof of a fact in the time of <hi>Richard the Se<lb rend="hidden" type="hyphenInWord"/>cond,</hi> above a century after the historians death.</p>
+            <p>
+               <pb n="8" facs="15"/>In vol. v. p. 266. King Henry IV. is asserted to be himself the last person that ever bore the title of Duke of Lancaster, though his son (afterwards Henry V.) is well known to have born it during the whole of his fathers reign.</p>
+            <p>In vol. v. p. 396. the <hi>Court of Wards,</hi> which was first erected by Henry <hi>VIII.</hi> is supposed to exist in the reign of King Henry <hi>IV.</hi>
+            </p>
+            <p>In vol. vi. p. 15. King Henry <hi>V.</hi> is made to address John Holland, Duke of Exeter, who was beheaded in the first year of King Henry <hi>IV.</hi>
+            </p>
+            <p>In p. 510 of the same volume, some lines from <hi>Robert of Gloucester</hi> are quoted as <hi>Geoffrey of Monmouths;</hi> "and then, as <hi>Geoffrey of Monmouth</hi> says."</p>
+            <p>I say, I only notice these instances, to prove that the mar<lb rend="hidden" type="hyphenInWord"/>gin of Shakspeare is no more infallible than the text of the Remarks; and consequently, that there was no great need of exultation on the detection of a single mistake.</p>
+            <p>P. 279.</p>
+            <q>
+               <sp>
+                  <speaker>Pist.</speaker>
+                  <l>
+                     <note place="marg">REMARKS, p. 14.</note> Hope is a <hi>curtail'd dog</hi> in some affairs.</l>
+               </sp>
+            </q>
+            <p>I believe I was not mistaken in asserting that <hi>excaudita<lb rend="hidden" type="hyphenInWord"/>tion</hi> was not, nor could be, in any case, ordained by the <hi>forest laws.</hi> But an expression of Sir Toby Belch—"call me <hi>cut</hi>"—having induced a suspicion, that curtailing or cutting the tail of either horse or dog, implied some degree of infamy of shame, I was glad to meet with a passage in <hi>Bracton,</hi> which may serve to give us a pretty clear idea of the matter. <hi>Of the punishment of a ravisher,</hi> says this an<lb rend="hidden" type="hyphenInWord"/>cient writer, <hi>according to the laws of the Romans, Franks, and</hi> ENGLISH, <hi>if he were a knight, his</hi> HORSE, <hi>to his dis<lb rend="hidden" type="hyphenInWord"/>grace, shall have the skin cut off the upper lip, and the</hi> TAIL OUGHT TO BE CUT OFF CLOSE TO THE BUTTOCK. <hi>So a</hi> DOG, <hi>if he have one with him,</hi> GREYHOUND, <hi>or other, shall be disgraced in the same manner</hi> 
+               <note place="bottom" n="*">L. 3. t. 2. c. 28.</note>." The injustice and ab<lb rend="hidden" type="hyphenInWord"/>surdity
+<pb n="9" facs="16"/>of this law will be sufficiently apparent. It how<lb rend="hidden" type="hyphenInWord"/>ever leads one to suppose, that in the feudal times the dis<lb rend="hidden" type="hyphenInWord"/>tinction between the horse or dog of a knight and that of a villain, appeared by the tail; and hence the term <hi>cut</hi> might be as reproachful as the word <hi>villain;</hi> the former imply<lb rend="hidden" type="hyphenInWord"/>ing the <hi>horse</hi> or <hi>dog</hi> of a <hi>clown,</hi> the latter the <hi>clown himself.</hi> A supposition chance may one day confirm.</p>
+         </div>
+         <div type="play">
+            <head>MEASURE FOR MEASURE.</head>
+            <p>Vol. II. p. 68.</p>
+            <p>Mr. Tyrwhitt, on reviewing his former note, did not,<note place="marg">REMARKS, p. 20.</note> he says, think so well of the conjecture in the latter part of it as he had done some years before, and therefore wish<lb rend="hidden" type="hyphenInWord"/>ed to withdraw it; but he was not inclined to adopt the idea of the author of the REMARKS, as he saw "no ground for supposing that Isabella <hi>had</hi> any <hi>mask in her hand;</hi>" his notion being, "that the phrase, <hi>these black masks,</hi> signifies nothing more than <hi>black masks;</hi> according to an old idiom of our language, by which the demonstrative pronoun is put for the prepositive article," and refers to his <hi>Glossary to Chaucer, This, These.</hi> "Shakspeare," he adds, "seems to have used the same idiom, not only in the passage quoted by Mr. Steevens from <hi>Romeo and Juliet;</hi> but also in <hi>First Henry IV.</hi> Act I. scene 3.
+<q>
+                  <l>— And but for <hi>these</hi> vile guns</l>
+                  <l>He would himself have been a soldier.</l>
+               </q>
+As to the quotation from <hi>Romeo and Juliet,</hi> I had already explained that, by the very construction Mr. Tyrwhitt has approved <note place="bottom" n="*">Remarks, p. 175.</note>. But I am not so well satisfied of the just<lb rend="hidden" type="hyphenInWord"/>ness of its application to the passage cited from <hi>First Henry IV.</hi> as, I conceive, Percy is repeating the words of one who spoke with <hi>those vile guns</hi> before his eye.</p>
+            <p>
+               <pb n="10" facs="17"/>Though this learned and ingenious commentator might see no ground for supposing that Isabella held a mask in her hand, it does not follow that the notion is entirely groundless. It was certainly the fashion in Shakspeares time, and perhaps long after, for ladies to wear masks; and as Isabella is about to take the veil, it may be probable that she could not consistently walk through the streets without a mask, which, on coming into Angelos presence, she would of course hold in her hand.</p>
+            <p>I am the rather confirmed that this is the true sense of the passage, from the frequency of Shakspeares allusions to the custom of wearing masks.</p>
+            <p>Thus, in the <hi>Two Gentlemen of Verona:</hi>
+               <q>And threw her fun-expelling <hi>mask</hi> away.</q>
+            </p>
+            <p>Again, in <hi>Troilus and Cressida,</hi> the latter enumerating her several wards or defences, says, she relies upon her <hi>mask</hi> to defend her <hi>beauty.</hi>
+            </p>
+            <p>Again, in <hi>Cymbeline:</hi>
+               <q>
+                  <l>— lads —</l>
+                  <l>With faces fit for <hi>masks,</hi> or rather fairer</l>
+                  <l>Than those for preservation cas'd or shame.</l>
+               </q>
+            </p>
+            <p>Again, in <hi>Othello:</hi>
+               <q>To fetch her fan, her gloves, her <hi>mask,</hi> nor nothing?</q>
+            </p>
+            <p>In <hi>Loves Labour Lost,</hi> the princess and ladies wear <hi>taffata masks;</hi> and Autolycus, in the <hi>Winters Tale, "masks</hi> for <hi>faces</hi> and for <hi>noses."</hi>
+            </p>
+            <p>I shall say nothing more as to the word <hi>enshield,</hi> than that I still think it to be a contraction for <hi>enshielded;</hi> but I shall be very willing to abate my confidence, when any autho<lb rend="hidden" type="hyphenInWord"/>rity is produced for the usage contended for, of <hi>en-shelld</hi> or <hi>in-shelld.</hi> No word, I conceive, ought to be displaced from the text by one equally objectionable; and every word in the old editions is to be deemed CERTAINLY Shakspeares, till the contrary appears.</p>
+         </div>
+         <div type="play">
+            <pb n="11" facs="18"/>
+            <head>MIDSUMMER NIGHTS DREAM.</head>
+            <p>Vol. III. p. 36.</p>
+            <q>
+               <sp>
+                  <speaker>Ob.</speaker>
+                  <l>The <hi>human mortals</hi> want their winter here.<note place="marg">REMARKS, p. 43.</note>
+                  </l>
+               </sp>
+            </q>
+            <p>In reply to the remark on this passage, the gentleman who has assumed the signature of "The Editor," after la<lb rend="hidden" type="hyphenInWord"/>menting the misfortune of the commentators and readers of Shakspeare, in having so much of their time employed in explaining and contradicting unfounded conjectures and assertions, produces and extract from Mr. Wartons <hi>Observations on Spensers Fairy Queen,</hi> to prove, that in Shakspeares time the notion of Fairies dying was gene<lb rend="hidden" type="hyphenInWord"/>rally known; and adds, that Tickells poem, called <hi>Ken<lb rend="hidden" type="hyphenInWord"/>sington Gardens,</hi> will shew that the opinion prevailed in the present century. A future editor of our author, he says, may, without any detriment to his work, omit this note, which he should have been better pleased to have had no occasion to incumber the page with.</p>
+            <p>Every person of feeling must surely sympathise with an editor of Shakspeare, who, contrary to the established practice of gentlemen in his situation, instead of the more agreeable employment of making unfounded conjectures and assertions, is reduced to the hard necessity of contra<lb rend="hidden" type="hyphenInWord"/>dicting them; more especially when, after all his toil and trouble, and writing about it and about it, the point is left pretty much the same as it was found. The real and oftensible editor of the revised edition is a person of too extensive reading, as well as of too much good sense, to quote the fanciful genealogies of Spenser, at second hand, to illustrate a popular superstition, with which, as he well knows, the <hi>Faerie Queene</hi> has not the remotest connection. No one who has read even a single canto of Spensers poem, can be ignorant of the dissimilarity between <hi>his</hi> Fairies and the Fairies of Shakspeare; or that a system, imagined to serve the purposes of allegory and allusion to real characters, has nothing in common with the vulgar opinion, to which in fact he has not been indebted for a
+<pb n="12" facs="19"/>single idea. Mr. Tickells poem I neither know where to find, nor think it worth my while to enquire after. I have such authority, however, for what the above candid and good-tempered pseudo-editor is pleased to call an un<lb rend="hidden" type="hyphenInWord"/>founded conjecture and assertion, that, far from being dis<lb rend="hidden" type="hyphenInWord"/>posed to retract and iota of what I have already advanced on the subject, I will venture to maintain the propriety of my opinion in its fullest extent, viz. that the Fairies of Shak<lb rend="hidden" type="hyphenInWord"/>speare and the common people are immortal, and were never esteemed otherwise. And, first, to shew how little Spenser is to be regarded as an authority in the matter, it will be only necessary to have recourse to the doctrine of that poets master, the inimitable Ariosto, who expressly tells us that a Fairy <hi>can not</hi> die:
+<q>
+                  <l>Morir non puote alcuna Fata mai,</l>
+                  <l>Fin che'l Sol gira, ò il ciel non muta stilo.</l>
+                  <l>. . . . . .</l>
+                  <l>Ma le Fate morir sempre non ponno <note place="bottom" n="*">Orlando Furioso, c. 10. f. 56.</note>
+                  </l>
+               </q>
+            </p>
+            <p>The character of a Fairy in the old Romances <note place="bottom" n="†">See particularly <hi>Histoire de Mélusine;</hi> of which there is a very ancient English translation in the Museum.</note>, like that of the acient Wood-nymphs, unites the ideas of power and beauty, and such are the Fairies of Ariosto and Spen<lb rend="hidden" type="hyphenInWord"/>ser; as Shakspeare himself evidently knew, when he made Mark Antony say,
+<q>To this <hi>great Fairy</hi> I'll commend thy acts.</q>
+It is to this species of Fairies that Milton alludes, where he speaks of
+<q>
+                  <l>—Fairy damsels met in forest wide,</l>
+                  <l>By knights of Logres and of Liones,</l>
+                  <l>Lancelot, or Pelleas, or Pellenore.</l>
+               </q>
+The Fairies, on the contrary, of the <hi>Midsummer Nights Dream,</hi> according to a beautiful passage of the same au<lb rend="hidden" type="hyphenInWord"/>thor, are,
+<q>
+                  <l>—Faerie elves,</l>
+                  <l>Whose midnight revels, by a forest side,</l>
+                  <l>
+                     <pb n="13" facs="20"/>Or fountain, some belated peasant sees,</l>
+                  <l>Or dreams he sees, while over head the moon</l>
+                  <l>Sits arbitress, and neerer to the earth</l>
+                  <l>Wheels her pale course; they, on thir mirth and dance</l>
+                  <l>Intent, with jocond music charm his ear;</l>
+                  <l>At once with joy and fear his heart rebounds.</l>
+               </q>
+            </p>
+            <p>Beaumont and Fletcher, I should conceive as good a voucher for the popular opinion of Shakspeares time as either Spenser or Tickell. And see what they say in the <hi>Faith<lb rend="hidden" type="hyphenInWord"/>ful Shepherdess:</hi>
+               <q>
+                  <l>A virtuous well, about whose flow'ry banks</l>
+                  <l>The nimble-footed Fairies dance their rounds</l>
+                  <l>By the pale moon-shine, dipping oftentimes</l>
+                  <l>Their stolen children, <hi>so to make 'em free</hi>
+                  </l>
+                  <l>
+                     <hi>From dying flesh, and dull mortality.</hi>
+                  </l>
+               </q>
+Pretty conclusive evidence this, one should think! There is, indeed, a foolish Romance, intitled <hi>Huon de Bourdeaux,</hi> which had been turned into English long before Shak<lb rend="hidden" type="hyphenInWord"/>speares time, where Oberon, king of the Fairies, is made to dye and bequeath his dominions to Huon. And Mr. Steevens (vol. iii. 135.) mentions his having been inform<lb rend="hidden" type="hyphenInWord"/>ed, that the originals of Oberon and Titania are to be sought in this romance. They may be there sought, in<lb rend="hidden" type="hyphenInWord"/>deed, but I know, by woeful experience, they are not there to be found.</p>
+            <p>Shakspeare, I am convinced, was upon this occasion in<lb rend="hidden" type="hyphenInWord"/>debted to no book whatever; unless it were the great book of society, which he perused and studied with so much care. And that he himself has expressly represented his Fairies im<lb rend="hidden" type="hyphenInWord"/>mortal, will appear from the following quotations, which could only have escaped the notice of a supposititious editor, less attentive to his authors text than tenacious of the mis<lb rend="hidden" type="hyphenInWord"/>takes of his predecessors of himself.</p>
+            <q>
+               <sp>
+                  <speaker>1 <hi>Fairy.</hi>
+                  </speaker>
+                  <stage>[to <hi>Bottom.</hi>]</stage>
+                  <l>Hail, <hi>mortal,</hi> hail!</l>
+               </sp>
+               <p>. . . . . . . .</p>
+               <sp>
+                  <speaker>Puck.</speaker>
+                  <l>Believe me, king of <hi>shadows,</hi> I mistook.</l>
+               </sp>
+               <sp>
+                  <pb n="14" facs="21"/>
+                  <speaker>Ob.</speaker>
+                  <l>But we are <hi>spirits</hi> of another sort.</l>
+               </sp>
+               <p>. . . . . . . .</p>
+               <sp>
+                  <speaker>Puck.</speaker>
+                  <l>If we <hi>shadows</hi> have offended.</l>
+               </sp>
+            </q>
+            <p>I have only to add, that the editor might, without any detriment to his work, have omitted the above note; but I cannot think that the <hi>page</hi> has any particular reason to complain of the incumbrance, as it would be no difficult matter to point out several hundreds groaning under an equal burthen.</p>
+         </div>
+         <div type="play">
+            <head>MERCHANT OF VENICE.</head>
+            <p>Vol. III. p. 160.</p>
+            <p>The editor,<note place="marg">REMARKS, p. 50.</note> or some one under his signature, attempts to support Mr. Steevens by a quotation from an old book, which seems little or nothing to the purpose. The words <hi>use, usance,</hi> and <hi>usury,</hi> in the time of Shakspeare, appear to have had one and the same meaning, and to have signified precisely what <hi>interest</hi> does at present. Mr. Steevens, by employing the word <hi>usury</hi> in its present sense, makes the Jew condemn himself. And it may be observed, that An<lb rend="hidden" type="hyphenInWord"/>tonio in this play does not censure the practice of taking <hi>excessive interest,</hi> but that of taking interest at all; which has been frequently condemned by others as Jewish and Anti-christian.</p>
+         </div>
+         <div type="play">
+            <head>ALL'S WELL THAT ENDS WELL.</head>
+            <p>Vol. IV. p. 136.</p>
+            <q>
+               <sp>
+                  <speaker>Lafeu.</speaker>
+                  <stage>(to <hi>Parolles.</hi>)</stage>
+                  <l>Prithee, allow the wind.</l>
+               </sp>
+            </q>
+            <p>"<hi>Allow the wind.</hi>] i. e. stand to the <hi>windward</hi> of me▪ STEEVENS."</p>
+            <p>
+               <hi>That</hi> to be sure would be allowing the wind with a ven<lb rend="hidden" type="hyphenInWord"/>geance! Lafeu means, however, the exact reverse; <hi>i. e.</hi> that Parolles should allow the wind a free passage; or (to
+<pb n="15" facs="22"/>keep to the sea term) stand to the <hi>leeward</hi> of him; as Mr. Steevens, if he had not been misled by his friend Johnsons Dictionary, sufficiently fruitful in such like mistakes, might probably have explained it.</p>
+         </div>
+         <div type="play">
+            <head>TWELFTH NIGHT.</head>
+            <p>Vol. IV. p. 163.</p>
+            <q>
+               <l>How will she love—when liver, brain, and heart,</l>
+               <l>These sovereign thrones, are all supply'd and fill'd,</l>
+               <l>(Her sweet perfections) with one <hi>self-same</hi> king.</l>
+            </q>
+            <p>"The original and authentic copy," says Mr. Malone (as he is become fond of calling the <hi>first</hi> folio, since the <hi>second</hi> has been the means of detecting so many of his mistakes) "reads—with one <hi>self</hi> king. <hi>Same,</hi>" he says, "was added unnecessarily by the editor of the second folio, who in many instances appears to have been equally ignorant of our authors language and metre." Though this charge were as true as it is otherwise; and though the editor of the se<lb rend="hidden" type="hyphenInWord"/>cond folio had understood our authors language and metre as imperfectly as the learned gentleman himself appears to do, the present alteration would be no instance of it. But see how this ingenious critic explains the passage! <hi>"Self king,"</hi> says he, "is <hi>king o'er HERself;</hi> one who reigns absolute in her bosom." <hi>King o'er herself</hi> may, for any thing I know, be very good <hi>Irish;</hi> but on would think it ought to be <hi>Queen o'er herself,</hi> to make it good <hi>English.</hi> But, this by the way, I should I should be glad to know if it be possible for any person who has read but two lines of Shakspeare; and has but two grains of common sense, to betray stronger symptoms of a very imperfect acquaintance with his sense, language, metre, or any thing else. As to the metre, the additional syllable, though not absolutely necessary, per<lb rend="hidden" type="hyphenInWord"/>haps, is certainly an improvement; the word <hi>perfections</hi> must otherwise have been pronounced as four syllables,
+<pb n="16" facs="23"/>which, though not unusual with Shakspeare, is far from being harmonious. As to the sense, that is left pretty much as it was: the compound <hi>self-same</hi> had come into use in Shakspeares time, instead of the ancient adjective <hi>self:</hi> he uses both frequently; as Mr. Malone, if he will take the trouble to read him over for the purpose, may for certainty know. And the meaning of the passage, if indeed it be at all necessary to explain what no one perhaps but Mr. Ma<lb rend="hidden" type="hyphenInWord"/>lone can possibly misconceive, is merely and simply this: when these sovereign thrones, are all supplied and fill'd with <hi>one and the same king,</hi> i. e. LOVE.</p>
+         </div>
+         <div type="play">
+            <head>MACBETH.</head>
+            <p>Vol. IV. p. 473.</p>
+            <q>
+               <sp>
+                  <speaker>Macb.</speaker>
+                  <l>
+                     <note place="marg">REMARKS, p. 71.</note> The <hi>prince of Cumberland.</hi>
+                  </l>
+               </sp>
+            </q>
+            <p>Mr. Steevens having observed that the crown of Scot<lb rend="hidden" type="hyphenInWord"/>land was originally not hereditary; and that when a suc<lb rend="hidden" type="hyphenInWord"/>cessor was declared in the lifetime of the king, the title of <hi>prince of Cumberland</hi> was immediately bestowed on him as the mark of his designation, I took the liberty to question the propriety of this observation; and to assert, that the crown of Scotland had been hereditary for ages before Dun<lb rend="hidden" type="hyphenInWord"/>can—nay, from the very foundation of the Scotish monar<lb rend="hidden" type="hyphenInWord"/>chy; that the <hi>apparent</hi> or <hi>presumptive heir</hi> was always the known and declared successor; and that the kings <hi>eldest son,</hi> or grandson (<hi>i. e.</hi> the heir apparent for the time being) alone was <hi>prince of Cumberland.</hi> Mr. Steevens had originally quoted <hi>Hollinshed;</hi> and Mr. Malone, in the revised edition, <hi>supports him,</hi> by a quotation from <hi>Bellendens translation of Boetius,</hi> which Hollinshed copied. I have said that it should seem, from the play, that Malcolm was the <hi>first</hi> who had the title of <hi>prince of Cumberland;</hi> and so it does; though this was certainly not the case, as Malcolm, son of Donald VI. afterwards Malcolm I. is by the Scotish historians express<lb rend="hidden" type="hyphenInWord"/>ly asserted to have born it in the reign of Constantine III.
+<pb n="17" facs="24"/>(<hi>anno</hi> 903.) who appointed that thenceforward the heir apparent to the crown of Scotland for the time being should possess that country, as his appanage. Shakespeares mis<lb rend="hidden" type="hyphenInWord"/>take may be easily accounted for.</p>
+            <p>Mr. Steevens, I see, has added, that "<hi>Cumberland</hi> was <hi>at that time</hi> held by <hi>Scotland</hi> of the crown or <hi>England</hi> as a <hi>fief;</hi>" but I fancy he will find that fiefs were <hi>at that time,</hi> and long after unknown in either country <note place="bottom" n="*">It might be a custom in Denmark, when the blood royal was extinct, to elect a successor; and to this Hamlet may allude when he bequeaths his dying voice to Fortinbras. So in <hi>Amadis de <gap resp="#pdcc" extent="4 letters" rend="content:••••">
+                        <desc>illegible</desc>
+                     </gap>le,</hi> 1618: "Laucine (king of <hi>Swetia</hi>) dying <hi>without heires,</hi> Gasquilan, beeing knowne in many places to bee one of the most gentle knights that the world yeelded, was called by them of Swetia, and elected to bee their king." B. iv. c. 17. It may be added, that Gasquilan was son of Laucines sister; but then it must be presumed that females or their issue were incapable of inheriting the crown of <hi>Swetia,</hi>
+               </note>.</p>
+         </div>
+         <div type="play">
+            <head>KING JOHN.</head>
+            <p>Vol. V. p. 72.</p>
+            <p>I think it proper to acknowlege that Mr. Malone has produced a sufficient number of instances to justify his as<lb rend="hidden" type="hyphenInWord"/>sertion,<note place="marg">REMARKS; p. 238.</note> that <hi>one</hi> and <hi>on</hi> are perpetually confounded in the old copies, (so far at least, that <hi>on</hi> is frequently misprinted for <hi>one</hi>) which I confess, as I was not hunting after such trifles, had escaped my observation: but what end it has answered, save as an instance of this ingenious gentlemans industry, I am at a total loss to conceive; as I have suffici<lb rend="hidden" type="hyphenInWord"/>ently proved that <hi>one,</hi> both in and long before Shakspeares time, had obtained the same pronunciation it does at pre<lb rend="hidden" type="hyphenInWord"/>sent.</p>
+         </div>
+         <div type="play">
+            <head>RICHARD THE SECOND.</head>
+            <p>P. 191.</p>
+            <q>
+               <sp>
+                  <speaker>Buck.</speaker>
+                  <l>My lord of Hereford, my message is to you.</l>
+               </sp>
+               <sp>
+                  <speaker>Bolin.</speaker>
+                  <l>My lord, my answer is — to Lancaster.</l>
+               </sp>
+            </q>
+            <p>
+               <pb n="18" facs="25"/>This significant dash appears to have been adopted on the credit of the critical acumen of Mr. Malone. As the line was before printed, he observes, the sense was obscure; which, as he, doubtless, means to himself, we may very readily believe. How this same dash was to illumine the passage, we might however have still been at a loss to disco<lb rend="hidden" type="hyphenInWord"/>ver, if the ingenious commentator had not been pleased to explain it for the benefit of more opaque intellects; which he does as follows: "Your message, you say, is to my lord of <hi>Hereford.</hi> My answer is—It is not to him; it is to the duke of <hi>Lancaster.</hi>" Now it is conceived that there was scarcely a single reader of Shakspeare, since he first begun to be read, excepting this ingenious gentleman, who could have hesitated a moment at the line as it origi<lb rend="hidden" type="hyphenInWord"/>nally stood. The sense of it at present, indeed, even though we be <hi>edified by the margin,</hi> seems confined to the <hi>professed critic.</hi>
+            </p>
+            <p>My lord of <hi>Hereford,</hi> says Berkeley, I have a message for you. My lord, says Bolingbroke, I answer to no name but <hi>Lancaster;</hi>
+               <q>
+                  <l>And I must find <hi>that title in your tongue</hi>
+                  </l>
+                  <l>Before I make reply to aught you say.</l>
+               </q>
+And yet Mr. Malone fancies himself such a proficient in our author, that he has advertised, and, as I understand, is even about to publish his own edition of him; in which we may expect to meet with a few hundred such proofs of the editors peculiar sagacity.</p>
+            <p>P. 198,</p>
+            <q>
+               <sp>
+                  <speaker>Boling.</speaker>
+                  <l>
+                     <hi>Dispark'd</hi> my parks and fell'd my forest woods.</l>
+               </sp>
+            </q>
+            <p>"To <hi>dispark,</hi>" Mr. Steevens observes, "is to throw down the hedges of an enclosure—<hi>diss<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>pio;</hi>" which seems a strange sort of an explanation of a very common word. Every field is an enclosure; but no one ever heard of the <hi>disparking</hi> of a <hi>field.</hi> To <hi>dispark</hi> is merely to <hi>unpark;</hi> to
+<pb n="19" facs="26"/>make that which was a park a no more; and this is done by throwing down the <hi>pales</hi> and laying it open. Mr. Steevens says he met with word in <hi>Barrets Dictionary,</hi> 1580. It would be difficult, perhaps, to mention a dic<lb rend="hidden" type="hyphenInWord"/>tionary in which he could not meet with it.</p>
+            <p>P. 200.</p>
+            <lg>
+               <l>And when they from they bosom pluck a flower,</l>
+               <l>
+                  <hi>Guard it,</hi> I pray thee, <hi>with a lurking adder.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>"Guard it,</hi> signifies here, as in many other places, <hi>line it."</hi> MALONE.</p>
+            <p>Mr. Malone is very industrious in accumulating instances of the use of any particular word; will he be so good as point out to us, in <hi>his</hi> edition, one or two of the senses he here imputes to the word <hi>guard?</hi> One does not much regard his opinions or his assertions, but one is always glad to see his proofs. In the mean time, I shall be persuaded that, by <hi>guarding it with a lurking adder,</hi> Shakspeare meant placing an adder in the flower by way of <hi>guard;</hi> putting a soldier in it.</p>
+            <p>P. 227.<note place="marg">REMARKS, p. 86.</note>
+            </p>
+            <q>
+               <sp>
+                  <speaker>Fitz.</speaker>
+                  <l>— my <hi>rapiers</hi> point.</l>
+               </sp>
+            </q>
+            <p>In answer to the REMARK on this passage, the Editor of the revised edition, or rather his skulking friend, observes, that "it is probable that Dr. Johnson did not see the necessity of citing any authority for a fact so well known, or suspect that any person would demand one. If an authority how<lb rend="hidden" type="hyphenInWord"/>ever only is wanted," he says, "perhaps the following may be deemed sufficient to justify the Doctors observation,—"at that time two other Englishmen, sir W. Stanley and Rowland York, got an ignominious name of traytors, This Yorke, borne in London, was a man most negligent
+<pb n="20" facs="27"/>and lazy, but desperately hardy; he was in his time the most famous of those who respected fencing, having been <hi>the first</hi> that brought into England <hi>that wicked and perni<lb rend="hidden" type="hyphenInWord"/>cious fashion</hi> to fight in the fields in duels <hi>with a rapier called a tucke onely for the thurst. The English having till that very time used to fight with backe swords, slashing and cutting one the other armed with targets or bucklers with very broad weapons, accounting it not to be a manly action to fight by thrusting and stabbing, and chiefly under the waste." Dar<lb rend="hidden" type="hyphenInWord"/>cies Annals of Queen Elizabeth,</hi> 4to, 1623, p. 223. sub anno 1587.</p>
+            <p>"Again, in <hi>Bulleines Dialogue between Soarnesse and Chirurgi,</hi> fol. 1579, p. 20. "There is a <hi>new</hi> kynd of in<lb rend="hidden" type="hyphenInWord"/>struments to let bloud withall, whych brynge the bloud letter some tyme to the gallowes, because hee stryketh to deepe. These instruments are called the ruffins tucke and <hi>long foining rapier:</hi> weapons more malicious than manly."</p>
+            <p>That Dr. Johnson did not see the necessity of citing any authority to convict Shakspeare of this anachronism, or suspect that any person would demand one, is a little to the purpose as it is true that the fact is well known. If Dr. Johnson had been possessed of any authority, there can be no doubt that he would have produced it; but, how<lb rend="hidden" type="hyphenInWord"/>ever confident he may be in his assertions, no one was ever more ignorant of the manners either of Shakspeares age or of the ages preceding it. But ignorant as he was, it would not have been difficult for him to have found autho<lb rend="hidden" type="hyphenInWord"/>rities, which make as little in his favour as those brought forward in the revised edition. Dr. Johnson has taken upon himself to assert that the Rapier was a weapon not seen in England till 1599, that is, two centuries after the time of which Shakspeare was writing, and two years after the publication of this identical play; an assertion which the author of the above note, out of his zeal for the credit of Dr. Johnson, has pronounced a <hi>notorious fact,</hi> and produced what he calls a sufficient authority to
+<pb n="21" facs="28"/>justify it. This authority, however, proves at most no more than that <hi>a rapier,</hi> called <hi>a tucke</hi> "onely for the thurst," had been introduced by a person who was hanged in 1587, and that <hi>"the long foining rapier"</hi> was a new kind of instrument in 1579. The <hi>rapier</hi> NOT called a <hi>tucke,</hi> and for something more than the <hi>thurst</hi> or the <hi>long foin,</hi> might, for any thing that yet appears to the contrary, have been an ordinary weapon long before either Yorke <note place="bottom" n="*">It should appear from Ca<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>letons <hi>Thankful Remembrance of Gods Mercy,</hi> 1625, as quoted by Mr. Malone in the notes to the <hi>Merry Wives of Windsor</hi> (vol. i. p. 296) that York "was ..famous.. for bringing in a new kind of fight—to run the point of a <hi>rapier</hi> into a mans body. This manner of sight <hi>he</hi> brought <hi>first</hi> into England, &amp;c." That is, as I understand it, he did not bring the rapier itself into Eng<lb rend="hidden" type="hyphenInWord"/>land, but only this new meanner of fighting with it.</note>, Bulleine, or Shakspeare was born. But supposing it was not, what then? Shakspeare could have made use of the word <hi>rapier</hi> as a general name for a <hi>sword,</hi> the species for the genus; and Dr. Johnson might with equal propriety have objected to Julius Caesars speaking English.</p>
+            <p>Shakspeare has so many anachronisms to answer for, that some people seem to think it is no matter how many, real or pretended, they add to the number; which, as his sincere admirer, I am anxious should not be wantonly increased. I will not, indeed, assert, that the <hi>rapier</hi> was actually known in this country under that very name in the time of king Richard the Second; but I shall certainly think it sufficient to prove, that it was familiar to us long before the time at which Shakspeare wrote; and let Dr. Johnsons advocate shew why both the poet and his readers have not a right to presume it was so in the times of which he was writing.</p>
+            <p>The fact I take to be this: the ancient rapier was a long two-edged sharp-pointed weapon, essentially different from that mentioned by Darcy and Bulleine, which was for the <hi>thrust only,</hi> whereas the other was for <hi>both blow and thrust.</hi> In a note to <hi>Much ado about Nothing</hi> (vol. ii. p.
+<pb n="22" facs="29"/>263.) Mr. Steevens produces an extract from an old ma<lb rend="hidden" type="hyphenInWord"/>nuscript in the Sloane Library, "which seems," he says, "to be the fragment of a register formerly belonging to some of our schools, where the "noble Science of Defence was taught," from the year 1568 to 1583;" in which we find the following entry: "Item a challenge playde before the KINGS MAJESTIR (EDWARD VI.) at Westminster.. at seven kynde of weapons. That is to say,... the RA<lb rend="hidden" type="hyphenInWord"/>PIER and TARGET, the <hi>rapier</hi> and <hi>cloke,</hi> &amp;c." And in another place Mr. Steevens, giving an account of this ma<lb rend="hidden" type="hyphenInWord"/>nuscript, expressly tells us that RAPIER and TARGET, <hi>rapier</hi> and <hi>cloke, rapier</hi> and <hi>dagger,</hi> were among the wea<lb rend="hidden" type="hyphenInWord"/>pons used in the fencing school. This I should conceive a sufficient and satisfactory proof, even to the gentleman who has so zealously undertaken to support the random and groundless assertion of Dr. Johnson, that the <hi>rapier</hi> alluded to by Shakspeare was not <hi>a long foining tucke onely for the thurste;</hi> and that he has not given "to the English nobles a weapon which was not seen in England till two centuries afterwards."</p>
+            <p>Independent of this adventitious assistance, Shakspeare himself has given such a description of the rapier he meant, as could scarcely be overlooked but by an annotator less de<lb rend="hidden" type="hyphenInWord"/>sirous to illustrate his author than to support the absurdities of an editor. Thus in <hi>Twelfth Night</hi> (vol. iv. p. 254.)
+<q>He is knight dubb'd with <hi>unhack'd rapier:</hi>
+               </q>
+               <hi>i. e.</hi> a rapier or sword that has never struck a blow in the field; with a smooth edge: an expression perfectly inappli<lb rend="hidden" type="hyphenInWord"/>cable to a small sword, or <hi>long foining rapier, onely for the thurst.</hi> So in <hi>Antony and Cleopatra:</hi>
+               <q>To part with <hi>unhack'd edges.</hi>
+               </q>
+            </p>
+         </div>
+         <div type="play">
+            <pb n="23" facs="30"/>
+            <head>FIRST PART OF HENRY THE FOURTH.</head>
+            <p>Vol. V. p. 313.</p>
+            <q>
+               <sp>
+                  <speaker>1 <hi>Car</hi>
+                  </speaker>
+                  <l>. . . . <hi>Charles' Wain</hi> is over the new chimney<note place="marg">REMARKS, p. 90.</note>.</l>
+               </sp>
+            </q>
+            <p>Having professed my obligation to a learned friend for a very ingenious etymology of <hi>Charles's Wain,</hi> I think it proper to mention that the same etymology had been already given by Dr. Hickes, and is to be sound in Thoresbys <hi>Ducatus Leodiensis;</hi> so that I have possibly ascribed to my learned friend the merit of a discovery which he was not intitled to, and never meant to claim, and for which of course he would be very little obliged to me.</p>
+            <p>P. 342.</p>
+            <p>"That the sweet wine, at present called <hi>sack,</hi>
+               <note place="marg">REMARKS, p. 92.</note> is defferent from Falstaffs favourite liquor," the editor is "by no means convinced." It would indeed be wonderful enough if he were; as there is nothing more difficult, or rather less possible, than to convince an Editor—when he is in the wrong. He is therefor inclined to believe that the Eng<lb rend="hidden" type="hyphenInWord"/>lish of our authors time drank <hi>Canary,</hi> the sweetest of wines, with <hi>sugar.</hi> I suppose they eat their <hi>honey</hi> with it too. That the <hi>sack.</hi> however, mentioned and meant by Shak<lb rend="hidden" type="hyphenInWord"/>speare is NOT the <hi>sack</hi> of this day, will be evident to all but the Editor, by a passage in one of the notes to his own edition (vol. iv. p. 174.) where it is said that <hi>Moll Cut<lb rend="hidden" type="hyphenInWord"/>purse,</hi> ("a notorious baggage that used to go in mans ap<lb rend="hidden" type="hyphenInWord"/>parel") when brought up to do penance at Pauls Cross, where she "wept bitterly and seemed very penitent," was, it was afterwards doubted, maudlin drunk, having been "discovered to have tippel'd of THREE QUARTS OF SACK, before she came to her penance." Let the Editor try if he can drink ONE QUART. Falstaff himself puts the matter out of doubt, where, in his enumeration of the excellencies
+<pb n="24" facs="31"/>of his favourite beverage, he expressly calls it <hi>Sherris.</hi> (See 2. Hen. IV. Act iv. scene 3.) Indeed, if it were possible for the Editor to be right in his persuasion, and certain jolly fellow could never have sung:
+<q>
+                  <l>My friend and I we drank <hi>whole piss-pots</hi>
+                  </l>
+                  <l>Full of SACK up to the brim;</l>
+                  <l>I drank to my friend, and he drank his pot,</l>
+                  <l>So we put about the whim:</l>
+                  <l>
+                     <hi>Nine bottles and a quart</hi> we swallow'd down our throat,</l>
+                  <l>But hang such <hi>puny sips</hi> as these,</l>
+                  <l>We laid us all along, with our mouths unto the bung,</l>
+                  <l>And we tipp'd <hi>whole hogsheads</hi> off with ease.</l>
+               </q>
+            </p>
+            <p>P. 375.</p>
+            <p>This is the second place in which Mr. Steevens in<lb rend="hidden" type="hyphenInWord"/>troduces what I conceive a very erroneous explanation of the word <hi>mould-warp;</hi> and I flatter myself he will not be offended with an attempt to set him right. "The <hi>mould-warp,</hi>" he says, "is the <hi>mole,</hi> so called because it renders the surface of the earth <hi>unlevel</hi> by the hillocks which it raises." It certainly is not so called from that circum<lb rend="hidden" type="hyphenInWord"/>stance. The name arises from, and is expressive of the circumstance of the animal <hi>warping,</hi> or turning, the <hi>mould</hi> over the surface of the ground, which is actually the case.</p>
+         </div>
+         <div type="play">
+            <head>KING HENRY THE FIFTH.</head>
+            <p>Vol. VI. p. 18.</p>
+            <q>
+               <sp>
+                  <speaker>Cant.</speaker>
+                  <l>— also king Lewis the <hi>ninth.</hi>
+                     <note place="marg">REMARKS, p. 103.</note>
+                  </l>
+               </sp>
+            </q>
+            <p>Shakspeare wrote <hi>tenth</hi> (as the text is now corrected) and I have contended that he was right, and the alteration wrong. I since find that the latter is in some respect right <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> and that our old historians (<hi>i. e.</hi> Fabian, Hollinshed,
+<pb n="25" facs="32"/>&amp;c.) are a unit above the French account. I really do not know for what reason this is so, but it runs strongly in my mind that Fabian has somewhere explained it, though I was unable to find the passage a second time.</p>
+            <p>P. 31.</p>
+            <p>
+               <hi>Living hence.</hi>] The REMARK upon this passage being clear and intelligible, and indeed the only construction it is capable of, Mr. Malone, with his usual diffidence, ob<lb rend="hidden" type="hyphenInWord"/>serves that "if <hi>hence</hi> means <hi>here,</hi> any one word, as Dr. Johnson has somewhere observed, may stand for another. It <hi>undoubtedly,"</hi> he adds, "does <hi>not</hi> signify <hi>here</hi> in the present passage; and, if it did, it would render what follows, nonsense." And this, it is supposed, the learned gentle<lb rend="hidden" type="hyphenInWord"/>man offers as a convincing argument—and so indeed it may be, that he understands the passage neither as it is nor as it should be. Why has not HE attempted to explain it? But, alas, we know by experience that such attempts, however they may increase difficulties, are ill calculated to remove them.</p>
+            <p>Not to regard the misconceptions of this most erring commentator by too formal notices, it may suffice to enter<lb rend="hidden" type="hyphenInWord"/>tain the reader with the following specimens of his singular sagacity and acuteness:</p>
+            <q>
+               <bibl>AS YOU LIKE IT. Vol. iii. p. 331.</bibl> As friend remembered not.</q>
+            <q>
+               <hi>Remember'd</hi> for <hi>remembering.</hi> 
+               <bibl>MALONE.</bibl>
+            </q>
+            <q>
+               <bibl>MIDSUMMER NIGHTS DREAM. Vol. iii. p. 116.</bibl> Make <hi>periods</hi> in the midst of <hi>sentences.</hi>
+            </q>
+            <q>It should be observed, <hi>periods</hi> in the text is used in the sense of <hi>full stops.</hi> 
+               <bibl>MALONE.</bibl>
+            </q>
+            <p>
+               <pb n="26" facs="33"/>
+Nothing can be more worthy of observation than such a comment.</p>
+            <q>
+               <bibl>JULIUS CAESAR. Vol. viii. p. 105.</bibl>
+               <l>— they—come down</l>
+               <l>With <hi>fearful bravery,</hi> thinking, by this face,</l>
+               <l>To fasten in our thoughts that the have <hi>courage.</hi>
+               </l>
+            </q>
+            <q>
+               <hi>With fearful bravery—]</hi> That is, <hi>with a gallant shew of courage, carring with it terror and dismay. Fearful</hi> is used here, as in many other places, in a active sense— <hi>producing fear—intimidating.</hi> 
+               <bibl>MALONE.</bibl>
+            </q>
+            <p>How the word <hi>fearful</hi> may be used in other places I do not know: but if it have any meaning at all in this place, it is simply <hi>full of fear;</hi> and <hi>fearful bravery</hi> is a shew of courage, hiding a cowardly heart. Anthonys language is certainly the essence of <hi>terror</hi> and <hi>dismay.</hi>
+            </p>
+            <p>In p. 139 of the same volume, he says that the word <hi>charge</hi> is "abbreviated in old English MSS. <hi>chāge."</hi> I think I know enough both of abbreviations and old Eng<lb rend="hidden" type="hyphenInWord"/>lish MSS. to enable me to pronounce, that such an abbre<lb rend="hidden" type="hyphenInWord"/>viation of <hi>charge</hi> is not, nor ever was to be met with in any.</p>
+            <q>
+               <bibl>TROILUS AND CRESSIDA. Vol. ix. p. 38.</bibl>
+               <l>— like a strutting player, whose conceit</l>
+               <l>Lies in his hamstring, and doth think it rich</l>
+               <l>To hear the <hi>wooden dialogue</hi> and <hi>sound</hi>
+               </l>
+               <l>'Twixt <hi>his stretch'd footing</hi> and the <hi>scaffoldage.</hi>
+               </l>
+            </q>
+            <q>The <hi>galleries</hi> of the theatre, in the time of our author, were sometimes termed <hi>the scaffolds.</hi> 
+               <bibl>MALONE.</bibl>
+            </q>
+            <p>Shakspeare alludes to the <hi>clamping</hi> of the <hi>players buskins</hi> upon the <hi>stage.</hi> The wooden meaning of the note, I fear must be left to its authors own comprehension.</p>
+         </div>
+         <div type="play">
+            <pb n="27" facs="34"/>
+            <head>HENRY THE FIFTH.</head>
+            <p>Vol. VI. p. 76.</p>
+            <q>
+               <sp>
+                  <speaker>Flu.</speaker>
+                  <l>'Splood!— up to the preaches you rascals! <note place="marg">REMARKS, p. 108.</note> will you not up to the preaches?</l>
+               </sp>
+               <sp>
+                  <speaker>Fist.</speaker>
+                  <l>Be merciful, GREAT DUKE, to men of mould.</l>
+               </sp>
+            </q>
+            <p>The absurdity of this reading is so evident, and has been so fully exposed in the REMARKS, that one, editor or commentator, has had the confidence to say a single word in defence of it, except Mr. Malone, whose candour and ingenuity are equally conspicuous.</p>
+            <p>He quotes a few words from a long note, where it was said that "it is <hi>the Duke of Exeter</hi> who enters," and tri<lb rend="hidden" type="hyphenInWord"/>umphantly adds, that "in the only folio of authority this certainly is not the case;" because forsooth the blundering editors have suffered the name of <hi>Fluellen</hi> to stand before a speech evidently belonging to <hi>Exeter:</hi>
+               <q>Up to the breach, you dogs! avaunt, you cullions.</q>
+Is this the language of <hi>Fluellen?</hi> Does <hi>Fluellen</hi> ever speak in heroics? Or is it possible that this line, and the pitiful stuff which the editors have so judiciously preferred:— "'Splood!—up to the preaches, you rascals! will you not up to the preaches?" can belong to one and the same person? Certainly not. But then, he argues, "when the king retired, the duke of Exeter undoubtedly accompanied him:" And suppose he did, what then? Is he never to come upon the stage again?</p>
+            <p>As to his assertion, that "<hi>Duke</hi> means no more here than <hi>commander;</hi>" nothing bad enough can be said of it. Will he have the goodness to produce on single instance from "the language of our author," in which the title has any such meaning? <hi>"Duke Theseus,"</hi> every one who has looked into the <hi>Midsummer Nights Dream,</hi> not excepting himself, very well knows, is <hi>"Theseus Duke of Athens."</hi> And though Skelton or any other ancient writer may have called
+<pb n="28" facs="35"/>
+               <hi>Hannibal</hi> a <hi>Duke,</hi> will he venture to say that <hi>any</hi> writer ever gave such an appellation to an <hi>English officer?</hi> These are questions indeed, which though I ask, I do not expect Mr. Malone to answer: but I shall be free enough to add, that while such critics as he is have the liberty to write such notes as this in the margin of Shakspeare, it will be in vain to expect either honour or justice done to the au<lb rend="hidden" type="hyphenInWord"/>thor.</p>
+         </div>
+         <div type="play">
+            <head>SECOND PART OF HENRY THE SIXTH.</head>
+            <p>Vol. VI. p. 371.</p>
+            <q>
+               <note place="marg">REMARKS, p. 120.</note>
+               <sp>
+                  <speaker>K. Henry.</speaker>
+                  <l>I thank thee: <hi>Well</hi> these words content me much.</l>
+               </sp>
+            </q>
+            <p>In answer to the Remark on this passage (a Remark which I have since learned is not peculiar to myself) Mr. Steevens says it has been observed by two or three commentators, that it is no way extraordinary the king should forget his wifes name, as it appears in no less than three places she forgets it herself, calling herself <hi>Eleanor.</hi> It has been also said, it should be <hi>Meg.</hi> And though he allows all this <hi>to be very true,</hi> yet as an alterations <hi>must</hi> be made, Theobalds, he says, is <hi>just as good</hi> and as <hi>probable</hi> as <hi>any other.</hi> He has, therefor, retained it, and wishes it could have been done with propriety without a note.</p>
+            <p>I leave it to every reader to form his own conclusions on this extraordinary note, which I only wonder to find avow<lb rend="hidden" type="hyphenInWord"/>ed by Mr. Steevens. No unprejudiced person tan hesitate for a moment in admitting this conclusion, that as Shak<lb rend="hidden" type="hyphenInWord"/>speare has already inadvertently used <hi>Eleanor</hi> for <hi>Margaret</hi> no less than three times, so he here uses <hi>Nell</hi> for <hi>Meg.</hi> With what reason therefor can it be said, that <hi>Well</hi> is just as good and as probable an alteration as any other: an al<lb rend="hidden" type="hyphenInWord"/>teration which Theobald, had he noticed the repeated mis<lb rend="hidden" type="hyphenInWord"/>take of <hi>Eleanor</hi> for <hi>Margaret,</hi> would never have proposed? discovery himself!</p>
+         </div>
+         <div type="play">
+            <pb n="29" facs="36"/>
+            <head>THIRD PART OF K. HENRY THE SIXTH.</head>
+            <p>P. 445</p>
+            <q>
+               <sp>
+                  <speaker>Gab.</speaker>
+                  <l>The queen, with all the northern earls and lords, <note place="marg">REMARKS, p. 125.</note> Intend here to besiege you in your castle.</l>
+               </sp>
+            </q>
+            <p>In the course of my Remark on this passage, I observ<lb rend="hidden" type="hyphenInWord"/>ed, that Richard was "scarcely more than (if, indeed, so much as) <hi>nine</hi> years old;" I find he was but just turned of <hi>eight.</hi>
+            </p>
+            <p>P. 489.</p>
+            <p>
+               <hi>A chase in the</hi> North of England.] <note place="marg">REMARKS, p. 128.</note> This scenical direc<lb rend="hidden" type="hyphenInWord"/>tion is given instead of that I objected to in the former edition, <hi>a wood in</hi> Lancashire. And yet I have since met with convincing evidence that the king was actually taken in <hi>Lancashire;</hi> but whether Shakspeare knew it, is more than I can tell. The importance of the fact deserves a minute investigation.</p>
+            <p>P. 504.</p>
+            <p>The ridiculous story of Warwicks embassy and the lady Bona,<note place="marg">REMARKS, p. 129.</note> ought to be banished out of history; and yet Mr. Hume gives it as circumstantially as if he had found it in a record: whereas there is not even a possibility of its having any foundation whatever, as Warwick actually stood sponsor to the princess Elizabeth, king Edwards first child <note place="bottom" n="*">Mr. Hume indisputably merits great praise as an elegant and nervous writer; but he has in numerous instances shewn an evident disregard to facts, varying and even inventing circumstances, for the mere purpose, it should seem, of telling his story to greater advantage, or giving a sort of roundness or point to his periods. For this reason his History is in many parts no more to be regarded than a Romance, as he neither does nor was able to quote any authority for what he relates. Among the many instances which might be adduced in sup<lb rend="hidden" type="hyphenInWord"/>port of these assertions, I shall only mention a remarkable anecdote of Colonel Kirk, who is supposed to have debauched a young woman, the sister (but according to other, the wife) or one of the Western <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>worde<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>, under a solemn promise to grant her the life of her brother, as the price of her compliance. In the morning, to gratify her impatience, he in<lb rend="hidden" type="hyphenInWord"/>sultingly shews her this beloved brother hanging upon a gibbet, which he had secretly ordered to be <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>r<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>ct<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>d before the window (or as some say upon the sign post) of his inn. The consequence is, that the young woman goes distracted, and the colonel to breakfast. This story Mr. Hume has worked up with all his powers of eloquence and pathos; and being so very interesting, no doubt is ever entertained of its truth. Although in fact, so far as it regards Kirk or the reign of James the Second or the English history, it is an impudent and barefaced lye. Mr. Hume indeed was not the fabricator of the falsehood; but his conduct is not the more excusable on that account, since he had no<lb rend="hidden" type="hyphenInWord"/>thing to warrant it that could deserve the name of an authority, and a story that does outrage to human nature, ought not to be adopted by a historian without a voucher equal to its incredibility. The origin of the fable was probably owing to the <hi>pious fraud</hi> of the Whig party, to whom Kirk had rendered himself so odious, that they endeavour of to blacken his character with every action superlatively abominable which they could find recorded. Many less important and more pro<lb rend="hidden" type="hyphenInWord"/>bable calumnies remain unnoticed in the libels of the day; but this story, and some other circumstances mentioned by Mr. Hume, such, as his hanging 19 without the least enquiry into the merits of their cause, ordering a certain number to be executed, while he and his compan<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> should drink to the king's health; crying, when he observed their <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>e<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>, to shake in the agonies of death, that he would give them <hi>music</hi> to th<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                     <desc>illegible</desc>
+                  </gap> 
+                  <hi>dancing,</hi> &amp;c. which exceed every thing one can conceive of the ex<lb rend="hidden" type="hyphenInWord"/>tent of human wickedness, were greedily swallowed and the become<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> part of the History of England. I do not indeed question but that there are many wives and many sisters who would shew the very same degree of affection for their husbands or their brothers; but the other part <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> the story is out of nature, and can only be credible of an <hi>incubus;</hi> 
+                  <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> the utmost stretch of infernal malice which religion can teach and bi<lb rend="hidden" type="hyphenInWord"/>gots credit, could not exceed that which is thus reported of Kirk. The reader will find the original story, related more circumstantially, though not more affectingly, nor perhaps more truly, in <hi>Wanleys Wond<lb rend="hidden" type="hyphenInWord"/>ders of the little World of Man,</hi> 1678, chap. 29. § 18, beginning "Charles duke of Burgundy, &amp;c."</note>. This period of English history equally interest<lb rend="hidden" type="hyphenInWord"/>ing
+<pb n="30" facs="37"/>and obscure: but though I have said that the rupture between the king and his political creator is owing to causes which have not reached posterity, I have since found that
+<pb n="31" facs="38"/>Warwick took occasional umbrage at several of the kings proceedings: As, 1. his marrying the queens sister to the duke of Buckingham; 2. his conferring the office of trea<lb rend="hidden" type="hyphenInWord"/>surer (which he had taken from the lord Montjoy) upon lord Rivers; 3. his making a match between the son and heir of the lord Herbert and Mary the queens sister, and another between the young lord Lisle and the daughter of lord Herbert, and creating young Herbert a knight and lord of Dunstar; 4. his making a match between sir Tho<lb rend="hidden" type="hyphenInWord"/>mas Gray, the queens son, and Lady Anne, daughter and heir to the duke of Exeter, and niece to the king, who had been talked of as a wife for the earl of Northumberland, Warwicks brother. But here the annals of William Wyr<lb rend="hidden" type="hyphenInWord"/>cester, to whom we are indebted for this valuable in<lb rend="hidden" type="hyphenInWord"/>formation, are most unfortunately defective. However, it appears from Rymer, that in the beginning of November 1469, no open variance had taken place between the king and Warwick; though the latter had certainly been accus<lb rend="hidden" type="hyphenInWord"/>ed of favouring king Henry, and had secretly displeased the king by the proposed match between his daughter and the duke of Clarence. On the 23d March 1470 he and the duke were in arms and proclaimed rebels.</p>
+            <p>To the list of battles, in p. 130, and 131. may be added, 10. The, battle of . . . . (in North Wales) be<lb rend="hidden" type="hyphenInWord"/>tween Jasper earl of Pembroke (for Lancaster) and . . . . brother to William lord Herbert (after<lb rend="hidden" type="hyphenInWord"/>ward earl of Pembroke) (for king Edward) in which the former was defeated . . . . 1467.</p>
+            <p>The day on which the battle of Stamford was fought (for which I have left a blank) was the 12th March.</p>
+         </div>
+         <div type="play">
+            <head>JULIUS CAESAR.</head>
+            <p>Vol. VIII. p. 46.</p>
+            <q>
+               <sp>
+                  <speaker>Cal.</speaker>
+                  <l>And graves have yawn'd, and yielded up their dead. <note place="marg">REMARKS p. 143.</note>
+                  </l>
+               </sp>
+            </q>
+            <p>The Remark on this passage having the signature COLLINS, those sagacious animals the Reviewers discover<lb rend="hidden" type="hyphenInWord"/>ed
+<pb n="32" facs="39"/>it to be a quotation from the writings of a learned gen<lb rend="hidden" type="hyphenInWord"/>tleman of that name, with which they seem so very fami<lb rend="hidden" type="hyphenInWord"/>liar, that it cannot give them much trouble to point out the particular book and page from whence it was taken; and this they will have a favorable opportunity of doing, in the course of the humane treatment my poor literary bant<lb rend="hidden" type="hyphenInWord"/>ling here has a right to expect from the mercy of incensed butchers. These pious Christians (possibly from their situa<lb rend="hidden" type="hyphenInWord"/>tion in this world being as nigh heaven or hell as a garret or a cellar can make it) seem to consider themselves as the public guardians of Religion, and are extremely apt to take the alarm at every thing in which they are quick-sighted enough to perceive a reflection upon their sacred charge. Poor fellows! one need not wonder at their anxiety, as they have most probably nothing else to lose. In the mean time, every one who had looked over the notes to the last edition of Shakspeare, would immediately see with what view the names of AMNER and COLLINS were adopted in the REMARKS.</p>
+         </div>
+         <div type="play">
+            <head>KING LEAR.</head>
+            <p>Vol. IX. p. 479.</p>
+            <q>
+               <sp>
+                  <speaker>Edg.</speaker>
+                  <l>
+                     <note place="marg">REMARKS, p. 169.</note> 
+                     <hi>Come o'er the bourn, Bessy, to me.</hi>
+                  </l>
+               </sp>
+            </q>
+            <p>I have printed what I at the time hastily took to be the original song; but I believe that no more than the four first lines are authentic, and that the remainder is a puritanical parody; and as such I freely dedicate it To the Critical Reviewers, for the use of any conventicle, Muggletonian or other, which they are accustomed to frequent.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

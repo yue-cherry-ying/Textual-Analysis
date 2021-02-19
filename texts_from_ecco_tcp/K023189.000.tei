@@ -1,0 +1,561 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second satire of the second book of Horace praprhased [sic]: By the author of the first.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023189.000</idno>
+            <idno type="docno">CW3313116761</idno>
+            <idno type="ecll">0516601100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second satire of the second book of Horace praprhased [sic]: By the author of the first.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>[2],18p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed by J. Wright for Lawton Gilliver,</publisher>
+                  <date>1735 [1734?]</date>
+                  <idno type="TCP">K023189.000</idno>
+                  <idno type="docno">CW3313116761</idno>
+                  <idno type="ecll">0516601100</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The author of the first = Alexander Pope.</note>
+                  <note>Publication date from Foxon.</note>
+                  <note>Latin and English texts on facing pages.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P964</note>
+                  <note>Griffith, 410</note>
+                  <note>English Short Title Catalog, ESTCT5742.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE
+SECOND SATIRE
+OF THE
+SECOND BOOK
+OF
+HORACE
+PRAPRHASED.</p>
+            <p>By the Author of the <hi>FIRST.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi>
+Printed by <hi>J. Wright</hi> for LAWTON GILLIVER
+at <hi>Homer</hi>'s <hi>Head</hi> against St. <hi>Dunstan</hi>'s Church in
+<hi>Fleetstreet,</hi> M.DCC.XXXV. Price 1 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="halftitle">
+            <pb facs="2"/>
+            <p>THE
+SECOND SATIRE
+OF THE
+SECOND BOOK
+OF
+HORACE
+PARAPHRASED.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="poem">
+            <pb facs="3"/>
+            <head>SATIRE II.<hi rend="sup">da.</hi>
+            </head>
+            <lg>
+               <l>
+                  <milestone n="1" unit="unspec"/> 
+                  <seg rend="decorInit">Q</seg>UAE virtus &amp; quanta, boni, sit vivere parvo,</l>
+               <l>(Nec meus hic Sermo, sed quem praecepit
+Ofellus</l>
+               <l>
+                  <hi>Rusticus,</hi> 
+                  <milestone n="4" unit="unspec"/> abnormis <hi>sapiens,</hi> crassaueq Minerva)</l>
+               <l>Discite <milestone n="5" unit="unspec"/> non inter lanceis, <hi>mensasque nitenteis,</hi>
+               </l>
+               <l>
+                  <hi>Cum stupet</hi> insanis acies fulgoribus, &amp; <hi>cum</hi>
+               </l>
+               <l>Acclinis falsis animus meliora recusat;</l>
+               <l>
+                  <milestone n="3" unit="unspec"/> Verum hic <hi>impransi</hi> mecum disquirite. Cur hoc?</l>
+               <l>Dicam si potero—</l>
+               <l>— <milestone n="8" unit="unspec"/> Leporem sectatus, equove Lassus—</l>
+               <l>Cum labor extuderit fastidia, siccus, inanis,</l>
+               <l>
+                  <pb n="4" facs="5"/>
+Sperne <hi>cibum vilem.—</hi>
+                  <milestone n="9" unit="unspec"/> Foris est Promus, &amp; atrum</l>
+               <l>Defendens pisces hyemat mare: cum sale panis</l>
+               <l>Latrantem stomachum bene leniet: unde? putas, aut</l>
+               <l>Quo partum? Non in caro nidore voluptas</l>
+               <l>Summa, sed in <hi>teipso</hi> est ***</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone n="10" unit="unspec"/> Vix tamen eripiam, posito <hi>pavone,</hi> velis quin</l>
+               <l>Hoc potius quam <hi>gallina,</hi> tergere palatum—</l>
+               <l>Tanquam ad rem attineat quidquam. Num vesceris ista</l>
+               <l>Quam laudas, pluma?— <milestone n="11" unit="unspec"/> Laudas insane, <hi>trilibrem</hi>
+               </l>
+               <l>
+                  <hi>Mullum,</hi> in singula quem minuas pulmenta necesse est.</l>
+               <l>Ducit te species video. Quo pertinet ergo</l>
+               <l>
+                  <hi>Proceros</hi> odisse <hi>lupos?</hi> quia scilicet illis</l>
+               <l>Majorem natura modum dedit, his breve pondus.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone n="12" unit="unspec"/> Porrectum magno magnum spectare catino</l>
+               <l>
+                  <hi>Vellem</hi> (ait <hi>Harpyiis</hi> gula digna rapacibus) at vos</l>
+               <l>Praesentes Austri! coquite horum opsonia: Quamvis</l>
+               <l>Putet aper, rhombusque recens, mala copia quando</l>
+               <l>Aegrum sollicitat stomachum, cum <hi>rapula</hi> plenus</l>
+               <l>
+                  <pb n="6" facs="7"/>
+Atque acidas mavult inulus, <milestone n="15" unit="unspec"/> Necdum <hi>omnis</hi> abacta</l>
+               <l>Pauperies <hi>epulis regum: nam</hi> vilibus ovis</l>
+               <l>Nigrisque est <hi>oleis</hi> hodie locus.—</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone n="16" unit="unspec"/> Tutus erat rhombus, tutoque <hi>ciconia</hi> nido,</l>
+               <l>Donec vos auctor docuit <hi>Pretorius.</hi> 
+                  <milestone n="17" unit="unspec"/> Ergo</l>
+               <l>Siquis nunc <hi>mergos</hi> suaves edixerit <hi>assos,</hi>
+               </l>
+               <l>Parebit pravi docilis <hi>Romana Juventus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone n="18" unit="unspec"/> Sordidus a tenui victus distabit, Ofello</l>
+               <l>Judice: nam frustra vitium vitaveris istud,</l>
+               <l>Si te alio pravum detorseris. Avidienus</l>
+               <l>
+                  <milestone n="20" unit="unspec"/> (Cui <hi>Canis</hi> ex vero ductum cognomen adhaeret)</l>
+               <l>Quinquennes oleas est, &amp; sylvestria corna.</l>
+               <l>
+                  <milestone n="21" unit="unspec"/> Ac nisi <hi>mutatum</hi> parcit defundere <hi>vinum,</hi> &amp;</l>
+               <l>Cujus odorem olei nequeas perferre (licebit</l>
+               <l>Ille <hi>repotia, natales,</hi> aliosque dierum</l>
+               <l>
+                  <milestone n="22" unit="unspec"/> 
+                  <hi>Festus</hi> albatus celebret) cornu ipse bilibri</l>
+               <l>
+                  <pb n="8" facs="9"/>
+Caulibus <hi>instillat;</hi> 
+                  <milestone n="23" unit="unspec"/> veteris non parcus aceti.</l>
+            </lg>
+            <lg>
+               <l>Quali igitur victu sapiens utetur, &amp; horum</l>
+               <l>Utrum imitabitur? hac urget lupus, hac canis, aiunt.</l>
+               <l>
+                  <milestone n="24" unit="unspec"/> Mundus erit qui non offendat sordibus, atque</l>
+               <l>In neutram partem cultus miser. <milestone n="25" unit="unspec"/> Hic neque <hi>servis</hi>
+               </l>
+               <l>Albuti senis exemplo, dum munia didit,</l>
+               <l>
+                  <hi>Saevus</hi> erit: nec sic ut simplex <milestone n="26" unit="unspec"/> Naevius, <hi>unctam</hi>
+               </l>
+               <l>Convivis praebebit <hi>aquam:</hi> vitium hoc quoque magnum.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone n="27" unit="unspec"/> Accipe nunc, victus tenuis quae quantaque secum</l>
+               <l>Afferat. <milestone n="28" unit="unspec"/> In primis valeas bene: nam variae res</l>
+               <l>Ut noceant homini credas, memor illius escae</l>
+               <l>Quae simplex <milestone n="29" unit="unspec"/> 
+                  <hi>olim</hi> tibi sederat; at simul assis</l>
+               <l>Miscueris elixa, simul conchylia turdis,</l>
+               <l>Dulcia se in bilem vertunt, stomachoque tumultum</l>
+               <l>Lenta feret pituita. <milestone n="30" unit="unspec"/> Vides, ut pallidus omnis</l>
+               <l>Caena desurgat dubia? quin corpus onustum</l>
+               <l>Hesternis vitiis, <hi>animum</hi> quoque praegravat una,</l>
+               <l>
+                  <pb n="10" facs="11"/>
+                  <hi>Atque affigit humo</hi> divinae particulam aurae.</l>
+               <l>
+                  <milestone n="31" unit="unspec"/> Alter ubi dicto citius curata sopori</l>
+               <l>Membra dedit, vegetus praescripta ad munia surgit.</l>
+               <l>
+                  <milestone n="32" unit="unspec"/> Hic tamen ad melius poterit transcurrere quondam:</l>
+               <l>Sive <hi>diem festum</hi> rediens advexerit annus,</l>
+               <l>Seu recreare volet <hi>tenuatum corpus:</hi> ubique</l>
+               <l>Accedent anni, &amp; <hi>tractari mollius</hi> aetas</l>
+               <l>
+                  <hi>Imbecilla</hi> volet. <milestone n="33" unit="unspec"/> Tibi quidnam accedet ad istam</l>
+               <l>Quam puer &amp; validus prae-sumis mollitiem, seu</l>
+               <l>Dura valetudo inciderit, seu tarda senectus?</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone n="34" unit="unspec"/> 
+                  <hi>Rancidum aprum</hi> antiqui laudabant, non quia nasus</l>
+               <l>Illis nullus erat, sed <hi>(credo)</hi> hac mente, quod hospes</l>
+               <l>Tardius adveniens, vitiatum commodius, quam</l>
+               <l>Integrum edax dominus consumeret. <milestone n="35" unit="unspec"/> Hos utinam inter</l>
+               <l>Heroas natum tellus me prima tulisset!</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone n="36" unit="unspec"/> Das aliquid <hi>Famae?</hi> (quae <hi>carmine gratior</hi> aurem</l>
+               <l>
+                  <pb n="12" facs="13"/>
+Occupat humanam.) Grandes rhombi, patinaeque</l>
+               <l>Grande ferent una <milestone n="37" unit="unspec"/> cum <hi>damno dedecus.</hi> Adde</l>
+               <l>
+                  <milestone n="38" unit="unspec"/> Iratum patruum, vicinos, te tibi iniquum,</l>
+               <l>Et frustra mortis cupidum, cum deerit egenti</l>
+               <l>
+                  <milestone n="39" unit="unspec"/> As, <hi>laquei</hi> pretium.—</l>
+            </lg>
+            <lg>
+               <l>— <milestone n="40" unit="unspec"/> Jure, inquis, Thrasius istis</l>
+               <l>Jurgatur verbis; ego vectigalia magna</l>
+               <l>Divitiasque habeo tribus amplas regibus. <milestone n="41" unit="unspec"/> Ergo</l>
+               <l>
+                  <hi>Quod</hi> superat, <hi>non est</hi> melius quo <hi>insumere possis?</hi>
+               </l>
+               <l>Cur eget indignus <hi>quisquam</hi> te divite? quare</l>
+               <l>
+                  <milestone n="42" unit="unspec"/> 
+                  <hi>Templa</hi> ruunt <hi>antiqua</hi> Deum? cur <hi>improbe!</hi> carae</l>
+               <l>Non aliquid <hi>patriae</hi> tanto emetiris acervo?</l>
+               <l>Uni nimirum tibi recte semper erunt res?</l>
+               <l>
+                  <pb n="14" facs="15"/>
+                  <milestone n="43" unit="unspec"/> O magnus posthac inimicis risus! uter-ne</l>
+               <l>
+                  <milestone n="44" unit="unspec"/> Ad casus dubios fidet sibi certius? hic, qui</l>
+               <l>Pluribus assuerit mentem corpusque superbum?</l>
+               <l>An qui contentus parvo, metuensque futuri,</l>
+               <l>In pace, ut sapiens, aptarit idonea bello?</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone n="45" unit="unspec"/> Quo magis hoc credas, puer hunc ego parvus <hi>Ofellum</hi>
+               </l>
+               <l>
+                  <hi>Integris</hi> opibus novi non latius usum,</l>
+               <l>Quam nunc <milestone n="46" unit="unspec"/> 
+                  <hi>accisis.</hi> Videas, <hi>metato</hi> in agello,</l>
+               <l>Non ego, narrantem, temere edi luce profesta</l>
+               <l>Quidquam praeter <milestone n="47" unit="unspec"/> 
+                  <hi>olus,</hi> fumosae cum pede pernae.</l>
+               <l>At mihi cum <milestone n="48" unit="unspec"/> 
+                  <hi>longum post tempus</hi> venerit hospes,</l>
+               <l>Sive <hi>operum vacuo,</hi> &amp;c.—bene erit, non <hi>piscibus</hi>
+urbe petitis,</l>
+               <l>Sed <hi>pullo</hi> atque <hi>haedo;</hi> tum—</l>
+            </lg>
+            <lg>
+               <pb n="16" facs="17"/>
+               <l>— <milestone n="50" unit="unspec"/> pensilis uva <hi>secundas</hi>
+               </l>
+               <l>
+                  <hi>Et</hi> nux <hi>ornabit mensas, cum</hi> duplice ficu.</l>
+               <l>Posthac ludus erit <milestone n="51" unit="unspec"/> Cuppa potare Magistra,</l>
+               <l>Ac <hi>venerata Ceres,</hi> ut culmo surgeret alto,</l>
+               <l>Explicuit vino contractae seria frontis.</l>
+               <l>Saeviat atque novas moveat Fortuna tumultus!</l>
+               <l>Quantum hinc imminuit? quanto aut <hi>ego</hi> parcius, aut <hi>vos</hi>
+               </l>
+               <l>O pueri nituistis, ut huc <milestone n="52" unit="unspec"/> 
+                  <hi>novus Incola</hi> venit?</l>
+               <l>
+                  <milestone n="53" unit="unspec"/> Nam <hi>propriae telluris</hi> herum natura neque illum</l>
+               <l>Nec me, aut quemquam statuit; nos expulit ille,</l>
+               <l>Illum aut <milestone n="54" unit="unspec"/> 
+                  <hi>Nequities,</hi> aut <milestone n="55" unit="unspec"/> 
+                  <hi>vafri inscitia juris,</hi>
+               </l>
+               <l>Postremo expellit certe <milestone n="56" unit="unspec"/> 
+                  <hi>vivacior haeres,</hi>
+               </l>
+               <l>
+                  <milestone n="57" unit="unspec"/> 
+                  <hi>Nunc ager</hi> Umbreni sub nomine, <hi>nuper</hi> Ofelli</l>
+               <l>Dictus, erit nulli proprius, sed cedet in usum</l>
+               <l>Nunc mihi, nunc alii. <milestone n="58" unit="unspec"/> Quocirca vivite fortes!</l>
+               <l>Fortiaque adversis opponite pectora rebus.</l>
+            </lg>
+         </div>
+         <div xml:lang="eng" type="poem">
+            <pb facs="4"/>
+            <head>SATIRE II.</head>
+            <l>
+               <milestone n="1" unit="unspec"/> 
+               <seg rend="decorInit">W</seg>HAT, and how great, the Virtue and
+the Art</l>
+            <l>To live on little with a chearful heart,</l>
+            <l>
+               <milestone n="2" unit="unspec"/> (A Doctrine sage, but truly none of mine)</l>
+            <l>Lets talk, my friends, but talk <milestone n="3" unit="unspec"/> before we dine:</l>
+            <l n="5">
+               <milestone n="5" unit="unspec"/> Not when a gilt Buffet's reflected pride</l>
+            <l>'Turns you from sound Philosophy aside;</l>
+            <l>Not when from Plate to Plate your eyeballs roll,</l>
+            <l>And the brain dances to the mantling bowl.</l>
+            <l>Hear <hi>Bethel</hi>'s Sermon, one not vers'd in schools,</l>
+            <l>
+               <milestone n="4" unit="unspec"/> But strong in sense, and wise without the rules.</l>
+            <l>
+               <milestone n="8" unit="unspec"/> Go work, hunt, exercise! (he thus began)</l>
+            <l>Then scorn a homely dinner if you can.</l>
+            <l>
+               <pb n="5" facs="6"/>
+               <milestone n="9" unit="unspec"/> Your wine lock'd up, your Butler stroll'd abroad,</l>
+            <l>Or kept from fish, (the River yet un-thaw'd)</l>
+            <l n="15">If then plain bread and milk will do the feat,</l>
+            <l>The pleasure lies in you, not in the meat.</l>
+            <l>
+               <milestone n="10" unit="unspec"/> Preach as I please, I doubt our curious men</l>
+            <l>Will chuse a Pheasant still before a Hen;</l>
+            <l>Yet Hens of Guinea full as good I hold,</l>
+            <l n="20">Except you eat the feathers green and gold.</l>
+            <l>
+               <milestone n="11" unit="unspec"/> Of Carps and Mullets why prefer the great,</l>
+            <l>(Tho' cut in pieces e'er my Lord can eat)</l>
+            <l>Yet for small Turbots such esteem profess?</l>
+            <l>Because God made these large, the other less.</l>
+            <l n="25">
+               <milestone n="12" unit="unspec"/> Oldfield, with more than Harpy throat endu'd,</l>
+            <l>Cries, "send me, Gods! a whole Hog<note place="bottom" n="†">A <hi>West-Indian</hi> Term of Gluttony, a Hog roasted whole, stuff'd with Spice, and basted with <hi>Madera</hi> Wine.</note> barbecu'd!"</l>
+            <l>Oh blast it, <milestone n="13" unit="unspec"/> South-winds! till a stench exhale</l>
+            <l>Rank as the ripeness of a Rabbit's tail.</l>
+            <l>By what Criterion do ye eat, d'ye think,</l>
+            <l n="30">If this is priz'd for sweetness, that for stink?</l>
+            <l>When the tir'd Glutton labours thro' a Treat,</l>
+            <l>He'll find no relish in the sweetest Meat,</l>
+            <l>He calls for something bitter, something sour,</l>
+            <l>And the rich feast concludes extremely poor:</l>
+            <l n="35">
+               <pb n="7" facs="8"/>
+               <milestone n="15" unit="unspec"/> Cheap eggs, and herbs, and olives still we see,</l>
+            <l>Thus much is left of old Simplicity!</l>
+            <l>
+               <milestone n="16" unit="unspec"/> The <hi>Robin-red-breast</hi> till of late had rest,</l>
+            <l>And children sacred held a <hi>Martin</hi>'s nest,</l>
+            <l>Till <hi>Becca-ficos</hi> sold so dev'lish dear,</l>
+            <l n="40">To one that was, or would have been a Peer.</l>
+            <l>
+               <milestone n="17" unit="unspec"/> Let me extoll a <hi>Cat</hi> on Oysters fed,</l>
+            <l>I'll have a Party at the <hi>Bedford Head,</hi>
+            </l>
+            <l>Or ev'n to crack live <hi>Crawfish</hi> recommend,</l>
+            <l>I'd never doubt at Court to make a friend.</l>
+            <l n="45">
+               <milestone n="18" unit="unspec"/> 'Tis yet in vain, I own, to keep a pother</l>
+            <l>About one vice, and fall into the other:</l>
+            <l>Between Excess and Famine lies a mean,</l>
+            <l>Plain, but not sordid, tho' not splendid, clean.</l>
+            <l>
+               <milestone n="19" unit="unspec"/> 
+               <hi>Avidien</hi> or his Wife (no matter which,</l>
+            <l n="50">For him you'll call a <milestone n="20" unit="unspec"/> dog, and her a bitch)</l>
+            <l>Sell their presented Partridges, and Fruits,</l>
+            <l>And humbly live on rabbits and on roots:</l>
+            <l>
+               <milestone n="21" unit="unspec"/> One half-pint bottle serves them both to dine,</l>
+            <l>And is at once their vinegar and wine.</l>
+            <l n="55">But on some <milestone n="22" unit="unspec"/> lucky day (as when they found</l>
+            <l>A lost Bank-bill, or heard their Son was drown'd)</l>
+            <l>
+               <pb n="9" facs="10"/>
+At such a feast, <milestone n="23" unit="unspec"/> old vinegar to spare,</l>
+            <l>Is what two souls so gen'rous cannot bear,</l>
+            <l>Oyl, tho' it stink, they drop by drop impart,</l>
+            <l n="60">But sowse the Cabbage with a bounteous heart.</l>
+            <l>
+               <milestone n="24" unit="unspec"/> He knows to live, who keeps the middle state,</l>
+            <l>And neither leans on this side, or on that:</l>
+            <l>Nor <milestone n="25" unit="unspec"/> stops, for one bad Cork, his Butler's pay,</l>
+            <l>Swears, like Albutius, a good Cook away;</l>
+            <l n="65">Nor lets, like <milestone n="26" unit="unspec"/> Naevius, ev'ry error pass,</l>
+            <l>The musty wine, foul cloth, or greasy glass,</l>
+            <l>
+               <milestone n="27" unit="unspec"/> Now hear what blessings Temperance can bring:</l>
+            <l>(Thus said our Friend, and what he said I sing)</l>
+            <l>First Health: <milestone n="28" unit="unspec"/> The stomach (cramm'd from ev'rydish,</l>
+            <l>A Tomb of boil'd, and roast, and flesh, and fish,</l>
+            <l>When Bile, and wind, and phlegm, and acid jar,</l>
+            <l>And all the Man is one intestine war)</l>
+            <l>Remembers oft <milestone n="29" unit="unspec"/> the School-boys simple fare,</l>
+            <l>The temp'rate fleeps, and spirits light as air.</l>
+            <l>
+               <milestone n="30" unit="unspec"/> How pale, each Worshipful and rev'rend Guest</l>
+            <l n="71">Rise from a Clergy, or a City, feast!</l>
+            <l>What life in all that ample Body, say,</l>
+            <l>What heav'nly Particle inspires the clay?</l>
+            <l>
+               <pb n="11" facs="12"/>
+The Soul subsides, and wickedly inclines</l>
+            <l n="75">To seem but mortal, ev'n in sound Divines.</l>
+            <l>
+               <milestone n="31" unit="unspec"/> On morning wings how active springs the Mind</l>
+            <l>That leaves the load of yesterday behind?</l>
+            <l>How easy ev'ry labour it pursues?</l>
+            <l>How coming to the Poet ev'ry Muse?</l>
+            <l n="80">
+               <milestone n="32" unit="unspec"/> Not but we may exceed, some Holy time,</l>
+            <l>Or tir'd in search of Truth, or search of Rhyme;</l>
+            <l>Ill Health some just indulgence may engage,</l>
+            <l>And more, the Sickness of long Life, Old-age;</l>
+            <l>
+               <milestone n="33" unit="unspec"/> For fainting Age what cordial drop remains,</l>
+            <l n="85">If our intemp'rate Youth the Vessel drains?</l>
+            <l>
+               <milestone n="34" unit="unspec"/> Our Fathers prais'd rank Ven'son. You suppose</l>
+            <l>Perhaps, young men! our Fathers had no nose?</l>
+            <l>Not so: a Buck was then a week's repast,</l>
+            <l>And 'twas their point, I ween, to make it last:</l>
+            <l n="95">Better to keep it till their friends could come,</l>
+            <l>Than eat the sweetest by themselves at home.</l>
+            <l>
+               <milestone n="35" unit="unspec"/> Why had not I in those good times my birth,</l>
+            <l>E're Coxcomb-pyes or Coxcombs were on earth?</l>
+            <l>Unworthy He, the voice of Fame to hear,</l>
+            <l n="100">(<milestone n="36" unit="unspec"/> That sweetest Musick to an honest ear;</l>
+            <l>
+               <pb n="13" facs="14"/>
+For 'faith Lord Fanny! you are in the wrong,</l>
+            <l>The World's good word is better than a Song)</l>
+            <l>Who has not learn'd, <milestone n="37" unit="unspec"/> fresh Sturgeon and Ham pye</l>
+            <l>Are no rewards for Want, and Infamy!</l>
+            <l n="105">When Luxury has lick'd up all thy pelf,</l>
+            <l>Curs'd by thy <milestone n="38" unit="unspec"/> Neighbours, thy Trustees, thy self,</l>
+            <l>To friends, to fortune, to mankind a shame,</l>
+            <l>Think how Posterity will treat thy name;</l>
+            <l>And <milestone n="39" unit="unspec"/> buy a Rope, that future times may tell</l>
+            <l n="110">Thou hast at least bestow'd one penny well.</l>
+            <l>
+               <milestone n="40" unit="unspec"/> "Right, cries his Lordship, for a Rogue in need</l>
+            <l>"To have a Taste, is Insolence indeed:</l>
+            <l>"In me 'tis noble, suits my birth and state,</l>
+            <l>"My wealth unwieldy, and my heap too great."</l>
+            <l n="115">Then, like the Sun, let <milestone n="41" unit="unspec"/> Bounty spread her ray, </l>
+            <l>And shine that Superfluity away.</l>
+            <l>Oh Impudence of wealth! with all thy store,</l>
+            <l>How dar'st thou let one worthy man be poor?</l>
+            <l>Shall half the <milestone n="42" unit="unspec"/> new-built Churches round thee fall?</l>
+            <l n="120">Make Keys, build Bridges, or repair White-hall:</l>
+            <l>Or to thy Country let that heap be lent,</l>
+            <l>As M ** o's was, but not at five <hi>per Cent.</hi>
+            </l>
+            <l>
+               <pb n="15" facs="16"/>
+               <milestone n="43" unit="unspec"/> Who thinks that Fortune cannot change her mind,</l>
+            <l>Prepares a dreadful Jest for all mankind!</l>
+            <l n="125">And <milestone n="44" unit="unspec"/> who stands safest, tell me? is it he</l>
+            <l>That spreads and swells in puff'd Prosperity,</l>
+            <l>Or blest with little, whose preventing care</l>
+            <l>In Peace provides fit arms against a War?</l>
+            <l>
+               <milestone n="45" unit="unspec"/> Thus Bethel spoke, who always speaks his thought,</l>
+            <l n="130">And always thinks the very thing he ought:</l>
+            <l>His equal mind I copy what I can,</l>
+            <l>And as I love, would imitate the Man.</l>
+            <l>In <hi>South-sea</hi> days not happier, when surmis'd</l>
+            <l>The Lord of thousands, than ev'n now <milestone n="46" unit="unspec"/> 
+               <hi>Excis'd;</hi>
+            </l>
+            <l n="140">In Forests planted by a Father's hand,</l>
+            <l>Than in five acres now of rented land.</l>
+            <l>Content with little, I can piddle here</l>
+            <l>On <milestone n="47" unit="unspec"/> Broccoli and mutton, round the year;</l>
+            <l>But <milestone n="48" unit="unspec"/> ancient friends, (tho' poor, or out of play)</l>
+            <l n="145">That touch my Bell, I cannot turn away.</l>
+            <l>'Tis true, no <milestone n="49" unit="unspec"/> Turbots dignify my boards,</l>
+            <l>But gudgeons, flounders, what my Thames affords:</l>
+            <l>To Hounslow-heath I point, and Bansted-down,</l>
+            <l n="150">Thence comes your mutton, and these chicks my own:</l>
+            <l>
+               <pb n="17" facs="18"/>
+               <milestone n="50" unit="unspec"/> From yon old wallnut-tree a show'r shall fall;</l>
+            <l>And grapes, long-lingring on my only wall,</l>
+            <l>And figs, from standard and Espalier join:</l>
+            <l>The dev'l is in you if you cannot dine.</l>
+            <l>Then <milestone n="51" unit="unspec"/> chearful healths (your Mistress shall have place.</l>
+            <l>And, what's more rare, a Poet shall say <hi>Grace.</hi>
+            </l>
+            <l>Fortune not much of humbling me can boast;</l>
+            <l>Tho' double-tax'd, how little have I lost?</l>
+            <l>My Life's amusements have been just the same,</l>
+            <l>Before, and after <milestone n="52" unit="unspec"/> Standing Armies came.</l>
+            <l n="160">My lands are sold, my Father's house is gone;</l>
+            <l>I'll hire another's: is not that my own,</l>
+            <l>And yours, my friends? thro' whose free-opening gate</l>
+            <l>None comes too early, none departs too late;</l>
+            <l>(For I, who hold sage Homer's rule the best,</l>
+            <l n="165">Welcome the coming, speed the going guest.)</l>
+            <l>"Pray heav'n it last! (cries Swift) as you go on;</l>
+            <l>"I wish to God this house had been your own:</l>
+            <l>"Pity! to build, without a son or wife:</l>
+            <l>"Why, you'll enjoy it only all your life."—</l>
+            <l n="170">Well, if the Use be mine, can it concern one,</l>
+            <l>Whether the Name belong to Pope or Vernon?</l>
+            <l>
+               <pb n="18" facs="19"/>
+What's <milestone n="53" unit="unspec"/> 
+               <hi>Property?</hi> dear Swift! you see it alter</l>
+            <l>From you to me, from me to <milestone n="54" unit="unspec"/> Peter Walter,</l>
+            <l>Or, in a mortgage, prove the Lawyer's share,</l>
+            <l n="175">Or, in a jointure, vanish from the Heir,</l>
+            <l>Or in pure <milestone n="55" unit="unspec"/> Equity (the case not clear)</l>
+            <l>The Chanc'ry takes your rents for twenty year:</l>
+            <l>At best, it falls to some <milestone n="56" unit="unspec"/> ungracious son,</l>
+            <l>That cries, my father's damn'd, and all's my own.</l>
+            <l n="180">
+               <milestone n="57" unit="unspec"/> Shades, that to Ba ** n could retreat afford,</l>
+            <l>Are now the portion of a booby Lord;</l>
+            <l>And Hemsley, once proud<note place="bottom" n="*">Villers Duke of Buckingham.</note> Buckingham's delight,</l>
+            <l>Slides to a Scriv'ner or a City Knight.</l>
+            <l>
+               <milestone n="58" unit="unspec"/> Let lands and houses have what Lords they will,</l>
+            <l>Let Us be fix'd, and our own Masters still</l>
+         </div>
+      </body>
+   </text>
+</TEI>

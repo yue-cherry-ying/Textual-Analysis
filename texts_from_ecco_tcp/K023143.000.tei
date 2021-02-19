@@ -1,0 +1,507 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A key to the lock: Or, a treatise proving, beyond all contradiction, the dangerous tendency of a late poem, entituled, The rape of the lock, to government and religion. By Esdras Barnivelt, apoth.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023143.000</idno>
+            <idno type="docno">CW3313881377</idno>
+            <idno type="ecll">0537700900</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A key to the lock: Or, a treatise proving, beyond all contradiction, the dangerous tendency of a late poem, entituled, The rape of the lock, to government and religion. By Esdras Barnivelt, apoth.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>32p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Roberts,</publisher>
+                  <date>1715.</date>
+                  <idno type="TCP">K023143.000</idno>
+                  <idno type="docno">CW3313881377</idno>
+                  <idno type="ecll">0537700900</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Esdras Barnivelt = Alexander Pope.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Griffith, 37</note>
+                  <note>English Short Title Catalog, ESTCT5682.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>A KEY TO THE LOCK.</p>
+            <p>OR, A TREATISE proving, beyond all Contradiction, the dangerous Ten<lb rend="hidden" type="hyphenInWord"/>dency of a late Poem, entituled, <hi>The RAPE of the LOCK,</hi> TO GOVERNMENT and RELIGION.</p>
+            <p>By ESDRAS BARNIVELT, Apoth.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for J. ROBERTS near the <hi>Oxford Arms</hi> in <hi>Warwick-lane.</hi> 1715.</p>
+         </div>
+         <div type="dedication">
+            <pb n="iii" facs="2"/>
+            <head>THE Epistle Dedicatory, TO Mr. <hi>POPE.</hi>
+            </head>
+            <p>THough it may seem foreign to my Profession, which is that of making up and dispensing saluta<lb rend="hidden" type="hyphenInWord"/>ry Medicines to his Majesty's Subjects, (I might say my Fellow-Subjects, since I have had the Advantage of being naturalized) yet cannot I think it unbecoming me to fur<lb rend="hidden" type="hyphenInWord"/>nish an Antidote against the Poyson which hath been so artfully distilled through your Quill, and convey'd to the World through the pleasing Vehicle of your Numbers. Nor is my Profession as an Apothecary so abhor<lb rend="hidden" type="hyphenInWord"/>rent from yours as a Poet, since the An<lb rend="hidden" type="hyphenInWord"/>tients have thought fit to make the same
+<pb n="iv" facs="3"/>
+God the Patron of Both. I have, not without some Pleasure, observ'd the mysti<lb rend="hidden" type="hyphenInWord"/>cal Arms of our Company, wherein is re<lb rend="hidden" type="hyphenInWord"/>presented <hi>Apollo</hi> killing the fell Monster <hi>Python;</hi> this in some measure admonishes me of my Duty, to trample upon and de<lb rend="hidden" type="hyphenInWord"/>stroy, as much as in me lies, that Dragon, or baneful Serpent, <hi>Popery.</hi>
+            </p>
+            <p>I must take leave to make you my Pa<lb rend="hidden" type="hyphenInWord"/>tient, whether you will or no; though out of the Respect I have for you, I should ra<lb rend="hidden" type="hyphenInWord"/>ther chuse to apply Lenitive than Corrosive Medicines, happy, if they may prove an Emetic sufficient to make you cast up those Errors, which you have imbibed in your Education, and which, I hope, I shall never live to see this Nation digest.</p>
+            <p>Sir, I cannot but lament, that a Gentle<lb rend="hidden" type="hyphenInWord"/>man of your acute Wit, rectified Under<lb rend="hidden" type="hyphenInWord"/>standing, and sublimated Imagination, should misapply those Talents to raise ill Humours in the Constitution of the Body Politick, of which your self are a Member, and upon the Health whereof your own Preservation depends. Give me leave to say, such
+<pb n="v" facs="4"/>
+Principles as yours would again reduce us to the fatal Necessity of the Phlebotomy of War, or the Causticks of Persecution.</p>
+            <p>In order to inform you of this, I have sought your Acquaintance and Conversation with the utmost diligence; for I hoped in Person to persuade you to a publick Con<lb rend="hidden" type="hyphenInWord"/>fession of your Fault, and a Recantation of these dangerous Tenets. But finding all my Endeavours ineffectual, and being sa<lb rend="hidden" type="hyphenInWord"/>tisfied with the Conscience of having done all that became a Man of an honest Heart and honourable Intention; I could no longer omit my Duty in opening the Eyes of the World by the Publication of this Discourse. It was indeed written some Months since, but seems not the less proper at this Juncture, when I find so universal an Encouragement given by both Parties, to the Author of a libellous Work that is designed equally to prejudice them both. The uncommon Sale of this Book (for above 6000 of'em have been already vended) was also a farther Reason that call'd aloud upon me to put a stop to its further Progress, and to preserve
+<pb n="vi" facs="5"/>
+his Majesty's Subjects by exposing the whole Artifice of your Poem in publick.</p>
+            <p>Sir, to address my self to so florid a Writer as you, without collecting all the Flowers of Rhetorick, would be an unpar<lb rend="hidden" type="hyphenInWord"/>donable <hi>Indecorum;</hi> but when I speak to the World, as I do in the following Trea<lb rend="hidden" type="hyphenInWord"/>tise, I must use a simple Stile, since it would be absurd to prescribe an universal Medicine, or <hi>Catholicon,</hi> in a Language not universally understood.</p>
+            <p>As I have always professed to have a particular Esteem for Men of Learning, and more especially for your self, nothing but the Love of Truth should have engaged me in a Design of this Nature. <hi>Amicus Plato, Amicus Socrates, sed magis A<lb rend="hidden" type="hyphenInWord"/>mica Veritas.</hi> I am</p>
+            <closer>
+               <signed>Your most Sincere Friend, and Humble Servant, <hi>E. Barnivelt.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <pb n="7" facs="6"/>
+         <head>A KEY to the <hi>LOCK.</hi>
+         </head>
+         <p>SINCE this unhappy Division of our Nation into Parties, it is not to be ima<lb rend="hidden" type="hyphenInWord"/>gined how many Artifices have been made use of by Writers to obscure the Truth, and cover Designs, which may be de<lb rend="hidden" type="hyphenInWord"/>trimental to the Publick; in particular, it has been their Custom of late to vent their Politi<lb rend="hidden" type="hyphenInWord"/>cal Spleen in Allegory and Fable. If an ho<lb rend="hidden" type="hyphenInWord"/>nest believing Nation is to be made a Jest of, we have a Story of <hi>John Bull</hi> and his Wife; if a Treasurer is to be glanced at, an <hi>Ant</hi> with a <hi>white Straw</hi> is introduced; if a Treaty of Com<lb rend="hidden" type="hyphenInWord"/>merce is to be ridiculed, 'tis immediately me<lb rend="hidden" type="hyphenInWord"/>tamorphosed into a Tale of Count <hi>Tariff.</hi>
+         </p>
+         <p>But if any of these Malevolents have never so small a Talent in Rhime, they principally delight to convey their Malice in that pleasing way, as it were, gilding the Pill, and con<lb rend="hidden" type="hyphenInWord"/>cealing the Poyson under the Sweetness of Numbers. Who could imagine that an <hi>Origi<lb rend="hidden" type="hyphenInWord"/>nal</hi>
+            <pb n="8" facs="7"/>
+            <hi>Canto</hi> of <hi>Spencer</hi> should contain a Satyr upon one Administration; or that <hi>Yarhel</hi>'s <hi>Kitchin,</hi> or the <hi>Dogs of Egypt,</hi> should be a Sar<lb rend="hidden" type="hyphenInWord"/>casm upon another.</p>
+         <p>It is the Duty of every well designing Sub<lb rend="hidden" type="hyphenInWord"/>ject to prevent, as far as in him lies, the ill Consequences of such pernicious Treatises; and I hold it mine to warn the Publick of the late Poem, entituled, the <hi>RAPE of the LOCK;</hi> which I shall demonstrate to be of this nature. Many of these sort of Books have been bought by honest and well-meaning People purely for their Diversion, who have in the end found themselves insensibly led into the Vio<lb rend="hidden" type="hyphenInWord"/>lence of Party Spirit, and many domestick Quarrels have been occasioned by the diffe<lb rend="hidden" type="hyphenInWord"/>rent Application of these Books. The Wife of an eminent Citizen grew very noisy upon reading <hi>Bob Hush; John Bull,</hi> upon <hi>Change,</hi> was thought not only to concern the State, but to affront the City; and the Poem we are now treating of, has not only dissolved an a<lb rend="hidden" type="hyphenInWord"/>greeable Assembly of Beaus and Belles, but (as I am told) has set Relations at as great a di<lb rend="hidden" type="hyphenInWord"/>stance, as if they were married together.</p>
+         <p>It is a common and just Observation, that when the Meaning of any thing is dubious, one can no way better judge of the true Intent of it, than by considering who is the Author, what is his Character in general, and his Dis<lb rend="hidden" type="hyphenInWord"/>position in particular.</p>
+         <p>
+            <pb n="9" facs="8"/>
+Now that the Author of this Poem is pro<lb rend="hidden" type="hyphenInWord"/>fessedly a <hi>Papist,</hi> is well known; and that a Genius so capable of doing Service to that Cause, may have been corrupted in the Course of his Education by <hi>Jesuits</hi> or others, is justly very much to be suspected; notwithstanding that seeming <hi>Coolness</hi> and <hi>Moderation,</hi> which he has been (perhaps artfully) reproached with, by those of his own Profession. They are sensible that this Nation is secured with good and wholesome Laws to prevent all evil Practi<lb rend="hidden" type="hyphenInWord"/>ces of the Church of <hi>Rome;</hi> particularly the Publication of Books, that may in any sort propagate that Doctrine: Their Authors are therefore obliged to couch their Designs the deeper; and tho' I cannot averr that the In<lb rend="hidden" type="hyphenInWord"/>tention of this Gentleman was directly to spread Popish Doctrines, yet it comes to the same Point, if he touch the Government: For the Court of <hi>Rome</hi> knows very well, that the Church at this time is so firmly founded on the State, that the only way to shake the one is by attacking the other.</p>
+         <p>What confirms me in this Opinion, is an accidental Discovery I made of a very artful Piece of Management among his Popish Friends and Abettors, to hide this whole Design upon the Government, by taking all the Characters upon themselves.</p>
+         <p>Upon the Day that this Poem was published, it was my Fortune to step into the <hi>Cocoa Tree,</hi> where a certain Gentleman was railing very
+<pb n="10" facs="9"/>
+liberally at the Author, with a Passion extreme<lb rend="hidden" type="hyphenInWord"/>ly well counterfeited, for having (as he said) reflected upon him in the Character of <hi>Sir Plume.</hi> Upon his going out, I enquired who he was, and they told me, <hi>a Roman Catholick Knight.</hi>
+         </p>
+         <p>I was the same Evening at <hi>Will</hi>'s, and saw a Circle round another Gentleman, who was railing in like manner, and showing his Snuff<lb rend="hidden" type="hyphenInWord"/>box and Cane to prove he was satyrized in the same Character. I asked this Gentleman's Name, and was told, he was <hi>a Roman Catho<lb rend="hidden" type="hyphenInWord"/>lick Lord.</hi>
+         </p>
+         <p>A Day or two after I was sent for, upon a slight Indisposition, to the young Lady's to whom the Poem is dedicated. She also took up the Character of <hi>Belinda</hi> with much Frank<lb rend="hidden" type="hyphenInWord"/>ness and good Humour, tho' the Author has given us a Key in his <note place="bottom" n="*">
+               <q rend="inline">The Character of <hi>Belinda</hi> (as it is here manag'd) resemble you in nothing but in Beauty. <bibl>Dedication to the <hi>Rape of the Lock.</hi>
+                  </bibl>
+               </q>
+            </note> Dedication, that he meant something further. This Lady is al<lb rend="hidden" type="hyphenInWord"/>so a <hi>Roman Catholick.</hi> At the same time others of the Characters were claim'd by some Per<lb rend="hidden" type="hyphenInWord"/>sons in the Room; and all of them <hi>Roman Catholicks.</hi>
+         </p>
+         <p>But to proceed to the Work it self.</p>
+         <p>In all things which are intricate, as Alle<lb rend="hidden" type="hyphenInWord"/>gories in their own Nature are, and especially
+<pb n="11" facs="10"/>
+those that are industriously made so, it is not to be expected we should find the Clue at first sight; but when once we have laid hold on that, we shall trace this our Author through all the Labyrinths, Doublings and Turnings of this intricate Composition.</p>
+         <p>First then let it be observed, that in the most demonstrative Sciences some <hi>Postulata</hi> are to be granted, upon which the rest is naturally founded. I shall desire no more than one <hi>Po<lb rend="hidden" type="hyphenInWord"/>stulatum</hi> to render this obvious to the meanest Capacity; which being granted me, I shall not only shew the Intent of this Work in gene<lb rend="hidden" type="hyphenInWord"/>ral, but also explain the very <hi>Names,</hi> and expose all his fictitious <hi>Characters</hi> in their true Light; and we shall find, that even his <hi>Spirits</hi> were not meerly contrived for the sake of <hi>Machinary.</hi>
+         </p>
+         <p>The only Concession which I desire to be made me, is, that by the <hi>Lock</hi> is meant
+<q>
+               <l>The BARRIER TREATY.</l>
+            </q>
+         </p>
+         <p n="1">I. First then I shall discover, that BELINDA represents GREAT BRITAIN, or (which is the same thing) her late MAJESTY. This is plain<lb rend="hidden" type="hyphenInWord"/>ly seen in his Description of her. <q>
+               <l>On her white Breast a sparkling Cross she bore.</l>
+            </q>
+Alluding to the antient Name of <hi>Albion,</hi> from her <hi>white Cliffs,</hi> and to the <hi>Cross,</hi> which is the Ensign of <hi>England.</hi>
+         </p>
+         <p n="2">
+            <pb n="12" facs="11"/>
+II. The BARON, who cuts off the Lock, or Barrier Treaty, is the E. of <hi>O<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>d.</hi>
+         </p>
+         <p n="3">III. CLARISSA, who lent the Scissars, my Lady <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>m.</hi>
+         </p>
+         <p n="4">IV. THALESTRIS, who provokes <hi>Belinda</hi> to resent the Loss of the Lock or Treaty, the D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>s of <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>gh.</hi>
+         </p>
+         <p n="5">V. SIR PLUME, who is mov'd by <hi>Thalestris</hi> to redemand it of <hi>Great Britain,</hi> P<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>ce <hi>Eu<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>ne,</hi> who came hither for that purpose.</p>
+         <p>There are other inferior Characters, which we shall observe upon afterwards; but I shall first explain the foregoing.</p>
+         <p>The first Part of the <hi>Baron</hi>'s Character is his being <hi>adventrous,</hi> or enterprizing, which is the common Epithet given the E<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap> of <hi>O<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>d</hi> by his Enemies. The Prize he aspires to is the T<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>y, in order to which he offers a Sacrifice. <q>
+               <l>—an Altar built</l>
+               <l>Of twelve vast <hi>French</hi> Romances neatly gilt.</l>
+            </q>
+Our Author here takes occasion maliciously to insinuate this Statesman's <hi>Love to France;</hi> re<lb rend="hidden" type="hyphenInWord"/>presenting the Books he chiefly studies to be
+<pb n="13" facs="12"/>
+vast <hi>French Romances.</hi> These are the vast Pro<lb rend="hidden" type="hyphenInWord"/>spects from the Friendship and Alliance of <hi>France,</hi> which he satyrically calls <hi>Romances,</hi> hinting thereby, that these Promises and Pro<lb rend="hidden" type="hyphenInWord"/>testations were no more to be relied on than those idle Legends. Of these he is said to build an Altar; to intimate, that all the Foun<lb rend="hidden" type="hyphenInWord"/>dation of his Schemes and Honours was fix'd upon the <hi>French Romances</hi> abovementioned. <q>
+               <l>A Fan, a Garter, Half a Pair of Gloves.</l>
+            </q>
+One of the things he sacrifices is a <hi>Fan,</hi> which both for its <hi>gaudy Show</hi> and <hi>perpetual Flutt'ring,</hi> has been made the Emblem of <hi>Woman.</hi> This points at the Change of the <hi>Ladies</hi> of the <hi>Bed<lb rend="hidden" type="hyphenInWord"/>chamber;</hi> the <hi>Garter</hi> alludes to the Honours he conferr'd on some of his Friends; and we may without straining the Sense, call the Half Pair of Gloves, a <hi>Gauntlet;</hi> the Token of those Military Employments, which he is said to have sacrificed to his Designs. The Prize, as I said before, means the T<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>y, which he makes it his Prayers <hi>soon to obtain,</hi> and <hi>long to possess.</hi> 
+            <q>
+               <l>The Pow'rs gave ear, and granted half his Pray'r,</l>
+               <l>The rest the Winds dispers'd in empty Air.</l>
+            </q>
+            <pb n="14" facs="13"/>
+In the first of these Lines he gives him the T<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>y, and in the last suggests that he should not long possess that Honour.</p>
+         <p>That <hi>Thalestris</hi> is the D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>s of <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>gh,</hi> appears both by her Nearness to <hi>Belinda,</hi> and by this Author's malevolent Suggestion, that she is a Lover of War. <q>
+               <l>To Arms, to Arms, the bold <hi>Thalestris</hi> cries.</l>
+            </q>
+But more particularly in several Passages in her Speech to <hi>Belinda,</hi> upon the cutting off the Lock, or Treaty. Among other things she says, <hi>Was it for this you bound your Locks in Paper Durance?</hi> Was it for this so much Paper has been spent to secure the Barrier Treaty?<q>
+               <l>Methinks already I your Tears survey,</l>
+               <l>Already hear the horrid things they say;</l>
+               <l>Already see you a degraded Toast.</l>
+            </q> This describes the Aspersions under which that good Princess suffer'd, and the Repen<lb rend="hidden" type="hyphenInWord"/>tance which must have followed the Dissolution of that Treaty, and particularly levels at the Refusal some People made to drink her M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>y's Health.</p>
+         <p>
+            <hi>Sir Plume</hi> (a proper Name for a Soldier) has all the Circumstances that agree with P<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>ce <hi>Eu<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>ne.</hi>
+            <q>
+               <pb n="15" facs="14"/>
+               <l>
+                  <hi>Sir Plume</hi> of Amber Snuff-box justly vain,</l>
+               <l>And the nice Conduct of a clouded Cane,</l>
+               <l>With earnest Eyes—</l>
+            </q> 'Tis remarkable, this General is a great Taker of Snuff as well as Towns; his Conduct of the clouded Cane gives him the Honour which is so justly his due, of an exact Conduct in Battle, which is figured by his Truncheon, the Ensign of a General. His earnest Eye, or the Viva<lb rend="hidden" type="hyphenInWord"/>city of his Look, is so particularly remarkable in him that this Character could be mistaken for no other, had not this Author purposely obscur'd it by the fictitious Circumstance of a <hi>round, unthinking Face.</hi>
+         </p>
+         <p>Having now explained the chief Characters of his <hi>Human Persons</hi> (for there are some o<lb rend="hidden" type="hyphenInWord"/>thers that will hereafter fall in by the by, in the Sequel of this Discourse) I shall next take in pieces his <hi>Machinary,</hi> wherein his Satyr is wholly confined to Ministers of State.</p>
+         <p>The SYLPHS and GNOMES at first sight ap<lb rend="hidden" type="hyphenInWord"/>peared to me to signify the two contending Parties of this Nation; for these being placed in the <hi>Air,</hi> and those on the <hi>Earth,</hi> I thought agreed very well with the common Denomi<lb rend="hidden" type="hyphenInWord"/>nation, HIGH and LOW. But as they are made to be the first Movers and Influencers of
+<pb n="16" facs="15"/>
+all that happens, 'tis plain they represent pro<lb rend="hidden" type="hyphenInWord"/>miseuously the <hi>Heads of Parties,</hi> whom he makes to be the Authors of all those Changes in the State, which are generally imputed to the Levity and Instability of the <hi>British</hi> Na<lb rend="hidden" type="hyphenInWord"/>tion. <q>
+               <l>This erring Mortals Levity may call.</l>
+               <l>Oh blind to Truth! the Sylphs contrive it all.</l>
+            </q>
+But of this he has given us a plain Demonstra<lb rend="hidden" type="hyphenInWord"/>tion; for speaking of these Spirits, he says in express Terms.<q>
+               <l>—The chief the Care of Nations own,</l>
+               <l>And guard with Arms Divine the <hi>British</hi> Throne.</l>
+            </q>
+         </p>
+         <p> And here let it not seem odd, if in this my<lb rend="hidden" type="hyphenInWord"/>sterious way of Writing, we find the same Person, who has before been represented by the <hi>Baron,</hi> again described in the Character of <hi>Ariel;</hi> it being a common way with Authors, in this fabulous Manner, to take such a Liber<lb rend="hidden" type="hyphenInWord"/>ty. As for instance, I have read in the <hi>English St. Evremont,</hi> that all the different Characters in <hi>Petronius</hi> are but <hi>Nero</hi> in so many different Appearances. And in the Key to the curious Romance of <hi>Barclay</hi>'s <hi>Argenis,</hi> that both <hi>Poli<lb rend="hidden" type="hyphenInWord"/>archus</hi> and <hi>Archombrotus</hi> mean only the <hi>King</hi> of <hi>Navarre.</hi>
+         </p>
+         <p>
+            <pb n="17" facs="16"/>
+We observe in the very Beginning of the Poem, that <hi>Ariel</hi> is possess'd of the Ear of <hi>Be<lb rend="hidden" type="hyphenInWord"/>linda;</hi> therefore it is absolutely necessary that this Person must be the Minister who was nearest the Queen. But whoever would be fur<lb rend="hidden" type="hyphenInWord"/>ther convinced, that he meant the late T<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>r, may know him by his Ensigns in the follow<lb rend="hidden" type="hyphenInWord"/>ing Line.<q>
+               <l>He rais'd his Azure Wand.—</l>
+            </q>
+         </p>
+         <p>His sitting on the Mast of a Vessel shows his presiding over the <hi>S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>th S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>a</hi> Tr<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>de. When <hi>Ariel</hi> assigns to his <hi>Sylphs</hi> all the Posts about <hi>Belinda,</hi> what is more clearly descri<lb rend="hidden" type="hyphenInWord"/>bed, than the Tr<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>r's disposing all the Pla<lb rend="hidden" type="hyphenInWord"/>ces of the Kingdom, and particularly about her M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>y? But let us hear the Lines.<q>
+               <l>—Ye Spirits, to your Charge repair,</l>
+               <l>The flutt'ring Fan be <hi>Zephyretta</hi>'s Care;</l>
+               <l>The Drops to thee, <hi>Brillante,</hi> we consign,</l>
+               <l>And, <hi>Momentilla,</hi> let the Watch be thine;</l>
+               <l>Do thou, <hi>Crispissa,</hi> tend her fav'rite Lock.</l>
+            </q> He has here particularized the Ladies and Wo<lb rend="hidden" type="hyphenInWord"/>men of the Bed-Chamber, the Keeper of the Cabinet, and her M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>y's Dresser, and im<lb rend="hidden" type="hyphenInWord"/>pudently given Nick-names to each.</p>
+         <p>
+            <pb n="18" facs="17"/>
+To put this Matter beyond all dispute, the <hi>Sylphs</hi> are said to be <hi>wond'rous fond of Place,</hi> in the Canto following, where <hi>Ariel</hi> is perched uppermost, and all the rest take their Places subordinately under him.</p>
+         <p>Here again I cannot but observe, the exces<lb rend="hidden" type="hyphenInWord"/>sive Malignity of this Author, who could not leave this Character of <hi>Ariel</hi> without the same invidious Stroke which he gave him in the Cha<lb rend="hidden" type="hyphenInWord"/>racter of the <hi>Baron</hi> before. <q>
+               <l>Amaz'd, confus'd, he saw his Pow'r expir'd,</l>
+               <l>Resign'd to Fate, and with a Sigh retir'd.</l>
+            </q>
+Being another Prophecy that he should resign his Place, which it is probable all Ministers do with a Sigh.</p>
+         <p>At the Head of the <hi>Gnomes</hi> he sets <hi>Ʋmbriel,</hi> a dusky melancholy Spright, who makes it his Business to give <hi>Belinda</hi> the Spleen; a vile and malicious Suggestion against some grave and worthy Minister. The Vapours, Fantoms, Visions, and the like, are the Jealousies, Fears, and Cries of Danger, that have so often af<lb rend="hidden" type="hyphenInWord"/>frighted and alarm'd the Nation. Those who are described in the House of Spleen under those several fantastical Forms, are the same whom their Ill-willers have so often called the <hi>Whimsical.</hi>
+         </p>
+         <p>The two foregoing Spirits being the only considerable Characters of the Machinary, I
+<pb n="19" facs="18"/>
+shall but just mention the <hi>Sylph</hi> that is wound<lb rend="hidden" type="hyphenInWord"/>ed with the Scissars at the Loss of the Lock, by whom is undoubtedly understood my L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>d <hi>To<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>d,</hi> who at that time received a Wound in his Character for making the Barrier Trea<lb rend="hidden" type="hyphenInWord"/>ty, and was cut out of his Employment upon the Dissolution of it: But that Spirit reunites, and receives no Harm; to signify, that it came to nothing, and his L-rdsh-p had no real Hurt by it.</p>
+         <p>But I must not conclude this Head of the Characters, without observing, that our Au<lb rend="hidden" type="hyphenInWord"/>thor has run through every Stage of Beings in search of Topicks for Detraction; and as he has characterized some Persons under Angels and Men, so he has others under Animals, and things inanimate. He has represented an emi<lb rend="hidden" type="hyphenInWord"/>nent Clergy-man as a Dog, and a noted Writer as a Tool. Let us examine the former.<q>
+               <l>—But <hi>Shock,</hi> who thought she slept too long,</l>
+               <l>Leapt up, and wak'd his Mistress with his Tongue.</l>
+               <l>Twas then, <hi>Belinda,</hi> if Report say true,</l>
+               <l>Thy Eyes first open'd on a Billet-doux.</l>
+            </q> By this <hi>Shock,</hi> it is manifest he has most auda<lb rend="hidden" type="hyphenInWord"/>tiously and profanely reflected on Dr. <hi>Sa<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>ch<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>ll,</hi> who leapt up, that is, into the Pulpit, and a<lb rend="hidden" type="hyphenInWord"/>waken'd <hi>Great Britain</hi> with his <hi>Tongue,</hi> that is,
+<pb n="20" facs="19"/>
+with his <hi>Sermon,</hi> which made so much <hi>Noise;</hi> and for which he has frequently been term'd by others of his Enemies, as well as by this Author, a Dog: Or perhaps, by his <hi>Tongue,</hi> may be more literally meant his <hi>Speech</hi> at his <hi>Trial,</hi> since immediately thereupon, our Au<lb rend="hidden" type="hyphenInWord"/>thor says, her Eyes open'd on a <hi>Billet-doux; Billets-doux</hi> being Addresles to Ladies from Lovers, may be aptly interpreted those Ad<lb rend="hidden" type="hyphenInWord"/>dresses of Loving Subjects to her M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>y, which ensued that Trial.</p>
+         <p>The other Instance is at the End of the third Canto.<q>
+               <l>Steel did the Labours of the Gods destroy,</l>
+               <l>And strike to Dust th'Imperial Tow'rs of <hi>Troy.</hi>
+               </l>
+               <l>Steel could the Works of mortal Pride confound,</l>
+               <l>And hew triumphal Arches to the Ground.</l>
+            </q>
+         </p>
+         <p>Here he most impudently attributes the De<lb rend="hidden" type="hyphenInWord"/>molition of <hi>Dunkirk,</hi> not to the Pleasure of her M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>y, or her Ministry, but to the frequent Instigations of his Friend Mr. <hi>Steel;</hi> a very artful Pun to conceal his wicked Lampoo<lb rend="hidden" type="hyphenInWord"/>nery!</p>
+         <p>Having now considered the general Intent and Scope of the Poem, and open'd the Cha<lb rend="hidden" type="hyphenInWord"/>racters, I shall next discover the Malice which is covered under the Episodes, and particular Passages of it.</p>
+         <p>
+            <pb n="21" facs="20"/>
+The Game at <hi>Ombre</hi> is a mystical Represen<lb rend="hidden" type="hyphenInWord"/>tation of the late War, which is hinted by his making Spades the Trump; Spade in <hi>Spanish</hi> signifying a Sword, and being yet so painted in the Cards of that Nation; to which it is well known we owe the Original of our Cards. In this one Place indeed he has unawares paid a Compliment to the Queen, and her Suc<lb rend="hidden" type="hyphenInWord"/>cess in the War; for <hi>Belinda</hi> gets the better of the two that play against her, the Kings of <hi>France</hi> and <hi>Spain.</hi>
+         </p>
+         <p>I do not question but ev'ry particular Card has its Person and Character assigned, which, no doubt, the Author has told his Friends in private; but I shall only instance in the De<lb rend="hidden" type="hyphenInWord"/>scription of the Disgrace under which the D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap> of <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>ough</hi> then suffer'd, which is so appa<lb rend="hidden" type="hyphenInWord"/>rent in these Verses.<q>
+               <l>Ev'n mighty <hi>Pam,</hi> that Kings and Queens o'er<lb rend="hidden" type="hyphenInWord"/>threw,</l>
+               <l>And mow'd down Armies in the Fights of <hi>Lu,</hi>
+               </l>
+               <l>Sad Chance of War! now destitute of Aid,</l>
+               <l>Falls undistinguish'd—</l>
+            </q>
+         </p>
+         <p>That the Author here had an Eye to our modern Transactions, is very plain from an unguarded Stroke towards the End of this Game.<q>
+               <pb n="22" facs="21"/>
+               <l>And now, as oft in some <hi>distemper'd State,</hi>
+               </l>
+               <l>On <hi>one nice Trick</hi> depends the gen'ral Fate.</l>
+            </q>
+         </p>
+         <p>After the Conclusion of the War, the pub<lb rend="hidden" type="hyphenInWord"/>lick Rejoicings and <hi>Thanksgivings</hi> are ridiculed in the two following Lines. <q>
+               <l>The Nymph exalting fills with Shouts the Sky,</l>
+               <l>The Walls, the Woods, and long Canals reply.</l>
+            </q>
+Immediately upon which there follows a ma<lb rend="hidden" type="hyphenInWord"/>licious Insinuation, in the manner of a Prophe<lb rend="hidden" type="hyphenInWord"/>cy (which we have formerly observ'd this se<lb rend="hidden" type="hyphenInWord"/>ditious Writer delights in) that the Peace should continue but a short time, and that the Day should afterwards be curst which was then celebrated with so much Joy.<q>
+               <l>Sudden these Honours shall be snatch'd away,</l>
+               <l>And curst for ever this Victorious Day.</l>
+            </q>
+         </p>
+         <p>As the Game at <hi>Ombre</hi> is a satyrical Repre<lb rend="hidden" type="hyphenInWord"/>sentation of the late War; so is the Tea-Table that ensues, of the Council-Table and its Con<lb rend="hidden" type="hyphenInWord"/>sultations after the Peace. By this he would hint, that all the Advantages we have gain'd by our late extended Commerce, are only Cof<lb rend="hidden" type="hyphenInWord"/>fee
+<pb n="23" facs="22"/>
+and Tea, or things of no greater Value. That he thought of the Trade in this Place, appears by the Passage where he represents the <hi>Sylphs</hi> particularly careful of the <hi>rich Bro<lb rend="hidden" type="hyphenInWord"/>cade;</hi> it having been a frequent Complaint of our Mercers, that <hi>French Brocades</hi> were im<lb rend="hidden" type="hyphenInWord"/>ported in too great Quantities. I will not say, he means those Presents of rich Gold Stuff Suits, which were said to be made her M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>y by the K<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap> of F<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>, tho' I cannot but sus<lb rend="hidden" type="hyphenInWord"/>pect, that he glances at it.</p>
+         <p>Here this Author, as well as the scandalous <hi>John Dunton,</hi> represents the Mi<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>ry in plain Terms taking frequent Cups.<q>
+               <l>And frequent Cups prolong the rich Repast.</l>
+            </q>
+         </p>
+         <p>Upon the whole, it is manifest he meant something more than common Coffee, by his calling it,
+<q>
+               <l>Coffee that makes the <hi>Politician</hi> wise.</l>
+            </q>
+And by telling us, it was this Coffee, that
+<q>
+               <l>Sent up in Vapours to the <hi>Baron</hi>'s Brain</l>
+               <l>New <hi>Stratagems</hi>—</l>
+            </q>
+I shall only further observe, that 'twas at this Table the Lock was cut off; for where but at the Council Board should the Barrier Treaty be dissolved?</p>
+         <p>
+            <pb n="24" facs="23"/>
+The ensuing Contentions of the Parties upon the Loss of that Treaty, are described in the Squabbles following the Rape of the Lock; and this he rashly expresses, without any disguise in the Words. <q>
+               <l>All side in <hi>Parties</hi>—</l>
+            </q>
+Here first you have a Gentleman who sinks beside his Chair: a plain Allusion to a Noble Lord, who lost his Chair of Pre<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>nt of the Co<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>l.</p>
+         <p>I come next to the <hi>Bodkin,</hi> so dreadful in the Hand of <hi>Belinda;</hi> by which he intimates the <hi>British Scepter</hi> so rever'd in the Hand of our late August Princess. His own Note upon this Place tells us he alludes to a Scepter; and the Verses are so plain, they need no Remark.<q>
+               <l>The same (his antient Personage to deck)</l>
+               <l>Her great great Grandsire wore about his Neck</l>
+               <l>In three Seal Rings, which, after melted down,</l>
+               <l>Form'd a vast Buckle for his Widow's Gown;</l>
+               <l>Her Infant Grandame's Whistle next it grew,</l>
+               <l>The Bells she gingled, and the Whistle blew,</l>
+               <l>
+                  <pb n="25" facs="24"/>
+Then in a Bodkin grac'd her Mother's Hairs,</l>
+               <l>Which long she wore, and now <hi>Belinda</hi> wears.</l>
+            </q>
+         </p>
+         <p>An open Satyr upon <hi>Hereditary Right.</hi> The three Seal Rings plainly allude to the three Kingdoms.</p>
+         <p>These are the chief Passages in the Battle, by which, as hath before been said, he means the Squabble of Parties. Upon this Occasion he could not end the Description of them, without testifying his malignant Joy at those Dissentions, from which he forms the Prospect that <hi>both</hi> should be disappointed, and cries out with Triumph, as if it were already accom<lb rend="hidden" type="hyphenInWord"/>plished.<q>
+               <l>Behold how oft ambitious Arms are crost,</l>
+               <l>And Chiefs contend till all the Prize is lost.</l>
+            </q>
+         </p>
+         <p>The Lock at length is turn'd into a <hi>Star,</hi> or the Old Barrier Treaty into a new and glori<lb rend="hidden" type="hyphenInWord"/>ous <hi>Peace;</hi> this no doubt is what the Author, at the time he printed his Poem, would have been thought to mean, in hopes by that Com<lb rend="hidden" type="hyphenInWord"/>plement to escape Punishment for the rest of his Piece. It puts me in mind of a Fellow, who concluded a bitter Lampoon upon the Prince and Court of his Days, with these Lines.<q>
+               <pb n="26" facs="25"/>
+               <l>God save the King, the Commons, and the Peers,</l>
+               <l>And grant the Author long may wear his Ears.</l>
+            </q>
+         </p>
+         <p>Whatever this Author may think of that Peace, I imagine it the most <hi>extraordinary Star</hi> that ever appear'd in our Hemisphere. A Star that is to bring us all the Wealth and Gold of the <hi>Indies;</hi> and from whose Influence, not Mr. <hi>John Partridge</hi> alone, (whose worthy Labours this Writer so ungenerously ridicules) but all true <hi>Britains</hi> may, with no less Autho<lb rend="hidden" type="hyphenInWord"/>rity than he, prognosticate the Fall of <hi>Lewis,</hi> in the Restraint of the exorbitant Power of <hi>France,</hi> and the Fate of <hi>Rome</hi> in the triumphant Con<lb rend="hidden" type="hyphenInWord"/>dition of the Church of <hi>England.</hi>
+         </p>
+         <p>We have now considered this Poem in its Political View, wherein we have shewn that it hath two different Walks of Satyr, the one in the Story it self, which is a Ridicule on the late Transactions in general; the other in the Machinary, which is a Satyr on the Mini<lb rend="hidden" type="hyphenInWord"/>sters of State in particular. I shall now show that the same Poem, taken in another Light, has a Tendency to Popery, which is secretly insinuated through the whole.</p>
+         <p>In the first place, he has conveyed to us the Doctrine of Guardian Angels and Patron Saints in the Machinary of his <hi>Sylphs,</hi> which being a
+<pb n="27" facs="26"/>
+Piece of Popish Superstition that hath been endeavoured to be exploded ever since the Re<lb rend="hidden" type="hyphenInWord"/>formation, he would here revive under this Disguise. Here are all the Particulars which they believe of those Beings, which I shall sum up in a few Heads.</p>
+         <p>1<hi>st.</hi> The Spirits are made to concern them<lb rend="hidden" type="hyphenInWord"/>selves with all human Acts in general.</p>
+         <p>2<hi>dly.</hi> A distinct Guardian Spirit or Patron is assigned to each Person in particular.<q>
+               <l>Of these am I, who thy Protection claim,</l>
+               <l>A watchful Sprite—</l>
+            </q>
+         </p>
+         <p>3<hi>dly.</hi> They are made directly to inspire Dreams, Visions, and Revelations.<q>
+               <l>Her Guardian <hi>Sylph</hi> prolong'd her balmy Rest,</l>
+               <l>'Twas he had summon'd to her silent Bed</l>
+               <l>The Morning Dream—</l>
+            </q>
+         </p>
+         <p>4<hi>thly.</hi> They are made to be subordinate, in different Degrees, some presiding over others. So <hi>Ariel</hi> hath his several Under-Officers at Command.<q>
+               <l>Superior by the Head was <hi>Ariel</hi> plac'd.</l>
+            </q>
+         </p>
+         <p>5<hi>thly.</hi> They are employed in various Offices, and each hath his Office assigned him.<q>
+               <pb n="28" facs="27"/>
+               <l>Some in the Fields of purest Aether play,</l>
+               <l>And bask and whiten in the Blaze of Duy.</l>
+               <l>Some guide the Course, <hi>&amp;c.</hi>
+               </l>
+            </q>
+         </p>
+         <p>6<hi>thly.</hi> He hath given his Spirits the Charge of the several Parts of Dress; intimating there<lb rend="hidden" type="hyphenInWord"/>by, that the Saints preside over the several Parts of Human Bodies. They have one Saint to cure the Tooth-ach, another cures the Gripes, another the Gout, and so of all the rest.<q>
+               <l>The flutt'ring Fan be <hi>Zephyretta</hi>'s Care,</l>
+               <l>The Drops to thee, <hi>Brillante,</hi> we consign, <hi>&amp;c.</hi>
+               </l>
+            </q>
+         </p>
+         <p>7<hi>thly.</hi> They are represented to know the Thoughts of Men.<q>
+               <l>As on the Nosegay in her Breast reclin'd,</l>
+               <l>He watch'd th' Ideas rising in her Mind.</l>
+            </q>
+         </p>
+         <p>8<hi>thly.</hi> They are made Protectors even to Animals and irrational Beings.<q>
+               <hi>Ariel</hi> himself shall be the Guard of <hi>Shock.</hi>
+            </q> So St. <hi>Anthony</hi> presides over Hogs, <hi>&amp;c.</hi>
+         </p>
+         <p>9<hi>thly.</hi> Others are made Patrons of whole Kingdoms and Provinces.
+<q>
+               <l>Of these the chief the Care of Nations own.</l>
+            </q>
+            <pb n="29" facs="28"/>
+So St. <hi>George</hi> is imagined by the Papists to de<lb rend="hidden" type="hyphenInWord"/>fend <hi>England;</hi> St. <hi>Patrick, Ireland;</hi> St. <hi>James, Spain,</hi> &amp;c. Now what is the Consequence of all this? By granting that they have this Power, we must be brought back again to pray to them.</p>
+         <p>The <hi>Toilette</hi> is an artful Recommendation of the <hi>Mass,</hi> and pompous Ceremonies of the <hi>Church of Rome.</hi> The <hi>unveiling</hi> of the <hi>Altar,</hi> the <hi>Silver Vases</hi> upon it, being <hi>rob'd</hi> in <hi>White,</hi> as the Priests are upon the chief Festivals, and the <hi>Head uncover'd,</hi> are manifest Marks of this.
+<q>
+               <l>A heav'nly Image in the Glass appears,</l>
+               <l>To that she bends—</l>
+            </q>
+Plainly denotes <hi>Image-Worship.</hi>
+         </p>
+         <p>The <hi>Goddess,</hi> who is deck'd with <hi>Treasures, Jewels,</hi> and the <hi>various Offerings of the World,</hi> manifestly alludes to the Lady of <hi>Loretto.</hi> You have Perfumes breathing from the <hi>Incense Pot</hi> in the following Line.<q>
+               <l>And all <hi>Arabia</hi> breaths from yonder Box.</l>
+            </q>
+         </p>
+         <p>The Character of <hi>Belinda,</hi> as we take it in this third View, represents the Popish Reli<lb rend="hidden" type="hyphenInWord"/>gion, or the Whore of <hi>Babylon;</hi> who is descri<lb rend="hidden" type="hyphenInWord"/>bed in the State this malevolent Author wishes for, coming forth in all her Glory upon the <hi>Thames,</hi> and overspreading the Nation with Ceremonies.<q>
+               <pb n="30" facs="29"/>
+               <l>Not with more Glories in th'aetherial Plain,</l>
+               <l>The Sun first rises o'er the purple Main,</l>
+               <l>Than issuing forth the Rival of his Beams,</l>
+               <l>Launch'd on the Bosom of the Silver <hi>Thames.</hi>
+               </l>
+            </q>
+         </p>
+         <p>She is dress'd with a <hi>Cross</hi> on her Breast, the Ensign of Popery, the <hi>Adoration</hi> of which is plainly recommended in the following Lines.<q>
+               <l>On her white Breast a sparkling <hi>Cross</hi> she wore,</l>
+               <l>Which Jews might <hi>kiss,</hi> and Infidels <hi>adore.</hi>
+               </l>
+            </q>
+         </p>
+         <p>Next he represents her as the <hi>Ʋniversal Church,</hi> according to the Boasts of the Papists.
+<q>
+               <l>And like the Sun she shines on all alike.</l>
+            </q>
+After which he tells us,
+<q>
+               <l>If to her Share some Female Errors fall,</l>
+               <l>Look on her Face, and you'll forget them all.</l>
+            </q>
+Tho' it should be granted some Errors fall to her share, look on the pompous Figure she makes throughout the World, and they are not worth regarding. In the Sacrifice following soon after, you have these two Lines. <q>
+               <l>For this, e'er <hi>Phoebus</hi> rose, he had implor'd</l>
+               <l>Propitious Heav'n, and ev'ry Pow'r ador'd.</l>
+            </q>
+            <pb n="31" facs="30"/>
+In the first of them, he plainly hints at their <hi>Matins;</hi> in the second, by adoring ev'ry Power, the <hi>Invocation of Saints.</hi>
+         </p>
+         <p>
+            <hi>Belinda</hi>'s Visits are described with numerous <hi>Wax-Lights,</hi> which are always used in the Ce<lb rend="hidden" type="hyphenInWord"/>remonial Parts of the <hi>Romish</hi> Worship.<q>
+               <l>—Visits shall be paid on solemn Days,</l>
+               <l>When num'rous Wax-lights in bright Order blaze.</l>
+            </q>
+         </p>
+         <p>The <hi>Lunar Sphere</hi> he mentions, opens to us their <hi>Purgatory,</hi> which is seen in the following Line. <q>
+               <l>Since all things lost on Earth are treasur'd there.</l>
+            </q>
+It is a Popish Doctrine, that scarce any Person quits this World, but he must touch at Purga<lb rend="hidden" type="hyphenInWord"/>tory in his way to Heaven; and it is here also represented as the <hi>Treasury</hi> of the <hi>Romish Church.</hi> Nor is it much to be wonder'd at, that the <hi>Moon</hi> should be <hi>Purgatory,</hi> when a Learned Divine hath in a late Treatise proved <hi>Hell</hi> to be in the <hi>Sun</hi>
+            <note place="bottom" n="*">The Reverend Dr. <hi>Swinden.</hi>
+            </note>.</p>
+         <p>I shall now before I conclude, desire the Reader to compare this Key with those upon any other Pieces, which are supposed to be se<lb rend="hidden" type="hyphenInWord"/>cret Satyrs upon the State, either antient or modern; as with those upon <hi>Petronius Arbiter,</hi>
+            <pb n="32" facs="31"/>
+            <hi>Lucian</hi>'s true History, <hi>Barclay</hi>'s <hi>Argenis,</hi> or <hi>Rab<lb rend="hidden" type="hyphenInWord"/>lais</hi>'s <hi>Garagantua;</hi> and I doubt not he will do me the Justice to acknowledge, that the Ex<lb rend="hidden" type="hyphenInWord"/>planations here laid down, are deduced as na<lb rend="hidden" type="hyphenInWord"/>turally, and with as little force, both from the general Scope and Bent of the Work, and from the several Particulars, and are every way as consistent and undeniable as any of those; and ev'ry way as candid as any modern Interpre<lb rend="hidden" type="hyphenInWord"/>tations of either Party on the mysterious State Treatises of our Times.</p>
+         <p>To sum up my whole Charge against this Author in a few Words: He has ridiculed both the present Mi<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+               <desc>blank</desc>
+            </gap>ry and the last; abused great Statesmen and great Generals; nay the Trea<lb rend="hidden" type="hyphenInWord"/>ties of whole Nations have not escaped him, nor has the Royal Dignity it self been omitted in the Progress of his Satyr; and all this he has done just at the Meeting of a new Parliament. I hope a proper Authority may be made use of to bring him to condign Punishment: In the mean while I doubt not if the Persons most concern'd would but order Mr. <hi>Bernard Lin<lb rend="hidden" type="hyphenInWord"/>tott,</hi> the Printer and Publisher of this dange<lb rend="hidden" type="hyphenInWord"/>rous Piece, to be taken into Custody, and exa<lb rend="hidden" type="hyphenInWord"/>min'd; many further Discoveries might be made both of this Poet's and his Abettor's se<lb rend="hidden" type="hyphenInWord"/>cret Designs, which are doubtless of the utmost Importance to the Government.</p>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

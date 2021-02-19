@@ -1,0 +1,1729 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. George's Bloomsbury, on Sunday, March 28: for the benefit of the Humane Society, ... By Thomas Francklin, ...</title>
+            <author>Francklin, Thomas, 1721-1784.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024489.000</idno>
+            <idno type="docno">CW3319150459</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. George's Bloomsbury, on Sunday, March 28: for the benefit of the Humane Society, ... By Thomas Francklin, ...</title>
+                  <author>Francklin, Thomas, 1721-1784.</author>
+               </titleStmt>
+               <extent>63,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for the Society, and sold by T. Cadell, J. F. and C. Rivington, E. and C. Dilly, W. Fox, and W. Owen,</publisher>
+                  <date>1779.</date>
+                  <idno type="TCP">K024489.000</idno>
+                  <idno type="docno">CW3319150459</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Society sanction printing on the 9th April 1779.</note>
+                  <note>Pp. 37-63 contain an account of the Society.</note>
+                  <note>Half-title: 'A sermon preached before the Humane Society'.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT9290.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>A SERMON PREACHED BEFORE THE HUMANE SOCIETY, [PRICE ONE SHILLING.]</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>A SERMON PREACHED AT ST. GEORGE'S BLOOMSBURY, ON SUNDAY, MARCH 28, FOR THE BENEFIT OF THE HUMANE SOCIETY, INSTITUTED FOR THE RECOVERY OF PERSONS APPARENTLY DEAD BY DROWNING.</p>
+            <p>BY THOMAS FRANCKLIN, D.D. CHAPLAIN TO HIS MAJESTY, AND RECTOR OF BRASTED, KENT.</p>
+            <p>
+               <figure rend="block">
+                  <p>LATEAT SCINTILLVLA FORSAN</p>
+                  <p>HOC PRETIVM CIVE SERVATO TVLIT</p>
+                  <p>SOC. LOND. IN RESVSCITAT. INTERMORTVORVM INS. MDCCLXXIV</p>
+               </figure>
+            </p>
+            <p>LONDON: PRINTED FOR THE SOCIETY, And sold by T. CADELL in the Strand, J. F. and C. RIVING<lb rend="hidden" type="hyphenInWord"/>TON in St. Paul's Church-yard, E. and C. DILLY in the Poultry, W. FOX Holborn, and W. OWEN at Temple-bar, MDCCLXXIX.</p>
+         </div>
+         <div type="proposaltoprint">
+            <pb facs="3"/>
+            <opener>
+               <dateline>Anniversary Meeting of the Society, <date>9th <hi>April,</hi> 1779.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Ordered unanimously,</hi>
+            </p>
+            <p>THAT the Thanks of this Society be given to the Rev. Dr. FRANCKLIN, for his excellent Sermon preached in Fa<lb rend="hidden" type="hyphenInWord"/>vour of this Institution, and that the Doctor be requested to publish the same.</p>
+            <closer>
+               <signed>W. HAWES, Secretary.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="4"/>
+            <p>TO ROBERT PALMER, ESQ. ONE OF THE FIRST PATRONS AND SUPPORTERS OF THE HUMANE SOCIETY, THIS SERMON IS INSCRIBED</p>
+            <closer>
+               <signed>BY HIS OBEDIENT HUMBLE SERVANT THE AUTHOR.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <pb n="9" facs="5"/>
+         <head>A SERMON.</head>
+         <epigraph>
+            <q>
+               <bibl>SAMUEL, B. I, C. XX. V. 3.</bibl> THERE IS BUT A STEP BETWEEN ME AND DEATH.</q>
+         </epigraph>
+         <p>THESE, my brethren, are the words of the afflicted David, which he uttered in the deepest anguish, to his be<lb rend="hidden" type="hyphenInWord"/>loved Jonathan. Saul's anger, which he had unwarily though undeservedly in<lb rend="hidden" type="hyphenInWord"/>curred, had to the last degree terrified and alarmed him; he knew the power of his adversary, and dreaded, not with<lb rend="hidden" type="hyphenInWord"/>out reason, the warmth of his resentment.
+<pb n="10" facs="6"/>
+The danger appear'd so great, and the consequence so unavoidable, that he could not entertain the least hope of safety, but gave himself up to despair: <hi>There is but a step,</hi> said he, <hi>between me and death.</hi> His situation indeed, all things considered, seemed extremely desperate; ruin and de<lb rend="hidden" type="hyphenInWord"/>struction were immediately before him, and there was scarce a probability of es<lb rend="hidden" type="hyphenInWord"/>caping it: but what is there which active benevolence and disinterested friendship will not at tempt, what is there which they cannot perform? Jonathan, whose heart glowed with the tenderest affection for his persecuted and afflicted friend, soon devised the means of unexpected safety, and stepped in between him and death; turned aside the uplifted dart, and restor<lb rend="hidden" type="hyphenInWord"/>ed him to peace, honour, and felicity. The manner in which he acted on this occasion, and the ingenious device which he put in practice to redeem his friend, are described at large in the chapter from whence my text is taken, where the whole interesting tale is told in that pathetic lan<lb rend="hidden" type="hyphenInWord"/>guage, and with that artless simplicity,
+<pb n="11" facs="7"/>
+which so eminently distinguish the sacred writings.</p>
+         <p>Leaving therefore the recollection and perusal, with all those reflections which will naturally occur to you from the con<lb rend="hidden" type="hyphenInWord"/>sideration of it, to your own leisure and opportunity, I shall proceed immediately to that obvious application of it, which naturally presents itself on the present oc<lb rend="hidden" type="hyphenInWord"/>casion, and to the original of that excel<lb rend="hidden" type="hyphenInWord"/>lent and benevolent institution which we are here met to commemorate.</p>
+         <p>The words before us seem to point out and describe the general state of man, and the precarious condition of our frail and transitory being, so aptly compared in scrip<lb rend="hidden" type="hyphenInWord"/>ture to the grass of the field, which <hi>spring<lb rend="hidden" type="hyphenInWord"/>eth up in the morning, and in the evening is cut down, dried up and withered:</hi> life is in its nature so uncertain, and even at its ut<lb rend="hidden" type="hyphenInWord"/>most extent so short and fleeting, that every one of us might with propriety cry out with David—<hi>there is but a step between me and death.</hi>
+         </p>
+         <p>
+            <pb n="12" facs="8"/>
+But the exclamation of Jonathan's dis<lb rend="hidden" type="hyphenInWord"/>tressed friend seems peculiarly adapted to the situation of those whose lives are endan<lb rend="hidden" type="hyphenInWord"/>gered on a sudden by some unforeseen ac<lb rend="hidden" type="hyphenInWord"/>cident or calamity, which from a state of perfect safety and happiness reduces them to that of extreme peril, and from which nothing but a change as unhoped for as unexpected can possibly deliver them: and this, my brethren, is immediately appli<lb rend="hidden" type="hyphenInWord"/>cable to the objects which the Charity I am here endeavouring to recommend is intended to relieve.</p>
+         <p>Great as the improvements are which in this and other nations have of late years been made in every branch of me<lb rend="hidden" type="hyphenInWord"/>dical knowledge, yet is the investigation of our own complicated frame still at<lb rend="hidden" type="hyphenInWord"/>tended with insuperable difficulties: like the rest of the works of God, it mocketh the art of man; we are, as the Psalmist long since observed, so <hi>fearfully and won<lb rend="hidden" type="hyphenInWord"/>derfully made,</hi> that we know not with any degree of precision where our own ex<lb rend="hidden" type="hyphenInWord"/>istence either begins or ends, and the re<lb rend="hidden" type="hyphenInWord"/>semblance
+<pb n="13" facs="9"/>
+of death is too often mistaken for death itself: the marks are so equi<lb rend="hidden" type="hyphenInWord"/>vocal as to deceive the nicest judgment, and to mislead the most acute sagacity; hence it hath arisen, as the recommenders of this charity have frequently remarked, that before this excellent institution took place amongst us, many, too many, alas! have paid the debt of nature long before it became due unto her, many are lost in the valley of the shadow of death who might even now have trodden in the chearful paths of life and being.</p>
+         <p>Simple as the process is which we have adopted, plain and obvious as the means are which we have invariably pursued, it cannot indeed but raise our astonishment and wonder that they were not long since embraced, and universally put into prac<lb rend="hidden" type="hyphenInWord"/>tice; but there is perhaps a time appoint<lb rend="hidden" type="hyphenInWord"/>ed by providence for all things that happen in this world, which we can neither anti<lb rend="hidden" type="hyphenInWord"/>cipate nor retard. In the days of bigotry and superstition an attempt of this nature would have been stiled rash and presump<lb rend="hidden" type="hyphenInWord"/>tuous;
+<pb n="14" facs="10"/>
+in the days of ignorance and in<lb rend="hidden" type="hyphenInWord"/>dolence it would have been derided as useless and impracticable: even in our own, even in this enlightened aera, it hath been a work of no little toil and labour to confirm and establish it. This child of benevolence, fair and well proportioned as it now appears before you, was frowned on at its birth; it had to combat with the fears of the diffident, the opposition of the selfish, the sneer of the malevolent, and the reproof of the scornful. But, thanks be to the great inspirer of every good word and work! our little bark hath at length stemmed the torrent of prejudice, broke thro' the waves of envy and malice, and is landed safely in the harbour of public approbation. We are surprised at what hath been already done, when we consider how short a space hath been employed in the peformance of it; we look back with astonishment, and forwards with delight and satisfaction.</p>
+         <p>Not five years, my brethren, have elapsed since first we went forth to sow
+<pb n="15" facs="11"/>
+our seed, and see what noble sheaves we have to boast, and what a plenteous har<lb rend="hidden" type="hyphenInWord"/>vest. In this short space, I am authorised to inform this assembly, four hundred and sixty-seven cases have been brought before us—Now, mark, I beseech you, with at<lb rend="hidden" type="hyphenInWord"/>tention what follows—of these no less than two hundred and seventy have been <hi>mi<lb rend="hidden" type="hyphenInWord"/>raculously</hi> successful. More than one half of them. Have we not then, my breth<lb rend="hidden" type="hyphenInWord"/>ren, fought nobly with the king of ter<lb rend="hidden" type="hyphenInWord"/>rors? we have diminished his conquests, and abridged his triumphs: we have at least divided the spoils, and more than poised in equal balance the scale of vic<lb rend="hidden" type="hyphenInWord"/>tory.</p>
+         <p>True Charity, like true beauty, to be admired and embraced needs only to be seen and known. It wants no patronage to recommend, no art to emblazon, no eloquence to adorn it. And such is the happy lot of the institution now before you, which hath already met with more success than our most sanguinary hopes could ever have formed an idea of.</p>
+         <p>
+            <pb n="16" facs="12"/>
+The blessing which we have been so fortunate as to confer, is of such a na<lb rend="hidden" type="hyphenInWord"/>ture that it is not confined to the individual who receives it; many a dependant friend, many a thankful relation, many a happy family croud round, and pour forth their grateful acknowledgments for it.</p>
+         <p>But in cases of this nature argument must ever give way to fact: the tinsel of oratory will avail but little, unless sup<lb rend="hidden" type="hyphenInWord"/>ported by the unerring testimony of ex<lb rend="hidden" type="hyphenInWord"/>perience. To this therefore I would wish to appeal. I would wish to draw your attention towards some of those interesting scenes which this institution hath at various times exhibited and called forth. Permit me to carry you with me but in imagina<lb rend="hidden" type="hyphenInWord"/>tion to one of the most tender and affect<lb rend="hidden" type="hyphenInWord"/>ing, and which, if you had heen eye<lb rend="hidden" type="hyphenInWord"/>witness of, would never have been for<lb rend="hidden" type="hyphenInWord"/>gotten by you. O, for the eloquence of a Demosthenes to describe, or the pencil <note place="bottom" n="*">The little imperfect narrative here given might, I think, furnish matter to some of our eminent ar<lb rend="hidden" type="hyphenInWord"/>tists for an excellent picture; I would therefore recommend it to my friends, Sir Joshua Reynolds, Mr. West, or that ingenious moral painter Mr. Penny, to try their skill upon it.</note> of a Raphael to delineate it!</p>
+         <p>
+            <pb n="17" facs="13"/>
+Suppose yourselves then, my brethren, but for a few moments, in your evening walk of rural retirement, on the borders of a delightful stream, imagine your contem<lb rend="hidden" type="hyphenInWord"/>plations interrupted by a strange and un<lb rend="hidden" type="hyphenInWord"/>common appearance. At a little distance from you behold a busy bustling croud of industrious labourers encircling the body of their hapless companion, whom they have taken, at the hazard of their own lives, out of the neighbouring river, and dragged to the shore without life or motion. Scarce an hour has passed since the object of their grief and attention had left his little circle of domestic happiness in all the glow of youth, health, and vigour. And now behold his body swolln, his eyes closed and sunk, his face pale and livid, his limbs torpid and motionless: without the least signs of life they convey him in hopeless despondency to his own home. The whole afflicted family, sum<lb rend="hidden" type="hyphenInWord"/>moned
+<pb n="18" facs="14"/>
+by the dreadful news are gathered together. Fear, despondency, horror, and astonishment are spread over every coun<lb rend="hidden" type="hyphenInWord"/>tenance. On one side behold the aged mother lamenting her lost child, the prop and support of her declining years; on the other stands mute and insensible the af<lb rend="hidden" type="hyphenInWord"/>flicted wife, afraid to look up to the hor<lb rend="hidden" type="hyphenInWord"/>rid spectacle before her; whilst the in<lb rend="hidden" type="hyphenInWord"/>nocent little ones, happy only in not knowing how much they have lost, look with amazement at the motionless hands which so lately were stretched out to em<lb rend="hidden" type="hyphenInWord"/>brace them, and wonder at the silence of him who always so kindly greeted them on his return. Those who would most gladly take upon them the task of restor<lb rend="hidden" type="hyphenInWord"/>ing him are most unable to perform it; their faculties are all absorbed in grief, their limbs petrified with despair, and all the precious moments which should have been employed in the means of his reco<lb rend="hidden" type="hyphenInWord"/>very, are lost in fruitless tears and useless lamentation. They hang over him in silent anguish, take their last farewell in
+<pb n="19" facs="15"/>
+the agonies of despair, and consign him to the grave.</p>
+         <p>And now, my brethren, observe the change. It chances that one of the sons of humanity, (which is but another name for this institution) is passing by; as soon as he hears of the event, he flies, like the good Samaritan, to the chambers of sor<lb rend="hidden" type="hyphenInWord"/>row, he stops the retreating multitude, the idle sons of curiosity who had assem<lb rend="hidden" type="hyphenInWord"/>bled but to gaze at and desert him, calls on the most vigorous and active amongst them, to assist him, applies with zeal and alacrity those plain and simple means which reason dictates, as the most proper to reanimate, if possible, the lifeless mass, and pursues them with ceaseless toil and unwearied assiduity. Death, yet unwil<lb rend="hidden" type="hyphenInWord"/>ling to quit his hold, or relinquish his de<lb rend="hidden" type="hyphenInWord"/>voted prey, struggles long and power<lb rend="hidden" type="hyphenInWord"/>fully to detain it: seems to smile, as it were, at the ineffectual labour; till at length subdued by fortitude and persever<lb rend="hidden" type="hyphenInWord"/>ance he gives up the contest. Nature, no longer able to resist such repeated solicita<lb rend="hidden" type="hyphenInWord"/>tations,
+<pb n="20" facs="16"/>
+resumes her suspended powers, and exerts her enlivening influence. A ray of hope breaks in upon the gloom, and lights up every countenance. Behold, at last, again he moves, he breathes, he lives. What follows is not within the power of language to describe; imagination alone can suggest to you the delightful scene of wonder and astonishment, of mutual joy, transport and felicity.</p>
+         <p>This, my brethren, is not merely the ideal visionary work of creative fancy, but a real and true, however imperfect representation of what hath not once but often happened since the institution of this benevolent society. Had you, who are here assembled, all been present at it, I hope and believe there is not one of you but on his return from it would most chearfully contribute towards the support of such a charity. Why then should I not also hope that even this faint idea and resemblance of such a scene will strike so forcibly on your minds as to expand them into chearful beneficence?</p>
+         <p>
+            <pb n="21" facs="17"/>
+But this, my brethren, great as it may seem, is not all which we have to urge in favour of this noble charity, we can boast of still greater triumphs, and glory in a yet nobler victory, a triumph over despair, and a victory over sin and satan.</p>
+         <p>If there be a crime that seemeth to pre<lb rend="hidden" type="hyphenInWord"/>clude all hopes of the divine mercy, it is certainly that of self murther; as it ad<lb rend="hidden" type="hyphenInWord"/>mits not, like all others, either of repara<lb rend="hidden" type="hyphenInWord"/>tion or repentance; it is indeed the highest and most unpardonable offence against our Almighty Creator, being at the same time an impious distrust of his goodness, and a daring defiance of his power. And yet this horrid practice is become of late years a darling and a fashionable vice amongst us; this <hi>pestilence</hi> that used to <hi>walk in darkness,</hi> now <hi>stalketh in the noon day.</hi>
+         </p>
+         <p>Whether it be owing to that penury and distress which are the inevitable con<lb rend="hidden" type="hyphenInWord"/>sequence of universal dissipation and ex<lb rend="hidden" type="hyphenInWord"/>travagance, to the want of true, or the prevalence of false religion amongst us,
+<pb n="22" facs="18"/>
+to the daring confidence of infidelity, or the equally fatal desponding gloom of methodism,<note place="bottom" n="*">I am informed by a gentleman of fortune and undoubted veracity in the country of L—r, that since the building of two chapels by a pious Lady of Quality, for the reception of the Methodists, there have been repeated instances of self-murther, a crime which was scarce ever heard of or practised in that part of the kingdom, till after the intro<lb rend="hidden" type="hyphenInWord"/>duction and encouragement of those pernicious people.</note> we cannot possibly deter<lb rend="hidden" type="hyphenInWord"/>mine, but certain it is, that not a year, not a month, scarce a day passeth but we have some melancholy instances and ex<lb rend="hidden" type="hyphenInWord"/>amples of it: how happy then, my breth<lb rend="hidden" type="hyphenInWord"/>ren, must we esteem ourselves, in being able to trace the steps of our blessed re<lb rend="hidden" type="hyphenInWord"/>deemer, and to have contributed towards the saving even a few of our fellow-crea<lb rend="hidden" type="hyphenInWord"/>tures from everlasting misery! Without our kind and seasonable assistance, they would have rush'd with all their sins into the presence of their judge, and <hi>the waters would have gone even over their souls.</hi> It may be said, indeed, (and something is
+<pb n="23" facs="19"/>
+always said by the malevolent and injudi<lb rend="hidden" type="hyphenInWord"/>cious to lessen the merit of good works) that those who are determined to rush on death, if they are deprived of one method, will only have resource to another; and that we shall not therefore by this institu<lb rend="hidden" type="hyphenInWord"/>tion, much lessen the number of self-de<lb rend="hidden" type="hyphenInWord"/>stroyers. But surely, my brethren, if we can turn aside but one of the arrows of death, if we can shut up one door to eter<lb rend="hidden" type="hyphenInWord"/>nal misery and perdition, the trial is wor<lb rend="hidden" type="hyphenInWord"/>thy of all our pains and all our assiduity. Happy, thrice happy are we to add on this occasion, that not one of those who have been prevented by us from executing their horrid purpose, have from the hour of their deliverance, ever sought for the opportunity of repeating it.</p>
+         <p>But that the facts here alleged may want no proof to establish or confirm, behold the seal of truth here affixed unto them. Behold a <note place="bottom" n="*">A number of the happy objects who had been restored to life, men, women, and children, at<lb rend="hidden" type="hyphenInWord"/>tended divine service, and were placed in the gal<lb rend="hidden" type="hyphenInWord"/>lery immediately opposite to the preacher.</note> sight that will plead
+<pb n="24" facs="20"/>
+more powerfully than all which human eloquence could ever produce. Behold these living testimonies of human bene<lb rend="hidden" type="hyphenInWord"/>volence, these speaking monuments of the divine Mercy. Is it in the power of any sensual enjoyment to impart a pleasure equal to that which this glorious spectacle must bestow upon you?</p>
+         <p>What will prejudice and prepossession say to witnesses like these? Send us one from the grave, said Dives to the Patri<lb rend="hidden" type="hyphenInWord"/>arch, and we will believe. Behold, ye incredulous, not one but many: what Abraham then refused is now granted unto you. Behold them, my brethren, assembled in the house of God, to return their unfeigned thanks for his unmerited goodness towards them. Shall I not seize the opportunity to speak to and exhort them?</p>
+         <p>To you, then, ye favourites of Provi<lb rend="hidden" type="hyphenInWord"/>dence, ye chosen objects of its gracious
+<pb n="25" facs="21"/>
+attention, permit me to address myself; permit me to hope that you meet us here with hearts full of gratitude; that ye will not, that ye never can be unmindful of your benefactors; that ye will endeavour to return the obligations conferred on you, by a diligent and punctual discharge of every duty becoming Men and Christians. You are peculiarly indebted to Benevo<lb rend="hidden" type="hyphenInWord"/>lence; you owe her a richer sacrifice than the rest of mankind, and there is nothing so dear and precious, which you should not offer up unto her: shew therefore, your regard to those who have preserved you by acts of kindness and friendship; not to them, they neither want nor desire it, but to your fellow-creatures in distress; to all those who may fall into the like or any other calamity; be ever ready to fly with zeal and alacrity to rescue them from every danger, and relieve them under every affliction.</p>
+         <p>But above all, my friends, remember that gracious Providence which smiled on our endeavours, and blessed them with
+<pb n="26" facs="22"/>
+success. <hi>Not unto us, O Lord, not unto us, but unto thy name be all honour and glory.</hi> We are but weak and powerless instruments in the hands and under the guidance of the Almighty Creator, the great fountain of life and being, even the God of your salvation. <hi>Except the Lord build the house, their labour is but vain that build it. Except the Lord keep the city, the watchman waketh but in vain.</hi> To him, therefore, pour forth all your gratitude; to him give the tribute of praise and adoration. You, my breth<lb rend="hidden" type="hyphenInWord"/>ren, have been graciously distinguished by him who gave you a second life, and raised you to a double being; there is no way for you to repay the blessing, but by en<lb rend="hidden" type="hyphenInWord"/>deavouring, if possible, to deserve it. It becometh all men, but above all men it becometh those who have been thus mira<lb rend="hidden" type="hyphenInWord"/>culously preserved to take heed unto their ways, to be cautious and circumspect in every word and in every action. If ye are not the most diligent and faithful, ye must be the basest and most <hi>unprofitable of servants;</hi> if ye are not the most sober,
+<pb n="27" facs="23"/>
+chaste, the most thankful, pious and reli<lb rend="hidden" type="hyphenInWord"/>gious, ye are doubtless the most ungrate<lb rend="hidden" type="hyphenInWord"/>ful and most abandoned of men. This, my brethren, we most seriously and ear<lb rend="hidden" type="hyphenInWord"/>nestly entreat, this we have an indisputable right to demand of you. Very ungrateful indeed would it be to your benefactors, to spend that life which they have been so fortunate as to restore in the pursuit of vice and folly, in scenes of dissipation, riot, and debauchery. On you it depends, whether we are to consider the continu<lb rend="hidden" type="hyphenInWord"/>ance of your being as a blessing or a curse unto you, whether we are to rejoice in our success, or with tears of shame and sorrow to repent of it. If your days are but prolonged into guilt, and extended into sin and corruption, if you are given back to life only to offend the great Author of it, it were better that the waves had long since overwhelmed you; <hi>it were better,</hi> as our Saviour saith, <hi>that a mill-stone were hanged about your necks, and that ye were cast into the sea.</hi>
+         </p>
+         <p>
+            <pb n="28" facs="24"/>
+Need I add an exhortation to those whom the phrenzy of despair once urged to the commission of a crime which they have since that time, I am satisfyed, so often, so heartily, and sincerely repented of? Those who have learned the value of that treasure which they despised, and know the extent of that blessing which hath been restored to them. Need I call on them to reflect with horror on the dreadful precipice which they have es<lb rend="hidden" type="hyphenInWord"/>caped from, need I beseech them to consider, how much is owing to the friend<lb rend="hidden" type="hyphenInWord"/>ly hand that <hi>stepped between them and death,</hi> that was kindly stretched out to save them from everlasting perdition?</p>
+         <p>We saw you, my unhappy brethren, deserting from that service to which you had been appointed by the great Captain of your salvation. We stopped, we ar<lb rend="hidden" type="hyphenInWord"/>rested you in your flight, and brought you back to the post of duty, which ye had ingloriously forsaken: do ye not think it incumbent on you, if you hope for par<lb rend="hidden" type="hyphenInWord"/>don or reward from your Almighty leader,
+<pb n="29" facs="25"/>
+to maintain it for the future with courage and resolution, to preserve it with honour, to dignify it with more than ordinary zeal, fortitude, and perseverance? alas! how many are there, who at this moment, if they had worlds to bestow, would gladly give them for that seasonable relief, that happier fate which you were so fortunate as to experience! how <note place="bottom" n="*">
+               <q>
+                  <l>—Quam vellent aethere in alto</l>
+                  <l>Nunc &amp; pauperiem &amp; duros perferre labores!</l>
+                  <bibl>VIRGIL AEN<hi rend="sup">d</hi>.</bibl>
+               </q>
+            </note> gladly would they now return, if possible, to that pe<lb rend="hidden" type="hyphenInWord"/>nury and sorrow, to all those evils which they fled from, to that door of life which is now shut against them! Think seri<lb rend="hidden" type="hyphenInWord"/>ously, my brethren, of this your wonder<lb rend="hidden" type="hyphenInWord"/>ful deliverance; be thankful to the Lord of life for this his gracious preservation of you, and spend the remainder of your days as becometh those who have been <hi>thus redeemed of the Lord.</hi> This is all which we request of you in return for our endeavours to serve and to restore you. We will not doubt your chearful compli<lb rend="hidden" type="hyphenInWord"/>ance
+<pb n="30" facs="26"/>
+with it; your public and voluntary appearance on this occasion pleads strongly with us in your favour, and from your present exemplary behaviour, we draw a propitious omen of your future conduct.</p>
+         <p>And now, my brethren, to you I re<lb rend="hidden" type="hyphenInWord"/>vert, to you we apply for the further sup<lb rend="hidden" type="hyphenInWord"/>port and encouragement of this noble work. The fabric is raised, but on you we must rely for the support, and preser<lb rend="hidden" type="hyphenInWord"/>vation of it. We have already received, with the utmost gratitude we acknowledge, much kind assistance from the generous and humane. But, favoured as we have been by the protection of our blessed Lord and Master, we wish still more closely to imitate his conduct, and to follow his di<lb rend="hidden" type="hyphenInWord"/>vine Example, <hi>to go about doing good.</hi> There are several parts of this wide com<lb rend="hidden" type="hyphenInWord"/>mercial kingdom, from their situation pe<lb rend="hidden" type="hyphenInWord"/>culiarly liable to accidents of this kind, which are at a great distance from the metropolis, and where consequently the ignorance and indolence joined to the po<lb rend="hidden" type="hyphenInWord"/>verty and distress of the inhabitants, stand
+<pb n="31" facs="27"/>
+in more immediate want of all possible in<lb rend="hidden" type="hyphenInWord"/>citements to duty and to humanity. To these we would wish to extend our influ<lb rend="hidden" type="hyphenInWord"/>ence; we would gladly expand our circle of benevolence. We would have, in short, such is our ambition, and such our hope, we would have the noble Charity we are here pleading for, embrace and flow round this whole capacious island, even like the ocean that encompasseth it. We would wish, if possible, to make the institution itself still more useful, so to cherish this our little tree of life, as to see <note place="bottom" n="*">Alluding to the use which this Society may be of not only in regard to the immediate object of saving persons apparently drowned, but in varicus other cases, suffocation by the cord, apo<lb rend="hidden" type="hyphenInWord"/>plexies, hysteric fits, the effects of sulphurous acids, the steam of acids, &amp;c. in many of which the methods practised by the Society have already been used with success, and we trust may hereafter be of still greater service.</note> new branches spreading from it. Some scyons we have already grafted on it, which have blossomed and borne fruit upon them.</p>
+         <p>
+            <pb n="32" facs="28"/>
+One would naturally suppose that dis<lb rend="hidden" type="hyphenInWord"/>tresses so alarming must awaken the most lethargic; that a call so powerful and so irresistible must be heard even by the deaf ear of listlesness and insensibility; that the heart-felt satisfaction of relieving a fellow creature, of restoring him to life and being, would be a sufficient reward for the exertion of every faculty; but ex<lb rend="hidden" type="hyphenInWord"/>perience, which is ever giving the lye to sanguine expectation, and confuting the shallow reasonings of philosophy, will teach us another lesson, will inform us that we must too often be bribed to our duty, and persuaded even with difficulty to embrace the means of our own best in<lb rend="hidden" type="hyphenInWord"/>terest and truest happiness. Men may talk largely of the virtue, the disinterest<lb rend="hidden" type="hyphenInWord"/>edness, and the dignity of human nature, but it will ever be sound, weak, impotent, and vain. God never designed that this transitory life should be a state of perfec<lb rend="hidden" type="hyphenInWord"/>tion. After all that can be said, and all that can be done, we must take mankind therefore as they are, and not as we would wish them to be. Happy if we can so
+<pb n="33" facs="29"/>
+guide their affections, so direct their pas<lb rend="hidden" type="hyphenInWord"/>sions and infirmities as to render them productive of the general good, to make the wants and weaknesses of some continue to the welfare and the happiness of others. Add to this, that many of those, whose immediate assistance we frequently stand in need of, are often in such circumstances and situations of life as render them un<lb rend="hidden" type="hyphenInWord"/>able to bestow their time and attention without a proper and adequate recom<lb rend="hidden" type="hyphenInWord"/>pense for it, even though they may in their nature and disposition be ever so wil<lb rend="hidden" type="hyphenInWord"/>ling, tender, and compassionate. From such it would be ungrateful as well as impolitic to withhold it. It must on the other hand be acknowledged, and it is a melancholy truth which we are obliged to subscribe to, that on these pressing oc<lb rend="hidden" type="hyphenInWord"/>casions, some are often called in to the relief of the unhappy object, who from education, from habit, from example, from we know not what invisible cause, are as unfeeling and insensible as the element that stifled, and the waves that overwhelm<lb rend="hidden" type="hyphenInWord"/>ed him. Souls thus narrow and contract<lb rend="hidden" type="hyphenInWord"/>ed,
+<pb n="34" facs="30"/>
+there is but one way to expand, hearts thus hard and callous, there is but one method to soften and subdue; and that we have prudently and successfully put in practice, whilst at the same time we lament the necessity of it. But the gra<lb rend="hidden" type="hyphenInWord"/>cious providence of God hath so ordained that out of every evil some good ariseth; one happy effect of that torpor and insen<lb rend="hidden" type="hyphenInWord"/>sibility which prevaileth amongst the poor, the vulgar, and the illiterate, is the oppor<lb rend="hidden" type="hyphenInWord"/>tunity which it bestows on the rich and affluent to be liberal and beneficent. It secures to you, my brethren, the glorious privilege of contributing, every one of you, as far as your rank and abilities will permit, to one of the most humane and benevolent institutions that was ever sup<lb rend="hidden" type="hyphenInWord"/>ported and encouraged in this kingdom. I doubt not, my friends, but you will chearfully adopt, embrace, and rejoice in it.</p>
+         <p>Let us then, my brethren, if we would <hi>see many days,</hi> be careful to employ those which God hath given us in acts of mercy,
+<pb n="35" facs="31"/>
+charity, and benevolence. Who knows but our Almighty creator, loth as it were to interrupt us in the performance of a work so pleasing unto him, when he be<lb rend="hidden" type="hyphenInWord"/>holds us thus usefully engaged in restoring and extending the lives of others, may graciously condescend to prolong our own, who knows but at the last and great day these our grateful fellow creatures, whose years we have added to on earth, may plead for us in the courts of Heaven, may intercede with the father of mercies for our pardon and forgiveness! so shall we, who have been kind and benevolent to our distressed brethren here below, be reward<lb rend="hidden" type="hyphenInWord"/>ed for it above, so shall the <hi>blessing of those that were ready to perish, come upon us.</hi>
+         </p>
+         <p>Which GOD of his infinite mercy grant, &amp;c.</p>
+      </body>
+      <back>
+         <div type="listofsocietysdirectors">
+            <pb n="37" facs="32"/>
+            <head>A LIST OF THE DIRECTORS.</head>
+            <list>
+               <item>MR. ALDERMAN BULL, PRESIDENT.</item>
+               <item>JAMES HORSFALL, ESQ. F.R.S. TREASURER.</item>
+            </list>
+            <p>N.B. Those marked with **, have subscribed two or more Guineas;—those with ***, are perpe<lb rend="hidden" type="hyphenInWord"/>tual Directors;—those marked with †, have served the Office of Steward.</p>
+            <list>
+               <head>A</head>
+               <item>MR. Adams, <hi>Fleet-street</hi>
+               </item>
+               <item>*** Mr Adderly, <hi>Doctors Commons</hi>
+               </item>
+               <item>*** Mr Ager, <hi>Mansfield-st. Goodman's-fields</hi>
+               </item>
+               <item>Mr Andrews, <hi>Charing-cross</hi>
+               </item>
+               <item>** Anonymous, by J. Ford, <abbr>Esq</abbr> 2<hi>l.</hi> 2<hi>s.</hi>
+               </item>
+               <item>
+                  <pb n="38" facs="33"/>
+Anonymous, by Mr Thompson, 1<hi>l.</hi> 12<hi>s.</hi> 7<hi>d.</hi>
+               </item>
+               <item>Mrs Andree, <hi>New Broad-street</hi>
+               </item>
+               <item>† Mr Armiger, <hi>Old Fish-street</hi>
+               </item>
+               <item>Mr Arnold, <hi>Tower-hill</hi>
+               </item>
+               <item>Mr Asherton, <hi>Inner-Temple</hi>
+               </item>
+               <item>*** Mr R. Atkinson, <hi>Minories</hi>
+               </item>
+               <item>*** Mr Ayscough, <hi>Chapel-street</hi>
+               </item>
+               <item>Mr Aylett, <hi>Windsor</hi>
+               </item>
+               <item>*** Mr Ayrton, <hi>Inner Temple-lane</hi>
+               </item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>*** Hon. Mr. Justice Blackstone, one of the Judges of the Court of Common Pleas</item>
+               <item>*** Rev. Mr Banks, <hi>North<hi rend="sup">d.</hi>-st. Marybone</hi>
+               </item>
+               <item>Dr. Baker, <hi>Richmond</hi>
+               </item>
+               <item>*** John Baker, jun. <abbr>Esq</abbr> London Hospital</item>
+               <item>** Mr Banner, <hi>Red Cross-street</hi>
+               </item>
+               <item>Hon. Daines Barrington, <abbr>Esq</abbr> 
+                  <hi>Inner Temple</hi>
+               </item>
+               <item>*** J. Barwick, <abbr>Esq</abbr> 
+                  <hi>Waltham-abbey</hi>
+               </item>
+               <item>Mr Barlow, <hi>Crown-office, Temple</hi>
+               </item>
+               <item>*** Francis Barroneau, <abbr>Esq</abbr> 
+                  <hi>Bedford Row</hi>
+               </item>
+               <item>*** John Barker, <abbr>Esq</abbr> 
+                  <hi>Mansell-street</hi>
+               </item>
+               <item>Mr Belfour, <hi>Surgeons Hall</hi>
+               </item>
+               <item>Mr Beauchamp, <hi>Twickenham</hi>
+               </item>
+               <item>† Mr Beaumont, <hi>York Buildings</hi>
+               </item>
+               <item>Percival Beaumont, <abbr>Esq</abbr> 
+                  <hi>Chelsea College</hi>
+               </item>
+               <item>Mr Beaumont, <hi>Hyde-street, Bloomsbury</hi>
+               </item>
+               <item>John Beson, <abbr>Esq</abbr> 
+                  <hi>China</hi>
+               </item>
+               <item>†*** Clement Bellamy, <abbr>Esq</abbr> 
+                  <hi>Charlotte-row</hi>
+               </item>
+               <item>Mr Bennett, <hi>Dyers-court, Aldermanbury</hi>
+               </item>
+               <item>† J. Benson, <abbr>Esq</abbr> 
+                  <hi>Bartlett's Buildings</hi>
+               </item>
+               <item>William Bentinck, <abbr>Esq</abbr> 
+                  <hi>Winchester</hi>
+               </item>
+               <item>Mr Biddle, <hi>Windsor</hi>
+               </item>
+               <item>Mr Billinghurst, <hi>Shepherd-st. May fair</hi>
+               </item>
+               <item>Mr Birks, <hi>Laleham</hi>
+               </item>
+               <item>*** Eben. Blackwell, <abbr>Esq</abbr> 
+                  <hi>Banker, London</hi>
+               </item>
+               <item>Mr Boodle, <hi>Upper Brook-street</hi>
+               </item>
+               <item>Mr Boone, <hi>Sunbury</hi>
+               </item>
+               <item>†*** Rev. Sir G. Booth, Bart. <hi>St. John's-square</hi>
+               </item>
+               <item>
+                  <pb n="39" facs="34"/>
+Rev. Mr Boullier, <hi>Red-lion-street, Spital-fields</hi>
+               </item>
+               <item>*** The Hon. Philip Bouverie, <abbr>Esq</abbr> 21<hi>l.</hi>
+               </item>
+               <item>Mr Boydell, <hi>Cheapside</hi>
+               </item>
+               <item>Mr Boyse, near <hi>Blackfriars Bridge</hi>
+               </item>
+               <item>Mr Brabant, <hi>Fleet-street</hi>
+               </item>
+               <item>G. T. Braithwait, <abbr>Esq</abbr> 
+                  <hi>Custom-house</hi>
+               </item>
+               <item>Mr Brandram, <hi>Budge-Row</hi>
+               </item>
+               <item>Mr Breese, <hi>Watling-street</hi>
+               </item>
+               <item>Mr Brewer, <hi>King-street, West Smithfield</hi>
+               </item>
+               <item>† Guy Brian, <abbr>Esq</abbr> 
+                  <hi>Vine-court, Spital-fields</hi>
+               </item>
+               <item>†*** Edward Bridgen, <abbr>Esq</abbr> 
+                  <hi>Lovell-court</hi>
+               </item>
+               <item>Mr Brien, <hi>Shadwell-street</hi>
+               </item>
+               <item>Mr Bruin, <hi>Snow-hill</hi>
+               </item>
+               <item>** Mr Briggs, <hi>Queen-street, Cheapside</hi>
+               </item>
+               <item>Geo. Bristow, <abbr>Esq</abbr> 
+                  <hi>Mer. Taylors-hall</hi>
+               </item>
+               <item>*** G. Brough, <abbr>Esq</abbr> of <hi>Guy's Hospital</hi>
+               </item>
+               <item>*** I. H. Browne, <abbr>Esq</abbr> F.R.S. <hi>Great Russel-street</hi> 10<hi>l.</hi> 10<hi>s.</hi> &amp; 2<hi>l.</hi> 2<hi>s.</hi> per annum</item>
+               <item>C. Brown, <abbr>Esq</abbr> 
+                  <hi>Islington</hi>
+               </item>
+               <item>*** Mr Browne, <hi>Fleet-street</hi>
+               </item>
+               <item>Mr Buck, <hi>Strand</hi>
+               </item>
+               <item>*** Mr Bucklee, <hi>Barbican</hi>
+               </item>
+               <item>Mr Buck, <hi>Holbrook</hi>
+               </item>
+               <item>*** Mr Alderman Bull 31<hi>l.</hi> 10<hi>s.</hi> and 5<hi>l.</hi> 5<hi>s.</hi> per ann.</item>
+               <item>Mr Bulley, <hi>Reading</hi>
+               </item>
+               <item>Mr Burgess, <hi>Lambeth</hi>
+               </item>
+               <item>Mr Burtoff, <hi>King-street, Covent-Garden</hi>
+               </item>
+               <item>*** Philip Burton, Esq, <hi>Hatton-Garden</hi>
+               </item>
+               <item>Mr Bushnan, <hi>Guildhall</hi>
+               </item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>Mrs A. C. — 150<hi>l.</hi>
+               </item>
+               <item>Dr. Cadogan, <hi>George-str. Hanover-sq.</hi>
+               </item>
+               <item>*** Mr Caldwall, <hi>Budge-Row</hi>
+               </item>
+               <item>Thomas Calverly, <abbr>Esq</abbr>
+               </item>
+               <item>** Peter Calvert, <abbr>Esq</abbr> 
+                  <hi>Richmond</hi>
+               </item>
+               <item>Mr F. W. Campbell, <hi>Love-lane</hi>
+               </item>
+               <item>Mr Campion, Surgeon, <hi>Oundle</hi>
+               </item>
+               <item>Gov. Cartier, <hi>Bedgbury, Kent</hi>
+               </item>
+               <item>
+                  <pb n="40" facs="35"/>
+Capt. Chambers of the <hi>African Trade</hi>
+               </item>
+               <item>*** Mr Carter, <hi>Minories</hi>
+               </item>
+               <item>†** H. Chapman, <abbr>Esq</abbr> 
+                  <hi>Savage-gardens, Tower-hill</hi>
+               </item>
+               <item>Mr Charlton, <hi>Richmond</hi>
+               </item>
+               <item>Mr Cheale, <hi>Grace-church-street</hi>
+               </item>
+               <item>F. Charteris, <abbr>Esq</abbr> 
+                  <hi>Fulham</hi>
+               </item>
+               <item>†*** Sir J. Chetwode, Bart. <hi>North Audley-street</hi>
+               </item>
+               <item>† Mr Church, Surgeon, <hi>Islington</hi>
+               </item>
+               <item>*** Mr Clark, <hi>Shoe-lane, Fleet-street</hi>
+               </item>
+               <item>*** Mr Clear, <hi>Clifford's-Inn</hi>
+               </item>
+               <item>C. Clowes, <abbr>Esq</abbr> 
+                  <hi>Inner Temple</hi>
+               </item>
+               <item>†*** Dr. Cogan, <hi>Paternoster-Row</hi>
+               </item>
+               <item>Mr Coghlan, <hi>Fulham</hi>
+               </item>
+               <item>Mr Coles, <hi>Bow</hi>
+               </item>
+               <item>*** B. Coney, <abbr>Esq</abbr> by the Rev. Dr. Markham</item>
+               <item>*** Hon. R. Conway, <abbr>Esq</abbr> by Mr Hawes</item>
+               <item>*** Dr. Cooper, <hi>Norfolk-street</hi>
+               </item>
+               <item>— Cooper, <abbr>Esq</abbr> 
+                  <hi>Ilford</hi>
+               </item>
+               <item>Mr Cooper, <hi>Drury-lane</hi>
+               </item>
+               <item>Mr Cooper, <hi>Gravesend</hi>
+               </item>
+               <item>Mr Cooper, <hi>Saxmundham</hi>
+               </item>
+               <item>Mr Corrance, <hi>Battersea</hi>
+               </item>
+               <item>Mr Cox, <hi>Fleet-street</hi>
+               </item>
+               <item>Mr Cox, <hi>Radcliffe</hi>
+               </item>
+               <item>Mr Cox, <hi>Harwich</hi>
+               </item>
+               <item>*** Mr Cranage, <hi>Hungerford-Wharf</hi>
+               </item>
+               <item>Mr Crockett, <hi>Snow-hill</hi>
+               </item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>William Daffy, <abbr>Esq</abbr>
+               </item>
+               <item>Mr Davies, <hi>Mortlake</hi>
+               </item>
+               <item>Mr Day, <hi>Colchester</hi>
+               </item>
+               <item>Mr Davenport, <hi>Strand</hi>
+               </item>
+               <item>C. Daussy, <abbr>Esq</abbr> by the Rev. Dr. Markham</item>
+               <item>Mr Dearnes, <hi>Shoreditch</hi>
+               </item>
+               <item>** Right Hon. the Countess of Denbigh</item>
+               <item>Mr Denham, <hi>Foster-lane</hi>
+               </item>
+               <item>†*** Mr William Denham, <hi>Foster-lane</hi>
+               </item>
+               <item>*** Mrs Derby, <hi>Coalbrook-dale, Salop</hi> 20<hi>l.</hi>
+               </item>
+               <item>
+                  <pb n="41" facs="36"/>
+*** Mr Derby, <hi>Thames-street</hi>
+               </item>
+               <item>Mr Dick, <hi>Isleworth</hi>
+               </item>
+               <item>** John Diggles, <abbr>Esq</abbr> 
+                  <hi>York-street</hi>
+               </item>
+               <item>*** Mr Dighton, <hi>Fetter-lane</hi>
+               </item>
+               <item>*** Mr E. Dilly, <hi>Poultry</hi>
+               </item>
+               <item>†*** Mr C. Dilly, <hi>Poultry</hi>
+               </item>
+               <item>† Mr Dymond, <hi>Holborn</hi>
+               </item>
+               <item>Michael Dodson, <abbr>Esq</abbr> 
+                  <hi>Boswell-Court</hi>
+               </item>
+               <item>*** John Dorien, <abbr>Esq</abbr> Banker, <hi>London</hi>
+               </item>
+               <item>*** Josiah Dornford, <abbr>Esq</abbr> 
+                  <hi>Philpot-lane</hi>
+               </item>
+               <item>*** Mr Downing, <hi>Hackney</hi>
+               </item>
+               <item>Drapers, (the worshipful Company of) 50<hi>l.</hi>
+               </item>
+               <item>Mr Drysdale, at <hi>Lady Lade's</hi>
+               </item>
+               <item>*** Mr Dubellamy</item>
+               <item>*** Sir John Duntz, <hi>Pall-mall</hi>
+               </item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>Mr Earley, <hi>Great Marlow</hi>
+               </item>
+               <item>Rev. Mr Van Effen, <hi>Lemon-street</hi>
+               </item>
+               <item>*** Mr Evans, <hi>Fleet-street</hi>
+               </item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>Mr Fairclough, <hi>Nayland</hi>
+               </item>
+               <item>Rev. Mr Fayting, <hi>Bishopsgate-street</hi>
+               </item>
+               <item>Mr Fidoe, <hi>Temple</hi>
+               </item>
+               <item>Fishmongers (the Worshipful Comp. of) 100<hi>l.</hi>
+               </item>
+               <item>Rev. Dr. Fleming, <hi>Hoxton</hi>
+               </item>
+               <item>** Mr Fletcher, <hi>Borough</hi>
+               </item>
+               <item>*** Rev. Mr Henry Fly, <hi>Islington</hi>
+               </item>
+               <item>Mr Forbes, <hi>Fleet-street</hi>
+               </item>
+               <item>Mr Forbes, <hi>Halstead</hi>
+               </item>
+               <item>*** Dr. Ford, <hi>Old Jury</hi>
+               </item>
+               <item>*** The Rev. Mr Foster, <hi>Watling-street</hi>
+               </item>
+               <item>*** Mr Fox, <hi>Holborn</hi>
+               </item>
+               <item>*** Zacharian Foxall, <abbr>Esq</abbr> 
+                  <hi>Ashford</hi> near <hi>Stains</hi>
+               </item>
+               <item>C. Fraley, <abbr>Esq</abbr> 
+                  <hi>Knight-Rider-street</hi>
+               </item>
+               <item>*** Rev. Dr. Francklin, <hi>Great Queen-street</hi>
+               </item>
+               <item>F. Freeman, <abbr>Esq</abbr> by the Rev. Dr. Markham</item>
+               <item>
+                  <pb n="42" facs="37"/>
+J. Freeman, <abbr>Esq</abbr> 
+                  <hi>Devonshire-square</hi>
+               </item>
+               <item>Mr French, <hi>Barbican</hi>
+               </item>
+               <item>Mr Frith, <hi>Kensington</hi>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>*** David Garrick, <abbr>Esq</abbr> 
+                  <hi>Adelphi</hi>
+               </item>
+               <item>*** W. Gardner, <abbr>Esq</abbr> 
+                  <hi>Richmond</hi>
+               </item>
+               <item>*** W. Garret, <abbr>Esq</abbr> by the Rev. Dr. Markham</item>
+               <item>Mr Garrett, <hi>Stoke Newington</hi>
+               </item>
+               <item>Mr Gale, <hi>Parson's Green</hi>
+               </item>
+               <item>Dr. Garthshore, <hi>St. Martin's-lane</hi>
+               </item>
+               <item>Mr Gatfield, <hi>Newgate-street</hi>
+               </item>
+               <item>*** William Gilchrist, <abbr>Esq</abbr>
+               </item>
+               <item>Mr Gilchrist, <hi>Twickenham</hi>
+               </item>
+               <item>*** Mr Good, <hi>Gracechurch-street</hi>
+               </item>
+               <item>†*** Mr Good, <hi>Fleet-street</hi>
+               </item>
+               <item>Mr Gorst, <hi>Eastcheap</hi>
+               </item>
+               <item>*** Rev. Mr Gosset, <hi>Edward-street</hi>
+               </item>
+               <item>† Mr Gotobed, <hi>Inner Temple</hi>
+               </item>
+               <item>*** Mr Grote, <hi>Leadenhall-street</hi> 25<hi>l.</hi>
+               </item>
+               <item>Mr Graffty, <hi>Cheapside</hi>
+               </item>
+               <item>Mr Graves, <hi>St. Bride's Passage</hi>
+               </item>
+               <item>*** Edward Grubb, <abbr>Esq</abbr> 
+                  <hi>Fishmongers Hall</hi>
+               </item>
+               <item>†*** J. Grubb, <abbr>Esq</abbr> 
+                  <hi>Gray's-Inn</hi>
+               </item>
+               <item>† D. Gustavson, <abbr>Esq</abbr> 
+                  <hi>Fenwick-court, Holborn</hi>
+               </item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>G. Hadley, <abbr>Esq</abbr> 
+                  <hi>Southampton-street</hi>
+               </item>
+               <item>Mr Hammerton, <hi>Bread-street</hi>
+               </item>
+               <item>Jonas Hanway, <abbr>Esq</abbr> 
+                  <hi>Red-Lion-square</hi>
+               </item>
+               <item>Rev. H. Hankey, <hi>East-Bergholt, Sussolk</hi>
+               </item>
+               <item>Mr Harrington, <hi>Red-Lion-street Southwark</hi>
+               </item>
+               <item>Mr Harris, <hi>New Palace-yard</hi>
+               </item>
+               <item>*** Mr Harris, <hi>St. Paul's-church-yard</hi>
+               </item>
+               <item>*** Rev. Mr. Harrison, <hi>Brompton</hi>
+               </item>
+               <item>*** Mr Harriot, <hi>Minories</hi>
+               </item>
+               <item>Isaac Hawkins, <abbr>Esq</abbr>
+               </item>
+               <item>
+                  <list>
+                     <item>*** Miss Hawkins</item>
+                     <item>*** S. Hawkins, <abbr>Esq</abbr>
+                     </item>
+                     <item>E. Hawkins, <abbr>Esq</abbr>
+                     </item>
+                  </list>by the Rev. Dr. Markham </item>
+               <item>
+                  <pb n="43" facs="38"/>
+†*** Mr W. Hawes, <hi>Palsgrave Place, Strand</hi>
+               </item>
+               <item>*** Mr Hawes, <hi>Thames-street</hi>
+               </item>
+               <item>Mr Hawes, <hi>Enfield</hi>
+               </item>
+               <item>Mr Hawys, <hi>Fowkes Buildings, Tower-st.</hi>
+               </item>
+               <item>** Mr Hayward, <hi>Hackney</hi>
+               </item>
+               <item>** Dr. Heberden, F.R.S. <hi>Pall mall</hi>
+               </item>
+               <item>Mrs Heath, <hi>Temple Bar</hi>
+               </item>
+               <item>Mr G. Hebert, <hi>Crispin-str. Spitalfields</hi>
+               </item>
+               <item>*** — Henbury, <abbr>Esq</abbr>
+               </item>
+               <item>*** Mr Henley, F.R.S. <hi>Borough</hi>
+               </item>
+               <item>*** Hon. Mr Herbert</item>
+               <item>†*** Mr Herne, <hi>Paternoster-row</hi>
+               </item>
+               <item>Mr Heron, <hi>Waltham-abbey</hi>
+               </item>
+               <item>*** Rev. Mr Herries, <hi>Lancaster-court</hi>
+               </item>
+               <item>** J. Hingeston, <abbr>Esq</abbr> 
+                  <hi>New-North-street</hi>
+               </item>
+               <item>James Hezletine, <abbr>Esq</abbr> 
+                  <hi>Doctors Commons</hi>
+               </item>
+               <item>Dr. Hicks, <hi>Stable-yard, St. James's</hi>
+               </item>
+               <item>Mr Hill, <hi>Lothbury</hi>
+               </item>
+               <item>*** Peter Hodgson, <abbr>Esq</abbr>
+               </item>
+               <item>*** Mr Hodgson, <hi>Wapping</hi>
+               </item>
+               <item>Mr Hodgson, <hi>New Basinghall-street</hi>
+               </item>
+               <item>*** Mrs V. D. Hoeck, <hi>Great Russel-street</hi>
+               </item>
+               <item>†** Mr Hole, <hi>Islington</hi>
+               </item>
+               <item>Mr Hooper, <hi>Tooley-street</hi>
+               </item>
+               <item>*** Benj. Hopkins, <abbr>Esq</abbr> Chamberlain of <hi>London</hi>
+               </item>
+               <item>Mr Hopkins, <hi>Harwich</hi>
+               </item>
+               <item>†*** James Horsfall, <abbr>Esq</abbr> F.R.S. <hi>Temple</hi>
+               </item>
+               <item>Mr Howard, <hi>Walton</hi>
+               </item>
+               <item>Dr. Hossack, <hi>Colchester</hi>
+               </item>
+               <item>T. Hull, <abbr>Esq</abbr> 
+                  <hi>Martlet-court, Bow-str.</hi>
+               </item>
+               <item>*** Mr Hunter, <hi>Fetter-lane</hi>
+               </item>
+               <item>*** Mr H. Hurford, <hi>St. John's-street</hi>
+               </item>
+               <item>*** Mr John Hurford, <hi>Highgate</hi>
+               </item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>Francis Ingram, <abbr>Esq</abbr> 
+                  <hi>Inner Temple</hi>
+               </item>
+               <item>Mrs Inge, <hi>Welbeck-street</hi>
+               </item>
+               <item>Mr Inwood, <hi>Isleworth</hi>
+               </item>
+               <item>† Mr Jackson, <hi>Knightsbridge</hi>
+               </item>
+               <item>
+                  <pb n="44" facs="39"/>
+†*** Mr Jacob, <hi>Fish-street-hill</hi>
+               </item>
+               <item>†*** Mr Jacob, <hi>St. Mary-axe</hi>
+               </item>
+               <item>† Hugh James, <abbr>Esq</abbr> 
+                  <hi>Fleet-street</hi>
+               </item>
+               <item>† Edward Jeffries, <abbr>Esq</abbr> 
+                  <hi>Lothbury</hi>
+               </item>
+               <item>† Rev. Dr. Jeffries, <hi>Bishopsgate-street</hi>
+               </item>
+               <item>Dr. Johnson, <hi>Brentford</hi>
+               </item>
+               <item>Thomas Jones, <abbr>Esq</abbr> 
+                  <hi>Park-street, Westminster</hi>
+               </item>
+               <item>Rev. Mr Jones, <hi>Peckham</hi>
+               </item>
+               <item>†*** Mr Jones, <hi>Middle Temple</hi>
+               </item>
+               <item>Mr Jones, <hi>Mansion House-street</hi>
+               </item>
+               <item>Mr Jones, <hi>Gravesend</hi>
+               </item>
+               <item>Mr Jones, <hi>Lambeth-hill</hi>
+               </item>
+               <item>Mr Inman, <hi>St. Osyth</hi>
+               </item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>*** F. Kemble, <abbr>Esq</abbr> 
+                  <hi>New-co. Swithin's-la.</hi>
+               </item>
+               <item>Mr Kennet, <hi>Essex-stairs</hi>
+               </item>
+               <item>Mr Kenny, <hi>St. James's-street</hi>
+               </item>
+               <item>T. King, <abbr>Esq</abbr> 
+                  <hi>Great Queen-street</hi>
+               </item>
+               <item>Mr King, <hi>Mortlake</hi>
+               </item>
+               <item>Mr Kinnard, <hi>Chelsea</hi>
+               </item>
+               <item>Rev. Dr. Kippas, <hi>Crown-str. Westm.</hi>
+               </item>
+               <item>Mr Kite, <hi>Gravesend</hi>
+               </item>
+               <item>Mr Knott, <hi>King-street, Covent-garden</hi>
+               </item>
+               <item>† Dr. Koostray, <hi>Union-coart, Broad-street</hi>
+               </item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>** Sir John Lade, Bart. <hi>Grosvenor-place</hi>
+               </item>
+               <item>A Lady, by Mr Jackson</item>
+               <item>Mr Ladyman, <hi>Budge-row</hi>
+               </item>
+               <item>Mr Lancaster, <hi>Theobald's-row</hi>
+               </item>
+               <item>Mr Langley, <hi>Church-lane, Whitechapel</hi>
+               </item>
+               <item>*** Dr. Lettsom, F.R.S.—F.A.S.</item>
+               <item>*** Mr Alderman Lee</item>
+               <item>Sir Ashton Lever, <hi>Leicester House</hi>
+               </item>
+               <item>*** Mr. Lewin, <hi>Hackney</hi>
+               </item>
+               <item>** Mr R. Lewin</item>
+               <item>Dr. Lewis, <hi>Kingston</hi>
+               </item>
+               <item>Mr Ley, <hi>Wandsworth</hi>
+               </item>
+               <item>
+                  <pb n="45" facs="40"/>
+I. H. Lisle, <abbr>Esq</abbr> 
+                  <hi>Colchester</hi>
+               </item>
+               <item>Mr Lumsden, <hi>Battersea</hi>
+               </item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>Mr Maddox, <hi>Rotherhithe</hi>
+               </item>
+               <item>† Mr Mallet, <hi>Mark-lane</hi>
+               </item>
+               <item>Mr Man, <hi>Gravesend</hi>
+               </item>
+               <item>†*** R. Manning, <abbr>Esq</abbr> 
+                  <hi>Knight Rider-street</hi>
+               </item>
+               <item>*** J. Manwaring, <abbr>Esq</abbr> 
+                  <hi>Islington</hi>
+               </item>
+               <item>*** Rev. Dr. Markham, <hi>Whitechapel</hi>
+               </item>
+               <item>** Mr Marratt, jun. <hi>Hatton-street</hi>
+               </item>
+               <item>Mrs Mattocks, <hi>Covent garden</hi>
+               </item>
+               <item>*** Mr Mead, <hi>Hackney</hi>
+               </item>
+               <item>*** Mr Miers, jun. <hi>Lad-lane</hi>
+               </item>
+               <item>*** Rev. Dr. Milne, <hi>Deptford</hi>
+               </item>
+               <item>*** Samuel Moody, <abbr>Esq</abbr> 
+                  <hi>Leadenhall-street</hi>
+               </item>
+               <item>*** Mr Morgan, <hi>West Smithfield</hi>
+               </item>
+               <item>Mr Morson, <hi>King-street</hi>
+               </item>
+               <item>*** Cha. Murray, <abbr>Esq</abbr> Consul at <hi>Madeira</hi>
+               </item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>Joseph Nash, <abbr>Esq</abbr> 
+                  <hi>New-court, Sweeting's-lane</hi>
+               </item>
+               <item>Mr Newell, <hi>Colchester</hi>
+               </item>
+               <item>† Mr Nodin, <hi>Leadenhall-street</hi>
+               </item>
+               <item>Mr Norris, <hi>Putney</hi>
+               </item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>*** Mr Oakes, <hi>Snow-hill</hi>
+               </item>
+               <item>*** Mr Oldham, <hi>Manchester</hi>
+               </item>
+               <item>Mr Oliver, <hi>Brentford</hi>
+               </item>
+               <item>Mr Oliver, <hi>King-street, Smithfield</hi>
+               </item>
+               <item>Mr Oliver, <hi>Bartholomew-close</hi>
+               </item>
+               <item>Mrs Osgood, <hi>Crutched-friars</hi>
+               </item>
+               <item>Mr W. Owen, <hi>Temple Bar</hi>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>Robert Palmer, <abbr>Esq</abbr> 
+                  <hi>Great Russel-str.</hi>
+               </item>
+               <item>†*** Mr Parry, <hi>Fulham</hi>
+               </item>
+               <item>Mr Parkinson, <hi>Hoxton-square</hi>
+               </item>
+               <item>Mr Parsons, <hi>Coventry-street</hi>
+               </item>
+               <item>Mr Patch, <hi>Norfolk-street</hi>
+               </item>
+               <item>
+                  <pb n="46" facs="41"/>
+Mr Patten, <hi>Ratcliff-cross</hi>
+               </item>
+               <item>Mr Payne, <hi>Bridgewater-square</hi>
+               </item>
+               <item>*** Mr Pearson, <hi>Spital-square</hi>
+               </item>
+               <item>Mr Pearson, <hi>Cheapside</hi>
+               </item>
+               <item>† Mr Phipps, <hi>Wardrobe-court</hi>
+               </item>
+               <item>Mr Pierce, <hi>Wapping dock Stairs</hi>
+               </item>
+               <item>*** Mr Lewis Pingo, <hi>Grays-inn-lane</hi>
+               </item>
+               <item>Mr H. Pingo, <hi>Holborn</hi>
+               </item>
+               <item>W. Pocock, <abbr>Esq</abbr> 
+                  <hi>Devonshire-street, Queen's-sq.</hi>
+               </item>
+               <item>*** Mr Pollard, <hi>Middle Temple</hi>
+               </item>
+               <item>*** J. Porter, Esq: Comptroller-general of his Ma<lb rend="hidden" type="hyphenInWord"/>jesty's Customs in <hi>America</hi>
+               </item>
+               <item>† Mr Powell, <hi>Newgate-street</hi>
+               </item>
+               <item>Richard Price, D.D. F.R.S.</item>
+               <item>†*** Samuel Prime, <abbr>Esq</abbr> F.R.S. <hi>Bedford-row,</hi> 5l. 5s. per annum</item>
+               <item>Sir John Pringle, Bart. F.R.S. and Physician to their Majesties</item>
+               <item>Charles Pryse, <abbr>Esq</abbr> 
+                  <hi>Parson's-green</hi>
+               </item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>Humfreys Ram, <abbr>Esq</abbr> 
+                  <hi>Richmond, Surry</hi>
+               </item>
+               <item>Mr Read, <hi>Ludgate-hill</hi>
+               </item>
+               <item>Samuel Reynardson, <abbr>Esq</abbr> F.R.S. <hi>G. Ormond-st.</hi>
+               </item>
+               <item>*** A. Richardson, <abbr>Esq</abbr> 
+                  <hi>Paddington-green</hi>
+               </item>
+               <item>Mr Richardson, <hi>Racquet-court, Fleet-str.</hi>
+               </item>
+               <item>** — Richardson, <abbr>Esq</abbr>
+               </item>
+               <item>John Rivington, <abbr>Esq</abbr> 
+                  <hi>St. Paul's-church-yard</hi>
+               </item>
+               <item>*** Mr Robinson, <hi>Gray's-inn</hi>
+               </item>
+               <item>† <hi>Dr. Rogers,</hi> Red Lion-str. Clerkenwell</item>
+               <item>† Mr Rogers, <hi>Manningtree</hi>
+               </item>
+               <item>*** Rev. Mr Romaine, <hi>Blackfriars</hi>
+               </item>
+               <item>Mrs Rode, <hi>Lemon-street</hi>
+               </item>
+               <item>Mr Roots, <hi>Kingston</hi>
+               </item>
+               <item>†** John Rose, <abbr>Esq</abbr> 
+                  <hi>Putney</hi>
+               </item>
+               <item>† Bartholomew Ruspini, <abbr>Esq</abbr> 
+                  <hi>Pall mall</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="47" facs="42"/>
+               <head>S</head>
+               <item>*** The Right Hon. the Earl of Stamford, by the Rev. Dr. Markham 21<hi>l.</hi>
+               </item>
+               <item>†*** Mr W. Salte, <hi>Poultry</hi>
+               </item>
+               <item>Mr Sanders, <hi>Cheshunt</hi>
+               </item>
+               <item>*** Mr Alderman Sawbridge</item>
+               <item>Mr Scott, <hi>Peterborough-court,</hi>
+               </item>
+               <item>Mr Sealy, <hi>Throgmorton-street</hi>
+               </item>
+               <item>*** Rev. Mr Sellon, <hi>Clerkenwell</hi>
+               </item>
+               <item>Mr Shee, <hi>Craven-street</hi>
+               </item>
+               <item>J. Sherwood, <abbr>Esq</abbr> 
+                  <hi>Shadwell</hi>
+               </item>
+               <item>Dr. Sequeira, <hi>Mark-lane</hi>
+               </item>
+               <item>*** W. Sharpe, <abbr>Esq</abbr> 
+                  <hi>Old Jury</hi>
+               </item>
+               <item>Mr Sherwin, <hi>Enfield</hi>
+               </item>
+               <item>† Dr. Sims, <hi>Tokenhouse-yard</hi>
+               </item>
+               <item>Mr Simson, <hi>East Bergholt</hi>
+               </item>
+               <item>† Mr Skinner, <hi>Aldersgate-street</hi>
+               </item>
+               <item>Mrs Skinner, <hi>Aldersgate-street</hi>
+               </item>
+               <item>† Mr Slack, <hi>Gravel-lane, Houndsditch</hi>
+               </item>
+               <item>Dr. Smith, <hi>Bride-street</hi>
+               </item>
+               <item>Allyn Smith, <abbr>Esq</abbr> 
+                  <hi>Battersea</hi>
+               </item>
+               <item>H. Smith, <abbr>Esq</abbr> 
+                  <hi>Scott's Yard, Cannon-st.</hi>
+               </item>
+               <item>Mr Smith, <hi>Limehouse</hi>
+               </item>
+               <item>Mr Smith, <hi>Fan-court, Fenchurch-street</hi>
+               </item>
+               <item>*** W. Smith, <abbr>Esq</abbr> 
+                  <hi>Cannon-street</hi>
+               </item>
+               <item>Mr Smithson, <hi>Castle-yard</hi>
+               </item>
+               <item>Medical Society at <hi>Colchester,</hi> by Mr. Hawes 21l.</item>
+               <item>Society, assembling at <hi>Coachmaker's-hall, Foster-lane,</hi> by Mr. Denham, 5<hi>l.</hi> 5<hi>s.</hi>
+               </item>
+               <item>*** Rev. Mr Sowden, <hi>Winchester</hi>
+               </item>
+               <item>Mr Squire, <hi>Wandsworth</hi>
+               </item>
+               <item>Mr Stapleton, <hi>Colchester</hi>
+               </item>
+               <item>*** Mr Stenson, <hi>Kensington</hi>
+               </item>
+               <item>R. Sterling, <abbr>Esq</abbr> F.R.S. <hi>Colchester</hi>
+               </item>
+               <item>*** Mr Stiles, <hi>Fleet-street</hi>
+               </item>
+               <item>†*** Mr Stone, <hi>Cheapside</hi>
+               </item>
+               <item>Lyon De Symons, <abbr>Esq</abbr> 
+                  <hi>Winchester-street</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="48" facs="43"/>
+               <head>T</head>
+               <item>E. Taylor, <abbr>Esq</abbr> 
+                  <hi>Inner Temple</hi>
+               </item>
+               <item>*** Mr James Taylor, <hi>Tower-hill</hi>
+               </item>
+               <item>Mr Taylor, <hi>Brentford</hi>
+               </item>
+               <item>Mr Taylor, <hi>Woolwich</hi>
+               </item>
+               <item>*** Rev. Mr Tice, <hi>Enfield</hi>
+               </item>
+               <item>Dr Thackeray, <hi>Windsor</hi>
+               </item>
+               <item>Mr Thomas, <hi>Greenwich</hi>
+               </item>
+               <item>** Mr Thompson, <hi>Houndsditch</hi>
+               </item>
+               <item>Mr Thornthwaite, <hi>Islington</hi>
+               </item>
+               <item>Mr Tondero, <hi>Twickenham</hi>
+               </item>
+               <item>W. Toll, <abbr>Esq</abbr> 
+                  <hi>Chelsea</hi>
+               </item>
+               <item>Mr Toulmin, <hi>Hackney</hi>
+               </item>
+               <item>Dr. Topping, <hi>Colchester</hi>
+               </item>
+               <item>Mr Topham, <hi>Cheapside</hi>
+               </item>
+               <item>*** T. Tower, <abbr>Esq</abbr> by Mr Hawes 21<hi>l.</hi>
+               </item>
+               <item>†*** Rev. Mr Joseph Towers, <hi>Well-street</hi>
+               </item>
+               <item>† Matthew Twogood, <abbr>Esq</abbr> 
+                  <hi>America-sq.</hi>
+               </item>
+               <item>†*** Mr Townsend, <hi>Fleet-street</hi>
+               </item>
+               <item>†*** Mr Towes, <hi>Salisbury-court, Fleet-street</hi>
+               </item>
+               <item>Mr Torin, <hi>Walworth</hi>
+               </item>
+               <item>Mr Tuson, <hi>Boxford</hi>
+               </item>
+               <item>*** Arthur Tyton, <abbr>Esq</abbr> 
+                  <hi>Buckingham-str. York-buildings</hi>
+               </item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>Mr. W. Vaughan, <hi>Mincing-lane</hi>
+               </item>
+               <item>Mr Vaux, <hi>Pudding-lane</hi>
+               </item>
+               <item>J. Vernon, <abbr>Esq</abbr> 
+                  <hi>Lincoln's-Inn</hi>
+               </item>
+               <item>†*** John Vowell, <abbr>Esq</abbr> 
+                  <hi>Watling-street</hi>
+               </item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>Mr Waddington, <hi>Cheapside</hi>
+               </item>
+               <item>Mr Wade, <hi>Bride-lane</hi>
+               </item>
+               <item>Mr Wade, <hi>Colchester</hi>
+               </item>
+               <item>†*** Rev. Mr Walker, <hi>Islington</hi>
+               </item>
+               <item>Mr Walford, <hi>Garlick-hill</hi>
+               </item>
+               <item>Mrs Walpole</item>
+               <item>*** Boucher Walton, <abbr>Esq</abbr> 
+                  <hi>Throgmorton-street</hi>
+               </item>
+               <item>
+                  <pb n="49" facs="44"/>
+*** Mr Warrand, <hi>Minories</hi>
+               </item>
+               <item>*** Mrs Ann Wastefield, <hi>Mile-End,</hi> the Legacy of R. Wastefield, <abbr>Esq</abbr> 10<hi>l.</hi>
+               </item>
+               <item>† Dr Watkinson, <hi>Fenchurch-street</hi>
+               </item>
+               <item>*** Richard Watlington, <abbr>Esq</abbr> 
+                  <hi>Pall-mall</hi>
+               </item>
+               <item>Dr Watson, F.R.S. <hi>Lincoln's-inn-fields</hi>
+               </item>
+               <item>Mr Watson, <hi>Holborn</hi>
+               </item>
+               <item>Mr Watson, <hi>Ponder's-End</hi>
+               </item>
+               <item>*** Rev. Mr John Wesley, <hi>City-Road</hi>
+               </item>
+               <item>*** Mr T. Wisdome, <hi>Watford</hi> 20<hi>l.</hi>
+               </item>
+               <item>*** Mr Whipham, <hi>Fleet-street</hi>
+               </item>
+               <item>R. Willet, <abbr>Esq</abbr> 
+                  <hi>Dean-street, Soho</hi>
+               </item>
+               <item>Rev. Dr. Williams, <hi>Library, Redcross-street</hi>
+               </item>
+               <item>** Edward Wynne, <abbr>Esq</abbr> 
+                  <hi>Temple</hi>
+               </item>
+               <item>*** Rev. Dr Wilson, <hi>Westminster</hi>
+               </item>
+               <item>*** Mr Willson, <hi>Minories</hi>
+               </item>
+               <item>*** S. Whitebread, <abbr>Esq</abbr> 
+                  <hi>Chiswell-st.</hi> 21<hi>l.</hi>
+               </item>
+               <item>*** Mr Withy, <hi>Craven-street, Strand</hi>
+               </item>
+               <item>G. Wood, <abbr>Esq</abbr> 
+                  <hi>London Coffee-house</hi>
+               </item>
+               <item>Mr Wood, <hi>Woolwich</hi>
+               </item>
+               <item>*** Rev. Mr Woodroffe, Rector of <hi>Cranham, Essex,</hi> by Mr. Hawes, 10<hi>l.</hi> 10<hi>s.</hi>
+               </item>
+               <item>†** Mr Woodfall, <hi>Salisbury-court</hi>
+               </item>
+               <item>† Mr Wright, <hi>Bolt-court</hi>
+               </item>
+               <item>Mr Wright, near <hi>Westminster-bridge</hi>
+               </item>
+               <item>† Mr Wyatt, <hi>Albion Place</hi>
+               </item>
+               <item>† Mr Wyatt, <hi>Minories</hi>
+               </item>
+               <item>†** Mr Wynde, <hi>Warwick-court</hi>
+               </item>
+               <item>Mr Wrigglesworth, <hi>Minories</hi>
+               </item>
+            </list>
+            <list>
+               <head>X</head>
+               <item>A. X. at the <hi>London Coffee-House</hi>
+               </item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>His Grace the Archbishop of <hi>York</hi>
+               </item>
+            </list>
+         </div>
+         <div type="listofmedicalassistants">
+            <pb facs="45"/>
+            <head>MEDICAL ASSISTANTS.</head>
+            <div type="county">
+               <head type="sub">MIDDLESEX.</head>
+               <head type="sub">LONDON and WESTMINSTER SIDE.</head>
+               <list>
+                  <head>Below LONDON BRIDGE.</head>
+                  <item>LIMEHOUSE—Mr <hi>Smith</hi>
+                  </item>
+                  <item>Ratcliffe-Cross—Mr <hi>Patten</hi> and Mr <hi>Cox</hi>
+                  </item>
+                  <item>Shadwell—Mr <hi>Bryen</hi>
+                  </item>
+                  <item>Wapping—Mr <hi>Pierce,</hi> Mr <hi>Hodgson,</hi> Mr <hi>Williams,</hi> Mr <hi>Mid<lb rend="hidden" type="hyphenInWord"/>ford,</hi> and Mr <hi>Teise</hi>
+                  </item>
+                  <item>Minories—Mr <hi>Wyat</hi>
+                  </item>
+                  <item>Billingsgate—Mr <hi>Vaux</hi>
+                  </item>
+                  <item>America-Square—Mr <hi>Crawford</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Between <hi>London</hi> and <hi>Westminster</hi> Bridges.</head>
+                  <item>Lawrence Pountney-Lane—Mr <hi>Bee</hi>
+                  </item>
+                  <item>Great Eastcheap—Dr <hi>Lettsom</hi>
+                  </item>
+                  <item>Broad-Street—Dr <hi>Kooystra</hi>
+                  </item>
+                  <item>Garlick-Hill—Mr <hi>Walford</hi>
+                  </item>
+                  <item>Old Jury—<hi>W. Sharpe,</hi> 
+                     <abbr>Esq</abbr>
+                  </item>
+                  <item>Old Fish-Street—Mr <hi>Armiger,</hi> and Mr <hi>James</hi>
+                  </item>
+                  <item>Holborn—Mr <hi>Watson</hi> and Mr <hi>Dymond</hi>
+                  </item>
+                  <item>Pater-noster-Row—Dr <hi>Cogan</hi>
+                  </item>
+                  <item>Fleet-Street—Mr <hi>Forbes</hi>
+                  </item>
+                  <item>Red Lion-street—Dr <hi>Rogers</hi>
+                  </item>
+                  <item>Strand—Mr <hi>Hawes</hi> (Palsgrave-Place) Mr <hi>Buck</hi>
+                  </item>
+                  <item>Norfolk-Street—Dr <hi>Cooper</hi>
+                  </item>
+                  <item>York-Buildings—Mr <hi>Beaumont</hi>
+                  </item>
+                  <item>Whitehall—Mr <hi>Andrews</hi>
+                  </item>
+                  <item>Westminster—Mr <hi>Harris</hi> and Mr <hi>Wright</hi>
+                  </item>
+                  <item>
+                     <pb n="51" facs="46"/>
+Chelsea—Mr <hi>Halford,</hi> Mr <hi>Greenhead,</hi> and Mr <hi>Kinnard</hi>
+                  </item>
+                  <item>Fulham—Mr <hi>Parry</hi> and Mr <hi>Coghlan</hi>
+                  </item>
+                  <item>Parson's-Green—Dr <hi>Cadogan</hi> and Mr <hi>Messiter</hi>
+                  </item>
+                  <item>Hammersmith—Mr <hi>Loveday,</hi> Mr <hi>Palser,</hi> and Mr <hi>Terry</hi>
+                  </item>
+                  <item>Chiswick—Mr <hi>Hedges</hi> and Mr <hi>Tenison</hi>
+                  </item>
+                  <item>Brentford—Dr <hi>Johnson</hi> and Mr Corson, Messrs <hi>Oliver</hi> and <hi>Ansell,</hi> Mr <hi>Downing,</hi> Mr <hi>Harding,</hi> Mr <hi>Taylor</hi> and Mr <hi>Webb</hi>
+                  </item>
+                  <item>Isleworth—Messrs <hi>Dick</hi> and <hi>Inwood</hi>
+                  </item>
+                  <item>Twickenham—Messrs <hi>Beauchcamp</hi> and <hi>Tondero</hi>—Mr <hi>Gilchrist</hi>
+                  </item>
+                  <item>Hampton—Mr <hi>Griffenhoofe</hi>
+                  </item>
+                  <item>Laleham—Mr <hi>Birks</hi>
+                  </item>
+                  <item>Sunbury—Mr <hi>Boone</hi>
+                  </item>
+                  <item>Staines—Mr <hi>Pope</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>BERKS.</head>
+               <list>
+                  <item>Wallingford—Mr <hi>Hunter,</hi> Mr <hi>Golding,</hi> and Mr <hi>Flamank</hi>
+                  </item>
+                  <item>Reading—Mr <hi>Snowden,</hi> Mr <hi>Pope</hi>
+                  </item>
+                  <item>Windsor—Dr <hi>Biddle,</hi> Dr <hi>Thackeray,</hi> Mr <hi>Aylett</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>SERPENTINE RIVER.</head>
+               <list>
+                  <item>Knightsbridge—Mr <hi>Jackson</hi>
+                  </item>
+                  <item>Shepherd-Street—Mr <hi>Billinghurst</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>KENT and SURRY SIDE.</head>
+               <list>
+                  <head>Below <hi>London</hi> Bridge.</head>
+                  <item>Gravesend—Mr <hi>Bolger,</hi> Mr <hi>Cooper,</hi> Mr <hi>Harrison,</hi> Mr <hi>Jones,</hi> Mr <hi>Kite,</hi> and Mr <hi>Man</hi>
+                  </item>
+                  <item>Woolwich—Mr <hi>Bickerton,</hi> Mr <hi>Irwin,</hi> Mr <hi>Taylor</hi>
+                  </item>
+                  <item>Deptford—Mr <hi>Harrison</hi> and Mr <hi>Sutton</hi>
+                  </item>
+                  <item>Greenwich—Mr <hi>Mills,</hi> Mr Wheeler, Mr <hi>Pocock</hi>
+                  </item>
+                  <item>Tooley-Street—Mr <hi>Breach</hi> and Mr <hi>Hooper</hi>
+                  </item>
+                  <item>Dock-Head—Mr <hi>Penry</hi>
+                  </item>
+                  <item>Allard's-Point—Mr <hi>Chapman</hi>
+                  </item>
+                  <item>Rotherhithe—Messrs <hi>W.</hi> and <hi>G. Chapman,</hi> Mr <hi>Gray,</hi> Mr <hi>Maddox</hi> and Mr <hi>Green</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>SURRY.</head>
+               <list>
+                  <item>Blackfriars—Mr <hi>Boyse</hi> and Mr <hi>Ridout</hi>
+                  </item>
+                  <item>Lambeth—Mr <hi>Burgess</hi>
+                  </item>
+                  <item>
+                     <pb n="52" facs="47"/>
+Battersea—Messrs <hi>Lumsden, Alderman</hi> and <hi>Corrance</hi>
+                  </item>
+                  <item>Wandsworth—Messrs <hi>Squire</hi> and <hi>Ley</hi>
+                  </item>
+                  <item>Putney—<hi>John Rose,</hi> 
+                     <abbr>Esq</abbr> and Mr <hi>Norris</hi>
+                  </item>
+                  <item>Mortlake—Mr <hi>Davies</hi> and Mr <hi>King</hi>
+                  </item>
+                  <item>Richmond—Dr <hi>Baker,</hi> Mr <hi>Jackson,</hi> Mr <hi>Smith,</hi> and Mr <hi>Charlton</hi>
+                  </item>
+                  <item>Kingston—Dr <hi>Lewis,</hi> Dr <hi>Bennett,</hi> Mr <hi>Hemmings,</hi> Mr <hi>Roots,</hi> Mr <hi>Smith,</hi> and Mr <hi>Waterbouse</hi>
+                  </item>
+                  <item>Henley—Mr <hi>Pope</hi> and Mr <hi>Mapleton</hi>
+                  </item>
+                  <item>Great Marlow—Messrs <hi>Sneath</hi> and <hi>Trash,</hi> Mr <hi>Eardly</hi>
+                  </item>
+                  <item>Walton—Messrs <hi>Howard</hi> and <hi>Carpenter</hi>
+                  </item>
+                  <item>Weybridge—Mr <hi>Webb</hi>
+                  </item>
+                  <item>Chertsey—Mr <hi>Mapletoft</hi> and Mr <hi>Smith</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>NEW RIVER, ISLINGTON.</head>
+               <list>
+                  <item>Islington—Mr <hi>Hole</hi> and Mr <hi>Church</hi>
+                  </item>
+                  <item>Hoxton—Mr <hi>Parkinson,</hi> Hoxton-Square</item>
+                  <item>Shoreditch—Mr <hi>Dearnes</hi>
+                  </item>
+                  <item>Stoke Newington—Mr <hi>Garrett</hi> and Mr <hi>John</hi>
+                  </item>
+                  <item>Hackney—Mr <hi>Downing,</hi> Mr <hi>Howard,</hi> and Mr <hi>Toulmin</hi>
+                  </item>
+                  <item>Enfield—Mr <hi>Sherwin</hi> and Mr <hi>Harrison</hi>
+                  </item>
+                  <item>Bow—Mr <hi>Wilkinson</hi> and Mr <hi>Coles</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>ESSEX.</head>
+               <list>
+                  <item>Waltham-Abbey—Mr <hi>Cannon</hi> and Mr <hi>Heron</hi>
+                  </item>
+                  <item>Stratford—Messrs <hi>How, Talbutt,</hi> and <hi>Miller</hi>
+                  </item>
+                  <item>Colchester—Dr <hi>Hossack,</hi> Dr <hi>Topping, J. H. Lisle,</hi> 
+                     <abbr>Esq</abbr> Mr <hi>Sterling,</hi> Mr <hi>Day,</hi> Mr <hi>Staples,</hi> Mr <hi>Wade,</hi> and Mr <hi>Newel</hi>
+                  </item>
+                  <item>Harwich—Mr <hi>Cox</hi> and Mr <hi>Hopkins</hi>
+                  </item>
+                  <item>Halstead—Mr <hi>Forbes</hi>
+                  </item>
+                  <item>St Osyth—Mr <hi>Inman</hi>
+                  </item>
+                  <item>Manningtree—Mr <hi>Rogers</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>HERTFORD-SHIRE.</head>
+               <list>
+                  <item>Hertford—Mr <hi>Chandler,</hi> Mr <hi>Frost,</hi> and Mr <hi>Cutler</hi>
+                  </item>
+                  <item>Ware—Mr <hi>Burr,</hi> Mr <hi>Welford</hi> and Mr <hi>Tice</hi>
+                  </item>
+                  <item>Cheshunt—Mr <hi>Hooper</hi> and Mr <hi>Sanders</hi>
+                  </item>
+                  <item>Hoddesdon—Mr <hi>Baker</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <pb n="53" facs="48"/>
+               <head>BEDFORD.</head>
+               <list>
+                  <item>Mr <hi>Gadsby,</hi> Mr <hi>Pulley</hi> and Mr <hi>Jackson</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>SUFFOLK.</head>
+               <list>
+                  <item>Nayland—Mr <hi>Fairclough</hi>
+                  </item>
+                  <item>East Bergholt—Mr <hi>Simson</hi>
+                  </item>
+                  <item>Boxford—Mr <hi>Juson</hi>
+                  </item>
+                  <item>Holbrook—Mr <hi>Buck</hi>
+                  </item>
+                  <item>Saxmundham—Mr <hi>Cooper</hi>
+                  </item>
+                  <item>Long-Milford—Mr <hi>Bolton</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="county">
+               <head>SHREWSBURY.</head>
+               <list>
+                  <item>Dr <hi>Owen,</hi> Mr <hi>Cooper,</hi> Mr <hi>Sanford,</hi> Mr <hi>Lomax,</hi> Messrs <hi>Win<lb rend="hidden" type="hyphenInWord"/>nals,</hi> Mr <hi>Simons,</hi> Mr <hi>Cartwright,</hi> Messrs <hi>Holt</hi> and <hi>Bromfield,</hi> Mr <hi>Rogers,</hi> Mr <hi>Stainer,</hi> Mr <hi>Tudor,</hi> Mr <hi>Wynne,</hi> Mr <hi>Yomans</hi>
+                  </item>
+                  <item>Bridgenorth—Mr <hi>Beale</hi> and Mr <hi>Stedman</hi>
+                  </item>
+                  <item>Newport—Mr <hi>Collins</hi> and Mr <hi>Jones</hi>
+                  </item>
+                  <item>Wenlock—Mr <hi>Granger</hi>
+                  </item>
+                  <item>Coalbrook-Dale—Mr <hi>Bodens</hi> and Mr <hi>Wright</hi>
+                  </item>
+                  <item>Brosley—Mr <hi>Corbet,</hi> Mr <hi>Rowley</hi> and Mr <hi>Wyke</hi>
+                  </item>
+                  <item>Wellington—Mr <hi>Cartwright</hi> and Mr <hi>Roe</hi>
+                  </item>
+                  <item>Shiffnell—Mr <hi>Younge</hi>
+                  </item>
+                  <item>Church-Stretton—Mr <hi>Langslow</hi>
+                  </item>
+                  <item>Oswestry—Mr <hi>Price,</hi> Mr <hi>Griffiths,</hi> Mr <hi>Evans,</hi> and Mr <hi>Read</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <div type="accountofthesociety">
+            <pb n="54" facs="49"/>
+            <head>A BRIEF ACCOUNT OF THE HUMANE SOCIETY, From its first ESTABLISHMENT in MAY, 1774, To the End of the Year 1777.</head>
+            <p>From <hi>May</hi> to the End of <hi>December,</hi> 1774. RESTORED TO LIFE THE FOLLOWING PERSONS, For whose RECOVERY the SOCIETY paid the PREMIUMS.<list>
+                  <item>1 <hi>JOHN JOSEPH,</hi> Iron-Founder, Falcon-Stairs</item>
+                  <item>2 <hi>Dederic Woolbert,</hi> attended by Mr Hodson, at Wapping</item>
+                  <item>3 <hi>John Herrington,</hi> attended by Mr Patten, of Radcliffe-Cross</item>
+                  <item>4 Capt. <hi>Scott,</hi> attended by Mr. Nelham, of Limehouse</item>
+                  <item>5 <hi>James Beckett,</hi> attended by Mr Corney, of St. John's</item>
+                  <item>6 <hi>Nicholas Groom,</hi> attended by Mr Smith, of Limehouse</item>
+                  <item>7 <hi>Robert Horne,</hi> attended by Mr Hales, of Limehouse</item>
+                  <item>8 <hi>A Young Woman,</hi> attended by Mr Midford</item>
+               </list>
+            </p>
+            <p>N.B. The REPORTS for the Year 1774 give a cir<lb rend="hidden" type="hyphenInWord"/>cumstantial Account of the above CASES.</p>
+            <p>
+               <pb n="55" facs="50"/>
+From <hi>January</hi> to <hi>December</hi> 31, 1775.<list>
+                  <item>1 <hi>Bernard Riley,</hi> restored by Mr Waring, Thames-street</item>
+                  <item>2 <hi>— Bailey,</hi> attended by Mr Macglassan</item>
+                  <item>3 <hi>Francis Bickup</hi> saved by Leonard Cowley and William Mason</item>
+                  <item>4 <hi>— Cambell,</hi> attended by Mr Church, Islington</item>
+                  <item>5 <hi>Jacob Hill,</hi> saved by Roger Dufty and Joseph Campbell</item>
+                  <item>6 <hi>Thomas Pattenson,</hi> restored by Mr Church, Islington</item>
+                  <item>7 <hi>James Pike,</hi> attended by Mr Powsey, of Poplar</item>
+                  <item>8 <hi>William Plunkett,</hi> saved by Lucius Vandeprump and Others</item>
+                  <item>9 <hi>Anthony Sulivan,</hi> attended by Mr Powell, Chelsea</item>
+                  <item>10 <hi>John Venables,</hi> attended by Mr Jos. Knight</item>
+                  <item>11 <hi>James Johnson,</hi> saved by Richard Thomas and Others</item>
+                  <item>12 <hi>James Norris,</hi> saved by Mr Bennet, Wapping</item>
+                  <item>13 <hi>A Child,</hi> attended by Mr Thomas, Wapping</item>
+                  <item>14 <hi>William Gardiner,</hi> restored by Mr Goodwin, Shad-Thames</item>
+                  <item>15 <hi>Thomas Williams,</hi> saved by Mr Battiscomb, Blackfriars</item>
+                  <item>16 <hi>William Scotsam,</hi> restored by Mr Ansel, Brentford</item>
+                  <item>17 <hi>A Boy,</hi> saved by Mr Stevens, Radcliffe Cross</item>
+                  <item>18 <hi>A Boy,</hi> saved by Mr Jones, Islington</item>
+                  <item>19 <hi>A Man,</hi> saved by Thomas Flyde</item>
+                  <item>20 <hi>Deborah Green,</hi> attended by Mr Clifton, Islington</item>
+                  <item>21 <hi>David Adamson,</hi> restored by Mr Cotton, Blackwall</item>
+                  <item>22 <hi>A Child,</hi> aged three Years, attended by Mr Morrison</item>
+                  <item>23 <hi>Sarah Anderson,</hi> attended by Mr Burgess</item>
+                  <item>24 <hi>James Bates,</hi> saved by Richard Couter and Others</item>
+                  <item>25 <hi>Mary Riley,</hi> saved by Mr Haynes, Islington</item>
+                  <item>26 <hi>A Man</hi> taken out of an Ice-Well, attended by Mr Billinghurst</item>
+                  <item>27 <hi>George Posnett,</hi> restored by Mr Waring, Rotherhithe</item>
+                  <item>28 <hi>Thomas Garland,</hi> attended by Mr. Howse, Lambeth</item>
+                  <item>29 <hi>Catharine Leveridge,</hi> restored by Mr Church, Islington</item>
+                  <item>30 <hi>A Child,</hi> aged five Years, attended by Mr Palser, Hammersmith</item>
+                  <item>31 <hi>John Adam Falkenhagen,</hi> attended by Mr Curtis, Islington</item>
+                  <item>32 <hi>William Lane,</hi> attended by Mr Vaux</item>
+               </list> 
+               <pb n="56" facs="51"/>The following PERSONS have been RESTORED TO LIFE, (the Particulars of which were communi<lb rend="hidden" type="hyphenInWord"/>cated to the SOCIETY by MEDICAL GENTLE<lb rend="hidden" type="hyphenInWord"/>MEN and OTHERS) in consequence of their ME<lb rend="hidden" type="hyphenInWord"/>THOD of TREATMENT being GENERALLY KNOWN.<list>
+                  <item>33 <hi>Jane Donnelly</hi> in a disordered state hanged herself, and was to all appearance Dead; she was recovered by Mr Thomas, of Greenwich</item>
+                  <item>34 <hi>A Girl,</hi> restored by Mr Clowes, of Henley</item>
+                  <item>35 <hi>John Beesley,</hi> restored by J. Rose, <abbr>Esq</abbr> of Putney</item>
+                  <item>36 <hi>James Sims,</hi> restored by Mr Rundell, of Bath</item>
+                  <item>37 <hi>A Young Man,</hi> restored by Mr Badger, of Worcester</item>
+                  <item>38 <hi>A Young Man,</hi> restored by Mr Agar, of New-York</item>
+                  <item>39 <hi>A Girl,</hi> restored by Mr Squires, of Wardour-street, Soho</item>
+                  <item>40 <hi>A Boy,</hi> restored by Dr Townsend, of Cork</item>
+                  <item>41 <hi>Christopher Walton,</hi> restored by Dr Ward and Mr Lascelles, of Gainsborough</item>
+                  <item>42 <hi>Thomas Tuffield,</hi> restored by Mr Rigby, of Norwich</item>
+                  <item>43 <hi>A— B—</hi> restored to Life by Dr Kipping, of Brighthelmstone</item>
+                  <item>44 <hi>A Man,</hi> restored by Mr Howse, of Wycomb, &amp;c.</item>
+                  <item>45 <hi>John Sage,</hi> restored by Mr Stebbing, of Ipswich</item>
+                  <item>46 <hi>Master S—,</hi> restored by Dr Pumphry and Dr Townsend, of Cork</item>
+                  <item>47 <hi>James Wynch,</hi> restored by Mr Goldwyer, of Reading</item>
+               </list>
+            </p>
+            <p>N.B. The REPORTS for the Year 1775 give a cir<lb rend="hidden" type="hyphenInWord"/>cumstantial Account of the above CASES.</p>
+            <p>From <hi>January</hi> to <hi>December,</hi> 1776.<list>
+                  <item>1 <hi>Jane Duffin,</hi> attended by Messrs Beaumont and Hawes</item>
+                  <item>2 <hi>Elizabeth Martin,</hi> restored by Mr Burges, of Lambeth</item>
+                  <item>3 <hi>Mary Ann Richer,</hi> saved from drowning in the New-River, by Mr Wood</item>
+                  <item>4 <hi>James Carmichael,</hi> restored by Mr Burges of Lambeth</item>
+                  <item>5 <hi>James Hervey,</hi> taken out of a pond, Islington, by John Day and Others</item>
+                  <item>
+                     <pb n="57" facs="52"/>
+6 <hi>Samuel Rosswell,</hi> a Child, saved by John Hunt</item>
+                  <item>7 <hi>— Moore, apparently dead half an hour,</hi> restored by Mr Adams</item>
+                  <item>8 <hi>Mary Harris,</hi> attended by Mr Clifton of Islington</item>
+                  <item>9 10 <hi>Two Men,</hi> saved from drowning in the Thames, near Limehouse, by John Stanley, a Water<lb rend="hidden" type="hyphenInWord"/>man</item>
+                  <item>11 <hi>Thomas Mallat,</hi> a Child, <hi>apparently dead,</hi> and restored by Mr Clowes</item>
+                  <item>12 <hi>Mary Smith,</hi> taken out of a pond near Hoxton, at<lb rend="hidden" type="hyphenInWord"/>tended by Mr Roberts</item>
+                  <item>13 <hi>Elizabeth Jones,</hi> taken out of the Thames, <hi>apparently dead,</hi> and restored by Mr Beaumont</item>
+                  <item>14 <hi>Ann Bethel,</hi> a Child, restored by Mr Squires, of Wandsworth</item>
+                  <item>15 <hi>John Chesterman,</hi> restored by Mr Walford, of Garlick-hill</item>
+                  <item>16 <hi>Stephen Wilrick,</hi> attended by Mr Matthews</item>
+                  <item>17 <hi>A Poor Man,</hi> attended by Mr Midford</item>
+                  <item>18 <hi>A Boy,</hi> saved from drowning in the New-River, Islington, by John Bell</item>
+                  <item>19 <hi>William Jones,</hi> saved from being drowned, by Thomas Hatfield, a Waterman</item>
+                  <item>20 <hi>Robert Chishelm,</hi> taken out of the Thames, <hi>apparently dead,</hi> restored by Mr Beaumont</item>
+                  <item>21 <hi>A Girl,</hi> attended by the 'Prentice of Mr Taylor</item>
+                  <item>22 <hi>Edward Swan,</hi> almost dead, attended by Mr Buck of the Strand</item>
+                  <item>23 <hi>William Sykes,</hi> saved from being drowned by Weston, Waterman</item>
+                  <item>24 <hi>Paul Oldfield,</hi> taken out of the Thames, almost dead, and restored by Four Watermen</item>
+                  <item>25 <hi>Williams,</hi> saved from being drowned in the Thames, by John Goodacre, a Waterman</item>
+                  <item>26 <hi>A Woman</hi> with Child, <hi>apparently dead,</hi> restored by Mr Blunt, of St. Catharine's</item>
+                  <item>27 <hi>Ann Russel,</hi> carried to St. Martin's Workhouse <hi>for dead,</hi> restored by Messrs Jervis</item>
+                  <item>28 <hi>Elizabeth Henfield,</hi> taken out of a Pond near Isling<lb rend="hidden" type="hyphenInWord"/>ton, by Mary Addison and Elizabeth Bridge</item>
+                  <item>29 <hi>John Mattocks,</hi> saved from drowning in the New-River, by John Jennings</item>
+                  <item>
+                     <pb n="58" facs="53"/>
+30 <hi>Dennis Sulivan,</hi> taken out of the Thames, <hi>apparently dead,</hi> restored by Mr Corney</item>
+                  <item>31 <hi>Thomas Orlebar,</hi> taken out of the River at Manning<lb rend="hidden" type="hyphenInWord"/>tree, and restored by Mr Rogers</item>
+                  <item>32 <hi>George Williams,</hi> taken out of the Thames, saved by C. Maynard, a Waterman</item>
+                  <item>33 <hi>Jane Wright,</hi> taken out of the Thames, near Billings<lb rend="hidden" type="hyphenInWord"/>gate, <hi>apparently dead,</hi> restored by Mr Vaux</item>
+                  <item>34 <hi>Elizabeth Taylor,</hi> saved from drowning in the New-River, by R. Potter and Others</item>
+                  <item>35 Mrs. <hi>Patrick,</hi> taken out of the Thames, nearly drown<lb rend="hidden" type="hyphenInWord"/>ed, recovered by Mr H nry Pierce</item>
+                  <item>
+                     <list>
+                        <item>36 Mrs <hi>Beck,</hi>
+                        </item>
+                        <item>37 Mrs <hi>Buckland,</hi>
+                        </item>
+                        <item>38 Mrs <hi>Cambell,</hi>
+                        </item>
+                     </list>
+Taken out of the Thames near Rotherhithe, (being overset in a Greenwich Hoy) Mrs Cam<lb rend="hidden" type="hyphenInWord"/>bell, <hi>apparently dead,</hi> was re<lb rend="hidden" type="hyphenInWord"/>stored by Mr Maddox</item>
+                  <item>39 <hi>Pierce Blois,</hi> a French Mariner, taken out of the Thames, by J. Hill, a Waterman</item>
+                  <item>40 <hi>Mary Cooper,</hi> taken out of the New-River, Islington, <hi>apparently dead,</hi> restored Mr Church</item>
+                  <item>41 <hi>Judith <gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                           <desc>illegible</desc>
+                        </gap>ve,</hi> taken out of the New-River, attended by Mr Church</item>
+               </list>
+            </p>
+            <p>CASES communicated to the SOCIETY in the Year 1776
+<list>
+                  <item>
+                     <list>
+                        <item>1 <hi>Robert Lunt,</hi> taken out of Dock, <hi>apparently dead,</hi> restored by Messrs Shertcliffe and Lyon</item>
+                        <item>2 <hi>William Roberts,</hi> taken out of the Salt-House Dock, attended by Dr Hou<gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                              <desc>illegible</desc>
+                           </gap>ton</item>
+                        <item>3 <hi>Philip Smith,</hi> an invalid, saved from Drown<lb rend="hidden" type="hyphenInWord"/>ing, and attended by Mr Lyon</item>
+                        <item>4 <hi>James Bryan,</hi> taken up almost drowned, and attended by Mr Park</item>
+                        <item>5 <hi>James Jones,</hi> taken up, <hi>apparently dead,</hi> at<lb rend="hidden" type="hyphenInWord"/>tended by Mr Lyon</item>
+                        <item>6 <hi>Amelia Houghton,</hi> saved from drowning by a Sailor</item>
+                     </list>
+Liverpool.</item>
+                  <item>
+                     <list>
+                        <item>7 <hi>A Fisherman,</hi> taken up in extreme Danger, attended by Dr Townsend</item>
+                        <item>8 <hi>A Fisherman, apparently dead,</hi> restored by Dr Townsend</item>
+                     </list>
+Corke.</item>
+                  <item>
+                     <pb n="59" facs="54"/>
+                     <list>
+                        <item>9 <hi>Thomas Ferguson, apparently dead,</hi> restored by Dr Dawson</item>
+                        <item>10 <hi>Jane Nutman,</hi> rendered <hi>lifeless,</hi> by an extra<lb rend="hidden" type="hyphenInWord"/>ordinary Species of Suffocation, restor<lb rend="hidden" type="hyphenInWord"/>ed by Dr Dawson</item>
+                     </list>
+Coldstream</item>
+                  <item>11 <hi>John Dick,</hi> taken out of a Canal, <hi>apparently dead,</hi> restored by Mr Meak, Falkirk</item>
+               </list>
+            </p>
+            <p>The REPORTS for the Year 1776, give a Circumstantial Account of the CASES.</p>
+            <p>From <hi>January</hi> to <hi>December,</hi> 1777.<list>
+                  <item>1 <hi>J. Barton,</hi> of St Clement Danes, restored to life by Mr Hawes, Palsgrave Place</item>
+                  <item>2 <hi>Samuel Russel,</hi> restored by Mr Gray, Rotherhithe</item>
+                  <item>3 <hi>G. Monkton,</hi> attended by Mr Vaux, Billingsgate</item>
+                  <item>4 <hi>J. Dickson,</hi> restored by Mr Boyse, Blackfriars</item>
+                  <item>5 <hi>Sarah Prior,</hi> attended by Mr Church, Islington</item>
+                  <item>6 <hi>Rachael Fossey,</hi> attended by Mr Church, Islington</item>
+                  <item>7 <hi>Robert Noel,</hi> attended by Mr. Curtis, Islington</item>
+                  <item>8 <hi>John South,</hi> attended by Mr Hodgson, Wapping</item>
+                  <item>9 <hi>Sarah Binder,</hi> restored by Mr Dymond, Holborn</item>
+                  <item>10 <hi>W. Macgray,</hi> attended by Mr Smith, Wapping</item>
+                  <item>11 <hi>Aaron Richards,</hi> restored by Mr Church, Islington</item>
+                  <item>12 <hi>A Young Woman, after hanging half an Hour,</hi> restored by Messrs Squire and Ley</item>
+                  <item>13 <hi>John Richards,</hi> restored by Mr Beaumont, junior</item>
+                  <item>14 <hi>Ruth Skip,</hi> restored by Mr Dymond, Blackfriars</item>
+                  <item>15 <hi>Sarah Dubel,</hi> attended by Mr Gray, Rotherhithe</item>
+                  <item>16 <hi>Samuel Wadley,</hi> attended by Mr Gray, Rotherhithe</item>
+                  <item>17 <hi>William Broad,</hi> attended by Mr Hawes, Palsgrave-Place</item>
+                  <item>18 <hi>A Young Man,</hi> attended by Mr Church, Islington</item>
+                  <item>
+                     <list>
+                        <item>19 <hi>T. George,</hi> restored by a Publican</item>
+                        <item>20 <hi>J. Wild,</hi> restored by ditto</item>
+                     </list>Both authenticated by the Rev. Dr. Milne</item>
+                  <item>21 <hi>G. Phelps,</hi> attended by Mr. Palser, Hammersmith</item>
+                  <item>22 <hi>C. Goodwin,</hi> (a Child) attended by Mr. Penry, Dock-Head</item>
+                  <item>23 <hi>A Child,</hi> attended by Mr Hole, Islington</item>
+                  <item>
+                     <pb n="60" facs="55"/>
+24 <hi>J. Thompson,</hi> restored by Mr Williamson, Boyle-Street</item>
+                  <item>25 <hi>J. Millett,</hi> (a Child) saved by T. Ives, a Waterman</item>
+                  <item>26 <hi>C. Jackson,</hi> restored by Mr Dunn</item>
+                  <item>27 <hi>A Young Man,</hi> saved by John Rhodes, a Waterman</item>
+                  <item>28 <hi>A Child,</hi> restored to Life by Mary Sherborn, South<lb rend="hidden" type="hyphenInWord"/>hall-Green</item>
+                  <item>29 <hi>J. Necks,</hi> attended by Mr Forbes's Journeyman</item>
+                  <item>30 <hi>W. Findlayson,</hi> restored by Mr Brien, Shadwell</item>
+                  <item>31 <hi>R. Angell,</hi> restored by Mr Hooper, Tooley-Street</item>
+                  <item>32 <hi>C. Anderson,</hi> attended by Mr Smith, Limehouse</item>
+                  <item>33 <hi>Jane Hodges,</hi> attended by Mr Billinghurst, Piccadilly</item>
+                  <item>34 <hi>John Morgan,</hi> attended by Mr Church, Islington</item>
+                  <item>35 <hi>John Payne,</hi> saved by Samuel Robins</item>
+                  <item>36 <hi>Elizabeth Cleave,</hi> attended by Mr Church, Islington</item>
+                  <item>37 <hi>B. M. after hanging half an Hour,</hi> restored to Life by Mr. Parkinson</item>
+                  <item>38 <hi>A Child, fifteen months old,</hi> restored by Mr Fairclough, of Manningtree</item>
+                  <item>39 <hi>Martha Wood,</hi> attended by Mr Hooper, Tooley-Street</item>
+                  <item>40 <hi>A Boy,</hi> attended by Mr Curtis's Journeyman</item>
+                  <item>41 <hi>Peter Hepburn,</hi> saved by J. Minden, a Waterman</item>
+                  <item>42 <hi>J. Barber,</hi> saved by Mr Baker, Deptford</item>
+                  <item>43 <hi>A Young Woman,</hi> restored to Life, authenticated by Mr Stewart</item>
+                  <item>44 <hi>Sarah Johnson,</hi> attended by Mr Jones</item>
+                  <item>45 <hi>A Young Woman,</hi> attended by Mr Newell, of Colchester</item>
+                  <item>46 <hi>A Woman,</hi> restored to Life by Mr Simson, East-Berg<lb rend="hidden" type="hyphenInWord"/>holt</item>
+                  <item>47 <hi>— Smith,</hi> saved by Mashack, and other Wa<lb rend="hidden" type="hyphenInWord"/>termen</item>
+                  <item>48 <hi>W. Abbot,</hi> attended by Mr Wale and others</item>
+                  <item>49 <hi>W. Higgs,</hi> saved by some Watermen</item>
+                  <item>50 <hi>Sarah Burden,</hi> restored to Life by Mr Davies</item>
+                  <item>51 <hi>T. Haylet,</hi> saved by Mr Pocock</item>
+                  <item>52 <hi>W. Squires,</hi> attended by Mr Bliss and others</item>
+                  <item>53 <hi>F. Bates,</hi> saved by Derham, a Waterman, &amp;c.</item>
+                  <item>54 <hi>A Young Woman,</hi> restored at Oundle, in Northamp<lb rend="hidden" type="hyphenInWord"/>tonshire</item>
+                  <item>55 <hi>A Child</hi> suffocated, restored to Life by Mr Wyat, Mi<lb rend="hidden" type="hyphenInWord"/>nories</item>
+               </list>
+            </p>
+            <p>
+               <pb n="61" facs="56"/>
+CASES communicated to the SOCIETY in the Year 1777.<list>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>A Boy,</hi> ten Minutes under Water, and re<lb rend="hidden" type="hyphenInWord"/>covered</item>
+                        <item>
+                           <hi>Mary Hill,</hi> fifteen Minutes and recovered</item>
+                        <item>
+                           <hi>A Child,</hi> five Minutes, and recovered</item>
+                        <item>The Lives of <hi>Six Persons</hi> saved by the Rewards</item>
+                        <item>
+                           <hi>Mary Rice,</hi> restored to Life</item>
+                     </list>Liverpool.</item>
+                  <item>
+                     <hi>R. Alsop,</hi> restored to Life by Mr Hinchliffe, Birmingham</item>
+                  <item>
+                     <hi>E. G. after hanging fifteen Minutes,</hi> restored to Life by Mr Stebbing, Ipswich</item>
+                  <item>
+                     <hi>A Young Woman,</hi> restored by a Mr Nicholas, of Bath</item>
+                  <item>
+                     <hi>A Young Man,</hi> recovered by Mr Aspennal, Abberford</item>
+                  <item>
+                     <hi>A Man</hi> found <hi>apparently dead,</hi> from being exposed to the Cold all Night, the Body was kept in hot Ashes, and other Means used for upwards of two Hours before any signs of Life appeared.—The <hi>Restora<lb rend="hidden" type="hyphenInWord"/>tion</hi> was performed by Dr Garrioch, Old Meldrum, near Aberdeen.</item>
+               </list>
+            </p>
+            <p>The REPORTS for this Year 1777, just published, give a circumstantial Account of the above CASES.</p>
+            <p>The Number of LIVES Preserved and Restored since our first institution, amounts to Two Hundred and Fifteen.</p>
+            <p>
+               <hi>One Hundred and Eight Persons</hi> have been preserved and restored to Life by the MEDICAL ASSISTANTS of the Society within the last Fifteen Months; so that in Five Years, 467 Accidents have come under the Notice of this charity, and TWO HUNDRED and SEVENTY Per<lb rend="hidden" type="hyphenInWord"/>sons out of that Number have been snatched from the Grave. The Reports for the Year 1778, are shortly to be published, which will give a circumstantial Account of many very extraordinary Cases of Recovery from Death.</p>
+            <p>The preceding happy instances of Restoration to Life prove, to a Demonstration, the Practicability of <hi>recover<lb rend="hidden" type="hyphenInWord"/>ing those who are to all appearance dead;</hi> and ascertain a
+<pb n="62" facs="57"/>
+very affecting and humiliating Truth;—<q rend="inline">"that hundreds might have been restored, and have remained to this Moment a Blessing to their Connections, and to the World, if such an Institution had been earlier estab<lb rend="hidden" type="hyphenInWord"/>lished in these Kingdoms."</q>
+            </p>
+            <p>The Directors, encouraged by the surprising Success of the Society in its Infancy, propose to exert themselves with double Vigour.</p>
+            <p>It is also intended, as soon as the Fund will permit, to extend the Rewards to a greater Distance, and include every other Instance of sudden Death.</p>
+            <p>N.B. A large Number of Advertisements, containing the Methods of Treatment alone are printed, in order to be dispersed through various Parts of the Kingdom, especially in Sea-Ports, and Towns contiguous to large Rivers, in order to diffuse a knowledge of Means re<lb rend="hidden" type="hyphenInWord"/>specting Persons in such critical Situations, and excite the Inhabitants to form similar Institutions.</p>
+            <p>The DIRECTORS have also voted a SILVER MEDAL to the MEDICAL ASSISTANTS, or any other GENTLEMEN, who have been the happy Instruments of Restoration to Life, as an Acknowledgment of their Skill and generous Assiduity.</p>
+            <p>The TREASURER pays the REWARDS of the SO<lb rend="hidden" type="hyphenInWord"/>CIETY in the following Manner:<list>
+                  <item>FOUR GUINEAS, whenever LIFE has been RE<lb rend="hidden" type="hyphenInWord"/>STORED.</item>
+                  <item>TWO GUINEAS, in every UNSUCCESSFUL ATTEMPT, provided the MODE of TREATMENT prescribed by the SOCIETY has been used TWO HOURS.</item>
+                  <item>ONE GUINEA to PUBLICANS, &amp;c. who receive the Bodies readily into their Houses.</item>
+               </list>
+            </p>
+            <p>
+               <pb n="63" facs="58"/>To such as are inclined to become Benefactors by Will the following Form of a Legacy is recommended:</p>
+            <p>Item, <hi>I give and bequeath unto</hi> A. B. <hi>and</hi> C. D. <hi>the Sum of {left blank} to be raised and paid by and out of my personal Estate and Effects, which by Law I may or can charge with the Payment thereof, upon Trust, and to the Intent, that they, or either of them, do pay the same to the Treasurer (for the Time being) of a Charity, called or known by the Name of</hi> THE HUMANE SOCIETY, <hi>instituted in the Year</hi> 1774, <hi>which said Sum I desire may be applied towards carrying on the beaevolent Designs of the said Charity.</hi>
+            </p>
+            <p>N.B. Giving Land, or Money, or Stock, by Will, to be laid out in the Purchase of any Estate for charitable Uses, will be void by the Statute of Mortmain; but Money, or Stock may be given by Will, without be<lb rend="hidden" type="hyphenInWord"/>ing directed to be laid out.</p>
+            <p>SUBSCRIPTIONS FOR THE HUMANE DESIGN OF RECOVERING PERSONS APPARENTLY DEAD BY DROWNING or SUF<lb rend="hidden" type="hyphenInWord"/>FOCATION, &amp;c. are received by</p>
+            <p>JAMES HORSFALL, <abbr>Esq</abbr> 
+               <hi>(Treasurer)</hi> Middle Temple,</p>
+            <p>Dr. COGAN, No. 11, Paternoster-Row,</p>
+            <p>Mr. HAWES, Apothecary, Palsgrave-Place, Strand.</p>
+            <p>Where the ADVERTISEMENTS mentioned may be had.</p>
+            <p>FIVE GUINEAS, or more, ONE PAYMENT, con<lb rend="hidden" type="hyphenInWord"/>stitute a PERPETUAL DIRECTOR.</p>
+            <p>ONE GUINEA <hi>per Annum,</hi> constitutes an ANNUAL DIRECTOR.</p>
+         </div>
+         <trailer>THE END.</trailer>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,549 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The progress of envy: a poem, in imitation of Spenser. Occasioned by Lauder's attack on the character of Milton. Inscribed to the Right Honourable the Earl of Bath.</title>
+            <author>Lloyd, Robert, 1733-1764.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K022565.000</idno>
+            <idno type="docno">CW3311471012</idno>
+            <idno type="ecll">0313900900</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The progress of envy: a poem, in imitation of Spenser. Occasioned by Lauder's attack on the character of Milton. Inscribed to the Right Honourable the Earl of Bath.</title>
+                  <author>Lloyd, Robert, 1733-1764.</author>
+               </titleStmt>
+               <extent>xii[i.e.xi],[1],16p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Newbery,</publisher>
+                  <date>1751.</date>
+                  <idno type="TCP">K022565.000</idno>
+                  <idno type="docno">CW3311471012</idno>
+                  <idno type="ecll">0313900900</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Robert Lloyd.</note>
+                  <note>P. xi misnumbered xii.</note>
+                  <note>This issue has "[Price One Shilling" at foot of titlepage.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Roscoe, A301 (1)</note>
+                  <note>English Short Title Catalog, ESTCT4710.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE PROGRESS of ENVY A POEM, IN IMITATION of SPENSER.</p>
+            <p>Occasioned by LAUDER'S Attack on the Character of MILTON.</p>
+            <p>Inscribed to the Right Honourable THE EARL OF BATH.</p>
+            <q>
+               <l>Odium bonorum sede me infaustâ extrahit</l>
+               <l>Diros scelestâ mente versantem dolos.</l>
+               <bibl>GROTII Adamus Exsul.</bibl>
+            </q>
+            <p>LONDON: Printed for J. NEWBERY, at the Bible and Sun, in St. Paul's Church-yard. MDCCLI.</p>
+            <p>Price One Shilling.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <p>To the RIGHT HONORABLE THE EARL OF BATH, PATRON OF MILTON, AND HIS VINDICATORS,</p>
+            <p>The following POEM is inscribed, By his LORDSHIP'S most obedient humble Servant,</p>
+            <closer>
+               <signed>THE AUTHOR.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb n="v" facs="3"/>
+            <head>THE PREFACE.</head>
+            <p>TO be studious of bringing Merit in Obscurity to Light, is so strong an Instance of Benevolence, that it has in all Ages been constantly attended with the highest Commendations; while the Destroyer of a Man's Reputation (in whatsoever it consisted) has been ac<lb rend="hidden" type="hyphenInWord"/>counted a more odious Criminal than even the Assassin of his Body. On this Remark is founded one of the most beau<lb rend="hidden" type="hyphenInWord"/>tiful Passages in <hi>SHAKESPEARE:</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Who steals my Purse, steals Trash;</hi>
+                  </l>
+                  <l>
+                     <hi>'Twas mine, 'tis his, and has been Slave to Thousands:</hi>
+                  </l>
+                  <l>
+                     <hi>But he that filches from me my good Name,</hi>
+                  </l>
+                  <l>
+                     <hi>Steals from me that which not enriches him,</hi>
+                  </l>
+                  <l>
+                     <hi>But makes me poor indeed.</hi>
+                  </l>
+               </lg>
+               <bibl>
+                  <hi>OTHELLO.</hi>
+               </bibl>
+            </q>
+            <p>
+               <pb n="vi" facs="4"/>
+This is so true an Observation, that few, I believe, will doubt, that <hi>MILTON</hi> was less offended at the low Price his inestimable Poem was rated at on its first Publication, than he would have been at the late mean Attempts to subvert a Fame so well established.</p>
+            <p>To view the Character of this <hi>SON OF DARKNESS</hi> in its most genuine Form, let us contrast it with another no less eminent for its Splendor, which is the properest I could chuse for my present Purpose, as it is particularly so in relation to that <hi>DIVINE AUTHOR</hi> we have lately seen so well vindicat<lb rend="hidden" type="hyphenInWord"/>ed from the groundless Aspersions of almost his only Enemy.</p>
+            <p>In the Course of the <hi>Spectators,</hi> Mr. <hi>ADDISON</hi> (who was perhaps the most candid Critick that ever wrote, without de<lb rend="hidden" type="hyphenInWord"/>viating from Impartiality) took a particular Pleasure in producing latent unregarded Worth, that he might show those Cavillers who were daily complaining of a Deartb of good Poetry, what noble things of this Kind they neglected.</p>
+            <p>Agreeably to this End is his Criticism on the <hi>old English Ballad of Chevy-Chace;</hi> but his most glorious Works of this Kind are his Observations on the <hi>PARADISE LOST.</hi> There is not a stronger Instance of Prejudice, and the Force of Party, than the Reception this Poem met with in the Au<lb rend="hidden" type="hyphenInWord"/>thor's Life-time, whose unhappy Attachment to wrong
+<pb n="vii" facs="5"/>
+Principles, render'd all his Attempts at Fame (while liv<lb rend="hidden" type="hyphenInWord"/>ing) fruitless. His admirable Poem lay in Obscurity till Mr. <hi>ADDISON</hi> removed those envious Clouds which had been suffered to obstruct its Splendor. With what Plea<lb rend="hidden" type="hyphenInWord"/>sure does be discover its Excellencies, and instruct an or<lb rend="hidden" type="hyphenInWord"/>dinary Reader to judge of its Beauties! With what Regret does he speak of the sew Blemishes of that Divine Piece, which (says he) <hi>is like writing a Treatise upon the Spots of the Sun.</hi>
+            </p>
+            <p>These Remarks are so universally read and approved, that, I believe every body but <hi>LAUDER</hi> (and his Friends, if he has any) will concur with me in the following Observa<lb rend="hidden" type="hyphenInWord"/>tion: Had Mr. <hi>ADDISON</hi> never wrote a Line but his Cri<lb rend="hidden" type="hyphenInWord"/>tique upon <hi>MILTON,</hi> that would alone have been sufficient to have established his Reputation as a fine Writer and a good Man.</p>
+            <p>If the Reader would view the exact Reverse of the above Character, let him turn his Eyes on <hi>LAUDER:</hi> A Being so utterly void of Candour and Benevolence, that he has thought it worth his While to commit the grossest Forgeries, to di<lb rend="hidden" type="hyphenInWord"/>sturb, if possible, the Ashes of our Poet, and has been more industrious to depreciate the <hi>Paradise Lost</hi> than the Writers in the Beginning of this Century were to heap Encomiums upon it. The Inhumanity and amazing Impudence of these Proceedings have puzzled all, to devise a likely Reason for so
+<pb n="viii" facs="6"/>
+strange a Piece of Malice. The faint Excuses alledged for this Behaviour in <hi>LAUDER'S Recantation,</hi> by no Means pal<lb rend="hidden" type="hyphenInWord"/>liate his Crime, notwithstanding the florid Dress he has cloathed them in. Though I am far from being admitted into his secret Counsels, I believe I may venture to mention one, which, out of his usual Regard to Truth, he has pur<lb rend="hidden" type="hyphenInWord"/>posely omitted. It is very possible the same thing which has often made Poets, tempted <hi>LAUDER</hi> to unmake one, <hi>viz.</hi> Poverty and the Hopes of a Subscription.</p>
+            <p>These potent Arguments once induced him to commend with some Warmth the very same Poem he has lately been at so much Pains to brand, as a Work of no Genius: But as Honesty would no longer procure him a Dinner, his Con<lb rend="hidden" type="hyphenInWord"/>science did not prevent him from turning the Tables.</p>
+            <q>
+               <hi>Rem faciam Rem, Si possim, rectè, si non, quocunque modo Rem.</hi>
+            </q>
+            <p>But we will urge this no farther, remembering, that it is not right to speak Ill of the <hi>Dead.</hi>
+            </p>
+            <p>
+               <hi>PREFACES</hi> are commonly intended for Discourses to the Reader on the Book he is entering upon; but the Considera<lb rend="hidden" type="hyphenInWord"/>tion of a Being quite divested of Modesty and Humanity, na<lb rend="hidden" type="hyphenInWord"/>turally led me into the foregoing Reflections, arising from the Subject of these Sheets.</p>
+            <p>
+               <pb n="ix" facs="7"/>
+I shall not trouble the Reader with an Account of the Time I was employed in writing it, or insipidly petition the Favour of the Criticks, but commit it to the World, 
+<q>With all its Imperfections on its Head.</q>
+            </p>
+            <p>An Attempt to overthrow the bold Assertions of <hi>LAUDER</hi> by Poetry, till he had been foiled at his own Weapons, would hardly have succeeded. But when so invincible a Champion as Mr. <hi>DOUGLAS</hi> had taken the Field, and returned victo<lb rend="hidden" type="hyphenInWord"/>rious, the <hi>MUSES,</hi> who were particularly interested in the Contest, should adorn him with the Insignia of a Triumph.</p>
+            <p>This Hint has already given Rise to the <hi>Pandaemonium</hi> and the following Stanzas, in Imitation of <hi>SPENSER.</hi> The Design of our several Pieces are so very different, that it is almost impossible they should clash in point of Merit. If we both meet with Success, according to our various Models, we need not be disheartened at any accidental Rivalship or absurd Comparison an injudicious Reader may draw be<lb rend="hidden" type="hyphenInWord"/>tween us.</p>
+            <p>Mr. <hi>DRYDEN,</hi> in some Part of his Works, has an Ob<lb rend="hidden" type="hyphenInWord"/>servation hinting at <hi>Poetical Genealogy. We have amongst us</hi> (says he) <hi>our Lines and Descents, in as regular a man<lb rend="hidden" type="hyphenInWord"/>ner as the noblest Families.</hi> In deducing the best <hi>English</hi> Writers from their poetick Original, he observes, that <hi>MIL<lb rend="hidden" type="hyphenInWord"/>TON</hi>
+               <pb n="x" facs="8"/>
+is the first Descendant from <hi>SPENSER.</hi> This Remark of so great a Judge as Mr. <hi>DRYDEN</hi> induced me to chuse <hi>SPENSER</hi> for my Model, and to place him by the Side of <hi>APOLLO</hi> in my <hi>Poem,</hi> imagining there was a peculiar Pro<lb rend="hidden" type="hyphenInWord"/>priety in shielding the Son under the Protection of the Fa<lb rend="hidden" type="hyphenInWord"/>ther.</p>
+            <p>As I did not suppose that Imitations were bound to tran<lb rend="hidden" type="hyphenInWord"/>scribe the Faults as well as Excellencies of their Original, I made no Scruple of making a slight Alteration in <hi>SPENSER'S Stanza,</hi> which is universally condemned for the Redun<lb rend="hidden" type="hyphenInWord"/>dancy of its correspondent Rhimes. The Difficulty I should have found in the Execution had perhaps some Share in this voluntary Omission. Allowing this to be certain, my judi<lb rend="hidden" type="hyphenInWord"/>cious Reader will be so far from thinking it a Blemish, that I am persuaded he will readily compound for the Loss of some of my Bells, provided I can entertain him more ra<lb rend="hidden" type="hyphenInWord"/>tionally. I have, in general, rather wished to fall into <hi>SPENSER</hi>'S Way of Thinking than his Manner of cloathing his Sentiments, because I think his Imagery infinitely supe<lb rend="hidden" type="hyphenInWord"/>rior to his Stile. I have, however, be<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>n so far from ne<lb rend="hidden" type="hyphenInWord"/>glecting his Language, that except those Places where I found the old Words express less than the modern, I always gave them the Preference. Whether I have transfused any of the divine Spirit of <hi>SPENSER</hi> into the following Stanzas, and whether his Style is successfully imitated, the Reader must judge for himself.</p>
+            <p>
+               <pb n="xii" facs="9"/>
+The Mention I made of the slight Variation from <hi>SPEN<lb rend="hidden" type="hyphenInWord"/>SER</hi>'S Stanza, was meerly to prevent the Nibblers of the Age from imputing it to Ignorance. These would-be Cri<lb rend="hidden" type="hyphenInWord"/>ticks take great Pains to pervert the Movements of the hu<lb rend="hidden" type="hyphenInWord"/>man Mind, which certainly has more Pleasure in bestowing Commendations than Dispraise. I beg Leave to show the Truth of this Assertion by an Instance drawn from myself as an Author. Whatever Satisfaction it may have afforded me to stigmatize the Malice of <hi>LAUDER</hi>'S Proceedings, no<lb rend="hidden" type="hyphenInWord"/>thing in the whole Course of this Work pleased me so much as celebrating Mr. <hi>DOUGLAS.</hi> If the following Trifle should meet with the Approbation of the Publick, I hope that Gentleman will think it an acceptable Present to Himself.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="10"/>
+         <head>THE PROGRESS OF ENVY.</head>
+         <lg n="1">
+            <head>I.</head>
+            <l>AH me! unhappy State of mortal Wight,</l>
+            <l>Sith ENVY'S sure Attendant upon Fame,</l>
+            <l>Ne doth she rest from rancorous Despight,</l>
+            <l>Until she works him mickle Woe and Shame;</l>
+            <l>Unhappy he whom ENVY thus doth spoil,</l>
+            <l>Ne doth she check her ever restless Hate,</l>
+            <l>Until she doth his Reputation foil:</l>
+            <l>Ah! luckless Imp is he, whose Worth elate,</l>
+            <l>Forces him pay this heavy Tax for being great.</l>
+         </lg>
+         <lg n="2">
+            <pb n="2" facs="11"/>
+            <head>II.</head>
+            <l>There stood an ancient Mount, yclept <hi>Parnass,</hi>
+            </l>
+            <l>(The fair Domain of sacred Poesy)</l>
+            <l>Which, with fresh Odours ever-blooming, was</l>
+            <l>Besprinkled with the Dew of <hi>Castaly;</hi>
+            </l>
+            <l>Which now in soothing Murmurs whisp'ring glides,</l>
+            <l>Wat'ring with genial Waves the fragrant Soil,</l>
+            <l>Now rolls adown the Mountain's steepy Sides,</l>
+            <l>Teaching the Vales full beauteously to smile,</l>
+            <l>Dame NATURE'S handy-work, not form'd by lab'ring Toil.</l>
+         </lg>
+         <lg n="3">
+            <head>III.</head>
+            <l>The MUSES fair these peaceful Shades among,</l>
+            <l>With skilful Fingers sweep the trembling Strings;</l>
+            <l>The Air in Silence listens to the Song,</l>
+            <l>And TIME forgets to ply his lazy Wings;</l>
+            <l>Pale-visag'd CARE, with foul unhallow'd Feet,</l>
+            <l>Attempts the Summit of the Hill to gain,</l>
+            <l>Ne can the Hag arrive the blissful Seat;</l>
+            <l>Her unavailing Strength is spent in vain,</l>
+            <l>CONTENT sits on the Top, and mocks her empty Pain.</l>
+         </lg>
+         <lg n="4">
+            <pb n="3" facs="12"/>
+            <head>IV.</head>
+            <l>Oft PHOEBUS self left his divine Abode,</l>
+            <l>And here enshrouded in a shady Bow'r,</l>
+            <l>Regardless of his State, lay'd by the God,</l>
+            <l>And own'd sweet Music's more alluring Pow'r.</l>
+            <l>On either Side was plac'd a peerless Wight,</l>
+            <l>Whose Merit long had fill'd the Trump of FAME;</l>
+            <l>This FANCY'S darling Child was SPENSER hight,</l>
+            <l>Who pip'd full pleasing on the Banks of <hi>Tame,</hi>
+            </l>
+            <l>That no less fam'd than He, and MILTON was his Name.</l>
+         </lg>
+         <lg n="5">
+            <head>V.</head>
+            <l>In these cool Bow'rs they live supinely calm;</l>
+            <l>Now harmless talk, now emulously sing;</l>
+            <l>While VIRTUE, pouring round her sacred Balm,</l>
+            <l>Makes Happiness eternal as the Spring.</l>
+            <l>Alternately they sung; now SPENSER 'gan,</l>
+            <l>Of Jousts and Tournaments, and Champions strong;</l>
+            <l>Now MILTON sung of disobedient Man,</l>
+            <l>And <hi>Eden</hi> lost: The Bards around them throng,</l>
+            <l>Drawn by the wond'rous Magick of their Prince's Song.</l>
+         </lg>
+         <lg n="6">
+            <pb n="4" facs="13"/>
+            <head>VI.</head>
+            <l>Not far from these, Dan CHAUCER, antient Wight,</l>
+            <l>A lofty Seat on Mount <hi>Parnassus</hi> held,</l>
+            <l>Who long had been the MUSE'S chief Delight;</l>
+            <l>His reverend Locks were silver'd over with Eld;</l>
+            <l>Grave was his Visage, and his Habit plain;</l>
+            <l>And while he sung, fair Nature he display'd,</l>
+            <l>In Verse albeit uncouth, and simple Strain;</l>
+            <l>Ne mote he well be seen, so thick the Shade,</l>
+            <l>Which Elms and aged Oaks had all around him made.</l>
+         </lg>
+         <lg n="7">
+            <head>VII.</head>
+            <l>Next SHAKESPEARE sat, irregularly great,</l>
+            <l>And in his Hand a magick Rod did hold,</l>
+            <l>Which visionary Beings did create,</l>
+            <l>And turn'd the foulest Dross to purest Gold:</l>
+            <l>Whatever Spirits rove in Earth or Air,</l>
+            <l>Or bad or good, obey his dread Command;</l>
+            <l>To his Behests these willingly repair,</l>
+            <l>Those aw'd by Terrors of his magick Wand,</l>
+            <l>The which not all their Pow'rs united might withstand.</l>
+         </lg>
+         <lg n="8">
+            <pb n="5" facs="14"/>
+            <head>VIII.</head>
+            <l>Beside the Bard there stood a beauteous Maid,</l>
+            <l>Whose glittering Appearance dimm'd the Eyen;</l>
+            <l>Her thin-wrought Vesture various Tints display'd.</l>
+            <l>FANCY her Name, ysprong of Race divine,</l>
+            <l>Her Mantle <note place="bottom" n="†">
+                  <hi>Wimpled.</hi> A Word used by <hi>Spenser</hi> for <hi>h<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>ng down.</hi> The Line inclosed within Comma's is one of <hi>Fairfax</hi>'s in his Translation of <hi>Tasso.</hi>
+               </note> wimpled low, her silken Hair,</l>
+            <l>Which loose adown her well-turn'd Shoulders stray'd,</l>
+            <l>'She made a Net to catch the wanton Air,'</l>
+            <l>Whose love-sick Breezes all around her play'd,</l>
+            <l>And seem'd in Whispers soft to court the heav'nly Maid.</l>
+         </lg>
+         <lg n="9">
+            <head>IX.</head>
+            <l>And ever and anon she wav'd in Air</l>
+            <l>A Sceptre, fraught with all-creative Pow'r:</l>
+            <l>She wav'd it round: Eftsoons there did appear</l>
+            <l>Spirits and Witches, Forms unknown before:</l>
+            <l>Again she lifts her wonder-working Wand;</l>
+            <l>Eftsoons upon the flow'ry Plain was seen</l>
+            <l>The gay Inhabitants of <hi>Fairie</hi> Land,</l>
+            <l>And blithe Attendants upon MAB their Queen,</l>
+            <l>In mystick Circles danc'd along th' inchanted Green.</l>
+         </lg>
+         <lg n="10">
+            <pb n="6" facs="15"/>
+            <head>X.</head>
+            <l>On th' other Side stood NATURE, Goddess fair;</l>
+            <l>A Matron seem'd she, and of Manners staid;</l>
+            <l>Beauteous her Form, majestick was her Air,</l>
+            <l>In loose Attire of purest White array'd:</l>
+            <l>A potent Rod she bore, whose Power was such,</l>
+            <l>(As from her Darling's Works may well be shown)</l>
+            <l>That often with its soul-enchanting Touch,</l>
+            <l>She rais'd or Joy, or caus'd the deep-felt Groan,</l>
+            <l>And each Man's Passions made subservient to her own.</l>
+         </lg>
+         <lg n="11">
+            <head>XI.</head>
+            <l>But lo! thick Fogs from out the Earth arise,</l>
+            <l>And murky Mists the buxom Air invade,</l>
+            <l>Which with Contagion dire infect the Skies,</l>
+            <l>And all around their baleful Influence shed;</l>
+            <l>Th' infected Sky, which whilom was so fair,</l>
+            <l>With thick Cimmerian Darkness is o'erspread;</l>
+            <l>The Sun, which whilom shone without Compare,</l>
+            <l>Muffles in pitchy Veil his radiant Head,</l>
+            <l>And sore the Time sore-grieving, seeks his wat'ry Bed.</l>
+         </lg>
+         <lg n="12">
+            <pb n="7" facs="16"/>
+            <head>XII.</head>
+            <l>ENVY, the Daughter of fell <hi>Acheron,</hi>
+            </l>
+            <l>(The Flood of deadly Hate and gloomy Night)</l>
+            <l>Had left precipitate her <hi>Stygian</hi> Throne,</l>
+            <l>And thro' the frighted Heavens wing'd her Flight:</l>
+            <l>With careful Eye each Realm she did explore,</l>
+            <l>Ne mote she ought of Happiness observe;</l>
+            <l>For Happiness, alas! was now no more,</l>
+            <l>Sith ev'ry one from Virtue's Paths did swerve,</l>
+            <l>And trample on Religion base Designs to serve.</l>
+         </lg>
+         <lg n="13">
+            <head>XIII.</head>
+            <l>At length, on blest <hi>Parnassus</hi> seated high,</l>
+            <l>Their Temples circled with a Laurel Crown,</l>
+            <l>SPENSER and MILTON met her scowling Eye,</l>
+            <l>And turn'd her horrid Grin unto a Frown.</l>
+            <l>Full fast unto her Sister did she post,</l>
+            <l>There to unload the Venom of her Breast,</l>
+            <l>To tell how all her Happiness was crost,</l>
+            <l>Sith others were of Happiness possest:</l>
+            <l>Did never gloomy Hell send forth like ugly Pest.</l>
+         </lg>
+         <lg n="14">
+            <pb n="8" facs="17"/>
+            <head>XIV.</head>
+            <l>Within the Covert of a gloomy Wood,</l>
+            <l>When fun'ral Cypress star-proof Branches spread,</l>
+            <l>O'ergrown with tangling Briers a Cavern stood;</l>
+            <l>Fit Place for Melancholy <note place="bottom" n="†">
+                  <hi>Dreary head.</hi> Gloominess.</note> Dreary-head.</l>
+            <l>Here a deformed Monster joy'd to won,</l>
+            <l>Which on fell Rancour ever was ybent,</l>
+            <l>All from the rising to the setting Sun,</l>
+            <l>Her Heart pursued Spite with black Intent,</l>
+            <l>Ne could her iron Mind at human Woes relent.</l>
+         </lg>
+         <lg n="15">
+            <head>XV.</head>
+            <l>In flowing sable Stole she was yclad,</l>
+            <l>Which with her Countenance did well accord;</l>
+            <l>Forth from her Mouth, like one thro' Grief gone mad,</l>
+            <l>A frothy Sea of nauseous Foam was pour'd;</l>
+            <l>A ghastly Grin and Eyes asquint, display</l>
+            <l>The Rancour which her hellish Thoughts contain,</l>
+            <l>And how, when Man is blest, she pines away,</l>
+            <l>Burning to turn his Happiness to Pain;</l>
+            <l>MALICE the Monster's Name, a Foe to God and Man.</l>
+         </lg>
+         <lg n="16">
+            <pb n="9" facs="18"/>
+            <head>XVI.</head>
+            <l>Along the Floor black loathsome Toads do crawl,</l>
+            <l>Their Gullets swell'd with Poison's mortal Bane,</l>
+            <l>Which ever and anon they spit at all</l>
+            <l>Whom hapless Fortune leads too near her Den;</l>
+            <l>Around her Waste, in Place of silken Zone,</l>
+            <l>A life-devouring Viper rear'd his Head,</l>
+            <l>Who no Distinction made 'twixt Friend and Foen,</l>
+            <l>But Death on ey'ry Side fierce, brandished,</l>
+            <l>Fly, reckless Mortals fly, in vain is<note place="bottom" n="†">
+                  <hi>Hardy-head.</hi> Courage.</note> Hardy-head.</l>
+         </lg>
+         <lg n="17">
+            <head>XVII.</head>
+            <l>Impatient ENVY, thro' the aetherial Waste,</l>
+            <l>With inward Venom fraught, and deadly Spite,</l>
+            <l>Unto this Cavern steer'd her panting Haste,</l>
+            <l>Enshrouded in a darksome Veil of Night.</l>
+            <l>Her inmost Heart burnt with impetuous Ire,</l>
+            <l>And fell Destruction sparkled in her Look,</l>
+            <l>Her ferret Eyes flash'd with revengeful Fire,</l>
+            <l>A while contending Passions Utt'rance choke,</l>
+            <l>At length the Fiend in furious Tone her Silence broke.</l>
+         </lg>
+         <lg n="18">
+            <pb n="10" facs="19"/>
+            <head>XVIII.</head>
+            <l>Sister, arise: See how our Pow'r decays,</l>
+            <l>No more our Empire thou and I can boast,</l>
+            <l>Sith mortal Man now gains immortal Praise,</l>
+            <l>Sith Man is blest, and thou and I are lost:</l>
+            <l>See in what State <hi>Parnassus</hi>' Hill appears;</l>
+            <l>See PHOEBUS' self two happy Bards atween;</l>
+            <l>See how the God their Song attentive hears;</l>
+            <l>This SPENSER hight, that MILTON, well I ween,</l>
+            <l>Who can behold unmov'd sike heart-tormenting Scene?</l>
+         </lg>
+         <lg n="19">
+            <head>XIX.</head>
+            <l>Sister, arise; ne let our Courage droop,</l>
+            <l>Perforce we will compel these Mortals own,</l>
+            <l>That mortal Force unto our Force shall stoop;</l>
+            <l>ENVY and MALICE then shall reign alone:</l>
+            <l>Thou best has known to file thy Tongue with Lies,</l>
+            <l>And to deceive Mankind with specious Bait;</l>
+            <l>Like TRUTH accoutred, spreadest Forgeries,</l>
+            <l>The Fountain of Contention and of Hate:</l>
+            <l>Arise, unite with me, and be as whilom great.</l>
+         </lg>
+         <lg n="20">
+            <pb n="11" facs="20"/>
+            <head>XX.</head>
+            <l>The Fiend obey'd, and with impatient Voice—</l>
+            <l>Tremble, ye Bards, within that blissful Seat;</l>
+            <l>MALICE and ENVY shall o'erthrow your Joys,</l>
+            <l>Nor PHOEBUS self shall out Designs defeat.</l>
+            <l>Shall we, who under Friendship's feigned Veil,</l>
+            <l>Prompted the bold Archangel to rebel;</l>
+            <l>Shall we, who under Show of sacred Zeal,</l>
+            <l>Plung'd half the Pow'rs of Heav'n in lowest Hell—</l>
+            <l>Such vile Disgrace of us no mortal Man shall tell.</l>
+         </lg>
+         <lg n="21">
+            <head>XXI.</head>
+            <l>And now, more hideous render'd to the Sight,</l>
+            <l>By reason of her raging Cruelty,</l>
+            <l>She burnt to go, equipt in dreadful Plight,</l>
+            <l>And find fit Engine for her Forgery.</l>
+            <l>Her Eyes inflam'd did cast their Rays askance,</l>
+            <l>While hellish Imps prepare the Monster's Car,</l>
+            <l>In which she might cut thro' the wide Expanse,</l>
+            <l>And find out Nations that extended far,</l>
+            <l>When all was pitchy dark, ne twinkled one bright Star.</l>
+         </lg>
+         <lg n="22">
+            <pb n="12" facs="21"/>
+            <head>XXII.</head>
+            <l>Black was her Chariot, drawn by Dragons dire,</l>
+            <l>And each fell Serpent had a double Tongue,</l>
+            <l>Which ever and anon spit flaming Fire,</l>
+            <l>The Regions of the tainted Air emong;</l>
+            <l>A lofty Seat the Sister-monsters bore,</l>
+            <l>In deadly Machinations close combin'd,</l>
+            <l>Dull FOLLY drove with terrible Uproar,</l>
+            <l>And cruel DISCORD follow'd fast behind;</l>
+            <l>God help the Man 'gainst whom such Caitiff Foesare join'd.</l>
+         </lg>
+         <lg n="23">
+            <head>XXIII.</head>
+            <l>Aloft in Air the rattling Chariot flies,</l>
+            <l>While Thunder harshly grates upon its Wheels;</l>
+            <l>Black pointed Spires of Smoke around them rise,</l>
+            <l>The Air depress'd unusual Burthen feels;</l>
+            <l>Detested Sight! In terrible Array,</l>
+            <l>They spur their fiery Dragons on amain,</l>
+            <l>Ne mote their Anger suffer cold Delay,</l>
+            <l>Until the wish'd-for Region they obtain,</l>
+            <l>And land their dingy Car on <hi>Caledonian</hi> Plain.</l>
+         </lg>
+         <lg n="24">
+            <pb n="13" facs="22"/>
+            <head>XXIV.</head>
+            <l>Here elder Son of MALICE long had dwelt,</l>
+            <l>A Wretch of all the Joys of Life forlorn;</l>
+            <l>His Fame on double Falsities was built:</l>
+            <l>(Ah! worthless Son, of worthless Parent born!)</l>
+            <l>Under the Shew of Semblance fair he veil'd</l>
+            <l>The black Intentions of his hellish Breast;</l>
+            <l>And by these guileful Means he more prevail'd</l>
+            <l>Than had he open Enmity profest:</l>
+            <l>The Wolf more safely wounds when in Sheep's Cloathing drest.</l>
+         </lg>
+         <lg n="25">
+            <head>XXV.</head>
+            <l>Him then themselves atween they joyful place,</l>
+            <l>(Sure Signs of Woe when such are pleas'd, alas!)</l>
+            <l>Then measure back the Air with swifter Pace,</l>
+            <l>Until they reach the Foot of Mount <hi>Parnass.</hi>
+            </l>
+            <l>Hither in evil Hour the Monsters came,</l>
+            <l>And with their new Companion did alight,</l>
+            <l>Who long had lost all Sense of virtuous Shame,</l>
+            <l>Beholding worth with poisonous Despight;</l>
+            <l>On his Success depends their impious Delight.</l>
+         </lg>
+         <lg n="26">
+            <pb n="14" facs="23"/>
+            <head>XXVI.</head>
+            <l>Long burnt he sore the Summit to obtain,</l>
+            <l>And spread his Venom o'er the blissful Seat;</l>
+            <l>Long burnt he sore, but still he burnt in vain;</l>
+            <l>Mote none come then, who come with impious Feet.</l>
+            <l>At length, at unawares he out doth spit</l>
+            <l>That Spite, which else had to himself been Bane;</l>
+            <l>The Venom on the Breast of <hi>Milton</hi> lit,</l>
+            <l>And spread benumbing Death thro' every Vein;</l>
+            <l>The Bard, of Life bereft, fell senseless on the Plain.</l>
+         </lg>
+         <lg n="27">
+            <head>XXVII.</head>
+            <l>As at the Banquet of <hi>Thyestes</hi> old,</l>
+            <l>The Sun is said t'have shut his radiant Eye,</l>
+            <l>So did he now thro' Grief his Beams with-hold,</l>
+            <l>And Darkness to be felt o'erwhelm'd the Sky;</l>
+            <l>Forth issued from their dismal dirk Abodes</l>
+            <l>The Birds attendant upon hideous Night,</l>
+            <l>Shriek-owls and Ravens, whose fell croaking bodes</l>
+            <l>Approaching Death to miserable Wight:</l>
+            <l>Did never Mind of Man behold sike dreadful Sight?</l>
+         </lg>
+         <lg n="28">
+            <pb n="15" facs="24"/>
+            <head>XXVIII.</head>
+            <l>APOLLO wails his Darling, done to die</l>
+            <l>By foul Attempt of ENVY'S fatal Bane;</l>
+            <l>The MUSES sprinkle him with Dew of <hi>Castaly,</hi>
+            </l>
+            <l>And crown his Death with many a living Strain;</l>
+            <l>Hoary PARNASSUS beats his aged Breast,</l>
+            <l>Aged, yet ne'er before did Sorrow know;</l>
+            <l>The Flowers drooping their Despair attest,</l>
+            <l>Th' aggrieved Rivers querulously flow;</l>
+            <l>All Nature sudden groan'd with sympathetick Woe.</l>
+         </lg>
+         <lg n="29">
+            <head>XXIX.</head>
+            <l>But, lo! the Sky a gayer Livery wears,</l>
+            <l>The melting Clouds begin to fade apace,</l>
+            <l>And now the Cloak of Darkness disappears,</l>
+            <l>(May Darkness ever thus to Light give Place!)</l>
+            <l>Erst griev'd APOLLO jocund Looks resumes,</l>
+            <l>The Nine renew their whilom chearful Song,</l>
+            <l>No Grief PARNASSUS' aged Breast consumes,</l>
+            <l>Forth from the teeming Earth new Flowers sprong,</l>
+            <l>The plenteous Rivers flow'd full peacefully along.</l>
+         </lg>
+         <lg n="30">
+            <pb n="16" facs="25"/>
+            <head>XXX.</head>
+            <l>The stricken Bard fresh vital Heat renews,</l>
+            <l>Whose Blood, erst stagnate, rushes thro' his Veins;</l>
+            <l>Life thro' each Pore her Spirit doth infuse,</l>
+            <l>And FAME, by MALICE inexpulsive, reigns:</l>
+            <l>And see, a female Form, all heav'nly bright,</l>
+            <l>Upheld by one of mortal Progeny,</l>
+            <l>A female Form, yclad in snowy White,</l>
+            <l>Ne half so fair at Distance seems as nigh;</l>
+            <l>DOUGLAS and TRUTH appear, ENVY and LAUDER die.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1086 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love's victims: the hermit's story. By the author of The prize, No song no supper, &amp;c:</title>
+            <author>Hoare, Prince, 1755-1834.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023394.000</idno>
+            <idno type="docno">CW3313549804</idno>
+            <idno type="ecll">0612001000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love's victims: the hermit's story. By the author of The prize, No song no supper, &amp;c:</title>
+                  <author>Hoare, Prince, 1755-1834.</author>
+               </titleStmt>
+               <extent>[4],42,[2]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for T. Cadell,</publisher>
+                  <date>1793.</date>
+                  <idno type="TCP">K023394.000</idno>
+                  <idno type="docno">CW3313549804</idno>
+                  <idno type="ecll">0612001000</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Prince Hoare.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT6174.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>LOVE's VICTIMS: THE <hi>HERMIT's STORY.</hi> BY THE AUTHOR OF THE PRIZE, NO SONG NO SUPPER, &amp;<hi>c.</hi>
+            </p>
+            <p>.....EVEN-HANDED JUSTICE RETURNS THE POISON'D CHALICE.....TO OUR OWN LIPS.</p>
+            <p>LONDON: PRINTED FOR T. CADELL, IN THE STRAND.</p>
+            <p>1793. [<hi>Entered at Stationers Hall.</hi>]</p>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <p>TO THE RIGHT HONOURABLE WILLIAM PITT, CHANCELLOR OF THE EXCHEQUER, &amp;<hi>c.</hi> &amp;<hi>c.</hi> &amp;<hi>c.</hi> THIS POEM IS, BY HIS PERMISSION, DEDICATED, BY HIS MOST OBEDIENT, AND MOST HUMBLE SERVANT,</p>
+            <closer>
+               <signed>PRINCE HOARE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <pb facs="3"/>
+         <head>LOVE'S VICTIMS: THE <hi>HERMIT's STORY.</hi>
+         </head>
+         <div n="1" type="part">
+            <head>PART THE FIRST.</head>
+            <div n="1" type="canto">
+               <head>CANTO I.</head>
+               <lg>
+                  <l>"LEAVE, Hermit, leave these wilds forlorn;</l>
+                  <l>Cast off this garb of woe;</l>
+                  <l>With earliest gleam of opening morn</l>
+                  <l>Thy guests prepare to go:</l>
+               </lg>
+               <lg>
+                  <l>With earliest gleam of opening morn,</l>
+                  <l>We'll spread the parting sail,</l>
+                  <l>Far hence o'er rolling surges born,</l>
+                  <l>Our native land to hail.</l>
+               </lg>
+               <lg>
+                  <pb n="2" facs="4"/>
+                  <l>For, though in sore distress we came,</l>
+                  <l>To beg relief from thee,</l>
+                  <l>Yet not unknown to goodly fame,</l>
+                  <l>We plough the dang'rous sea;</l>
+               </lg>
+               <lg>
+                  <l>Beneath yon cliff's impending side,</l>
+                  <l>Within a secret bay,</l>
+                  <l>Our vessel proudly stems the tide,</l>
+                  <l>Our streamers lightly play:</l>
+               </lg>
+               <lg>
+                  <l>Then, Hermit kind, with us return;</l>
+                  <l>For this thy shelt'ring care,</l>
+                  <l>Thy former dwelling let us learn,</l>
+                  <l>We'll place thee safely there.</l>
+               </lg>
+               <lg>
+                  <l>"THIS lonely strand I'll ne'er forsake,</l>
+                  <l>Ne'er cast these weeds away;</l>
+                  <l>My thanks for offer'd service take,</l>
+                  <l>But leave me here to stay!</l>
+               </lg>
+               <lg>
+                  <pb n="3" facs="5"/>
+                  <l>Here, till in death my limbs are cold,</l>
+                  <l>A sacred vow I'll keep,</l>
+                  <l>Full oft, o'er yonder swelling mould,</l>
+                  <l>To pray, to fast, and weep.</l>
+               </lg>
+               <lg>
+                  <l>But, though my vow forbid return,</l>
+                  <l>My native land to hail,</l>
+                  <l>Would you my former dwelling learn,</l>
+                  <l>I'll not refuse the tale:</l>
+               </lg>
+               <lg>
+                  <l>A tale of grief and blushing shame</l>
+                  <l>My lips must then disclose,</l>
+                  <l>Yet so shall mem'ry keep my name,</l>
+                  <l>And pity mourn my woes.</l>
+               </lg>
+               <lg>
+                  <l>A sire of noble birth I own,</l>
+                  <l>On Rosay's fertile plain:</l>
+                  <l>No care his tranquil life had known,</l>
+                  <l>Unvex'd by grief or pain;</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="6"/>
+                  <l>Till Heav'n, alas! my sins ordain'd</l>
+                  <l>To wake his virtuous rage,</l>
+                  <l>And shame, unfelt before, distain'd</l>
+                  <l>The silver'd cheek of age.</l>
+               </lg>
+               <lg>
+                  <l>With him in social union bound</l>
+                  <l>Earl Hubert long had been;</l>
+                  <l>Their youth the palm of friendship crown'd,</l>
+                  <l>And age beheld it green.</l>
+               </lg>
+               <lg>
+                  <l>"Now straight prepare your horsemen all,"</l>
+                  <l>Said the Earl, "to go with me;</l>
+                  <l>"I have a feast in bow'r and hall,</l>
+                  <l>"Where you must shortly be."</l>
+               </lg>
+               <lg>
+                  <l>"Set forth, set forth," my sire replied,</l>
+                  <l>"Set forth without delay;</l>
+                  <l>"However fleetly you shall ride,</l>
+                  <l>"We'll pass you on the way.</l>
+               </lg>
+               <lg>
+                  <pb n="5" facs="7"/>
+                  <l>With me I'll bring my son along,</l>
+                  <l>"To grace your bow'r and hall,</l>
+                  <l>"And if he fail in dance or song,</l>
+                  <l>"On me the blame shall fall."</l>
+               </lg>
+               <lg>
+                  <l>The minstrels play'd; the hall was bright,</l>
+                  <l>The bow'r was fair to see;</l>
+                  <l>And there came many a noble knight,</l>
+                  <l>And maid of high degree.</l>
+               </lg>
+               <lg>
+                  <l>But 'midst those maidens all so fair,</l>
+                  <l>More fair than all was one;</l>
+                  <l>In peerless boast of beauty rare</l>
+                  <l>The gentle Emma shone.</l>
+               </lg>
+               <lg>
+                  <l>Of humble birth, she early mourn'd</l>
+                  <l>A parent's shorten'd date;</l>
+                  <l>But heav'n to joy her grief had turn'd,</l>
+                  <l>And giv'n a kinder fate:</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="8"/>
+                  <l>The partner of Earl Hubert's breast</l>
+                  <l>The helpless babe survey'd,</l>
+                  <l>And pity soft in tears confest,</l>
+                  <l>Bestow'd its bounteous aid.</l>
+               </lg>
+               <lg>
+                  <l>In rip'ning charms the nursling grew,</l>
+                  <l>And youth its lustre shed;</l>
+                  <l>Less fair the rose's blushing hue,</l>
+                  <l>When first its leaves are spread:</l>
+               </lg>
+               <lg>
+                  <l>Her eyes were as the diamond bright,</l>
+                  <l>But shone with temper'd ray,</l>
+                  <l>Like northern meteors, that by night</l>
+                  <l>O'er heav'n's pale azure play.</l>
+               </lg>
+               <lg>
+                  <l>Forgive these tears, that still must flow, <note place="bottom" n="*">Ancor men' duol, purch'io mene rimembri.<bibl>DANTE, INF.</bibl>
+                     </note>
+                  </l>
+                  <l>Whene'er the tale is told;</l>
+                  <l>For learn, the beauteous maid lies low,</l>
+                  <l>Beneath yon swelling mould.</l>
+               </lg>
+            </div>
+            <div n="2" type="canto">
+               <pb n="7" facs="9"/>
+               <head>CANTO II.</head>
+               <lg>
+                  <l>WHEN youth beats high in ev'ry vein,</l>
+                  <l>And passion fires the mind,</l>
+                  <l>What can the wand'ring thought restrain,</l>
+                  <l>The lawless spirit bind?</l>
+               </lg>
+               <lg>
+                  <l>Too strong by reason to be sway'd,</l>
+                  <l>Desire my torment grew,</l>
+                  <l>For fair as Dian was the maid,</l>
+                  <l>But chaste as Dian too.</l>
+               </lg>
+               <lg>
+                  <l>How shall your virtuous ears endure,</l>
+                  <l>My guilty tongue repeat,</l>
+                  <l>What arts I us'd, her love to lure,</l>
+                  <l>And watchful honor cheat!</l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="10"/>
+                  <l>Too well I strove; the maiden lov'd;</l>
+                  <l>Her devious steps I led;</l>
+                  <l>To duty lost, we secret rov'd,</l>
+                  <l>And banish'd virtue fled.</l>
+               </lg>
+               <lg>
+                  <l>Ill-omen'd deed! the hope how vain,</l>
+                  <l>Each social tie foregone,</l>
+                  <l>That constancy should yet remain,</l>
+                  <l>And faith, intent on one!</l>
+               </lg>
+               <lg>
+                  <l>Who first pollutes the tender mind,</l>
+                  <l>And leads from truth astray,</l>
+                  <l>Ne'er let him hope again to find</l>
+                  <l>The gem he casts away.</l>
+               </lg>
+               <lg>
+                  <l>The fatal change, thus subtly wrought,</l>
+                  <l>I justly learnt to rue;</l>
+                  <l>Pleas'd with the freedom I had taught,</l>
+                  <l>To other loves she flew:</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="11"/>
+                  <l>Five lonely months my anxious fears</l>
+                  <l>Her flight in vain explor'd;</l>
+                  <l>And oft my fondly-falling tears</l>
+                  <l>Her fancied death deplor'd.</l>
+               </lg>
+               <lg>
+                  <l>Oh, Vanity, that <hi>Man</hi> beguiles,</l>
+                  <l>Who boasts the stronger mind!</l>
+                  <l>In <hi>Woman</hi>'s charms and native wiles,</l>
+                  <l>Defeat still doom'd to find!</l>
+               </lg>
+               <lg>
+                  <l>If haply here some list'ning guest</l>
+                  <l>Have known like pains to prove,</l>
+                  <l>Let his consenting heart attest</l>
+                  <l>How stoops our sex to Love.</l>
+               </lg>
+               <lg>
+                  <l>Before my gate, in winter's cold,</l>
+                  <l>A trembling mourner stood;</l>
+                  <l>A tale of piteous want she told,</l>
+                  <l>And, plaintive, begg'd for food:</l>
+               </lg>
+               <lg>
+                  <pb n="10" facs="12"/>
+                  <l>Beneath that garb of friendless woe</l>
+                  <l>My Emma stood confest;</l>
+                  <l>I clasp'd, ere words had pow'r to flow,</l>
+                  <l>The wand'rer to my breast:</l>
+               </lg>
+               <lg>
+                  <l>I strove to chide, but faintly blam'd;</l>
+                  <l>Then met her ardent kiss;</l>
+                  <l>Desire again my soul inflam'd,</l>
+                  <l>And hope renew'd my bliss.</l>
+               </lg>
+               <lg>
+                  <l>Fond, pleasing dream! too quickly o'er!</l>
+                  <l>The false one fled again:</l>
+                  <l>Amaz'd I griev'd, but vow'd no more</l>
+                  <l>To prize a heart so vain.</l>
+               </lg>
+               <lg>
+                  <l>Our angry vows Love turns to jest;</l>
+                  <l>While yet her loss I mourn'd,</l>
+                  <l>Again repentance touch'd her breast,</l>
+                  <l>Again the fair return'd:</l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="13"/>
+                  <l>And, while I view'd those fatal charms,</l>
+                  <l>Upon my neck she hung;</l>
+                  <l>To earth I shook her from my arms,</l>
+                  <l>Around my knees she clung.</l>
+               </lg>
+               <lg>
+                  <l>"Forgive the wretch," she suppliant cried,</l>
+                  <l>"The wretch thy flatt'ries made! <note place="bottom" n="*">Verbis capta Puella tuis. Ov.Ep.</note>
+                  </l>
+                  <l>"By Pleasure's voice, Ah, faithless guide!</l>
+                  <l>"Too easily betray'd!"</l>
+               </lg>
+               <lg>
+                  <l>"With thee, who taught'st me first to sin, <note place="bottom" n="†">Mentis prima ruina meae. Ov.Ep.</note>
+                  </l>
+                  <l>"Let me my sins atone!</l>
+                  <l>"This let repentant anguish win,</l>
+                  <l>"To live with thee alone!"</l>
+               </lg>
+               <lg>
+                  <l>Thus o'er a bosom fondly soft</l>
+                  <l>She triumph'd unrestrain'd;</l>
+                  <l>Oft from my arms she fled, and oft</l>
+                  <l>Those shelt'ring arms regain'd.</l>
+               </lg>
+               <lg>
+                  <pb n="12" facs="14"/>
+                  <l>So flitting on the summer's breeze,</l>
+                  <l>Delighted far to roam,</l>
+                  <l>The swallow, born o'er smiling seas,</l>
+                  <l>Awhile forgets her home:</l>
+               </lg>
+               <lg>
+                  <l>But scar'd at sight of wintry gloom,</l>
+                  <l>When chilling blasts arise,</l>
+                  <l>With trembling wing and ruffled plume,</l>
+                  <l>Returns to friendlier skies.</l>
+               </lg>
+               <lg>
+                  <l>At length the destin'd hour was near,</l>
+                  <l>That rose to fix our fate;</l>
+                  <l>For still on folly's wild career</l>
+                  <l>Chastising sorrows wait.</l>
+               </lg>
+               <lg>
+                  <l>Once when, by lengthen'd absence tried,</l>
+                  <l>Love pour'd the weary tear,</l>
+                  <l>And hope her wonted aid denied</l>
+                  <l>My fruitless search to cheer,</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="15"/>
+                  <l>It chanc'd, at morn I bent my way</l>
+                  <l>From Harfleur's lonely tow'rs,</l>
+                  <l>To where its tides in Havre's bay</l>
+                  <l>The western ocean pours.</l>
+               </lg>
+               <lg>
+                  <l>There as I wander'd, lost in thought,</l>
+                  <l>Faint notes of female cry <note place="bottom" n="†">
+                        <gap rend="content:〈 in non-Latin alphabet 〉">
+                           <desc>foreign</desc>
+                        </gap>Hom. Od.</note>
+                  </l>
+                  <l>My ear with frequent wonder caught,</l>
+                  <l>And drew my curious eye.</l>
+               </lg>
+               <lg>
+                  <l>Far off, advancing where I stood,</l>
+                  <l>A convict group I spied;</l>
+                  <l>Behind, the fiends of pow'r pursued,</l>
+                  <l>Each ling'ring step to chide:</l>
+               </lg>
+               <lg>
+                  <l>By force compell'd, the guilty band</l>
+                  <l>Reluctant sought the shore,</l>
+                  <l>Whence doom'd to leave a forfeit land,</l>
+                  <l>And to return no more.</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="16"/>
+                  <l>Pitying, I mark'd their hopeless lot,</l>
+                  <l>And heard their clanking chains;</l>
+                  <l>Their errors in their griefs forgot,</l>
+                  <l>Their vices in their pains;</l>
+               </lg>
+               <lg>
+                  <l>Nor thought, while flow'd the ready tear</l>
+                  <l>For sorrows not my own,</l>
+                  <l>My doom to share those griefs how near,</l>
+                  <l>And mingle groan with groan!</l>
+               </lg>
+               <lg>
+                  <l>As when dire phantoms of the night</l>
+                  <l>Sleep's soft infoldment break,</l>
+                  <l>Up leaps the wretch in wild affright,</l>
+                  <l>And doubts if yet he wake;</l>
+               </lg>
+               <lg>
+                  <l>So rous'd, at once, with startling dread,</l>
+                  <l>Amid the guilty train</l>
+                  <l>I saw my Emma captive led,</l>
+                  <l>And partner of their pain.</l>
+               </lg>
+               <lg>
+                  <pb n="15" facs="17"/>
+                  <l>The distant sight perhaps deceiv'd,</l>
+                  <l>With eager step I flew—</l>
+                  <l>Too soon I came—nor yet believ'd</l>
+                  <l>The horrid vision true. <note place="bottom" n="†">Nec tantum scelus esse putabam. Ov. Ep.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>To heav'n her eyes intent were cast,</l>
+                  <l>And pour'd a chrystal flood;</l>
+                  <l>The flinty pavement, as she pass'd,</l>
+                  <l>Was mark'd with streaks of blood.</l>
+               </lg>
+               <lg>
+                  <l>I stood distracted and appall'd;</l>
+                  <l>Then faintly breath'd her name;</l>
+                  <l>Each wand'ring sense my voice recall'd,</l>
+                  <l>And shook her feeble frame:</l>
+               </lg>
+               <lg>
+                  <l>Her feeble frame no more sustains;</l>
+                  <l>Her eyes flash wildly round;</l>
+                  <l>She shrieks—and, sinking on her chains,</l>
+                  <l>Falls senseless to the ground.</l>
+               </lg>
+            </div>
+            <div n="3" type="canto">
+               <pb n="16" facs="18"/>
+               <head>CANTO III.</head>
+               <lg>
+                  <l>NEED I relate what cares I us'd,</l>
+                  <l>'Till sluggard life return'd,</l>
+                  <l>Or number all my pray'rs refus'd,</l>
+                  <l>Or tell her ransom spurn'd?</l>
+               </lg>
+               <lg>
+                  <l>Whether by daring guilt betray'd,</l>
+                  <l>Or fate severe opprest,</l>
+                  <l>I shunn'd to ask, of truth afraid—</l>
+                  <l>Her anguish fill'd my breast;</l>
+               </lg>
+               <lg>
+                  <l>Doom'd to her cheerful native land</l>
+                  <l>To bid a long adieu,</l>
+                  <l>And on a rude unpitying strand</l>
+                  <l>Declining life pursue:</l>
+               </lg>
+               <lg>
+                  <pb n="17" facs="19"/>
+                  <l>"Unhappy fair, whose fatal pow'r.</l>
+                  <l>"Enslaves my constant thought,</l>
+                  <l>"Behold in this disastrous hour</l>
+                  <l>"The ruin thou hast wrought!</l>
+               </lg>
+               <lg>
+                  <l>"These tears, this anguish is thine own,</l>
+                  <l>"That rends thy Albert's breast;</l>
+                  <l>"But tears with thee are pleasing grown,</l>
+                  <l>"And anguish lulls to rest.</l>
+               </lg>
+               <lg>
+                  <l>"Together on th' appointed plain</l>
+                  <l>"We'll count the painful years,</l>
+                  <l>"Together drag the galling chain,</l>
+                  <l>"And mingle bitter tears."</l>
+               </lg>
+               <lg>
+                  <l>"Forbear, forbear!" the suff'rer cried,</l>
+                  <l>And rais'd her languid head,</l>
+                  <l>"Thy hate, thy vengeance I'll abide—</l>
+                  <l>"Thy constancy I dread.</l>
+               </lg>
+               <lg>
+                  <pb n="18" facs="20"/>
+                  <l>"Let mercy griev'd at length forsake</l>
+                  <l>"A wretch to sorrow born;</l>
+                  <l>"Leave that obdurate heart to break,</l>
+                  <l>"Which <hi>could</hi> deserve thy scorn!"</l>
+               </lg>
+               <lg>
+                  <l>The tender pray'r I heard unmov'd,</l>
+                  <l>Or heard with soften'd heart;</l>
+                  <l>From her, whom still alone I lov'd,</l>
+                  <l>Resolv'd no more to part.</l>
+               </lg>
+               <lg>
+                  <l>The swelling sails forbad delay;</l>
+                  <l>We left our native shore;</l>
+                  <l>O'er the blue waves the streamers play,</l>
+                  <l>And land is seen no more.</l>
+               </lg>
+               <lg>
+                  <l>Ah! shade belov'd! what wond'rous grief</l>
+                  <l>Did then thy bosom know,</l>
+                  <l>While the fraught heart denied relief,</l>
+                  <l>And tears forbore to flow!</l>
+               </lg>
+               <lg>
+                  <pb n="19" facs="21"/>
+                  <l>Pale, drooping o'er the billow's foam,</l>
+                  <l>I see thy form recline;</l>
+                  <l>Thine eyes o'er ocean wildly roam,</l>
+                  <l>Or deeply fix in mine!</l>
+               </lg>
+               <lg>
+                  <l>That speechless woe can language paint,</l>
+                  <l>Or tell the thrilling look,</l>
+                  <l>When sighs at length, and accents faint</l>
+                  <l>The fearful silence broke?</l>
+               </lg>
+               <lg>
+                  <l>"For thee—for thee—much injur'd youth,</l>
+                  <l>"'Midst all my sins abhorr'd</l>
+                  <l>"(So witness for me, heavenly truth!)</l>
+                  <l>"My bosom's only Lord,</l>
+               </lg>
+               <lg>
+                  <l>"For thee alone, these pangs, these sights—</l>
+                  <l>"My chains no longer wound—"</l>
+                  <l>She said, when sobs convulsive rise,</l>
+                  <l>And choke th' imperfect sound.</l>
+               </lg>
+               <lg>
+                  <pb n="20" facs="22"/>
+                  <l>"Well pleas'd in death these eyes should close,</l>
+                  <l>"So thou might'st feel," I cried,</l>
+                  <l>"No greater pain than Albert knows,</l>
+                  <l>"With Emma by his side.</l>
+               </lg>
+               <lg>
+                  <l>"Secure we brave the changing sky,</l>
+                  <l>"By hope forbid to weep;</l>
+                  <l>"Love bears his lighted torch on high,</l>
+                  <l>"And guides us o'er the deep:</l>
+               </lg>
+               <lg>
+                  <l>"And see the destin'd land appear!</l>
+                  <l>That land our faith shall prove;</l>
+                  <l>"Alike shall either hemisphere</l>
+                  <l>"Propitious smile on love."</l>
+               </lg>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb n="21" facs="23"/>
+            <head>PART THE SECOND.</head>
+            <div n="1" type="canto">
+               <head>CANTO I.</head>
+               <lg>
+                  <l>PAST was each gay, each joyous hour;</l>
+                  <l>No more we festive play'd</l>
+                  <l>In Pleasure's brightly-sparkling bow'r,</l>
+                  <l>Or Wealth's luxurious shade!</l>
+               </lg>
+               <lg>
+                  <l>But who on Truth's unerring beam</l>
+                  <l>Shall earthyy blessings weigh,</l>
+                  <l>Will learn how oft the world's esteem</l>
+                  <l>On wealth is thrown away.</l>
+               </lg>
+               <lg>
+                  <l>The source of human bliss, or woe,</l>
+                  <l>Where shall enquiry find?</l>
+                  <l>Alas! the wretched only know—</l>
+                  <l>'Tis lodg'd within the mind.</l>
+               </lg>
+               <lg>
+                  <pb n="22" facs="24"/>
+                  <l>'Midst toils severe, and labor rude,</l>
+                  <l>Far from our native shore,</l>
+                  <l>In long and hopeless servitude</l>
+                  <l>The pains of life we bore.</l>
+               </lg>
+               <lg>
+                  <l>Yet Emma here, by sorrow taught,</l>
+                  <l>Preserv'd love's constant flame;</l>
+                  <l>And Emma's love was all I sought,</l>
+                  <l>"Twas ease, 'twas wealth, 'twas fame!</l>
+               </lg>
+               <lg>
+                  <l>Haply one Master's stern command</l>
+                  <l>Our equal lot receiv'd;</l>
+                  <l>And fond to aid, my stronger hand</l>
+                  <l>Her fainting toil reliev'd.</l>
+               </lg>
+               <lg>
+                  <l>Custom unchang'd contentment gave;</l>
+                  <l>We view'd our dangers past;</l>
+                  <l>And, 'scap'd from Fortune's troubled wave,</l>
+                  <l>Here found repose at last.</l>
+               </lg>
+               <lg>
+                  <pb n="23" facs="25"/>
+                  <l>Our chasten'd thoughts the wish inspire</l>
+                  <l>Religion's bonds to prove,</l>
+                  <l>And turn the wand'rings of desire</l>
+                  <l>To pure, connubial love.</l>
+               </lg>
+               <lg>
+                  <l>What though no white-rob'd priest was near,</l>
+                  <l>Our hands no altar join'd,</l>
+                  <l>Yet angels stoop'd our vows to hear,</l>
+                  <l>And Heav'n the record sign'd.</l>
+               </lg>
+               <lg>
+                  <l>Fain would I pause, and o'er the rest</l>
+                  <l>Of my distressful tale,</l>
+                  <l>Could mem'ry die within my breast,</l>
+                  <l>For ever cast a veil:</l>
+               </lg>
+               <lg>
+                  <l>But conscious duty prompts me here</l>
+                  <l>My sorrows to renew;</l>
+                  <l>My trembling lips, with words of fear,</l>
+                  <l>Their painful task pursue.</l>
+               </lg>
+               <lg>
+                  <pb n="24" facs="26"/>
+                  <l>To him, whose pow'r our toils confest,</l>
+                  <l>On Gallia's fairer shore</l>
+                  <l>One only son, in hour unblest,</l>
+                  <l>A long-lost consort bore.</l>
+               </lg>
+               <lg>
+                  <l>The father watch'd the pleasing care</l>
+                  <l>Through childhood's tender stage,</l>
+                  <l>Of all his treasur'd wealth the heir,</l>
+                  <l>And comfort of his age.</l>
+               </lg>
+               <lg>
+                  <l>Now bold in manhood, fierce and strong,</l>
+                  <l>In wealth and pow'r elate,</l>
+                  <l>Proudly he view'd the subject throng,</l>
+                  <l>And held tyrannic state.</l>
+               </lg>
+               <lg>
+                  <l>By love subdued, his ardent eye</l>
+                  <l>He fix'd on Emma's charms,</l>
+                  <l>And doom'd, in heedless luxury,</l>
+                  <l>The victim to his arms.</l>
+               </lg>
+               <lg>
+                  <pb n="25" facs="27"/>
+                  <l>His subtle arts assail'd her truth;</l>
+                  <l>Those arts my Emma spurn'd;</l>
+                  <l>Stung by her scorn, the haughty youth</l>
+                  <l>In wild resentment burn'd.</l>
+               </lg>
+               <lg>
+                  <l>The guilt his lawless soul desir'd,</l>
+                  <l>Insulting force essay'd:</l>
+                  <l>I saw, with rage indignant fir'd,</l>
+                  <l>And rush'd to Emma's aid.</l>
+               </lg>
+               <lg>
+                  <l>Perish, presumptuous slave! he cried,</l>
+                  <l>And aim'd a deadly wound;</l>
+                  <l>My bosom own'd its injur'd pride—</l>
+                  <l>I fell'd him to the ground.</l>
+               </lg>
+               <lg>
+                  <l>The hunter meets no swifter blow,</l>
+                  <l>Who vent'rous points the chace,</l>
+                  <l>Where lurks the tiger low'ring low,</l>
+                  <l>And guards his infant race.</l>
+               </lg>
+               <lg>
+                  <pb n="26" facs="28"/>
+                  <l>Awhile the spirit's quiv'ring flame</l>
+                  <l>Upon life's confines play'd;</l>
+                  <l>The fled, and veil'd the wretch's shame</l>
+                  <l>In death's eternal shade.</l>
+               </lg>
+               <lg>
+                  <l>Horrid the deed! but greater dread</l>
+                  <l>Our future hours display;</l>
+                  <l>Stern vengeance, hov'ring o'er my head,</l>
+                  <l>Must mark its helpless prey.</l>
+               </lg>
+               <lg>
+                  <l>Alternate ill alone remain'd;</l>
+                  <l>To stay—'twas death; to fly—</l>
+                  <l>From every good that life contain'd!</l>
+                  <l>'Twas with more pain to die.</l>
+               </lg>
+               <lg>
+                  <l>What voice my ling'ring doubts reprov'd,</l>
+                  <l>And bade for flight prepare?</l>
+                  <l>"Thy Emma, ah! too dearly lov'd,</l>
+                  <l>"Thy dang'rous flight shall share:</l>
+               </lg>
+               <lg>
+                  <pb n="27" facs="29"/>
+                  <l>"With thee I'll range the desert wide,</l>
+                  <l>"While life shall strength supply;</l>
+                  <l>"Content to suffer at thy side,</l>
+                  <l>"Blest in thy arms to die."</l>
+               </lg>
+               <lg>
+                  <l>"Cease, Emma, cease! too fondly true!</l>
+                  <l>"Thou tempt'st a certain doom;</l>
+                  <l>Despair must still our flight pursue,</l>
+                  <l>"And Horror's endless gloom.</l>
+               </lg>
+               <lg>
+                  <l>"Where should, alas! our footsteps stray?</l>
+                  <l>"We wander hence in vain;</l>
+                  <l>"Famine, or ruthless beasts of prey</l>
+                  <l>"Await us on the plain."</l>
+               </lg>
+               <lg>
+                  <l>The ardor of that dauntless breast</l>
+                  <l>Nor words, nor pray'rs allay;</l>
+                  <l>With eager look, my hand she prest,</l>
+                  <l>And daring, led the way.</l>
+               </lg>
+            </div>
+            <div n="3" type="canto">
+               <pb n="28" facs="30"/>
+               <head>CANTO II.</head>
+               <lg>
+                  <l>O'ER wilds, unmark'd by human tread, <note place="bottom" n="†">—do nunca pie humano Estampó su pisada.<bibl>GARCILASO.</bibl>
+                     </note>
+                  </l>
+                  <l>We took our vent'rous flight;</l>
+                  <l>Yet was not Hope's last ember dead,</l>
+                  <l>Though pal'd its fainting light.</l>
+               </lg>
+               <lg>
+                  <l>If aught, amid those desert plains,</l>
+                  <l>By Nature's hand bestow'd,</l>
+                  <l>Might temper thirst's unceasing pains,</l>
+                  <l>Or yield sustaining food,</l>
+               </lg>
+               <lg>
+                  <l>Perchance the safe and friendly coast,</l>
+                  <l>Our toiling steps might gain,</l>
+                  <l>Where Britain's sons, with envied boast,</l>
+                  <l>In British freedom reign.</l>
+               </lg>
+               <lg>
+                  <pb n="29" facs="31"/>
+                  <l>Far swell'd the gale with murm'ring sound,</l>
+                  <l>And fill'd our hearts with dread;</l>
+                  <l>We cast a fearful look around,</l>
+                  <l>And, trembling, swifter fled.</l>
+               </lg>
+               <lg>
+                  <l>Now o'er the earth the closing night</l>
+                  <l>Her sable veil had thrown;</l>
+                  <l>Nor yet had our disastrous flight</l>
+                  <l>Or rest or solace known.</l>
+               </lg>
+               <lg>
+                  <l>Sudden, my Emma's bursting tears</l>
+                  <l>In copious torrents fell;</l>
+                  <l>"Sweet Love!" I cried," these gloomy fears</l>
+                  <l>"Let brighter hope dispel!"</l>
+               </lg>
+               <lg>
+                  <l>"No fears," her falt'ring voice replied,</l>
+                  <l>"My constant soul invade;</l>
+                  <l>"Where'er we wander, by thy side</l>
+                  <l>"I wander undismay'd.</l>
+               </lg>
+               <lg>
+                  <pb n="30" facs="32"/>
+                  <l>"Yet, 'midst the shades of night secure,</l>
+                  <l>"Escap'd from ev'ry eye,</l>
+                  <l>"(No more these feeble limbs endure—)</l>
+                  <l>"Ah! cease awhile to fly!"</l>
+               </lg>
+               <lg>
+                  <l>Fainting she spoke; with eager haste</l>
+                  <l>My hands her couch prepare:</l>
+                  <l>But what, amid that dreary waste,</l>
+                  <l>Avail'd a lover's care!</l>
+               </lg>
+               <lg>
+                  <l>Yet on the ground my garments laid,</l>
+                  <l>Her tender form enclose;</l>
+                  <l>"And mine the welcome task," I said,</l>
+                  <l>"To watch o'er thy repose!</l>
+               </lg>
+               <lg>
+                  <l>"Parent of mercy, from thy hand</l>
+                  <l>"The streams of comfort pour!</l>
+                  <l>"Let balmy sleep, at thy command,</l>
+                  <l>"Her wasted strength restore!"</l>
+               </lg>
+               <lg>
+                  <pb n="31" facs="33"/>
+                  <l>Great God, who hear'st the suppliant's cry,</l>
+                  <l>And calm'st the wretch's pain,</l>
+                  <l>Why, in that hour of agony,</l>
+                  <l>Were breath'd my pray'rs in vain!</l>
+               </lg>
+            </div>
+            <div n="3" type="canto">
+               <pb n="32" facs="34"/>
+               <head>CANTO III.</head>
+               <lg>
+                  <l>SOFT as the sleep, which, tir'd at eve,</l>
+                  <l>The harmless infant knows,</l>
+                  <l>So soft, ah, soft but to deceive!</l>
+                  <l>Appear'd my love's repose.</l>
+               </lg>
+               <lg>
+                  <l>With silent joy each breath I heard,</l>
+                  <l>That gently heav'd her breast,</l>
+                  <l>And many a pray'r anew preferr'd,</l>
+                  <l>To bless the wholesome rest:</l>
+               </lg>
+               <lg>
+                  <l>Hope charm'd awhile my troubled thought,</l>
+                  <l>When, starting from the ground,</l>
+                  <l>My neck the trembling Emma caught,</l>
+                  <l>And wildly clasp'd me round;</l>
+               </lg>
+               <lg>
+                  <pb n="33" facs="35"/>
+                  <l>"Hold! hold! they drag him hence away!</l>
+                  <l>"But we'll together die!</l>
+                  <l>"Ah, say, my only safety, say,</l>
+                  <l>"My Albert, art thou nigh?"</l>
+               </lg>
+               <lg>
+                  <l>"Behold thy Albert ever near!</l>
+                  <l>"Whence spring thy fears anew?</l>
+                  <l>"No dang'rous rival threatens here,</l>
+                  <l>"No vengeful foes pursue.</l>
+               </lg>
+               <lg>
+                  <l>"To balmy slumber yield again</l>
+                  <l>"Thy limbs, that fev'rous burn;</l>
+                  <l>"To-morrow's dawn shall banish pain,</l>
+                  <l>"And peace with light return."</l>
+               </lg>
+               <lg>
+                  <l>Now, with tumultuous haste, the blood</l>
+                  <l>Cours'd ardent through her veins,</l>
+                  <l>And scarce the fiercely-frantic mood.</l>
+                  <l>Her Albert's voice restrains.</l>
+               </lg>
+               <lg>
+                  <pb n="34" facs="36"/>
+                  <l>"Oh, scorching fires, that inward rage,</l>
+                  <l>"And ravage life's retreat!</l>
+                  <l>"Oh, parching thirst, thy force asswage!</l>
+                  <l>"Allay thy deadly heat!</l>
+               </lg>
+               <lg>
+                  <l>"Farewell, my Albert! yet in death</l>
+                  <l>"Let not remembrance die!</l>
+                  <l>"Thine is this last, this fleeting breath,</l>
+                  <l>"And thine this parting sigh!"</l>
+               </lg>
+               <lg>
+                  <l>With accents, such as Love inspires,</l>
+                  <l>I strove to calm her woe;</l>
+                  <l>"If aught to cool those raging fires</l>
+                  <l>"Within the desert flow,</l>
+               </lg>
+               <lg>
+                  <l>"My search the precious draught shall find,</l>
+                  <l>"And bring thee quick relief;</l>
+                  <l>"Suspend this anguish of the mind,</l>
+                  <l>"Endure awhile thy grief!"</l>
+               </lg>
+               <lg>
+                  <pb n="35" facs="37"/>
+                  <l>Then forth my doubtful course I took,</l>
+                  <l>Attentive bent to hear,</l>
+                  <l>If, 'mid the gloom, or murm'ring brook</l>
+                  <l>Or bubbling spring were near.</l>
+               </lg>
+               <lg>
+                  <l>While swift I trod, the yielding soil</l>
+                  <l>My passing feet bedew'd;</l>
+                  <l>O'erjoy'd, I bless'd the prosp'rous toil,</l>
+                  <l>That ev'ry hope renew'd:</l>
+               </lg>
+               <lg>
+                  <l>Eager I stoop'd, with anxious care,</l>
+                  <l>Each scanty drop to drain;</l>
+                  <l>Then flew, the gather'd prize to bear,</l>
+                  <l>And sooth my Emma's pain.</l>
+               </lg>
+               <lg>
+                  <l>Perplex'd, I trace with fearful choice</l>
+                  <l>The scarce-remember'd ground;</l>
+                  <l>Aloud I call—my Emma's voice</l>
+                  <l>Returns a grateful sound.</l>
+               </lg>
+               <lg>
+                  <pb n="36" facs="38"/>
+                  <l>As joys the mother o'er her child,</l>
+                  <l>If found, where chance he strays,</l>
+                  <l>While yet her bosom heaving wild</l>
+                  <l>The past alarm betrays;</l>
+               </lg>
+               <lg>
+                  <l>So gladden'd, I that sound pursue;</l>
+                  <l>Again I call more nigh—</l>
+                  <l>Her languid accents scarce renew</l>
+                  <l>The feebly form'd reply!</l>
+               </lg>
+               <lg>
+                  <l>With panting speed more swift I fly,</l>
+                  <l>And trembling o'er her bend;</l>
+                  <l>"My Emma, taste! thou shalt not die;</l>
+                  <l>"Heav'n deigns this aid to send."</l>
+               </lg>
+               <lg>
+                  <l>Her lifted arms my bosom press'd,</l>
+                  <l>And folding, strove to close;</l>
+                  <l>But sunk unconscious from my breast,</l>
+                  <l>And death's chill damps arose.</l>
+               </lg>
+               <lg>
+                  <pb n="37" facs="39"/>
+                  <l>"Emma!" I cried, "most lov'd! most dear!</l>
+                  <l>"Thou all that I adore!"—</l>
+                  <l>No sound responsive met my ear—</l>
+                  <l>The conflict was no more!</l>
+               </lg>
+            </div>
+            <div n="4" type="canto">
+               <pb n="38" facs="40"/>
+               <head>CANTO IV.</head>
+               <lg>
+                  <l>SILENT, in horror and dismay,</l>
+                  <l>Through the drear hours of night,</l>
+                  <l>I watch'd afar the doubtful ray</l>
+                  <l>Of slow-returning light.</l>
+               </lg>
+               <lg>
+                  <l>With pangs more keen my soul to fill,</l>
+                  <l>Arose that cheerless ray;</l>
+                  <l>Appall'd I view'd the mighty ill,</l>
+                  <l>And curs'd the coming day.</l>
+               </lg>
+               <lg>
+                  <l>What more ensued—how robb'd of sense,</l>
+                  <l>How prostrate on the plain,</l>
+                  <l>Or how awak'd—remembrance thence</l>
+                  <l>Attempts to trace in vain.</l>
+               </lg>
+               <lg>
+                  <pb n="39" facs="41"/>
+                  <l>High Heav'n, to mercy still inclin'd,</l>
+                  <l>Beheld my abject plight,</l>
+                  <l>And deign'd upon my darken'd mind</l>
+                  <l>To shed redeeming light.</l>
+               </lg>
+               <lg>
+                  <l>As breathe the plains, and smile anew</l>
+                  <l>Amid serener day,</l>
+                  <l>Where late the furious whirlwind flew,</l>
+                  <l>And scatter'd wild dismay;</l>
+               </lg>
+               <lg>
+                  <l>Such calm my soul perceiv'd, when first</l>
+                  <l>Renew'd by Faith's pure beam,</l>
+                  <l>While ev'ry passion fled, disperst</l>
+                  <l>Before the bright'ning gleam.</l>
+               </lg>
+               <lg>
+                  <l>At once each impious thought repress'd,</l>
+                  <l>That madden'd in despair,</l>
+                  <l>Devotion taught my alter'd breast</l>
+                  <l>The will supreme to bear.</l>
+               </lg>
+               <lg>
+                  <pb n="40" facs="42"/>
+                  <l>With firm resolve, but fainting strength,</l>
+                  <l>The lifeless corse I bore,</l>
+                  <l>Nor void of hope to reach at length</l>
+                  <l>The distant, friendly shore.</l>
+               </lg>
+               <lg>
+                  <l>Not long my toil; this close retreat,</l>
+                  <l>With grateful wonder view'd,</l>
+                  <l>(For holy purpose refuge meet)</l>
+                  <l>Heav'n's pitying guidance shew'd.</l>
+               </lg>
+               <lg>
+                  <l>'Mid'st parching plains of barren sand,</l>
+                  <l>Severely spread around,</l>
+                  <l>This vale by Nature's bounteous hand</l>
+                  <l>With springs and woods is crown'd.</l>
+               </lg>
+               <lg>
+                  <l>Beneath yon plane-tree's branchy shade</l>
+                  <l>The lightest turf I chose,</l>
+                  <l>And there her grave, with anguish made,</l>
+                  <l>My hands were doom'd to close:</l>
+               </lg>
+               <lg>
+                  <pb n="41" facs="43"/>
+                  <l>There, while my tears fast-trickling fell,</l>
+                  <l>To Heav'n I rais'd my pray'r,</l>
+                  <l>And slowly bade a last farewell</l>
+                  <l>To all my earthly care!</l>
+               </lg>
+               <lg>
+                  <l>Now daily, o'er that precious mound,</l>
+                  <l>HIS goodness I implore,</l>
+                  <l>Who knows my suff'ring's latest bound,</l>
+                  <l>And will my peace restore!</l>
+               </lg>
+               <lg>
+                  <l>Mine was the guilt, by passion led,</l>
+                  <l>The virtuous heart to stain,</l>
+                  <l>For which Heav'n loads this weary head</l>
+                  <l>With years of ling'ring pain:</l>
+               </lg>
+               <lg>
+                  <l>But may my penitence atone</l>
+                  <l>For innocence betray'd;</l>
+                  <l>Just vengeance punish me alone,</l>
+                  <l>And spare her injur'd shade!</l>
+               </lg>
+               <lg>
+                  <pb n="42" facs="44"/>
+                  <l>Nine times the sun's revolving ray,</l>
+                  <l>Amid these wilds, I've view'd</l>
+                  <l>Illume with vainly-lavish'd day</l>
+                  <l>The dreary solitude:</l>
+               </lg>
+               <lg>
+                  <l>Meanwhile of man the cheerful face,</l>
+                  <l>Or voice, 'till you appear'd,</l>
+                  <l>My longing eye hath ceas'd to trace,</l>
+                  <l>Mine ear hath never heard!</l>
+               </lg>
+               <lg>
+                  <l>And, 'till in death these limbs are cold,</l>
+                  <l>My sacred vow I'll keep,</l>
+                  <l>Full oft, o'er yonder swelling mould,</l>
+                  <l>To pray, to fast, and weep.</l>
+               </lg>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="note">
+            <pb facs="45"/>
+            <p>The Subject of this Poem is in part taken from a favorite French Novel, of which the principal Circumstances are believed to be founded on Facts.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

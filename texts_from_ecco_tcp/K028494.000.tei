@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the people of Scotland, on the present state of the nation. By James Boswell, Esq:</title>
+            <author>Boswell, James, 1740-1795.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K028494.000</idno>
+            <idno type="docno">CW3304989398</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the people of Scotland, on the present state of the nation. By James Boswell, Esq:</title>
+                  <author>Boswell, James, 1740-1795.</author>
+               </titleStmt>
+               <extent>43,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <publisher>printed and sold by all the booksellers,</publisher>
+                  <date>1783.</date>
+                  <idno type="TCP">K028494.000</idno>
+                  <idno type="docno">CW3304989398</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Adams, 83-14</note>
+                  <note>English Short Title Catalog, ESTCT17200.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>A LETTER TO THE PEOPLE OF SCOTLAND, On the Present State of the Nation.</p>
+            <p>BY JAMES BOSWELL, ESQ.</p>
+            <q>
+               <l>Calm is my soul, nor apt to rise in arms,</l>
+               <l>Except when fast approaching danger warms:</l>
+               <l>But when contending Chiefs blockade the Throne,</l>
+               <l>Contracting regal power to stretch their own;</l>
+               <l>When I behold a factious <gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>and agree</l>
+               <l>To call it freedom when themselves are free;</l>
+               <l>The wealth of climes where savage nations roam,</l>
+               <l>Pillag'd from slaves, to purchase slaves at home;</l>
+               <l>Fear, pity, justice, indignation start,</l>
+               <l>Tear off reserve, and bare my swelling heart;</l>
+               <l>Till half a patriot, half a coward grown,</l>
+               <l>I fly from petty tyrants to the Throne.</l>
+               <bibl>GOLDSMITH.</bibl>
+            </q>
+            <p>EDINBURGH: Printed and Sold by all the BOOKSELLERS. M,DCC,LXXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <pb facs="3"/>
+         <head>A LETTER TO THE PEOPLE OF SCOTLAND.</head>
+         <p>IT hath for a considerable time been the reproach of Scotland, that her in<lb rend="hidden" type="hyphenInWord"/>habitants have been destitute of public spirit, and have felt themselves merely as a number of individuals, to whom no measure of state was of any consequence, unless so far as it affected their private interests. The reign of his present Ma<lb rend="hidden" type="hyphenInWord"/>jesty has been troubled with a series of faction, hurtful to government at home, and ruinous to the British power abroad: But all the while Scotland has remained in cold indifference; and each administration, of whatever principles, has been sure of our acquiescence at
+<pb n="4" facs="4"/>
+least, if not of our support, as a matter of course.</p>
+         <p>The flagrant injustice of the House of Commons, in the case of the Middle<lb rend="hidden" type="hyphenInWord"/>sex election, by which a precedent was established for violating the valuable pri<lb rend="hidden" type="hyphenInWord"/>vilege of all the electors of Great Britain, was no more regarded in Scotland than any ordinary vote in that House. It has since been rescinded, not indeed by the same Parliament, but by almost the same members: So that it may be said with<lb rend="hidden" type="hyphenInWord"/>out offence, that the House of Commons is at no time infallible.</p>
+         <p>The claim of the British Parliament to tax the American colonies, or, in other words, that his Majesty's subjects in Great Britain should command the pro<lb rend="hidden" type="hyphenInWord"/>perty of his Majesty's subjects in Ame<lb rend="hidden" type="hyphenInWord"/>rica, was almost universally approved of in Scotland, where due consideration was had of the advantage of raising regi<lb rend="hidden" type="hyphenInWord"/>ments. I was one of the few who, as far as my voice could go, ventured to oppose it, both as unjust and inexpedient:—Un<lb rend="hidden" type="hyphenInWord"/>just,
+<pb n="5" facs="5"/>
+because I thought the people of A<lb rend="hidden" type="hyphenInWord"/>merica, as participant of the British con<lb rend="hidden" type="hyphenInWord"/>stitution, should no more be taxed with<lb rend="hidden" type="hyphenInWord"/>out the consent of their representatives, than the people of Ireland, or the people of Great Britain:—Inexpedient, because I did not think it possible for this coun<lb rend="hidden" type="hyphenInWord"/>try to prevail, unless one of two propo<lb rend="hidden" type="hyphenInWord"/>sitions, utterly improbable, but industri<lb rend="hidden" type="hyphenInWord"/>ously circulated, were true: The <hi>first,</hi> that a whole people were cowards; the <hi>second,</hi> that a whole people were willing that their all should be at the unconditional mercy of another people. My intimacy with the excellent and much honoured General Oglethorpe, who himself settled one of the American colonies, and still lives with all his faculties and all his be<lb rend="hidden" type="hyphenInWord"/>nevolence in full vigour<note place="bottom" n="*">General Oglethorpe, now the Father of the British army, being the oldest General, but without emolument, settled the Colony of Georgia. Pope thus celebrates him.
+<q>
+                  <l>"Or driven by strong benevolence of soul,</l>
+                  <l>"Will fly like Oglethorpe from pole to pole."</l>
+               </q>
+            </note>, confirmed me
+<pb n="6" facs="6"/>
+in my opinion; and when pleading at the bar of the House of Commons, in a question concerning taxation, I a<lb rend="hidden" type="hyphenInWord"/>vowed that opinion, declaring that the man in the world for whom I have the highest respect<note place="bottom" n="†">Dr Johnson.</note>, had not been able to convince me that <hi>Taxation</hi> was <hi>no Tyran<lb rend="hidden" type="hyphenInWord"/>ny.</hi> My principles being of a Tory cast, that is to say, those of a steady Royalist, it grieved me to the heart, that our most gracious Sovereign should be advised by evil counsellors to assent to severe mea<lb rend="hidden" type="hyphenInWord"/>sures against an immense body of his subjects, who were willing faithfully to submit themselves to the King as su<lb rend="hidden" type="hyphenInWord"/>preme,—to the father of all his people;—but not to his subjects, their brethren, with whom they were entitled to equal privileges.</p>
+         <p>It appeared to me, that <hi>Ministry</hi> car<lb rend="hidden" type="hyphenInWord"/>ried on the war against our colonies, chiefly in the hope that if they should be subdued, a multitude of offices might
+<pb n="7" facs="7"/>
+be created, the disposal of which would absolutely secure a majority in Parlia<lb rend="hidden" type="hyphenInWord"/>ment upon every occasion; and for that reason, had there been no other, every friend to rational freedom must have abhorred the design. The slavery spread over the continent of America, would have reverberated upon Britain. The right of the people to supply or to with<lb rend="hidden" type="hyphenInWord"/>hold money, is the great check upon the executive power; and in <hi>that</hi> consists the chief excellence of our free government.</p>
+         <p>A strong party in the House of Com<lb rend="hidden" type="hyphenInWord"/>mons, opposed that baleful administra<lb rend="hidden" type="hyphenInWord"/>tion which persevered in the Ameri<lb rend="hidden" type="hyphenInWord"/>can war, and opposed it with such vio<lb rend="hidden" type="hyphenInWord"/>lence, as at length to obtain a vote in the House of Commons, <q rend="inline margQuotes">"That the in<lb rend="hidden" type="hyphenInWord"/>fluence of the Crown has increased, is increasing, and ought to be diminish<lb rend="hidden" type="hyphenInWord"/>ed;"</q> the truth of which vote, in this democratical reign, I leave to the consi<lb rend="hidden" type="hyphenInWord"/>deration of every candid man.</p>
+         <p>
+            <pb n="8" facs="8"/>
+I would wish, in all questions of na<lb rend="hidden" type="hyphenInWord"/>tional concern, not to regard men, but measures; and therefore, I shall make no remarks upon that extraordinary fluc<lb rend="hidden" type="hyphenInWord"/>tuation of Ministers whom we have since seen, like the visions of Macbeth:
+<q>
+               <l>"Come like shadows, so depart."</l>
+            </q>
+         </p>
+         <p>But I earnestly entreat the attention of my countrymen, to the alarming attempt which has been recently made, to de<lb rend="hidden" type="hyphenInWord"/>stroy the security of private property, and annihilate the constitutional mo<lb rend="hidden" type="hyphenInWord"/>narchy of these kingdoms, under the pretext of <q rend="inline margQuotes">"better regulating the affairs of the East-India Company."</q>
+         </p>
+         <p>Harsh and abusive expressions can do no good, and are very foreign from the intention of this Letter, which is not to kindle a wild rage, but to rouse a steady spirit. I shall therefore abstain from using those epithets which have, with justice, been applied to the bill for vest<lb rend="hidden" type="hyphenInWord"/>ing the affairs of the East-India Com<lb rend="hidden" type="hyphenInWord"/>pany in certain Commissioners. But I
+<pb n="9" facs="9"/>
+will say, that I look upon this bill as the most dangerous measure to the country that ever yet was hazarded in Parlia<lb rend="hidden" type="hyphenInWord"/>ment.</p>
+         <p>I shall consider it in both the views which I have mentioned, 1<hi>st,</hi> As affect<lb rend="hidden" type="hyphenInWord"/>ing property; and, 2<hi>dly,</hi> As affecting the constitution.</p>
+         <p>And, 1<hi>st,</hi> As to <hi>Property,</hi> the bill pro<lb rend="hidden" type="hyphenInWord"/>vides, <q rend="inline margQuotes">"That the said Commissioners shall immediately enter into, and pos<lb rend="hidden" type="hyphenInWord"/>sess themselves of all lands, tenements, houses, ware-houses, and other build<lb rend="hidden" type="hyphenInWord"/>ings whatever, belonging to the said Company, and all books, records, char<lb rend="hidden" type="hyphenInWord"/>ters, &amp;c. and all ships and vessels, goods, wares, merchandises, money, securities for money, and all other ef<lb rend="hidden" type="hyphenInWord"/>fects whatsoever; and the Directors of the said Company, and all officers and servants thereof, are hereby injoined, immediately upon the requisition of the said Commissioners, to deliver to them, or to such persons as they shall
+<pb n="10" facs="10"/>
+appoint, the several matters aforemen<lb rend="hidden" type="hyphenInWord"/>tioned."</q>
+         </p>
+         <p>Can a more tremenduous exercise of arbitrary power be figured than this?—That a great Company which has subsist<lb rend="hidden" type="hyphenInWord"/>ed for above two centuries, under the sanction of charters from the Crown, should all at once not only be deprived of the territorial power, which it has ac<lb rend="hidden" type="hyphenInWord"/>quired, and which has no doubt been flagitiously abused by some of its ser<lb rend="hidden" type="hyphenInWord"/>vants; but have all its effects, in all parts of the world, abstracted from its own care and management, and delivered up to a set of men not of its own appoint<lb rend="hidden" type="hyphenInWord"/>ment. There is something in this so shocking to the first notions of property and justice, as must make us shudder with consternation. Were such a bill to pass into a law, the expression <q rend="inline margQuotes">"What is a charter but a sheet of parchment with a bit of wax dangling to it,"</q> might be uttered without being stigma<lb rend="hidden" type="hyphenInWord"/>tized as grossly indecent; for there
+<pb n="11" facs="11"/>
+would then be no force in a charter, the essence of which is not <hi>matter</hi> but <hi>spirit.</hi> If an Attorney General were hanged, it might be said with vulgar triumph, <q rend="inline margQuotes">"What is an Attorney General, but a carcase dangling the end of a rope?"</q> But can such expressions be used with propriety, while a charter contains the faith of Majesty, and the person of an Attorney General, is dignified with an important trust from the King?</p>
+         <p>It is well known, that many indivi<lb rend="hidden" type="hyphenInWord"/>duals of different nations have their whole property vested in the funds of the East-India Company, because it hath hi<lb rend="hidden" type="hyphenInWord"/>therto been believed, that in this great and free country, there is no danger of such confiscations or seizures by an un<lb rend="hidden" type="hyphenInWord"/>expected stretch of power, as have some<lb rend="hidden" type="hyphenInWord"/>times happened in other countries in Eu<lb rend="hidden" type="hyphenInWord"/>rope; but had this rapacious grasp been successful, Where would have been our boasted pre-eminence of security? And how wofully must our national credit
+<pb n="12" facs="12"/>
+have sunk? What must the moneyed men of Holland have thought of such <hi>better</hi> regulating of commercial concerns? They must have thought of their own <hi>verbeetering buys,</hi> where criminals are sore<lb rend="hidden" type="hyphenInWord"/>ly punished to make them <hi>better.</hi> The House of Commons must have appeared a House of Correction with a vengeance.</p>
+         <p>The injustice of the measure would have been the same to the proprietors of whatever nation, but must have been pe<lb rend="hidden" type="hyphenInWord"/>culiarly distressing to those of our own country, who for a long period of time have been habituated to the persuasion, that a Royal Charter is so sacred, that no<lb rend="hidden" type="hyphenInWord"/>thing but the strongest reasons, amount<lb rend="hidden" type="hyphenInWord"/>ing almost to the plea of necessity, can be permitted to annual or alter it.</p>
+         <p>We, in this part of the united king<lb rend="hidden" type="hyphenInWord"/>dom, experienced in the late reign an ex<lb rend="hidden" type="hyphenInWord"/>tinction of a number of chartered rights, by the act abolishing heritable jurisdic<lb rend="hidden" type="hyphenInWord"/>tions. A clamour was raised at the time, and there are still some who persist in
+<pb n="13" facs="13"/>
+maintaining that this was an infringe<lb rend="hidden" type="hyphenInWord"/>ment of the Articles of the Union, by which it was stipulated that the jurisdic<lb rend="hidden" type="hyphenInWord"/>tion and courts of Scotland should re<lb rend="hidden" type="hyphenInWord"/>main as before. But upon looking at<lb rend="hidden" type="hyphenInWord"/>tentively at the Articles, it will be found that the heritable jurisdictions were to be reserved only <hi>as rights of property:</hi> Consequently, they, like other rights of property, might at any time be taken from the owners by the Legislature for the greater good of the publick. The hereditary jurisdictions were grants from the Sovereign, delegating parcels of his power; and when they were abolished in the persons of private territorial pro<lb rend="hidden" type="hyphenInWord"/>prietors, they were absorbed in his Ma<lb rend="hidden" type="hyphenInWord"/>jesty, the great fountain from which they originally flowed, and from whence they now issue in a different manner. Whe<lb rend="hidden" type="hyphenInWord"/>ther the act abolishing heritable juris<lb rend="hidden" type="hyphenInWord"/>dictions was a beneficial measure or not, may be fairly questioned; for my own part, I should be better pleased to live
+<pb n="14" facs="14"/>
+under the immediate jurisdiction of an hereditary Lord, of ancient and generous blood, than under that of a lower man, who by occasional interest has been ap<lb rend="hidden" type="hyphenInWord"/>pointed a Sheriff. The former was as much under the controul of higher au<lb rend="hidden" type="hyphenInWord"/>thority as the latter. But I am not go<lb rend="hidden" type="hyphenInWord"/>ing to discuss the question. I mention the measure as an act of State coming nearer <q rend="inline margQuotes">"the business and bosoms"</q> of my countrymen; and that I might recal to their remembrance the deliberation and delicacy with which it was conducted, and the compensation which was made to those who were deprived of their rights. Yet what is the gratification of pride by additional power, when compared with the essential value of property?</p>
+         <p>How different was the conduct of the East-India bill? Was any kind of compen<lb rend="hidden" type="hyphenInWord"/>sation to the Proprietors of that Company ever proposed? Was there any tender<lb rend="hidden" type="hyphenInWord"/>ness shewn to those who had their whole property at stake? No. The tyranny of
+<pb n="15" facs="15"/>
+that audacious bill, (I <hi>must</hi> be allowed this expression) was unfeeling and inflex<lb rend="hidden" type="hyphenInWord"/>ible; thousands were to behold all that they had upon earth wrested from them, and committed to strangers, while no<lb rend="hidden" type="hyphenInWord"/>thing was left to them but amazement and grief. Was this bill sedately and deliberately considered by the House of Commons? Was full time given not on<lb rend="hidden" type="hyphenInWord"/>ly to the Proprietors, but to the nation at large, with humble confidence to state their objections to it? No. It was hur<lb rend="hidden" type="hyphenInWord"/>ried on in a manner which will not soon be forgotten. The rapidity of its course, and its ill-looking appearance, indicated its character; and when it came into the House of Lords, the alarm was,—<hi>Stop thief.</hi>
+         </p>
+         <p>The solemn attention paid to a subject of such magnitude, by that most Ho<lb rend="hidden" type="hyphenInWord"/>nourable House where the state of the East-India Company was proved to re<lb rend="hidden" type="hyphenInWord"/>quire no desperate remedy; and the vote by which the bill was rejected, will ever
+<pb n="16" facs="16"/>
+be remembered with admiration and gra<lb rend="hidden" type="hyphenInWord"/>titude, not only by the great Company which was immediately concerned, but by every Corporation in the kingdom; and indeed by every man who holds any thing valuable by charter. While that portentous bill was suspended over our heads, every man was asking his neigh<lb rend="hidden" type="hyphenInWord"/>bour, <q rend="inline margQuotes">"What will be done next?"</q> Cities, towns, banks, hospitals, were in danger, and insignificance was the only security. The comfort and joy at being relieved from such apprehensions, could not but be great and universal.</p>
+         <p>In the <hi>second</hi> place, as to the <hi>Constitu<lb rend="hidden" type="hyphenInWord"/>tion,</hi> the bill provides, <q rend="inline margQuotes">"That a certain number of persons to be named by this bill, shall be Commissioners for governing and managing the said ter<lb rend="hidden" type="hyphenInWord"/>ritorial possessions and commerce."</q>
+         </p>
+         <p> And, <q rend="inline margQuotes">"That the said Commissioners, or the majority thereof, shall have full power to remove, suspend, appoint or restore
+<pb n="17" facs="17"/>
+all persons whatsoever, from or to any office, civil or military, whether such persons shall have been appointed by acts of Parliament, or howsoever o<lb rend="hidden" type="hyphenInWord"/>therwise appointed, except as herein provided."</q>
+         </p>
+         <p>Here, then, we were to have had the establishment of a dominion civil and military, of vast and various extent, vested in persons independent of his most sacred Majesty, the lawful Sove<lb rend="hidden" type="hyphenInWord"/>reign of the realm. The patronage an<lb rend="hidden" type="hyphenInWord"/>nexed to this dominion would have been immense, and infinitely beyond what is annexed to the crown of Great Britain. The very same Right Honourable Gen<lb rend="hidden" type="hyphenInWord"/>tleman who insisted that the influence of the Crown ought to be diminished, and actually prevailed in having it rigid<lb rend="hidden" type="hyphenInWord"/>ly curtailed, drove on this bill, by which seven men proposed by himself were to have an influence far beyond what the Crown ever had. If both these measures were parts of one preconceived plan; if,
+<pb n="18" facs="18"/>
+while he was diminishing the power of the Crown, he entertained the project of aggrandizing his own power, his abili<lb rend="hidden" type="hyphenInWord"/>ties, great as we must acknowledge them to be, are yet of mightier extent than we have ever imagined. Had the appoint<lb rend="hidden" type="hyphenInWord"/>ment taken place, <q rend="inline margQuotes">"the Crown would have been a bawble which no man of spirit would have chosen to wear,"</q> as was nobly said by a great and intrepid Ma<lb rend="hidden" type="hyphenInWord"/>ster of our constitution, and most power<lb rend="hidden" type="hyphenInWord"/>ful Orator. There would have been in Britain one constitutional King,—and an unconstitutional heptarchy, not of Kings, but of Emperors, and that heptar<lb rend="hidden" type="hyphenInWord"/>chy nominated by the Right Honourable Gentleman. He might then have bid defiance to any other power in the king<lb rend="hidden" type="hyphenInWord"/>dom. He might have had his commis<lb rend="hidden" type="hyphenInWord"/>sion prolonged during all the days of his life, and sat supreme in his circle of the House of Commons possessed of such a sevenfold shield
+<q>
+               <l>
+                  <hi>—vulgi stante corona,</hi>
+               </l>
+            </q>
+         </p>
+         <p>
+            <pb n="19" facs="19"/>
+But this astonishing project has been happily defeated by the House of Lords, the hereditary Counsellors of the King. The speech of the Earl of <hi>Abingdon,</hi> u<lb rend="hidden" type="hyphenInWord"/>pon that memorable occasion, will re<lb rend="hidden" type="hyphenInWord"/>main as a distinguished example of con<lb rend="hidden" type="hyphenInWord"/>stitutional knowledge and legislative spi<lb rend="hidden" type="hyphenInWord"/>rit. Had there been nothing against the bill, but its violation of chartered pro<lb rend="hidden" type="hyphenInWord"/>perty, I should have thought it deserved its fate, and many of the Lords put their negative upon that ground. But when it was equally hostile to the King, and to the people; and while on one hand, it <hi>directly</hi> dashed in pieces the security of chartered property; it, on the other hand, <hi>indirectly,</hi> overwhelmed the Royal prerogative, there were two forcible reasons for throwing it out. The last was the ground taken by the <hi>Bishop of Salisbury,</hi> who with the dignified candour which is to be found in every one of the noble family of <hi>Bar<lb rend="hidden" type="hyphenInWord"/>rington,</hi> offered to give his assent to the
+<pb n="20" facs="20"/>
+bill, if the Ministry would assure him that the King should have the appoint<lb rend="hidden" type="hyphenInWord"/>ment of the Commissioners. But that would have been frustrating the enor<lb rend="hidden" type="hyphenInWord"/>mous scheme of ministerial influence, the principal object of the bill.</p>
+         <p>The ferment which hath since agita<lb rend="hidden" type="hyphenInWord"/>ted the House of Commons, need nei<lb rend="hidden" type="hyphenInWord"/>ther surprise nor alarm us; because there is no wonder that the great majority, who voted for the bill, should be angry at their disappointment. That there should have been such a majority, for such a measure, is seriously distressing. I for<lb rend="hidden" type="hyphenInWord"/>bear to conjecture the cause; sorry I am that to some of the number may be said <hi>et tu Brute!</hi> But it is surely not a strange thing, that the Nobles of the land should set themselves against a bill which would have been so fatal to the power of the Crown. For as <hi>Blackstone</hi> well observes, <q rend="inline margQuotes">"the Nobility are the pillars which are reared from among the people, more immediately to support the Throne,
+<pb n="21" facs="21"/>
+and if that falls, they must also be buried under its ruins<note place="bottom" n="*">Book I. Chap. 2.</note>."</q> The nobility therefore, in this case, had a common cause with the King, Why then should it be supposed? why should it be <hi>ru<lb rend="hidden" type="hyphenInWord"/>moured,</hi> that the influence of his Majesty determined them against a bill which the security of their own Order called upon them to reject?</p>
+         <p>But were it true, that the Sovereign's disapprobation of the bill was conveyed by a respectable Peer to others of his or<lb rend="hidden" type="hyphenInWord"/>der; that Noble Lord who represented his Majesty in Ireland with so generous a splendour, and so much to the satisfac<lb rend="hidden" type="hyphenInWord"/>tion of that kingdom, might justly say, (I love his phrase,) <q rend="inline margQuotes">"I will meet the charge with a high head."</q>
+         </p>
+         <p>He has since proved to us, that he did not mean the artificial high head of ministerial influence, but the lofty port of conscious rectitude. What Mr Har<lb rend="hidden" type="hyphenInWord"/>ley said of Sir John Lowther, in the parliament 1693, may be applied to
+<pb n="22" facs="22"/>
+him, <q rend="inline margQuotes">"I think <hi>Lowther</hi> has told you the true state of the case; the greatness of his estate and mind, makes him too great to be suspected in this matter<note place="bottom" n="*">Grey's Debates, Vol. 10. p. 377.</note>."</q>
+         </p>
+         <p>Can it be seriously maintained as con<lb rend="hidden" type="hyphenInWord"/>stitutional doctrine, that when the King hath recommended to Parliament, in a speech from the Throne, any particular business, and a bill is brought in concern<lb rend="hidden" type="hyphenInWord"/>ing that business, containing clauses to which the King cannot possibly consent, his Majesty shall be restrained from con<lb rend="hidden" type="hyphenInWord"/>sulting with any of his hereditary Coun<lb rend="hidden" type="hyphenInWord"/>sellors, or any person whatever, and from signifying his mind either pri<lb rend="hidden" type="hyphenInWord"/>vately or publicly.</p>
+         <p>It hath been said, that Ministers a<lb rend="hidden" type="hyphenInWord"/>lone are responsible for public measures, and therefore, none but actual Ministers can be allowed to advise the Sovereign: But there is here a falacy which it is not difficult to detect. Public measures in the <hi>executive</hi> part of administration, are those for which Ministers are respon<lb rend="hidden" type="hyphenInWord"/>sible;
+<pb n="23" facs="23"/>
+and therefore, they dare not car<lb rend="hidden" type="hyphenInWord"/>ry into execution what they know to he wrong, or rather what they fear may subject them to punishment; but pu<lb rend="hidden" type="hyphenInWord"/>blic measures in the <hi>deliberative</hi> part of administration, are not within the pro<lb rend="hidden" type="hyphenInWord"/>vince of Ministers, but belong to Par<lb rend="hidden" type="hyphenInWord"/>liament, until they have past both houses, and come to receive the assent or negative of the King; and then, and not till then, does the Ministers respon<lb rend="hidden" type="hyphenInWord"/>sibility in that branch commence.</p>
+         <p>While a bill, then, is pending in Par<lb rend="hidden" type="hyphenInWord"/>liament, the Minister is perfectly secure in whatever way the influence of the Crown may be alledged to be used; for, Parliament is, or may be, altogether <hi>in<lb rend="hidden" type="hyphenInWord"/>dependent</hi> of that influence; and if being <hi>independent,</hi> they are <hi>swayed</hi> by it, it must be the influence of <hi>reason,</hi> and therefore an influence of which it would be un<lb rend="hidden" type="hyphenInWord"/>reasonable to complain.</p>
+         <p>And what is the precedent which has been mentioned for all this jealousy of
+<pb n="24" facs="24"/>
+regal influence? It is a precedent taken from that gloomy period of our history, the reign of Charles I. when faction grew more and more virulent, till it became rank rebellion; and by murdering the King, changed our government into anarchy and usurpation. The case which has been quoted was in 1641, when the suppression of the rebellion in Ireland required speedy and effectual measures to be taken, as the affairs of India do at present; and when attention to the former had been recommended from the Throne, as attention to the lat<lb rend="hidden" type="hyphenInWord"/>ter has now been.</p>
+         <p>The passage of Charles I.'s speech, at which exceptions were taken, was as fol<lb rend="hidden" type="hyphenInWord"/>lows<note place="bottom" n="*">Journals of the House of Lords, 17. <hi>Car.</hi> I. 14th Dec. 1641.</note>:</p>
+         <p>
+            <q rend="inline margQuotes">
+               <p>"And that nothing be omitted on my part, I must here take notice of the bill for pressing of soldiers, now depending among you, my Lords; concerning which, I here declare, That, in case it come so to me as it may not
+<pb n="25" facs="25"/>
+infringe or diminish my prerogative, I will pass it.</p>
+               <p>"And further, seeing there is a dis<lb rend="hidden" type="hyphenInWord"/>pute raised (I being little beholden to him, whosoever, at this time, began it) concerning the bounds of this an<lb rend="hidden" type="hyphenInWord"/>cient and undoubted prerogative, to avoid further debate at this time, I of<lb rend="hidden" type="hyphenInWord"/>fer that the bill may pass, with a <hi>salvo jure</hi> both for King and people, lea<lb rend="hidden" type="hyphenInWord"/>ving such debates to a time that may better bear it: If this be not accepted, the fault is not mine that this bill pass not, but those that refuse so fair an offer. To conclude, I conjure you by all that is or can be dear to you or me, that, laying away all disputes, you go on cheerfully and speedily for the re<lb rend="hidden" type="hyphenInWord"/>ducing of Ireland."</p>
+            </q>
+         </p>
+         <p>The House of Commons hastily decla<lb rend="hidden" type="hyphenInWord"/>red, that the privileges of Parliament had been broken, and desired a conference about them with the Lords<note place="bottom" n="*">Journals of the House of Commons, 17. <hi>Car.</hi> 1. 14th Dec. 1641.</note>.</p>
+         <p>
+            <pb n="26" facs="26"/>
+That conference being held, a decla<lb rend="hidden" type="hyphenInWord"/>ratory protestation was entered in both Houses of Parliament, and a humble re<lb rend="hidden" type="hyphenInWord"/>monstrance and petition by the Lords and Commons was presented to the <q rend="inline margQuotes">"King<note place="bottom" n="*">Journals of the House of Lords, vol. iv. p. 476-7.</note>, declaring it their <hi>ancient</hi> and <hi>undoubted right,</hi> that his Majesty <hi>ought not</hi> to take notice of any matter in agitation of either Houses of Parlia<lb rend="hidden" type="hyphenInWord"/>ment, but by their informations or agreement; and that his Majesty <hi>ought not</hi> to propound <hi>any</hi> condition to <hi>any</hi> bill in either House of Parliament, or declare his approbation or dislike of the same before it be presented to his Majesty in due course of Parliament; and that his Majesty <hi>ought not</hi> to con<lb rend="hidden" type="hyphenInWord"/>ceive displeasure against any man for such opinions and propositions as he shall deliver and debate in Parliament, and declaring, that <hi>all these privileges</hi> had been lately <hi>broken,</hi> to the <hi>great sor<lb rend="hidden" type="hyphenInWord"/>row and grievance</hi> of his <hi>most humble and</hi>
+               <pb n="27" facs="27"/>
+               <hi>faithful subjects,</hi> in the speech which his Majesty made in Parliament, <hi>beseeching</hi> his Majesty to <hi>protect</hi> them in these, and all other their privileges; and that his Majesty would be pleased to make known the name or names of the person or persons by whose misin<lb rend="hidden" type="hyphenInWord"/>formation and evil counsel his Maje<lb rend="hidden" type="hyphenInWord"/>sty was induced to the same, that so he or they may receive such condign punishment as shall appertain to ju<lb rend="hidden" type="hyphenInWord"/>stice in that behalf."</q>
+         </p>
+         <p>Such is the substance of that produc<lb rend="hidden" type="hyphenInWord"/>tion of factious turbulence and effronte<lb rend="hidden" type="hyphenInWord"/>ry, to which a much injured Prince re<lb rend="hidden" type="hyphenInWord"/>turned the following answer:</p>
+         <p>
+            <q rend="inline margQuotes">
+               <p>"My Lords and Gentlemen,</p>
+               <p>"In answer to your petition concern<lb rend="hidden" type="hyphenInWord"/>ing Our speech to the two Houses of Parliament, the 14th December.</p>
+               <p>"<hi>First,</hi> We do declare, that we had no thought or intention of breaking the privileges of Parliament; neither are we satisfied, that our being inform<lb rend="hidden" type="hyphenInWord"/>ed
+<pb n="28" facs="28"/>
+of any bill transmitted by the House of Commons to the House of Peers, (especially where our learned counsel are admitted by the Peers to speak in our behalf, as they were in this case; and therefore our directions necessary therein), can be judged any breach of the privileges of Parliament.</p>
+               <p>"And as for our taking notice there<lb rend="hidden" type="hyphenInWord"/>of, and desiring the inserting of a clause, (of saving all rights), we nei<lb rend="hidden" type="hyphenInWord"/>ther did willingly or knowingly do any thing to the breach of the privi<lb rend="hidden" type="hyphenInWord"/>leges of Parliament; but what we did therein was in the great zeal we had, and ever shall have, to the suppressing the rebels in Ireland, the quick dis<lb rend="hidden" type="hyphenInWord"/>patch of which bill contributed so much to the effecting thereof; and it could not but have received great de<lb rend="hidden" type="hyphenInWord"/>lay, had it passed both Houses in a way whereunto we could not have gi<lb rend="hidden" type="hyphenInWord"/>ven our royal assent.</p>
+               <p>
+                  <pb n="29" facs="29"/>
+"Neither had we any intention to ex<lb rend="hidden" type="hyphenInWord"/>press any displeasure against any par<lb rend="hidden" type="hyphenInWord"/>ticular man, for any opinions or pro<lb rend="hidden" type="hyphenInWord"/>positions delivered by way of debate in either House; for our intention was, to express only a general dislike of any questions that should be raised, especially at this time, concerning our prerogative and the liberty of the sub<lb rend="hidden" type="hyphenInWord"/>ject, such as this is, being but a pre<lb rend="hidden" type="hyphenInWord"/>amble, which might be left out with<lb rend="hidden" type="hyphenInWord"/>out prejudice to the claim, and could not be approved by us without con<lb rend="hidden" type="hyphenInWord"/>cluding our right.</p>
+               <p>"As for the last demand, that we should declare the persons that gave us information, it is no great wonder that we should get information of the con<lb rend="hidden" type="hyphenInWord"/>tents of the bill, since they were pu<lb rend="hidden" type="hyphenInWord"/>blished in print before we spoke of them; yet though we should have got<lb rend="hidden" type="hyphenInWord"/>ten notice otherwise, it is a thing much beneath us, to name any that should give us information or counsel,
+<pb n="30" facs="30"/>
+it being that which we would not im<lb rend="hidden" type="hyphenInWord"/>pose upon any person of honour.</p>
+               <p>"Our conclusion is, That we had not the least thought of breaking the pri<lb rend="hidden" type="hyphenInWord"/>vileges of Parliament, but shall, by our royal authority, ever protect and up<lb rend="hidden" type="hyphenInWord"/>hold them; and we expect that you will be as careful not to trench upon our just prerogative, as we will be not to infringe your just privileges and li<lb rend="hidden" type="hyphenInWord"/>berties; and then there will be little disagreement betwixt us hereafter in this point."<note place="bottom" n="*">Journals of the House of Lords, vol. iv. p. 483.</note>
+               </p>
+            </q>
+         </p>
+         <p>He to whom this does not appear a sufficient answer in every respect, and who can still wish to copy the petition and remonstrance, must have a cast of thinking so different from mine, that it would be in vain for me to argue with him.</p>
+         <p>Charles I. instead of talking to his Parliament in the high and imperious tone of Queen Elizabeth, had, with the best intentions, mildly endeavoured to 
+<pb n="31" facs="31"/>
+co-operate with them, in bringing for<lb rend="hidden" type="hyphenInWord"/>ward a matter of great importance, in a manner consistent with the royal preroga<lb rend="hidden" type="hyphenInWord"/>tive, which it was his Majesty's bounden duty to maintain. And as dispatch was required, his Majesty fairly notified to his Parliament, that they should not waste time in carrying through all the forms, a bill to which he could not assent, and told them with what limitation he could pass it. Was not this a wise and a can<lb rend="hidden" type="hyphenInWord"/>did conduct? And what are we to think of those who made an attack upon it? <hi>Pudet hoec opprobria.</hi>
+         </p>
+         <p>And perhaps the case of the East-India bill may be justly reckoned to fall under the exceptions which Mr <hi>Hatsell,</hi> bred under the patronage of <hi>Onslow,</hi> the Ga<lb rend="hidden" type="hyphenInWord"/>maliel of the House of Commons, and therefore fully instructed in its privi<lb rend="hidden" type="hyphenInWord"/>leges, and abundantly zealous for them, admits in his <hi>Precedents,</hi> under the head, <q rend="inline margQuotes">"KING <hi>is not to take notice of business de<lb rend="hidden" type="hyphenInWord"/>pending.</hi>"</q> His words are: <q rend="inline margQuotes">"There are
+<pb n="32" facs="32"/>
+however, in the proceedings of the House of Commons, exceptions to this rule, necessarily arising out of their own forms and orders, as in those cases where <hi>the King is interested</hi> as a party in any bill depending before the House, either as Patron of a living, Lord of the manor or soil, <hi>or in any o<lb rend="hidden" type="hyphenInWord"/>ther manner.</hi> Here, as <hi>it is the duty of his servants</hi> to <hi>acquaint</hi> him with the <hi>purport</hi> of such bills, and to <hi>take care</hi> that his property or <hi>interest may be se<lb rend="hidden" type="hyphenInWord"/>cured,</hi> or that he may have an adequate compensation for them, it is usual for the Chancellor of the Exchequer, or the Chancellor of the Duchy of Lan<lb rend="hidden" type="hyphenInWord"/>caster, to acquaint the House, either on presenting the petition, or in the course of the bill, that his Majesty ha<lb rend="hidden" type="hyphenInWord"/>ving been informed of the purport of the said bill, gives his consent, as far as his Majesty's interest is concerned, that the House may do therein as they shall think fit. And this is no breach
+<pb n="33" facs="33"/>
+of the privileges of the House of Com<lb rend="hidden" type="hyphenInWord"/>mons, as it is a proceeding <hi>founded on the fundamental rules of natural justice</hi>
+               <note place="bottom" n="*">Hatsell's Precedents of Proceedings in the House of Commons, p. 230-1.</note>."</q>
+         </p>
+         <p>I desire to know, if the King was not deeply interested in the East-India bill, both as it is transferred to certain Com<lb rend="hidden" type="hyphenInWord"/>missioners, great and important chartered rights, which, if forfeited, should have re<lb rend="hidden" type="hyphenInWord"/>verted to the Crown, and been at his Ma<lb rend="hidden" type="hyphenInWord"/>jesty's disposal; and as it created a new and formidable power, civil and military, independent of his Majesty? And sup<lb rend="hidden" type="hyphenInWord"/>posing his Majesty to have, at the time, such servants as were more attached to ministerial influence, than to royal pre<lb rend="hidden" type="hyphenInWord"/>rogative, and did not acquaint his Ma<lb rend="hidden" type="hyphenInWord"/>jesty with the purport and tendency of the bill,—were none of the real friends of the constitution, none of the King's faithful counsellors, to warn him of the danger; and if warned and convinced,
+<pb n="34" facs="34"/>
+was a dead silence to be kept, and no disapprobation to be discovered?</p>
+         <p>If it be urged, that it would have been more constitutional to have left the mat<lb rend="hidden" type="hyphenInWord"/>ter to the royal negative, I, in the first place, deny the proposition; and, in the next place, I maintain, that acting in that manner might have occasioned a more violent roar of faction, if we can suppose the bill to have passed both Houses.</p>
+         <p>A notion has been pretty generally en<lb rend="hidden" type="hyphenInWord"/>tertained, that the royal assent has been refused to no bill since the Revolution. But this is so far from being true, that part of the very Address to his Majesty, which was carried in the House of Commons the other day, is copied from a represen<lb rend="hidden" type="hyphenInWord"/>tation of that House to William III. in 1693, bearing, <q rend="inline margQuotes">"That the usage of Par<lb rend="hidden" type="hyphenInWord"/>liament in all times hath been, that what bills have been agreed to by both Houses, for the redress of grievances, or other public good, have, when tender<lb rend="hidden" type="hyphenInWord"/>ed
+<pb n="35" facs="35"/>
+to the Throne, obtained the royal as<lb rend="hidden" type="hyphenInWord"/>sent; and that there are very few in<lb rend="hidden" type="hyphenInWord"/>stances in former reigns, where such assent in such cases has not been given, and those attended with great inconve<lb rend="hidden" type="hyphenInWord"/>niencies to the Crown of England."</q>
+         </p>
+         <p>And then <hi>reflecting,</hi> 
+            <q rend="inline margQuotes">"that, since your Majesty's accession to the Crown, seve<lb rend="hidden" type="hyphenInWord"/>ral public bills, made by advice of both Houses of Parliament, have not obtained the royal assent; and in parti<lb rend="hidden" type="hyphenInWord"/>cular a bill entitled <hi>An Act touching free and impartial Proceedings in Parliament.</hi>"</q>
+         </p>
+         <p>And in conclusion, <q rend="inline margQuotes">"humbly praying, that, for the future, <hi>you will be gracious<lb rend="hidden" type="hyphenInWord"/>ly pleased to hearken to the advice of your Parliament, and not to the secret advice of particular persons, who may have private interests of their own, separate from the true interest of your Majesty and your people</hi>
+               <note place="bottom" n="*">Journals of the House of Commons, January 29. 1693.</note>."</q>
+         </p>
+         <p>Here then we have an instance of what an outcry may be raised, when a
+<pb n="36" facs="36"/>
+bill has been permitted to make its way through both Houses of Parliament, and then is crushed by the ultimate stroke of the royal negative. Then we see this part of the prerogative, the exercise of which has been of late so warmly invi<lb rend="hidden" type="hyphenInWord"/>ted, receives an indirect challenge, in ex<lb rend="hidden" type="hyphenInWord"/>pressions which might have startled a ti<lb rend="hidden" type="hyphenInWord"/>mid Prince, or a Prince who had expe<lb rend="hidden" type="hyphenInWord"/>rienced the dreadful effects of a storm of faction.</p>
+         <p>What was the answer made to this re<lb rend="hidden" type="hyphenInWord"/>presentation, by a Prince who had been but a few years before elected to the throne? Did King William yield to the House of Commons in any degree? Did he stoop to promise a different conduct in compliance with their wishes? No.—He gave them a general constitutional decla<lb rend="hidden" type="hyphenInWord"/>ration, which any King might make at any time; and did not say one word to the particular subject of the representa<lb rend="hidden" type="hyphenInWord"/>tion.</p>
+         <p>
+            <pb n="37" facs="37"/>
+            <q rend="inline margQuotes">
+               <p>"Gentlemen,</p>
+               <p>"I am very sensible of the good af<lb rend="hidden" type="hyphenInWord"/>fections you have expressed to me up<lb rend="hidden" type="hyphenInWord"/>on many occasions, and of the zeal you have shewn for our common interest. I shall make use of this opportunity to tell you, that no Prince ever had a higher esteem for the constitution of the English government than myself, and that I shall ever have a great re<lb rend="hidden" type="hyphenInWord"/>gard to the advice of Parliaments. I am persuaded, that nothing can so much conduce to the happiness and welfare of this kingdom, as an entire confidence between the King and peo<lb rend="hidden" type="hyphenInWord"/>ple; which I shall by all means en<lb rend="hidden" type="hyphenInWord"/>deavour to preserve: And I assure you, I shall look upon such persons to be my enemies, who shall advise any thing that may lessen it<note place="bottom" n="*">Journals of the House of Commons, January 31. 1693.</note>."</p>
+            </q>
+         </p>
+         <p>That our Monarchy received a shock at the Revolution, cannot be denied. But it was a shock of <hi>political necessity,</hi> the rea<lb rend="hidden" type="hyphenInWord"/>sons
+<pb n="38" facs="38"/>
+of which <hi>Blackstone,</hi> that our minds may be quiet, wisely puts upon <q rend="inline margQuotes">"the so<lb rend="hidden" type="hyphenInWord"/>lid footing of authority."</q>—<q rend="inline margQuotes">"For our ancestors having most indisputably a competent jurisdiction to decide this great and important question, and ha<lb rend="hidden" type="hyphenInWord"/>ving in fact decided it, it is now be<lb rend="hidden" type="hyphenInWord"/>come our duty, at this distance of time, to acquiesce in their determina<lb rend="hidden" type="hyphenInWord"/>tion<note place="bottom" n="*">Book I. chap. 3.</note>.</q> But we see that, after the Re<lb rend="hidden" type="hyphenInWord"/>volution, though the line of succession was changed, the Crown retained its <hi>pre<lb rend="hidden" type="hyphenInWord"/>rogative</hi> as to <hi>Acts of Parliament,</hi> and exer<lb rend="hidden" type="hyphenInWord"/>cised it with a bold resolution.</p>
+         <p>A keen debate on King William's an<lb rend="hidden" type="hyphenInWord"/>swer took place in the House of Com<lb rend="hidden" type="hyphenInWord"/>mons, which had, in effect, questioned his Majesty's <hi>undoubted prerogative</hi> in refusing his assent. It was moved, <q rend="inline margQuotes">"That an humble address be made to the King for a farther answer."</q> But there was prin<lb rend="hidden" type="hyphenInWord"/>ciple and decency enough amongst them
+<pb n="39" facs="39"/>
+to reject it. In truth, to dispute the King's free right of a negative upon any bill, is tantamount to insisting that he is a cy<lb rend="hidden" type="hyphenInWord"/>pher in the constitution. And I admire the strong blunt speech of <hi>Mr Brewer,</hi> 
+            <q rend="inline margQuotes">"All agree, that the King hath a nega<lb rend="hidden" type="hyphenInWord"/>tive voice to bills: No body hath a greater reverence to Parliaments than myself; but the bill rejected was liable to exceptions. I gave my vote to make the Prince of Orange King; but will never give my vote to unking him<note place="bottom" n="†">Grey's Debates, vol. x. p. 376.</note>."</q> Let Mr <hi>Brewer</hi> of 1693 be opposed to Mr <hi>Baker</hi> of 1783, and the constitutional palm <hi>detur digniori.</hi>
+         </p>
+         <p>The purpose of this Letter is to recom<lb rend="hidden" type="hyphenInWord"/>mend to the people of Scotland, in their several counties, boroughs, corporations, and public bodies of every kind, to AD<lb rend="hidden" type="hyphenInWord"/>DRESS his Majesty upon this momentous crisis, to express their sincere satisfaction, that a bill for vesting the affairs of the
+<pb n="40" facs="40"/>
+East-India Company in certain Commis<lb rend="hidden" type="hyphenInWord"/>sioners,—a bill dangerous at once to the rights of the King and people, has been rejected by his Majesty's hereditary coun<lb rend="hidden" type="hyphenInWord"/>sellors, the House of Lords; assuring his Majesty of their firm attachment to his Royal Person and Government, and of their support of such Ministers as his Majesty may be graciously pleased to chuse for the stable administration of public affairs, at a time when stability is of most essential consequence; hum<lb rend="hidden" type="hyphenInWord"/>bly trusting, that his Majesty's paternal care for the interests of his subjects, and due regard to the constitutional preroga<lb rend="hidden" type="hyphenInWord"/>tive of his Crown, will prevent any in<lb rend="hidden" type="hyphenInWord"/>fringement upon either.</p>
+         <p>Addresses, I know, have but too often been prostituted. That is no reason why they should never be presented. I do not mean that either <hi>influence</hi> or <hi>solici<lb rend="hidden" type="hyphenInWord"/>tation</hi> should be used: But if my coun<lb rend="hidden" type="hyphenInWord"/>trymen in general are persuaded of the
+<pb n="41" facs="41"/>
+dangerous tendency of the late East-India bill, an honest expression of their senti<lb rend="hidden" type="hyphenInWord"/>ments upon its defeat, is a tribute due to those who withstood it; and may have weight in preventing a renewal of the attempt. It was urged by its principal abettor, that there had been no petitions against it, except from the city of Lon<lb rend="hidden" type="hyphenInWord"/>don, and the borough of Chipping Wy<lb rend="hidden" type="hyphenInWord"/>combe. Let numerous Addresses prove, that time, and not will, was wanting. And as, in consequence of the scheme for establishing a new and formidable power having proved abortive, there is a conflict of parties with respect to an ad<lb rend="hidden" type="hyphenInWord"/>ministration, let our most gracious Sove<lb rend="hidden" type="hyphenInWord"/>reign, whose exalted worth and benig<lb rend="hidden" type="hyphenInWord"/>nity are far above my panegyric, have the comfort of knowing from his people themselves, how they think and feel: And let Scotland, at the most interest<lb rend="hidden" type="hyphenInWord"/>ing period since the Restoration, assume the importance to which she is entitled.</p>
+         <p>Let us, as much as we possibly can, divest ourselves of private considerations,
+<pb n="42" facs="42"/>
+more especially how particular persons of eminence may be affected one way or other. Whatever may be the abilities, whatever the good intentions of any of them, whatever our expectations from their influence, let us, upon this awful occasion, think only of <hi>property</hi> and the <hi>constitution.</hi>
+         </p>
+         <p>For my own part, I should claim no credit, did I not flatter myself, that I practise what I now presume to recom<lb rend="hidden" type="hyphenInWord"/>mend. I have mentioned former cir<lb rend="hidden" type="hyphenInWord"/>cumstances, perhaps, of too much ego<lb rend="hidden" type="hyphenInWord"/>tism, to show, that I am no time-server; and, at this moment, friends to whom I am attached by affection, gratitude and interest, are zealous for the measure which I deem so alarming. Let me add, that a dismission of the Portland Ad<lb rend="hidden" type="hyphenInWord"/>ministration, will probably disappoint an object which I have most ardent<lb rend="hidden" type="hyphenInWord"/>ly at heart. But, holding an estate, transmitted to me through my ancestors,
+<pb n="43" facs="43"/>
+by charters from a series of Kings, the importance of a Charter, and the prero<lb rend="hidden" type="hyphenInWord"/>gative of a King, impress my mind with seriousness and with duty; and while a<lb rend="hidden" type="hyphenInWord"/>nimated, I hope, as much as any man, with genuine feelings of liberty, I shall ever adhere to our excellent monarchy, that venerable institution under which liberty is best enjoyed.</p>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

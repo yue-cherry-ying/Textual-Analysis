@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Samuel Richardson, of London, printer: with regard to the invasion of his property in The history of Sir Charles Grandison, before publication, by certain booksellers in Dublin.</title>
+            <author>Richardson, Samuel, 1689-1761.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K029857.000</idno>
+            <idno type="docno">CW3304147582</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Samuel Richardson, of London, printer: with regard to the invasion of his property in The history of Sir Charles Grandison, before publication, by certain booksellers in Dublin.</title>
+                  <author>Richardson, Samuel, 1689-1761.</author>
+               </titleStmt>
+               <extent>3, [1] p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London :</pubPlace>
+                  <publisher>printed by Samuel Richardson?,</publisher>
+                  <date>1753]</date>
+                  <idno type="TCP">K029857.000</idno>
+                  <idno type="docno">CW3304147582</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Headed: London, Sept. 14. 1753. The case of Samuel Richardson, of London, printer</note>
+                  <note>With a docket title.</note>
+                  <note>Horizontal chain lines.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Sale, 414A</note>
+                  <note>English Short Title Catalog, ESTCT20118.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#http://authorities.loc.gov/">
+               <term>Copyright -- England</term>
+               <term>Intellectual property -- England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <pb facs="1"/>
+         <opener>
+            <dateline>LONDON, <date>
+                  <hi>Sept.</hi> 
+                  <gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>4. 1753.</date>
+            </dateline>
+         </opener>
+         <head>THE CASE OF <hi>Samuel Richardson,</hi> of <hi>London,</hi> Printer; With regard to the INVASION of his PROPERTY IN The History of Sir Charles Grandison, Before PUBLICATION, By certain BOOKSELLERS in <hi>Dublin.</hi>
+         </head>
+         <p>THE EDITOR of The HISTORY of Sir CHARLES GRANDISON had intended to send the Volumes of it, as he did those of the HISTORY of CLARISSA HARLOWE, to be printed in <hi>Ireland,</hi> before he published them himself in <hi>London.</hi> Accordingly, when he had printed off so considerable a Part of the Work, as would have constantly employed the Press to which he purposed to consign them, he sent over 12 Sheets of the First Volume to Mr. <hi>George Faulkner;</hi> intending to follow it with the rest, as Opportunity offered.</p>
+         <p>He had heard an <hi>Irish</hi> Bookseller boast, some Years ago, That he could procure from any Printing-Office in <hi>London,</hi> Sheets of any Book printing in it, while it was going on, and before Publication; and Mr. <hi>Faulkner</hi> cautioning him on this Subject, with regard to this Work, he took particular Care to prevent, as he hoped, the Effects of such an infamous Corruption, as it must be called; since it could not be done but by bribing the Journeymen or Servants of the <hi>London</hi> Printer. He gave a strict Charge, before he put the Piece to Press, to all his Workmen and Servants, as well in PRINT (that it might the stronger impress them), as by Word of Mouth, to be on their Guard against any out-door Attacks. This was the Substance of the printed Caution which he gave to his Workmen, on this Occasion: <q rend="inline margQuotes">"A Bookseller of <hi>Dublin</hi> has assured me, That he could get the Sheets of any Book from any Printing-house in <hi>London,</hi> before Publication. I hope I may depend upon the Care and Circumspection of my Friends, Compositors and Press<lb rend="hidden" type="hyphenInWord"/>men, that no Sheets of the Piece I am now putting to Press be carried out of the House; nor any Notice taken of its being at Press. It is of great Consequence to me. Let no Stranger be admitted into any of the Work-rooms. Once more, I hope I may rely on the Integrity and Care of all my Workmen—And let all the Proofs, Revises, <hi>&amp;c.</hi> be given to Mr. <hi>Tewley</hi>" [his Foreman], "to take care of."</q>
+         </p>
+         <p>He had no Reason to distrust their Assurances; most of them being Persons of experienced Honesty; and was pleased with their declared Abhorrence of so vile a Treachery, and of all those who should attempt to corrupt them. Yet, to be still more secure, as he thought, he or<lb rend="hidden" type="hyphenInWord"/>dered the Sheets, as they were printed off, to be deposited in a <hi>separate</hi> Warehouse; the Care of which was entrusted to One, on whom he had laid such Obligations, as, if he is guilty, has
+<pb n="2" facs="2"/>
+made his Perfidy a Crime of the blackest Nature<note place="bottom" n="a">
+               <p>
+                  <hi>Peter Bishop,</hi> whose Business was to read Proofs to the Corrector, and to employ his Leisure Hours in the Warehouses; and who (and no other Person) being entrusted with the Sheets of Sir <hi>Charles Grandison,</hi> as wrought off; and to lay-by Three Sheets of each of the Twelves Edition, and One of the Octavo, for Mr. <hi>Richardson</hi>'s sole Use; had an Opportunity which no other Man, however inclined, could have, to perpetrate this Baseness.</p>
+               <p>Mr. <hi>Richardson,</hi> on Suspicions too well-grounded, dismissed <hi>Bishop</hi> from his Service; and, after he was gone, having Reason to suspect <hi>Thomas Killingbeck,</hi> one of his Compositors, as the Confederate of <hi>Bishop,</hi> and by whose means, he having worked some Years in <hi>Ireland,</hi> it was easy for him to manage this Piece of Treachery; and <hi>Killingbeck,</hi> on Examination, giving him Cause to strengthen his Suspicions; yet asserting his Innocence; he proposed to him the said <hi>Killingbeck</hi> to draw up <hi>himself</hi> such an Affidavit as he thought he could safely take, to exculpate himself. <hi>Killingbeck</hi> made poor Excuses and Pretences; but, at last, took till the next Morning to draw it up. The next Morning he told Mr. <hi>Richardson,</hi> that he was advised not to draw up such an Affidavit; and gave such evasive Rea<lb rend="hidden" type="hyphenInWord"/>sons, as induced every body to believe him guilty. Upon this, Mr. <hi>Richardson</hi> discharged him from his Service. He left his House, pretending he would draw up something, as desired; but never since came near it; and is now applying for Work elsewhere.</p>
+               <p>Since writing the above, Mr. <hi>Richardson</hi> has received a Letter from <hi>Bishop,</hi> on Occasion of some Friend of his advising him to an ample Confession; and to depend on that forgiving Temper which he had before experienced; in which he offers Circumstances to prove that <hi>Killingbeck</hi> might find Opportunities to steal the Sheets without his Con<lb rend="hidden" type="hyphenInWord"/>nivance; tho', were <hi>that</hi> the Case, none (after such repeated Warnings and Cautions) to clear himself of the most culpable Negligence.</p>
+            </note>. Having Three Printing-houses, he had them composed, and wrought, by different Workmen, and at his different Houses; and took such other Precautions, that the Person to whose Trust he committed them, being frequently questioned by him as to the Safety of the Work from Pirates, <hi>as</hi> frequently assured him, That it was impossible the Copy of any complete Volume could be come at, were there Persons in his House capable of being corrupted to attempt so vile a Robbery.</p>
+         <p>What then must be his Surprize, when Intelligence was sent him from <hi>Dublin,</hi> That Copies of a considerable Part of his Work had been obtained by Three different Persons in that City; and that the Sheets were actually in the Press? The <hi>honest</hi> Men published their own Names, in Three different Title-Pages stuck up, in <hi>Dublin,</hi> in the following Words:</p>
+         <p>
+            <q rend="inline margQuotes">"<hi>Dublin, Aug.</hi> 4. 1753. <hi>Speedily will be published,</hi> The HISTORY of Sir CHARLES GRANDISON. In a Series of Letters Published from the Originals, By the EDITOR of PAMELA and CLARISSA. In Seven Volumes. <hi>Dublin:</hi> Printed by and for HENRY SAUNDERS, at the Corner of <hi>Christ-Church-Lane.</hi>"</q>
+         </p>
+         <p>The Second:—<q rend="inline margQuotes">"<hi>Aug.</hi> 4th, 1753. In the Press, The HISTORY of Sir CHARLES GRANDISON" (as in the other). "<hi>Dublin:</hi> Printed by JOHN EXSHAW, on <hi>Cork<lb rend="hidden" type="hyphenInWord"/>hill.</hi>"</q> 
+         </p>
+         <p>The Third:—<q rend="inline margQuotes">"<hi>Dublin, Aug.</hi> 4th, 1753. <hi>In the Press, and speedily will be published,</hi> The HISTORY of Sir CHARLES GRANDISON" (as in the Two others). "<hi>London:</hi> Printed for <hi>S. Richardson:</hi>" [Vile Artifice!] "<hi>Dublin:</hi> Reprinted for PETER WILSON, in <hi>Dame-street.</hi>"</q>
+         </p>
+         <p>The Editor had <hi>convincing</hi> Proofs given him, that one of these Men had procured a Copy of a considerable Part of the Work in <hi>Octavo;</hi> another in <hi>Duodecimo;</hi> and that they were proceeding to print it at several Presses.</p>
+         <p>Terms having been agreed upon between Mr. <hi>Faulkner</hi> and the Editor, in Consideration of the Preference to be given him (One of which related to the Time of publishing the <hi>Dublin</hi> Edition, that it might not interfere with the Appearance of the <hi>London</hi> one) Mr. <hi>Faulkner,</hi> in consequence of the successful Corruption, signified to the Editor, that it was needless to send him any more than the 12 Sheets he <hi>had</hi> sent him; and that he had obtained a Fourth Share of these <hi>honourable</hi> Confederates: But that (to procure this Grace, as is supposed) he had been <hi>compelled,</hi> as he calls it, to deliver up to them, to print by, the Copy of the 12 Sheets aforesaid, which had some few Corrections in them, which occurred on a last Revisal; but which are of no Moment with regard to the History: Tho' possibly this <hi>worthy</hi> Confederacy may make use of those few Corrections in those 12 Sheets, in order to recommend their surreptitious Edition as preferable to that of the Proprietor. Of what will not Men be capable, who can corrupt the Servants of another Man to betray and rob their Master?</p>
+         <p>The Editor, who had also great Reason to complain of the Treatment he met with in his <hi>Pamela,</hi> on both Sides the Water, cannot but observe, that never was Work more the Property of any Man, than <hi>this</hi> is his. The Copy never was in any other Hand: He borrows not from any Author: The Paper, the Printing, entirely at his own Expence, to a very large Amount; Returns of which he cannot see in several Months: Yet not troubling any of his Friends to lessen his Risque by a Subscription: The Work, Copies of which have been so <hi>immorally</hi>
+            <pb n="3" facs="3"/>
+obtained, is a <hi>moral</hi> Work: He has never hurt any Man; nor offended these: They would have had Benefits from the Sale, which the Editor could not have, being not a Bookseller; and he always making full and handsome allowances <hi>to</hi> Booksellers.</p>
+         <p>But nothing less, it seems, would content these Men, than an Attempt to possess themselves of his whole Property, without Notice, Leave, Condition, or Offer at Condition; and they are hastening the Work at several Presses, possibly with a View to publish their piratical Edition before the lawful Proprietor can publish his. And who can say, that, if they can get it out before him, they will not advertise, that <hi>his</hi> is a Piracy upon <hi>theirs?</hi>
+         </p>
+         <p>Yet these Men know, that they have obtained the Parts of the Work they are possessed of, at the Price of making an innocent Man unsafe in his own House; and of dishonouring him in the Opinion of his Employers; who, probably, may not choose to trust their Property in the Hands of a Man, who cannot secure his own from intestine Traitors.</p>
+         <p>Since the above was written, Mr. <hi>Richardson</hi> has been acquainted, that his Work is now print<lb rend="hidden" type="hyphenInWord"/>ing at Four several Printing-houses in <hi>Dublin,</hi> for the Benefit of the Confederacy; <hi>viz.</hi> Two Volumes at Mrs. <hi>Reiley</hi>'s; One at Mr. <hi>Williamson</hi>'s; One at Mr. <hi>Powell</hi>'s; One at Mr. <hi>M'Culloch</hi>'s; and that they hope at Mrs. <hi>Reiley</hi>'s to get another Volume to print; and are driving on to finish their Two Volumes for that Purpose.</p>
+         <p>The Work will make Seven Volumes in <hi>Twelves;</hi> Six in <hi>Octavo;</hi> and he apprehends, from the Quantity he himself had printed, when the Fraud was discovered, that the Confederacy have got Possession of Five entire Volumes, the greatest Part of the Sixth, and of several Sheets of the Seventh and last; but the Work being stopt when the Wickedness was known, they can<lb rend="hidden" type="hyphenInWord"/>not have the better Half of the concluding Volume.</p>
+         <p>He is further assured, that these worthy Men are in Treaty with Booksellers in <hi>Scotland,</hi> for their printing his Work, in that Part of the United Kingdom, from Copies that they are to fur<lb rend="hidden" type="hyphenInWord"/>nish; and also, that they purpose to send a Copy to <hi>France,</hi> to be translated there, before Publi<lb rend="hidden" type="hyphenInWord"/>cation: No doubt for pecuniary Considerations; and in order to propagate, to the utmost, the Injury done to One, who never did any to them; and who, till this Proceeding, he blesses God, knew not that there were such Men in the World among those who could look out in broad and open Day.</p>
+         <p>It has been customary for the <hi>Irish</hi> Booksellers to make a Scramble among themselves who should first intitle himself to the Reprinting of a new <hi>English</hi> Book; and happy was he, who could get his Agents in <hi>England</hi> to send him a Copy of a supposed saleable Piece, <hi>as soon as it was printed,</hi> and <hi>ready to be published.</hi> This Kind of Property was never contested with them by Authors <hi>in England;</hi> and it was agreed among <hi>themselves</hi> (<hi>i. e.</hi> among the <hi>Irish</hi> Booksellers and Printers) to be a <hi>sufficient</hi> Title; tho' now-and-then a <hi>Shark</hi> was found, who preyed on <hi>his own Kind;</hi> as the News-papers of <hi>Dublin</hi> have testified. But the <hi>present</hi> Case will shew to what a Height of Base<lb rend="hidden" type="hyphenInWord"/>ness such an undisputed Licence is arrived.</p>
+         <p>After all, if there is no Law to right the Editor and sole Proprietor of this new Work <hi>(New</hi> in every Sense of the Word), he must acquiesce; but with this Hope, that, from so flagrant an Attempt, a Law may one Day be thought necessary, in order to secure to Authors the Benefit of their own Labours: Nor does he wish, that even these Invaders of his Property in <hi>Ireland</hi> may be excluded from the Benefit of it, in the Property of any of the Works to which they are, or shall be, fairly and lawfully intitled. At present, the <hi>English Writers</hi> may be said, from the Attempts and Practices of the <hi>Irish</hi> Booksellers and Printers, to live in an Age of <hi>Liberty,</hi> but not of <hi>Property.</hi>
+         </p>
+         <p>
+            <hi>N. B.</hi> This is not a Contention between Booksellers of <hi>England</hi> and <hi>Ireland,</hi> and on a <hi>doubtful</hi> Property; but between a lawful Proprietor of a <hi>New</hi> and <hi>Moral</hi> Work — AND <gap extent="1 word" rend="content: _____ ">
+               <desc>blank</desc>
+            </gap> Let Messieurs <hi>Wilson, Exshaw,</hi> and <hi>Saunders,</hi> reflecting upon the Steps they have taken, and making the Case <hi>their own</hi> (for they no doubt have Servants)—fill up the Blank.</p>
+      </body>
+      <back>
+         <div type="titlepage">
+            <pb facs="4"/>
+            <p>CASE OF <hi>Samuel Richardson,</hi> of <hi>London,</hi> Printer; With regard to the INVASION of his PROPERTY IN The History of Sir Charles Grandison, Before PUBLICATION.</p>
+            <p>By certain BOOKSELLERS in <hi>Dublin.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

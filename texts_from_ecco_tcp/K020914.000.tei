@@ -1,0 +1,692 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An additional dialogue of the dead, between Pericles and Aristides: being a sequel to the dialogue between Pericles and Cosmo:</title>
+            <author>Brown, John, 1715-1766.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020914.000</idno>
+            <idno type="docno">CW3321887579</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An additional dialogue of the dead, between Pericles and Aristides: being a sequel to the dialogue between Pericles and Cosmo:</title>
+                  <author>Brown, John, 1715-1766.</author>
+               </titleStmt>
+               <extent>48p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for L. Davis and C. Reymers,</publisher>
+                  <date>1760.</date>
+                  <idno type="TCP">K020914.000</idno>
+                  <idno type="docno">CW3321887579</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By John Brown.</note>
+                  <note>The dialogue between Pericles and Cosmo, is by George, Lord Lyttelton.</note>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT1560.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>AN ADDITIONAL DIALOGUE OF THE DEAD.</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>AN ADDITIONAL DIALOGUE OF THE DEAD, BETWEEN PERICLES and ARISTIDES: Being a Sequel to the Dialogue between PERICLES and COSMO.</p>
+            <q>Alteram Partem audi.</q>
+            <p>LONDON, Printed for L. DAVIS and C. REYMERS, opposite <hi>Gray's-Inn-Gate,</hi> in <hi>Holbourn.</hi> MDCCLX.</p>
+         </div>
+         <div type="notice">
+            <pb n="v" facs="3"/>
+            <head>Advertisement.</head>
+            <p>THOUGH the Study of His<lb rend="hidden" type="hyphenInWord"/>tory be instructive and use<lb rend="hidden" type="hyphenInWord"/>ful; yet, in one Respect, it becomes the Source of frequent Error, even when it is written with Impartiality and Truth. This ariseth from a <hi>mis<lb rend="hidden" type="hyphenInWord"/>taken Application</hi> of <hi>historical Facts.</hi> This Error is apt to creep into all Reasonings, on every Subject, where <hi>Men</hi> and <hi>Manners</hi> are concerned; but it is peculiarly apt to infect <hi>political</hi> Reasonings, above all others. As the political Interests of Men make
+<pb n="vi" facs="4"/>
+the principal Subject of History, so the political Reasoner hath Recourse to History, as the best Support of his Argument. But, though the Politi<lb rend="hidden" type="hyphenInWord"/>cian is, of all others, the readiest to appeal to History, yet he seems, of all others, most liable to be mistaken in his Application of it to his own Purpose; because the political Con<lb rend="hidden" type="hyphenInWord"/>nexions and Interests of Men are, above all others, <hi>complicated</hi> and <hi>va<lb rend="hidden" type="hyphenInWord"/>rious.</hi> Hence, as no two political Constitutions were ever <hi>the same</hi> in <hi>all</hi> their Circumstances, though <hi>simi<lb rend="hidden" type="hyphenInWord"/>lar</hi> in <hi>many</hi>; so, all Arguments drawn from a <hi>partial Resemblance</hi> must be <hi>inadequate</hi> and <hi>inconclusive</hi>; unless when it appears, that no other Cir<lb rend="hidden" type="hyphenInWord"/>cumstances took Place, by which that <hi>partial Resemblance</hi> might be <hi>counteracted,</hi> and it's Effects <hi>destroy<lb rend="hidden" type="hyphenInWord"/>ed.</hi>
+               <pb n="vii" facs="5"/>
+Yet it hath been a Practice too common among political Reasoners, from a <hi>partial</hi> Resemblance between two States, to infer a <hi>total</hi> one; and, because they have been <hi>like</hi> in <hi>some</hi> Respects, to draw Conclusions, as if they had been <hi>like</hi> in <hi>all.</hi> Here, then, appears a Source of perpetual Error.</p>
+            <p>Among all the political Questions that can be debated in a free Coun<lb rend="hidden" type="hyphenInWord"/>try, there is none of greater Import<lb rend="hidden" type="hyphenInWord"/>ance, than that which regards the <hi>Character</hi> and <hi>Influence</hi> of the <hi>Body of a People.</hi> Nothing hath been more usual among political Reasoners, than to represent the <hi>Body</hi> of <hi>every People,</hi> as the ready <hi>Tools</hi> of <hi>Demagogues</hi> and <hi>Faction:</hi> And since the endless Factions of the <hi>Athenian Republic</hi> have been so often alledged, as unanswerable Proofs
+<pb n="viii" facs="6"/>
+of this; the intelligent Reader will ea<lb rend="hidden" type="hyphenInWord"/>sily discern, that the Tendency of the following Dialogue is, to fix this Ar<lb rend="hidden" type="hyphenInWord"/>gument to it's <hi>proper Limits,</hi> and prevent a too <hi>general Application</hi> of a <hi>particular Fact.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <pb n="9" facs="7"/>
+         <head>AN ADDITIONAL DIALOGUE OF THE DEAD.</head>
+         <stage>PERICLES and ARISTIDES:</stage>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>I AM glad to have found you, PERICLES: Since your Conversation with COSMO, (which, you know, I overheard) I have been revolving the Subject of it in my Mind; and begin to think, you left the Matter short.</p>
+         </sp>
+         <sp>
+            <pb n="10" facs="8"/>
+            <speaker>PERICLES.</speaker>
+            <p>Your Sentiments on this Subject will give me Pleasure. Tell me, ARISTIDES; in what Respect do you esteem the con<lb rend="hidden" type="hyphenInWord"/>clusion of our Argument to have been de<lb rend="hidden" type="hyphenInWord"/>fective?</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>With Regard to yourself, I think your Conclusions were just: I grant you, <q>that by weakening the Power of the Court of the AREOPAGUS, you tore up that An<lb rend="hidden" type="hyphenInWord"/>chor, which SOLON had fixed, to keep his Republic stedfast and firm, against the Storms of popular Faction.</q> On this Account, I farther must allow, that <q>not<lb rend="hidden" type="hyphenInWord"/>withstanding the Integrity which you preserved in your public Conduct, and the great Virtues which you exerted, your Place in <hi>Elysium</hi> is justly below that of those, who have governed Repub<lb rend="hidden" type="hyphenInWord"/>lics, or <hi>limited Monarchies,</hi> not merely with a Concern for their present Advan<lb rend="hidden" type="hyphenInWord"/>tage; but with a prudent Regard to that <hi>Balance</hi> of <hi>Power,</hi> on which their <hi>per<lb rend="hidden" type="hyphenInWord"/>manent Happiness</hi> always depends.</q>
+            </p>
+         </sp>
+         <sp>
+            <pb n="11" facs="9"/>
+            <speaker>PERICLES.</speaker>
+            <p>If you allow me this, it is all I contend for. What could remain farther to be ad<lb rend="hidden" type="hyphenInWord"/>justed in the Debate?</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>I am of Opinion, that the Question was decided in too general a Manner: And that for Want of a little more Particularity of Argument and Proof, Conclusions might be <hi>plausibly</hi> drawn, which would be very distant from the Truth.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Pray, explain yourself a little farther, ARISTIDES; for as yet I do not clearly comprehend you.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>What I mean is this: That Free States, or <hi>limited Monarchies,</hi> though they may greatly resemble each other in their <hi>external Construction,</hi> may yet be so very unlike in their <hi>internal Condition,</hi> that no just Con<lb rend="hidden" type="hyphenInWord"/>clusions
+<pb n="12" facs="10"/>
+could be drawn concerning their Prosperity and Welfare, merely from their <hi>external Resemblance.</hi> Thus we will sup<lb rend="hidden" type="hyphenInWord"/>pose two States to be equally <hi>free,</hi> in their legal Constitution: But let us farther sup<lb rend="hidden" type="hyphenInWord"/>pose, that the <hi>Manners</hi> or <hi>Principles,</hi> which prevail in these two States are widely differ<lb rend="hidden" type="hyphenInWord"/>ent; and, in that Case, I apprehend, that if you regard only the legal <hi>Form</hi> of the Constitution, without weighing the <hi>Man<lb rend="hidden" type="hyphenInWord"/>ners</hi> and <hi>Principles</hi> of the Members of the State, you will be in great Danger of im<lb rend="hidden" type="hyphenInWord"/>posing <hi>false Conclusions</hi> on yourself and others.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I did not force any of these Conclusions upon you. They are of your own making.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>It is true, you did not force them upon me: Yet they are not of my own making. For some of the <hi>Shades,</hi> who overheard your Conversation, have since told me, that the general Turn of your Discourse <hi>oblique<lb rend="hidden" type="hyphenInWord"/>ly led</hi> to these Conclusions; and therefore
+<pb n="13" facs="11"/>
+thought that it would become ARISTIDES to discuss this Point with a little more Precision.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I am ready to hear any thing you have to say on this interesting Subject.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>You will give me leave then, to examine some things that passed in your Discourse with COSMO.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Pray be as free with them as you please. I rely on the Candor as well as Justice of ARISTIDES.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>I will endeavour to deserve your favour<lb rend="hidden" type="hyphenInWord"/>able Opinion. You may remember, you said <q>That by weakening the Power of the Court of AREOPAGUS, you tore up that Anchor, which SOLON had fixed, to keep his Republic stedfast and firm, against the
+<pb n="14" facs="12"/>
+Storms of popular Factions.</q> This, I think, was the first Foundation of your Ar<lb rend="hidden" type="hyphenInWord"/>gument.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>It was.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Is it a safe Practice, PERICLES, to build an Argument on a Metaphor?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I should think it is; provided the Meta<lb rend="hidden" type="hyphenInWord"/>phor contain a just Image of the Fact in Question.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>That I allow: but still the Question re<lb rend="hidden" type="hyphenInWord"/>mains, whether the Metaphor contain that just Image or not. So that we are not yet advanced a Step towards the Discovery of Truth.</p>
+         </sp>
+         <sp>
+            <pb n="15" facs="13"/>
+            <speaker>PERICLES.</speaker>
+            <p>At least it is an Illustration.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Then, I think it had better have come after the Discovery. I believe I can give you another Metaphor which shall lead di<lb rend="hidden" type="hyphenInWord"/>rectly to the contrary Conclusion. 'Tis a wise Practice, you say, to keep fixed the <hi>Anchor.</hi> In general, I grant you, it is so. Yet you know, that in Times of Tempest and Distress, the most experienced Admiral, when anchored near a rocky Shore, is forced to <hi>slip his Cables,</hi> and commit his Fleet to the <hi>wide Sea,</hi> till he can <hi>anchor</hi> on a <hi>safer Bottom.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>That is a dangerous Practice.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>True: and therefore never to be tryed, except in a Time of extreme Danger.</p>
+         </sp>
+         <sp>
+            <pb n="16" facs="14"/>
+            <speaker>PERICLES.</speaker>
+            <p>Well: I will grant you that a Metaphor proves nothing.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>That is the only Purpose for which I in<lb rend="hidden" type="hyphenInWord"/>tended mine. We will proceed, therefore, with our Argument. And the sum of what I have to say, will only tend to the Proof of this single Point; <q>That a <hi>free State,</hi> or <hi>limited Monarchy,</hi> resembling that of <hi>Athens</hi> in it's external Form, may yet be so differently circumstanced in it's <hi>internal Condition,</hi> that a Conduct in many Respects similar to Yours, shall be the only means of <hi>saving</hi> that State from Ruin, though Your well meant Conduct led the State of <hi>Athens</hi> to it's <hi>Destruction.</hi>
+               </q>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>It seems to me, ARISTIDES, that you undertake a Task of no small Difficulty. Proceed: I am all Attention.</p>
+         </sp>
+         <sp>
+            <pb n="17" facs="15"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>Pray tell me, PERICLES: Was the Court of the AREOPAGUS <hi>wise, courageous, uncorrupt,</hi> and bent upon the public Service in Opposi<lb rend="hidden" type="hyphenInWord"/>tion to all self-interested Views, when You set about to lessen it's Authority?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>To my Confusion, I must confess it was. For in Fact; <q>The annual <hi>Magistrates,</hi> the <hi>Guardians</hi> of the <hi>Laws,</hi> the <hi>Governors</hi> of the sacred <hi>Rites,</hi> and <hi>Chieftains</hi> in <hi>War,</hi> were all <hi>chosen</hi> by <hi>Lot:</hi> and they who had acquitted themselves <hi>well</hi> in the Discharge of these <hi>Trusts,</hi> were advanced, and taken into the Court of the AREOPAGUS <note place="bottom" n="*">Plutarch, in his Life of Pericles.</note>.</q>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>You are right in your Idea of this <hi>wise</hi> and <hi>disinterested</hi> Court. Tell me farther now. Was the Body of the Athenian Peo<lb rend="hidden" type="hyphenInWord"/>ple <hi>sensible, honest,</hi> and <hi>united,</hi> when you threw yourself into their Arms, and increas<lb rend="hidden" type="hyphenInWord"/>ed their Power?</p>
+         </sp>
+         <sp>
+            <pb n="18" facs="16"/>
+            <speaker>PERICLES.</speaker>
+            <p>I cannot say much, either for their <hi>Good Sense,</hi> their <hi>Uprightness,</hi> or their <hi>Union</hi>; on the Contrary, I fear they were <hi>ignorant, self-interested</hi> and <hi>disunited.</hi> Nay, I must farther confess, that I myself was the Cause and Promoter of their Vices and Factious Temper. For I not only gain<lb rend="hidden" type="hyphenInWord"/>ed and ruled them by my <hi>Eloquence,</hi> as I confessed in my Conversation with COSMO; but <q>by giving them the Plunder and Possession of the Lands taken from the Enemy, and by squandering the public Monies (formerly reserved for the Uses of War) in Shows and Plays for their Entertainment, and by giving them <hi>Largesses</hi> or <hi>Pensions,</hi> I brought them from a sober, modest, and thrifty People, who main<lb rend="hidden" type="hyphenInWord"/>tained themselves by their own Labours, to become riotous and debauched through these mistaken Methods of Policy: Thus it was that I turned them against the Court of the AREOPAGUS <note place="bottom" n="†">Plutarch, in his Life of Pericles.</note>.</q>
+            </p>
+         </sp>
+         <sp>
+            <pb n="19" facs="17"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>It gives me Pleasure to find you so much more full and explicit in this Affair, than you were in your Discourse with COSMO. — So then, you took Power from a Body of Men, <hi>wise, disinterested,</hi> and <hi>uncorrupt,</hi> to put it into the hands of Men <hi>ignorant, self-interested,</hi> and <hi>factious.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Too true: I did: <q>Because I knew that my Eloquence would (with these other Methods, still <hi>more powerful</hi>) sub<lb rend="hidden" type="hyphenInWord"/>ject the People to me, and make them the Instruments of all my Desires: where<lb rend="hidden" type="hyphenInWord"/>as the AREOPAGUS had an Authority and a Dignity in it which I could not con<lb rend="hidden" type="hyphenInWord"/>troul.</q>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>So you said in your Discourse with COSMO. Let us now reverse these Facts, and sup<lb rend="hidden" type="hyphenInWord"/>pose the Court of the AREOPAGUS had desert<lb rend="hidden" type="hyphenInWord"/>ed the Principles of their first Institution: That either <hi>Luxury,</hi> the Love of <hi>Gain,</hi> or a
+<pb n="20" facs="18"/>
+Spirit of false <hi>Ambition,</hi> had crept in among them; and rendered them either <hi>incapable,</hi> and <hi>corrupt:</hi> And farther let us sup<lb rend="hidden" type="hyphenInWord"/>pose, that the Body of the People had been <hi>sensible, honest,</hi> and <hi>united:</hi> What had been the Consequence?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>The Case indeed had been altogether <hi>different.</hi> I would give all the Wreaths I ever was honoured with, to have built my Conduct on so noble a Foundation.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>I commend your Wisdom, though it comes too late. The Case indeed had been not only altogether <hi>different,</hi> but altogether <hi>contrary.</hi> Instead of <hi>destroying</hi> the Com<lb rend="hidden" type="hyphenInWord"/>monwealth, you had <hi>restored</hi> the tottering Fabrick. You had then taken Power from <hi>Folly</hi> and <hi>Corruption,</hi> to bestow it on <hi>Sense</hi> and <hi>Integrity.</hi> And, depend upon it, in whatever Body of Men <hi>Sense</hi> and <hi>Integrity</hi> are found, <hi>these are the Anchors of the State.</hi>
+            </p>
+         </sp>
+         <sp>
+            <pb n="21" facs="19"/>
+            <speaker>PERICLES.</speaker>
+            <p>Your Maxim looks plausible: Yet still I cannot but regard it as a dangerous Prac<lb rend="hidden" type="hyphenInWord"/>tice, to make a <hi>Breach</hi> in the established Constitution of a free State.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>So do I. And I think your Principle is so far from <hi>overturning,</hi> that it <hi>confirms,</hi> my Argument.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>That appears to me a strange Paradox.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Tell me, PERICLES: Is not a <hi>Breach</hi> made in the political Constitution of a free State, when it's wholesome Laws and Insti<lb rend="hidden" type="hyphenInWord"/>tutions have lost their <hi>Power</hi> and <hi>Efficacy?</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Certainly.</p>
+         </sp>
+         <sp>
+            <pb n="22" facs="20"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>And can they so entirely lose their Power and Efficacy, in any other Way, as by the <hi>Incapacity</hi> and <hi>Corruption</hi> of those who <hi>govern?</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I allow, they cannot.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Then you see, that upon Supposition that the Court of the AREOPAGUS had lost their <hi>Ability</hi> or <hi>public Virtue,</hi> 'tis they who first deprive the Laws of their <hi>Power</hi> and <hi>Efficacy,</hi> and consequently, 'tis they who make the <hi>Breach</hi> in the established Consti<lb rend="hidden" type="hyphenInWord"/>tution.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>This seems to be true: But still, why should the People follow their Example, and, by insisting on <hi>extraordinary Powers</hi> and <hi>Privileges,</hi> make a <hi>second Breach</hi> in the Constitution?</p>
+         </sp>
+         <sp>
+            <pb n="23" facs="21"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>O PERICLES, you view the Question with a partial Eye: What you call a <hi>second Breach</hi> in the Constitution is indeed no more than the natural Effort of the <hi>sound Parts</hi> of the Body politic, to <hi>throw off</hi> the <hi>morbific Matter</hi> by which it is oppressed. Thus in the natural Body, all Diseases come to their Crisis, and a Cure is effected by the Vigour and Activity of the uninfected Parts. Where<lb rend="hidden" type="hyphenInWord"/>ever then the Disease lies, either in the Body politic, or the Body natural, the sound Parts must check and throw off that which is infected, or Death ensues. — Thus, you see, supposing the <hi>People</hi> to be <hi>sensible</hi> and <hi>honest,</hi> and the Court of AREOPAGUS <hi>cor<lb rend="hidden" type="hyphenInWord"/>rupted</hi> or <hi>incapable,</hi> the only Means of sav<lb rend="hidden" type="hyphenInWord"/>ing the State is the Power which the Peo<lb rend="hidden" type="hyphenInWord"/>ple have to <hi>check</hi> and <hi>reform</hi> the Court of the AREOPAGUS.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>But is not this <hi>unhinging</hi> the Constitu<lb rend="hidden" type="hyphenInWord"/>tion?</p>
+         </sp>
+         <sp>
+            <pb n="24" facs="22"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>So far from it, that it is the only Way of <hi>fixing</hi> it; by bringing it back to it's first Principles. — How did this famed Consti<lb rend="hidden" type="hyphenInWord"/>tution first arise? Was it not by the united Consent of the several Ranks of the Com<lb rend="hidden" type="hyphenInWord"/>munity, each of which had their several Privileges and Powers appropriated, on Con<lb rend="hidden" type="hyphenInWord"/>dition of applying them to the public Good? The Court of the AREOPAGUS violates it's Engagements: The Voice of an honest and abused People rouzes them from their fatal Dream: What is the natural Consequence? Why, surely, the Reformation of the Court of the AREOPAGUS. An <hi>honest</hi> and <hi>sensible</hi> People never desires more than <hi>Redress</hi> of Grievances; and, when that is obtained, return <hi>chearfully</hi> to <hi>Subordination,</hi> and <hi>adore</hi> their <hi>Rulers.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>This is at best an <hi>unstable</hi> and <hi>fluctuating</hi> State of Things.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Every political State must be, in some Degree, <hi>fluctuating</hi> and <hi>unstable,</hi> unless you
+<pb n="25" facs="23"/>
+load it with the Chains of <hi>Despotism.</hi> But I maintain, that the <hi>best Security,</hi> nay the <hi>only</hi> one to a <hi>Free</hi> Government, lies in the upright <hi>Manners</hi> and <hi>Principles</hi> of it's con<lb rend="hidden" type="hyphenInWord"/>stituent Members; and that, whenever there is any Deviation from these, the only Possi<lb rend="hidden" type="hyphenInWord"/>bility of a Restoration lies in the <hi>Prevalence</hi> of the <hi>sound</hi> and <hi>virtuous</hi> Part over that which is <hi>corrupted,</hi> in <hi>whatever Part</hi> of the <hi>Community</hi> the <hi>Infection</hi> may lie; whether it be the Court of the AREOPAGUS, or the Body of the <hi>People.</hi> For, as it was truly observed in your Discourse with COSMO, <q>
+                  <hi>Force</hi> or <hi>Caprice</hi> may give <hi>(immediate</hi> and <hi>temporary)</hi> Power; but nothing can give a <hi>lusting Authority,</hi> except <hi>Wisdom</hi> and <hi>Virtue</hi> 
+                  <note place="bottom" n="*">Dialogues of the Dead, p. 242.</note>
+               </q>.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>But is not this a dangerous Principle to instill into the Body of the People, that they have a Right to controul the Errors of the Court of AREOPAGUS? Does it not lead to Sedition and Anarchy? And was not this the Consequence of my mistaken Con<lb rend="hidden" type="hyphenInWord"/>duct?</p>
+         </sp>
+         <sp>
+            <pb n="26" facs="24"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>You are now puzzling the Question again by making it <hi>general.</hi> I reply then, that in your particular Case, the Practice was <hi>dan<lb rend="hidden" type="hyphenInWord"/>gerous</hi> and <hi>fatal</hi>; because the Court of the AREOPAGUS was <hi>capable</hi> and <hi>honest,</hi> the People of <hi>Athens</hi> were <hi>incapable, self-inter<lb rend="hidden" type="hyphenInWord"/>ested,</hi> and <hi>factious.</hi> You therefore <hi>tore</hi> up the <hi>Anchor</hi> of the State. But suppose the Court of the AREOPAGUS to have been <hi>in<lb rend="hidden" type="hyphenInWord"/>capable,</hi> and <hi>venal,</hi> and you have seen that the <hi>Security</hi> of the Republic was already lost: You have seen (to use your own Me<lb rend="hidden" type="hyphenInWord"/>taphor, in the Way of Illustration) that the <hi>Anchor</hi> of the <hi>State</hi> was <hi>already torn up</hi>; and the only <hi>Bottom,</hi> on which it could be again safely <hi>cast,</hi> was the <hi>rational Influence</hi> of a <hi>sensible</hi> and <hi>honest People.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>But supposing I had not <hi>corrupted</hi> the <hi>Integrity</hi> of the <hi>Athenian</hi> People; do you think they could have remained secure against the Influence of <q>indiscreet or venal Ora<lb rend="hidden" type="hyphenInWord"/>tors, who, encouraged by my Example, might have misled their <hi>honest Intentions,</hi>
+               </q>
+               <pb n="27" facs="25"/>
+and rowzed them into Sedition against an uncorrupted Court of the AREOPAGUS?</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Tell me, PERICLES; what was the <hi>Num<lb rend="hidden" type="hyphenInWord"/>ber</hi> of the <hi>People</hi> of <hi>Athens?</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I cannot be precise in this: But I know, that the Number of those, whose Favour and Influence I courted, did not exceed that of a <hi>large Audience:</hi> I have often ha<lb rend="hidden" type="hyphenInWord"/>rangued them in one <hi>collective Body.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>What was their <hi>Rank,</hi> and what their <hi>Employments</hi> in Life?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>They were composed, as you know very well, of <hi>Labourers</hi> and <hi>Mechanics.</hi> All who were able to <hi>keep</hi> a <hi>Horse,</hi> were admitted in<lb rend="hidden" type="hyphenInWord"/>to the se<gap resp="#oxf" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ond Order of the <hi>Magistracy</hi> 
+               <note place="bottom" n="*">Plutarch, in the Life of Solon.</note>. And therefore the Body of the People, whose
+<pb n="28" facs="26"/>
+Influence I courted, was composed of such as were <hi>not able</hi> to <hi>keep</hi> a <hi>Horse.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>What was their <hi>Capacity?</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>You will not expect much of <hi>That.</hi> It was suited to their <hi>Station.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Your Account is just: And therefore I confess, PERICLES, that, in my Opi<lb rend="hidden" type="hyphenInWord"/>nion, they never could be secure against the <hi>Seduction</hi> of indiscreet and venal <hi>Ora<lb rend="hidden" type="hyphenInWord"/>tors.</hi> Their <hi>small Number,</hi> their <hi>continual Necessities,</hi> their <hi>general Ignorance,</hi> must for ever expose them to the Delusions of a <hi>powerful Rhetoric.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Then, I think, my Consequence stands good: "That the united Voice even of an honest People can be no Ground of Securi<lb rend="hidden" type="hyphenInWord"/>ty to a State.</p>
+         </sp>
+         <sp>
+            <pb n="29" facs="27"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>I grant you, it is not, where the People are such, in <hi>Number, Station,</hi> and <hi>Incapaci<lb rend="hidden" type="hyphenInWord"/>ty,</hi> as, in <hi>your Time,</hi> the <hi>Athenian</hi> People were. But take Heed, lest you make your Inference too general. The only just Con<lb rend="hidden" type="hyphenInWord"/>sequence that can be drawn is this, that a Republic so circumstanced is absolutely <hi>void</hi> of <hi>all Security:</hi> For you see, that in Case the Court of the AREOPAGUS was <hi>delinquent,</hi> the People were not of sufficient Capacity or Weight to <hi>restore</hi> the <hi>Balance</hi> of the State. On the other Hand, supposing that Court to be <hi>uncorrupt,</hi> you see that the People were liable to be <hi>seduced</hi> to it's Destruction. Such a Republic, therefore, was formed for continual <hi>Factions</hi> while it lasted, and then for a <hi>speedy Death.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Do you think, ARISTIDES, that, by a <hi>Change</hi> of <hi>Circumstances,</hi> these Evils could admit of any Remedy?</p>
+         </sp>
+         <sp>
+            <pb n="30" facs="28"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>I think they might. — In your Discourse with COSMO, you hinted at a <hi>limited Mo<lb rend="hidden" type="hyphenInWord"/>narchy.</hi> I will therefore leave this <hi>imper<lb rend="hidden" type="hyphenInWord"/>fect Form,</hi> this <hi>Embryo</hi> of a Common<lb rend="hidden" type="hyphenInWord"/>wealth, to speak of a more august Image of a Government. Suppose therefore, that the <hi>Athenian</hi> State, instead of a petty Province, had been a large, populous, and fertile Coun<lb rend="hidden" type="hyphenInWord"/>try, governed by a <hi>King,</hi> and two Courts, vested with higher Powers than that of the AREOPAGUS <note place="bottom" n="*">The Court of the AREOPAGUS was <hi>judicial,</hi> not <hi>legislative.</hi>
+               </note>; that one of them had been <hi>hereditary,</hi> the other <hi>chosen</hi> by the Bo<lb rend="hidden" type="hyphenInWord"/>dy of the <hi>People</hi>; and that the <hi>Legislative</hi> Power was lodged in the <hi>united Suffrages</hi> of these three —</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>You charm me, by the very Supposi<lb rend="hidden" type="hyphenInWord"/>tion. — What a glorious Republic! —</p>
+         </sp>
+         <sp>
+            <pb n="31" facs="29"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>Do not you see, PERICLES, that all I have said concerning the State of ATHENS, would gain new Strength, under such a Sup<lb rend="hidden" type="hyphenInWord"/>position?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>My Views must be narrow indeed, if I could not see some Differences arise: pray go on.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>In the first Place, what could shake such a Kingdom as this, if all the several Powers maintained the <hi>Purity</hi> and <hi>Vigour</hi> of their Institution?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Methinks I see the Picture of an eternal Government.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>But suppose that, by the Excess of Commerce, and an Overflow of Wealth,
+<pb n="32" facs="30"/>
+or by any other Cause, a pernicious <hi>Luxury</hi> shou'ld creep in, and steal un<lb rend="hidden" type="hyphenInWord"/>perceived on the <hi>higher Ranks:</hi> Suppose farther, that the very <hi>Genius</hi> of the <hi>Consti<lb rend="hidden" type="hyphenInWord"/>tution,</hi> formed for the noblest Ends, should yet have a natural <hi>Tendency</hi> towards political <hi>Venality</hi> and <hi>Corruption,</hi> unless strongly guarded by a <hi>Purity</hi> of <hi>Principle</hi> and <hi>Man<lb rend="hidden" type="hyphenInWord"/>ners</hi>; and suppose this political <hi>Venality</hi> should, in Fact, creep in along with <hi>Luxu<lb rend="hidden" type="hyphenInWord"/>ry</hi>; what Consequences would you expect?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>You terrify me by the Representation: I behold the State on the Brink of <hi>Ruin.</hi> Instead of <hi>Ability, Courage,</hi> and <hi>Public Spi<lb rend="hidden" type="hyphenInWord"/>rit,</hi> among the <hi>leading Ranks</hi>; I see them immersed in every fatal <hi>Indulgence.</hi> I see their Councils <hi>divided,</hi> their Fleets and Armies <hi>disgraced,</hi> and some neighbouring PHILIP in Possession of their <hi>Forts</hi> and <hi>Co<lb rend="hidden" type="hyphenInWord"/>lonies.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Where would you seek for the <hi>Cure</hi> of these enormous Evils?</p>
+         </sp>
+         <sp>
+            <pb n="33" facs="31"/>
+            <speaker>PERICLES.</speaker>
+            <p>Certainly no <hi>Cure</hi> can take Place, till <hi>Ability, Courage,</hi> and <hi>Public Spirit</hi> should arise on the Ruins of their <hi>Contraries.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Your Aim is good. But the grand Question is, by what <hi>Means</hi> this can be ef<lb rend="hidden" type="hyphenInWord"/>fected.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I fear, the <hi>Means</hi> must be <hi>violent.</hi> I have heard you talk of a <hi>coercive Power,</hi> sufficient to <hi>reform Corruption.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Where, do you think, this might most probably be found?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I am casting about; but I cannot find it. My Experience makes me afraid of the In<lb rend="hidden" type="hyphenInWord"/>terposition of the People —</p>
+         </sp>
+         <sp>
+            <pb n="34" facs="32"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>What? even though they were <hi>honest</hi> and <hi>sensible?</hi> Why should you fear the Influence of a <hi>general good Sense</hi> and <hi>Inte<lb rend="hidden" type="hyphenInWord"/>grity?</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I cannot conceive it probable, that the <hi>lower</hi> Ranks should be more <hi>sensible</hi> or more <hi>upright,</hi> than their <hi>Superiors</hi> in Station.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>I can suppse, nay I do suppose, that ma<lb rend="hidden" type="hyphenInWord"/>ny of the <hi>higher</hi> Ranks are <hi>sensible, upright,</hi> and <hi>worthy,</hi> in several Respects: That they have many <hi>private Virtues:</hi> That <hi>Justice</hi> and <hi>Humanity</hi> are their <hi>allowed Qualities:</hi> That their chief Defect lies in their Want of <hi>Public Virtue,</hi> in their <hi>Neglect</hi> of the <hi>Public Happiness.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>What Probability could there be, then, that the <hi>People</hi> should <hi>attend</hi> to <hi>this,</hi> when it was neglected by their <hi>Leaders?</hi>
+            </p>
+         </sp>
+         <sp>
+            <pb n="35" facs="33"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>Tell me, PERICLES: When there are ho<lb rend="hidden" type="hyphenInWord"/>nest Inclinations in the Soul, whence can any Obstructions arise to their due Exertion?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Why, sure, from some <hi>contrary Inclina<lb rend="hidden" type="hyphenInWord"/>tions,</hi> which may <hi>tempt</hi> the Mind from it's <hi>natural Integrity.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>You are right. So then, if in a State thus circumstanced, the Body of the <hi>People</hi> should be more steady than their <hi>Leaders</hi> in their Zeal for the <hi>public Welfare</hi>; this must be, because they are not liable to the same <hi>Temptations,</hi> which might expose them to a like Neglect of the <hi>general Happiness.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>What you say, seems probable.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Cannot you discern certain Circumstances, which would naturally arise, and prove strong
+<pb n="36" facs="34"/>
+               <hi>Temptations</hi> to the <hi>Great,</hi> while the Body of the <hi>People</hi> might, for a Time at least, <hi>escape</hi> them?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Let me weigh the Matter. — Yes, in<lb rend="hidden" type="hyphenInWord"/>deed; from what you said before, I think I can. — You supposed, as I remember, that Luxury had crept in —</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Go on: I see, you comprehend the Ar<lb rend="hidden" type="hyphenInWord"/>gument.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I perceive, the natural Consequence of this must be, that the higher Ranks would be first infected with it; and therefore must be exposed to Temptations, which the Body of the People would escape: <hi>One Temptation</hi> must naturally arise from that <hi>unmanly</hi> or <hi>effeminate</hi> Character, which a refined Luxu<lb rend="hidden" type="hyphenInWord"/>ry tends to introduce: <hi>Another,</hi> from an in<lb rend="hidden" type="hyphenInWord"/>temperate Desire of <hi>supplying Expences,</hi> now grown <hi>exorbitant.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>You say true: But can you point out no farther Temptations, to which the leading
+<pb n="37" facs="35"/>
+Ranks would be naturally exposed, beyond the Body of the People?</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>These are what offered themselves to my Thoughts. Do you see any more?</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Many, and strong ones.—In a Kingdom thus circumstanced, extensive, fertile, mer<lb rend="hidden" type="hyphenInWord"/>cantile, rich, and populous, a countless Number of <hi>lucrative Offices</hi> must arise, and be established, for the <hi>Protection</hi> and <hi>good Order</hi> of the State.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I grant it.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>What Part of the Community, do you think, would lay Claim to these? The <hi>su<lb rend="hidden" type="hyphenInWord"/>perior</hi> Ranks, or the <hi>inferior?</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Doubtless, the <hi>Superior:</hi> Their Educa<lb rend="hidden" type="hyphenInWord"/>tion, Rank, Wealth, and Influence, would naturally lead them to expect a Preference.</p>
+         </sp>
+         <sp>
+            <pb n="38" facs="36"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>And if you farther suppose, that Luxury and Expence prevailed, these Posts would be more eagerly sought for, in Proportion as they were <hi>more lucrative.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>True: The Profit, I fear, would often be a leading Motive.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>The higher Ranks, then, would be natu<lb rend="hidden" type="hyphenInWord"/>rally assiduous to recommend themselves to those, who had the <hi>Disposal</hi> of these profita<lb rend="hidden" type="hyphenInWord"/>ble Employments: while the Body of the People, because generally <hi>excluded</hi> from all <hi>Hope</hi> of being raised to them, would be <hi>more independent</hi> of those in Power.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I must needs grant it.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>See you no Consequences arise?</p>
+         </sp>
+         <sp>
+            <pb n="39" facs="37"/>
+            <speaker>PERICLES.</speaker>
+            <p>You have convinced me, ARISTIDES: I see, that the <hi>higher</hi> Ranks in such a State, though equally possessed of <hi>private</hi> Virtues, must be much more exposed to the Temp<lb rend="hidden" type="hyphenInWord"/>tations of <hi>political Venality</hi> and <hi>Corruption,</hi> than the Body of the <hi>People.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>That is the Truth to which I meant to lead you.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>Yet still I fear the Effects of popular Power; because, by Experience, I know <q>the Influence of indiscreet and venal <hi>Ora<lb rend="hidden" type="hyphenInWord"/>tors,</hi> over the Passions of a misguided, in<lb rend="hidden" type="hyphenInWord"/>fatuated Multitude, who thought their Freedom consisted in encouraging Ca<lb rend="hidden" type="hyphenInWord"/>lumnies against the best Servants of the Republic; and conferring Power on those, who had no other Merit, than falling in with, and soothing, a popular Folly <note place="bottom" n="*">Dialogues of the Dead, p. 255.</note>.</q>
+            </p>
+         </sp>
+         <sp>
+            <pb n="40" facs="38"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>This Objection, as I said before, may be of Weight in a <hi>small Republic,</hi> such as that of <hi>Athens</hi> was in Your Days or Mine. But supposing it to have been augmented into a <hi>great, populous, civilized,</hi> and <hi>powerful,</hi> Kingdom, such as I have now represented, which contains more <hi>Square Leagues</hi> than <hi>Attica</hi> contains <hi>Acres,</hi> more <hi>Cities</hi> than <hi>At<lb rend="hidden" type="hyphenInWord"/>tica</hi> contains <hi>Villages,</hi> more <hi>Men</hi> of <hi>Fortune</hi> than <hi>Attica</hi> contains <hi>Mechanics,</hi> and the Objection vanishes into nothing. I can ea<lb rend="hidden" type="hyphenInWord"/>sily see, how a busy Orator may mount the Rostrum, and intoxicate an ignorant Mul<lb rend="hidden" type="hyphenInWord"/>titude that surrounds him; and this, PERI<lb rend="hidden" type="hyphenInWord"/>CLES, I fear was <hi>your</hi> Imprudence, nay, perhaps, <hi>my own.</hi> In a small State, like that of <hi>Athens,</hi> such an Event as this must affect the public Welfare: But, in a King<lb rend="hidden" type="hyphenInWord"/>dom so <hi>inlarged,</hi> and so <hi>inlightened,</hi> as that which I have supposed, the Harangues of an Orator, to any surrounding Audience of the People, can no more affect the <hi>general Wel<lb rend="hidden" type="hyphenInWord"/>fare,</hi> than the buzzing of an eloquent <hi>Bee</hi> can affect a <hi>Province,</hi> when he leads out the murmuring <hi>Hive</hi> on the Mountains of <hi>Hybla</hi> or <hi>Hymettus.</hi>
+            </p>
+         </sp>
+         <sp>
+            <pb n="41" facs="39"/>
+            <speaker>PERICLES.</speaker>
+            <p>Do you think the Difference so great?</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>I do: Because, in a City like that of <hi>Athens,</hi> the whole Multitude of the Com<lb rend="hidden" type="hyphenInWord"/>munity is easily <hi>collected</hi> in <hi>one</hi> Body; and therefore may be suddenly seduced, by an Orator, into <hi>one</hi> ill Purpose: But, in a great and populous Kingdom, the whole Multi<lb rend="hidden" type="hyphenInWord"/>tude of the Community cannot be collected into <hi>one</hi> Body; nay, nor into a <hi>hundred</hi> Bo<lb rend="hidden" type="hyphenInWord"/>dies; and therefore cannot be suddenly se<lb rend="hidden" type="hyphenInWord"/>duced, by an Orator, into <hi>one</hi> ill Purpose.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I grant you, the Difference is, in this Respect, <hi>essential.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>There is another Respect, in which the Difference is no less essential and important. You have confessed, PERICLES, that the People, or Multitude, which you seduced,
+<pb n="42" facs="40"/>
+were <q>a Rabble of Labourers and Mecha<lb rend="hidden" type="hyphenInWord"/>nics, who had been accustomed to earn their Bread by the Sweat of their Brows.<note place="bottom" n="*">See above, and Plutarch, in his Life of Pericles.</note>
+               </q> But, if <hi>Attica</hi> had been enlarged into so vast a Kingdom as I have here supposed, the Body of the People would have been of a Charac<lb rend="hidden" type="hyphenInWord"/>ter far <hi>superior.</hi> For, besides those of the highest Rank and Fortune, who would naturally form the two Courts of the AREO<lb rend="hidden" type="hyphenInWord"/>PAGUS, and aspire to the leading Offices in the Commonwealth; besides these, I say, there would be an innumerable Number of <hi>landed Commoners,</hi> the general Body of the <hi>Priesthood,</hi> the <hi>rich Merchants,</hi> and <hi>wealthy Plebeians</hi> of inferior Rank, all <hi>independent</hi> of the Governing Powers, many of them of excellent <hi>Ability,</hi> as well as <hi>Probity</hi>; most of them of Leisure and Education sufficient to enable them to judge of the <hi>leading Lines</hi> or <hi>Features</hi> of an upright Government; espe<lb rend="hidden" type="hyphenInWord"/>cially in the great Article of <hi>Protection</hi> from foreign or domestic <hi>Injuries.</hi> And can you think it possible, that the <hi>good Sense</hi> and <hi>Ho<lb rend="hidden" type="hyphenInWord"/>nesty</hi> of all these should be seduced into their own Destruction, by a designing or venal Orator?</p>
+         </sp>
+         <sp>
+            <pb n="43" facs="41"/>
+            <speaker>PERICLES.</speaker>
+            <p>I must confess, it is utterly incredible.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Still farther. As it would be thus impos<lb rend="hidden" type="hyphenInWord"/>sible to <hi>seduce</hi> by <hi>Eloquence,</hi> so it would be no less impracticable to <hi>corrupt,</hi> by <hi>Bribes,</hi> this <hi>whole Body</hi> of Men, to the Desertion of their own true Interest. A few, nay indeed a Number, might be thus corrupted; but this would never produce an <hi>united Voice</hi>; for the remaining Part, and that much the <hi>largest,</hi> would loudly <hi>clamour</hi>; and thus, nothing but <hi>Discord</hi> could arise. To silence so many Millions, by repeated Bribes, would require ten Times the Wealth of CROESUS; and more than ever Man, nay, more than ever Nation, possessed.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>You have Reason in what you say: I per<lb rend="hidden" type="hyphenInWord"/>ceive now, that nothing but a fair and open Prosecution of the <hi>general Interest</hi> could ever unite so great a People.</p>
+         </sp>
+         <sp>
+            <pb n="44" facs="42"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>I am of your Opinion. And thus you see, that as the <hi>small, ignorant,</hi> and <hi>needy</hi> Body of the <hi>Athenian</hi> People, in such a State as You and I beheld it, is the easiest of all to be seduced by Eloquence, or gained by Bribes; so, upon it's being aggrandized into such a <hi>vast, knowing,</hi> and <hi>wealthy</hi> Body, as I have here supposed, it would, above all o<lb rend="hidden" type="hyphenInWord"/>thers, have been secure against the Attacks either of <hi>Eloquence</hi> or <hi>Corruption.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I perceive, I have been confounding two Things together, as being altogether <hi>similar,</hi> when, in Reality, their Qualities are altoge<lb rend="hidden" type="hyphenInWord"/>ther <hi>opposite</hi>; and this, merely because they are called by the <hi>same Appellation,</hi> the <q>Bo<lb rend="hidden" type="hyphenInWord"/>dy of the People.</q>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>At length, you see the Foundation of your Error.</p>
+         </sp>
+         <sp>
+            <pb n="45" facs="43"/>
+            <speaker>PERICLES.</speaker>
+            <p>I confess, ARISTIDES, that in my Dis<lb rend="hidden" type="hyphenInWord"/>course with COSMO, these distinguishing Particularities were not sufficiently attended to. I drew Inferences, and extended Con<lb rend="hidden" type="hyphenInWord"/>sequences, to all free States, without Ex<lb rend="hidden" type="hyphenInWord"/>ception, which could only be justly applyed to a small Republic, circumstanced like that of <hi>Athens.</hi>
+            </p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>You see then, PERICLES, that if <hi>Athens</hi> had been a great, rich, literate, and power<lb rend="hidden" type="hyphenInWord"/>ful Republic, under the Appearance and Name of a <hi>limited Monarchy,</hi> you could have had no Chance for seducing the whole collective Body of the People, either by Bribes or Eloquence.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>I allow it.</p>
+         </sp>
+         <sp>
+            <pb n="46" facs="44"/>
+            <speaker>ARISTIDES.</speaker>
+            <p>You see farther, that in Case of any Delinquency in the Courts of the AREO<lb rend="hidden" type="hyphenInWord"/>PAGUS, if you had exerted your Talents in Support of the <hi>general Welfare,</hi> this <hi>great</hi> and <hi>grateful</hi> People, with one united Voice, would have <hi>adopted</hi> and <hi>adored</hi> you: Yet only so long as you had made that ge<lb rend="hidden" type="hyphenInWord"/>neral Welfare the undoubted Object of your Labours.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>It seems probable.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>You see then, that by building your Power on so firm a Foundation, you would have been enabled to dispense <hi>Re<lb rend="hidden" type="hyphenInWord"/>wards</hi> and <hi>Punishments</hi> with Justice and Vigour; that you could have <hi>displaced</hi> the <hi>incapable</hi> and <hi>unworthy,</hi> and put into <hi>Action</hi> those who were <hi>most fit</hi> to discharge the several Offices of the Commonwealth;
+<pb n="47" facs="45"/>
+that you could, <hi>by Degrees,</hi> have checked the Venality and Incapacity of the various Ranks, and thus have given the proper <hi>Elasticity</hi> and <hi>Tone</hi> to the several Parts of the Body politic.</p>
+         </sp>
+         <sp>
+            <speaker>PERICLES.</speaker>
+            <p>All this I think possible to have been done.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>But in doing all this, you would have been so far from <hi>unhinging</hi> Government, that you would have <hi>new-hinged</hi> it when it was <hi>falling</hi>; so far from <hi>destroying</hi> the <hi>Balance</hi> of <hi>Power,</hi> that you would have <hi>re<lb rend="hidden" type="hyphenInWord"/>newed</hi> it when it had been <hi>destroyed</hi>; so far from acting with a View to <q>present Advan<lb rend="hidden" type="hyphenInWord"/>tage</q> only, that you would have secured the <hi>future Welfare</hi> of the State; so far from consulting a mere <hi>temporary Felicity,</hi> that you would have fixed it on a Principle of <hi>permanent Happiness.</hi>
+            </p>
+         </sp>
+         <sp>
+            <pb n="48" facs="46"/>
+            <speaker>PERICLES.</speaker>
+            <p>I cannot deny it.</p>
+         </sp>
+         <sp>
+            <speaker>ARISTIDES.</speaker>
+            <p>Haste then, PERICLES: And, lest Mis<lb rend="hidden" type="hyphenInWord"/>takes should grow inveterate by Time, in<lb rend="hidden" type="hyphenInWord"/>form COSMO of all that hath passed be<lb rend="hidden" type="hyphenInWord"/>tween us.</p>
+         </sp>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <head>Lately published by <hi>L. DAVIS</hi> and <hi>C. REYMERS.</hi>
+            </head>
+            <p>ESSAYS on the CHARACTERISTICS of the Earl of Shafts<lb rend="hidden" type="hyphenInWord"/>bury. <hi>The Fourth Edition.</hi>
+            </p>
+            <p>An ESTIMATE of the Manners and Principles of the Times. 2 Vol. <hi>Seventh Edition.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

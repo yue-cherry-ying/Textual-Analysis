@@ -1,0 +1,562 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The author: A poem. By C. Churchill.</title>
+            <author>Churchill, Charles, 1731-1764.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020965.000</idno>
+            <idno type="docno">CW3314903994</idno>
+            <idno type="ecll">0568403600</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The author: A poem. By C. Churchill.</title>
+                  <author>Churchill, Charles, 1731-1764.</author>
+               </titleStmt>
+               <extent>[4],19,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for W. Flexney; G. Kearsly; J. Coote; C. Henderson; J. Gardiner; and J. Almon,</publisher>
+                  <date>1763.</date>
+                  <idno type="TCP">K020965.000</idno>
+                  <idno type="docno">CW3314903994</idno>
+                  <idno type="ecll">0568403600</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT1713.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <p>
+               <pb facs="1"/>
+THE AUTHOR. A POEM. BY C. CHURCHILL.</p>
+            <p>LONDON: Printed for W. FLEXNEY, near Gray's-Inn Gate, Holborn; G. KEARSLY, opposite St. Martin's Church, Ludgate-Street; J. COOTE, in Pater<lb rend="hidden" type="hyphenInWord"/>noster-Row; C. HENDERSON, at the Royal-Exchange; J. GARDINER, in Charles-Street, Westminster; and J. ALMON, in Piccadilly.</p>
+            <p>MDCCLXIII.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>THE AUTHOR.</head>
+         <lg>
+            <l>ACCURS'D the man, whom fate ordains, in spite,</l>
+            <l>And cruel parents teach, to Read and Write!</l>
+            <l>What need of letters? Wherefore should we spell?</l>
+            <l>Why write our names? A mark will do as well.</l>
+         </lg>
+         <lg>
+            <l>Much are the precious hours of youth mispent,</l>
+            <l>In climbing Learning's rugged steep ascent;</l>
+            <l>When to the top the bold advent'rer's got,</l>
+            <l>He reigns, vain monarch, o'er a barren spot,</l>
+            <l>
+               <pb n="2" facs="3"/>
+Whilst in the <hi>vale</hi> of <hi>Ignorance</hi> below,</l>
+            <l>FOLLY and VICE to rank luxuriance grow;</l>
+            <l>Honours and wealth pour in on ev'ry side,</l>
+            <l>And proud Preferment rolls her golden tide.</l>
+         </lg>
+         <lg>
+            <l>O'er crabbed authors life's gay prime to waste,</l>
+            <l>To cramp wild genius in the chains of taste,</l>
+            <l>To bear the slavish drudgery of schools,</l>
+            <l>And tamely stoop to ev'ry pedant's rules,</l>
+            <l>For seven long years debarr'd of lib'ral ease,</l>
+            <l>To plod in college trammels to <hi>degrees,</hi>
+            </l>
+            <l>Beneath the weight of solemn toys to groan,</l>
+            <l>Sleep over books, and leave mankind unknown,</l>
+            <l>To praise each senior blockhead's thread-bare tale,</l>
+            <l>And laugh till reason blush, and spirits fail,</l>
+            <l>Manhood with vile submission to disgrace,</l>
+            <l>And <hi>cap</hi> the fool, whose merit is his Place;</l>
+            <l>VICE CHANCELLORS, whose knowledge is but small,</l>
+            <l>And CHANCELLORS, who nothing know at all,</l>
+            <l>Ill-brook'd the gen'rous Spirit, in those days</l>
+            <l>When Learning was the certain road to praise,</l>
+            <l>When Nobles, with a love of Science bless'd,</l>
+            <l>Approv'd in others what themselves possess'd.</l>
+         </lg>
+         <lg>
+            <pb n="3" facs="4"/>
+            <l>But <hi>Now,</hi> when DULLNESS rears aloft her throne,</l>
+            <l>When LORDLY Vassals her wide Empire own,</l>
+            <l>When Wit, seduc'd by Envy, starts aside,</l>
+            <l>And basely leagues with Ignorance and Pride,</l>
+            <l>What <hi>Now</hi> should tempt us, by false hopes misled,</l>
+            <l>Learning's unfashionable paths to tread;</l>
+            <l>To bear those labours, which our Fathers bore</l>
+            <l>That Crown with-held, which They in triumph wore?</l>
+         </lg>
+         <lg>
+            <l>When with much pains this boasted Learning's got,</l>
+            <l>'Tis an affront to those who have it not.</l>
+            <l>In some it causes hate, in others fear,</l>
+            <l>Instructs our Foes to rail, our Friends to sneer.</l>
+            <l>With prudent haste the worldly-minded fool,</l>
+            <l>Forgets the little which he learn'd at School;</l>
+            <l>The Elder Brother, to vast fortunes born,</l>
+            <l>Looks on all Science with an Eye of Scorn;</l>
+            <l>Dependent Breth'ren the same features wear,</l>
+            <l>And younger Sons are stupid as the Heir.</l>
+            <l>In Senates, at the Bar, in Church and State,</l>
+            <l>Genius is vile, and Learning out of date.</l>
+            <l>Is this—O Death to think! is this the Land</l>
+            <l>Where Merit and Reward went hand in hand,</l>
+            <l>
+               <pb n="4" facs="5"/>
+Where Heroes, Parent-like, the Poet view'd?—</l>
+            <l>By whom they saw their glorious deeds renew'd;</l>
+            <l>Where Poets, true to Honour, tun'd their lays,</l>
+            <l>And by their Patrons sanctify'd their praise?</l>
+            <l>Is this the Land, where, on our SPENCER'S tongue,</l>
+            <l>Enamour'd of his voice, Description hung;</l>
+            <l>Where JOHNSON rigid gravity beguil'd,</l>
+            <l>Whilst Reason thro' her Critic fences smil'd;</l>
+            <l>Where NATURE list'ning stood, whilst SHAKESPEAR play'd,</l>
+            <l>And wonder'd at the Work herself had made?</l>
+            <l>Is this the Land, where, mindful of her charge</l>
+            <l>And Office high, fair Freedom walk'd at large;</l>
+            <l>Where, finding in our Laws a sure defence,</l>
+            <l>She mock'd at all restraints, but those of Sense;</l>
+            <l>Where, health and honour trooping by her side,</l>
+            <l>She spread her sacred empire far and wide;</l>
+            <l>Pointed the Way, Affliction to beguile,</l>
+            <l>And bade the Face of Sorrow wear a smile,</l>
+            <l>Bade those, who dare obey the gen'rous call,</l>
+            <l>Enjoy her blessings, which GOD meant for all?</l>
+            <l>Is this the Land, where, in some Tyrant's reign,</l>
+            <l>When a <hi>weak, wicked Ministerial</hi> train,</l>
+            <l>The tools of pow'r, the slaves of int'rest, plann'd</l>
+            <l>Their Country's ruin, and with bribes unman'd</l>
+            <l>
+               <pb n="5" facs="6"/>
+Those wretches, who, ordain'd in Freedom's cause,</l>
+            <l>Gave up our liberties, and sold our laws;</l>
+            <l>When Pow'r was taught by Meanness where to go,</l>
+            <l>Nor dar'd to love the Virtue of a foe;</l>
+            <l>When, like a lep'rous plague, from the foul head</l>
+            <l>To the foul heart her sores Corruption spread,</l>
+            <l>Her iron arm when stern Oppression rear'd,</l>
+            <l>And Virtue, from her broad base shaken, fear'd</l>
+            <l>The scourge of Vice; when, impotent and vain,</l>
+            <l>Poor Freedom bow'd the neck to Slav'ry's chain;</l>
+            <l>Is this the Land, where, in those worst of times,</l>
+            <l>The hardy Poet rais'd his honest rimes</l>
+            <l>To dread rebuke, and bade controulment speak</l>
+            <l>In guilty blushes on the villain's cheek,</l>
+            <l>Bade Pow'r turn pale, kept mighty rogues in awe,</l>
+            <l>And made them fear the Muse, who fear'd not Law?</l>
+         </lg>
+         <lg>
+            <l>How do I laugh, when men of narrow souls,</l>
+            <l>Whom folly guides, and prejudice controuls;</l>
+            <l>Who, one dull drowsy track of business trod,</l>
+            <l>Worship their Mammon, and neglect their God;</l>
+            <l>Who, breathing by one musty set of rules,</l>
+            <l>Dote from the birth, and are by system fools;</l>
+            <l>
+               <pb n="6" facs="7"/>
+Who, form'd to dullness from their very youth,</l>
+            <l>Lies of the day prefer to Gospel truth,</l>
+            <l>Pick up their little knowledge from Reviews,</l>
+            <l>And lay out all their stock of faith in news:</l>
+            <l>How do I laugh, when Creatures, form'd like these,</l>
+            <l>Whom Reason scorns, and I should blush to please,</l>
+            <l>Rail at all lib'ral arts, deem verse a crime,</l>
+            <l>And hold not Truth, as Truth, if told in rime?</l>
+         </lg>
+         <lg>
+            <l>How do I laugh, when PUBLIUS, hoary grown</l>
+            <l>In zeal for SCOTLAND'S wellfare, and his own,</l>
+            <l>By slow degrees, and course of office, drawn</l>
+            <l>In mood and figure at the helm to yawn,</l>
+            <l>Too mean (the worst of curses Heav'n can send)</l>
+            <l>To have a foe, too proud to have a friend,</l>
+            <l>Erring by form, which Blockheads sacred hold,</l>
+            <l>Ne'er making new faults, and ne'er mending old,</l>
+            <l>Rebukes my Spirit, bids the daring Muse</l>
+            <l>Subjects more equal to her weakness chuse;</l>
+            <l>Bids her frequent the haunts of humble swains,</l>
+            <l>Nor dare to traffick in ambitious strains;</l>
+            <l>Bids her, indulging the poetic whim</l>
+            <l>In quaint-wrought Ode, or Sonnet pertly trim,</l>
+            <l>
+               <pb n="7" facs="8"/>
+Along the Church-way path complain with GRAY,</l>
+            <l>Or dance with MASON on the first of May?</l>
+            <l>"All sacred is the name and pow'r of Kings,</l>
+            <l>"All States and Statesmen are those mighty Things</l>
+            <l>"Which, howsoe'er they out of course may roll,</l>
+            <l>"Were never made for Poets to controul."</l>
+         </lg>
+         <lg>
+            <l>Peace, Peace thou Dotard, nor thus vilely deem</l>
+            <l>Of Sacred Numbers, and their pow'r blaspheme;</l>
+            <l>I tell thee, Wretch, search all Creation round,</l>
+            <l>In Earth, in Heav'n, no Subject can be found</l>
+            <l>(Our God alone except) above whose weight</l>
+            <l>The Poet cannot rise, and hold his State.</l>
+            <l>The blessed Saints above in numbers speak</l>
+            <l>The praise of God, tho' there all praise is weak;</l>
+            <l>In Numbers here below the Bard shall teach</l>
+            <l>Virtue to soar beyond the Villain's reach;</l>
+            <l>Shall tear his lab'ring lungs, strain his hoarse throat,</l>
+            <l>And raise his voice beyond the trumpet's note,</l>
+            <l>Should an afflicted Country, aw'd by men</l>
+            <l>Of slavish principles, demand his pen.</l>
+            <l>This is a great, a glorious point of view,</l>
+            <l>Fit for an English Poet to pursue,</l>
+            <l>
+               <pb n="8" facs="9"/>
+Undaunted to pursue, tho', in return,</l>
+            <l>His writings by the common Hangman burn.</l>
+         </lg>
+         <lg>
+            <l>How do I laugh, when men, by fortune plac'd</l>
+            <l>Above their Betters, and by rank disgrac'd,</l>
+            <l>Who found their pride on titles which they stain,</l>
+            <l>And, mean themselves, are of their Fathers vain,</l>
+            <l>Who would a bill of privilege prefer,</l>
+            <l>And treat a Poet, like a Creditor,</l>
+            <l>The gen'rous ardour of the Muse condemn,</l>
+            <l>And curse the storm they know must break on them?</l>
+            <l>"What, shall a reptile Bard, a wretch unknown,</l>
+            <l>"Without one badge of merit, but his own,</l>
+            <l>"Great Nobles lash, and <hi>Lords,</hi> like common men,</l>
+            <l>"Smart from the vengeance of a Scribbler's pen?"</l>
+         </lg>
+         <lg>
+            <l>What's in this name of <hi>Lord,</hi> that we should fear</l>
+            <l>To bring their vices to the public ear?</l>
+            <l>Flows not the honest blood of humble swains</l>
+            <l>Quick as the tide which swells a Monarch's veins?</l>
+            <l>Monarchs, who wealth and titles can bestow,</l>
+            <l>Cannot make Virtues in succession flow.</l>
+            <l>Would'st Thou, Proud Man, be safely plac'd above</l>
+            <l>The censure of the Muse, deserve her Love,</l>
+            <l>
+               <pb n="9" facs="10"/>
+Act as thy Birth demands, as Nobles ought;</l>
+            <l>Look back, and by thy worthy Father taught,</l>
+            <l>Who <hi>earn'd</hi> those Honours, Thou wert <hi>born</hi> to wear,</l>
+            <l>Follow his steps, and be his Virtue's heir.</l>
+            <l>But if, regardless of the road to Fame,</l>
+            <l>You start aside, and tread the paths of shame.</l>
+            <l>If such thy life, that should thy Sire arise,</l>
+            <l>The sight of such a Son would blast his eyes,</l>
+            <l>Would make him curse the hour which gave Thee birth,</l>
+            <l>Would drive him, shudd'ring, from the face of earth</l>
+            <l>Once more, with shame and sorrow, 'mongst the dead</l>
+            <l>In endless night to hide his rev'rend head;</l>
+            <l>If such thy life, tho' Kings had made thee more</l>
+            <l>Than ever King a scoundrel made before,</l>
+            <l>Nay, to allow thy pride a deeper spring,</l>
+            <l>Tho' God in vengeance had made Thee a King,</l>
+            <l>Taking on Virtue's wing her daring flight,</l>
+            <l>The Muse should drag thee trembling to the light,</l>
+            <l>Probe thy foul wounds, and lay thy bosom bare</l>
+            <l>To the keen question of the searching air.</l>
+         </lg>
+         <lg>
+            <l>Gods! with what pride I see the titled slave,</l>
+            <l>Who smarts beneath the stroke which Satire gave,</l>
+            <l>
+               <pb n="10" facs="11"/>
+Aiming at ease, and with dishonest art</l>
+            <l>Striving to hide the feelings of his heart!</l>
+            <l>How do I laugh, when, with affected air,</l>
+            <l>(Scarce able thro' despite to keep his chair,</l>
+            <l>Whilst on his trembling lip pale anger speaks,</l>
+            <l>And the chaf'd blood flies mounting to his cheeks)</l>
+            <l>He talks of Conscience, which good men secures</l>
+            <l>From all those evil moments guilt endures,</l>
+            <l>And seems to laugh at those, who pay regard</l>
+            <l>To the wild ravings of a frantic bard.</l>
+            <l>"SATIRE, whilst envy and ill-humour sway</l>
+            <l>"The mind of man, must always make her way,</l>
+            <l>"Nor to a bosom, with discretion fraught,</l>
+            <l>"Is all her malice worth a single thought.</l>
+            <l>"The Wise have not the will, nor Fools the pow'r</l>
+            <l>"To stop her headstrong course; within the hour,</l>
+            <l>"Left to herself, she dies; opposing Strife,</l>
+            <l>"Gives her fresh vigour, and prolongs her life.</l>
+            <l>"All things her prey, and ev'ry man her aim,</l>
+            <l>"I can no patent for exemption claim,</l>
+            <l>"Nor would I wish to stop that harmless dart</l>
+            <l>"Which plays around, but cannot wound my heart:</l>
+            <l>"Tho' pointed at myself, be SATIRE free;</l>
+            <l>"To Her 'tis pleasure, and no pain to Me."</l>
+         </lg>
+         <lg>
+            <pb n="11" facs="12"/>
+            <l>Dissembling Wretch! hence to the Stoic school,</l>
+            <l>And there amongst thy breth'ren play the fool,</l>
+            <l>There, unrebuk'd, these wild, vain doctrines preach;</l>
+            <l>Lives there a Man, whom SATIRE cannot reach?</l>
+            <l>Lives there a Man, who calmly can stand by,</l>
+            <l>And see his conscience ripp'd with steady eye?</l>
+            <l>When SATIRE flies abroad on Falshood's wing,</l>
+            <l>Short is her life indeed, and dull her sting;</l>
+            <l>But when to Truth allied, the wound she gives</l>
+            <l>Sinks deep, and to remotest ages lives.</l>
+            <l>When in the tomb thy pamper'd flesh shall rot,</l>
+            <l>And e'en by friends thy mem'ry be forgot,</l>
+            <l>Still shalt Thou live, recorded for thy crimes,</l>
+            <l>Live in her page, and stink to after-times.</l>
+         </lg>
+         <lg>
+            <l>Hast Thou no feeling yet? Come, throw off pride,</l>
+            <l>And own those passions which Thou shalt not hide.</l>
+            <l>S—, who, from the moment of his birth,</l>
+            <l>Made human Nature a reproach on earth,</l>
+            <l>Who never dar'd, nor wish'd behind to stay,</l>
+            <l>When Folly, Vice, and Meanness led the way,</l>
+            <l>Would blush, should he be told, by Truth and Wit,</l>
+            <l>Those actions, which he blush'd not to commit;</l>
+            <l>
+               <pb n="12" facs="13"/>
+Men the most infamous are fond of fame,</l>
+            <l>And those who fear not guilt, yet start at shame.</l>
+         </lg>
+         <lg>
+            <l>But whither runs my zeal, whose rapid force,</l>
+            <l>Turning the brain, bears Reason from her course,</l>
+            <l>Carries me back to times, when Poets, bless'd</l>
+            <l>With courage, grac'd the Science they profess'd;</l>
+            <l>When They, in Honour rooted, firmly stood</l>
+            <l>The bad to punish, and reward the good;</l>
+            <l>When, to a flame by Public Virtue wrought,</l>
+            <l>The foes of Feedom They to justice brought,</l>
+            <l>And dar'd expose those slaves, who dar'd support</l>
+            <l>A Tyrant plan, and call'd themselves a Court.</l>
+            <l>Ah! What are Poets now? as slavish those</l>
+            <l>Who deal in Verse, as those who deal in Prose.</l>
+            <l>Is there an Author, search the Kingdom round,</l>
+            <l>In whom true worth, and real Spirit's found?</l>
+            <l>The Slaves of Booksellers, or (doom'd by Fate</l>
+            <l>To baser chains) vile pensioners of State;</l>
+            <l>Some, dead to shame, and of those shackles proud</l>
+            <l>Which Honour scorns, for slav'ry roar aloud,</l>
+            <l>Others, <hi>half-palsied</hi> only, mutes become,</l>
+            <l>And what makes SMOLLET write, makes JOHNSON dumb.</l>
+            <l>
+               <pb n="13" facs="14"/>
+Why turns you villain pale? why bends his eye</l>
+            <l>Inward, abash'd, when MURPHY passes by?</l>
+            <l>Dost Thou sage MURPHY for a blockhead take,</l>
+            <l>Who wages war with vice for Virtue's sake?</l>
+            <l>No, No—like other <hi>Worldlings,</hi> you will find</l>
+            <l>He shifts his sails, and catches ev'ry wind.</l>
+            <l>His soul the shock of int'rest can't endure,</l>
+            <l>Give him a pension then, and sin secure.</l>
+         </lg>
+         <lg>
+            <l>With laurell'd wreaths the flatt'rer's brows adorn,</l>
+            <l>Bid Virtue crouch, bid Vice exalt her horn,</l>
+            <l>Bid Cowards thrive, put honesty to flight,</l>
+            <l>MURPHY shall prove, or try to prove it right.</l>
+            <l>Try, thou State-Juggler, ev'ry paltry art,</l>
+            <l>Ransack the inmost closet of my heart,</l>
+            <l>Swear Thou'rt my Friend; by that base oath make way</l>
+            <l>Into my breast, and flatter to betray;</l>
+            <l>Or, if those tricks are vain, if wholesome doubt</l>
+            <l>Detects the fraud, and points the Villain out,</l>
+            <l>Bribe those who daily at my board are fed,</l>
+            <l>And make them take my life who eat my bread;</l>
+            <l>On Authors for defence, for praise depend;</l>
+            <l>Pay him but well, and MURPHY is thy friend.</l>
+            <l>
+               <pb n="14" facs="15"/>
+He, He shall ready stand with venal rimes</l>
+            <l>To varnish guilt, and consecrate thy crimes,</l>
+            <l>To make corruption in false colours shine,</l>
+            <l>And damn his own good name, to rescue thine.</l>
+         </lg>
+         <lg>
+            <l>But, if thy niggard hands their gifts with-hold,</l>
+            <l>And Vice no longer rains down show'rs of gold,</l>
+            <l>Expect no mercy; facts, well grounded, teach,</l>
+            <l>MURPHY, if not rewarded, will impeach.</l>
+            <l>What tho' each man of nice and juster thought,</l>
+            <l>Shunning his steps, decrees, by Honour taught,</l>
+            <l>He ne'er can be a Friend, who stoops so low</l>
+            <l>To be the base betrayer of a foe;</l>
+            <l>What tho', with thine together link'd, his name</l>
+            <l>Must be with thine transmitted down to shame,</l>
+            <l>To ev'ry manly feeling callous grown,</l>
+            <l>Rather than not blast thine, he'll blast his own.</l>
+         </lg>
+         <lg>
+            <l>To ope the fountain, whence Sedition springs,</l>
+            <l>To slander Government, and libel Kings,</l>
+            <l>With Freedom's name to serve a present hour,</l>
+            <l>Tho' born, and bred to arbitrary pow'r,</l>
+            <l>To talk of WILLIAMS with insidious art,</l>
+            <l>Whilst a vile STUART'S lurking in his heart,</l>
+            <l>
+               <pb n="15" facs="16"/>
+And, whilst mean Envy rears her loathsome head,</l>
+            <l>Flatt'ring the living, to abuse the dead,</l>
+            <l>Where is SHEBBEARE? O, let not foul reproach,</l>
+            <l>Travelling thither in a City-Coach,</l>
+            <l>The Pill'ry dare to name; the whole intent</l>
+            <l>Of that Parade was Fame, not Punishment,</l>
+            <l>And that old, staunch Whig BEARDMORE standing by,</l>
+            <l>Can in full Court give that report the lye.</l>
+         </lg>
+         <lg>
+            <l>With rude unnat'ral jargon to support,</l>
+            <l>Half <hi>Scotch,</hi> half <hi>English,</hi> a declining Court,</l>
+            <l>To make most glaring contraries unite,</l>
+            <l>And prove, beyond dispute, that black is white,</l>
+            <l>To make firm Honour tamely league with shame,</l>
+            <l>Make Vice and Virtue differ but in name,</l>
+            <l>To prove that Chains and Freedom are but one,</l>
+            <l>That to be sav'd must mean to be undone,</l>
+            <l>Is there not GUTHRIE? Who, like him, can call</l>
+            <l>All Opposites to proof, and conquer all?</l>
+            <l>He calls forth living waters from the rock;</l>
+            <l>He calls forth children from the barren stock;</l>
+            <l>He, far beyond the springs of Nature led,</l>
+            <l>Makes Women bring forth after they are dead;</l>
+            <l>
+               <pb n="16" facs="17"/>
+He, on a curious, new, and happy plan,</l>
+            <l>In <hi>Wedlock</hi>'s sacred bands joins Man to Man;</l>
+            <l>And, to complete the whole, most strange, but true,</l>
+            <l>By some rare magic, makes them fruitful too,</l>
+            <l>Whilst from their loins, in the due course of years,</l>
+            <l>Flows the rich blood of GUTHRIE's <hi>English Peers.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>Dost Thou contrive some blacker deed of shame,</l>
+            <l>Something which Nature shudders but to name,</l>
+            <l>Something which makes the Soul of man retreat,</l>
+            <l>And the life-blood run backward to her seat?</l>
+            <l>Dost Thou contrive, for some base private end,</l>
+            <l>Some selfish view, to hang a trusting friend,</l>
+            <l>To lure him on, e'en to his parting breath,</l>
+            <l>And promise life, to work him surer death?</l>
+            <l>Grown old in villainy, and dead to grace,</l>
+            <l>Hell in his heart, and TYBURNE in his face;</l>
+            <l>Behold, a Parson at thy Elbow stands,</l>
+            <l>Low'ring damnation, and with open hands</l>
+            <l>Ripe to betray his Saviour for reward;</l>
+            <l>The Atheist Chaplain of an Atheist Lord.</l>
+         </lg>
+         <lg>
+            <l>Bred to the Church, and for the gown decreed,</l>
+            <l>'Ere it was known that I should learn to read;</l>
+            <l>
+               <pb n="17" facs="18"/>
+Tho' that was nothing, for my Friends, who knew</l>
+            <l>What mighty Dullness of itself could do,</l>
+            <l>Never design'd me for a working Priest,</l>
+            <l>But hop'd, I should have been a DEAN at least;</l>
+            <l>Condemn'd (like many more, and worthier men,</l>
+            <l>To whom I pledge the service of my pen),</l>
+            <l>Condemn'd (whilst proud, and pamper'd Sons of Lawn,</l>
+            <l>Cramm'd to the throat, in lazy plenty yawn)</l>
+            <l>In pomp of <hi>rev'rend begg'ry</hi> to appear,</l>
+            <l>To pray, and starve on forty pounds a year;</l>
+            <l>My Friends, who never felt the galling load,</l>
+            <l>Lament that I forsook the Packhorse road,</l>
+            <l>Whilst Virtue to my conduct witness bears</l>
+            <l>In throwing off that gown, which FRANCIS wears.</l>
+         </lg>
+         <lg>
+            <l>What Creature's that, so very pert and prim;</l>
+            <l>So very full of foppery, and whim;</l>
+            <l>So gentle, yet so brisk; so wond'rous sweet,</l>
+            <l>So fit to prattle at a Lady's feet,</l>
+            <l>Who looks, as he the Lord's rich vineyard trod,</l>
+            <l>And by his Garb appears a man of God?</l>
+            <l>Trust not to looks, nor credit outward show;</l>
+            <l>The villain lurks beneath the <hi>cassock'd</hi> Beau;</l>
+            <l>
+               <pb n="18" facs="19"/>
+That's an Informer; what avails the name?</l>
+            <l>Suffice it that the wretch from SODOM came.</l>
+         </lg>
+         <lg>
+            <l>His tongue is deadly—from his presence run,</l>
+            <l>Unless thy rage would wish to be undone.</l>
+            <l>No ties can hold him, no affection bind,</l>
+            <l>And Fear alone restrains his coward mind;</l>
+            <l>Free him from that, no Monster is so fell,</l>
+            <l>Nor is so sure a blood-hound found in hell.</l>
+            <l>His silken smiles, his hypocritic air,</l>
+            <l>His meek demeanour, plausible and fair,</l>
+            <l>Are only worn to pave Fraud's easier way,</l>
+            <l>And make gull'd Virtue fall a surer prey.</l>
+            <l>Attend his Church—his plan of doctrine view—</l>
+            <l>The Preacher is a Christian, dull but true;</l>
+            <l>But when the hallow'd hour of preaching's o'er,</l>
+            <l>That plan of doctrine's never thought of more;</l>
+            <l>CHRIST is laid by neglected on the shelf,</l>
+            <l>And the vile Priest is Gospel to himself.</l>
+         </lg>
+         <lg>
+            <l>By CLELAND tutor'd, and with BLACOW bred,</l>
+            <l>(BLACOW, whom by a brave resentment led,</l>
+            <l>OXFORD, if OXFORD had not sunk in same,</l>
+            <l>Ere this, had damn'd to everlasting shame)</l>
+            <l>
+               <pb n="19" facs="20"/>
+Their steps he follows, and their crimes partakes,</l>
+            <l>To Virtue lost, to Vice alone he wakes,</l>
+            <l>Most lusciously declaims 'gainst luscious themes,</l>
+            <l>And, whilst he rails at blasphemy, blasphemes.</l>
+         </lg>
+         <lg>
+            <l>Are these the Arts, which Policy supplies?</l>
+            <l>Are these the steps, by which grave Churchmen rise?</l>
+            <l>Forbid it, Heav'n; or, should it turn out so,</l>
+            <l>Let Me, and Mine, continue mean and low.</l>
+            <l>Such be their Arts, whom Interest controuls;</l>
+            <l>KIDGELL and <hi>I</hi> have free and honest souls.</l>
+            <l>We scorn Preferment which is gain'd by Sin,</l>
+            <l>And will, tho' poor without, have peace within.</l>
+         </lg>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>

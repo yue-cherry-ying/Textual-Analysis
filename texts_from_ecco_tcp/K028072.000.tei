@@ -1,0 +1,825 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Songs, duos, trios, chorusses, &amp;c, in the comic opera of The carnival of Venice, as it is performed at the Theatre Royal, Drury Lane:</title>
+            <author>Tickell, Richard, 1751-1793.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K028072.000</idno>
+            <idno type="docno">cw3306673279</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Songs, duos, trios, chorusses, &amp;c, in the comic opera of The carnival of Venice, as it is performed at the Theatre Royal, Drury Lane:</title>
+                  <author>Tickell, Richard, 1751-1793.</author>
+               </titleStmt>
+               <extent>27,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London,</pubPlace>
+                  <date>1781.</date>
+                  <idno type="TCP">K028072.000</idno>
+                  <idno type="docno">cw3306673279</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Richard Tickell.</note>
+                  <note>The titlepage is engraved.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT16485.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>
+               <hi>SONGS,</hi> Duos, Trios, Chorusses, &amp;c, <hi>in the COMIC OPERA</hi> of the Carnival of Venice, <hi>as it is Performed at the</hi> THEATRE ROYAL, DRURY LANE.</p>
+            <p>
+               <hi>LONDON. 1781.</hi>
+            </p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="2"/>
+            <head>Dramatis Personae.</head>
+            <list>
+               <item>
+                  <label>Lucio,</label> Mr. BANNISTER,</item>
+               <item>
+                  <label>Sir Peter Pagoda,</label> Mr. PARSONS,</item>
+               <item>
+                  <label>Melvil,</label> Mr. DUBELLAMY,</item>
+               <item>
+                  <label>Piano</label> Mr. SUETT,</item>
+               <item>
+                  <label>Charles,</label> Mr. DODD.</item>
+            </list>
+            <list>
+               <item>
+                  <label>Marinetta,</label> Mrs. CARGILL,</item>
+               <item>
+                  <label>Francisca,</label> Mrs. WRIGHTEN,</item>
+               <item>
+                  <label>Emily,</label> Miss PHILLIPS.</item>
+            </list>
+            <p>The Songs mark'd with inverted Commas, are omitted in the Representation.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="5" facs="3"/>
+         <head>Songs, Chorusses, &amp;c.</head>
+         <div n="1" type="act">
+            <head>ACT 1.</head>
+            <div type="air">
+               <head>AIR by Mr. DODD.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>Which sense of the five does not Bacchus delight!</l>
+                  <l>He's a rose to the Smell. He's a ruby to Sight.</l>
+                  <l>From the flask as He sparkles, He sings to the car,</l>
+                  <l>And He's soft to the Touch as to Taste He is dear:</l>
+                  <l>'Gain'st his God-head 'tis impious for Mortals to strive;</l>
+                  <l>For each sense should be His, who can cherish the five.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>But no charm that He gives no delight He supplies,</l>
+                  <l>Is so sweet as the Opiate He sheds o'er our sighs;</l>
+                  <l>For when Care or dull Sorrow perplexes our breasts,</l>
+                  <l>He can banish the Senses that harbour such Guests!</l>
+                  <l>To his God-<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>ead let Mortals then servently call,</l>
+                  <l>Who can sooth every Sense, by suspending them all.</l>
+               </lg>
+            </div>
+            <div type="air">
+               <pb n="6" facs="4"/>
+               <head>AIR by Mr. BANNISTER.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>Soon as the busy Day is o'er,</l>
+                  <l>And Evening comes with pleasant shade,</l>
+                  <l>We Gondoliers from shore to shore,</l>
+                  <l>Merrily ply our jovial trade.</l>
+               </lg>
+               <lg>
+                  <l>And while the Moon shines on the stream,</l>
+                  <l>And as soft music breathes around;</l>
+                  <l>The feathering oar returns the gleam,</l>
+                  <l>And dips in concert to the sound.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Down by some Convent's mould'ring walls</l>
+                  <l>Oft we bear the enamour'd youth;</l>
+                  <l>Softly the watchful Fair he calls,</l>
+                  <l>Who whispers vows of Love and Truth.</l>
+                  <l>And while the Moon, &amp;c.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>"And oft where the Rialto swells,</l>
+                  <l>"With happier pairs we circle round;</l>
+                  <l>"Whose secret sighs fond Eccho tells,</l>
+                  <l>"Whose murmur'd vows she bids resound.</l>
+                  <l>And while the Moon, &amp;c.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>"Then joys the Youth, that Love conceal'd,</l>
+                  <l>"That fearful Love must own its sighs;</l>
+                  <l>"Then smiles the Maid, to hear reveal'd</l>
+                  <l>"How more than ever she complies,"</l>
+                  <l>And while, &amp;c.</l>
+               </lg>
+            </div>
+            <div type="air">
+               <pb n="7" facs="5"/>
+               <head>AIR by Mr. DU BELLAMY.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>By adverse Fate when Beauty sighs,</l>
+                  <l>A mingled claim our bosoms prove;</l>
+                  <l>'Tis Virtue grac'd with gentler ties,</l>
+                  <l>'Tis Pity soften'd into Love.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Blest, doubly blest, his transport glows,</l>
+                  <l>Whose Pity can each joy refine,</l>
+                  <l>When from that God-like source it flows,</l>
+                  <l>The generous passion is divine.</l>
+               </lg>
+            </div>
+            <div type="air">
+               <head>AIR by Mrs. CARGILL.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>In my pleasant native plains,</l>
+                  <l>Wing'd with bliss each moment flew;</l>
+                  <l>Nature there inspir'd the strains,</l>
+                  <l>Simple as the joys I knew;</l>
+                  <l>Jocund Morn and Evening gay</l>
+                  <l>Claim'd the merry Roundelay.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Fields and slocks, and fragrant flow'rs,</l>
+                  <l>All that health and joy impart;</l>
+                  <l>Call'd for artless Music's pow'rs,</l>
+                  <l>Faithful ecchoes to the heart!</l>
+                  <l>Happy hours for ever gay</l>
+                  <l>Claim'd the merry Roundelay.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="8" facs="6"/>
+                  <head>III.</head>
+                  <l>But the breath of genial Spring</l>
+                  <l>Wak'd the warblers of the grove;</l>
+                  <l>Who, sweet birds, that heard you sing,</l>
+                  <l>Wou'd not join the song of love?</l>
+                  <l>Your sweet notes and chauntings gay</l>
+                  <l>Claim'd the merry Roundelay.</l>
+               </lg>
+            </div>
+            <div type="air">
+               <head>AIR by Mr. DU BELLAMY.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>"Not for thy wings, oh God of love!</l>
+                  <l>"Sighs the Youth that wou'd not rove;</l>
+                  <l>"Not for thy arrow pants the heart,</l>
+                  <l>"Blest to seel the mutual dart.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>"But that I ne'er may jealous live,</l>
+                  <l>"Me thy careless child-hood give,</l>
+                  <l>"And, to secure unchang'd delight,</l>
+                  <l>"Share thy band, and veil my sight."</l>
+               </lg>
+            </div>
+            <div type="air">
+               <head>AIR by Mrs. CARGILL.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>Yes, I long for the comical sight;</l>
+                  <l>Such a pair of odd Lovers to meet;</l>
+                  <l>When they're wedded in Fortune's despigh</l>
+                  <l>How I'll laugh at the pleasant deceit!</l>
+               </lg>
+               <lg n="2">
+                  <pb n="9" facs="7"/>
+                  <head>II.</head>
+                  <l>O but once let the knot be fast join'd,</l>
+                  <l>Low I'll curtsey and wish you both joy;</l>
+                  <l>She by chance, such a treasure to find,</l>
+                  <l>You, by art, such a prize to decoy.</l>
+               </lg>
+            </div>
+            <div type="quartetto">
+               <head>QUARTETTO.</head>
+               <stage>Mr. BANNISTER, Mrs. WRIGHTEN, Mr. SUETT, and Mrs. CARGILL.</stage>
+               <sp>
+                  <speaker>LUCIO.</speaker>
+                  <l>By example be taught, rash Lover beware,</l>
+                  <l>Look at me—look at her—then wed if you dare.</l>
+               </sp>
+               <sp>
+                  <speaker>FRANCISCA.</speaker>
+                  <l>How pevish—ill-natur'd! I tell you ne'er sear—</l>
+                  <l>He's quarrelsome, scolding, contancrous, severe.</l>
+               </sp>
+               <sp>
+                  <speaker>PIANO.</speaker>
+                  <l>Oh! how pleasant and lively a tender dispute!</l>
+                  <l>I like it—it's sprightly—my temper 'twill suit.</l>
+                  <l>I'm not to be frighten'd.</l>
+               </sp>
+               <sp>
+                  <speaker>LUCIO.</speaker>
+                  <p>Stay 'till wedlock you've try'd</p>
+               </sp>
+               <sp>
+                  <speaker>FRANCISCA.</speaker>
+                  <p>Yet he sees its worst daugers.</p>
+               </sp>
+               <sp>
+                  <pb n="10" facs="8"/>
+                  <speaker>LUCIO.</speaker>
+                  <p>That can't be denied.</p>
+               </sp>
+               <sp>
+                  <speaker>MARINETTA.</speaker>
+                  <l>I've been wand'ring far and near,</l>
+                  <l>Rambling, roving, all around.</l>
+               </sp>
+               <sp>
+                  <speaker>PIANO.</speaker>
+                  <l>Welcome home, my pretty Dear,</l>
+                  <l>Here at last thy true love's found.</l>
+               </sp>
+               <sp>
+                  <speaker>LUCIO.</speaker>
+                  <p>What a Lover?</p>
+               </sp>
+               <sp>
+                  <speaker>FRANCISCA.</speaker>
+                  <p>Rich and old!</p>
+               </sp>
+               <sp>
+                  <speaker>PIANO.</speaker>
+                  <p>My heart's on fire!</p>
+               </sp>
+               <sp>
+                  <speaker>MARINETTA.</speaker>
+                  <p>Mine is cold.</p>
+               </sp>
+               <sp>
+                  <speaker>FRANCISCA.</speaker>
+                  <p>He has gold, my girl.</p>
+               </sp>
+               <sp>
+                  <pb n="11" facs="9"/>
+                  <speaker>LUCIO.</speaker>
+                  <p>And silver hair.</p>
+               </sp>
+               <sp>
+                  <speaker>FRANCISCA.</speaker>
+                  <p>A handsome house.</p>
+               </sp>
+               <sp>
+                  <speaker>LUCIO.</speaker>
+                  <p>With a graceful air.</p>
+               </sp>
+               <sp>
+                  <speaker>FRANCISCA.</speaker>
+                  <p>You'll be his lady.</p>
+               </sp>
+               <sp>
+                  <speaker>LUCIO.</speaker>
+                  <p>You'll be his nurse.</p>
+               </sp>
+               <sp>
+                  <speaker>FRANCISCA.</speaker>
+                  <p>Oh what a blessing!</p>
+               </sp>
+               <sp>
+                  <speaker>LUCIO.</speaker>
+                  <p>Oh! what a curse!</p>
+               </sp>
+               <sp>
+                  <speaker>FRANCISCA.</speaker>
+                  <p>Take him for better.</p>
+               </sp>
+               <sp>
+                  <pb n="12" facs="10"/>
+                  <speaker>LUCIO.</speaker>
+                  <p>Take him for worse.</p>
+               </sp>
+               <sp>
+                  <speaker>MARINETTA.</speaker>
+                  <l>'Tis prudent advice —you are right—you are just,</l>
+                  <l>Thy counsel I'll follow—thy wisdom I'll trust.</l>
+               </sp>
+               <sp>
+                  <speaker>FRANCISCA.</speaker>
+                  <p>—Right.</p>
+               </sp>
+               <sp>
+                  <speaker>LUCIO.</speaker>
+                  <p>True.</p>
+               </sp>
+               <sp>
+                  <speaker>MARRINETTA.</speaker>
+                  <p>Yes, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>PIANO.</speaker>
+                  <l>Pretty s<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>ul, trust to me,</l>
+                  <l>Trust to me, trust to me, trust to me, trust to me.</l>
+               </sp>
+               <sp>
+                  <speaker>ALL.</speaker>
+                  <l>The heart in its choice shou'd for ever be free.</l>
+               </sp>
+            </div>
+         </div>
+         <div n="2" type="act">
+            <pb n="13" facs="11"/>
+            <head>ACT II.</head>
+            <div type="air">
+               <head>AIR by Miss PHILLIPS.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>Ah! think me not unfeeling Love;</l>
+                  <l>If still from thee I hide each pain,</l>
+                  <l>'Tis but that thou may'st better prove</l>
+                  <l>The fancied peace I strive to feign.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>I would not have thy generous breast</l>
+                  <l>Pierc'd with a pang beyond its own;</l>
+                  <l>'Twou'd point thy griefs were mine confest</l>
+                  <l>Ah! leave me then to weep alone.</l>
+               </lg>
+            </div>
+            <div type="air">
+               <head>
+                  <pb n="14" facs="12"/>AIR by Miss PHILLIPS.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>The gentle primrose of the vale,</l>
+                  <l>Whose tender bloom rude winds assail,</l>
+                  <l>Droops its meek leaves, and scarce sustains</l>
+                  <l>The night's chill snow and beating rains.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>'Tis past—the morn returns—sweet spring</l>
+                  <l>Is come—and hills and valleys sing—</l>
+                  <l>But low the gentle Primrose lies;</l>
+                  <l>No more to bloom, no more to rise!</l>
+               </lg>
+            </div>
+            <div type="duet">
+               <head>DUET By Miss PHILLIPS and Mr. DUBELLAMY.</head>
+               <sp>
+                  <speaker>MELVILLE.</speaker>
+                  <l>"Still, ah! still in accents sweet,</l>
+                  <l>"The soft vows of Truth repeat;</l>
+                  <l>"Breathe, that gentlest balm of care,</l>
+                  <l>"Sighs that sooth the griefs they share.</l>
+               </sp>
+               <sp>
+                  <speaker>EMILY.</speaker>
+                  <l>"Let thy own fond heart reveal,</l>
+                  <l>"All that equal love can seel:</l>
+                  <l>"Let each hope, each fear it knows,</l>
+                  <l>"My responsive cares disclose.</l>
+               </sp>
+               <sp>
+                  <pb n="15" facs="13"/>
+                  <speaker>BOTH.</speaker>
+                  <l>"O mutual Love, thy gentle smile</l>
+                  <l>"Can Fortune's rudest frown beguile;</l>
+                  <l>"Ev'n parting sighs with thee delight;</l>
+                  <l>"Sweet are the sorrows that unite."</l>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>DIALOGUE SONG.</head>
+               <sp>
+                  <speaker>CHARLES.</speaker>
+                  <l>Hence with dull intruding sorrow,</l>
+                  <l>Hence with Wisdom's cold delay;</l>
+                  <l>They alone should dread to-morrow,</l>
+                  <l>Who want Love to bless to-day.</l>
+               </sp>
+               <sp>
+                  <speaker>MARINETTA.</speaker>
+                  <l>Yes, too swiftly passes Pleasure,</l>
+                  <l>Not to seize her fleeting joy,</l>
+                  <l>But, to guard so dear a treasure,</l>
+                  <l>Let not Doubt the bliss destroy.</l>
+               </sp>
+               <sp>
+                  <speaker>CHARLES.</speaker>
+                  <l>Chide no more the jealous lover,</l>
+                  <l>With fond hopes and fears possess'd;</l>
+                  <l>They who tenderest griefs discover,</l>
+                  <l>Tenderest pleasure cherish best.</l>
+               </sp>
+               <sp>
+                  <pb n="16" facs="14"/>
+                  <speaker>MARINETTA.</speaker>
+                  <l>Let not wayward fancy joining,</l>
+                  <l>Strive our fondness to improve,</l>
+                  <l>Leave to Grandeur's vain refining,</l>
+                  <l>All that Nature trusts to love.</l>
+               </sp>
+               <sp>
+                  <speaker>CHARLES.</speaker>
+                  <l>Meet me thus with chearful smiles,</l>
+                  <l>Meet me thus, we'll ne'er repine.</l>
+               </sp>
+               <sp>
+                  <speaker>MARINETTA.</speaker>
+                  <l>The frowns of Fortune, Love beguiles.</l>
+                  <l>Love, that dreads no frown but thine.</l>
+               </sp>
+            </div>
+            <div type="air">
+               <head>AIR by Mr. PARSONS.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>This is a Petit-maitre's day—</l>
+                  <l>Awake at noon,</l>
+                  <l>Or scarce so soon,</l>
+                  <l>See him to his sofa creep,</l>
+                  <l>Sipping his tea—half-asleep—</l>
+                  <l>Curse the vapours!</l>
+                  <l>Reach the papers—</l>
+                  <l>What's the opera?—Dem the play.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="17" facs="15"/>
+                  <head>II.</head>
+                  <l>Air my boots, I think I'll ride—</l>
+                  <l>Tho' rot it, no!</l>
+                  <l>It shakes one so—</l>
+                  <l>Let them bring the vis-a-vis:</l>
+                  <l>Lounging there, his Lordship see,</l>
+                  <l>With vacant air,</l>
+                  <l>And sullen stare,</l>
+                  <l>Born of dullness, rais'd by pride!</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>Stop at Betty's!—What's the news?—</l>
+                  <l>A battle they say—</l>
+                  <l>Have you pines to-day?—</l>
+                  <l>Yes, my Lord—We've beat the Dutch.</l>
+                  <l>Ha—some ice—I thought as much:</l>
+                  <l>What, and nothing more?</l>
+                  <l>That's a monstrous bore!—</l>
+                  <l>Well, drive to Issachar the Jews.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>Last at Brookes's—deep at play;</l>
+                  <l>Issachar's debt,</l>
+                  <l>At Faro set,</l>
+                  <l>Win or lose, serenely sad,</l>
+                  <l>Calm he sits, nor vex'd, nor glad;</l>
+                  <l>'Till half alive,</l>
+                  <l>He <hi>cuts</hi> at five—</l>
+                  <l>
+                     <hi>This</hi> is a Petit-maitre's day.</l>
+               </lg>
+            </div>
+            <div type="air">
+               <head>
+                  <pb n="18" facs="16"/>AIR by Mrs. WRIGHTEN.</head>
+               <lg>
+                  <l>What a Lover is he that has nothing to give,</l>
+                  <l>But a look, and a vow, and a sigh!</l>
+                  <l>Silly maid, take my word, you should know how to live,</l>
+                  <l>Before you're so ready to die.</l>
+               </lg>
+               <lg>
+                  <l>How stupid a pair are the Bridegroom and Bride,</l>
+                  <l>Who wed but for cooing and billing;</l>
+                  <l>Oh, how dull will they be, as they sit side by side,</l>
+                  <l>If it happens they're not worth a shilling.</l>
+               </lg>
+               <lg>
+                  <l>At first, by good luck, every hour of the day,</l>
+                  <l>'Tis my darling, my soul's dearest pleasure;</l>
+                  <l>But at last, says the wife, I want money to pay,</l>
+                  <l>Come, give it, my heart's richest treasure!</l>
+               </lg>
+               <lg>
+                  <l>"But I have it not, sweeting!"—This theme may breed strife—</l>
+                  <l>"Come let us be cooing and billing"—</l>
+                  <l>Go, barbarous Husband—Go, termagant Wise—</l>
+                  <l>So it happens when not worth a shilling.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>TRIO and CHORUS. By Miss PHILLIPS, Mr. DUBELLAMY, Mr. WILLIAMS, &amp;c.</head>
+               <sp>
+                  <speaker>VALENTIO.</speaker>
+                  <l>Now, when bashful day-light's gone,</l>
+                  <l>And night that hides a blush comes on,</l>
+                  <l>With tender awe that dreads those eyes,</l>
+                  <l>Thy secret lover breathes his sighs.</l>
+               </sp>
+               <sp>
+                  <pb n="19" facs="17"/>
+                  <speaker>MELVIL.</speaker>
+                  <l>Not for the gloom her shades impart,</l>
+                  <l>Does Evening glad my faithful heart,</l>
+                  <l>But that her still and gentle air</l>
+                  <l>May waft each sigh our bosoms share.</l>
+               </sp>
+               <sp>
+                  <speaker>EMILY.</speaker>
+                  <l>Welcome that well-known voice</l>
+                  <l>That sings of love and truth.</l>
+               </sp>
+               <sp>
+                  <speaker>VALENTIO.</speaker>
+                  <p>Another claims thy choice.</p>
+               </sp>
+               <sp>
+                  <speaker>EMILY.</speaker>
+                  <p>'Tis vain, mistaken youth.</p>
+               </sp>
+               <sp>
+                  <speaker>VALENTIO.</speaker>
+                  <p>Love is sportive, fond of wiles.</p>
+               </sp>
+               <sp>
+                  <speaker>MELVIL.</speaker>
+                  <p>Yet on faithful ardour smiles.</p>
+               </sp>
+               <sp>
+                  <speaker>VALENTIO.</speaker>
+                  <p>Love rewards the boldest swain.</p>
+               </sp>
+               <sp>
+                  <pb n="20" facs="18"/>
+                  <speaker>EMILY.</speaker>
+                  <p>Not with joy that others pain.</p>
+               </sp>
+               <sp>
+                  <speaker>VALENTIO.</speaker>
+                  <l>Fly swiftly, ye hours—fly swiftly away.</l>
+                  <l>'Till the tender delusions confess'd.</l>
+               </sp>
+               <sp>
+                  <speaker>MELVIL.</speaker>
+                  <l>Fly swiftly, ye hours—fly swiftly away,</l>
+                  <l>'Till truth with fond rapture is blest.</l>
+               </sp>
+            </div>
+         </div>
+         <div n="3" type="act">
+            <pb n="21" facs="19"/>
+            <head>ACT III.</head>
+            <div type="air">
+               <head>AIR by Mrs. CARGILL.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>Young Lubin was a shepherd boy,</l>
+                  <l>Fair Rosalie a rustic maid;</l>
+                  <l>They met, they lov'd; each others joy,</l>
+                  <l>Together o'er the hills they stray'd.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Their parents saw, and bless'd their love,</l>
+                  <l>Nor wou'd their happiness delay;</l>
+                  <l>To-morrow's dawn their bliss should prove,</l>
+                  <l>To-morrow be their wedding-day.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="22" facs="20"/>
+                  <head>III.</head>
+                  <l>When as at eve, beside the brook,</l>
+                  <l>Where stray'd their flocks, they sat and smil'd,</l>
+                  <l>One luckless lamb the current took,</l>
+                  <l>'Twas Rosalie's—she started wild.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>Run, Lubin, run, my fav'rite save;</l>
+                  <l>Too fatally the youth obey'd:</l>
+                  <l>He ran, he plung'd into the wave,</l>
+                  <l>To give the little wanderer aid.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>But scarce he guides him to the shore,</l>
+                  <l>When faint and sunk, poor Lubin dies:</l>
+                  <l>Ah Rosalie! for ever more,</l>
+                  <l>In his cold grave thy Lover lies.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>On that lone bank—Oh! still be seen,</l>
+                  <l>Faithful to grief, thou hapless maid;</l>
+                  <l>And with sad wreaths of cypress green,</l>
+                  <l>For ever sooth thy Lubin's shade.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>
+                  <pb n="23" facs="21"/>TRIO. By Mrs. CARGILL, Mr. DODD, and Mr. BANNISTER.</head>
+               <sp>
+                  <speaker>CHARLES.</speaker>
+                  <l>Merrily pass the hours of youth,</l>
+                  <l>Blest with joys unceasing;</l>
+                  <l>The heart is light that honours truth,</l>
+                  <l>Where love is still increasing.</l>
+               </sp>
+               <sp>
+                  <speaker>MARINETTA.</speaker>
+                  <l>To distant shores tho' Love invite,</l>
+                  <l>We oft' shall think of you,</l>
+                  <l>And still, to win life's true delight,</l>
+                  <l>Thy chearful words renew.</l>
+                  <l>Merrily, &amp;c.</l>
+               </sp>
+               <sp>
+                  <speaker>LUCIO.</speaker>
+                  <l>Each sweetest joy of love be your's,</l>
+                  <l>Of faithful love, its own reward,</l>
+                  <l>And all that bliss, which most endures,</l>
+                  <l>When most its generous vows you guard.</l>
+               </sp>
+            </div>
+            <div type="air">
+               <head>AIR by Mr. SUETT.</head>
+               <lg>
+                  <l>O! the little God of Love is a roguish Elf!</l>
+                  <l>He makes us all as childish and blind as himself!</l>
+                  <l>'Gainst sixty-two,</l>
+                  <l>O luckless lot!</l>
+                  <l>His bow he drew,</l>
+                  <l>At me he shot.</l>
+                  <l>
+                     <pb n="24" facs="22"/>Twang went the string,</l>
+                  <l>Whizz flew the dart,</l>
+                  <l>On a grey goose wing,</l>
+                  <l>To an old man's heart.</l>
+               </lg>
+               <lg>
+                  <l>But I'll be merry,</l>
+                  <l>Hey down derry;</l>
+                  <l>Dull sorrow I'll drown,</l>
+                  <l>Derry down down,</l>
+                  <l>Or laugh at them all,</l>
+                  <l>Tol de rol lol.</l>
+               </lg>
+            </div>
+            <div type="air">
+               <head>AIR by Mrs. WRIGHTEN.</head>
+               <lg>
+                  <l>O! never be one of those sad silly fellows,</l>
+                  <l>Who always are snappish, suspicious, and jealous,</l>
+                  <l>Who live but to doubt,</l>
+                  <l>To pine and to pout,</l>
+                  <l>To take one to task,</l>
+                  <l>Examine, and ask</l>
+                  <l>A hundred cross questions, to pick something out.</l>
+                  <l>O! never, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>If by chance he shou'd come,</l>
+                  <l>And not find her at home,</l>
+                  <l>'Tis, "Madam, why so late?</l>
+                  <l>"Where the Devil cou'd you wait?</l>
+                  <l>"What's been done? what's been said?</l>
+                  <l>"Zounds! I feel it on my head."</l>
+                  <l>O! never, &amp;c.</l>
+               </lg>
+            </div>
+            <div type="air">
+               <head>
+                  <pb n="25" facs="23"/>AIR by Miss PHILLIPS.</head>
+               <l>Lost in the brightness of returning joys,</l>
+               <l>Each grief recedes, each sorrow fades away,</l>
+               <l>As open into smiles the darken'd skies</l>
+               <l>Before the rosy promise of the day.</l>
+            </div>
+            <div type="song">
+               <head>(CARNIVAL MUSIC.)</head>
+               <stage>TRIO of PEASANTS.</stage>
+               <l>What joy, from rustic toils at rest,</l>
+               <l>Thus the Peasant's heart to chear!</l>
+               <l>What joy, with varying pleasures blest,</l>
+               <l>Thus to crown the circling year!</l>
+            </div>
+            <div type="air">
+               <head>AIR.</head>
+               <l>Lords and ladies, lads and lasses,</l>
+               <l>Gayly now each moment passes.</l>
+               <l>'Tis Carnival!</l>
+               <l>'Tis Carnival!</l>
+               <l>The merry hours are glad and gay,</l>
+               <l>Laugh and frolic, sport and play.</l>
+            </div>
+            <div type="dialogue">
+               <pb n="26" facs="24"/>
+               <head>DIALOGUE.</head>
+               <sp>
+                  <speaker>First Shewman.</speaker>
+                  <l>My masters—here's the lion great,</l>
+                  <l>The pride of all creation;</l>
+               </sp>
+               <sp>
+                  <speaker>Second.</speaker>
+                  <l>And here the dwarf and giant wait,</l>
+                  <l>The wonder of the nation.</l>
+               </sp>
+               <sp>
+                  <speaker>Mountebank.</speaker>
+                  <l>But here's the doctor, lord of fate,</l>
+                  <l>Stands first in reputation.</l>
+               </sp>
+               <sp>
+                  <speaker>First Shewman.</speaker>
+                  <p>He's a quack.</p>
+               </sp>
+               <sp>
+                  <speaker>Second.</speaker>
+                  <p>Drive him back.</p>
+               </sp>
+               <sp>
+                  <speaker>Mountebank.</speaker>
+                  <p>Envious rogues, you fear me.</p>
+               </sp>
+               <sp>
+                  <speaker>First Shewman.</speaker>
+                  <p>Best be civil.</p>
+               </sp>
+               <sp>
+                  <pb n="27" facs="25"/>
+                  <speaker>Second.</speaker>
+                  <p>Why? the Devil!</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>Let the people hear me.</p>
+               </sp>
+            </div>
+            <div type="chorus">
+               <head>CHORUS.</head>
+               <l>Now with song and dance rejoice,</l>
+               <l>All be mirth and gay delight;</l>
+               <l>Every heart and every voice</l>
+               <l>Join to greet the festive night.</l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

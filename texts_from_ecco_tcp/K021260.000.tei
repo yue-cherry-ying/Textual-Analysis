@@ -1,0 +1,1172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amelia: A musical entertainment of two acts. As it is performed at the Theatre Royal in Covent-Garden.</title>
+            <author>Cumberland, Richard, 1732-1811.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K021260.000</idno>
+            <idno type="docno">CW3306674759</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Amelia: A musical entertainment of two acts. As it is performed at the Theatre Royal in Covent-Garden.</title>
+                  <author>Cumberland, Richard, 1732-1811.</author>
+               </titleStmt>
+               <extent>30p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Dodsley; and W. Johnston,</publisher>
+                  <date>1768.</date>
+                  <idno type="TCP">K021260.000</idno>
+                  <idno type="docno">CW3306674759</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Richard Cumberland.</note>
+                  <note>Altered and abridged by the author from his comedy 'The Summer's Tale'.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT2088.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>AMELIA. A MUSICAL ENTERTAINMENT Of TWO ACTS. As it is Performed at the Theatre Royal in COVENT-GARDEN.</p>
+            <q>Vox et praeterea Nihil.</q>
+            <p>LONDON: Printed for J. DODSLEY, in Pall-Mall; and W. JOHNSTON, in Ludgate-Street. MDCCLXVIII.</p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="2"/>
+            <head>PERSONS Represented.</head>
+            <list>
+               <head>MEN.</head>
+               <label>Sir ANTONY WITHERS, Father to FREDERICK,</label>
+               <item>Mr. SHUTER.</item>
+               <label>FREDERICK,</label>
+               <item>Mr. MATTOCKS.</item>
+               <label>PETER, Sir ANTONY's Man,</label>
+               <item>Mr. MORGAN.</item>
+               <label>HENRY, a Country Youth,</label>
+               <item>Mr. DYER.</item>
+            </list>
+            <list>
+               <head>WOMEN.</head>
+               <label>AMELIA, disguised as CLARA,</label>
+               <item>Mrs. MATTOCKS.</item>
+               <label>OLIVIA, a Relation of Sir ANTONY's,</label>
+               <item>Mrs. VINCENT.</item>
+            </list>
+            <list>
+               <item>Domesticks of Sir ANTONY, Peasants, Reapers, &amp;c.</item>
+            </list>
+            <stage>SCENE, Sir ANTONY WITHERS's House, Garden, and the Country adjacent.</stage>
+            <stage>Time, One Day.</stage>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="act">
+            <pb facs="3"/>
+            <head>ACT I.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>A Garden.</stage>
+               <stage>Enter CLARA and HENRY.</stage>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>DO, good Henry, take my Cloak and Pattens, and wait for me at the Garden Gate; we shall very likely meet the old Knight again in our Way to the House; and I know he won't be pleased with seeing thee in the Garden.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Let him chuse; so long as I can be of any Service to you, I don't mind his huffing.</p>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>Thank you, Henry, but there can be no sort of Danger.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>The Yard Dog may frighten you; and if I was by, I should be apt to give him a Flick for all his Worship.</p>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>No, no; he's always tied up in the Day-time, and you know there are no other Dogs belonging to the House, but little Shock, and he has got no Teeth.</p>
+               </sp>
+               <sp>
+                  <pb n="4" facs="4"/>
+                  <speaker>HENRY.</speaker>
+                  <p>Well, I should be sorry to have any thing happen, and I not at hand to assist you.—But I won't be trouble<lb rend="hidden" type="hyphenInWord"/>some; I hope I know better than so.—I'll take your Things then with me, and stay at the Gate we came in at.</p>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>Do so, my Lad; I'll soon return.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Oh! as for the Matter of that, use your Pleasure; I don't think much of my time; I can't spend it better than in serving you.</p>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR I.</head>
+                           <byline>[Riccini.]</byline>
+                           <l>Ah! take my Pity, gentle Youth,</l>
+                           <l>'Tis all, alas! I can bestow:</l>
+                           <l>I own thy Constancy and Truth,</l>
+                           <l>But Heaven can only heal thy Woe.</l>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>Sir <hi>Anthony</hi> calls to <hi>Clara</hi> as she is going out.</stage>
+               <sp>
+                  <p>Hist! Clara, Mrs. Clara! Hem! Whither away so fast, pretty Maid?</p>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>Oh! Sir Antony, I beg Pardon, I was stepping to the House to enquire for Mrs. Olivia, who I under<lb rend="hidden" type="hyphenInWord"/>stand is there.</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Well, well, Mrs. Olivia won't be gone, and I shou'd be glad to speak a few Words to thee, that's all.</p>
+               </sp>
+               <sp>
+                  <pb n="5" facs="5"/>
+                  <speaker>CLARA.</speaker>
+                  <p>What are your Commands, pray Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>I don't know what to say!—Why do you look so grave, Child? How do the good People, where you board, behave to you? I hope my Tenant Farmer Greygoose and his Family do their best to please you; I shou'd be much offended with them if they did not.</p>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>Oh! Sir, they are the best Folks in the World, and the most obliging.</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>I hope you have recovered the Accident that has con<lb rend="hidden" type="hyphenInWord"/>fined you in these Parts; the Hurt that you received by the Fall from your Horse, I mean—(Ceremony upon these Occasions is nothing more than a civil Excuse for not being rude.)
+<stage>[Aside.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>Perfectly, I thank you, Sir Antony; insomuch that I think of taking leave of the Farmer this very Day.</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Marry Heaven forbid it! You wou'd not leave us, Clara; you must not—Stay, stay!—I have some<lb rend="hidden" type="hyphenInWord"/>thing to say to you—Odslids! what am I going to do?—Why I was thinking—Gadsbud! sure I am run<lb rend="hidden" type="hyphenInWord"/>ning mad.</p>
+                  <q>
+                     <pb n="6" facs="6"/>
+                     <floatingText>
+                        <body>
+                           <head>AIR II.</head>
+                           <byline>[Potenza.]</byline>
+                           <l>My Passion confounds me,</l>
+                           <l>Such Beauty surrounds me,</l>
+                           <l>Such numberless Charms:</l>
+                           <l>I gaze, I desire,</l>
+                           <l>My Blood is on fire,</l>
+                           <l>Oh! come to my Arms!</l>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>Alas! poor Gentleman, I am afraid you are not well: Do, dear Sir, retire to your Chamber; wrap your Head up warm; your Imagination has been greatly heat<lb rend="hidden" type="hyphenInWord"/>ed.—Shall I call any body to help you into the House, Sir?</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR III.</head>
+                           <l>O naughty naughty Garden!</l>
+                           <l>What ail'd me to come in it?</l>
+                           <l>I pray your Worship pardon,</l>
+                           <l>I must away this Minute.</l>
+                           <l>I must away:</l>
+                           <l>Farewell! good Day!</l>
+                           <l>Sir <hi>Antony,</hi> pray, excuse me:</l>
+                           <l>The more a Damsel views thee,</l>
+                           <l>The surer she'll refuse thee.</l>
+                           <l>Nay, let me pass;</l>
+                           <l>Oh fie! alas!</l>
+                           <l>You'd nearly caught a Fall, Sir:</l>
+                           <l>Good lack! if this be all, Sir,</l>
+                           <l>I'll be within your Call, Sir.</l>
+                           <stage>[Exit.</stage>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <sp>
+                  <pb n="7" facs="7"/>
+                  <speaker>SIR ANTONY <hi>alone.</hi>
+                  </speaker>
+                  <p>Well, go thy ways for this Time.—What a twitter has this put me into, and all to no purpose!—I did not think she cou'd have resisted me; but, all things consider'd, perhaps, 'tis better as it is; since 'tis more than probable, I might have found it easier to conquer her Scruples, than my own.</p>
+                  <stage>[Exit.</stage>
+               </sp>
+            </div>
+            <div n="3" type="scene">
+               <head>SCENE III.</head>
+               <stage>An Apartment in Sir ANTONY'S House.</stage>
+               <stage>Enter OLIVIA, meeting CLARA.</stage>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>Madam, shall I entreat your Patience for a few Minutes?—</p>
+               </sp>
+               <sp>
+                  <speaker>OLIVIA.</speaker>
+                  <p>Most readily, Child: what are your Commands?</p>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>I am an unhappy Woman; and as such have a Claim to your Compassion.</p>
+               </sp>
+               <sp>
+                  <speaker>OLIVIA.</speaker>
+                  <p>I have conceived a very good Opinion of you, Clara, and am sincerely sorry for any Misfortune that may have happened to you. I hope the Hurt that you re<lb rend="hidden" type="hyphenInWord"/>ceived by your Fall has had no worse Effects than you at first apprehended.</p>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>Alas! Madam, my Injuries are of a different Na<lb rend="hidden" type="hyphenInWord"/>ture. The Fall that I feigned to have receiv'd from my Horse, as I was travelling homewards, was no<lb rend="hidden" type="hyphenInWord"/>thing more than a contrived Excuse for concealing my<lb rend="hidden" type="hyphenInWord"/>self in these Parts. In short, Madam, I am not what I seem.</p>
+               </sp>
+               <sp>
+                  <pb n="8" facs="8"/>
+                  <speaker>OLIVIA.</speaker>
+                  <p>That I have long suspected, tho' I forbore to be in<lb rend="hidden" type="hyphenInWord"/>quisitive.</p>
+               </sp>
+               <sp>
+                  <speaker>CLARA.</speaker>
+                  <p>You must know then, Madam, that I am a Woman of good Birth and considerable Fortune; my Name Amelia, the Daughter of Sir William Hartley. Perse<lb rend="hidden" type="hyphenInWord"/>cuted by my Family, who wou'd have driven me into the Arms of a Man, who is my mortal Aversion, I have taken Refuge here, under the Disguise that you now see me wear.</p>
+               </sp>
+               <sp>
+                  <speaker>OLIVIA.</speaker>
+                  <p>Really, Miss Hartley, your Distresses affect me, and I think you justified in the Step you have taken. Give me leave to ask you what Preference directed you to this Neighbourhood?</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Alas! Madam, your Question is a natural one, but the severest that can be asked me. What Preference directed me hither? it was a Passion so deeply rooted in my Heart, that no Time, no Injury can displace it. 'Twas Love.—How shall I excuse it to you?—Unhap<lb rend="hidden" type="hyphenInWord"/>py, disappointed Love.—O Frederick, Frederick! dear false forgetful Youth!</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR IV.</head>
+                           <byline>[Russell.]</byline>
+                           <lg>
+                              <l>While on Earth's soft Lap descending</l>
+                              <l>Lightly falls the feather'd Snow;</l>
+                              <l>Nature awefully attending</l>
+                              <l>Each rude Wind forbids to blow.</l>
+                           </lg>
+                           <lg>
+                              <l>White and pure awhile appearing,</l>
+                              <l>Earth her Virgin Mantle wears;</l>
+                              <l>Soon the fickle Season veering,</l>
+                              <l>Her deluded Bosom bares.</l>
+                           </lg>
+                           <lg>
+                              <pb n="9" facs="9"/>
+                              <l>Thus my foolish Heart believing,</l>
+                              <l>Listen'd to his artful Tongue;</l>
+                              <l>All his Vows of Love receiving,</l>
+                              <l>On each flattering Accent hung.</l>
+                           </lg>
+                           <lg>
+                              <l>Fondly for a Time mistaken</l>
+                              <l>Love and Joy conceal'd my Fate;</l>
+                              <l>Now alas! at length forsaken,</l>
+                              <l>Sad Experience comes too late.</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>OLIVIA.</speaker>
+                  <p>What do I hear? Was Frederick, was young Withers thus ingrateful, thus insensible? Let me hope, Amelia, there is some Misapprehension in this Matter: I know his Intimacy with your Brother, and that he made him a Visit this Summer of some Continuance.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>It was then, Madam, that my poor Bosom lost that peaceful Indifference it had ever before enjoyed. My Family were then in Treaty with the Person I men<lb rend="hidden" type="hyphenInWord"/>tioned to you before: intoxicated with his extravagant Offers, they omitted no Measures to engage me to ac<lb rend="hidden" type="hyphenInWord"/>cept his Addresses; nay they were desperate enough to employ Frederick to solicit me: but alas! their Advocate ruined their Cause; my Heart first con¦ceived a Distaste to Lord Wealthy, and the Interposi<lb rend="hidden" type="hyphenInWord"/>tion of young Withers confirm'd me in my Aversion.</p>
+               </sp>
+               <sp>
+                  <speaker>OLIVIA.</speaker>
+                  <p>But did Frederick betray his Commission by turning it to his own Advantage?</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>I cannot charge him with that Dishonour; therein I must condemn myself: it was my own fond un<lb rend="hidden" type="hyphenInWord"/>guarded
+<pb n="10" facs="10"/>
+Heart that told him too plainly what it felt; till one fatal Moment my Father surpriz'd him kneel<lb rend="hidden" type="hyphenInWord"/>ing at my Feet, and the next transported him from my Sight for ever.</p>
+               </sp>
+               <sp>
+                  <speaker>OLIVIA.</speaker>
+                  <p>Your Relation, my dear Amelia, is truly pitiable; but as you know not what Motives Frederick had for so abruptly leaving you, so I think you cannot positively charge him with Infidelity.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Dear Madam, how kindly you console me! I own to you I have some Hopes that Frederick still remembers me, and still loves me: those Hopes conducted me hither; I find he is this Day expected home; this Event and Sir Antony's ridiculous Assiduities make it no longer possible for me to conceal myself at his Te<lb rend="hidden" type="hyphenInWord"/>nant's. I must therefore retire till by some means I can discover the real State of Frederick's Heart. What I have to entreat of you, Madam, is, for a short Time to afford me the Protection of your House.</p>
+               </sp>
+               <sp>
+                  <speaker>OLIVIA.</speaker>
+                  <p>Most gladly, my dear, let us betake ourselves thither this Instant, before he comes and surprizes you. Come, my Chariot is now at the Door.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Permit me, Madam, to step as far as the Garden Gate, and excuse myself to the young Farmer, who is waiting for me there with my Cloak: I'll make haste and attend you.</p>
+               </sp>
+               <sp>
+                  <speaker>OLIVIA.</speaker>
+                  <p>At your own Time.</p>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <pb n="11" facs="11"/>
+               <head>SCENE IV.</head>
+               <stage>The Outside of Sir ANTONY'S Garden: HENRY is dis<lb rend="hidden" type="hyphenInWord"/>cover'd sitting and composing a Garland of Flowers; he rises.</stage>
+               <sp>
+                  <p>I have made free with some of his Worship's Flowers; there is no Robbery in that I trust. She stays a long while methinks! sure no Accident has betided her! I am fit to think his old Honour does not bear an honest Mind towards her; he is always hankering about our House, and I am sure, before Mrs. Clara was with us, he never us'd to come to Father's, except upon Rent-day. I don't know what ails me; I am not half the Lad I was awhile ago; I neither eat, nor sleep, nor work as I us'd to do; and as for Wakes and Pastimes and such like, lackaday! I have no longer any Heart for them, or any thing else.</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR V.</head>
+                           <byline>[Lampe.]</byline>
+                           <l>Why heaves my Breast with frequent Sighs?</l>
+                           <l>Whence rises this soft Perturbation?</l>
+                           <l>In vain my Heart each Effort tries</l>
+                           <l>To combat its fond Inclination.</l>
+                           <l>How helpless am I!</l>
+                           <l>Where shall I fly?</l>
+                           <l>Where shall poor <hi>Henry</hi> for Succour apply?</l>
+                           <l>So fixt is the Dart,</l>
+                           <l>Too feeble my Art</l>
+                           <l>To assuage the unspeakable Smart.</l>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <stage>
+                  <pb n="12" facs="12"/>AMELIA enters.</stage>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Oh! ifackins! I am glad you are come, Mrs. Clara: Look here; I have been plaiting a Garland for you to wear at the Harvest-Home to-night, if you are so mind<lb rend="hidden" type="hyphenInWord"/>ed to accept it.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Thank thee, Henry; I'll wear it for thy sake.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>That's kind now.—But come, will you be walking homewards: Father and Mother will wonder what's be<lb rend="hidden" type="hyphenInWord"/>come of us.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Alas! Henry, I came to bid you farewel. Some Reasons which I can't explain to you, oblige me to take a hasty Leave of your Father and Mother, and depart this Night. Well, Henry, give me my Things.—Commend me kindly to the good Folks; tell them I'll call in the Evening, and settle Matters with them to their Satisfaction:—as for thee, my good Lad, I desire you will accept this Purse; I hope it will compensate for the Trouble I have given thee, and the Ill-will thou hast got from thy Landlord on my Account.—Why, what dost weep for, Henry?</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>My Heart's too full to tell you; and I want Under<lb rend="hidden" type="hyphenInWord"/>standing to express myself—but tho' I am a poor Lad, I scorn to be a mean one, and take Money. No, Mrs. Clara, I wou'd not touch your Purse, if it was full of Diamond-Jewels. I see you despise me by your Offer.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Far from it, Henry, believe me; nor will I press it further upon you, as I see it hurts you.</p>
+               </sp>
+               <sp>
+                  <pb n="13" facs="13"/>
+                  <speaker>HENRY.</speaker>
+                  <p>It does indeed—and not that only, but your leaving us, Mrs. Clara. I know it won't arguefy what such a simple Clown as I am can say to a Person of your Breed<lb rend="hidden" type="hyphenInWord"/>ing—but I beseech you to tell me, wherein Father or Mother, or I have offended you! If any thing's amiss, that they can remedy, they'll be proud to do it, I'll vouch for them—and as for me, If I be in Fault, I ask your Pardon heartily on my Knees.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Nothing is amiss, nothing. Kneel not to me, young Man; your Humility, your Tenderness oppresses me. Neither thou, nor thy Father, nor Mother, nor any of you have ever offended me: on the contrary, I owe you all, (especially thee, Henry) my Thanks for a thousand Services, which are ten times more valuable, as I am sure they spring from your Heart.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>'Tis enough: I submit. May Heaven protect you wherever you go?</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR VI. Duetto.</head>
+                           <byline>[Cocchi.]</byline>
+                           <sp>
+                              <speaker>Henry.</speaker>
+                              <l>And must we part for ever;</l>
+                           </sp>
+                           <sp>
+                              <speaker>Amelia.</speaker>
+                              <l>Yes we must part for ever;</l>
+                              <l>Hard Fate! such Friends to sever,</l>
+                              <l>So faithful and so true:</l>
+                              <l>Go and may Bliss betide thee!</l>
+                              <l>Each guardian Angel guide thee!</l>
+                              <l>For evermore Adieu!</l>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <stage>[Exeunt.</stage>
+            </div>
+            <trailer>End of the First Act.</trailer>
+         </div>
+         <div n="2" type="act">
+            <pb n="14" facs="14"/>
+            <head>ACT II.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>A View of the Country, with Corn Fields at a Distance, a Number of Peasants, Men, Women, and Children, as from the Harvest-field, reposing themselves on the Grass, with various Implements of Husbandry, <hi>&amp;c.</hi>
+               </stage>
+               <sp>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR VII.</head>
+                           <byline>[Arnold.]</byline>
+                           <lg>
+                              <l>Come, my Lasses, let's be gay</l>
+                              <l>On this our yearly Holiday;</l>
+                              <l>We've reap'd, we've mown, we've hous'd our Store,</l>
+                              <l>And what can Master wish for more?</l>
+                              <l>
+                                 <stage>Chor.</stage> Then freely pass the Can about,</l>
+                              <l>There's Day enough to see it out.</l>
+                           </lg>
+                           <lg>
+                              <l>See the Sun is high at Noon,</l>
+                              <l>And warns us not to part so soon;</l>
+                              <l>Time enough to think of Care,</l>
+                              <l>When dreaming Winter shall appear.</l>
+                              <l>
+                                 <stage>Chor.</stage> Then freely pass, <hi>&amp;c.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <l>Let every Swain propose his Toast,</l>
+                              <l>A Health to her he loves the most,</l>
+                              <l>Then shou'd she but kiss the cup;</l>
+                              <l>What Clown can chuse but drink it up?</l>
+                              <l>
+                                 <stage>Chor.</stage> Then freely pass, <hi>&amp;c.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <l>When Peace and Plenty crown our Isle,</l>
+                              <l>'Twere hard if Britons did not smile;</l>
+                              <l>Nature's fair Example see;</l>
+                              <l>She laughs and sings, and so shou'd we.</l>
+                              <l>
+                                 <stage>Chor.</stage> Then freely pass, <hi>&amp;c.</hi>
+                              </l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <sp>
+                  <pb n="15" facs="15"/>
+                  <speaker>FREDERICK <hi>enters to them.</hi>
+                  </speaker>
+                  <p>So, so, good People! this sounds well; Music light<lb rend="hidden" type="hyphenInWord"/>ens Labour.—Sit still, sit still—you've Work enough in hand, and Ceremony will but add to it.</p>
+               </sp>
+               <sp>
+                  <speaker>1st PEASANT.</speaker>
+                  <p>Heaven bless you, my young Master, we were drink<lb rend="hidden" type="hyphenInWord"/>ing a Can to your Health, upon your coming home; and the Sun beating so main hot in the Field yonder, we were fain to lay ourselves down under this Beechen Thic<lb rend="hidden" type="hyphenInWord"/>ket.—Margery, why dust'nt speacke to his Honour?</p>
+               </sp>
+               <sp>
+                  <speaker>MARGERY.</speaker>
+                  <p>Gad a' mercy! speacke to 'un? Why I ha' danc'd him in my Arms when he was a Babe, as poor as I am, many's the good Time.</p>
+               </sp>
+               <sp>
+                  <speaker>1st PEASANT.</speaker>
+                  <p>Ay, thee hast so—why I ha' work'd in this Field, simple as I stand here, any Time these Thirty Years, and I hope to do so Thirty Years longer, an' it please Heaven.</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>I hope thou wilt, honest Man! There is something to be merry with when your Day's Work is at an End: we must not muzzle the Ox—as the Proverb says. Happy People! how much more enviable is your Lot than mine!</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR VIII.</head>
+                           <byline>[Baildon.]</byline>
+                           <lg>
+                              <l>See yon humble rustick Swains,</l>
+                              <l>Resting from their daily Pains;</l>
+                              <l>Look how carelessly they're laid</l>
+                              <l>In the cool and fragrant Shade.</l>
+                           </lg>
+                           <lg>
+                              <pb n="16" facs="16"/>
+                              <l>What is Wealth, and Fame, and Power?</l>
+                              <l>Fleeting Pageants of an Hour:</l>
+                              <l>Blush, Ambition, blush to see</l>
+                              <l>Happiness unknown to thee.</l>
+                           </lg>
+                           <lg>
+                              <l>Soon as Phoebus streaks the Skies,</l>
+                              <l>Fresh and light as Air they rise;</l>
+                              <l>And when sinking in the West,</l>
+                              <l>Gayly sing him to his Rest.</l>
+                           </lg>
+                           <lg>
+                              <l>Boast not, Pride, thy lofty State;</l>
+                              <l>
+                                 <hi>Ah how little are the Great!</hi>
+                              </l>
+                              <l>Wretches, amidst all your Cares,</l>
+                              <l>Can you find Content like theirs?</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>PEASANTS.</speaker>
+                  <p>We humbly thank your Honour for your Bounty.</p>
+               </sp>
+               <stage>[<hi>Amelia</hi> is discovered in the Back Scene, fantastically drest out with Flowers and other wild Ornaments, and mask<lb rend="hidden" type="hyphenInWord"/>ed; she advances, discovers <hi>Frederick,</hi> starts, and goes out.]</stage>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>What have we here? A Woman mask'd! And a fair one she shou'd be.—Do any of you know who she is?</p>
+               </sp>
+               <sp>
+                  <speaker>1st PEASANT.</speaker>
+                  <p>No, Sir, no: We have seen her in and about this Grove ever since Morning-break; and we are apt to think (poor Soul) she is not in her right Mind; one or two of us 'costed her, but she was not much for talking, so we took no further 'count of her.</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>If that shou'd be the Case, the poor Wench may want some Assistance; I'll follow her and see.</p>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <pb n="17" facs="17"/>
+                  <speaker>2d PEASANT.</speaker>
+                  <p>For my peart, I'll neither meddle nor make with her; Dame is sure to lead me such a Life.</p>
+               </sp>
+               <sp>
+                  <speaker>1st PEASANT.</speaker>
+                  <p>Come, Neighbours, let's to Field; now Simon's absent I am Strokesman for to-day; nay, but come along. Let's be merry and wise, as they say; some Work, some Play; 'twill last the longer.</p>
+               </sp>
+               <sp>
+                  <stage>Chorus repeated.</stage>
+                  <l>
+                     <hi>Then freely pass, &amp;c.</hi>
+                  </l>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <head>SCENE IV.</head>
+               <stage>A more retired Part of the Grove; AMELIA enters.</stage>
+               <sp>
+                  <p>How my Heart flutters at the Sight of Frederick! He seem'd struck with my Appearance; surely he will follow me: Under this Disguise I will endeavour to discover the real State of his Heart: should my Suspicions of his Falshood prove true, this distracted Habit will then properly become my Condition. Hah! he's here.—</p>
+                  <stage>[She puts on her Mask.</stage>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>I follow'd you, Child, to know if you stood in need of any Assistance.—Who are you? and why do you wander about mask'd, and in that fantastical Habit?</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Save you, Sir, may the Sun-beam never scorch you by Day, nor the Dew-damps strike you by Night: for the Stars tell strange Tales, and, if you are false-hearted, Perjury is wrote on the Face of the Moon, and every Owl-ey'd Wizard can read it. For my own Part, I care not who sees my Face; 'tis honest, and such as Na<lb rend="hidden" type="hyphenInWord"/>ture made it; but there are Spies abroad, and therefore I go mask'd.</p>
+               </sp>
+               <sp>
+                  <pb n="18" facs="18"/>
+                  <speaker>FREDERICK.</speaker>
+                  <p>Alas! poor Wench, thy Reason is disseated. Have you no Friends in this Neighbourhood to take Care of you?</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>I had a Friend, Sir; my Soul lov'd him, and my Reason approved—but he forsook me, and I lost my Wits and my Heart together.</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>There are no Tokens of Insanity in that Expression. There is some Mystery under that Mask; I'll question her further—
+<stage>[Aside.]</stage>
+Then you have lov'd—unsuccessfully lov'd:—therein I pity you;—our Fortunes in that are alike. I myself adored the fairest of her Sex.
+<stage>[Half aside.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>The fairest did you say?—Was she indeed the fairest?</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>I thought her so.—Her Air resembled yours; her Stature much the same; and her Voice so near upon a Pitch with yours, that, when I hear you speak, methinks I am present with her.</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR IX.</head>
+                           <byline>[Bach.]</byline>
+                           <lg>
+                              <l>So profound an Impression I bear</l>
+                              <l>Of the Maid who was my fond Choice,</l>
+                              <l>Every Nymph that I see has her Air,</l>
+                              <l>Every Sound that I hear is her Voice.</l>
+                           </lg>
+                           <lg>
+                              <l>When you sigh, I can think she was true,</l>
+                              <l>When you smile, I cou'd swear she was kind,</l>
+                              <l>You give all but her Face to my View,</l>
+                              <l>And alas! I see that in my Mind.</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Is it possible she cou'd be insensible to your Passion?</p>
+               </sp>
+               <sp>
+                  <pb n="19" facs="19"/>
+                  <speaker>FREDERICK.</speaker>
+                  <p>She has forgot her Madness; I'll encourage this Ad<lb rend="hidden" type="hyphenInWord"/>venture.
+<stage>[Aside.]</stage>
+Alas! you search too deeply—regardless of her Vows, she is married, and I am abandoned and undone.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Married! did you say? Is she married?—What can he mean? Wretch that I am, I am mistaken, and he loves another.
+<stage>[Aside.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>You muse.—But whom do I speak this to, and what? Come, unmask; if your Features correspond with your Limbs, 'tis cruel to conceal them. <stage>[Attempts to unmask her.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Not for the World, I beseech you.—Suffer me to ask one Question more for Curiosity's Sake: What was your Mistress's Name?</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>Prithee, Child, (for I speak to thee now as a rational Creature) what Motive can'st thou have for asking me that Question?</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>No ill one, believe me; yet I confess I am desirous to have it resolved.</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>Sure I have not made a Conquest of this poor Wench's Heart without knowing it; her Enquiries wou'd almost lead me to suspect it.
+<stage>[Aside.]</stage>
+Well, I know no Reason there is for concealing my Mistress's Name, since she is now another's:—It was Amelia Hartley.—You are now possess'd of my Story; which I know not how you have drawn from me. I must now leave you; if you have any Afflictions, I sincerely compassionate you, but In<lb rend="hidden" type="hyphenInWord"/>sanity I hope is not amongst them. There is my Purse; much may it comfort you! so farewel!—</p>
+               </sp>
+               <sp>
+                  <pb n="20" facs="20"/>
+                  <speaker>AMELIA.</speaker>
+                  <p>Hold Sir! Your Liberality is truly amiable, but I need it not; take your Purse; and if you are not afraid to give me the Meeting between the Hours of nine and ten in the Evening, I may perhaps communicate to you some Tidings, that will both surprize and please you.</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>Between the Hours of nine and ten this Evening?—</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Precisely.—</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>I will not fail to meet you: Farewel.</p>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR X.</head>
+                           <byline>[Hasse.]</byline>
+                           <l>Now once again the sportive Train</l>
+                           <l>Awakes to sprightly Measures,</l>
+                           <l>Gay Hope succeeds, and with her leads</l>
+                           <l>A Train of smiling Pleasures.</l>
+                           <l>See where the torturing Furies fly,</l>
+                           <l>Pale Grief, Despair and Jealousy,</l>
+                           <l>Of meagre Cares the ghastly Family.</l>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+            </div>
+            <div n="3" type="scene">
+               <head>SCENE III.</head>
+               <stage>HENRY discovers himself.</stage>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Don't be frighten'd, Mrs. Clara; 'tis I; 'tis a Friend.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Henry!—What makes thee here?</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Thank Heaven she's not so far gone, but what she knows me.—(I beg pardon, Mrs. Clara, for my Bold<lb rend="hidden" type="hyphenInWord"/>ness)—How she stares!—Alas my Heart bleeds for
+<pb n="21" facs="21"/>
+her! Do be persuaded to return home: We are broken-hearted at losing you.—I'll watch you Night and Day, if you need it.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>How came you to know me, and to follow me hither?</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Lackaday, how shou'd I fail knowing you? Don't be angry with me, but I have followed you most Part of the Day, yet feared to accost you till now, that I see you have been in Discourse with the young Squire: Fine Folks I know have sometimes foul Thoughts; and in so lone a Place as this is, I was fearful he might offer at some Rudeness; if that had been the Case, I wou'd have been your Defender; nay I was about to come forth when he attempted to unmask you, for, great as he is, I shou'd not stand by and see you wrong'd by any one.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>This honest Creature's Affection to me is distressing.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>How sorry am I to see you thus! What a piteous Change have a few Hours brought about! Is a Mind like your's so soon overthrown? Better be born a Clown like me without Wit or Understanding to lose, than be learned to no better Purpose than this.</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR II.</head>
+                           <byline>[Dunn.]</byline>
+                           <l>See thy <hi>Henry</hi> stills attends thee,</l>
+                           <l>Still thy humble Friend defends thee,</l>
+                           <l>Whither has thy Reason stray'd?</l>
+                           <l>Turn and hear me,</l>
+                           <l>Do not fear me,</l>
+                           <l>O thou lost, thou lovely Maid!</l>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <sp>
+                  <pb n="22" facs="22"/>
+                  <speaker>AMELIA.</speaker>
+                  <p>Why shou'd I conceal any thing from this honest Creature? Come hither, Henry; don't be alarm'd: my Reason is no worse than it was; I am not mad.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Oh! the Blessing! may I believe it? Then what do you do with all this distracted Geer about you?</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>That you shall know in due Time; but tell me now, my good Lad, how can I reward the Services you have done me; pecuniary Gratifications, it seems, your Spi<lb rend="hidden" type="hyphenInWord"/>rit disdains; what can I do for you!</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Nothing; I have deserv'd nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Nay, but,—consult your Heart.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>I dare not; it is not fit I shou'd.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>How, Henry! is there any doubt then of its Ho<lb rend="hidden" type="hyphenInWord"/>nesty?</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>No, Mrs. Clara, I hope I am honest; but I am sure I am unfortunate.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Alas poor Youth! Is it in my Power to alleviate your Unhappiness?</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Don't ask me that Question; I am but a Clown, and my Answer may offend you.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>I see the Cause of your Uneasiness, and have long regretted it.—I'll tell thee what, Henry, you and I have long been Friends; 'tis sit I shou'd now disclose
+<pb n="23" facs="23"/>
+to you a Secret. I am not, as you conceive me, a low-born Country Wench, but am of some Rank and con<lb rend="hidden" type="hyphenInWord"/>siderable Fortune. The Conclusion you will draw from thence may be useful.—I see you are in Surprize at what I have told you, but if you will walk with me to Mrs. Olivia's, I'll tell you why I have assum'd this Appearance of Madness.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>I will attend you, Madam.—Heigh ho! how base am I not to rejoice at this Discovery!</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>When I relate my Story more at large to you, Hen<lb rend="hidden" type="hyphenInWord"/>ry, you will find that all the Unhappiness I have known in Life has sprung from Love. 'Tis a dangerous Pas<lb rend="hidden" type="hyphenInWord"/>sion, and I wou'd caution every Friend of mine against it.</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR XII.</head>
+                           <byline>[Howard.]</byline>
+                           <lg>
+                              <l>When Love at first Approach is seen,</l>
+                              <l>His dang'rous Form he veils;</l>
+                              <l>A playful Infant's harmless Mien</l>
+                              <l>The fatal God conceals.</l>
+                           </lg>
+                           <lg>
+                              <l>When soon by us fond Dupes carest</l>
+                              <l>He acts his trait'rous Part,</l>
+                              <l>And as we press him to the Breast,</l>
+                              <l>He steals into the Heart.</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <head>SCENE IV.</head>
+               <stage>A Great Hall.</stage>
+               <stage>Sir ANTONY and PETER.</stage>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>And so, Peter, you can hear no tidings of this Girl Clara yet?</p>
+               </sp>
+               <sp>
+                  <pb n="24" facs="24"/>
+                  <speaker>PETER.</speaker>
+                  <p>No, your Honour, not I: 'tis sarten sure she have left the Farmer's, that's one Thing; but where she has be<lb rend="hidden" type="hyphenInWord"/>taken herself, that's another Thing. For my Part I have been at a power of Places in quest of her, up and down, all over the Village, quite from Dame Treacle's Shop at the further End of it, to the Parson's House here by the Church.</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Was ever Accident so cross! every thing in so fair a Posture for Success: the Wind in my favourite Corner, South-west, due as it can blow. Scisson's Barometer a full Degree on the Rise since Morning, and my Pulse at least ten Thumps in a Minute by a Stop-Watch quicker than it was at our last Interview; I shou'd certainly have retriev'd that Misadventure.—I cannot conceive, Peter, where this provoking Wench has conceal'd herself.</p>
+               </sp>
+               <sp>
+                  <speaker>PETER.</speaker>
+                  <p>Sure I was never so nonplush'd before; and yet I think under Favour, your Worship, I can give a guess where she is.</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Why, where is she, think you?</p>
+               </sp>
+               <sp>
+                  <speaker>PETER.</speaker>
+                  <p>Why I'll stake my Head to a Turnip that she is in our great Pond: Simon saw her walk that way, and 'tis my Thoughts she has drowned herself for Love; for your Worship well knows no young Girl can have any Business by the Water-side, unless with that Intent.</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Peter, leave me. There are Moments, in which no wise Man cares to be overlooked. Of a certain this Clown has hit it; poor fond Soul! I shall never have an easy Moment more. But soft! what do Socrates, Seneca,
+<pb n="25" facs="25"/>
+and Sir Thomas More advise upon these Occasions? Have I no Memorandum?—Phaw! a Fig for such a Pack of Grey Beards: what signifies what a Man says in a Case that can never be his own? It has ever been my Fortune to be admired by the Fair Sex; but so melan<lb rend="hidden" type="hyphenInWord"/>choly a Proof of it I never met with before. I'll in<lb rend="hidden" type="hyphenInWord"/>stantly give Orders for dragging the Pond: she is most certainly drown'd: I cannot chuse but weep for her.</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR XIII.</head>
+                           <byline>[Cocchi.]</byline>
+                           <lg>
+                              <l>Farewel, fond unhappy Creature!</l>
+                              <l>See, for me poor Clara dies;</l>
+                              <l>Lightning blast each murd'rous Feature,</l>
+                              <l>Blind these fatal, fatal Eyes!</l>
+                           </lg>
+                           <lg>
+                              <l>Yet what means this fond bewailing!</l>
+                              <l>Let the wretched Fair one die;</l>
+                              <l>If my Form is so prevailing,</l>
+                              <l>Nature is in Fault, not I.</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+            </div>
+            <div n="5" type="scene">
+               <head>SCENE V.</head>
+               <stage>OLIVIA enters with AMELIA brought in by a numerous Rabble of Peasants; HENRY following at some Dis<lb rend="hidden" type="hyphenInWord"/>tance.</stage>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Heyday! who have we got here? Is the whole Pa<lb rend="hidden" type="hyphenInWord"/>rish stung with the Gadfly? What's the Matter with you all?</p>
+               </sp>
+               <sp>
+                  <speaker>OLIVIA.</speaker>
+                  <p>Why these honest People have a strange Story to tell you, Sir Antony.</p>
+               </sp>
+               <sp>
+                  <speaker>1st PEASANT.</speaker>
+                  <p>Yes, and please your Worship, we have a strange Story to tell you: But Things have gone very cross with us all this Harvest through; a Power of mildew'd Grain—Farmer Chaff's Horses are in a Manner eat up with the
+<pb n="26" facs="26"/>
+Botts, one and all—and Master Grubb's Cows are sorely pester'd with the Tail-worm; so that we are fit to think, please your Worship, that the poor Beasties are Hag-ridden, as it were.</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY <hi>to</hi> AMELIA.</speaker>
+                  <p>Well, Child, is it you have done all this? I see you are a Dealer in the Black Art.— <stage>[Pointing to her Mask.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>1st PEASANT.</speaker>
+                  <p>Noa, your Honour, we don't directly say so; but we were a little dubilous about the young Woman, so we pray your Worship to examine her a bit.</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>O Neighbours, leave her to me; I'll examine her.</p>
+               </sp>
+               <sp>
+                  <speaker>1st PEASANT.</speaker>
+                  <p>We are much beholden to your Honour: Pray you now, young Gentleman, ask her why she wears that black Thing athwart her Face, whereof I can take my Bible Oath on't that she is sometimes as sightly a young Wo<lb rend="hidden" type="hyphenInWord"/>man to look at, as ever my Eyes beheld; and why she keeps hanging about the Grove at the Bottom of the Paddock; there can be no good Intent in that.</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Go, ye simple People, get home, and leave the young Woman with us.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY, <hi>to one of the</hi> PEASANTS.</speaker>
+                  <p>I am asham'd, Gaffer Dowling, to see an old Man like you make himself such a Fool.</p>
+                  <stage>[Exeunt <hi>Peasants.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Well, young Woman, let us know why you are mask<lb rend="hidden" type="hyphenInWord"/>ed, and what your Business is in these Parts?</p>
+               </sp>
+               <sp>
+                  <pb n="27" facs="27"/>
+                  <speaker>AMELIA.</speaker>
+                  <p>My Profession, Sir, is Fortune-telling; I deal with the Stars.</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>I rather believe 'tis with the Moon.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Give me your Hands.
+<stage>[Taking Sir <hi>Antony</hi> with one Hand, and <hi>Frederick</hi> with the other.</stage>
+                  </p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR XIV.</head>
+                           <byline>[Arnold.]</byline>
+                           <lg>
+                              <l>You love, and are belov'd again.
+<stage>[To <hi>Frederick.</hi>
+                                 </stage>
+                              </l>
+                              <l>
+                                 <hi>You love, alas! but love in vain.</hi>
+                                 <stage>[To Sir <hi>Ant.</hi>
+                                 </stage>
+                              </l>
+                              <l>The Grove.—<hi>The Garden was the Scene.</hi>
+                              </l>
+                              <l>You've been to blame—</l>
+                              <l>
+                                 <hi>Oh! fie for Shame,</hi>
+                              </l>
+                              <l>
+                                 <hi>With Hairs so grey to wear a Head so green.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <l>
+                                 <hi>Your Maid is fled.</hi>—Your Mistress gone:</l>
+                              <l>Yet both these Losses are but one:</l>
+                              <l>I, who conceal'd her, can restore.</l>
+                              <l>
+                                 <hi>Lament!</hi>—Rejoice!</l>
+                              <l>Here is my Choice!</l>
+                              <l>Come take, Oh! take, and never quit me more.</l>
+                              <stage>[Unmasks, and runs into <hi>Frederick</hi>'s Arms.</stage>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>O transporting Surprize! Do I behold thee? do I a<lb rend="hidden" type="hyphenInWord"/>gain embrace thee, my dear, my destin'd Amelia?</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>What do I hear? And are you, that was my Clara, the Daughter of Sir William Hartley?</p>
+               </sp>
+               <sp>
+                  <pb n="28" facs="28"/>
+                  <speaker>AMELIA.</speaker>
+                  <p>I am, Sir, and can you be generous enough to forgive my Preference of your Son before you?</p>
+               </sp>
+               <sp>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Oh! no more of that I charge you 'Tis well we are wiser than our Children, for certainly they have some un<lb rend="hidden" type="hyphenInWord"/>accountable Advantages over us.</p>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR XV.</head>
+                           <byline>[Vernon.]</byline>
+                           <lg>
+                              <l>When my Children are wedded all and gone,</l>
+                              <l>With a this Way, that Way, and every Way;</l>
+                              <l>And a happy Day will be that Day,</l>
+                              <l>When they've left me to myself alone,</l>
+                              <l>With a this Way, <hi>&amp;c.</hi>
+                              </l>
+                              <l>And I wou'd they were gone every one.</l>
+                           </lg>
+                           <lg>
+                              <l>Then will I seek out for a Wife,</l>
+                              <l>With a this Way, <hi>&amp;c.</hi>
+                              </l>
+                              <l>And a happy Day will be that Day,</l>
+                              <l>When I renew a wedded Life,</l>
+                              <l>With a this Way, <hi>&amp;c.</hi>
+                              </l>
+                              <l>For every Way I'll please my Wife.</l>
+                           </lg>
+                           <lg>
+                              <l>But should she prove wayward, pert and bold,</l>
+                              <l>With a this Way, <hi>&amp;c.</hi>
+                              </l>
+                              <l>What a luckless Day would be that Day,</l>
+                              <l>When I lighted first upon a Scold,</l>
+                              <l>With a this Way, <hi>&amp;c.</hi>
+                              </l>
+                              <l>Oh! what Way's left for me that am old.</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+               <sp>
+                  <pb n="29" facs="29"/>
+                  <speaker>FREDERICK.</speaker>
+                  <p>O my Amelia, I have News for you, which I flatter myself you will be pleased with: your Friends are impa<lb rend="hidden" type="hyphenInWord"/>tient to receive you, and have consented to our Union.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Then is my Joy compleat. Now had I but a Friend that cou'd relate to them this Day's Events, as they really have happen'd—</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>You have a Friend, Madam, an humble and a faith<lb rend="hidden" type="hyphenInWord"/>ful one; ready to undertake that Office, or any other you can lay upon him.</p>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>I thank thee, my good Henry, and will accept your Services. Frederick, I have much to tell thee of this Youth, whom I desire you will love for my sake.</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>I know him well: his Fortune shall be my Care.</p>
+               </sp>
+               <sp>
+                  <speaker>HENRY.</speaker>
+                  <p>Thank Heaven! I shall now be absent, when she is married.
+<stage>[Aside.]</stage>
+                  </p>
+                  <stage>[Exit <hi>Henry.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>AMELIA.</speaker>
+                  <p>Sir Antony, as I crost your Lawn I found your Harvest Folks assembled at their Sports; the Serenity of the Evening, and the Chearfulness of the Scene, compose the most agreeable Sight in Nature.</p>
+               </sp>
+               <sp>
+                  <speaker>FREDERICK.</speaker>
+                  <p>Oh! by all Means, Sir, let us go thither; Joy is pleasing in whatsoever Shape it appears.</p>
+               </sp>
+               <sp>
+                  <pb n="30" facs="30"/>
+                  <speaker>SIR ANTONY.</speaker>
+                  <p>Let this then be a Day of general Happiness!</p>
+               </sp>
+               <sp>
+                  <q>
+                     <floatingText>
+                        <body>
+                           <head>AIR XVI.</head>
+                           <byline>Richter.</byline>
+                           <sp>
+                              <speaker>Fred.</speaker>
+                              <l>Happy Nation! who possessing</l>
+                              <l>Nature's Gifts in full Increase,</l>
+                              <l>Sees around thee every Blessing,</l>
+                              <l>Scenes of Plenty, Scenes of Peace.</l>
+                              <l>
+                                 <stage>Chor.</stage> 
+Happy Nation! <hi>&amp;c.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Amelia.</speaker>
+                              <l>Fields where golden Ceres waving</l>
+                              <l>Glistens in the ripening Sun;</l>
+                              <l>Streams their fertile Borders laving,</l>
+                              <l>Scattering Riches as they run.</l>
+                              <l>
+                                 <stage>Chor.</stage> 
+Happy Nation! <hi>&amp;c.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Fred.</speaker>
+                              <l>Meads, where Flocks and Herds disporting</l>
+                              <l>Gayly paint the chequer'd Vale;</l>
+                              <l>Groves, where happy Shepherds courting,</l>
+                              <l>Softly breath their amorous Tale.</l>
+                              <l>
+                                 <stage>Chor.</stage> 
+Happy Nation! <hi>&amp;c.</hi>
+                              </l>
+                           </sp>
+                           <sp>
+                              <speaker>Amelia.</speaker>
+                              <l>Cooling Zephyrs gently blowing</l>
+                              <l>Fragrance from the flow'ry Plains;</l>
+                              <l>Temperate Skies serenely glowing;</l>
+                              <l>Virtuous Nymphs and valiant Swains.</l>
+                           </sp>
+                           <sp>
+                              <l>
+                                 <stage>Chor.</stage> Happy Nation! who possessing</l>
+                              <l>Nature's Gifts in full Increase,</l>
+                              <l>Sees around thee ev'ry Blessing,</l>
+                              <l>Scenes of Plenty, Scenes of Peace.</l>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </q>
+               </sp>
+            </div>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>

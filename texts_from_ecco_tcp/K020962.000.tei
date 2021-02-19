@@ -1,0 +1,877 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gotham. A poem. Book III. By [blank]:</title>
+            <author>Churchill, Charles, 1731-1764.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020962.000</idno>
+            <idno type="docno">CW3315110509</idno>
+            <idno type="ecll">0903600200</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gotham. A poem. Book III. By [blank]:</title>
+                  <author>Churchill, Charles, 1731-1764.</author>
+               </titleStmt>
+               <extent>[4],31,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for the author, and sold by J. Almon; J. Coote; W. Flexney; C. Henderson; J. Gardiner; and C. Moran,</publisher>
+                  <date>1764.</date>
+                  <idno type="TCP">K020962.000</idno>
+                  <idno type="docno">CW3315110509</idno>
+                  <idno type="ecll">0903600200</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>A space below "By" has been left for the insertion of a signature in MS.</note>
+                  <note>In this impression the half-title has the price, and sig. B two leaves.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Grant, 17</note>
+                  <note>English Short Title Catalog, ESTCT1710.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>GOTHAM. A POEM. BOOK III. [Price Half a Crown.]</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>GOTHAM. A POEM. BOOK III. BY <add>C. Churchill</add>
+            </p>
+            <p>LONDON: PRINTED FOR THE AUTHOR, And Sold by J. ALMON, in Piccadilly; J. COOTE, in Pater-noster-row; W. FLEXNEY, near Gray's-Inn-Gate, Holbourn; C. HENDERSON, at the Royal Exchange; J. GARDINER, in Parliament-Street, Westminster; and C. MORAN, under the Great Piazza, Covent Garden. MDCCLXIV.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="3"/>
+         <head>GOTHAM. BOOK III.</head>
+         <lg>
+            <l>CAN the fond Mother from herself depart,</l>
+            <l>Can she forget the darling of her heart,</l>
+            <l>The little darling whom she bore and bred,</l>
+            <l>Nurs'd on her knees, and at her bosom fed?</l>
+            <l>To whom, she seem'd her ev'ry thought to give,</l>
+            <l>And in whose life alone, she seem'd to live?</l>
+            <l>Yes, from herself, the mother may depart,</l>
+            <l>She may forget the darling of her heart,</l>
+            <l>The little darling, whom she bore and bred,</l>
+            <l>Nurs'd on her knees, and at her bosom fed,</l>
+            <l>
+               <pb n="2" facs="4"/>To whom she seem'd her ev'ry thought to give,</l>
+            <l>And in whose life alone, she seem'd to live;</l>
+            <l>But I cannot forget, whilst life remains,</l>
+            <l>And pours her current thro' these swelling veins,</l>
+            <l>Whilst Mem'ry offers up at Reason's shrine,</l>
+            <l>But I cannot forget, that GOTHAM's mine.</l>
+         </lg>
+         <lg>
+            <l>Can the stern Mother, than the brutes more wild,</l>
+            <l>From her disnatur'd breast, tear her young child,</l>
+            <l>Flesh of her flesh, and of her bone the bone,</l>
+            <l>And dash the smiling babe against a stone?</l>
+            <l>Yes, the stern Mother, than the brutes more wild,</l>
+            <l>From her disnatur'd breast, may tear her child;</l>
+            <l>Flesh of her flesh, and of her bone the bone,</l>
+            <l>And dash the smiling babe against a stone;</l>
+            <l>But I, forbid it Heav'n, but I can ne'er</l>
+            <l>The love of GOTHAM, from this bosom tear,</l>
+            <l>Can ne'er so far true Royalty pervert</l>
+            <l>From its fair course, to do my people hurt.</l>
+         </lg>
+         <lg>
+            <l>With how much ease, with how much confidence,</l>
+            <l>As if, superior to each grosser sense,</l>
+            <l>Reason had only, in full pow'r array'd,</l>
+            <l>To manifest her Will, and be obey'd,</l>
+            <l>
+               <pb n="3" facs="5"/>Men make resolves, and pass into decrees</l>
+            <l>The motions of the Mind! with how much ease</l>
+            <l>In such resolves, doth passion make a flaw,</l>
+            <l>And bring to nothing, what was rais'd to law.</l>
+         </lg>
+         <lg>
+            <l>In empire young, scarce warm on GOTHAM'S throne,</l>
+            <l>The dangers, and the sweets of pow'r, unknown,</l>
+            <l>Pleas'd, tho' I scarce know why, like some young child,</l>
+            <l>Whose little senses each new toy turns wild,</l>
+            <l>How do I hold sweet dalliance with my crown,</l>
+            <l>And wanton with dominion, how lay down,</l>
+            <l>Without the sanction of a precedent,</l>
+            <l>Rules of most large and absolute extent;</l>
+            <l>Rules, which from sense of public virtue spring,</l>
+            <l>And, all at once, commence a PATRIOT KING.</l>
+         </lg>
+         <lg>
+            <l>But, for the day of tryal is at hand,</l>
+            <l>And the whole fortunes of a mighty land</l>
+            <l>Are stak'd on me, and all their Weal or Woe</l>
+            <l>Must from my Good, or Evil Conduct flow,</l>
+            <l>Will I, or can I, on a fair review,</l>
+            <l>As I assume that name, deserve it too?</l>
+            <l>Have I well weigh'd the great, the noble part</l>
+            <l>I'm now to play? Have I explor'd my Heart,</l>
+            <l>
+               <pb n="4" facs="6"/>That labyrinth of fraud, that deep, dark cell,</l>
+            <l>Where, unsuspected e'en by me, may dwell</l>
+            <l>Ten thousand follies? Have I found out there</l>
+            <l>What I am fit to do, and what to bear?</l>
+            <l>Have I trac'd ev'ry passion to its rise,</l>
+            <l>Nor spar'd one lurking seed of treach'rous vice?</l>
+            <l>Have I, familiar with my nature grown,</l>
+            <l>And am I fairly to myself made known?</l>
+         </lg>
+         <lg>
+            <l>A PATRIOT KING—Why 'tis a name which bears</l>
+            <l>The more immediate stamp of Heav'n, which wears</l>
+            <l>The nearest, best resemblance we can shew</l>
+            <l>Of God above, thro' all his works below.</l>
+         </lg>
+         <lg>
+            <l>To still the voice of discord in the land,</l>
+            <l>To make weak faction's discontented band,</l>
+            <l>Detected, weak, and crumbling, to decay,</l>
+            <l>With hunger pinch'd, on their own vitals prey;</l>
+            <l>Like brethren, in the self-same int'rests warm'd,</l>
+            <l>Like diff'rent bodies, with one soul imform'd,</l>
+            <l>To make a nation, nobly rais'd above</l>
+            <l>All meaner thoughts, grow up in common love;</l>
+            <l>To give the laws due vigour, and to hold</l>
+            <l>That sacred ballance, temperate, yet bold,</l>
+            <l>
+               <pb n="5" facs="7"/>With such an equal hand, that those who fear</l>
+            <l>May yet approve, and own my justice clear;</l>
+            <l>To be a Common Father, to secure</l>
+            <l>The weak from violence, from pride the poor;</l>
+            <l>Vice, and her sons, to banish in disgrace,</l>
+            <l>To make Corruption dread to shew her face,</l>
+            <l>To bid afflicted Virtue take new state,</l>
+            <l>And be, at last, acquainted with the great;</l>
+            <l>Of all Religions to elect the best,</l>
+            <l>Nor let her priests be made a standing jest;</l>
+            <l>Rewards for Worth, with lib'ral hand to carve,</l>
+            <l>To love the Arts, nor let the Artists starve;</l>
+            <l>To make fair Plenty through the realm increase,</l>
+            <l>Give Fame in War, and happiness in Peace,</l>
+            <l>To see my people virtuous, great and free,</l>
+            <l>And know that all those blessings flow from me,</l>
+            <l>O 'tis a joy too exquisite, a thought</l>
+            <l>Which flatters Nature more than flatt'ry ought.</l>
+            <l>'Tis a great, glorious task, for Man too hard,</l>
+            <l>But not less great, less glorious the reward,</l>
+            <l>The best reward which here to Man is giv'n,</l>
+            <l>'Tis more than Earth, and little short of Heav'n;</l>
+            <l>A task (if such comparison may be)</l>
+            <l>The same in nature, diff'ring in degree,</l>
+            <l>
+               <pb n="6" facs="8"/>Like that which God, on whom for aid I call,</l>
+            <l>Performs with ease, and yet performs to all.</l>
+         </lg>
+         <lg>
+            <l>How much do they mistake, how little know</l>
+            <l>Of kings, of kingdoms, and the pains which flow</l>
+            <l>From royalty, who fancy that a crown</l>
+            <l>Because it glistens, must be lin'd with down.</l>
+            <l>With outside show, and vain appearance caught</l>
+            <l>They look no farther, and, by Folly taught,</l>
+            <l>Prize high the toys of thrones, but never find</l>
+            <l>One of the many cares which lurk behind.</l>
+            <l>The gem they worship, which a crown adorns,</l>
+            <l>Nor once suspect that crown is lin'd with thorns.</l>
+            <l>O might Reflection Folly's place supply,</l>
+            <l>Would we one moment use her piercing eye,</l>
+            <l>Then should we learn what woe from grandeur springs,</l>
+            <l>And learn to pity, not to envy kings.</l>
+         </lg>
+         <lg>
+            <l>The villager, born humbly and bred hard,</l>
+            <l>Content his wealth, and Poverty his guard,</l>
+            <l>In action simply just, in conscience clear,</l>
+            <l>By guilt untainted, undisturb'd by fear,</l>
+            <l>His means but scanty, and his wants but few,</l>
+            <l>Labour his business and his pleasure too,</l>
+            <l>
+               <pb n="7" facs="9"/>Enjoys more comforts in a single hour,</l>
+            <l>Than ages give the Wretch condemn'd to Pow'r.</l>
+         </lg>
+         <lg>
+            <l>Call'd up by health, he rises with the day,</l>
+            <l>And goes to work, as if he went to play,</l>
+            <l>Whistling off toils, one half of which might make</l>
+            <l>The stoutest ATLAS of a palace quake;</l>
+            <l>'Gainst heat and cold, which make us cowards faint,</l>
+            <l>Harden'd by constant use, without complaint</l>
+            <l>He bears, what we should think it death to bear;</l>
+            <l>Short are his meals, and homely is his fare;</l>
+            <l>His thirst he slakes at some pure neighb'ring brook,</l>
+            <l>Nor asks for sauce where appetite stands cook.</l>
+            <l>When the dews fall and when the Sun retires</l>
+            <l>Behind the Mountains, when the village fires,</l>
+            <l>Which, waken'd all at once, speak supper nigh,</l>
+            <l>At distance catch, and fix his longing eye,</l>
+            <l>Homeward he hies, and with his manly brood</l>
+            <l>Of raw-bon'd cubs, enjoys that clean, coarse food,</l>
+            <l>Which, season'd with Good Humour, his fond Bride</l>
+            <l>'Gainst his return is happy to provide.</l>
+            <l>Then, free from care, and free from thought, he creeps</l>
+            <l>Into his straw, and till the morning sleeps.</l>
+         </lg>
+         <lg>
+            <pb n="8" facs="10"/>
+            <l>Not so the King—with anxious cares oppress'd,</l>
+            <l>His bosom labours, and admits not rest.</l>
+            <l>A glorious Wretch, he sweats beneath the Weight</l>
+            <l>Of Majesty, and gives up ease for state.</l>
+            <l>E'en when his smiles, which, by the fools of pride,</l>
+            <l>Are treasur'd and preserv'd from side to side</l>
+            <l>Fly round the court, e'en when, compell'd by form,</l>
+            <l>He seems most calm, his soul is in a storm!</l>
+            <l>CARE, like a spectre, seen by him alone,</l>
+            <l>With all her nest of vipers, round his throne</l>
+            <l>By day crawls full in view; when Night bids sleep,</l>
+            <l>Sweet nurse of Nature, o'er the senses creep,</l>
+            <l>When Misery herself, no more complains,</l>
+            <l>And slaves, if possible, forget their chains,</l>
+            <l>Tho' his sense weakens, tho' his eye grows dim,</l>
+            <l>That rest which comes to all, comes not to him.</l>
+            <l>E'en at that hour, CARE, tyrant CARE, forbids,</l>
+            <l>The dew of sleep to fall upon his lids;</l>
+            <l>From night to night she watches at his bed;</l>
+            <l>Now, as one mop'd, sits brooding o'er his head,</l>
+            <l>Anon she starts, and, borne on raven's wings,</l>
+            <l>Croaks forth aloud—Sleep was not made for kings.</l>
+         </lg>
+         <lg>
+            <pb n="9" facs="11"/>
+            <l>Thrice hath the Moon, who governs this vast ball,</l>
+            <l>Who rules most absolute o'er me, and all,</l>
+            <l>To whom, by full conviction taught to bow,</l>
+            <l>At new, at full I pay the duteous vow,</l>
+            <l>Thrice hath the Moon her wonted course pursu'd,</l>
+            <l>Thrice hath she lost her form, and thrice renew'd.</l>
+            <l>Since (blessed be that season, for before</l>
+            <l>I was a mere, mere mortal, and no more,</l>
+            <l>One of the herd, a lump of common clay,</l>
+            <l>Inform'd with life, to die and pass away)</l>
+            <l>Since I became a king, and GOTHAM'S throne,</l>
+            <l>With full and ample pow'r, became my own;</l>
+            <l>Thrice hath the Moon her wonted course pursu'd,</l>
+            <l>Thrice hath she lost her form, and thrice renew'd,</l>
+            <l>Since Sleep, kind Sleep, who like a friend supplies</l>
+            <l>New vigour for new toil, hath clos'd these eyes.</l>
+            <l>Nor, if my toils are answer'd with success,</l>
+            <l>And I am made an instrument to bless</l>
+            <l>The people whom I love, shall I repine;</l>
+            <l>Theirs be the benefit, the labour mine.</l>
+         </lg>
+         <lg>
+            <l>Mindful of that high rank in which I stand,</l>
+            <l>Of millions Lord, sole ruler in the land,</l>
+            <l>
+               <pb n="10" facs="12"/>Let me, and Reason shall her aid afford,</l>
+            <l>Rule my own spirit, of myself be lord.</l>
+            <l>With an ill grace that monarch wears his crown,</l>
+            <l>Who, stern and hard of nature, wears a frown</l>
+            <l>'Gainst faults in other men, yet all the while,</l>
+            <l>Meets his own vices with a partial smile.</l>
+            <l>How can a king (yet on record we find</l>
+            <l>Such kings have been, such curses of mankind)</l>
+            <l>Enforce that law, 'gainst some poor subject elf,</l>
+            <l>Which Conscience tells him he hath broke himself?</l>
+            <l>Can he some petty rogue to Justice call</l>
+            <l>For robbing one, when he himself robs all?</l>
+            <l>Must not, unless extinguish'd, Conscience fly</l>
+            <l>Into his cheek, and blast his fading eye,</l>
+            <l>To scourge th' oppressor, when the State, distress'd</l>
+            <l>And sunk to ruin, is by him oppress'd?</l>
+            <l>Against himself doth he not sentence give?</l>
+            <l>If one must die, t'other's not fit to live.</l>
+         </lg>
+         <lg>
+            <l>Weak is that throne, and in itself unsound</l>
+            <l>Which takes not solid virtue for its ground.</l>
+            <l>All envy pow'r in others, and complain</l>
+            <l>Of that which they would perish to obtain.</l>
+            <l>
+               <pb n="11" facs="13"/>Nor can those spirits, turbulent and bold,</l>
+            <l>Not to be aw'd by threats, nor bought with gold,</l>
+            <l>Be hush'd to peace, but when fair, legal sway,</l>
+            <l>Makes it their real int'rest to obey,</l>
+            <l>When kings, and none but fools can then rebel,</l>
+            <l>Not less in Virtue, than in Pow'r excell.</l>
+         </lg>
+         <lg>
+            <l>Be that my object, that my constant care,</l>
+            <l>And may my Soul's best Wishes centre there.</l>
+            <l>Be it my task to seek, nor seek in vain,</l>
+            <l>Not only how to live, but how to reign,</l>
+            <l>And, to those Virtues which from Reason spring,</l>
+            <l>And grace the Man, join those which grace the King.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>First</hi> (for strict duty bids my care extend,</l>
+            <l>And reach to all, who on that care depend,</l>
+            <l>Bids me with servants keep a steady hand,</l>
+            <l>And watch o'er all my proxies in the land)</l>
+            <l>
+               <hi>First</hi> (and that method Reason shall support)</l>
+            <l>Before I look into, and purge my Court,</l>
+            <l>Before I cleanse the stable of the state,</l>
+            <l>Let me fix things which to myself relate.</l>
+            <l>That done, and all accounts well settled here,</l>
+            <l>In Resolution firm, in Honour clear,</l>
+            <l>
+               <pb n="12" facs="14"/>Tremble ye Slaves, who dare abuse your trust,</l>
+            <l>Who dare be Villains, when your King is Just.</l>
+         </lg>
+         <lg>
+            <l>Are there, amongst those officers of State,</l>
+            <l>To whom our sacred pow'r we delegate,</l>
+            <l>Who hold our Place and Office in the Realm,</l>
+            <l>Who, in our name commission'd, guide the Helm,</l>
+            <l>Are there, who, trusting to our love of ease,</l>
+            <l>Oppress our subjects, wrest out just decrees,</l>
+            <l>And make the laws, warp'd from their fair intent,</l>
+            <l>To speak a language which they never meant,</l>
+            <l>Are there such Men, and can the fools depend</l>
+            <l>On holding out in safety to their end?</l>
+            <l>Can they so much, from thoughts of danger free,</l>
+            <l>Deceive themselves, so much misdeem of me,</l>
+            <l>To think that I will prove a Statesman's tool,</l>
+            <l>And live a stranger where I ought to rule?</l>
+            <l>What, to myself and to my State unjust,</l>
+            <l>Shall I from ministers take things on trust,</l>
+            <l>And, sinking low the credit of my throne,</l>
+            <l>Depend upon dependants of my own?</l>
+            <l>Shall I, most certain source of future cares,</l>
+            <l>Not use my Judgment, but depend on their's,</l>
+            <l>
+               <pb n="13" facs="15"/>Shall I, true puppet-like, be mock'd with State,</l>
+            <l>Have nothing but the Name of being great,</l>
+            <l>Attend at councils, which I must not weigh,</l>
+            <l>Do, what they bid; and what they dictate, say,</l>
+            <l>Enrob'd, and hoisted up into my chair,</l>
+            <l>Only to be a royal Cypher there?</l>
+            <l>Perish the thought—'tis Treason to my throne—</l>
+            <l>And who but thinks it, could his thoughts be known,</l>
+            <l>Insults me more, than He, who, leagu'd with hell,</l>
+            <l>Shall rise in arms, and 'gainst my crown rebell.</l>
+         </lg>
+         <lg>
+            <l>The wicked Statesman, whose false heart pursues</l>
+            <l>A train of Guilt, who acts with double views,</l>
+            <l>And wears a double face, whose base designs</l>
+            <l>Strike at his Monarch's throne, who undermines</l>
+            <l>E'en whilst he seems his wishes to support,</l>
+            <l>Who seizes all departments, packs a court,</l>
+            <l>Maintains an agent on the Judgement Seat</l>
+            <l>To screen his crimes, and make his frauds complete,</l>
+            <l>New models armies, and around the throne</l>
+            <l>Will suffer none but creatures of his own,</l>
+            <l>Conscious of such his baseness, well may try,</l>
+            <l>Against the light to shut his master's eye,</l>
+            <l>
+               <pb n="14" facs="16"/>To keep him coop'd, and far remov'd from those,</l>
+            <l>Who, brave and honest, dare his crimes disclose,</l>
+            <l>Nor ever let him in one place appear,</l>
+            <l>Where Truth, unwelcome Truth, may wound his Ear.</l>
+         </lg>
+         <lg>
+            <l>Attempts like these, well weigh'd, themselves proclaim,</l>
+            <l>And, whilst they publish, baulk their Author's aim.</l>
+            <l>Kings must be blind, into such snares to run,</l>
+            <l>Or worse, with open eyes must be undone.</l>
+            <l>The minister of Honesty and Worth,</l>
+            <l>Demands the Day to bring his actions forth,</l>
+            <l>Calls on the Sun to shine with fiercer rays</l>
+            <l>And braves that trial which must end in praise.</l>
+            <l>None fly the Day, and seek the shades of Night,</l>
+            <l>But those whose actions cannot bear the Light;</l>
+            <l>None wish their King in Ignorance to hold,</l>
+            <l>But those who feel that knowledge must unfold</l>
+            <l>Their hidden Guilt, and, that dark mist dispell'd</l>
+            <l>By which their places and their lives are held,</l>
+            <l>Confusion wait them, and, by Justice led,</l>
+            <l>In vengeance fall on ev'ry traitor's head.</l>
+         </lg>
+         <lg>
+            <l>Aware of this, and caution'd 'gainst the pit</l>
+            <l>Where Kings have oft been lost, shall I submit</l>
+            <l>
+               <pb n="15" facs="17"/>And rust in chains like these? Shall I give way,</l>
+            <l>And whilst my helpless subjects fall a prey</l>
+            <l>To pow'r abus'd, in Ignorance sit down,</l>
+            <l>Nor dare assert the honour of my crown?</l>
+            <l>When stern REBELLION, (if that odious name</l>
+            <l>Justly belongs to those, whose only aim</l>
+            <l>Is to preserve their Country, who oppose</l>
+            <l>In honour leagu'd, none but their Country's foes,</l>
+            <l>Who only seek their own, and found their Cause</l>
+            <l>In due regard for violated laws,)</l>
+            <l>When stern REBELLION, who no longer feels,</l>
+            <l>Nor fears Rebuke, a nation at her heels,</l>
+            <l>A nation up in arms, tho' strong not proud,</l>
+            <l>Knocks at the Palace gate, and, calling loud</l>
+            <l>For due redress, presents, from Truth's fair pen,</l>
+            <l>A list of wrongs, not to be borne by men,</l>
+            <l>How must that King be humbled, how disgrace</l>
+            <l>All that is royal, in his name and place,</l>
+            <l>Who, thus call'd forth to answer, can advance</l>
+            <l>No other plea but that of IGNORANCE.</l>
+            <l>A vile defence, which, was his All at stake,</l>
+            <l>The meanest subject well might blush to make;</l>
+            <l>A filthy source, from whence Shame ever springs;</l>
+            <l>A Stain to all, but most a Stain to Kings.</l>
+            <l>
+               <pb n="16" facs="18"/>The Soul, with great and manly feelings warm'd,</l>
+            <l>Panting for Knowledge, rests not till inform'd,</l>
+            <l>And shall not I, fir'd with the glorious zeal,</l>
+            <l>Feel those brave passions, which my subjects feel,</l>
+            <l>Or can a just excuse from Ign'rance flow</l>
+            <l>To Me, whose first, great duty is—To KNOW.</l>
+         </lg>
+         <lg>
+            <l>Hence IGNORANCE—thy settled, dull, blank eye</l>
+            <l>Wou'd hurt me, tho' I knew no reason why—</l>
+            <l>Hence IGNORANCE—thy slavish shackles bind</l>
+            <l>The free-born Soul, and lethargy the mind—</l>
+            <l>Of thee, begot by PRIDE, who look'd with scorn</l>
+            <l>On ev'ry meaner match, of thee was born</l>
+            <l>That grave Inflexibility of Soul,</l>
+            <l>Which Reason can't convince, nor Fear controul,</l>
+            <l>Which neither arguments, nor pray'rs can reach,</l>
+            <l>And nothing less than utter Ruin teach—</l>
+            <l>Hence IGNORANCE—hence to that depth of Night,</l>
+            <l>Where thou wast born, where not one gleam of light</l>
+            <l>May wound thine eye—hence to some dreary cell</l>
+            <l>Where Monks with Superstition love to dwell,</l>
+            <l>Or in some college soothe thy lazy pride,</l>
+            <l>And with the Heads of colleges reside,</l>
+            <l>
+               <pb n="17" facs="19"/>Fit mate for Royalty thou can'st not be,</l>
+            <l>And if no mate for kings, no mate for me.</l>
+         </lg>
+         <lg>
+            <l>Come STUDY, like a torrent swell'd with rains,</l>
+            <l>Which, rushing down the mountains, o'er the plains</l>
+            <l>Spreads horror wide, and yet, in horror kind,</l>
+            <l>Leaves feeds of future fruitfulness behind,</l>
+            <l>Come STUDY—painful tho' thy course and slow,</l>
+            <l>Thy real worth by thy effects we know—</l>
+            <l>Parent of Knowledge, come—not Thee I call,</l>
+            <l>Who, grave and dull, in college or in hall,</l>
+            <l>Dost fit, all solemn sad, and moping weigh</l>
+            <l>Things, which when found, thy labours can't repay—</l>
+            <l>Nor, in one hand, fit emblem of thy trade,</l>
+            <l>A <hi>Rod,</hi> in t'other, gaudily array'd</l>
+            <l>A <hi>Hornbook,</hi> gilt and letter'd, call I Thee,</l>
+            <l>Who dost in form preside o'er A, B, C—</l>
+            <l>Nor, Siren tho' thou art, and thy strange charms,</l>
+            <l>As 'twere by magic, lure men to thy arms,</l>
+            <l>Do I call Thee, who thro' a winding maze,</l>
+            <l>A labyrinth of puzzling, pleasing ways,</l>
+            <l>Dost lead us at the last to those rich plains,</l>
+            <l>Where, in full glory, real SCIENCE reigns.</l>
+         </lg>
+         <lg>
+            <pb n="18" facs="20"/>
+            <l>Fair tho' thou art, and lovely to mine eye,</l>
+            <l>Tho' full rewards in thy possession lie</l>
+            <l>To crown Man's wish, and do thy fav'rites grace,</l>
+            <l>Tho' (was I station'd in an humbler place,)</l>
+            <l>I could be ever happy in thy sight,</l>
+            <l>Toil with thee all the day, and thro' the night</l>
+            <l>Toil on from watch to watch, bidding my eye,</l>
+            <l>Fast rivetted on SCIENCE, sleep defy,</l>
+            <l>Yet, (such the hardships which from empire flow)</l>
+            <l>Must I thy sweet society forego,</l>
+            <l>And to some happy rival's arms resign</l>
+            <l>Those charms, which can alas! no more be mine.</l>
+         </lg>
+         <lg>
+            <l>No more, from hour to hour, from day to day,</l>
+            <l>Shall I pursue thy steps, and urge my way</l>
+            <l>Where eager love of SCIENCE calls, no more</l>
+            <l>Attempt those paths which Man ne'er trod before.</l>
+            <l>No more, the mountain scal'd, the desart crost,</l>
+            <l>Losing myself, nor knowing I was lost,</l>
+            <l>Travel thro' woods, thro' wilds, from Morn to Night,</l>
+            <l>From Night to Morn, yet travel with delight,</l>
+            <l>And having found thee, lay me down content,</l>
+            <l>Own all my toil well paid, my time well spent.</l>
+         </lg>
+         <lg>
+            <pb n="19" facs="21"/>
+            <l>Farewell ye MUSES too—for such mean things</l>
+            <l>Must not presume to dwell with mighty Kings—</l>
+            <l>Farewell ye MUSES—tho' it cuts my heart</l>
+            <l>E'en to the quick, we must for ever part.</l>
+         </lg>
+         <lg>
+            <l>When the fresh Morn bade lusty Nature wake;</l>
+            <l>When the Birds, sweetly twitt'ring thro' the brake,</l>
+            <l>Tun'd their soft pipes; when from the neighb'ring bloom,</l>
+            <l>Sipping the dew, each Zephyr stole persume;</l>
+            <l>When all things with new vigour were inspir'd,</l>
+            <l>And seem'd to say they never could be tir'd;</l>
+            <l>How often have we stray'd, whilst sportive Rhime</l>
+            <l>Deceiv'd the way, and clipp'd the wings of Time,</l>
+            <l>O'er hill, o'er dale! how often laugh'd to see,</l>
+            <l>Yourselves made visible to none but me,</l>
+            <l>The clown, his Work suspended, gape and stare,</l>
+            <l>And seem to think that I convers'd with Air!</l>
+         </lg>
+         <lg>
+            <l>When the Sun, beating on the parched soil,</l>
+            <l>Seem'd to proclaim an interval of toil,</l>
+            <l>When a faint languor crept thro' ev'ry breast,</l>
+            <l>And things most us'd to labour, wish'd for rest,</l>
+            <l>How often, underneath a rev'rend oak,</l>
+            <l>Where safe, and fearless of the impious stroke</l>
+            <l>
+               <pb n="20" facs="22"/>Some sacred DRYAD liv'd, or in some grove,</l>
+            <l>Where with capricious fingers FANCY wove</l>
+            <l>Her fairy bow'r, whilst NATURE all the while</l>
+            <l>Look'd on, and view'd her mock'ries with a smile</l>
+            <l>How we held converse sweet! how often laid,</l>
+            <l>Fast by the Thames, in HAM'S inspiring shade,</l>
+            <l>Amongst those Poets, which make up your train,</l>
+            <l>And, after death, pour forth the sacred Strain,</l>
+            <l>Have I, at your command, in verse grown grey,</l>
+            <l>Put not impaired, heard DRYDEN tune that lay,</l>
+            <l>Which might have drawn an Angel from his sphere,</l>
+            <l>And kept him from his office list'ning here.</l>
+         </lg>
+         <lg>
+            <l>When dreary NIGHT, with MORPHEUS in her train,</l>
+            <l>Led on by SILENCE to resume her reign,</l>
+            <l>With Darkness covering, as with a robe,</l>
+            <l>This scene of Levity, blank'd half the globe,</l>
+            <l>How oft', enchanted with your heav'nly strains,</l>
+            <l>Which stole me from myself, which in soft chains</l>
+            <l>Of Musick bound my soul, how oft' have I,</l>
+            <l>Sounds more than human floating thro' the Sky,</l>
+            <l>Attentive sat, whilst NIGHT, against her Will.</l>
+            <l>Transported with the harmony, stood still!</l>
+            <l>
+               <pb n="21" facs="23"/>How oft' in raptures, which Man scarce could bear,</l>
+            <l>Have I, when gone, still thought the Muses there,</l>
+            <l>Still heard their Music, and, as mute as death,</l>
+            <l>Sat all attention, drew in ev'ry Breath,</l>
+            <l>Lest, breathing all too rudely, I should wound,</l>
+            <l>And marr that magic excellence of sound:</l>
+            <l>Then, Sense returning with return of Day,</l>
+            <l>Have chid the Night, which fled so fast away.</l>
+         </lg>
+         <lg>
+            <l>Such my Pursuits, and such my Joys of yore,</l>
+            <l>Such were my Mates, but now my Mates no more.</l>
+            <l>Plac'd out of Envy's walk, (for Envy sure</l>
+            <l>Would never haunt the cottage of the Poor,</l>
+            <l>Would never stoop to wound my homespun lays)</l>
+            <l>With some few Friends, and some small share of Praise,</l>
+            <l>Beneath Oppression, undisturb'd by Strife,</l>
+            <l>In Peace I trod the humble vale of Life.</l>
+            <l>Farewell these scenes of ease, this tranquil state;</l>
+            <l>Welcome the troubles which on Empire wait.</l>
+            <l>Light toys from this day forth I disavow,</l>
+            <l>They pleas'd me once, but cannot suit me now;</l>
+            <l>To common Men all common things are free,</l>
+            <l>What honours them might fix disgrace on me.</l>
+            <l>
+               <pb n="22" facs="24"/>Call'd to a throne, and o'er a mighty land</l>
+            <l>Ordain'd to rule, my head, my heart, my hand</l>
+            <l>Are all engross'd, each private view withstood,</l>
+            <l>And task'd to labour for the Public Good;</l>
+            <l>Be this my study, to this one great end</l>
+            <l>May ev'ry thought, may ev'ry action tend.</l>
+         </lg>
+         <lg>
+            <l>Let me the page of History turn o'er,</l>
+            <l>Th' instructive page, and heedfully explore</l>
+            <l>What faithful pens of former times have wrote,</l>
+            <l>Of former kings; what they did worthy note,</l>
+            <l>What worthy blame, and from the sacred tomb</l>
+            <l>Where righteous Monarchs sleep, where laurels bloom</l>
+            <l>Unhurt by Time, let me a garland twine,</l>
+            <l>Which, robbing not their Fame, may add to mine.</l>
+         </lg>
+         <lg>
+            <l>Nor let me with a vain and idle eye</l>
+            <l>Glance o'er those scenes, and in a hurry fly</l>
+            <l>Quick as a Post which travels day and night,</l>
+            <l>Nor let me dwell there, lur'd by false delight,</l>
+            <l>And, into barren theory betray'd,</l>
+            <l>Forget that Monarchs are for action made.</l>
+            <l>When am'rous SPRING, repairing all his charms,</l>
+            <l>Calls Nature forth from hoary Winter's arms,</l>
+            <l>
+               <pb n="23" facs="25"/>Where, like a Virgin to some letcher sold,</l>
+            <l>Three wretched months, she lay benumb'd, and cold;</l>
+            <l>When the weak Flow'r, which, shrinking from the breath</l>
+            <l>Of the rude North, and, timorous of Death,</l>
+            <l>To its kind Mother Earth for shelter fled,</l>
+            <l>And on her bosom hid its tender head,</l>
+            <l>Peeps forth afresh, and, chear'd by milder skies,</l>
+            <l>Bids in full splendour all her beauties rise;</l>
+            <l>The Hive is up in arms—expert to teach,</l>
+            <l>Nor, proudly, to be taught unwilling, each</l>
+            <l>Seems from her fellow a new zeal to catch;</l>
+            <l>Strength in her limbs, and on her wings dispatch,</l>
+            <l>The BEE goes forth; from herb to herb she flies,</l>
+            <l>From Flow'r to Flow'r, and loads her lab'ring thighs</l>
+            <l>With treasur'd sweets, robbing those Flow'rs, which left,</l>
+            <l>Find not themselves made poorer by the theft,</l>
+            <l>Their scents as lively, and their looks as fair,</l>
+            <l>As if the pillager had not been there.</l>
+            <l>Ne'er doth she flit on Pleasure's silken Wing,</l>
+            <l>Ne'er doth she, loit'ring, let the bloom of Spring</l>
+            <l>Unrifled pass, and on the downy breast</l>
+            <l>Of some fair Flow'r indulge untimely rest.</l>
+            <l>Ne'er doth she, drinking deep of those rich dews</l>
+            <l>Which Chymist Night prepar'd, that faith abuse</l>
+            <l>
+               <pb n="24" facs="26"/>Due to the hive, and, selfish in her toils,</l>
+            <l>To her own private use convert the spoils.</l>
+            <l>Love of the Stock first call'd her forth to roam,</l>
+            <l>And to the Stock she brings her booty Home.</l>
+         </lg>
+         <lg>
+            <l>Be this my Pattern—As becomes a King,</l>
+            <l>Let me fly all abroad on Reason's wing,</l>
+            <l>Let mine eye, like the Light'ning, thro' the Earth</l>
+            <l>Run to and fro, nor let one deed of Worth,</l>
+            <l>In any Place and Time, nor let one Man</l>
+            <l>Whose actions may enrich Dominion's plan,</l>
+            <l>Escape my Note; be all, from the first day</l>
+            <l>Of Nature to this hour, be all my prey.</l>
+            <l>From those, whom Time at the desire of Fame</l>
+            <l>Hath spar'd, let Virtue catch an equal flame;</l>
+            <l>From those, who not in mercy, but in rage,</l>
+            <l>Time hath repriev'd to damn from age to age,</l>
+            <l>Let me take warning, lesson'd to distill,</l>
+            <l>And, imitating Heav'n, draw Good from Ill.</l>
+            <l>Nor let these great researches in my breast</l>
+            <l>A monument of useless labour rest,</l>
+            <l>No—let them spread—th' effects let GOTHAM share,</l>
+            <l>And reap the harvest of their Monarch's care,</l>
+            <l>
+               <pb n="25" facs="27"/>Be other Times, and other Countries known,</l>
+            <l>Only to give fresh Blessings to my own.</l>
+         </lg>
+         <lg>
+            <l>Let me (and may that God to whom I fly,</l>
+            <l>On whom for needful succour I rely</l>
+            <l>In this great Hour, that glorious God of Truth,</l>
+            <l>Thro' whom I reign, in mercy to my youth,</l>
+            <l>Assist my weakness, and, direct me right,</l>
+            <l>From ev'ry speck which hangs upon the Sight,</l>
+            <l>Purge my mind's eye, nor let one cloud remain</l>
+            <l>To spread the shades of error o'er my Brain)</l>
+            <l>Let me, Impartial, with unweary'd thought,</l>
+            <l>Try Men and Things; let me, as Monarchs ought,</l>
+            <l>Examine well on what my Pow'r depends,</l>
+            <l>What are the gen'ral Principles, and Ends</l>
+            <l>Of Government, how Empire first began,</l>
+            <l>And wherefore Man was rais'd to reign o'er Man.</l>
+         </lg>
+         <lg>
+            <l>Let me consider, as from one great Source</l>
+            <l>We see a thousand rivers take their course,</l>
+            <l>Dispers'd, and into diff'rent channels led,</l>
+            <l>Yet by their Parent still supply'd and fed,</l>
+            <l>That Government, (tho' branch'd out far and wide,</l>
+            <l>In various Modes to various lands applied)</l>
+            <l>
+               <pb n="26" facs="28"/>Howe'er it differs in its outward frame,</l>
+            <l>In the main Ground-work's ev'ry where the same;</l>
+            <l>The same her view, tho' different her plan,</l>
+            <l>Her grand and gen'ral view, the Good of Man.</l>
+         </lg>
+         <lg>
+            <l>Let me find out, by Reason's sacred beams,</l>
+            <l>What System in itself most perfect seems,</l>
+            <l>Most worthy Man, most likely to conduce</l>
+            <l>To all the purposes of gen'ral use;</l>
+            <l>Let me find too, where, by fair Reason try'd,</l>
+            <l>It fails, when to Particulars appli'd,</l>
+            <l>Why in that mode all Nations do not join,</l>
+            <l>And, chiefly, why it cannot suit with mine.</l>
+         </lg>
+         <lg>
+            <l>Let me the gradual Rise of empires trace</l>
+            <l>'Till they seem'd founded on Perfection's base,</l>
+            <l>Then (for when human things have made their way</l>
+            <l>To Excellence, they hasten to decay)</l>
+            <l>Let me, whilst Observation lends her clue,</l>
+            <l>Step by Step, to their quick Decline pursue,</l>
+            <l>Enabled by a chain of Facts to tell</l>
+            <l>Not only how they rose, but how they fell.</l>
+         </lg>
+         <lg>
+            <pb n="27" facs="29"/>
+            <l>Let me not only the distempers know</l>
+            <l>Which in all States from common causes grow,</l>
+            <l>But likewise those, which by the will of Fate,</l>
+            <l>On each peculiar mode of Empire wait,</l>
+            <l>Which in its very Constitution lurk,</l>
+            <l>Too sure at last, to do its destin'd work;</l>
+            <l>Let me, forewarn'd, each Sign, each System learn,</l>
+            <l>That I my people's danger may discern,</l>
+            <l>E'er 'tis too late wish'd Health to re-assure,</l>
+            <l>And, if it can be found, find out a cure.</l>
+         </lg>
+         <lg>
+            <l>Let me (tho' great, grave Brethren of the gown,</l>
+            <l>Preach all Faith up, and preach all Reason down,</l>
+            <l>Making those jar, whom Reason meant to join,</l>
+            <l>And vesting in themselves a right divine)</l>
+            <l>Let me, thro' Reason's glass, with searching eye,</l>
+            <l>Into the depth of that Religion pry,</l>
+            <l>Which Law hath sanction'd; let me find out there</l>
+            <l>What's Form, what's Essence; what, like vagrant Air,</l>
+            <l>We well may change; and what, without a crime,</l>
+            <l>Cannot be chang'd to the last Hour of Time.</l>
+            <l>Nor let me suffer that outrageous zeal,</l>
+            <l>Which, without knowledge, furious Bigots feel,</l>
+            <l>
+               <pb n="28" facs="30"/>Fair in pretence, tho' at the heart unfound,</l>
+            <l>These sep'rate points at random to confound.</l>
+         </lg>
+         <lg>
+            <l>The Times have been, when priests have dar'd to tread,</l>
+            <l>Proud and insulting, on their Monarch's head,</l>
+            <l>When, whilst they made Religion a pretence,</l>
+            <l>Out of the World they banish'd common sense,</l>
+            <l>When some soft King, too open to deceit,</l>
+            <l>Easy and unsuspecting, join'd the cheat,</l>
+            <l>Dup'd by mock Piety, and gave his name</l>
+            <l>To serve the vilest purposes of shame.</l>
+            <l>Fear not, my People, where no cause of fear</l>
+            <l>Can justly rise—Your King secures you here,</l>
+            <l>Your King, who scorns the haughty prelate's nod,</l>
+            <l>Nor deems the voice of priests, the voice of God.</l>
+         </lg>
+         <lg>
+            <l>Let me (tho' Lawyers may perhaps forbid</l>
+            <l>Their Monarch to behold what they wish hid,</l>
+            <l>And, for the purposes of knavish gain,</l>
+            <l>Would have their trade a mystery remain)</l>
+            <l>Let me, disdaining all such slavish awe,</l>
+            <l>Dive to the very bottom of the Law;</l>
+            <l>Let me (the weak, dead letter left behind)</l>
+            <l>Search out the Principles, the Spirit find,</l>
+            <l>
+               <pb n="29" facs="31"/>Till, from the parts, made master of the whole,</l>
+            <l>I see the <hi>Constitution</hi>'s very Soul.</l>
+         </lg>
+         <lg>
+            <l>Let me (tho' Statesmen will no doubt resist,</l>
+            <l>And to my eyes present a fearful lift</l>
+            <l>Of men, whose wills are opposite to mine,</l>
+            <l>Of men, great men, determin'd to resign)</l>
+            <l>Let me (with firmness, which becomes a King,</l>
+            <l>Conscious from what a source my actions spring,</l>
+            <l>Determin'd not by worlds to be withstood,</l>
+            <l>When my grand object is my Country's Good)</l>
+            <l>Unravel all low Ministerial scenes,</l>
+            <l>Destroy their jobs, lay bare their ways and means,</l>
+            <l>And track them step by step; let me well know</l>
+            <l>How Places, Pensions, and Preferments go,</l>
+            <l>Why Guilt's provided for, when Worth is not,</l>
+            <l>And why one Man of merit is forgot,</l>
+            <l>Let me in Peace, in War, Supreme preside,</l>
+            <l>And dare to know my way without a Guide.</l>
+         </lg>
+         <lg>
+            <l>Let me (tho' Dignity, by nature proud,</l>
+            <l>Retires from view, and <hi>swells</hi> behind a cloud,</l>
+            <l>As if the Sun shone with less pow'rful ray,</l>
+            <l>Less Grace, less Glory, shining ev'ry day;</l>
+            <l>
+               <pb n="30" facs="32"/>Tho' when she comes forth into public sight,</l>
+            <l>Unbending as a Ghost, she stalks upright,</l>
+            <l>With such an air as we have often seen,</l>
+            <l>And often laugh'd at in a tragic queen,</l>
+            <l>Nor, at her presence, tho' base Myriads crook</l>
+            <l>The supple knee, vouchsafes a single look.</l>
+            <l>Let me (all vain parade, all empty pride,</l>
+            <l>All terrors of Dominion laid aside,</l>
+            <l>All ornament, and needless helps of art,</l>
+            <l>All those big looks, which speak a little Heart)</l>
+            <l>Know (which few Kings alas! have ever known)</l>
+            <l>How Affability becomes a Throne,</l>
+            <l>Destroys all fear, bids Love with Rev'rence live,</l>
+            <l>And gives those Graces Pride can never give.</l>
+            <l>Let the stern Tyrant keep a distant state,</l>
+            <l>And, hating all Men, fear return of Hate,</l>
+            <l>Conscious of Guilt, retreat behind his throne,</l>
+            <l>Secure from all upbraidings but his own,</l>
+            <l>Let all my Subjects have access to Me,</l>
+            <l>Be my ears open as my heart is free;</l>
+            <l>In full, fair tide, let Information flow,</l>
+            <l>That evil is half cur'd, whose cause we know.</l>
+         </lg>
+         <lg>
+            <pb n="31" facs="33"/>
+            <l>And thou, where e'er thou art, thou wretched Thing,</l>
+            <l>Who art afraid to look up to a King,</l>
+            <l>Lay by thy fears—make but thy grievance plain,</l>
+            <l>And, if I not redress thee, may my Reign</l>
+            <l>Close up that very Moment—to prevent</l>
+            <l>The course of JUSTICE, from her fair intent,</l>
+            <l>In vain my nearest, dearest friend shall plead,</l>
+            <l>In vain my mother kneel—my soul may bleed,</l>
+            <l>But must not change—When JUSTICE draws the dart,</l>
+            <l>Tho' it is doom'd to, pierce a Fav'rite's Heart,</l>
+            <l>'Tis mine to give it force, to give it aim—</l>
+            <l>I know it Duty, and I feel it Fame.</l>
+         </lg>
+         <trailer>THE END OF THE THIRD BOOK.</trailer>
+      </body>
+      <back>
+         <div type="bythesameauthor">
+            <pb facs="34"/>
+            <head>BOOKS written by Mr. CHURCHILL, to be had of all the Booksellers in Town.</head>
+            <p>A Volume in Quarto, containing the <hi>Rosciad, Apology, Night, Prophecy of Famine, Epistle to Hogarth,</hi> and <hi>Ghost,</hi> four books. Price thirteen Shillings, in Sheets.</p>
+            <p>
+               <hi>Conference, Author, Duellist, Gotham</hi> first and second Books, <hi>Candidate,</hi> and <hi>Farewell.</hi> Price each, Two Shillings and Sixpence.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

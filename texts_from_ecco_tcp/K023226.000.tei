@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Address and declaration, of the friends of universal peace and liberty: held at the Thatched House Tavern, St. James's Street. August 20th. 1791. By Thomas Paine, ... Together with some verses, by the same author, ...</title>
+            <author>Paine, Thomas, 1737-1809.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023226.000</idno>
+            <idno type="docno">cw3303827271</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Address and declaration, of the friends of universal peace and liberty: held at the Thatched House Tavern, St. James's Street. August 20th. 1791. By Thomas Paine, ... Together with some verses, by the same author, ...</title>
+                  <author>Paine, Thomas, 1737-1809.</author>
+               </titleStmt>
+               <extent>8p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London,</pubPlace>
+                  <date>1791?]</date>
+                  <idno type="TCP">K023226.000</idno>
+                  <idno type="docno">cw3303827271</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT5788.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>ADDRESS AND DECLARATION, OF THE FRIEND'S OF UNIVERSAL <hi>PEACE and LIBERTY,</hi> HELD AT THE THATCHED HOUSE TAVERN, ST. JAMES'S STREET. August 20th. 1791.</p>
+            <p>
+               <hi>BY THOMAS PAINE,</hi> AUTHOR OF THE WORKS INTITLED COMMON SENSE, AND THE RIGHTS OF MAN.</p>
+            <p>TOGETHER WITH <hi>SOME VERSES,</hi> By the same Author, Which were printed in a PENSYLVANIAN Newspaper.</p>
+            <p>Price TWO PENCE.</p>
+         </div>
+      </front>
+      <body>
+         <div type="address">
+            <pb facs="2"/>
+            <head>
+               <note place="bottom" n="‡">
+                  <gap resp="#pdcc" extent="1 span" rend="content:〈…〉">
+                     <desc>illegible</desc>
+                  </gap>, second part of rights of man.</note> ADDRESS AND DECLARATION.</head>
+            <opener>
+               <salute>Friends and fellow Citizens.</salute>
+            </opener>
+            <p>AT a moment like the present, when wilful mis<lb rend="hidden" type="hyphenInWord"/>representations are industriously spread by the partizans of ar<gap resp="#pdcc" extent="4 letters" rend="content:••••">
+                  <desc>illegible</desc>
+               </gap>ary power, and the advocates of passive obedie<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ce and Court-G<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>vernment; we think it incumbent upon us to declare to the world our principles, and the motives of our conduct.</p>
+            <p>We rejoice at the glorious event of the <hi>French Revol<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>tion.</hi>
+            </p>
+            <p>If it be asked—What is the French Revolution to us?</p>
+            <p>We answer (as has been already answered in ano<lb rend="hidden" type="hyphenInWord"/>ther place<note place="bottom" n="*">
+                  <gap resp="#pdcc" extent="1 span" rend="content:〈…〉">
+                     <desc>illegible</desc>
+                  </gap> of the vol<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>teers of Be<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>a<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>t.</note>) <hi>It it much.</hi>—Much to us as men: Much to us as Englishmen.</p>
+            <p>As men, we rejoice in the freedom of twenty five millions of our fellow m<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>n. We rejoice in the pros<lb rend="hidden" type="hyphenInWord"/>pect, which such a magnificent example opens to the world. We congratulate the French nation for ha<lb rend="hidden" type="hyphenInWord"/>ving laid the axe to the root of tyranny, and for erecting Government on the sacred HEREDITARY Rights of MAN.—Rights, which appertain to ALL, and not to a yo<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>e more than to another. We know of <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>o human authority, superior to that of a whole nation: a<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>d we profess and proclaim it as our prin<lb rend="hidden" type="hyphenInWord"/>ciple that every nation has at all times, an inherent, indefeasible right to constitute and establish such Go<lb rend="hidden" type="hyphenInWord"/>vernment for itself as best accords with its disposi<lb rend="hidden" type="hyphenInWord"/>tion, interest and happiness.</p>
+            <p>
+               <pb n="3" facs="3"/>As Englishmen, we also rejoice, because we are <hi>immediately</hi> interested in the French Revolution.</p>
+            <p>Without enquiring into the justice, on either side of the reproachful charges of intrigue and ambition, which the English and French Court have constant<lb rend="hidden" type="hyphenInWord"/>ly made on each other, we confine ourselves to this observation:—That if the Court of France only was in fault, and the numerous wars which have distres<lb rend="hidden" type="hyphenInWord"/>ed both countries are chargeable to her alone, that Court now exists no longer; and the cause and the consequence must cease together. The French, therefore, by the Revolution they have made, have conquered for us as well as for themselves; if it be true, that their Court only was in fault and ours never.</p>
+            <p>On this state of the case, the French Revolution concerns us <hi>immediately:</hi> We are oppressed with a heavy National debt, a burthen of taxes, and an expensive administration of Government; beyond those of any people in the world. We have also a very numerous poor: and we hold, that the moral obligation of providing for old age, helpless infancy and poverty, is far superior to that of supplying the invented wants of courtly extravagance, ambition and intrigue.</p>
+            <p>We believe there is no instance to be produced, but in England, of <hi>seven</hi> millions of inhabitants, which make but little more than <hi>one</hi> million of families, paying yearly SEVENTEEN MILIONS of taxes.</p>
+            <p>As it has always been held out by all administra<lb rend="hidden" type="hyphenInWord"/>tions, that the restless ambition of the Court of France rendered this expence necessary to us for our own defence: we consequently rejoice as men deeply interested in the French Revolution: for that Cour<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>
+               <pb n="4" facs="4"/>as we have already said exists no longer; and con<lb rend="hidden" type="hyphenInWord"/>sequently the same enormous expences need not continue to us.</p>
+            <p>Thus rejoicing, as we sincerely do, both as men and Englishmen, as lovers of universal peace and freedom, and as friends to our own national prospe<lb rend="hidden" type="hyphenInWord"/>rity and a reduction of our public expences: we cannot but express our astonishment, that any part, or any Members of our own Government, should re<lb rend="hidden" type="hyphenInWord"/>probate the extinction of that very power in France, or wish to see it restored, to whose influence they formerly attributed (whilst they appeared to lament) the enormous increase of our own burthens and tax<lb rend="hidden" type="hyphenInWord"/>es. What then, Are they sorry that the pretence for new oppressive taxes, and the occasion for continu<lb rend="hidden" type="hyphenInWord"/>ing many old taxes, will be at an end?—If so, and if it is the policy of Courts and Court Government to prefer enemies to friends, and a system of war to that of peace, as affording more pretences for Pla<lb rend="hidden" type="hyphenInWord"/>ces, Offices, Pensions, Revenue and Taxation, it is high time for the people of every nation to look with circumspection to their own interest.</p>
+            <p>Those who <hi>pay</hi> the expence, and, <hi>not</hi> those who <hi>participate</hi> in the emoluments arising from it, are the persons immediately interested in enquiries of this kind. We are a part of that National body, on whom this annual expence of seventeen millions falls; and we consider the present opportunity of the French Revolution, as a most happy one for lessening the enormous load, under which this nation groans. If this be not done, we shall then have reason to con<lb rend="hidden" type="hyphenInWord"/>clude, that the cry of intrigue and ambition against <hi>other</hi> Courts is no more than the common cant of <hi>all</hi> Courts.</p>
+            <p>
+               <pb n="5" facs="5"/>We think it also necessary to express our astonish<lb rend="hidden" type="hyphenInWord"/>ment, that a Government desirous of being called FREE, should prefer connexions with the most des<lb rend="hidden" type="hyphenInWord"/>potic and arbitary powers in Europe. We know of none more deserving this description, than those of Turkey and Prussia, and the whole combination of German despots.—Separated as we happily are by nature from the tumults of the Continent we repro<lb rend="hidden" type="hyphenInWord"/>bate all systems and intrigues which sacrifice (and that too at a great expence) the blessings of our natural si<lb rend="hidden" type="hyphenInWord"/>tuation. —Such systoms cannot have a national origin.</p>
+            <p>If we are asked, What Government is?—We hold it to be nothing more than a NATIONAL ASSOCIATION and we hold that to be the best, which secures to eve<lb rend="hidden" type="hyphenInWord"/>ry man his rights, and promotes the greatest quantity of happiness with the <hi>least expence.</hi>
+            </p>
+            <p>We live to improve, or we live in vain; and therefore we admit of no maxims of government or policy, on the mere score of antiquity, or other men's authority, the <hi>Old</hi> Whigs, or the <hi>New.</hi>
+            </p>
+            <p>We will exercise the reason with which we are en<lb rend="hidden" type="hyphenInWord"/>dued, or we possess it unworthily. As reason is gi<lb rend="hidden" type="hyphenInWord"/>ven at all times, it is for the purpose of being used at all times.</p>
+            <p>Among the blessings which the French Revolution has produced to that nation, we enumerate the abo<lb rend="hidden" type="hyphenInWord"/>lition of the feudal system of injustice and tyranny, on the 4th. of August, 1789. Beneath the feudal system all Europe has long groaned, and from it En<lb rend="hidden" type="hyphenInWord"/>gland is not yet free. Game-laws, borough-tenures and tyrannical monopolies of numerous kinds still remain amongst us: but rejoicing as we sincerely do, in the freedom of others, till we shall happily accom<lb rend="hidden" type="hyphenInWord"/>plish
+<pb n="6" facs="6"/>our own, we intended to commemorate this prelude to the universal extirpation of the feudal system, by meeting on the anniversary of that day, (the 4th, of August) at the Crown and Anchor. From this meeting we were prevented by the inter<lb rend="hidden" type="hyphenInWord"/>ference of certain <hi>unnamed</hi> and <hi>sculking</hi> persons with the Master of the Tavern, who informed us that on <hi>their</hi> representations he could not receive us.—Let those who live by, or countenance feudal oppressions take the reproach of this ineffectual meanness and cowardice to themselves. They cannot stifle the pub<lb rend="hidden" type="hyphenInWord"/>lic declaration of our honest, open, and avowed opinions.</p>
+            <p>These are our principles, and these our sentiments. They embrace the interest and happiness of the great body of the nation of which we are a part. As to riots and tumults, let those answer for them, who by wilful misrepresentations endeav<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ur to excite and promote them; or, who seek to <hi>stun</hi> the sense of the nation, and lose the great cause of public good, in the outrages of a misinformed mob. We take our ground on principles that require no such riotous aid. We have nothing to apprehend from the poor; for we are pleading their cause. And we fear not proud oppression; for we have Truth on our side.</p>
+            <p>We say, and we repeat it; that the French Revo<lb rend="hidden" type="hyphenInWord"/>lution opens to the world an opportunity, in which all good citizens must rejoice; that of promoting the general happiness of Man. And that it, more<lb rend="hidden" type="hyphenInWord"/>over, offers to this country in particular an oppor<lb rend="hidden" type="hyphenInWord"/>tunity of reducing our enormous Taxes.</p>
+            <p>These are our objects, and we will pursue them.</p>
+            <closer>
+               <signed>
+                  <hi>JOHN H<gap resp="#pdcc" extent="4 letters" rend="content:••••">
+                        <desc>illegible</desc>
+                     </gap> T<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                        <desc>illegible</desc>
+                     </gap>K<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>, Cha<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                        <desc>illegible</desc>
+                     </gap>man.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="7"/>
+            <head>LINES, &amp;c.</head>
+            <byline>
+               <hi>By</hi> THOMAS PAINE,</byline>
+            <l>THE Rain pours down, the City looks forlorn,</l>
+            <l>And gloomy subjects suit the howling morn,</l>
+            <l>Close by my <gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap>e, with door and window fast,</l>
+            <l>And safely shelter'd from the driving blast,</l>
+            <l>To gayer thoughts. I bid a days adieu,</l>
+            <l>To spend a scene of solitude with you.</l>
+            <l>So oft has black Revenge engros'd the care,</l>
+            <l>Of all the leisure hours man finds to spare;</l>
+            <l>So oft has guilt in all her thousand dens,</l>
+            <l>Call'd for the vengeance of chastising Pens;</l>
+            <l>That while I fain would case my heart on you,</l>
+            <l>No thought is left untold, no passion new.</l>
+            <l>From flight to flight the mental path appears,</l>
+            <l>Worn with the steps of near six thousand years,</l>
+            <l>And fill'd throughout with every scene of pain.</l>
+            <l>From CAIN to G*****, and back from G***** to CAIN.</l>
+            <l>Alike in cruelty, alike in hate,</l>
+            <l>In guilt alike, but more alike in fate,</l>
+            <l>Both curs'd supremely for the blood they drew,</l>
+            <l>Each from the rising world, while each was new.</l>
+            <l>Go second CAIN, true likeness of the first,</l>
+            <l>And strew thy blasted head with homely dust</l>
+            <l>In ashes sit—in wretched sack-cloth weep</l>
+            <l>And with unpitied sorrows cease t<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> 
+               <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>lee,</l>
+            <l>Go haunt the tombs, and single out the place</l>
+            <l>Where earth itself shall suffer a disgrace.</l>
+            <l>Go spell the letters on some mouldring urn,</l>
+            <l>And ask if he who sleeps there can return.</l>
+            <l>Go count the numbers that in silence lie,</l>
+            <l>And learn by study what it is to die.</l>
+            <l>
+               <pb n="8" facs="8"/>
+For sure that heart—if any heart you own</l>
+            <l>Conceits that man expires without a Groan:</l>
+            <l>That he who lives receives from you a grace,</l>
+            <l>Or death is nothing but a change of place:</l>
+            <l>That peace is d<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>l<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>, that <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>y from sorrow springs,</l>
+            <l>And War the Royal ra<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                  <desc>illegible</desc>
+               </gap> shew of things,</l>
+            <l>Else wh<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> these scenes that wound the feeling mind</l>
+            <l>This sport of death—this Cockpit of Mankind.</l>
+            <l>Why sobs the widow in perpetual pain?</l>
+            <l>Why cries the Orphan?—"Oh my Father's slain"</l>
+            <l>Why hangs the Sire his paralytic head?</l>
+            <l>And nods with manly grief—"My Son is dead."</l>
+            <l>Why drops the tears from off the sisters cheek?</l>
+            <l>And sweetly tells the sorrows she would speak,</l>
+            <l>Or why in lonely steps does pensive John?</l>
+            <l>To all the neighbours tell, "Poor masters gone."</l>
+            <l>Oh could I paint the passion, I can feel,</l>
+            <l>Or point a horror that would wound like steel</l>
+            <l>To thy unfeeling, unrelenting mind</l>
+            <l>I'd send a torture and relieve mankind.</l>
+            <l>Thou that art husband, father, brother, all</l>
+            <l>The tender names which kindred learn to call.</l>
+            <l>Yet like an image carv'd in massey stone,</l>
+            <l>Th<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap> bear'st the shape, but sentiment has't none,</l>
+            <l>Al<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ied by dust and figure, not by mind,</l>
+            <l>Thou only herd'st, but liv'st not with mankind.</l>
+            <l>And prone to love, like some outrageous ape,</l>
+            <l>Thou know'st each class of beings by their shape.</l>
+            <l>Since then no hopes to civilize remain</l>
+            <l>And all petitions have gone forth in vain,</l>
+            <l>One prayer is left which dreads no proud reply,</l>
+            <l>That <hi>he</hi> who made thee breath will make thee die.</l>
+            <bibl>
+               <hi>COMMON SENSE.</hi>
+            </bibl>
+         </div>
+      </body>
+   </text>
+</TEI>

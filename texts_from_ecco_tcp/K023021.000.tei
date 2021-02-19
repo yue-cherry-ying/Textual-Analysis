@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The discovery: or, the squire turn'd ferret: An excellent new ballad. To the tune of High boys! up go we; Chevy Chase; or what you please.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023021.000</idno>
+            <idno type="docno">CW3312480308</idno>
+            <idno type="ecll">0444500600</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The discovery: or, the squire turn'd ferret: An excellent new ballad. To the tune of High boys! up go we; Chevy Chase; or what you please.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+                  <author>Bath, William Pulteney, Earl of, 1684-1764.</author>
+               </titleStmt>
+               <extent>8p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>Westminster :</pubPlace>
+                  <publisher>printed by A. Campbell; for T. Warner, and sold by the booksellers,</publisher>
+                  <date>1727 [1726]</date>
+                  <idno type="TCP">K023021.000</idno>
+                  <idno type="docno">CW3312480308</idno>
+                  <idno type="ecll">0444500600</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Alexander Pope, in collaboration with William Pulteney, by Spence on Pope's authority.</note>
+                  <note>Publication date from Twickenham edition.</note>
+                  <note>On the imposture of Mary Toft.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, D328</note>
+                  <note>English Short Title Catalog, ESTCT5529.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE DISCOVERY: OR, The SQUIRE turn'd FERRET.</p>
+            <p>An Excellent New BALLAD.</p>
+            <p>To the TUNE of <hi>High Boys! up go we; Chevy Chase;</hi> Or what you please.</p>
+            <q>
+               <l>Heu me! per Urbem (nam pudet tanti mali)</l>
+               <l>Fabula quanta fui!</l>
+               <bibl>HOR.</bibl>
+            </q>
+            <p>
+               <hi>WESTMINSTER:</hi> Printed by A. CAMPBELL, near <hi>New Palace-Yard;</hi> for T. WARNER, at the <hi>Black-Boy</hi> in <hi>Pater-noster-Row,</hi> and Sold by the Booksellers. 1727. [Price 6<hi>d.</hi>]</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="2"/>
+            <p>
+               <figure rend="block">
+                  <p>Cunicularii or The Wise men of Godliman in Consultation<q>
+                        <l>They held their Talents most adrait</l>
+                        <l>For any Mystical Exploit</l>
+                     </q>
+                  </p>
+                  <p>
+                     <list>
+                        <item>
+                           <hi>A</hi> The Danceing Master or Praeternatural Anatomist.</item>
+                        <item>
+                           <hi>B</hi> An Occult Philosopher searching into the Depth of things.</item>
+                        <item>
+                           <hi>C</hi> The Sooterkin Doctor astonish'd.</item>
+                        <item>
+                           <hi>D</hi> The Guilford Rabbet Man Midwife.</item>
+                        <item>
+                           <hi>E</hi> The Rabbet getter.</item>
+                        <item>
+                           <hi>F</hi> The Lady in the ftran.</item>
+                        <item>
+                           <hi>G</hi> The Nurse or Rabbet Dresser.</item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <pb facs="3"/>
+         <head>THE DISCOVERY: OR, The SQUIRE turn'd FERRET.</head>
+         <head type="sub">An Excellent New BALLAD.</head>
+         <opener>To the TUNE of <hi>High Boys! up go we; Chevy Chase;</hi> Or what you please.</opener>
+         <lg n="1">
+            <head>I.</head>
+            <l>
+               <seg rend="decorInit">M</seg>OST true it is, I dare to say,</l>
+            <l>E'er since the Days of <hi>Eve,</hi>
+            </l>
+            <l>The weakest Woman sometimes may</l>
+            <l>The wisest Man deceive.</l>
+         </lg>
+         <lg n="2">
+            <pb n="4" facs="4"/>
+            <head>II.</head>
+            <l>For <hi>D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>nt</hi> circumspect, sedate,</l>
+            <l>A <hi>Machiavel</hi> by Trade,</l>
+            <l>Arriv'd Express, with News of Weight,</l>
+            <l>And thus, at Court, he said.</l>
+         </lg>
+         <lg n="3">
+            <head>III.</head>
+            <l>At <hi>Godliman,</hi> hard by the <hi>Bull,</hi>
+            </l>
+            <l>A Woman, long thought barren,</l>
+            <l>Bears <hi>Rabbits,</hi>—Gad! so plentiful,</l>
+            <l>You'd take her for a Warren.</l>
+         </lg>
+         <lg n="4">
+            <head>IV.</head>
+            <l>These Eyes, quoth He, beheld them clear:</l>
+            <l>What, do ye doubt my View?</l>
+            <l>Behold this Narrative that's here;</l>
+            <l>Why, Zounds! and Blood! 'tis true.</l>
+         </lg>
+         <lg n="5">
+            <head>V.</head>
+            <l>Some said that <hi>D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>gl<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>s</hi> sent should be,</l>
+            <l>Some talk'd of <hi>W<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>lk<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>r</hi>'s Merit,</l>
+            <l>But most held, in this Midwifery,</l>
+            <l>No Doctor like a FERRET.</l>
+         </lg>
+         <lg n="6">
+            <head>VI.</head>
+            <l>But <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>l<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>n<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>x,</hi> who heard this told,</l>
+            <l>(Right wary He and wise)</l>
+            <l>Cry'd sagely, 'Tis not safe, I hold,</l>
+            <l>To trust to <hi>D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>nt</hi>'s Eyes.</l>
+         </lg>
+         <lg n="7">
+            <pb n="5" facs="5"/>
+            <head>VII.</head>
+            <l>A Vow to God He then did make</l>
+            <l>He would himself go down,</l>
+            <l>
+               <hi>St. A<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>re</hi> too, the Scale to take</l>
+            <l>Of that <hi>Phoenomenon.</hi>
+            </l>
+         </lg>
+         <lg n="8">
+            <head>VIII.</head>
+            <l>He order'd then his Coach and Four;</l>
+            <l>(The Coach was quickly got 'em)</l>
+            <l>Resolv'd this <hi>Secret</hi> to explore,</l>
+            <l>And search it to the <hi>Bottom.</hi>
+            </l>
+         </lg>
+         <lg n="9">
+            <head>IX.</head>
+            <l>At <hi>Godliman</hi> they now arrive,</l>
+            <l>For Haste they made exceeding;</l>
+            <l>As Courtiers should, whene'er they strive</l>
+            <l>To be inform'd of Breeding.</l>
+         </lg>
+         <lg n="10">
+            <head>X.</head>
+            <l>The good Wife to the Surgeon sent,</l>
+            <l>And said to him, Good Neighbour,</l>
+            <l>'Tis pity that two Suqires so Gent—</l>
+            <l>should come and lose their Labour.</l>
+         </lg>
+         <lg n="11">
+            <head>XI.</head>
+            <l>The Surgeon with a <hi>Rabbit</hi> came,</l>
+            <l>But first in Pieces cut it;</l>
+            <l>Then slyly thrust it up <hi>that same,</hi>
+            </l>
+            <l>As far as Man could put it.</l>
+         </lg>
+         <lg n="12">
+            <pb n="6" facs="6"/>
+            <head>XII.</head>
+            <l>(Ye <hi>Guildford</hi> Inn-keepers take heed</l>
+            <l>You dress not such a <hi>Rabbit,</hi>
+            </l>
+            <l>Ye Poult'rers eke, destroy the Breed,</l>
+            <l>'Tis so unsav'ry a-Bit.)</l>
+         </lg>
+         <lg n="13">
+            <head>XIII.</head>
+            <l>But hold! says <hi>Molly,</hi> first let's try,</l>
+            <l>Now that her Legs are ope,</l>
+            <l>If ought within we may descry</l>
+            <l>By Help of Telescope.</l>
+         </lg>
+         <lg n="14">
+            <head>XIV.</head>
+            <l>The Instrument himself did make,</l>
+            <l>He rais'd and level'd right,</l>
+            <l>But all about was so opake,</l>
+            <l>It could not aid his Sight.</l>
+         </lg>
+         <lg n="15">
+            <head>XV.</head>
+            <l>On Tiptoe then the Squire he stood,</l>
+            <l>(But first He gave Her Money)</l>
+            <l>Then reach'd as high as e'er He cou'd,</l>
+            <l>And cry'd, I feel a CONY.</l>
+         </lg>
+         <lg n="16">
+            <head>XVI.</head>
+            <l>Is it alive? <hi>St. A<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>re</hi> cry'd;</l>
+            <l>It is; I feel it stir.</l>
+            <l>Is it full grown? the Squire reply'd;</l>
+            <l>It is; see here's the FUR.</l>
+         </lg>
+         <lg n="17">
+            <pb n="7" facs="7"/>
+            <head>XVII.</head>
+            <l>And now two Legs <hi>St. A<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>re</hi> got,</l>
+            <l>And then came two Legs more;</l>
+            <l>Now fell the Head to <hi>Molly</hi>'s Lot,</l>
+            <l>And so the Work was o'er.</l>
+         </lg>
+         <lg n="18">
+            <head>XVIII.</head>
+            <l>The Woman, thus being brought to Bed,</l>
+            <l>Said, to reward your Pains,</l>
+            <l>
+               <hi>St. A<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>nd<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>re</hi> shall dissect the Head,</l>
+            <l>And thou shalt have the Brains.</l>
+         </lg>
+         <lg n="19">
+            <head>XIX.</head>
+            <l>He lap'd it in a Linnen Rag,</l>
+            <l>Then thank'd Her for Her Kindness;</l>
+            <l>And cram'd it in the Velvet Bag</l>
+            <l>That serves his R<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>l H<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>
+            </l>
+         </lg>
+         <lg n="20">
+            <head>XX.</head>
+            <l>That Bag—which <hi>Jenny,</hi> wanton Slut,</l>
+            <l>First brought to foul Disgrace;</l>
+            <l>Stealing the Papers thence she put</l>
+            <l>
+               <hi>Veal-Cutlets</hi> in their Place.</l>
+         </lg>
+         <lg n="21">
+            <head>XXI.</head>
+            <l>O! happy would it be, I ween,</l>
+            <l>Could they these <hi>Rabbits</hi> smother;</l>
+            <l>
+               <hi>Molly</hi> had ne'er a Midwife been,</l>
+            <l>Nor she a shameful Mother.</l>
+         </lg>
+         <lg n="22">
+            <pb n="8" facs="8"/>
+            <head>XXII.</head>
+            <l>Why has the Proverb falsly said</l>
+            <l>
+               <hi>Better two Heads than one;</hi>
+            </l>
+            <l>Could <hi>Molly</hi> hide this <hi>Rabbit</hi>'s Head,</l>
+            <l>He still might shew his own.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

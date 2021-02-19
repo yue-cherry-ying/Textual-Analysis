@@ -1,0 +1,640 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the use of riches: an epistle to the Right Honorable Allen Lord Bathurst. By Mr. Pope.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023165.000</idno>
+            <idno type="docno">CW3316338637</idno>
+            <idno type="ecll">0687900300</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the use of riches: an epistle to the Right Honorable Allen Lord Bathurst. By Mr. Pope.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>[2],20p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed by J. Wright, for Lawton Gilliver,</publisher>
+                  <date>1732 [1733]</date>
+                  <idno type="TCP">K023165.000</idno>
+                  <idno type="docno">CW3316338637</idno>
+                  <idno type="ecll">0687900300</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Most copies read 'ypon' in p. 13, line 13, for 'yon'; the error is noted in the erratum on p. 20" (Foxon).</note>
+                  <note>Variant: yon.</note>
+                  <note>Publication date from Foxon.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P923-4</note>
+                  <note>Griffith, 280-2</note>
+                  <note>English Short Title Catalog, ESTCT5712.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>OF THE
+USE of RICHES,</p>
+            <p>AN
+EPISTLE
+To the Right Honorable
+<hi>ALLEN</hi> Lord <hi>BATHURST.</hi>
+            </p>
+            <p>By Mr. POPE.</p>
+            <p>
+               <hi>LONDON:</hi>
+Printed by <hi>J. Wright,</hi> for LAWTON GILLIVER
+at <hi>Homer</hi>'s <hi>Head</hi> against <hi>St. Dunstan's Church</hi> in
+<hi>Fleetstreet,</hi> 1732. Price 1. <hi>s.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <pb n="1" facs="2"/>
+         <head>AN
+EPISTLE
+To the Right Honorable
+<hi>ALLEN</hi> Lord <hi>BATHURST.</hi>
+         </head>
+         <lg>
+            <l>WHO shall decide, when Doctors dis-agree,</l>
+            <l>And soundest Casuists doubt, like you
+and me?</l>
+            <l>You hold the word from Jove to Momus giv'n,</l>
+            <l>That Man was made the standing Jest of Heav'n,</l>
+            <l>And Gold but sent to keep the Fools in play,</l>
+            <l>For half to heap, and half to throw away.</l>
+         </lg>
+         <lg>
+            <pb n="2" facs="3"/>
+            <l>But I, who think more highly of our Kind,</l>
+            <l>(And surely Heav'n and I are of a mind)</l>
+            <l>Opine, that Nature, as in duty bound,</l>
+            <l>Deep hid the shining Mischief under ground:</l>
+            <l>But when, by Man's audacious Labor won,</l>
+            <l>Flam'd forth this Rival to its Sire the Sun,</l>
+            <l>Then, in plain prose, were made two sorts of men,</l>
+            <l>To squander some, and some to hide agen.</l>
+         </lg>
+         <lg>
+            <l>Like Doctors thus, when much Dispute has past,</l>
+            <l>We find our Tenets just the same at last:</l>
+            <l>Both fairly owning Riches in effect</l>
+            <l>No Grace of Heav'n, or Token of th' Elect;</l>
+            <l>Giv'n to the Fool, the Mad, the Vain, the Evil,</l>
+            <l>To W<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>rd, to W<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>t<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>rs, Ch<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>rs, and the Devil.</l>
+         </lg>
+         <lg>
+            <l>What Nature wants, commodious Gold bestows,</l>
+            <l>'Tis thus we eat the bread another sows:</l>
+            <l>But how unequal it bestows, observe,</l>
+            <l>'Tis thus we riot, while who sow it, starve.</l>
+            <l>What Nature wants (a phrase I much distrust)</l>
+            <l>Extends to Luxury, extends to Lust;</l>
+            <l>And if we count among the Needs of life</l>
+            <l>Another's Toil, why not another's Wife?</l>
+            <l>
+               <pb n="3" facs="4"/>
+Useful, we grant, it serves what life requires,</l>
+            <l>But dreadful too, the dark Assassin hires:</l>
+            <l>Trade it may help, Society extend;</l>
+            <l>But lures the Pyrate, and corrupts the Friend:</l>
+            <l>It raises Armies in a nation's aid,</l>
+            <l>But bribes a Senate, and the Land's betray'd.</l>
+         </lg>
+         <lg>
+            <l>Oh! that such Bulky bribes as all might <hi>see</hi>
+            </l>
+            <l>Still, as of old, encumber'd Villainy!</l>
+            <l>In vain may Heroes fight, and Patriots rave,</l>
+            <l>If secret Gold saps on from knave to knave.</l>
+            <l>Could France or Rome divert our brave designs,</l>
+            <l>With all their brandies, or with all their wines?</l>
+            <l>What could they more than knights and squires con<lb rend="hidden" type="hyphenInWord"/>found,</l>
+            <l>Or water all the Quorum ten miles round?</l>
+            <l>A statesman's slumbers how this speech would spoil,</l>
+            <l>" Sir, Spain has sent a thousand jars of oyl;</l>
+            <l>" Huge bales of British cloth blockade the door;</l>
+            <l>" A hundred Oxen at your levee roar.</l>
+         </lg>
+         <lg>
+            <l>Poor Avarice one torment more would find,</l>
+            <l>Nor could Profusion squander all, in kind.</l>
+            <l>Astride his Cheese Sir Morgan might we meet,</l>
+            <l>And Worldly crying Coals from street to street,</l>
+            <l>
+               <pb n="4" facs="5"/>
+Whom with a Wig so wild, and Mien so maz'd,</l>
+            <l>Pity mistakes for some poor Tradesman craz'd.</l>
+            <l>Had H<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>wl<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>y's fortune layn in Hops and Hogs,</l>
+            <l>Scarce H<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>wl<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>y's self had sent it to the dogs.</l>
+            <l>His Grace will game: to White's a Bull be led,</l>
+            <l>With spurning heels and with a butting head;</l>
+            <l>To White's be carry'd, as to ancient Games,</l>
+            <l>Fair Coursers, Vases, and alluring Dames.</l>
+            <l>Shall then Uxorio, if the stakes he sweep,</l>
+            <l>Bear home six Whores, and make his Lady weep?</l>
+            <l>Or soft Adonis, so perfum'd and fine,</l>
+            <l>Drive to St. James's a whole herd of Swine?</l>
+            <l>Oh filthy Check on all industrious skill,</l>
+            <l>To spoil the Nation's last great Trade, Quadrille!</l>
+         </lg>
+         <lg>
+            <l>Once, we confess, beneath the Patriot's cloak,<note place="bottom">
+                  <hi>Beneath the Patriot's Cloak.</hi>] This is a true Story, which happen'd in the Reign of King William, to an eminent unsuspected old Patriot; who coming out at the Back-door from having been closeted by the King, where he had received a large Bag or Guineas, the Bursting of the Bag discover'd his Business there.</note>
+            </l>
+            <l>From the crack'd bagg the dropping Guinea spoke,</l>
+            <l>And gingling down the back-stairs, told the Crew,</l>
+            <l>" Old Cato is as great a Rogue as you."</l>
+            <l>Blest Paper-credit! that advanc'd so high,</l>
+            <l>Shall lend Corruption lighter wings to fly!</l>
+            <l>
+               <pb n="5" facs="6"/>
+Gold, imp'd with this, may compass hardest things,</l>
+            <l>May pocket States, or fetch or carry Kings;</l>
+            <l>A single Leaf may waft an Army o'er,</l>
+            <l>Or ship off Senates to some distant shore;</l>
+            <l>A Leaf like Sybil's, scatter to and fro</l>
+            <l>Our Fates and Fortunes, as the winds shall blow.</l>
+         </lg>
+         <lg>
+            <l>Well then, since with the world we stand or fall,</l>
+            <l>Come take it as we find it, Gold and all.</l>
+         </lg>
+         <lg>
+            <l>What Riches give us, let us first enquire:</l>
+            <l>Meat, fire, and cloaths; what more? Meat, cloaths, and fire.</l>
+            <l>Is this too little? wou'd you more than live?</l>
+            <l>Alas 'tis more than Tu * * r finds they give.</l>
+            <l>Alas 'tis more than (all his Visions past.)</l>
+            <l>Unhappy Wh * * n waking found at last!</l>
+            <l>What can they give? to dying <note place="bottom" n="†">A Citizen whose Rapacity obtain'd him the Name of Vultur. He dy'd worth three hundred thousand Pounds, and left it to no Person living, but to the first Son that should be born of the first Daughter of his next Relation. Being told by his Lawyer, that it would probably be thirty Years before his Money could be inherited, and it must all that time lie at Interest, he answer'd, He liked it the better, and so died.</note>H * p * s, Heirs?</l>
+            <l>To Chartres, Vigour? Japhet, Nose and Ears?<note place="bottom">
+                  <hi>Japhet, Nose and Ears.</hi>] Japhet Crook alias Sir Peter Stranger, was punish'd with the Loss of those Parts, for having forg'd a Conveyance of an Estate to himself, upon which he took up several Thousand Pounds. He was at the same time sued in Chancery on suggestion of having fraudulently obtain'd a Will, by which he possest another very considerable Estate, in wrong of the Brother of the Deceas'd.</note>
+            </l>
+            <l>
+               <pb n="6" facs="7"/>
+Can they in Gems bid pallid Hippia glow?</l>
+            <l>In Fulvia's Buckle ease the Throbs below?</l>
+            <l>Or heal, old Narses, thy obscener ail,</l>
+            <l>With all th' Embroid'ry plaister'd at thy Tail?</l>
+            <l>They might, (were Harpax not too wise to spend)</l>
+            <l>Give Harpax self the Blessing of a Friend;</l>
+            <l>Or find some Doctor, that wou'd save the Life</l>
+            <l>Of wretched Shylock, spite of Shylock's Wife.</l>
+            <l>But thousands die, without or this, or that,</l>
+            <l>Die, and endow a College, or a <note place="bottom" n="*">A famous Dutchess in her last Will left considerable Annuities and Legacies to her Cats.</note>Cat:</l>
+            <l>To some indeed Heav'n grants the happier Fate</l>
+            <l>T'enrich a Bastard, or a Son they hate.</l>
+         </lg>
+         <lg>
+            <l>Perhaps you think the Poor might have their part?</l>
+            <l>B*nd damns the Poor, and hates them from his heart:</l>
+            <l>The grave Sir G * * t holds it for a Rule,</l>
+            <l>That every Man in want is Knave or Fool:</l>
+            <l>" God cannot love, (says Bl * t, with lifted eyes)</l>
+            <l>" The Wretch he starves"—and piously denies:</l>
+            <l>But Rev'rend S * * n with a softer Air,</l>
+            <l>Admits, and leaves them, Providence's Care.</l>
+         </lg>
+         <lg>
+            <pb n="7" facs="8"/>
+            <l>Yet, to be just to these poor Men of Pelf,</l>
+            <l>Each does but hate his Neighbour as himself:</l>
+            <l>Damn'd to the Mines, an equal Fate betides</l>
+            <l>The Slave that digs it, and the Slave that hides.</l>
+            <l>Who suffer thus, meer Charity should own</l>
+            <l>Must act on Reasons pow'rful tho' unknown:</l>
+            <l>Some War, some Plague, some Famine they foresee,</l>
+            <l>Some Revelation, hid from you and me.</l>
+            <l>Why S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>l<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>k wants a Meal, the cause is found,</l>
+            <l>He thinks a Loaf will rise to fifty pound.</l>
+            <l>What made Directors cheat in South-Sea year?</l>
+            <l>To live on Ven'son when it sold so dear.<note place="bottom" n="*">In the Extravagance and Luxury of the South-Sea Year, the Price of a Haunch of Venison was from three to five pounds.</note>
+            </l>
+            <l>Ask you why Phryne the whole Auction buys?</l>
+            <l>Phryne foresees a General Excise.</l>
+            <l>Why she and Lesbia raise that monstrous Sum?</l>
+            <l>Alas! they fear a Man will cost a Plum.</l>
+         </lg>
+         <lg>
+            <l>Wise Peter sees the World's respect for Gold,</l>
+            <l>And therefore hopes this Nation may be sold:</l>
+            <l>Glorious Ambition! Peter, swell thy store,</l>
+            <l>And be what Rome's great <note place="bottom" n="*">A Roman Lawyer, so rich as to purchase the Empire, when it was set to Sale by the Praetorian Bands on the Death of Pertinax.</note>Didius was before.</l>
+         </lg>
+         <lg>
+            <pb n="8" facs="9"/>
+            <l>The Crown of Poland venal twice an Age</l>
+            <l>To just three Millions stinted modest <gap resp="#oxf" extent="1 word" rend="content: _____ ">
+                  <desc>blank</desc>
+               </gap>
+            </l>
+            <l>But nobler Scenes Maria's Dreams unfold,</l>
+            <l>Hereditary Realms, and Worlds of Gold.</l>
+            <l>Congenial Souls! whose Life one Av'rice joins,</l>
+            <l>And one Fate buries in th'<note place="bottom" n="*">Two persons of distinction, each of whom in the time of the Mississipi despi<lb rend="hidden" type="hyphenInWord"/>sed to realize above three hundred thousand pound; the Gentleman with a view to the Crown of Poland, the Lady on a Vision of the like nature. They since retir'd together into Spain, where they are still in search of Gold in the Mines of the Asturies.</note> Asturian Mines.</l>
+         </lg>
+         <lg>
+            <l>Much-injur'd Bl<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>t! why bears he Britain's hate?</l>
+            <l>A Wizard told him in these words our fate.</l>
+            <l>" At length Corruption, like a gen'ral Flood,</l>
+            <l>" (So long by watchful Ministers withstood)</l>
+            <l>" Shall deluge all; and Av'rice creeping on,</l>
+            <l>" Spread like a low-born Mist, and blot the Sun;</l>
+            <l>" Statesman and Patriot ply alike the Stocks,</l>
+            <l>" Peeress and Butler share alike the Box,</l>
+            <l>" The Judge shall job, the Bishop bite the Town,</l>
+            <l>" And mighty Dukes pack Cards for half a crown.</l>
+            <l>" See Britain sunk in Lucre's sordid charms,</l>
+            <l>" And France reveng'd of Anne's and Edward's Arms!</l>
+            <l>No poor Court-Badge, great Scriv'ner! fir'd thy brain,</l>
+            <l>No Lordly Luxury, no City Gain:</l>
+            <l>
+               <pb n="9" facs="10"/>
+But 'twas thy righteous End, asham'd to see</l>
+            <l>Senates degen'rate, Patriots disagree,</l>
+            <l>And nobly wishing Party Rage to cease,</l>
+            <l>To buy both Sides, and give thy Country Peace.</l>
+         </lg>
+         <lg>
+            <l>" All this is madness, cries a sober Sage,</l>
+            <l>But who, my Friend, has Reason in his Rage?</l>
+            <l>The ruling Passion, be it what it will,</l>
+            <l>The ruling Passion conquers Reason still.</l>
+            <l>Less mad the wildest Whimsey we can frame,</l>
+            <l>Than ev'n that Passion, if it has no Aim;</l>
+            <l>For tho' such Motives Folly you may call,</l>
+            <l>The Folly's greater to have none at all.</l>
+         </lg>
+         <lg>
+            <l>Hear then the truth: 'Tis Heav'n each Passion sends,</l>
+            <l>And diff'rent Men directs to diff'rent Ends.</l>
+            <l>" Extremes in Nature equal Good produce,</l>
+            <l>" Extremes in Man concur to general Use.</l>
+            <l>Ask we what makes one keep, and one bestow?</l>
+            <l>That Pow'r who bids the Ocean ebb and flow;</l>
+            <l>Bids Seed-time, Harvest, equal course maintain,</l>
+            <l>Thro' reconcil'd Extremes of Drought and Rain;</l>
+            <l>Builds Life on Death; on Change Duration founds,</l>
+            <l>And gives th' eternal Wheels to know their rounds.</l>
+         </lg>
+         <lg>
+            <pb n="10" facs="11"/>
+            <l>Riches, like Insects, when conceal'd they lie,</l>
+            <l>Wait but for Wings, and in their Season, fly.</l>
+            <l>Who sees pale Mammon pine amidst his Store,</l>
+            <l>Sees but a backward Steward for the Poor;</l>
+            <l>This Year a Reservoir, to keep and spare,</l>
+            <l>The next, a Fountain spouting thro' his Heir,</l>
+            <l>In lavish Streams to quench a Country's thirst,</l>
+            <l>And Men, and Dogs, shall drink him till they burst.</l>
+         </lg>
+         <lg>
+            <l>Old Cotta sham'd his fortune, and his birth,</l>
+            <l>Yet was not Cotta void of wit or worth:</l>
+            <l>What tho' (the use of barb'rous Spits forgot)</l>
+            <l>His Kitchen vy'd in coolness with his Grot;</l>
+            <l>His Court with Nettles, Moat with Cresses stor'd,</l>
+            <l>With Soups unbought, and Sallads, blest his board.</l>
+            <l>If Cotta liv'd on Pulse, it was no more</l>
+            <l>Than Bramins, Saints, and Sages did before;</l>
+            <l>To cram the Rich, was prodigal expence,</l>
+            <l>And who would take the Poor from Providence?</l>
+            <l>Like some lone Chartreuse stands the good old Hall,</l>
+            <l>Silence without, and Fasts within the wall;</l>
+            <l>No rafter'd Roofs with Dance and Tabor sound,</l>
+            <l>No Noontide-bell invites the Country round;</l>
+            <l>
+               <pb n="11" facs="12"/>
+Tenants with sighs the smoakless Tow'rs survey,</l>
+            <l>And turn th' unwilling Steeds another way,</l>
+            <l>Benighted wanderers, the Forest o'er,</l>
+            <l>Curse the sav'd Candle, and unopening Door:</l>
+            <l>While the gaunt Mastiff, growling at the Gate,</l>
+            <l>Affrights the Begger whom he longs to eat.</l>
+         </lg>
+         <lg>
+            <l>Not so his Son, he mark'd this oversight,</l>
+            <l>And then mistook reverse of wrong for right:</l>
+            <l>For what to shun will no great knowledge need,</l>
+            <l>But what to follow is a task indeed.</l>
+            <l>What slaughter'd Hecatombs, what floods of wine,</l>
+            <l>Fill the capacious Squire and deep Divine!</l>
+            <l>Yet no mean motive this profusion draws,</l>
+            <l>His Oxen perish in his Country's cause.</l>
+            <l>'Tis the dear Prince (Sir John) that crowns thy cup,</l>
+            <l>And Zeal for his great House that eats thee up.</l>
+            <l>The woods recede around the naked seat,</l>
+            <l>The sylvans groan—no matter—"for the Fleet."</l>
+            <l>Next goes his wool—"to clothe our valiant bands:"</l>
+            <l>Last, for his country's love, he sells his lands.</l>
+            <l>Bankrupt, at Court in vain he pleads his cause,</l>
+            <l>His thankless Country leaves him to her Laws.</l>
+         </lg>
+         <lg>
+            <pb n="12" facs="13"/>
+            <l>The Sense to value Riches, with the Art</l>
+            <l>T'enjoy them, and the Virtue to impart,</l>
+            <l>Not meanly, nor ambitiously persu'd,</l>
+            <l>Not sunk by sloth, nor rais'd by servitude;</l>
+            <l>To balance Fortune by a just expence,</l>
+            <l>Joyn with Oeconomy, Magnificence;</l>
+            <l>With Splendor Charity, with Plenty Health;</l>
+            <l>Oh teach us, BATHURST yet unspoil'd by wealth!</l>
+            <l>That secret rare, between th' extremes to move</l>
+            <l>Of mad Good nature, and of mean Self-love.</l>
+         </lg>
+         <lg>
+            <l>To want or worth, well-weigh'd, be bounty given,</l>
+            <l>And ease, or emulate, the care of Heaven.</l>
+            <l>Whose measure full, o'erflows on human race,</l>
+            <l>Mends Fortune's fault, and justifies her grace.</l>
+            <l>Wealth in the gross is Death, but Life diffus'd;</l>
+            <l>As Poyson heals, in just proportion us'd:</l>
+            <l>In heaps, like Ambergrise, a stink it lies,</l>
+            <l>But well dispers'd, is Incense to the skies.</l>
+         </lg>
+         <lg>
+            <l>Who starves by Nobles, or with Nobles eats?</l>
+            <l>The wretch that trusts them, and the rogue that cheats.</l>
+            <l>Is there a Lord, who knows a chearful noon</l>
+            <l>Without a Fidler, Flatt'rer, or Buffoon?</l>
+            <l>
+               <pb n="13" facs="14"/>
+Whose Table, Wit, or modest Merit share,</l>
+            <l>Un-elbow'd by a Gamester, Pimp, or Play'r?</l>
+            <l>Who copies Yours or OXFORD's better part,</l>
+            <l>To ease th' oppress'd, and raise the sinking heart?</l>
+            <l>Where-e'er he shines, oh Fortune gild the scene,</l>
+            <l>And Angels guard him in the golden Mean!</l>
+            <l>There English Bounty yet a while may stand,</l>
+            <l>And Honor linger, e're it leaves the Land.</l>
+         </lg>
+         <lg>
+            <l>But all our praises why should Lords engross?</l>
+            <l>Rise honest Muse! and sing the Man of Ross:</l>
+            <l>Pleas'd Vaga ecchoes thro' her winding bounds,</l>
+            <l>And rapid Severn hoarse applause resounds.</l>
+            <l>Who hung with woods <gap resp="#oxf" extent="2 letters" rend="content:••">
+                  <desc>illegible</desc>
+               </gap>on mountains sultry brow?</l>
+            <l>From the dry rock who bade the waters flow?</l>
+            <l>Not to the skies in useless columns tost,</l>
+            <l>Or in proud falls magnificently lost,</l>
+            <l>But clear and artless, pouring thro' the plain</l>
+            <l>Health to the sick, and solace to the swain.</l>
+            <l>Whose Cause-way parts the vale with shady rows?</l>
+            <l>Whose Seats the weary Traveller repose?</l>
+            <l>Who feeds yon Alms-house, neat, but void of state,</l>
+            <l>Where Age and Want sit smiling at the gate?</l>
+            <l>
+               <pb n="14" facs="15"/>
+Who taught that heav'n-directed Spire to rise?</l>
+            <l>The Man of Ross, each lisping babe replies.</l>
+            <l>Behold the market-place with poor o'erspread!</l>
+            <l>The Man of Ross divides the weekly bread:</l>
+            <l>Him portion'd maids, apprentic'd orphans blest,</l>
+            <l>The young who labour, and the old who rest.</l>
+            <l>Is any sick? the Man of Ross relieves;</l>
+            <l>Prescribes, attends, the med'cine makes, and gives.</l>
+            <l>Is there a variance? enter but his door,</l>
+            <l>Balk'd are the courts, and contest is no more.</l>
+            <l>Despairing Quacks with curses fled the place,</l>
+            <l>And vile Attornies, now an useless race.</l>
+            <l>" Thrice happy man! enabled to persue</l>
+            <l>" What all so wish, but want the pow'r to do.</l>
+            <l>" Oh say, what sums that gen'rous hand supply?</l>
+            <l>" What mines to swell that boundless Charity?</l>
+            <l>Of debts and taxes, wife and children clear,</l>
+            <l>This man possest—five hundred pounds a year.<note place="bottom" n="†">This Person, who with no greater Estate, perform'd all these good Works, and whose true Name was almost lost (partly by having the Title of the <hi>Man of R<gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                        <desc>illegible</desc>
+                     </gap>
+                  </hi> given him by way of Eminence, and partly by being buried without any Inscription) was called Mr. <hi>John Kyrle:</hi> He died in the Year 1724, aged near 90, and lies buried in the Chancel of the Church of Ross in Herefordshire.</note>
+            </l>
+            <l>Blush Grandeur, blush! proud Courts withdraw your blaze.</l>
+            <l>Ye little <hi>Stars!</hi> hide your diminish'd rays.</l>
+         </lg>
+         <lg>
+            <pb n="15" facs="16"/>
+            <l>" And what? no Monument, Inscription, Stone?</l>
+            <l>" His Race, his Form, his Name almost unknown?</l>
+            <l>Who builds a Church to God, and not to Fame,</l>
+            <l>Will never mark the marble with his name.</l>
+            <l>Go search it there<note place="bottom" n="†">The Parish-Register.</note>, where to be born and die,</l>
+            <l>Of Rich and Poor makes all the history:</l>
+            <l>Enough that Virtue fill'd the space between;</l>
+            <l>Prov'd, by the Ends of Being, to have been.</l>
+            <l>When H * p * s dies, a thousand Lights attend</l>
+            <l>The Wretch, who living sav'd a Candle's end:</l>
+            <l>Should'ring God's altar a vile Image stands,</l>
+            <l>Belies his features, nay extends his hands;</l>
+            <l>That live-long Wig which Gorgon's self might own,</l>
+            <l>Eternal buckle takes in Parian stone.</l>
+            <l>Behold! what blessings Wealth to Life can lend,</l>
+            <l>And see, what comfort it affords our End!</l>
+         </lg>
+         <lg>
+            <l>In the worst Inn's worst room, with matt half-hung,</l>
+            <l>The floors of plaister, and the walls of dung,</l>
+            <l>On once a flockbed, but repair'd with straw,</l>
+            <l>With tape-ty'd curtains, never meant to draw,</l>
+            <l>The George and Garter dangling from that bed</l>
+            <l>Where tawdry yellow strove with dirty red,</l>
+            <l>
+               <pb n="16" facs="17"/>
+Great Villers lies—alas! how chang'd from him,</l>
+            <l>That Life of Pleasure, and that Soul of Whym,</l>
+            <l>Gallant and gay, in Cliveden's proud alcove</l>
+            <l>The Bow'r of wanton Sh * * * y and Love;</l>
+            <l>Or just as gay, at Council, in a ring</l>
+            <l>Of mimick'd Statesmen and the merry King.</l>
+            <l>No Wit to flatter, left of all his store!</l>
+            <l>No Fool to laugh at, which he valued more.</l>
+            <l>There, Victor of his health, of fortune, friends,</l>
+            <l>And fame, this Lord of useless thousands ends!</l>
+         </lg>
+         <lg>
+            <l>His Grace's fate sage Cutler could foresee,</l>
+            <l>And well (he thought) advis'd him, "Live like me."</l>
+            <l>As well his Grace reply'd, "Like you, Sir John?</l>
+            <l>" That I can do, when all I have is gone."</l>
+            <l>Resolve me Reason, which of these is worse?</l>
+            <l>Want with a full, or with an empty purse:</l>
+            <l>Thy Life more wretched, Cutler, was confess'd;</l>
+            <l>Arise, and tell me, was thy Death more bless'd?</l>
+            <l>Cutler saw Tenants break, and houses fall,</l>
+            <l>For very want; he could not build a wall.</l>
+            <l>His only Daughter in a Stranger's Pow'r,</l>
+            <l>For very want; he could not pay a Dow'r.</l>
+            <l>
+               <pb n="17" facs="18"/>
+A few grey hairs his rev'rend temples crown'd,</l>
+            <l>'Twas very want that sold them for two pound.</l>
+            <l>What ev'n deny'd a cordial at his end,</l>
+            <l>Banish'd the Doctor, and expell'd the friend?</l>
+            <l>What but a want, which you perhaps think mad,</l>
+            <l>Yet numbers feel; the want of what he had.</l>
+            <l>Cutler and Brutus, dying both exclaim,</l>
+            <l>" Virtue! and Wealth! what are ye but a Name?"</l>
+         </lg>
+         <lg>
+            <l>Say, for such worth are other worlds prepar'd?</l>
+            <l>Or are they both, in this, their own reward?</l>
+            <l>That knotty point, my Lord, shall I discuss,</l>
+            <l>Or tell a Tale?—A Tale—it follows thus.</l>
+         </lg>
+         <lg>
+            <l>Where <note place="bottom" n="*">The Monument built in Memory of the Fire of London, with an Inscription importing that City to have been burn'd by the Papists.</note>London's Column pointing at the skies</l>
+            <l>Like a tall <gap resp="#oxf" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Bully, lifts the head, and lyes:</l>
+            <l>There dwelt a Citizen of sober fame,</l>
+            <l>A plain good man, and Balaam was his name.</l>
+            <l>Religious, punctual, frugal, and so forth—</l>
+            <l>His word would pass for more than he was worth.</l>
+            <l>One solid dish his week-day meal affords,</l>
+            <l>An added pudding solemniz'd the Lord's.</l>
+            <l>
+               <pb n="18" facs="19"/>
+Constant at Church, and Change; his gains were sure,</l>
+            <l>His givings rare, save farthings to the poor.</l>
+         </lg>
+         <lg>
+            <l>The Dev'l was piqu'd, such saintship to behold,</l>
+            <l>And long'd to tempt him like good Job of old:</l>
+            <l>But Satan now is wiser than of yore,</l>
+            <l>And tempts by making rich, not making poor.</l>
+         </lg>
+         <lg>
+            <l>Rouz'd by the Prince of Air, the whirlwinds sweep</l>
+            <l>The surge, and plunge his Father in the deep;</l>
+            <l>Then full against his Cornish lands they roar,</l>
+            <l>And two rich Ship-wrecks bless the lucky shore.</l>
+         </lg>
+         <lg>
+            <l>Sir Balaam now, he lives like other folks,</l>
+            <l>He takes his chirping pint, he cracks his jokes:</l>
+            <l>" Live like your self," was soon my Lady's word;</l>
+            <l>And lo! two puddings smok'd upon the board.</l>
+         </lg>
+         <lg>
+            <l>Asleep and naked as an Indian lay,</l>
+            <l>An honest Factor stole a Gem away:</l>
+            <l>He pledg'd it to the Knight; the Knight had wit,</l>
+            <l>So kept the Diamond, and the Rogue was bit:</l>
+            <l>Some Scruple rose, but thus he eas'd his thought,</l>
+            <l>" I'll now give six-pence where I gave a groat,</l>
+            <l>" Where once I went to church, I'll now go twice,</l>
+            <l>" And am so clear too, of all other Vice."</l>
+         </lg>
+         <lg>
+            <pb n="19" facs="20"/>
+            <l>The Tempter saw his time; the work he ply'd,</l>
+            <l>Stocks and Subscriptions pour on ev'ry side;</l>
+            <l>And all the Daemon makes his full descent,</l>
+            <l>In one abundant Show'r of <hi>Cent. per Cent.</hi>
+            </l>
+            <l>Sinks deep within him and possesses whole,</l>
+            <l>Then dubs <hi>Director</hi> and secures his Soul.</l>
+         </lg>
+         <lg>
+            <l>Behold Sir Balaam now a man of spirit,</l>
+            <l>Ascribes his gettings to his parts and merit,</l>
+            <l>What late he call'd a Blessing, now was Wit,</l>
+            <l>And God's good providence, a lucky Hit.</l>
+            <l>Things change their titles as our manners turn,</l>
+            <l>His Compting-house imploy'd the Sunday-morn;</l>
+            <l>Seldom at church, ('twas such a busy life)</l>
+            <l>But duly sent his family and wife.</l>
+            <l>There (so the Dev'l ordain'd) one Christmas-tide,</l>
+            <l>My good old Lady catch'd a cold, and dy'd.</l>
+         </lg>
+         <lg>
+            <l>A Nymph of Quality admires our Knight;</l>
+            <l>He marries, bows at Court, and grows polite:</l>
+            <l>Leaves the dull Cits, and joins (to please the fair)</l>
+            <l>The well-bred Cuckolds in St. James's air:</l>
+            <l>First, for his son a gay commission buys,</l>
+            <l>Who drinks, whores, fights, and in a duel dies.</l>
+            <l>
+               <pb n="20" facs="21"/>
+His daughter flaunts a Viscount's tawdry wife,</l>
+            <l>She bears a Coronet and P<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>x for life.</l>
+            <l>In Britain's Senate he a seat obtains,</l>
+            <l>And one more Pensioner St. Stephen gains.</l>
+            <l>My Lady falls to Play: so bad her chance,</l>
+            <l>He must repair it; takes a bribe from France;</l>
+            <l>The House impeach him; Co * *. by harangues,</l>
+            <l>The Court forsakes him, and Sir Balaam hangs:</l>
+            <l>Wife, son, and daughter, Satan! are thy prize,</l>
+            <l>And sad Sir Balaam curses God and dies.</l>
+         </lg>
+      </body>
+      <back>
+         <div type="errata">
+            <p>P. 13. Ver. 13. for ypon read yon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

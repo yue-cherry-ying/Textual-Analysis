@@ -1,0 +1,570 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first epistle of the first book of Horace imitated: By Mr. Pope.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023128.000</idno>
+            <idno type="docno">CW3313549784</idno>
+            <idno type="ecll">0612000900</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first epistle of the first book of Horace imitated: By Mr. Pope.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>[2],19,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for R. Dodsley, and sold by T. Cooper,</publisher>
+                  <date>1737 [1738]</date>
+                  <idno type="TCP">K023128.000</idno>
+                  <idno type="docno">CW3313549784</idno>
+                  <idno type="ecll">0612000900</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Pric I s." on titlepage; pp.18-19 correctly numbered.</note>
+                  <note>"Apparently reset except for sheet E and part of F" (Foxon).</note>
+                  <note>Publication date from Griffith.</note>
+                  <note>Parallel Latin and English texts.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P878</note>
+                  <note>Griffith, 481</note>
+                  <note>English Short Title Catalog, ESTCT5661.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE FIRST EPISTLE OF THE FIRST BOOK OF HORACE IMITATED.</p>
+            <p>By Mr. <hi>POPE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for R. DODSLEY at <hi>Tully</hi>'s <hi>Head</hi> in <hi>Pall-mall,</hi> and sold by <hi>T. Cooper</hi> in <hi>Pater-noster-row,</hi> MDCCXXXVII. [<hi>Pric.</hi> 1 <hi>s.</hi>]</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>THE FIRST EPISTLE OF THE FIRST BOOK OF HORACE.</head>
+         <div type="original">
+            <pb facs="3"/>
+            <head>Q. HORATII FLACCI</head>
+            <head type="sub">EPIST. I. LIB. I.</head>
+            <head type="sub">AD MAECENATEM.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">P</seg>RIMA dicte mihi, summâ dicende Camenâ!</l>
+               <l>
+                  <hi rend="sup">2</hi> Spectatum satis, &amp; donatum jam rude, quaeris</l>
+               <l>(Maecenas) iterum antiquo me includere ludo?</l>
+               <l>Non eadem est aetas, non mens. <hi rend="sup">3</hi> Vejanius Armis</l>
+               <l>
+                  <hi rend="sup">4</hi> Herculis ad postem fixis, latet abditus agro,</l>
+               <l>Ne populum <hi rend="sup">5</hi> extremâ, toties, exoret arenâ.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="5"/>
+               <l>
+                  <hi rend="sup">6</hi> Est mihi, purgatam crebro qui personet aurem;</l>
+               <l>" Solve <hi rend="sup">7</hi> senescentem mature sanus equum, ne</l>
+               <l>" Peccet ad extremum ridendus, &amp; ilia ducat."</l>
+            </lg>
+            <lg>
+               <l>Nunc itaque, &amp; <hi rend="sup">8</hi> Versus &amp; <hi>caetera ludicra</hi> pono,</l>
+               <l>Quid <hi rend="sup">9</hi> verum atque <hi>decens,</hi> curo &amp; rogo, &amp; <hi>omnis</hi> in hoc sum.</l>
+               <l>
+                  <hi rend="sup">10</hi> Condo &amp; compono quae <hi>mox</hi> depromere possim.</l>
+            </lg>
+            <lg>
+               <l>Ac ne forte roges, <hi rend="sup">11</hi> quo me <hi>duce,</hi> quo <hi>Lare</hi> tuter?</l>
+               <l>Nullius addictus jurare in verba Magistri,</l>
+               <l>
+                  <hi rend="sup">12</hi> Quo me cunque rapit tempestas, deferor <hi>Hospes.</hi>
+               </l>
+               <l>Nunc <hi>agilis</hi> fio, &amp; mersor <hi rend="sup">13</hi> 
+                  <hi>civilibus undis,</hi>
+               </l>
+               <l>Virtutis verae Custos, <hi rend="sup">14</hi> 
+                  <hi>rigidusque satelles.</hi>
+               </l>
+               <l>Nunc in <note place="bottom" n="*">Omnis Aristippum decuit color, &amp; status, &amp; res.</note>Aristippi <hi rend="sup">15</hi> 
+                  <hi>furtim</hi> praecepta <hi>relabor</hi>
+               </l>
+               <l>
+                  <pb n="6" facs="7"/>Et mihi res, non me rebus, submittere conor.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">16</hi> Ut nox longa quibus mentitur amica, diesque</l>
+               <l>Longa videtur <hi>opus debentibus,</hi> ut piger annus</l>
+               <l>Pupillis, quos dura premit custodia matrum:</l>
+               <l>Sic mihi tarda <hi rend="sup">17</hi> fluunt <hi>ingrataque</hi> tempora, quae spem</l>
+               <l>Consiliumque <hi>morantur</hi> agendi gnaviter <hi rend="sup">18</hi> 
+                  <hi>id,</hi> quod</l>
+               <l>Aeque <hi>pauperibus</hi> prodest, <hi>locupletibus</hi> aeque,</l>
+               <l>Aeque neglectum <hi>pueris, senibusque</hi> nocebit.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">19</hi> 
+                  <hi>Restat,</hi> ut his ego me ipse regam, <hi rend="sup">20</hi> solerque, <hi>Ele<lb rend="hidden" type="hyphenInWord"/>mentis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">21</hi> Non possis oculo quantum contendere Lynceus,</l>
+               <l>Non tamen idcirco contemnas lippus inungi:</l>
+               <l>Nec, quia desperes invicti membra Glyconis,</l>
+               <l>Nodosâ corpus nolis prohibere chiragrâ.</l>
+               <l>Est quâdam prodire <hi rend="sup">22</hi> tenus, si non datur ultra.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="9"/>
+               <l>
+                  <hi rend="sup">23</hi> Fervet Avaritia, miseroque Cupidine pectus?</l>
+               <l>Sunt <hi>verba</hi> &amp; <hi>voces,</hi> quibus hunc lenire dolorem</l>
+               <l>Possis, &amp; <hi rend="sup">24</hi> magnam morbi deponere partem.</l>
+               <l>Laudis amore tumes? sunt <hi rend="sup">25</hi> certa <hi>piacula,</hi> quae te</l>
+               <l>
+                  <hi>Ter</hi> pure lecto poterunt recreare libello.</l>
+               <l>
+                  <hi rend="sup">26</hi> Invidus, iracundus, iners, vinosus, <hi rend="sup">27</hi> 
+                  <hi>Amator,</hi>
+               </l>
+               <l>Nemo <hi rend="sup">28</hi> adeo <hi>ferus</hi> est ut non mitescere possit,</l>
+               <l>Si modo culturae patientem commodet aurem.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">29</hi> Virtus est vitium fugere, &amp; Sapientia prima</l>
+               <l>Stultitia caruisse—</l>
+            </lg>
+            <lg>
+               <l>—Vides, quae <hi rend="sup">30</hi> maxima credis</l>
+               <l>Esse mala, exiguum censum, turpemque repulsam,</l>
+               <l>Quanto devites animi, capitisque labore?</l>
+               <l>Impiger extremos curris mercator ad Indos,</l>
+               <l>Per <hi rend="sup">31</hi> mare <hi>pauperiem</hi> fugiens, per saxa, per ignes:</l>
+               <l>Ne cures <hi rend="sup">32</hi> ea que <hi>stulte</hi> miraris &amp; optas</l>
+               <l>Discere, &amp; audire, &amp; meliori credere non vis?**</l>
+            </lg>
+            <lg>
+               <pb n="01" facs="11"/>
+               <l>" <hi rend="sup">33</hi> Vilius argentum est auro, virtutibus aurum—</l>
+            </lg>
+            <lg>
+               <l>" <hi rend="sup">34</hi> O cives, cives! quaerenda Pecunia primum est,</l>
+               <l>" Virtus post nummos—Haec <hi rend="sup">35</hi> 
+                  <hi>Janus summus</hi> ab <hi>imo</hi>
+               </l>
+               <l>Prodocet: haec recinunt juvenes dictata, senesque,</l>
+               <l>
+                  <hi rend="sup">36</hi> Laevo suspensi loculos tabulamque lacerto.</l>
+            </lg>
+            <lg>
+               <l>Est <hi rend="sup">37</hi> animus tibi, sunt mores, est lingua, fidesque—</l>
+               <l>Si quadringentis sex, septem millia desint,</l>
+               <l>
+                  <hi rend="sup">38</hi> 
+                  <hi>Plebs</hi> eris—</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">39</hi> At pueri ludentes, '<hi>Rex</hi> eris (aiunt)</l>
+               <l>" Si recte facies." Hic <hi rend="sup">40</hi> 
+                  <hi>murus aheneus</hi> esto,</l>
+               <l>Nil <hi>conscire</hi> sibi, nullâ pallescere culpâ!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">41</hi> Roscia, dic sodes, melior lex, an puerorum</l>
+               <l>Noenia? quae regnum recte facientibus offert,</l>
+               <l>
+                  <pb n="12" facs="13"/>Et <hi>Maribus</hi> 
+                  <hi rend="sup">42</hi> 
+                  <hi>Curiis,</hi> &amp; decantata <hi>Camillis</hi>?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">43</hi> Isne tibi melius suadet, qui "Rem facias, rem,</l>
+               <l>" Si possis, recte, si non, quocunque modo rem."</l>
+               <l>Ut <hi rend="sup">44</hi> proprius spectes lacrymosa Poemata Pupi!</l>
+               <l>An, <hi rend="sup">45</hi> qui Fortunae te responsare superbae</l>
+               <l>Liberum &amp; erectum, <hi rend="sup">46</hi> 
+                  <hi>praesens</hi> hortatur, &amp; aptat?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">47</hi> Quod si me Populus Romanus forte roget, cur</l>
+               <l>Non, ut <hi rend="sup">48</hi> porticibus, sic judiciis fruar iisdem,</l>
+               <l>Nec sequar aut fugiam, quos diligit ipse, vel odit?</l>
+               <l>Olim quod <hi rend="sup">49</hi> Vulpes aegroto cauta Leoni</l>
+               <l>Respondit, referam: "Quia me vestigia terrent</l>
+               <l>" Omnia te adversum spectantia, nulla retrorsum.</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="15"/>
+               <l>
+                  <hi rend="sup">50</hi> 
+                  <hi>Bellua multorum</hi> est <hi>capitum,</hi> nam quid sequar aut quem?</l>
+               <l>Pars hominum gestit <hi rend="sup">51</hi> conducere <hi>Publica.</hi> Sunt qui</l>
+               <l>
+                  <hi rend="sup">52</hi> Crustis &amp; <hi>Pomis,</hi> Viduas venentur avaras,</l>
+               <l>Excipiantque Senes quos in vivaria mittunt.</l>
+               <l>
+                  <hi rend="sup">53</hi> 
+                  <hi>Multis</hi> occulto crescit res foenore—</l>
+               <l>—<hi rend="sup">54</hi> 
+                  <hi>Verum</hi>
+               </l>
+               <l>Esto, aliis alios rebus, studiisque teneri:</l>
+               <l>Iidem eadem possunt horam durare probantes?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">55</hi> " Nullus in orbe locus <hi>Baiis</hi> prelucet amaenis:"</l>
+               <l>Si dixit <hi>Dives,</hi> 
+                  <hi rend="sup">56</hi> lacus &amp; mare <hi>sentit</hi> amorem</l>
+               <l>
+                  <pb n="16" facs="17"/>
+                  <hi>Festinantis</hi> heri. Cui si <hi rend="sup">57</hi> vitiosa <hi>Libido</hi>
+               </l>
+               <l>
+                  <hi>Fecerit auspicium,</hi> cras, "ferramenta <hi>Teanum</hi>
+               </l>
+               <l>" Tolletis fabri!—</l>
+               <l>—<hi rend="sup">58</hi> Lectus genialis in aula est?</l>
+               <l>Nil ait esse prius, melius nil caelibe vita:</l>
+               <l>
+                  <hi rend="sup">59</hi> Si non est, jurat bene solis esse maritis.</l>
+               <l>
+                  <hi rend="sup">60</hi> Quo teneam vultus mutantem Protea nodo?</l>
+            </lg>
+            <lg>
+               <l>Quid <hi rend="sup">61</hi> 
+                  <hi>pauper</hi>? ride: mutat <hi rend="sup">62</hi> 
+                  <hi>caenacula, lectos,</hi>
+               </l>
+               <l>Balnea, <hi rend="sup">63</hi> 
+                  <hi>tonsores</hi>; conducto <hi rend="sup">64</hi> navigio, aequè</l>
+               <l>Nauseat ac locuples, quem ducit priva tirremis.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">65</hi> Si curtatus <hi>inaequali</hi> tonsore capillos</l>
+               <l>Occurro, rides; si forte subucula pexae</l>
+               <l>Trita subest tunicae, vel si toga <hi>dissidet impar,</hi>
+               </l>
+               <l>
+                  <pb n="18" facs="19"/>Rides: quid? <hi rend="sup">66</hi> mea cum pugnat <hi>Sententia</hi> secum,</l>
+               <l>Quod petiit, spernit; repetit quod nuper omisit;</l>
+               <l>
+                  <hi rend="sup">67</hi> Aestuat, &amp; Vitae disconvenit ordine toto;</l>
+               <l>
+                  <hi rend="sup">68</hi> Diruit, aedificat, mutat quadrata rotundis?</l>
+               <l>
+                  <hi rend="sup">69</hi> Insanire putas solennia me; neque rides,</l>
+               <l>Nec <hi rend="sup">70</hi> 
+                  <hi>Medici</hi> credis, nec <hi>Curatoris</hi> egere</l>
+               <l>A <hi>Praetore</hi> dati? rerum <hi rend="sup">71</hi> Tutela mearum</l>
+               <l>Cum sis, &amp; pravè sectum stomacheris ob unguem,</l>
+               <l>De <hi>te pendentis, te suspicientis,</hi> Amici.</l>
+            </lg>
+            <lg>
+               <l>Ad summam, <hi>Sapiens</hi> uno <hi rend="sup">72</hi> minor est <hi>Jove</hi>! <hi rend="sup">73</hi> Dives!</l>
+               <l>
+                  <hi rend="sup">74</hi> Liber! <hi rend="sup">75</hi> honoratus! <hi rend="sup">76</hi> pulcher!—</l>
+               <l>— <hi rend="sup">77</hi> Rex denique regum!</l>
+               <l>Praecipue sanus—</l>
+               <l>— <hi rend="sup">78</hi> Nisi cum pituita molesta est.</l>
+            </lg>
+         </div>
+         <div type="imitation">
+            <pb facs="4"/>
+            <head>EPISTLES OF HORACE.</head>
+            <head type="sub">BOOK I.</head>
+            <head type="sub">EPISTLE I.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>** whose love indulg'd my labours past,</l>
+               <l>Matures my present, and shall bound my last!</l>
+               <l>Why <hi rend="sup">2</hi> will you break the Sabbath of my days?</l>
+               <l>Now sick alike of Envy and of Praise.</l>
+               <l n="5">Publick too long, ah let me hide my Age!</l>
+               <l>See modest <hi rend="sup">3</hi> Cibber now has left the Stage:</l>
+               <l>Our Gen'rals now, <hi rend="sup">4</hi> retir'd to their Estates,</l>
+               <l>Hang their old Trophies o'er the Garden gates,</l>
+               <l>In Life's cool evening satiate of applause,</l>
+               <l n="10">Nor <hi rend="sup">5</hi> fond of bleeding, ev'n in BR<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>'s cause.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="6"/>
+               <l>
+                  <hi rend="sup">6</hi> A Voice there is, that whispers in my ear,</l>
+               <l>('Tis Reason's voice, which sometimes one can hear)</l>
+               <l>" Friend Pope! be prudent, let your<hi rend="sup">7</hi> Muse take breath,</l>
+               <l>" And never gallop Pegasus to death;</l>
+               <l n="15">" Lest stiff, and stately, void of fire, and force,</l>
+               <l>" You limp, like Blackmore, on a Lord Mayor's horse.'</l>
+            </lg>
+            <lg>
+               <l>Farewel then <hi rend="sup">8</hi> Verse, and Love, and ev'ry Toy,</l>
+               <l>The rhymes and rattles of the Man or Boy:</l>
+               <l>What <hi rend="sup">9</hi> right, what true, what fit, we justly call,</l>
+               <l n="20">Let this be all my care-for this is All:</l>
+               <l>To lay this <hi rend="sup">10</hi> harvest up, and hoard with haste</l>
+               <l>What ev'ry day will want, and most, the last.</l>
+            </lg>
+            <lg>
+               <l>But ask not, to what <hi rend="sup">11</hi> Doctors I apply?</l>
+               <l>Sworn to no Master, of no Sect am I:</l>
+               <l n="25">As drives the <hi rend="sup">12</hi> storm, at any door I knock,</l>
+               <l>And house with Montagne now, or now with Lock.</l>
+               <l>Sometimes a <hi rend="sup">13</hi> Patriot, active in debate,</l>
+               <l>Mix with the World, and battle for the State,</l>
+               <l>Free as young Lyttleton, her cause pursue,</l>
+               <l n="30">Still true to Virtue, <hi rend="sup">14</hi> and as warm as true:</l>
+               <l>Sometimes, with Aristippus, or St. Paul,</l>
+               <l>Indulge my Candor, and grow all to all;</l>
+               <l>
+                  <pb n="7" facs="8"/>Back to my <hi rend="sup">15</hi> native Moderation slide,</l>
+               <l>And win my way by yielding to the tyde.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">16</hi> Long, as to him who works for debt, the Day,</l>
+               <l n="35">Long as the Night to her whose love's away;</l>
+               <l>Long as the Year's dull circle seems to run,</l>
+               <l>When the brisk Minor pants for twenty-one;</l>
+               <l>So slow th' <hi rend="sup">17</hi> unprofitable Moments roll,</l>
+               <l>That lock up all the Functions of my soul;</l>
+               <l n="40">That keep me from Myself; and still delay</l>
+               <l>Life's instant business to a future day:</l>
+               <l>That <hi rend="sup">18</hi> task, which as we follow, or despise,</l>
+               <l>The eldest is a fool, the youngest wise;</l>
+               <l>Which done, the poorest can no wants endure,</l>
+               <l n="45">And which not done, the richest must be poor.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">19</hi> Late as it is, I put my self to school,</l>
+               <l>And feel some <hi rend="sup">20</hi> comfort, not to be a fool.</l>
+               <l>
+                  <hi rend="sup">21</hi> Weak tho' I am of limb, and short of sight,</l>
+               <l n="50">Far from a Lynx, and not a Giant quite,</l>
+               <l>I'll do what MEAD and CHESELDEN advise,</l>
+               <l>To keep these limbs, and to preserve these eyes.</l>
+               <l>Not to <hi rend="sup">22</hi> go back, is somewhat to advance,</l>
+               <l>And Men must walk at least before they dance.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="10"/>
+               <l n="55">Say, does thy <hi rend="sup">23</hi> blood rebel, thy bosom move</l>
+               <l>With wretched Avarice, or as wretched Love?</l>
+               <l>Know, there are Words, and Spells, which can controll</l>
+               <l>(<hi rend="sup">24</hi> Between the Fits) this Fever of the soul:</l>
+               <l>Know, there are Rhymes, which (<hi rend="sup">25</hi> fresh and fresh ap<lb rend="hidden" type="hyphenInWord"/>ply'd)</l>
+               <l>Will cure the arrant'st Puppy of his Pride.</l>
+               <l>Be <hi rend="sup">26</hi> furious, envious, slothful, mad or drunk,</l>
+               <l>
+                  <hi rend="sup">27</hi> Slave to a Wife or Vassal to a Punk,</l>
+               <l>A Switz, a High-dutch, or a Low-dutch <hi rend="sup">28</hi> Bear—</l>
+               <l>All that we ask is but a patient Ear.</l>
+            </lg>
+            <lg>
+               <l n="65">
+                  <hi rend="sup">29</hi> 'Tis the first Virtue, Vices to abhor;</l>
+               <l>And the first Wisdom to be Fool no more.</l>
+               <l>But to the world, no <hi rend="sup">30</hi> bugbear is so great,</l>
+               <l>As want of figure, and a small Estate.</l>
+               <l>To either India see the Merchant fly,</l>
+               <l n="70">Scar'd at the spectre of pale Poverty!</l>
+               <l>See him, with pains of body, pangs of soul,</l>
+               <l>Burn through the Tropic, freeze beneath the Pole!</l>
+               <l>Wilt thou do nothing for a nobler end,</l>
+               <l>Nothing, to make Philosophy thy friend?</l>
+               <l n="75">To stop thy foolish views, thy long desires,</l>
+               <l>And <hi rend="sup">32</hi> ease thy heart of all that it admires?</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="12"/>
+               <l>Here, Wisdom calls: <hi rend="sup">33</hi> "Seek Virtue first! be bold!</l>
+               <l>" As Gold to Silver, Virtue is to Gold."</l>
+               <l>There, London's voice: <hi rend="sup">34</hi> "Get Mony, Mony still!</l>
+               <l n="80">" And then let Virtue follow, if she will."</l>
+               <l>This, this the saving doctrine, preach'd to all,</l>
+               <l>From <hi rend="sup">35</hi> low St. James's up to high St. Paul;</l>
+               <l>From him whose <hi rend="sup">36</hi> quills stand quiver'd at his ear,</l>
+               <l>To him who notches Sticks at Westminster.</l>
+            </lg>
+            <lg>
+               <l n="85">BARNARD in <hi rend="sup">37</hi> spirit, sense, and truth abounds.</l>
+               <l>" Pray then what wants he?" fourscore thousand pounds,</l>
+               <l>A Pension, or such Harness for a slave</l>
+               <l>As Bug now has, and Bestia fain would have.</l>
+               <l>BARNARD, thou art a <hi rend="sup">38</hi> 
+                  <hi>Cit,</hi> with all thy worth;</l>
+               <l n="90">Bestia and Bug, Their <hi>Honours,</hi> and so forth.</l>
+            </lg>
+            <lg>
+               <l>Yet every <hi rend="sup">39</hi> child another song will sing,</l>
+               <l>" Virtue, brave boys! 'tis Virtue makes a King."</l>
+               <l>True, conscious Honour is to feel no sin,</l>
+               <l>He's arm'd without that's innocent within;</l>
+               <l n="95">Be this thy <hi rend="sup">40</hi> Screen, and this thy Wall of Brass;</l>
+               <l>Compar'd to this, a Minister's an Ass.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">41</hi> And say, to which shall our applause belong,</l>
+               <l>This new Court jargon, or the good old song?</l>
+               <l>
+                  <pb n="13" facs="14"/>The modern language of corrupted Peers,</l>
+               <l>Or what was spoke at <hi rend="sup">42</hi> CRESSY and POITIERS?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">43</hi> Who counsels best? who whispers, "Be but Great,</l>
+               <l>" With Praise or Infamy, leave that to fate;</l>
+               <l>" Get Place and Wealth, if possible, with Grace;</l>
+               <l>" If not, by any means get Wealth and Place.</l>
+               <l n="105">For what? to have a <hi rend="sup">44</hi> Box where Eunuchs sing,</l>
+               <l>And foremost in the Circle eye a King.</l>
+               <l>Or <hi rend="sup">45</hi> he, who bids thee face with steddy view</l>
+               <l>Proud Fortune, and look shallow Greatness thro':</l>
+               <l>And, <hi rend="sup">46</hi> while he bids thee, sets th' Example too?</l>
+               <l n="110">If <hi rend="sup">47</hi> such a Doctrine, in St. James's air,</l>
+               <l>Shou'd chance to make the well-drest Rabble stare;</l>
+               <l>If honest S* take scandal at a spark,</l>
+               <l>That less admires the <hi rend="sup">48</hi> Palace than the Park;</l>
+               <l>Faith I shall give the answer <hi rend="sup">49</hi> Reynard gave,</l>
+               <l n="115">" I cannot like, Dread Sir! your Royal Cave;</l>
+               <l>" Because I see by all the Tracks about,</l>
+               <l>" Full many a Beast goes in, but none comes out."</l>
+               <l>Adieu to Virtue if you're once a Slave:</l>
+               <l>Send her to Court, you send her to her Grave.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="16"/>
+               <l n="120">Well, if a King's a Lion, at the least</l>
+               <l>The <hi rend="sup">50</hi> People are a many-headed Beast:</l>
+               <l>Can they direct what measures to pursue,</l>
+               <l>Who know themselves so little what to do?</l>
+               <l>Alike in nothing but one Lust of Gold,</l>
+               <l n="125">Just half the land would buy, and half be sold:</l>
+               <l>Their <hi rend="sup">51</hi> Country's wealth our mightier Misers drain,</l>
+               <l>Or cross, to plunder Provinces, the Main:</l>
+               <l>The rest, some farm the Poor-box, some the Pews;</l>
+               <l>Some keep Assemblies, and wou'd keep the Stews;</l>
+               <l n="130">Some <hi rend="sup">52</hi> with fat Bucks on childless Dotards fawn;</l>
+               <l>Some win rich Widows by their Chine and Brawn;</l>
+               <l>While with the silent growth of ten per Cent,</l>
+               <l>In Dirt and darkness <hi rend="sup">53</hi> hundreds stink content.</l>
+            </lg>
+            <lg>
+               <l>Of all these ways, if each <hi rend="sup">54</hi> pursues his own,</l>
+               <l n="135">Satire be kind, and let the wretch alone.</l>
+               <l>But show me one, who has it in his pow'r</l>
+               <l>To act consistent with himself an hour.</l>
+               <l>Sir Job <hi rend="sup">55</hi> sail'd forth, the evening bright and still,</l>
+               <l>" No place on earth (he cry'd) like Greenwich hill!"</l>
+               <l n="140">
+                  <hi rend="sup">56</hi> Up starts a Palace, lo! th' obedient base</l>
+               <l>Slopes at its foot, the woods its sides embrace,</l>
+               <l>The silver Thames reflects its marble face.</l>
+               <l>
+                  <pb n="17" facs="18"/>Now let some whimzy, or that <hi rend="sup">57</hi> Dev'l within</l>
+               <l>Which guides all those who know not what they mean</l>
+               <l n="145">But give the Knight (or give his Lady) spleen;</l>
+               <l>" Away, away! take all your scaffolds down,</l>
+               <l>" For Snug's the word: My dear! we'll live in Town."</l>
+            </lg>
+            <lg>
+               <l>At am'rous Flavio is the <hi rend="sup">58</hi> Stocking thrown?</l>
+               <l>That very night he longs to lye alone.</l>
+               <l>
+                  <hi rend="sup">59</hi> The Fool whose Wife elopes some thrice a quarter,</l>
+               <l n="151">For matrimonial Solace dies a martyr.</l>
+               <l>Did ever <hi rend="sup">60</hi> Proteus, Merlin, any Witch,</l>
+               <l>Transform themselves so strangely as the Rich?</l>
+               <l>" Well, but the <hi rend="sup">61</hi> Poor—the Poor have the same itch:</l>
+               <l>They change their <hi rend="sup">63</hi> weekly Barber, weekly News,</l>
+               <l n="156">Prefer a new Japanner to their shoes,</l>
+               <l>Discharge their <hi rend="sup">62</hi> Garrets, move their Beds, and run</l>
+               <l>(They know not whither) in a Chaise and one;</l>
+               <l>They <hi rend="sup">64</hi> hire their Sculler, and when once aboard,</l>
+               <l>Grow sick, and damn the Climate—like a Lord,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="sup">65</hi> You laugh, half Beau half Sloven if I stand,</l>
+               <l>My Wig all powder, and all snuff my Band;</l>
+               <l>You laugh, if Coat and Breeches strangely vary,</l>
+               <l>White Gloves, and Linnen worthy Lady Mary!</l>
+               <l>
+                  <pb n="19" facs="20"/>But when <hi rend="sup">66</hi> no Prelate's Lawn with Hair-shirt lin'd,</l>
+               <l n="166">Is half so incoherent as my Mind,</l>
+               <l>When (each Opinion with the next at strife,</l>
+               <l>One <hi rend="sup">67</hi> ebb and flow of follies all my Life)</l>
+               <l>I <hi rend="sup">68</hi> plant, root up, I build, and then confound,</l>
+               <l>Turn round to square, and square again to round;</l>
+               <l n="171">
+                  <hi rend="sup">69</hi> You never change one muscle of your face,</l>
+               <l>You think this Madness but a common case,</l>
+               <l>Nor <hi rend="sup">70</hi> once to Chanc'ry, nor to <note place="bottom" n="*">The Doctor of Bedlam.</note>Hales apply;</l>
+               <l>Yet hang your lip, to see a Seam awry!</l>
+               <l n="175">Careless how ill I with myself agree;</l>
+               <l>Kind to my dress, my figure, not to Me.</l>
+               <l>Is this my <hi rend="sup">71</hi> Guide, Philosopher, and Friend?</l>
+               <l>This, He who loves me, and who ought to mend?</l>
+               <l>Who ought to make me (what he can, or none,)</l>
+               <l n="180">That Man divine whom Wisdom calls her own,</l>
+               <l>Great without Title, without Fortune bless'd,</l>
+               <l>Rich <hi rend="sup">73</hi> ev'n when plunder'd, <hi rend="sup">75</hi> honour'd while op<lb rend="hidden" type="hyphenInWord"/>press'd,</l>
+               <l>Lov'd <hi rend="sup">76</hi> without youth, and follow'd without power,</l>
+               <l>At home tho' exil'd, <hi rend="sup">74</hi> free, tho' in the Tower.</l>
+               <l n="185">In short, that reas'ning, high, immortal Thing,</l>
+               <l>Just <hi rend="sup">72</hi> less than Jove, and <hi rend="sup">77</hi> much above a King,</l>
+               <l>Nay half in Heav'n—<hi rend="sup">78</hi> except (what's mighty odd)</l>
+               <l>A Fit of Vapours clouds this Demi-god.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,615 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sick monkey, a fable:</title>
+            <author>Garrick, David, 1717-1779.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024307.000</idno>
+            <idno type="docno">CW3313800544</idno>
+            <idno type="ecll">0670701100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sick monkey, a fable:</title>
+                  <author>Garrick, David, 1717-1779.</author>
+               </titleStmt>
+               <extent>[4],23,[1]p.,plate ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Fletcher, and Co.,</publisher>
+                  <date>1765.</date>
+                  <idno type="TCP">K024307.000</idno>
+                  <idno type="docno">CW3313800544</idno>
+                  <idno type="ecll">0670701100</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By David Garrick.</note>
+                  <note>Satirical verse written to disarm criticism.</note>
+                  <note>With a half-title, and an engraved frontispiece by Gravelot.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT9005.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="1"/>
+            <p>
+               <figure rend="block"/>
+            </p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>THE
+<hi>SICK MONKEY,</hi>
+A
+FABLE.</p>
+            <q>Thursday Afternoon, DAVID GARRICK, <abbr>Esq</abbr> arrived at his House
+in Southampton-Street, Covent-Garden. <bibl>Public Advertiser, April 27, 1765.</bibl>
+            </q>
+            <p>LONDON,
+Printed for J. FLETCHER, and Co. in St. Paul's Church-Yard.
+MDCCLXV.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="3"/>
+         <head>THE
+SICK MONKEY,
+A
+FABLE.</head>
+         <head type="sub">ADDRESSED
+To Mr. GARRICK, upon his ARRIVAL.</head>
+         <lg>
+            <l>RETURN'D from travel to your native shore</l>
+            <l>Again to make us laugh or cry,</l>
+            <l>To turn your back, we hope, no more,</l>
+            <l>Nor from your colours fly;</l>
+         </lg>
+         <lg>
+            <l>Whether you fled for health, or quiet,</l>
+            <l>Harrass'd with rule, or sick of riot,</l>
+            <l>
+               <pb n="2" facs="4"/>
+Or whether you have kept us lean,</l>
+            <l>As slander says,</l>
+            <l>With lenten plays,</l>
+            <l>To make our appetites more keen;</l>
+            <l>Whether it be or this or that,</l>
+            <l>No matter what,</l>
+            <l>For we before the curtain see but blindly;</l>
+            <l>Now you are come,</l>
+            <l>To us, and home,</l>
+            <l>We greet you, Sir, and greet you kindly.</l>
+         </lg>
+         <lg>
+            <l>My Muse is honest, as she's bold,</l>
+            <l>A forward Miss,</l>
+            <l>Who loves to prate—but hold—</l>
+            <l>I quite forgot;</l>
+            <l>Before I tell you what she <hi>is,</hi>
+            </l>
+            <l>I'll tell you what she's <hi>not.</hi>
+            </l>
+            <l>
+               <pb n="3" facs="5"/>
+No bird of prey, with wild uproar,</l>
+            <l>Like CHURCHILL, to disturb the grove;</l>
+            <l>Nor comes she, like the harmless dove,</l>
+            <l>To bill, and coo, and love,</l>
+            <l>—And nothing more.</l>
+         </lg>
+         <lg>
+            <l>In short, to speak more plainly,</l>
+            <l>Nor be it thought I speak it vainly,</l>
+            <l>Averse to flattery and spite,</l>
+            <l>She is a modest, sober dame,</l>
+            <l>I wish all females were the same,</l>
+            <l>And will not scratch or bite:</l>
+         </lg>
+         <lg>
+            <l>She is not one of those</l>
+            <l>Who shew their genius in their dress,</l>
+            <l>Whose inky fingers, unpinn'd cloaths,</l>
+            <l>The slip-shod shoe, and snuffy nose,</l>
+            <l>Denote her wit, and sluttishness:</l>
+            <l>Who with a Play, like pistol cock'd, in hand,</l>
+            <l>Bid Managers to stand:</l>
+            <l>
+               <pb n="4" facs="6"/>
+" Deliver, Sir,</l>
+            <l>" Your thoughts on this</l>
+            <l>" Before you stir—</l>
+            <l>" —<hi>But, Madam—Miss</hi>—</l>
+            <l>" Your answer strait;</l>
+            <l>" I will not wait—</l>
+            <l>" —<hi>'Tis fit you know</hi>—</l>
+            <l>" I'll hear no reason,</l>
+            <l>" This very season,</l>
+            <l>" AY or NO."</l>
+         </lg>
+         <lg>
+            <l>Not to kill more precious time,</l>
+            <l>In dropping sense to pick up rhime;</l>
+            <l>Or, like friend SHANDY, rattle,</l>
+            <l>And lose my matter in my prattle;</l>
+            <l>Without much wit digression's tame,</l>
+            <l>So I shall give it o'er,</l>
+            <l>And beat about the bush no more,</l>
+            <l>But start my game.</l>
+            <l>
+               <pb n="5" facs="7"/>
+The Critick's pen has various uses,</l>
+            <l>It praises now, and now abuses,</l>
+            <l>Does this and that,</l>
+            <l>Or both together,</l>
+            <l>As fancy strikes or rhimes come pat,</l>
+            <l>Stabs with the point, or tickles with the feather.</l>
+         </lg>
+         <lg>
+            <l>Authors, like bees, buz round, and round</l>
+            <l>Dramatic ground;</l>
+            <l>For all they meet</l>
+            <l>Have sharp and sweet;</l>
+            <l>They do no ill,</l>
+            <l>Would fools sit still;</l>
+            <l>Provoke 'em, and they're dangerous things;</l>
+            <l>And ev'ry Player</l>
+            <l>Should equally beware</l>
+            <l>Their honey as their stings.</l>
+         </lg>
+         <lg>
+            <l>GARRICK! thou mighty chief of kings and queens,</l>
+            <l>Despotic tyrant of the scenes!</l>
+            <l>
+               <pb n="6" facs="8"/>
+Think'st thou all human race to mock,</l>
+            <l>In buskin, and in sock,</l>
+            <l>And will not fools</l>
+            <l>Thy mock'ry ridicules,</l>
+            <l>From CHALKSTONE's Lord, to dainty FRIBBLE,</l>
+            <l>Rave, chatter, write,</l>
+            <l>In various ways display their spite?</l>
+            <l>For all can talk, and some can scribble.</l>
+         </lg>
+         <lg>
+            <l>Others again</l>
+            <l>Take up the pen,</l>
+            <l>In panegyrick's gaudy colours paint thee;</l>
+            <l>As humour flows,</l>
+            <l>Now friends, now foes,</l>
+            <l>In prose and verse, and verse and prose,</l>
+            <l>Bedevil thee, and saint thee.</l>
+         </lg>
+         <lg>
+            <l>And can such Criticks teaze thee?</l>
+            <l>And can such praises please thee?</l>
+            <l>O, if they can,</l>
+            <l>Alas! poor man,</l>
+            <l>
+               <pb n="7" facs="9"/>
+No more deride</l>
+            <l>Thy neighbour's weakness, folly, pride,</l>
+            <l>But cure thy own,</l>
+            <l>If thou art able,</l>
+            <l>While I make known</l>
+            <l>My friendship to thee, in a Fable.</l>
+         </lg>
+         <lg>
+            <l>An APE there was, an APE of merit,</l>
+            <l>A lively, sportive, pleasant thing,</l>
+            <l>Had so much fancy, whim, and spirit,</l>
+            <l>And made such sport,</l>
+            <l>He got to Court,</l>
+            <l>And shew'd his tricks before the LION-KING.</l>
+         </lg>
+         <lg>
+            <l>Such honour gave him fame,</l>
+            <l>And rais'd his name;</l>
+            <l>From far and near they came to see</l>
+            <l>This MONKEY-prodigy!</l>
+            <l>
+               <pb n="8" facs="10"/>
+Though none were more expert and quick,</l>
+            <l>In tumbling backward o'er a stick;</l>
+            <l>Though none with a more lordly pride,</l>
+            <l>And happy ease, did e'er bestride</l>
+            <l>
+               <hi>The rugged, Russian bear</hi>;</l>
+            <l>Though he could skip it up and down,</l>
+            <l>And pick the pocket of a clown,</l>
+            <l>Or whip away his hat,</l>
+            <l>Or fondle with a cat,</l>
+            <l>The wonder of the Fair!</l>
+            <l>This was not all—he had the art</l>
+            <l>Of acting still a higher part:</l>
+            <l>To each profession that he saw,</l>
+            <l>Physick, Divinity, or Law,</l>
+            <l>He ludicrously shap'd him:</l>
+            <l>So much possess'd of all their notions,</l>
+            <l>Their humours, oddities, and motions,</l>
+            <l>That not a soul escap'd him.</l>
+            <l>
+               <pb n="9" facs="11"/>
+In ridicule's enchanted glass,</l>
+            <l>Whatever forms are shewn,</l>
+            <l>We all can see another's face,</l>
+            <l>But never find our own.</l>
+            <l>To flatter SELF we all incline,</l>
+            <l>For SELF we plan and labour;</l>
+            <l>" Pluck not, good Sir, a hair of mine,</l>
+            <l>" And you may scalp my neighbour."</l>
+         </lg>
+         <lg>
+            <l>Each laugh'd to see his friend the jest,</l>
+            <l>And prais'd the MONKEY highly,</l>
+            <l>Not openly, but slily,</l>
+            <l>At court you find a thousand such:</l>
+            <l>But what was best,</l>
+            <l>Though there were none</l>
+            <l>By turns he did not fall upon,</l>
+            <l>Each thought himself the only one</l>
+            <l>The MIMIC could not touch:</l>
+            <l>
+               <pb n="10" facs="12"/>
+Blest fools! who boast your happy lot</l>
+            <l>From ridicule secure,</l>
+            <l>Though leopard-stain'd, you see no spot,</l>
+            <l>INIMITABLY pure!</l>
+         </lg>
+         <lg>
+            <l>Whether the JACKANAPES was clever,</l>
+            <l>Or the Court not over nice,</l>
+            <l>By various tricks he crept in favour,</l>
+            <l>And for those tricks had DOUBLE PRICE!</l>
+            <l>Thus FORTUNE, in a whim,</l>
+            <l>Resolv'd to turn his brain,</l>
+            <l>And fill'd his cup up to the brim,</l>
+            <l>Th'intoxicating cup of joy,</l>
+            <l>Which better heads than his destroy,</l>
+            <l>No wonder he was vain!</l>
+         </lg>
+         <lg>
+            <l>Whenever gossip FAME prates loud,</l>
+            <l>ENVY, in turn, as loud will tattle,</l>
+            <l>And scribblers to her standard croud,</l>
+            <l>Cry, HAVOCK! and prepare for battle.</l>
+            <l>
+               <pb n="11" facs="13"/>
+MALEVOLENCE, with lynx's eye,</l>
+            <l>The most minute defects will spy;</l>
+            <l>And even FRIENDSHIP, shame upon our kind!</l>
+            <l>Is to those faults not always blind.</l>
+         </lg>
+         <lg>
+            <l>The looking up fatigues the sight,</l>
+            <l>And mortals when they soar,</l>
+            <l>Should they once reach a certain height,</l>
+            <l>All wish to have them lower:</l>
+            <l>And friends there are in this good town</l>
+            <l>Will lend a hand to help them down.</l>
+         </lg>
+         <lg>
+            <l>About, about my pen,</l>
+            <l>Nor lose the Fable in thy railing!</l>
+            <l>But to our MONKEY back again,</l>
+            <l>Who found that Brutes, as well as Men,</l>
+            <l>Have this same cursed failing.</l>
+         </lg>
+         <lg>
+            <l>The moment he got fame and wealth</l>
+            <l>(How ill exchang'd for ease and health!)</l>
+            <l>
+               <pb n="12" facs="14"/>
+The envious crew</l>
+            <l>Poor PUG pursue,</l>
+            <l>Abuse his active, pliant spirit;</l>
+            <l>But chiefly those</l>
+            <l>Were mark'd his foes,</l>
+            <l>Who felt a satire in his merit.</l>
+         </lg>
+         <lg>
+            <l>The dull and sluggish were the first</l>
+            <l>To shew their teeth, if not to bite;</l>
+            <l>The HOG, the BEAR, the ASS, had burst,</l>
+            <l>Had they not grunted, roar'd, and bray'd their spite.</l>
+            <l>This furious stir,</l>
+            <l>Awak'd the Critic CUR;</l>
+            <l>HOUND, GREYHOUND, MASTIFF, answer to the call,</l>
+            <l>THE LITTLE DOGS AND ALL.</l>
+            <l>The game's in view:</l>
+            <l>For man and beast</l>
+            <l>Scandal's a feast,</l>
+            <l>Where both with appetite fall to.</l>
+            <l>
+               <pb n="13" facs="15"/>
+The bloated TOAD, in silence, stole</l>
+            <l>To gather poison in her hole:</l>
+            <l>As mischief never knows delay,</l>
+            <l>She rouz'd the VIPER in her way;</l>
+            <l>A neighbour, and her bosom friend:</l>
+            <l>For though she crawl'd and could not run,</l>
+            <l>She kept this maxim strictly,</l>
+            <l>(Ye sons of Law, attend!)</l>
+            <l>That mischief, if it must be done,</l>
+            <l>
+               <hi>'Twere well it were done quickly.</hi>
+            </l>
+            <l>But then his <hi>friends</hi>—Did they oppose?</l>
+            <l>(A luke-warm friend's the worst of foes)</l>
+            <l>The GOAT look'd wise, and wagg'd his beard;</l>
+            <l>The SPANIEL shook his ears;</l>
+            <l>The Fox turn'd up his pointed nose;</l>
+            <l>Thoughtful and dull the CAT appear'd,</l>
+            <l>Or else in whispers purr'd her fears:</l>
+            <l>The STEED alone was firm and fast,</l>
+            <l>The generous STEED stood by him to the last.</l>
+            <l>
+               <pb n="14" facs="16"/>
+PUG sickens, mopes, and looks like death,</l>
+            <l>Speaks faintly, and scarce draws his breath;</l>
+            <l>Some call it Megrim, some the Spleen;</l>
+            <l>Words often us'd that little mean:</l>
+            <l>But Scandal, with her face demure,</l>
+            <l>Hints it is heat of blood,</l>
+            <l>By which is understood,</l>
+            <l>
+               <hi>An old Amour:</hi>
+            </l>
+            <l>In short, they ransack all diseases,</l>
+            <l>And give him that their fancy pleases.</l>
+            <l>Among the rest,</l>
+            <l>That fits him best,</l>
+            <l>Which best the Doctor serves:</l>
+            <l>Of which he most avails him,</l>
+            <l>When knowledge fails him,</l>
+            <l>And, with a face of wisdom, calls it—NERVES.</l>
+         </lg>
+         <lg>
+            <l>The HORSE, who saw his friend's distress,</l>
+            <l>Did thus his honest mind express:</l>
+            <l>
+               <pb n="15" facs="17"/>
+" Come, prithee, rouze; this life's the devil;</l>
+            <l>" What sigh and sob, and keep within?</l>
+            <l>" What YOU, who us'd to frisk and revel,</l>
+            <l>" For ever chatter, and for ever grin?</l>
+            <l>" Zounds—it would make a parson swear;—</l>
+            <l>" Get on my back, and take the air."—</l>
+            <l>Away they went, and as they pass,</l>
+            <l>The HOG, the DOG, the BEAR, the ASS,</l>
+            <l>PUG's diff'rent foes in diff'rent places;</l>
+            <l>If in the least they shew'd their spite,</l>
+            <l>The HORSE would winny, snort, and bite,</l>
+            <l>And throw <hi>the dirt</hi> into their faces.</l>
+         </lg>
+         <lg>
+            <l>For all this care,</l>
+            <l>This exercise and air,</l>
+            <l>Yet still the MONKEY pin'd,</l>
+            <l>For well we are assured,</l>
+            <l>That when the grief is in the mind,</l>
+            <l>'Tis sooner got than cur'd</l>
+            <l>
+               <pb n="16" facs="18"/>
+In this condition,</l>
+            <l>What to prescribe him?—a Physician.</l>
+            <l>There is a certain way of life,</l>
+            <l>Which all must take,</l>
+            <l>For fashion's sake,</l>
+            <l>Or be with all the world at strife:</l>
+            <l>The rich must to the Doctor give,</l>
+            <l>The poor to Nature trust, and live.</l>
+         </lg>
+         <lg>
+            <l>It must be so;—or could the tribe</l>
+            <l>Of those who quack, or who prescribe,</l>
+            <l>In folly find such ample gain?</l>
+            <l>Could nostrums swell the <hi>Advertiser?</hi>
+            </l>
+            <l>Or the wise heads of <hi>Warwick-lane</hi>
+            </l>
+            <l>Buy Wig enough to make them wiser?</l>
+         </lg>
+         <lg>
+            <l>Our patient cannot wait;</l>
+            <l>" Send for a doctor strait!"</l>
+            <l>But not a formal, half-bred fool,</l>
+            <l>Who cures by chance, and kills by rule,</l>
+            <l>
+               <pb n="17" facs="19"/>
+A perriwig-pated block:</l>
+            <l>Physicians for the Brutes were Fowls,</l>
+            <l>And though the sworn practitioners were OWLS,</l>
+            <l>They chose a neighbouring COCK.</l>
+         </lg>
+         <lg>
+            <l>He enters with a stately tread,</l>
+            <l>His comb and wattles dignify his head:</l>
+            <l>No outward fign was ever seen,</l>
+            <l>That promis'd half so much within;</l>
+            <l>And yet—ye sons of Physick, blush!</l>
+            <l>The wine was better than the bush.</l>
+            <l>His learning back'd by penetration,</l>
+            <l>A kind of Radcliffe-inspiration,</l>
+            <l>Bound by no partial, pedant laws,</l>
+            <l>Shot through each symptom to its cause:</l>
+            <l>A rarity without dispute!</l>
+            <l>He was <hi>an honest</hi> COCK to boot.</l>
+            <l>Yet with this genius, worth, and knowledge,</l>
+            <l>He had a stain, a deep disgrace,</l>
+            <l>No mortal merit could efface,—</l>
+            <l>—He was not of the College!</l>
+            <l>
+               <pb n="18" facs="20"/>
+But hold—our hero out of sight,</l>
+            <l>Must now again be brought to light:</l>
+            <l>We left him in the Doctor's care,</l>
+            <l>Who with a serious face,</l>
+            <l>Attending to the case,</l>
+            <l>Did thus his mind declare:</l>
+            <l>" I could, like any learned brother,</l>
+            <l>" With a hard name my ign'rance smother:</l>
+            <l>" 'Tis one of our establish'd laws,</l>
+            <l>" Which daily we fulfil,</l>
+            <l>" Whene'er our skill can't find a cause,</l>
+            <l>" To make a cause to suit our skill:</l>
+            <l>" Thus we seldom meet disgrace;</l>
+            <l>" We only can mistake the case.</l>
+            <l>" What are these papers by your side?</l>
+            <l>" <hi>'Tis physick, Sir, to cure my pride:</hi>
+            </l>
+            <l>" <hi>This heap of papers, verse and prose,</hi>
+            </l>
+            <l>" <hi>Is the joint malice of my foes;</hi>
+            </l>
+            <l>" <hi>There's not a day but something's sent me,</hi>
+            </l>
+            <l>" <hi>To fret me, and torment me.</hi>"</l>
+            <l>
+               <pb n="19" facs="21"/>
+This said, the conversation stops:</l>
+            <l>For PUG was faint, and calls for drops;</l>
+            <l>With rage subdu'd, the patient panted,</l>
+            <l>Which struck a light the Doctor wanted,</l>
+            <l>Who thus pronounc'd—"I know your ail:</l>
+            <l>" 'Tis not in your heart or head,</l>
+            <l>" As some have said;</l>
+            <l>" <hi>Where then, good Doctor?</hi>—in your <hi>tail.</hi>"</l>
+         </lg>
+         <lg>
+            <l>His Tail of most uncommon make,</l>
+            <l>In action like the serpent kind,</l>
+            <l>A thousand diff'rent forms could take,</l>
+            <l>Twirl, twist, and vary to his mind.</l>
+            <l>If Lords were ap'd—this pliant queue</l>
+            <l>Was cross his breast a ribbon blue,</l>
+            <l>Or green, or red—and then slap-dash,</l>
+            <l>A Chaplain's scarf, or Col'nel's sash:</l>
+            <l>When e'er the city struck his brain,</l>
+            <l>'Twas round his neck a Lord Mayor's chain:</l>
+            <l>
+               <pb n="20" facs="22"/>
+Or were his part to lisp and trip it,</l>
+            <l>Hey, prefto!—'twas a Lady's tippet!</l>
+            <l>But now depriv'd of spirit, life, and strength,</l>
+            <l>It lies a languid, lank, inanimated length.</l>
+         </lg>
+         <lg>
+            <l>The Doctor paus'd—then silence broke,</l>
+            <l>" I'll strike a master stroke!</l>
+            <l>" This Tail of yours we must amend,</l>
+            <l>" Give it new life and force,</l>
+            <l>" And if we gain that end,</l>
+            <l>" The rest will come of course:</l>
+            <l>" With that same malice of your foes,</l>
+            <l>" Both verse and prose,</l>
+            <l>" Curl it each night and morning;</l>
+            <l>" But then take warning—</l>
+            <l>" Never again to cast your eyes</l>
+            <l>" On what is wrote, or may be writ,</l>
+            <l>" Whether it is, or is not wit;</l>
+            <l>" For <hi>there</hi> the magic lies."</l>
+            <l>
+               <pb n="21" facs="23"/>
+'Tis best by craft, and not by book,</l>
+            <l>To cure these mental fevers;—</l>
+            <l>The MONKEY all for gospel took,</l>
+            <l>The sick are great believers.</l>
+            <l>So well the Doctor's words he noted,</l>
+            <l>His tail that night was <hi>papilloted</hi>;</l>
+            <l>His greedy eyes, to cure his head,</l>
+            <l>No more on paper-diet fed.</l>
+         </lg>
+         <lg>
+            <l>The cause remov'd effects will cease,</l>
+            <l>Depriv'd of oil, the flame goes out,</l>
+            <l>Our APE began to be at peace,</l>
+            <l>His Tail to move about:</l>
+            <l>The more 'twas curl'd,</l>
+            <l>The more it twirl'd;</l>
+            <l>With head and heart</l>
+            <l>The Tail took part,</l>
+            <l>Life frisks in ev'ry vein,</l>
+            <l>—PUG <hi>was himself again!</hi>—</l>
+            <l>
+               <pb n="22" facs="24"/>
+The MONKEY got his health,</l>
+            <l>The Doctor wealth,</l>
+            <l>Of patients he had plenty:</l>
+            <l>For though the cure was half a joke,</l>
+            <l>'Twas wonder'd at by silly folk,</l>
+            <l>And that's nineteen in twenty.</l>
+            <l>To fix his cure, Historians say,</l>
+            <l>That, like Sir WILFULL in the play,</l>
+            <l>He talk'd of foreign parts:</l>
+            <l>Left all his griefs and cares behind,</l>
+            <l>Sail'd with the first fair wind,</l>
+            <l>And hey for ITALY, and Arts!</l>
+         </lg>
+         <lg>
+            <l>What he got there no creature knows,</l>
+            <l>Nor he himself can tell us;</l>
+            <l>What lightly comes as lightly goes,</l>
+            <l>With all such pretty fellows.</l>
+            <l>He skip'd the country o'er,</l>
+            <l>And then return'd,</l>
+            <l>With what he learn'd,</l>
+            <l>A greater MONKEY than before.</l>
+         </lg>
+         <lg>
+            <pb n="23" facs="25"/>
+            <l>THE Fable told, the Moral comes;—</l>
+            <l>GARRICK, don't fret, and bite your thumbs,</l>
+            <l>But take the MONKEY's place;</l>
+            <l>The same's your case,</l>
+            <l>The same prescription we advise:</l>
+            <l>Should Spleen and Spite,</l>
+            <l>Nay, though Critic Truth should write,</l>
+            <l>(For who is always in the right?)</l>
+            <l>Shut your ears, and close your eyes:</l>
+            <l>Whate'er is publish'd, buy the heap,</l>
+            <l>You'll have it cheap,</l>
+            <l>But not to read, or hear it read:</l>
+            <l>Would you strike detraction dead,</l>
+            <l>The Doctor's method cannot fail;</l>
+            <l>Keep the poison from your HEAD,</l>
+            <l>And clap it to your TAIL.</l>
+         </lg>
+         <trailer>The END.</trailer>
+      </body>
+   </text>
+</TEI>

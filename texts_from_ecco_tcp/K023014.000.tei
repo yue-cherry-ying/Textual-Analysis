@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bounce to Fop: An heroick epistle from a dog at Twickenham to a dog at court. By Dr. S----t.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023014.000</idno>
+            <idno type="docno">CW3310471557</idno>
+            <idno type="ecll">0090106600</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bounce to Fop: An heroick epistle from a dog at Twickenham to a dog at court. By Dr. S----t.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+                  <author>Swift, Jonathan, 1667-1745.</author>
+               </titleStmt>
+               <extent>11,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London] :</pubPlace>
+                  <publisher>Dublin, printed, London, reprinted for T. Cooper,</publisher>
+                  <date>1736.</date>
+                  <idno type="TCP">K023014.000</idno>
+                  <idno type="docno">CW3310471557</idno>
+                  <idno type="ecll">0090106600</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>"It is generally agreed that the original idea was Swift's, but that the writing is largely by Pope" (Foxon).</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, B326</note>
+                  <note>Teerink, 976</note>
+                  <note>English Short Title Catalog, ESTCT5522.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>BOUNCE to FOP. AN HEROICK EPISTLE.</p>
+            <p>By Dr. <hi>S—T.</hi>
+            </p>
+            <p>[Price Six-Pence.]</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>BOUNCE TO FOP.</p>
+            <p>AN HEROICK EPISTLE FROM A DOG at <hi>TWICKENHAM</hi> TO A DOG at COURT.</p>
+            <p>By Dr. <hi>S—T.</hi>
+            </p>
+            <p>
+               <hi>DUBLIN,</hi> Printed, <hi>LONDON,</hi> Reprinted for T. COOPER, in <hi>Paternoster-Row.</hi> M.DCC.XXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="5" facs="3"/>
+         <head>BOUNCE TO FOP.</head>
+         <lg>
+            <l>TO thee, sweet <hi>Fop,</hi> these Lines I send,</l>
+            <l>Who, tho' no Spaniel, am a Friend.</l>
+            <l>Tho, once my Tail in wanton play,</l>
+            <l>Now frisking this, and then that way,</l>
+            <l>Chanc'd, with a Touch of just the Tip,</l>
+            <l>To hurt your Lady-lap-dog-ship;</l>
+            <l>Yet thence to think I'd bite your Head off!</l>
+            <l>Sure <hi>Bounce</hi> is one you never read of.</l>
+         </lg>
+         <lg>
+            <pb n="6" facs="4"/>
+            <l>FOP! you can dance, and make a Leg,</l>
+            <l>Can fetch and carry, cringe and beg,</l>
+            <l>And (what's the Top of all your Tricks)</l>
+            <l>Can stoop to pick up <hi>Strings</hi> and <hi>Sticks.</hi>
+            </l>
+            <l>We Country Dogs love nobler Sport,</l>
+            <l>And scorn the Pranks of Dogs at Court.</l>
+            <l>Fye, naughty Fop! where e'er you come</l>
+            <l>To f<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>t and p<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>ss about the Room,</l>
+            <l>To lay your Head in every Lap,</l>
+            <l>And, when they think not of you—snap!</l>
+            <l>The worst that Envy, or that Spite</l>
+            <l>E'er said of me, is, I can bite:</l>
+            <l>That sturdy Vagrants, Rogues in Rags,</l>
+            <l>Who poke at me, can make no Brags;</l>
+            <l>And that to towze such Things as <hi>flutter,</hi>
+            </l>
+            <l>To honest <hi>Bounce</hi> is Bread and Butter.</l>
+         </lg>
+         <lg>
+            <l>While you, and every courtly Fop,</l>
+            <l>Fawn on the Devil for a Chop,</l>
+            <l>
+               <pb n="7" facs="5"/>
+I've the Humanity to hate</l>
+            <l>A Butcher, tho' he brings me Meat;</l>
+            <l>And let me tell you, have a Nose,</l>
+            <l>(Whatever stinking Fops suppose)</l>
+            <l>That under Cloth of Gold or Tissue,</l>
+            <l>Can smell a Plaister, or an Issue.</l>
+         </lg>
+         <lg>
+            <l>Your pilf'ring Lord, with simple Pride,</l>
+            <l>May wear a Pick-lock at his Side;</l>
+            <l>My Master wants no Key of State,</l>
+            <l>For <hi>Bounce</hi> can keep his House and Gate.</l>
+         </lg>
+         <lg>
+            <l>When all such Dogs have had their Days,</l>
+            <l>As knavish <hi>Pams,</hi> and fawning <hi>Trays</hi>;</l>
+            <l>When pamper'd <hi>Cupids,</hi> beastly <hi>Veni</hi>'s,</l>
+            <l>And motly, squinting <hi>Harvequini</hi>'s,</l>
+            <l>Shall lick no more their Lady's Br<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>,</l>
+            <l>But die of Looseness, Claps, or Itch;</l>
+            <l>
+               <pb n="8" facs="6"/>
+Fair <hi>Thames</hi> from either ecchoing Shore</l>
+            <l>Shall hear, and dread my manly Roar.</l>
+         </lg>
+         <lg>
+            <l>See <hi>Bounce,</hi> like <hi>Berecynthia,</hi> crown'd</l>
+            <l>With thund'ring Offspring all around,</l>
+            <l>Beneath, beside me, and a top,</l>
+            <l>A hundred Sons! and not one <hi>Fop.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>Before my Children set your Beef,</l>
+            <l>Not one true <hi>Bounce</hi> will be a Thief;</l>
+            <l>Not one without Permission feed,</l>
+            <l>(Tho' some of <hi>J<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>
+               </hi>'s hungry Breed)</l>
+            <l>But whatsoe'er the Father's Race,</l>
+            <l>From me they suck a little Grace.</l>
+            <l>While your fine Whelps learn all to steal,</l>
+            <l>Bred up by Hand on Chick and Veal.</l>
+         </lg>
+         <lg>
+            <l>My Eldest-born resides not far,</l>
+            <l>Where shines great <hi>Strafford</hi>'s glittering Star:</l>
+            <l>
+               <pb n="9" facs="7"/>
+My second (Child of Fortune!) waits</l>
+            <l>At <hi>Burlington</hi>'s Palladian Gates:</l>
+            <l>A third majestically stalks</l>
+            <l>(Happiest of Dogs!) in <hi>Cobham</hi>'s Walks:</l>
+            <l>One ushers Friends to <hi>Bathurst</hi>'s Door;</l>
+            <l>One fawns, at <hi>Oxford</hi>'s, on the Poor.</l>
+         </lg>
+         <lg>
+            <l>Nobles, whom Arms or Arts adorn,</l>
+            <l>Wait for my Infants yet unborn.</l>
+            <l>None but a Peer of Wit and Grace,</l>
+            <l>Can hope a Puppy of my Race.</l>
+         </lg>
+         <lg>
+            <l>And O! wou'd Fate the Bliss decree</l>
+            <l>To mine (a Bliss too great for me)</l>
+            <l>That two, my tallest Sons, might grace</l>
+            <l>Attending each with stately Pace,</l>
+            <l>
+               <hi>Iulus</hi>' Side, as erst <hi>Evander's,</hi>
+               <note place="bottom" n="*">Virg. Aen. VIII.</note>
+            </l>
+            <l>To keep off Flatt'rers, Spies, and Panders,</l>
+            <l>
+               <pb n="10" facs="8"/>
+To let no noble Slave come near,</l>
+            <l>And scare Lord <hi>Fannys</hi> from his Ear:</l>
+            <l>Then might a Royal Youth, and true,</l>
+            <l>Enjoy at least a Friend—or two:</l>
+            <l>A Treasure, which, of Royal kind,</l>
+            <l>Few but Himself deserve to find.</l>
+         </lg>
+         <lg>
+            <l>Then <hi>Bounce</hi> ('tis all that <hi>Bounce</hi> can crave)</l>
+            <l>Shall wag her Tail within the Grave.</l>
+         </lg>
+         <lg>
+            <l>And tho' no Doctors, Whig or Tory ones,</l>
+            <l>Except the Sect of <hi>Pythagoreans,</hi>
+            </l>
+            <l>Have Immortality assign'd</l>
+            <l>To any Beast, but <note place="bottom" n="†">A Milk-white Hind, immortal and unchang'd. Ver. I. Of the <hi>Hind</hi> and <hi>Panther.</hi>
+               </note> 
+               <hi>Dryden</hi>'s Hind:</l>
+            <l>Yet Master <hi>Pope,</hi> whom Truth and Sense</l>
+            <l>Shall call their Friend some Ages hence,</l>
+            <l>Tho' now on loftier Themes he sings</l>
+            <l>Than to bestow a Word on <hi>Kings,</hi>
+            </l>
+            <l>
+               <pb n="11" facs="9"/>
+Has sworn by <hi>Sticks</hi> (the Poet's Oath,</l>
+            <l>And Dread of Dogs and Poets both)</l>
+            <l>Man and his Works he'll soon renounce,</l>
+            <l>And roar in Numbers worthy <hi>Bounce.</hi>
+            </l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 7. Line 14. for <hi>Harvequini</hi>'s, read <hi>Harlequini</hi>'s.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

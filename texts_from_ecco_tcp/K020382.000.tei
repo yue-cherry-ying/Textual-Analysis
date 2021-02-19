@@ -1,0 +1,619 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An address to the people of England: being the protest of a private person against every suspension of law that is liable to injure or endanger personal security.:</title>
+            <author>Sharp, Granville, 1735-1813.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020382.000</idno>
+            <idno type="docno">CW3307921946</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An address to the people of England: being the protest of a private person against every suspension of law that is liable to injure or endanger personal security.:</title>
+                  <author>Sharp, Granville, 1735-1813.</author>
+               </titleStmt>
+               <extent>76,[4]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed in the year,</publisher>
+                  <date>1778.</date>
+                  <idno type="TCP">K020382.000</idno>
+                  <idno type="docno">CW3307921946</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Granville Sharp.</note>
+                  <note>With two final advertisement leaves.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT870.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>AN ADDRESS TO THE PEOPLE OF ENGLAND: BEING THE PROTEST OF A PRIVATE PERSON Against every SUSPENSION OF LAW that is liable to injure or endanger PERSONAL SECURITY.</p>
+            <p>WHEREIN IS SHEWN That the Claim of <hi>personal Protection and Relief from unjust Imprisonment,</hi> 
+               <q>BY DUE PROCESS OF THE LAW,</q> (and that "WITHOUT DELAY,") is a "COMMON RIGHT," so indispensably due to all <hi>innocent Persons,</hi> that it cannot be set aside, or with<lb rend="hidden" type="hyphenInWord"/>drawn from any <hi>that are so,</hi> (who demand it,) without <hi>fundamentally subverting the political Constitution,</hi> or <hi>legal Establishment of these Kingdoms,</hi> and thereby rendering the Advisers and Promoters of such a Measure <hi>guilty of</hi> HIGH-TREASON!</p>
+            <q>"It is the Duty of every Individual whatsoever to aid <hi>PEACE</hi> and <hi>PUBLIC JUSTICE,</hi>" — agreeable to a MAXIM of the Law—"UNUSQUISQUE PACI ET JUSTITIAE PUBLICAE TENETUR SUCCURRERE."</q>
+            <q>"Those Men, who set aside" <hi>(or suspend)</hi> "the Law of the Land, do thereby incur a perpetual Stain of Infamy!"—For it is a funda<lb rend="hidden" type="hyphenInWord"/>mental MAXIM of the Constitution —"<hi>LEGEM TERRAE</hi> amit<lb rend="hidden" type="hyphenInWord"/>tentes perpetuam infamiae notam inde merito incurrunt."</q>
+            <p>LONDON: PRINTED IN THE YEAR M.DCC.LXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="2"/>
+         <head>TO THE PEOPLE OF ENGLAND.</head>
+         <p>COMMON CHARITY will induce us to believe that the advocates for an occasional <hi>suspension</hi> of the <hi>Habeas Corpus</hi> laws are not really aware of the dangerous tendency of such a measure; and therefore when the author of this Protest (in the following pages) charges the advisers and promoters of the sus<lb rend="hidden" type="hyphenInWord"/>pension with <q>high-treason against the king and state,</q> he professes to aim the severity of his censure chiefly against <hi>the measure itself,</hi> (in order to express the <hi>real danger</hi> and <hi>malignity</hi> of its ef<lb rend="hidden" type="hyphenInWord"/>fect,) rather than against the <hi>persons</hi> of those men who, inadvertently, or through inattention to the <hi>fundamental</hi> or <hi>indis<lb rend="hidden" type="hyphenInWord"/>pensable principles of law,</hi> have promoted
+<pb n="4" facs="3"/>
+it: and therefore to <hi>those</hi> persons, joint<lb rend="hidden" type="hyphenInWord"/>ly with all the other People of England, (as being equally interested with the rest in the effects of such a measure) the au<lb rend="hidden" type="hyphenInWord"/>thor of this Protest now addresses himself, not to promote a spirit of vengeance and personal resentment, but merely for the purposes of warning and instruction to <hi>all parties,</hi> that they may cordially unite in restoring the <hi>due limitations</hi> of govern<lb rend="hidden" type="hyphenInWord"/>ment, on which depends the common safety both of king and people.</p>
+         <p>The Advocates for an occasional <hi>sus<lb rend="hidden" type="hyphenInWord"/>pension of the law,</hi> perhaps, will alledge, that the new <hi>temporary</hi> powers (whate<lb rend="hidden" type="hyphenInWord"/>ver they may happen to be) which would thereby be thrown into the hands of the persons intrusted with the administra<lb rend="hidden" type="hyphenInWord"/>tion of government, are by no means intended to take effect against <hi>the People of England,</hi> that are resient <hi>in</hi> this island, but only against such persons as
+<pb n="5" facs="4"/>
+have <hi>been guilty of treason in foreign parts</hi> (in <hi>America,</hi> let us suppose, for instance) or <hi>on the high seas, or for piracy;</hi> and therefore they conceive, that the free inhabitants of this island could not be injured by so limited a <hi>suspension</hi> of the laws, especially if they should admit in their bill an additional clause of limita<lb rend="hidden" type="hyphenInWord"/>tion, proposed even by an opposite par<lb rend="hidden" type="hyphenInWord"/>ty, by way of security; which we will suppose to be couched in the following terms, <hi>viz.</hi> 
+            <q>That nothing herein is intended, or shall be construed, to extend to the case of any other prisoner or pri<lb rend="hidden" type="hyphenInWord"/>soners than such as shall have <hi>BEEN OUT OF THE REALM AT THE TIME OR TIMES OF THE OFFENCE OR OFFENCES</hi> wherewith he or they shall be charged, or of which they shall be suspected.</q> Such a clause as this seems, on a slight examination, to se<lb rend="hidden" type="hyphenInWord"/>cure the inhabitants of this island from the danger of an <hi>unlimited</hi> power, against
+<pb n="6" facs="5"/>
+which all true Englishmen ought to be ever upon their guard: but, alas! so dan<lb rend="hidden" type="hyphenInWord"/>gerous is it to stop the ordinary course of <hi>justice</hi> and <hi>common right,</hi> or to alter the <hi>"due process of the law,"</hi> in any ca<lb rend="hidden" type="hyphenInWord"/>ses whatsoever wherein <hi>personal liberty</hi> (the highest and most valuable <hi>temporal</hi> object of Englishmen) is concerned, that, if we should <hi>suppose</hi> the case of such a <hi>suspension of the laws</hi> as courtiers in general would endeavour to obtain, were they to be intrusted with <hi>the com<lb rend="hidden" type="hyphenInWord"/>piling of a bill</hi> for that purpose, and then carefully compare the said <hi>supposed bill</hi> with the abovementioned <hi>clause of limitation,</hi> we should soon have reason to be convinced that the security of the latter is only <hi>imaginary;</hi> and that mul<lb rend="hidden" type="hyphenInWord"/>titudes of his majesty's <hi>innocent</hi> and <hi>peaceable</hi> subjects would be still liable to be oppressed, and be denied the benefits of <hi>public justice</hi> and <hi>common right,</hi> by such a <hi>suspension of law,</hi> if they should happen
+<pb n="7" facs="6"/>
+to incur the displeasure of persons in power, or be misrepresented to them by any secret enemy.</p>
+         <p>The proposed clause leaves unpro<lb rend="hidden" type="hyphenInWord"/>tected all the nobility, gentry, and other persons whatsoever, that have made any excursions into <hi>France, Italy, Germany, Flanders, &amp;c.</hi> or even to <hi>Ireland,</hi> ever since the commencement of the troubles (whatever they might be) which occa<lb rend="hidden" type="hyphenInWord"/>sioned an <hi>imaginary necessity,</hi> or plea, for SUSPENDING THE LAWS. And this, perhaps, might be extended three or four years back, and might thereby exclude from the protection of the limiting clause a great multitude of the most re<lb rend="hidden" type="hyphenInWord"/>spectable people of the kingdom, who might happen to have travelled abroad during such a period. Neither does the clause protect the merchants, traders, and other persons, that have arrived from the West-Indies, Ireland, or any other
+<pb n="8" facs="7"/>
+country, within such a supposed period. And they are, surely, too numerous and respectable a body to be thus <hi>outlawed!</hi>
+         </p>
+         <p>Add to this, that all <hi>seafaring Persons without exception</hi> (though they are the most valuable subjects of this maritime state) would be left unprotected by such a clause, and of course would be rendered subject to the <hi>unlimited</hi> WILL <hi>of man,</hi> (ARBITRIUM <hi>hominis,</hi> which is the true definition of ARBITRARY POWER,) <hi>in<lb rend="hidden" type="hyphenInWord"/>stead</hi> of LAW! And, lastly, all other persons whatsoever are liable to suffer the same inconveniences, if they have not kept a diary, or have not memory or memo<lb rend="hidden" type="hyphenInWord"/>randums, to enable them to produce suf<lb rend="hidden" type="hyphenInWord"/>ficient evidence of their being actually WITHIN THIS REALM at any period of time that might be fixed upon within the last three or four years; so that not only persons <q>
+               <hi>seized and taken</hi> OUT OF THE REALM</q> would be made liable to
+<pb n="9" facs="8"/>
+the effects of such a <hi>suspending act,</hi> but all the other persons abovementioned, though they are actually RESIENT WITHIN THE REALM.</p>
+         <p>In order to state the case for my argu<lb rend="hidden" type="hyphenInWord"/>ment as clearly as I am able, I have here supposed the adoption of such a <hi>suspend<lb rend="hidden" type="hyphenInWord"/>ing bill</hi> as we might naturally conceive to be proposed by any set of men in power, who are warmed by the sunshine of court-favour till they forget that their own real interest is inseparably connected with that of the public, and that the increase of power, which they promote, may possibly fall into some other hands than their own. But the hands of govern<lb rend="hidden" type="hyphenInWord"/>ment must be strengthened, they would probably say; and, for this purpose, they would be very apt to insert in their bill some discretionary powers to enable the king and his ministers to imprison not on<lb rend="hidden" type="hyphenInWord"/>ly persons <q>seized and taken out of the
+<pb n="10" facs="9"/>
+realm,</q> 
+            <hi>but also persons</hi> 
+            <q>who shall be committed in any part of his majesty's do<lb rend="hidden" type="hyphenInWord"/>minions for the said crimes,</q> I mean, any crimes which I have before sup<lb rend="hidden" type="hyphenInWord"/>posed in stating this case, <hi>viz.</hi> 
+            <q>High-treason in any of his majesty's colonies or plantations in America, or <hi>ON THE HIGH SEAS,</hi>
+            </q> 
+            <hi>(which will include our own coasts any where beyond low-water mark,)</hi> 
+            <q>or the crime of piracy,</q> without any description or limitation of place whatsoever! So that if any inno<lb rend="hidden" type="hyphenInWord"/>cent man (who happens not to be able to prove an <hi>alibi</hi> for every day, and even every hour, since these troubles began) should be maliciously <hi>"charged with"</hi> the crime of <hi>treason</hi> or <hi>piracy</hi> committed within half a mile of the British coasts, he may be seized and imprisoned, <q>without bail or mainprize,</q> at the <hi>will and plea<lb rend="hidden" type="hyphenInWord"/>sure</hi> of the king and council, for <hi>many months;</hi> and, at the expiration of the <hi>limited</hi> time, (without any farther exa<lb rend="hidden" type="hyphenInWord"/>mination
+<pb n="11" facs="10"/>
+or opportunity of being heard at all by his country,) his term of con<lb rend="hidden" type="hyphenInWord"/>finement is prolonged by another <hi>such act,</hi> and perhaps another after that, (as <hi>evil</hi> examples beget others,) till the time of his relief by <q>due process of the law</q> becomes totally <hi>uncertain</hi> and <hi>in<lb rend="hidden" type="hyphenInWord"/>definite!</hi> — A deplorable condition this! which, in our common law, is deemed <hi>"wretched slavery;"</hi> — for, <q>Misera est servitus</q> 
+            <hi>(says the maxim)</hi> 
+            <q>ubi <hi>JUS</hi> est vagum aut incertum.</q> (<hi>Prin<lb rend="hidden" type="hyphenInWord"/>cipia leg. &amp; Aeq. p.</hi> 61.)</p>
+         <p>But the condition of the <hi>deluded</hi> sub<lb rend="hidden" type="hyphenInWord"/>jects will be rendered still more com<lb rend="hidden" type="hyphenInWord"/>pletely <hi>uncertain</hi> and <hi>wretched,</hi> if the compilers of the supposed suspending act should endeavour to avail themselves of <hi>vague</hi> terms and expressions: — for in<lb rend="hidden" type="hyphenInWord"/>stance, — (in the body of the bill,) — <hi>"Such crimes"</hi> (referring to the crimes particularly named in the former part)
+<pb n="12" facs="11"/>
+instead of <hi>"the said crimes:"</hi> — for, as <hi>"Nullum simile est idem,"</hi> — <q>( LIKE <hi>is not</hi> THE SAME,)</q> — the expression, <hi>"such crimes,"</hi> signifies only <hi>similar crimes,</hi> and not <hi>the same crimes</hi> before expressed, whereby the power of the act would be liable to an arbitrary exten<lb rend="hidden" type="hyphenInWord"/>sion at the <hi>will</hi> of the magistrate!</p>
+         <p>Whenever persons in power cease to be <hi>duly limited</hi> by a free parliament, they will pay but very little regard to the grossness of the propositions which they tender to that, <hi>once,</hi> august assembly; and therefore, if such an <hi>illegal</hi> power should ever be usurped by any set of men, we may then expect to find many more <hi>vague</hi> expressions in our public acts! — We may in that case, without improbability, suppose the penning of a <hi>suspending act</hi> to be — not only <q>for such crimes, <hi>OR ANY</hi> of them,</q> — but also <q>for <hi>SUSPICION</hi> of <hi>SUCH
+<pb n="13" facs="12"/>
+ CRIMES,</hi> or any of them, by any ma<lb rend="hidden" type="hyphenInWord"/>gistrate,</q> 
+            <hi>&amp;c. viz.</hi> any trading ma<lb rend="hidden" type="hyphenInWord"/>gistrate, pensioned Middlesex justice, or other wretched time-server, that may happen to be entrusted with a power of committing to prison. — And in such times it will afford a sufficient handle against any person whatsoever, if they are but <hi>"charged with"</hi> such crimes, whether they be guilty of them or not; or even if they be but <q>
+               <hi>CHARGED WITH</hi>
+            </q> the <q>
+               <hi>SUSPICION</hi> of <hi>SUCH</hi> crimes, or any of them, by <hi>ANY</hi> ma<lb rend="hidden" type="hyphenInWord"/>gistrate, </q> 
+            <hi>&amp;c.</hi> — Nothing more <hi>arbitrary</hi> or <hi>capricious</hi> can easily be de<lb rend="hidden" type="hyphenInWord"/>scribed; and yet, alas! my <hi>supposed bill</hi> by no means exceeds the bounds of probability; for, when the baneful practice of <hi>bribery</hi> becomes triumphant, and the very foundations of government are thoroughly <hi>corrupted,</hi> we may ex<lb rend="hidden" type="hyphenInWord"/>pect that <hi>probability</hi> will still go farther, and that the above <hi>supposed</hi> extraordinary
+<pb n="14" facs="13"/>
+powers will be farther augmented by a <hi>"non obstante,"</hi> to trample down at once, not only the <hi>Habeas Corpus Act,</hi> but all the other fences of British <hi>liber<lb rend="hidden" type="hyphenInWord"/>ty,</hi> national <hi>justice,</hi> and <hi>common right,</hi> on which the safety of Englishmen de<lb rend="hidden" type="hyphenInWord"/>pends! <hi>viz.</hi> 
+            <q>any law, statute, or u<lb rend="hidden" type="hyphenInWord"/>sage, to the contrary, in any wise not<lb rend="hidden" type="hyphenInWord"/>withstanding. </q>
+         </p>
+         <p>The clause is indeed a common one, for the repeal of useless or indifferent matters; but, when the effect extends to annul all the laws of <hi>personal protec<lb rend="hidden" type="hyphenInWord"/>tion,</hi> and the <hi>common right</hi> of English<lb rend="hidden" type="hyphenInWord"/>men to <hi>"the due process of the law,"</hi> (which is, to be tried <hi>without delay</hi> by their country, <hi>[per legem terrae,]</hi> and, <hi>if innocent,</hi> to be restored to freedom,) — such a <hi>suspension,</hi> I say, of <hi>common justice</hi> and <hi>common right</hi> is so fun<lb rend="hidden" type="hyphenInWord"/>damentally subversive of the British constitution of state, that no authority
+<pb n="15" facs="14"/>
+of parliament can make it <hi>legal;</hi> because it it is <hi>high-treason</hi> against the king and people! and all the abettors and promo<lb rend="hidden" type="hyphenInWord"/>ters of such an act would thereby render themselves <hi>"eternally infamous"</hi> in the eye of the law! — which is declared by a constitutional maxim: — <q>LEGEM TERRAE <hi>amittentes</hi> PERPETUAM IN<lb rend="hidden" type="hyphenInWord"/>FAMIAE NOTAM <hi>inde merito incur<lb rend="hidden" type="hyphenInWord"/>runt.</hi>
+            </q> (3. inst. p. 221.)— <q> 
+               <hi>Those men, who set aside</hi> THE LAW OF THE LAND,</q> (which is certainly the case of those who vote for <hi>suspending</hi> it,) <q>
+               <hi>do thereby incur a</hi> PERPETUAL STAIN <hi>of</hi> INFAMY!</q>
+         </p>
+         <p>If ever such an act, therefore, should subsist, and the promoters of it remain in power, British subjects may amuse themselves with the <hi>name of freedom</hi> if they please, but they will have no more <hi>real</hi> and <hi>just</hi> right to boast of their <hi>liber<lb rend="hidden" type="hyphenInWord"/>ty</hi> than the subjects of France or Prussia!
+<pb n="16" facs="15"/>
+For they would then be involved exactly in the same <hi>uncertain</hi> and <hi>precarious</hi> con<lb rend="hidden" type="hyphenInWord"/>dition! And, though they might not, perhaps, for some considerable time af<lb rend="hidden" type="hyphenInWord"/>terwards, begin to feel the pernicious effects of a government <hi>unlimited by law,</hi> yet that would not render their condi<lb rend="hidden" type="hyphenInWord"/>tion less <hi>base</hi> or <hi>slavish,</hi> for our common law has already stated the condition of such as an <hi>outlawed</hi> people: — <q>Res est misera, ubi <hi>JUS</hi> est vagum.</q>
+            <note place="bottom" n="*">
+               <q> Grounds and Rudiments of Law and Equity, p. 304.</q>
+            </note> — <q> 
+               <hi>WRETCHED</hi> is the state of affairs wherever <hi>COMMON RIGHT</hi> is vague</q> 
+            <hi>and uncertain!</hi> — Nay it is downright <hi>slavery,</hi> as declared by another maxim, already cited, in p. 11.</p>
+         <p>The learned Sir Robert Atkins (for<lb rend="hidden" type="hyphenInWord"/>merly one of the judges of the Common Pleas) has remarked, (concerning <q>the pope's exercise of his power of dispen<lb rend="hidden" type="hyphenInWord"/>sing, </q>
+            <pb n="17" facs="16"/>
+or rather of <hi>suspending laws,</hi> by virtue of such a <hi>"non obstante,"</hi>) that <q>
+               <hi>it was used with some moderation</hi> AT FIRST, in cases that seemed to be <hi>of</hi> GREAT NECESSITY only; but at last, by degrees, it grew to be <hi>in<lb rend="hidden" type="hyphenInWord"/>tolerable and unlimited.</hi>
+            </q> (See his parliamentary and political Tracts, p. 247.) And surely we ought to be e<lb rend="hidden" type="hyphenInWord"/>qually jealous of every claim or preten<lb rend="hidden" type="hyphenInWord"/>sion to <hi>omnipotence,</hi> or <hi>unlimited power,</hi> whenever and by whomsoever it is made, though we do not immediately feel the baneful effects of it.—There are but too many advocates for the imaginary <hi>omni<lb rend="hidden" type="hyphenInWord"/>potence,</hi> or <hi>unlimited power,</hi> of parlia<lb rend="hidden" type="hyphenInWord"/>ment!</p>
+         <p>True it is, that the same persons, who are entrusted with authority to <hi>make laws,</hi> are entrusted likewise with autho<lb rend="hidden" type="hyphenInWord"/>rity to <hi>suspend</hi> or <hi>repeal</hi> them; but in this (without the least detriment to their
+<pb n="18" facs="17"/>
+just <hi>liberty</hi> and <hi>free</hi> privileges) they are not without <hi>limitation.</hi> Even <hi>liberty</hi> it<lb rend="hidden" type="hyphenInWord"/>self is <hi>limited,</hi> and submits to the same sort of definition; for <q>
+               <hi>liberty</hi>
+            </q> (says an old and eminent law-writer) <q>is not a power to act, <hi>quidquid libet, what we list,</hi> (for this may be <hi>licentious,</hi> and a lust or passion may enslave a man</q> [or men] <q>as much as any chain or fetter,) but, <hi>quod licet,</hi> what is <hi>just</hi> and <hi>ratio<lb rend="hidden" type="hyphenInWord"/>nal. </hi>
+            </q> 
+            <q>(Rights of the Kingdom, <hi>p. 136.</hi>)</q> And, in the preceding page, speaking expressly of the house of com<lb rend="hidden" type="hyphenInWord"/>mons, or parliaments, he says: — <q> When they are <hi>FREEST</hi> they have <hi>LI<lb rend="hidden" type="hyphenInWord"/>MITS,</hi> for they be <hi>NOT INFINITE.</hi> Nay, when they are <hi>MOST FREE,</hi> they are <hi>MOST BOUND</hi> to <hi>GOOD ORDERS</hi> and <hi>TO RIGHT REASON.</hi>
+            </q> The truth of this doctrine is unquestionable: for, if a <hi>parliament,</hi> or <hi>legislative power</hi> of any kind, (regal or popular,) presume to enact ordinances which oppose, or in
+<pb n="19" facs="18"/>
+any respect set aside, <hi>natural justice,</hi> or <hi>the common right of innocent persons,</hi> and shall claim an <hi>authority</hi> or <hi>privilege</hi> to do so, (which is ignorantly and vainly cal<lb rend="hidden" type="hyphenInWord"/>led <hi>omnipotence of parliament,</hi>) the said <hi>power</hi> ceases to be a <hi>legal power,</hi> because it casts off the restraint and government of God's indispensable laws, and thereby becomes excommunicated from God! —<q>Shall the throne of <hi>INIQUITY</hi> have fellowship with thee, which <hi>FRAMETH MISCHIEF BY A LAW?</hi>
+            </q> (Psalm xciv. 20.)</p>
+         <p>A due consideration of this ought to restrain the modern rage of act-making! for it is laid down, in that ancient and re<lb rend="hidden" type="hyphenInWord"/>spectable law-book, called FLETA, that <q> the power of <hi>RIGHT</hi> (<hi>or</hi> justice) is of God alone, but the power of <hi>WRONG (or injury)</hi> is of the <hi>DEVIL;</hi> and the works of whichsoever of these two,</q> (viz. <hi>of God or of the devil,</hi>) <q>he shall
+<pb n="18" facs="19"/>
+               <gap extent="1 page" rend="content:〈1 page duplicate〉">
+                  <desc>duplicate</desc>
+               </gap>
+               <pb n="19" facs="20"/>
+               <gap extent="1 page" rend="content:〈1 page duplicate〉">
+                  <desc>duplicate</desc>
+               </gap>
+               <pb n="20" facs="21"/>
+do,</q> (<hi>speaking of the agency of a</hi> king, <hi>and the same may surely be said also of a</hi> parliament,) <q>of him he is the servant.</q>
+            <note place="bottom" n="*">
+               <q> Potestas enim <hi>JURIS</hi> solius est <hi>DEI, INJURIAE</hi> ve<lb rend="hidden" type="hyphenInWord"/>ro <hi>DIABOLI,</hi> et, cujus <hi>OPERA</hi> fecerit, ejus et minister erit.</q> (Fleta, c. xvii. p. 17.)</note> And to this doctrine, as an unquestionable truth, that illustrious lawyer, <hi>Henry de Bracton,</hi> (who was a judge in this realm above 530 years ago,) has made the following addition: — <q> Therefore,</q> (<hi>says he, still speaking of a</hi> king,) <q>while he <hi>DOES JUSTICE</hi> he is the vicar of the <hi>ETERNAL KING;</hi> but he is the <hi>SERVANT OF THE DEVIL</hi> while he declines to <hi>INJUSTICE</hi> or <hi>WRONG.</hi>
+            </q>
+            <note place="bottom" n="†">
+               <q> Quia illa potestas</q> 
+               <hi>(potestas JURIS)</hi> 
+               <q>solius <hi>DEI</hi> est; potestas autem injuriae <hi>DIABOLI,</hi> et non <hi>DEI;</hi> et, cujus horum opera fecerit rex, ejus mi<lb rend="hidden" type="hyphenInWord"/>nister erit cujus opera fecerit.</q> (And then follows the addition quoted above.) <q> Igitur, dum <hi>FACIT JUSTITIAM,</hi> vicarius est <hi>REGIS AETERNI;</hi> minister autem <hi>DIABOLI,</hi> dum declinet ad injuriam.</q> Bract. lib. iii. c. 9, p. 107.</note> And, in like manner, a parliament, or
+<pb n="21" facs="22"/>
+the persons entrusted with the power of legislation, are to be esteemed as <hi>the ser<lb rend="hidden" type="hyphenInWord"/>vants of the devil,</hi> and as enemies to <hi>God,</hi> while they promote or establish any no<lb rend="hidden" type="hyphenInWord"/>torious <hi>injustice:</hi> for, <q>Know ye not, that, to whom ye yield yourselves ser<lb rend="hidden" type="hyphenInWord"/>vants, to obey, his servants ye are to whom ye obey; whether of sin, unto death, or of obedience, unto righteous<lb rend="hidden" type="hyphenInWord"/>ness? </q> (Rom. vi. 16.)</p>
+         <p>Many laws there are which belong to <hi>God</hi> as well as <hi>man,</hi> and which are there<lb rend="hidden" type="hyphenInWord"/>fore to be esteemed as parts of the E<lb rend="hidden" type="hyphenInWord"/>TERNAL LAW: <hi>i.e. the</hi> WILL <hi>of</hi> GOD <hi>that all things be moved and directed to a good and proper end; a perpetual and constant</hi> WILL <hi>to give to every one his</hi> RIGHT;<note place="bottom" n="‡">
+               <q> 
+                  <hi>LEX AETERNA</hi> nihil aliud est quam ipsa summa ra<lb rend="hidden" type="hyphenInWord"/>tio gubernationis rerum in <hi>DEO,</hi> sive illa summa ratio <hi>DIVINAE SAPIENTIAE,</hi> qua vult <hi>DEUS</hi> omnia a se con<lb rend="hidden" type="hyphenInWord"/>dita, moveri, et dirigi, ad bonum et debitum fi<lb rend="hidden" type="hyphenInWord"/>nem, </q> —&amp;c. And again: <q>LEX AETERNA, <hi>sub alia descriptione, dicitur</hi> PERPETUA et CONSTANS VOLUNTAS JUS SUUM <hi>unicuique tribuens,</hi>
+               </q> &amp;c. Doct. et Stud. c. i. p. 2.</note> and
+<pb n="22" facs="23"/>
+no <hi>right</hi> can be more sacred than the <hi>right</hi> of an <hi>innocent man to obtain</hi> FREE<lb rend="hidden" type="hyphenInWord"/>DOM, by <hi>"due process of the law,"</hi> from duress and unjust imprisonment: for, <q> 
+               <hi>LIBERTY</hi> is inestimable;</q> (<q>libertas est res inestimabilis, <bibl>Jenk. cent. 52.</bibl>
+            </q>) and <q>is planted <hi>BY GOD</hi> in the very na<lb rend="hidden" type="hyphenInWord"/>ture of man.</q> (<q>Libertas a Deo ho<lb rend="hidden" type="hyphenInWord"/>minis est indita naturae. <bibl>Fortescu de laud. Leg. Ang. 41.</bibl>
+            </q>) So that <q>hu<lb rend="hidden" type="hyphenInWord"/>man nature intreats <hi>(or implores)</hi> fa<lb rend="hidden" type="hyphenInWord"/>vour in the <hi>CAUSE OF LIBERTY</hi> more than in any other cause;</q>
+            <note place="bottom" n="‖">—<q> Humana natura in libertatis causa favorem semper, MAGIS QUAM IN ALIIS CAUSIS, deprece<lb rend="hidden" type="hyphenInWord"/>tur, <bibl>&amp;c. Ib. c. xlvii. p. 109.</bibl>
+               </q>
+            </note> and conse<lb rend="hidden" type="hyphenInWord"/>quently the man, who <q>does not favour the cause of <hi>LIBERTY,</hi>
+            </q> is already con<lb rend="hidden" type="hyphenInWord"/>demned, in our common law, as <q>im<lb rend="hidden" type="hyphenInWord"/>pious
+<pb n="23" facs="24"/>
+ and cruel.</q>
+            <note place="bottom" n="§">
+               <q> Impius et crudelis judicandus est qui libertati non favet. <bibl>Co. Lit. 124.</bibl>
+               </q>
+            </note> And, in like man<lb rend="hidden" type="hyphenInWord"/>ner, every act of parliament, or statute, which is <hi>unfavourable</hi> thereto, (by redu<lb rend="hidden" type="hyphenInWord"/>cing <hi>freedom</hi> and augmenting <hi>slavery,</hi>) must necessarily be esteemed equally ob<lb rend="hidden" type="hyphenInWord"/>noxious and inimical to GOD and MAN: — for, <q>
+               <hi>CRUDELIS</hi> etiam <hi>NECESSARIO</hi> judicabitur <hi>LEX,</hi> quae servitutem aug<lb rend="hidden" type="hyphenInWord"/>mentat et minuit libertatem.</q> (Fortescu, c. 41.) And, as this <hi>"will of God,"</hi> respecting the <hi>right of men,</hi> is, in the a<lb rend="hidden" type="hyphenInWord"/>bove quotation, declared to be <q>perpe<lb rend="hidden" type="hyphenInWord"/>tual and constant,</q> it necessarily fol<lb rend="hidden" type="hyphenInWord"/>lows, that <hi>no human authority</hi> upon <hi>earth</hi> can <hi>suspend</hi> or <hi>annul</hi> any part of the <hi>eter<lb rend="hidden" type="hyphenInWord"/>nal law,</hi> without grievous sin! for our first allegiance is made in baptism to <hi>God and his laws:</hi> and the latter consist not merely in the <hi>written</hi> injunctions of di<lb rend="hidden" type="hyphenInWord"/>vine revelation, (which we call the <hi>scrip<lb rend="hidden" type="hyphenInWord"/>tures,</hi>) but also in <hi>reason</hi> and <hi>natural jus<lb rend="hidden" type="hyphenInWord"/>tice;</hi>
+            <pb n="24" facs="25"/>
+the knowledge of which (though it is a divine attribute) is inherited by mankind in general, <hi>and written in their hearts;</hi>
+            <note place="bottom" n="¶">
+               <q> Scribiturque haec lex</q> 
+               <hi>(lex rationis)</hi> 
+               <q>in corde cujus<lb rend="hidden" type="hyphenInWord"/>libet hominis, <hi>docens eum quid agendum, et quid fugiendum, unde dicit apostolus ad Romanos secundo.</hi> Omnes gentes, qui legem S. scriptam non habent <hi>NATU<lb rend="hidden" type="hyphenInWord"/>RALITER,</hi> ea quae legis suni faciunt, hujusmodi legem non habentes ipsi sibi sunt lex, qui ostendunt opus legis <hi>SCRIPTUM IN CORDIBUS SUIS,</hi> testimonium reddente illis <hi>CONSCIENTIA IPSORUM.</hi>
+               </q> Et, quod lex ra<lb rend="hidden" type="hyphenInWord"/>tionis in corde scribitur, ideo deleri non potest, nec etiam recepit mutationem, ex loco nec tempore; sed <hi>ubique, et inter omnes homines, servari debet.</hi> 
+               <q> NAM JURA NATURALIA IMMUTABILIA SUNT,</q> &amp;c. Doct. et Stud. c. ii. p. 5.</note> or else there could be no such thing as the imputation of sin! THE LAW OF REASON is therefore justly e<lb rend="hidden" type="hyphenInWord"/>steemed the <hi>first foundation</hi> of the <hi>laws</hi> of England: — <q>Primum fundamentum legis Angliae est lex rationis.</q> (Doct. et Stud. c. v. p. 14.) And <q>the law of reason</q> 
+            <hi>includes</hi> 
+            <q>the laws of nature,</q> which cannot lawfully be <hi>suspended</hi> or <hi>changed</hi> by parliament; for our common law declares that they are immutable:—
+<pb n="25" facs="26"/>
+"Jura naturae sunt IMMUTABILIA." (Prin. Leg. et Aequit. p. 46.) <q> The laws of nature are unchangeable:</q> they cannot therefore be <hi>lawfully</hi> sus<lb rend="hidden" type="hyphenInWord"/>pended or <hi>changed</hi> by parliament; nei<lb rend="hidden" type="hyphenInWord"/>ther can any manifest <hi>injustice</hi> be made <hi>lawful:</hi> for, by the same authority, we know, that <q>LEX INJUSTA non est LEX.</q> "An unjust ordinance" (or act of parliament) "is not law."— No plea <hi>of necessity</hi> could render such a parliamentary exertion even excusea<lb rend="hidden" type="hyphenInWord"/>ble; for, though there are many max<lb rend="hidden" type="hyphenInWord"/>ims on this head, as <q>Necessitas non habet legem;</q> 
+            <hi>and</hi> 
+            <q>Salus populi</q> 
+            <hi>(which even bad legislators will pretend to regard)</hi> 
+            <q>suprema est lex;</q>—<q>Ne<lb rend="hidden" type="hyphenInWord"/>cessitas facit licitum quod aliàs non est licitum;</q>—<q>Necessitas vincet legem.</q> Yet these can relate only to such laws as are made to remedy inconveniences, <hi>not in themselves evil,</hi> mere <hi>mala prohibi<lb rend="hidden" type="hyphenInWord"/>ta;</hi> but cannot authorize any thing that
+<pb n="26" facs="27"/>
+is <hi>malum in se;</hi> for that would be RE<lb rend="hidden" type="hyphenInWord"/>BELLION AGAINST GOD, which no case can justify. For, of those who say <q>Let us do evil that good may come;</q> the Scrip<lb rend="hidden" type="hyphenInWord"/>ture has added, <q>Whose damnation is just.</q> (Rom. iii. 8.) <q> Fiat justitia, ruat coelum,</q> is, therefore, a sound maxim both of law and politics; so that no <hi>ne<lb rend="hidden" type="hyphenInWord"/>cessity</hi> whatever can justify the establish<lb rend="hidden" type="hyphenInWord"/>ment of any <hi>injustice,</hi> without a reme<lb rend="hidden" type="hyphenInWord"/>dy: and no <hi>injustice, evil, tort, wrong,</hi> or <hi>iniquity,</hi> can be more flagrant or more dangerous to the state than an un<lb rend="hidden" type="hyphenInWord"/>necessary <hi>delay</hi> of <hi>common right</hi> and <hi>jus<lb rend="hidden" type="hyphenInWord"/>tice</hi> to an innocent man, whose <hi>per<lb rend="hidden" type="hyphenInWord"/>sonal liberty</hi> is unjustly invaded; for, if <hi>"personal liberty"</hi> is not secured and protected BY EQUAL LAW, no proper<lb rend="hidden" type="hyphenInWord"/>ty, or other rights whatsoever, can have any real value; and from thence it arises that the <hi>common right</hi> of every inno<lb rend="hidden" type="hyphenInWord"/>cent person <hi>to the laws</hi> of protection, is es<lb rend="hidden" type="hyphenInWord"/>teemed our highest and most valuable
+<pb n="27" facs="28"/>
+inheritance; for, <q>
+               <hi>Major haereditas venit unicuique nostrum a</hi> JURE <hi>et</hi> LE<lb rend="hidden" type="hyphenInWord"/>GIBUS <hi>quam a parentibus;</hi>
+            </q> 
+            <q>A greater inheritance descends to every one of us from</q> 
+            <hi>(the constitutional establishment of)</hi> 
+            <q>right<note place="bottom" n="*">
+                  <q>It is called <hi>RIGHT," (says the lord Coke, 2nd inst. p. 56,)</hi> "because it is <hi>THE BEST BIRTHRIGHT</hi> the subject hath; for thereby his goods, lands, wife, children, <hi>HIS BODY," (for it is the</hi> birthright <hi>and</hi> best <hi>PROTECTION of every honest SEAMAN, as well as of all other men,)</hi> "life, honour, and estimation, are <hi>PRO<lb rend="hidden" type="hyphenInWord"/>TECTED</hi> from injury and wrong:" <hi>(and then he cites THE MAXIM:)</hi>—"Major haereditas,</q> &amp;c.</note> and the laws than from our pa<lb rend="hidden" type="hyphenInWord"/>rents.</q>—A <hi>"non obstante;"</hi> therefore, which boldly suspends at once all the <hi>an<lb rend="hidden" type="hyphenInWord"/>cient constitutional</hi> laws of personal protec<lb rend="hidden" type="hyphenInWord"/>tion, and leaves an innocent man without <hi>a remedy,</hi> cannot be LAW, being contrary to all that ought to be esteemed law; for, <q> Lex nemini operatur iniquum, nemini <hi>fa<lb rend="hidden" type="hyphenInWord"/>cit</hi> injuriam;</q> 
+            <q>Law works no iniquity to any man, does <hi>INJURY</hi> to no man:</q> 
+            <hi>and,</hi> 
+            <q>Quicquid est contra norman <hi>RECTI</hi> est
+<pb n="28" facs="29"/>
+injuria;</q> 
+            <q>whatever is contrary to the rule of <hi>RIGHT,</hi> is <hi>INJURY:</hi>
+            </q>—and <q>Tort à la ley est CONTRARY.</q> Co. Lit. 158. <q>Wrong is CONTRARY to <hi>law,</hi>
+            </q> and therefore <q>
+               <hi>whatever is done</hi> CON<lb rend="hidden" type="hyphenInWord"/>TRARY TO LAW</q> (or <hi>
+               <q>makes against law</q>
+            </hi>) <q>ought to be esteemed as UNDONE.</q> — <hi>
+               <q>Pro infecto habetur,</q>
+            </hi> (says the maxim;) <q>Quod contra legem fit pro infecto habetur;</q> so that the ex<lb rend="hidden" type="hyphenInWord"/>amples, that have been cited as prece<lb rend="hidden" type="hyphenInWord"/>dents for <hi>suspending</hi> the <hi>laws</hi> of <hi>liberty</hi> and <hi>protection,</hi> are no precedents of <hi>justi<lb rend="hidden" type="hyphenInWord"/>fication;</hi> for the legislative power of <hi>dis<lb rend="hidden" type="hyphenInWord"/>pensing</hi> with <hi>laws,</hi> extends only to those laws which relate to <hi>mala prohibita,</hi> as I have before remarked, <q>(Dispensatio est <hi>MALI PROHIBITI</hi> provida relaxatio utilitate communi pensata,)</q> and can<lb rend="hidden" type="hyphenInWord"/>not effect the laws of <hi>natural justice</hi> and common constitutional <hi>right;</hi> because an act of parliament for any such pur<lb rend="hidden" type="hyphenInWord"/>pose
+<pb n="29" facs="30"/>
+must be a <hi>malum in se,</hi> and conse<lb rend="hidden" type="hyphenInWord"/>quently is <hi>null</hi> and <hi>void</hi> in itself.</p>
+         <p>The king has no power, nor can be allowed any power, to <hi>defer, postpone,</hi> or <hi>suspend,</hi> that <hi>equal and right justice</hi> which is due, <hi>by inheritance,</hi> to all Bri<lb rend="hidden" type="hyphenInWord"/>tish subjects, (to common sailors as well as others,) without respect of persons; because the king subscribed <hi>Magna Char<lb rend="hidden" type="hyphenInWord"/>ta</hi> when he received the Holy Sacrament at his coronation, (of which the author of this protest is an eye-witness, being very near the king's person at that time,) where<lb rend="hidden" type="hyphenInWord"/>by he has promised before God and the people, that he <hi>will delay</hi> or <hi>deny</hi> to <hi>none right</hi> or <hi>justice;</hi> — <q>Nulli negabimus aut differemus justitiam vel rectum;</q> (cap. xxix.) so that this excludes all power of <hi>suspending</hi> any of the laws on which <hi>justice</hi> or <hi>right</hi> depend! The king, therefore, must neither <hi>delay</hi> justice him<lb rend="hidden" type="hyphenInWord"/>self, nor be, in any way, instrumental in
+<pb n="30" facs="31"/>
+preventing his <hi>judges</hi> from proceeding to do <hi>justice</hi> according to Magna Charta and the other ancient and fundamental laws of the land; for the judges are also sworn to <q>deny to no man common right, by the king's letters, nor none other man's, nor for none other cause.</q> (See the oath made 18 Edward III. Keble's Statutes, p. 110.) This wary expression in the oath, (viz. <q>
+               <hi>for none other cause,</hi>
+            </q>) ex<lb rend="hidden" type="hyphenInWord"/>cludes all possibility of admitting any <hi>ex<lb rend="hidden" type="hyphenInWord"/>ception</hi> whatsoever; so that the sworn judges are so bound to GOD, <hi>the king, and the people,</hi> (for they are sworn to <hi>"serve the people"</hi>
+            <note place="bottom" n="*">
+               <q> Ye shall swear, and well and lawfully ye shall SERVE <hi>our lord the king,</hi> AND HIS PEOPLE, <hi>in the office of justice,</hi> &amp;c.</q>
+            </note> as well as the king,) that they must not obey even an act of parliament which sets aside this matter of <hi>"common right,"</hi> I mean the <hi>common right of</hi> PERSONAL LIBERTY <hi>to all ranks of men</hi> that are innocent from crimes and free from debt.</p>
+         <p>
+            <pb n="31" facs="32"/>Some worthy men, zealous for the <hi>privileges of parliament,</hi> are, indeed, un<lb rend="hidden" type="hyphenInWord"/>willing to admit this <hi>seeming independence</hi> of the judges, in the administration of <hi>justice</hi> or <hi>common right;</hi> which, by their oaths, they are to <hi>"deny to no man:"</hi> but the <hi>just</hi> privileges of parliament never can be injured by the independence of the judges <hi>in this single point;</hi> because, if a judge is so scrupulous, or conscientious, that he refuses to enforce or obey an <hi>un<lb rend="hidden" type="hyphenInWord"/>just</hi> statute, it is still in the power of par<lb rend="hidden" type="hyphenInWord"/>liament to impeach or discharge him from his office for disobedience, so that the <hi>loss</hi> would fall only upon the honest and worthy judge, though the <hi>dishonour</hi> of the <hi>injustice</hi> would rest where it began! Nevertheless, while JUDGES remain in office, they must not acknowledge any obligation <hi>superior</hi> to that which they owe to <hi>natural justice</hi> and <hi>the laws of God;</hi> for they are <hi>bound to</hi> GOD (as I
+<pb n="32" facs="33"/>
+have already remarked) by the nature of their office, as well as to the <hi>king</hi> and the <hi>people;</hi> though this <hi>first</hi> and <hi>most binding</hi> obligation is not expressed in their oath; yet the Scripture says, <q>The judgement is God's;</q> (Deut. i. 17.) and again, <q>Ye judge not for man, but for <hi>THE LORD,</hi> who is with you in the JUDGEMENT:</q>
+(2 Chron. ix. 6.) and, therefore, neither the <hi>judges</hi> nor the <hi>king</hi> himself are to be accounted <hi>laymen,</hi> but <hi>"ministers of God,"</hi> for <hi>righteousness, justice,</hi> and <hi>judgement.</hi> — By the two lat<lb rend="hidden" type="hyphenInWord"/>ter, in the present case, I do not mean <hi>penal</hi> justice or judgement, but the duties of maintaining the <hi>"common right"</hi> of <hi>inno<lb rend="hidden" type="hyphenInWord"/>cent</hi> persons, and of relieving the op<lb rend="hidden" type="hyphenInWord"/>pressed. These are, in a peculiar man<lb rend="hidden" type="hyphenInWord"/>ner, <hi>sacred to God,</hi> and, therefore, <hi>una<lb rend="hidden" type="hyphenInWord"/>lienable</hi> from the people, and not to be <hi>sus<lb rend="hidden" type="hyphenInWord"/>pended</hi> by the authority of parliament; because the commands of <hi>God,</hi> in these matters, are peremptory, and can admit
+<pb n="33" facs="34"/>
+of no exceptions.—<q> Thus saith the Lord,</q> 
+            <hi>(Jehovah,)</hi> 
+            <q>
+               <hi>KEEP YE</hi> judge<lb rend="hidden" type="hyphenInWord"/>ment and do justice,</q> (Isaiah lvi. 1.) which is diametrically opposite to the measure of <hi>suspending</hi> or <hi>postponing</hi> them. And again,— <q>
+               <hi>KEEP</hi> mercy and <hi>JUDGE<lb rend="hidden" type="hyphenInWord"/>MENT,</hi> and wait on thy God <hi>CONTINU<lb rend="hidden" type="hyphenInWord"/>ALLY</hi>
+            </q> or <q>
+               <hi>ALWAYS: </hi>
+            </q> (Hos. xii. 6.) so that there never can be any time of danger, or difficulty, so pres<lb rend="hidden" type="hyphenInWord"/>sing and urgent as to justify the plea of a NECESSITY for the <hi>suspension</hi> of <hi>justice</hi> and <hi>judgement,</hi> when demanded by <hi>in<lb rend="hidden" type="hyphenInWord"/>nocent</hi> persons under illegal restraint or <hi>duress!</hi> For, prisoners, that are <hi>really guilty,</hi> will not demand <hi>judgement,</hi> (by writs of <hi>Habeas Corpus,</hi>) for fear of the <hi>penal</hi> statutes; and even if such prisoners (trusting, at any time, to the want of sufficient evidence against them) should demand <hi>judgement,</hi> and thereby escape; yet it is better that TEN offenders should escape <hi>penal</hi> justice, than that ONE
+<pb n="34" facs="35"/>
+            <hi>innocent man</hi> should suffer by the <hi>denial</hi> or <hi>suspension</hi> of "COMMON RIGHT."— <q> Melius est ut <hi>DECEM NOXII</hi> evadant, quam ut <hi>UNUS INNOCENS</hi> pereat.</q> — For herein the difference between the sort of <hi>justice</hi> and <hi>judgement,</hi> for which I contend, and <hi>penal justice,</hi> (which may be <hi>suspended</hi> by competent authority,) is manifested, viz. that THE RIGHTEOUS "JUDGE OF ALL THE WORLD" decla<lb rend="hidden" type="hyphenInWord"/>red himself willing to <hi>suspend</hi> his <hi>penal</hi> judgement against A WHOLE NATION of notorious convicted offenders, rather than he would involve TEN <hi>innocent</hi> persons in their destruction, if so many could have been found among them! This senti<lb rend="hidden" type="hyphenInWord"/>ment of <hi>divine justice</hi> was revealed, for our instruction, to a man, who was honoured with the testimony of being inclined to <q> 
+               <hi>KEEP</hi> the way of the Lord;</q>—and <q>the way of the Lord,</q> 
+            <hi>(as the following words declare,) is</hi> —<q>to <hi>DO</hi> justice and judgement,</q> (Gen. xviii. 19-33.) —
+<pb n="35" facs="36"/>
+The <hi>suspension,</hi> therefore, of <q>justice <hi>and</hi> judgement</q> from <hi>innocent</hi> persons, is plainly the reverse of <q>
+               <hi>KEEPING</hi> the way of the Lord!</q> Wherefore,— <q> Let it suffice you, O princes of Israel; remove violence and spoil, and <hi>EXECUTE JUDGEMENT AND JUSTICE;</hi>
+            </q> 
+            <hi>(which is the very reverse of</hi> suspending <hi>them!</hi>) <q>take away your exactions from my people, saith the Lord.</q> (Ezek. xlv. 9.)— <q> Cease to do evil; learn to do well; seek judgement; <hi>RIGHTEN</hi> the <hi>OPPRESSED;</hi>
+            </q> (for this is plainly the kind of <hi>judgement,</hi> which, in the former texts, God has com<lb rend="hidden" type="hyphenInWord"/>manded men to KEEP, and which, there<lb rend="hidden" type="hyphenInWord"/>fore, ought never to be SUSPENDED;) <q> judge the fatherless; plead for the wi<lb rend="hidden" type="hyphenInWord"/>dow. </q> (Isaiah i. 16, 17.)</p>
+         <p>It is also necessary to remark the divine testimony against those who <hi>suspended</hi> or did not "KEEP <hi>justice</hi> and <hi>judgement;</hi>" but, on the contrary, devised wicked ordinan<lb rend="hidden" type="hyphenInWord"/>ces:
+<pb n="36" facs="37"/>
+—<q>They conceive mischief, and bring forth iniquity. They hatch cockatrice eggs, and weave the spider's web,</q> &amp;c. All which may well be said of those who enact wicked statutes to ensnare and op<lb rend="hidden" type="hyphenInWord"/>press the people! And again, <q>The act of violence is in their hands. Their feet run to evil, and they make haste to <hi>SHED INNOCENT BLOOD:</hi> their thoughts are thoughts of iniquity; <hi>WAST<lb rend="hidden" type="hyphenInWord"/>ING AND DESTRUCTION</hi> are in their paths. <hi>THE WAY OF PEACE THEY KNOW NOT;</hi> and</q> 
+            <hi>(there is)</hi> 
+            <q>
+               <hi>NO JUDGEMENT</hi> in their goings;</q> 
+            <hi>(mean<lb rend="hidden" type="hyphenInWord"/>ing no</hi> legal <hi>judgement, or</hi> 
+            <q>due process of the law;</q> for the Hebrew word is <gap rend="content:〈 in non-Latin alphabet 〉">
+               <desc>foreign</desc>
+            </gap> properly signifying a <hi>legal</hi> deci<lb rend="hidden" type="hyphenInWord"/>sion, as <gap rend="content:〈 in non-Latin alphabet 〉">
+               <desc>foreign</desc>
+            </gap> also signifies a JUDGE;) <q>they have made them crooked paths;</q> (which may surely be said of wicked or unjust <hi>laws,</hi> but more especially of any <hi>law</hi> to <hi>suspend</hi> or annul the <hi>law</hi> itself!) <q> whosoever goeth therein shall not know
+<pb n="37" facs="38"/>
+               <hi>PEACE.</hi> Therefore is <hi>JUDGEMENT</hi> far from us,</q> (<hi>meaning that</hi> 
+            <q>the due pro<lb rend="hidden" type="hyphenInWord"/>cess of the law,</q> or <hi>proper</hi> LEGAL <hi>deci<lb rend="hidden" type="hyphenInWord"/>sion, is far from us;</hi> for it is the same Hebrew word as before;) <q>neither doth <hi>RIGHTEOUSNESS</hi>
+            </q>
+            <note place="bottom" n="*">In the common version it is rendered,— <q>neither doth <hi>JUSTICE</hi> overtake us:</q> which is liable to be understood in a contrary sense from the original as if it referred to <hi>penal</hi> justice, whereas the Hebrew word is <gap rend="content:〈 in non-Latin alphabet 〉">
+                  <desc>foreign</desc>
+               </gap> (properly <hi>righteousness</hi>); which (as it is due to all men) may justly be understood to signify that which in our English law is called <hi>"common right."</hi>
+            </note> (<hi>or</hi> "common right") <q> reach us,</q> &amp;c. (Isaiah lix. 4—9.) And again, the 14th and 15th verses of the same chapter, demonstrate, that what I have already cited from it relates to the failure of <hi>justice</hi> and <hi>judgement,</hi> or the <hi>suspension</hi> of <hi>due legal process!</hi> 
+            <q>And judgement</q> 
+            <hi>(said the prophet)</hi> 
+            <q>is turned away backward; and justice</q> 
+            <q>
+               <hi>(or rather COMMON RIGHT</hi>
+            </q> as I have before remarked; for the Hebrew word is <gap rend="content:〈 in non-Latin alphabet 〉">
+               <desc>foreign</desc>
+            </gap>
+"RIGHTEOUSNESS") <q>
+               <hi>STANDETH A<lb rend="hidden" type="hyphenInWord"/>FAR OFF:</hi> for <hi>TRUTH</hi> is fallen in the
+<pb n="38" facs="39"/>
+ street,</q> (<hi>i. e.</hi> the TRUTH of conviction or acquittal, by legal process, <hi>"is fallen,"</hi>) <q>
+               <hi>and</hi> EQUITY <hi>cannot enter;</hi>
+            </q> (which must generally be the case when WILL is set up <hi>above law!</hi> but hear the prophet,) <q> Yes; <hi>TRUTH</hi>
+            </q> 
+            <hi>(says he)</hi> 
+            <q>faileth; and he that departeth from evil maketh himself a prey:</q> (or, as we read in the margin, <hi>"is accounted mad:"</hi> i.e. in the o<lb rend="hidden" type="hyphenInWord"/>pinion of those detestable politicians who <q> do evil that good may come:</q>) <q>and the Lord</q> 
+            <hi>(Jehovah)</hi> 
+            <q>saw! and it displeased him that there was <hi>NO JUDGE<lb rend="hidden" type="hyphenInWord"/>MENT! </hi>
+            </q> (<gap rend="content:〈 in non-Latin alphabet 〉">
+               <desc>foreign</desc>
+            </gap> — so that it can never be either <hi>lawful</hi> or <hi>expedient</hi> to re<lb rend="hidden" type="hyphenInWord"/>move the <hi>"due process of the law"</hi> from the reach of innocent persons, by <hi>suspen<lb rend="hidden" type="hyphenInWord"/>sion,</hi> or in any other manner,). <q> And he saw that <hi>(there was)</hi> no man:</q> that is,—<hi>no man</hi> to stand in the gap for the defence of his ETERNAL LAW, which is explained by the 4th verse, — <q>None calleth for justice,</q> 
+            <hi>(<gap rend="content:〈 in non-Latin alphabet 〉">
+                  <desc>foreign</desc>
+               </gap> more pro<lb rend="hidden" type="hyphenInWord"/>perly
+<pb n="39" facs="40"/>
+for RIGHTEOUSNESS, or "THE COMMON RIGHT" of the people,)</hi> 
+            <q>nor any pleadeth for truth,</q> &amp;c. [Neither <hi>prince, prelate,</hi> nor <hi>judge,</hi> it seems, were inclined to <hi>enter a protest</hi> in favour of immutable <hi>justice</hi> and <hi>right!</hi> — Horrible depravity!] <q>And he</q> 
+            <hi>(the almighty)</hi> 
+            <q> wondered that there was no intercessor! therefore his arm brought salvation unto him; and his <hi>RIGHTEOUSNESS,</hi> it sus<lb rend="hidden" type="hyphenInWord"/>tained him. For he put on <hi>RIGHTEOUS<lb rend="hidden" type="hyphenInWord"/>NESS</hi> as a breast-plate: and an helmet of salvation</q> (i. e. <hi>in behalf of the poor, and those that were unjustly op<lb rend="hidden" type="hyphenInWord"/>pressed</hi>) <q>upon his head; and he put on the garments of <hi>VENGEANCE (for)</hi> cloathing; and was clad with <hi>ZEAL</hi> as a cloke.</q> 
+            <hi>(And then follows, <q>THE LAW OF RETRIBUTION;</q>).</hi> "According to their deeds, accordingly he will repay,—<hi>FURY</hi> to his adversaries, <hi>RECOMPENCE" (or retribution)</hi> "to his enemies, to <hi>THE ISLANDS</hi> he will <hi>REPAY RETRIBUTION!</hi>"
+<pb n="40" facs="41"/>
+Where then (if we have any belief in God's <hi>eternal law</hi>) is the boasted <hi>"om<lb rend="hidden" type="hyphenInWord"/>nipotence of parliament!"</hi> Or, who can be truly <hi>"loyal,"</hi> in the proper sense of that epithet, but those who acknowledge that the former is <hi>unchangeable,</hi> and that <q>com<lb rend="hidden" type="hyphenInWord"/>mon right,</q> and the justice due to <hi>in<lb rend="hidden" type="hyphenInWord"/>nocent</hi> persons, can never be SUSPENDED without <hi>rebellion against</hi> GOD! For there is <hi>no salvation</hi> for man without CHARI<lb rend="hidden" type="hyphenInWord"/>TY; and our common law teaches us,— that "the highest" (<hi>and therefore</hi> the most indispensable) <q>
+               <hi>CHARITY</hi> is to do <hi> JUSTICE</hi> to all and every single soul at <hi>ALL TIMES:</hi>
+            </q>—so that A TIME of NECESSITY (I mean SUCH A TIME as is generally called so) will afford but a poor excuse for so notorious a breach of this <q>
+               <hi>FIRST</hi> principle of <hi>CHARITY;</hi>
+            </q> 
+            <q> Summa <hi>CARITAS</hi> est facere <hi>JUSTI<lb rend="hidden" type="hyphenInWord"/>TIAM</hi> singulis et omnibus <hi>OMNI TEM<lb rend="hidden" type="hyphenInWord"/>PORE.</hi>
+            </q> —My countrymen, in general, I fear are too depraved to bear all the
+<pb n="41" facs="42"/>
+            <hi>truths</hi> of my remonstrance; but I cannot now be silent without guilt!</p>
+         <p>Many are the limitations of <q>the law of reason,</q> (too numerous to be here re<lb rend="hidden" type="hyphenInWord"/>cited,) which necessarily annul <hi>all acts of legislature</hi> that unhappily exceed them,<note place="bottom" n="†">
+               <q> Against this law,</q> (i. e. <hi>the law of reason,</hi>) <q>prescription, <hi>STATUTE,</hi> nor custom, may not prevail; and, if any be brought in against it, they be not pre<lb rend="hidden" type="hyphenInWord"/>scriptions, <hi>STATUTES,</hi> nor <hi>CUSTOMS,</hi> but</q> (<hi>COR<lb rend="hidden" type="hyphenInWord"/>RUPTELAE, CORRUPTIONS</hi>
+               <note place="bottom" n="‡">
+                  <q> Et contra eam</q> 
+                  <hi>(viz. legem rationis)</hi> 
+                  <q>non est praescriptio vel ad appositum <hi>STATUTUM,</hi> sive consuetudo: et, si aliqua fiant, <hi>NON SUNT STATUTA,</hi> sive consuetudines, sed <hi>CORRUPTELAE.</hi>
+                  </q> (Doct. et Stud. c. ii. p. 5. ed. <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>at.)</note>) <q>things void and against justice.</q> (Doct. et Stud. Eng. ed. 1668, p. 5.)</note> if the <q>first foundation of the English law</q> (already mentioned in p. 24.) be duly regarded. And <hi>the second foundation</hi> of our excellent <hi>legal</hi> establish<lb rend="hidden" type="hyphenInWord"/>ment acknowledges no fewer <hi>limitations of legislature</hi> than there are <hi>divine</hi> pre<lb rend="hidden" type="hyphenInWord"/>cepts of <hi>morality</hi> and <hi>justice</hi> in the Holy Scriptures. For <q>THE SECOND FOUNDA<lb rend="hidden" type="hyphenInWord"/>TION
+<pb n="42" facs="43"/>
+               <hi>of the law of England is the</hi> LAW OF GOD:</q> against which the haughty <q>
+               <hi>omnipotence of parliament</hi>
+            </q> (the pope of England) has not the least authority to ordain any thing! insomuch, that <q>if <hi>ANY STATUTE</hi> is set forth <hi>AGAINST</hi> them, it ought to be esteemed of <hi>NO FORCE</hi> in the law of England.</q>
+            <note place="bottom" n="‖">—<q>Etiam, si aliquod statutum esse editum contra <hi>eos;</hi>
+               </q> [probably mis-written for <hi>eas,</hi> (leges divinas,) or <hi>eam</hi> (legem divinam)]; <q>nullius vigoris in legibus Angliae censeri debet:</q> &amp;c. Doct. et Stud. c. vi. p. 18. <hi>b.</hi>
+            </note> For, if FOUNDATIONS are removed, the whole fabric of our <hi>law</hi> and political constitu<lb rend="hidden" type="hyphenInWord"/>tion must precipitate into destruction!</p>
+         <p>I appeal to the JUDGES THEMSELVES for the <hi>truths</hi> which I here assert. <hi>They know the foundations of our law:</hi> they <hi>know</hi> that there are many <hi>maxims</hi> of a supe<lb rend="hidden" type="hyphenInWord"/>rior order <note place="bottom" n="§">By maxims of a superior order, I mean, those inevitable and necessary conclusions of <hi>reason,</hi> which belong to the <hi>first foundation of English law:</hi> for, though these may be justly included also in the <hi>fourth foundation of our law,</hi> under the general head of <hi>Max<lb rend="hidden" type="hyphenInWord"/>ims,</hi> yet they ought to be duly distinguished from those less obvious <hi>maxims</hi> which relate only to the general customs of the kingdom, and have no claim to be ranked higher than <hi>the fourth foundation.</hi>
+            </note> which bear ample testimony
+<pb n="43" facs="44"/>
+to my doctrine; that <hi>justice</hi> or <q>common right</q> can never be <hi>suspended,</hi> without subverting the <hi>legal</hi> constitution of this kingdom!—<q>Si a <hi>JURE</hi> discedas <hi>VA<lb rend="hidden" type="hyphenInWord"/>GUS</hi> eris, et erunt omnia omnibus <hi>IN<lb rend="hidden" type="hyphenInWord"/>CERTA;</hi>
+            </q>
+            <note place="bottom" n="¶">
+               <q> If you depart from <hi>COMMON RIGHT,</hi> you will become vague,</q> 
+               <hi>(or unsettled,)</hi> 
+               <q>and all things will be uncertain to all men.</q>
+            </note> 
+            <hi>(Co. Lit. 227.) and</hi> 
+            <q>Res est misera;</q>—<q>Misera est servitus ubi <hi>JUS</hi> est <hi>VAGUM</hi> aut <hi>INCERTUM;</hi>
+            </q>
+            <note place="bottom" n="*">
+               <q>Affairs are in a wretched state,</q>—<hi>nay,</hi> 
+               <q>it is de<lb rend="hidden" type="hyphenInWord"/>plorable slavery, wherever justice</q> 
+               <hi>(or common right)</hi> 
+               <q> is vague or uncertain.</q>
+            </note> 
+            <hi>(4 Inst. 246.) wherefore,</hi> — <q>Justitia nemini neganda est. <note place="bottom" n="†">"Justice must be denied to no man."</note> Justitia est cuili<lb rend="hidden" type="hyphenInWord"/>bet facienda.<note place="bottom" n="‡">"Justice must be done to every man whatsoever."</note> Injusticia non est alicui
+<pb n="44" facs="45"/>
+fa<lb rend="hidden" type="hyphenInWord"/>cienda.<note place="bottom" n="‖">"Injustice must not be done to any man whatsoever."</note> Justitia non est neganda, non <hi>DIFFERENDA.</hi>
+            </q>
+            <note place="bottom" n="§">"Justice must neither be denied nor delayed," <hi>i. e.</hi> nor <hi>SUSPENDED.</hi>
+            </note> (Jenk. Cent. 93.)— And, therefore, no plea of <hi>necessity</hi> what<lb rend="hidden" type="hyphenInWord"/>ever can excuse so great an <hi>evil</hi> as a SUS<lb rend="hidden" type="hyphenInWord"/>PENSION <hi>of justice</hi> or <hi>common right!</hi> This is confirmed also by another maxim,— <q> Melius est <hi>OMNIA MALA</hi> pati quam malo consentire.</q>
+            <note place="bottom" n="¶">
+               <q> It is better to endure <hi>ALL</hi> adversities than to assert to <hi>ONE</hi> evil measure!</q>
+            </note> (3 Inst. 23.) How much soever any particular man, in au<lb rend="hidden" type="hyphenInWord"/>thority, may be either inclined, or think himself obliged to accommodate his opi<lb rend="hidden" type="hyphenInWord"/>nion to the present times of <hi>violence</hi> and <hi>injustice,</hi> yet, I flatter myself, that there is not a single judge in the kingdom, who will venture to set his face against these indispensable conclusions of <hi>reason;</hi> and, therefore, to the <hi>judges</hi> I have appealed for the <hi>truth</hi> of my assertion; that every
+<pb n="45" facs="46"/>
+act of parliament which contains any thing in it contrary to these first <q>princi<lb rend="hidden" type="hyphenInWord"/>ples of <hi>reason</hi> and honesty,</q> is <hi>null</hi> and <hi>void;</hi>—is a <hi>corruption,</hi> and not <hi>law!</hi> For statutes,—<q>Nec contra <hi>RATIONEM,</hi> nec contra <hi>LEGEM DIVINAM</hi> existunt.</q>
+            <note place="bottom" n="*">
+               <q> 
+                  <hi>Statutes</hi> "cannot exist either against <hi>REASON,</hi> or the <hi>LAW DIVINE.</hi>"</q>
+            </note> (Doct. et Stud. c. 10. de Diversis Statu<lb rend="hidden" type="hyphenInWord"/>tis.) because <q>Hae duae leges declinari non possunt:</q>
+            <note place="bottom" n="†">Because <hi>"these two laws"</hi> (the law of reason and the law of God) <hi>"cannot abate or turn aside."</hi>
+            </note> (ib. c. 17.) and because the holy Scriptures denounce WO against the makers of <hi>unjust laws.</hi> — <q>
+               <hi>Wo</hi> unto them that decree <hi>UNRIGHTEOUS DE<lb rend="hidden" type="hyphenInWord"/>CREES,</hi>
+            </q> 
+            <hi>(or laws,)</hi> 
+            <q>and write grie<lb rend="hidden" type="hyphenInWord"/>vousness <hi>(which)</hi> they have prescribed: to turn aside the needy from <hi>JUDGEMENT;</hi>
+            </q> 
+            <hi>(which, in Israel, was a</hi> judgement <hi>of peers; the judgement of the congregation)</hi> 
+            <q>and to take away the right</q> (<hi>or rather</hi> "the judgement" <hi>or</hi> "process of the law;" <hi>for
+<pb n="46" facs="47"/>
+the Hebrew word is</hi> 
+            <gap rend="content:〈 in non-Latin alphabet 〉">
+               <desc>foreign</desc>
+            </gap>) <q>from the poor of my people, that widows may be their prey, and that they may rob the fa<lb rend="hidden" type="hyphenInWord"/>therless. </q> (And then follows the <hi>retri<lb rend="hidden" type="hyphenInWord"/>bution,</hi> which proves that there never can be any NECESSITY for INJUSTICE.) <q> And what will you do in the day of visitation, and in the desolation <hi>(which)</hi> shall come from far? To whom will you flee for help? and where will ye leave your glo<lb rend="hidden" type="hyphenInWord"/>ry? </q> [or, (in the plural,) <hi>your honours?</hi>] (Isai. x. 1—3.).</p>
+         <p>No <hi>necessity,</hi> therefore, whatever, can justify the adoption of an <hi>unrighteous</hi> or <hi>unjust</hi> measure, by any legislature up<lb rend="hidden" type="hyphenInWord"/>on earth; because no danger or evil what<lb rend="hidden" type="hyphenInWord"/>soever is so much to be dreaded as God's vengeance for the failure of <hi>justice, judge<lb rend="hidden" type="hyphenInWord"/>ment,</hi> and <hi>righteousness;</hi> and, therefore, <hi>"common right"</hi> and <hi>equal justice,</hi> which belong to God, for the good of his peo<lb rend="hidden" type="hyphenInWord"/>ple, are so interwoven and united with
+<pb n="47" facs="48"/>
+the legal constitution of these kingdoms, that to set them aside, by public autho<lb rend="hidden" type="hyphenInWord"/>rity, amounts to a <hi>total subversion of the common law,</hi> and, of course, to the <hi>legal</hi> constitution of <hi>these kingdoms,</hi> which no act of parliament can effect; for that (with respect to the legislature) would be a sort of <hi>felo de se,</hi>
+            <note place="bottom" n="†">
+               <q> Whatever is destructive of the law cannot itself be law; for then the law would be <hi>felo de se:</hi>
+               </q> 
+               <q>Lex quae leges avertit, ipsa lex esse non potest;</q> 
+               <q>a thing divided against itself, and therefore will not stand.</q> 
+               <q>Uhi non est pudor, nec <hi>cura juris,</hi> instabile regnum est.</q> Judge Atkins, p. 221.</note> a crime of the <hi>highest treason</hi> in all who voted for it! for which they are liable to be impeach<lb rend="hidden" type="hyphenInWord"/>ed by the great body of the nation, in case a political reformation should take place; and precedents are not wanting for inflicting <hi>capital punishment</hi> on JUDG<lb rend="hidden" type="hyphenInWord"/>ES, for enforcing <hi>unjust laws,</hi> though the same had obtained the sanction of parliament. To submit the <hi>operation of law</hi> to the WILL of the king and coun<lb rend="hidden" type="hyphenInWord"/>cil,
+<pb n="48" facs="49"/>
+(which is done by this supposed act,<note place="bottom" n="‡">
+               <q> 
+                  <hi>That no judge</hi> or justice of peace shall <hi>bail or try any such person</hi> or persons, without order from his majesty's most honourable privy-council, <hi>&amp;c. any law, statute, usage,</hi> &amp;c. <hi>notwithstanding;</hi>
+               </q> boldly subverting at once the whole <hi>legal</hi> constitution.</note>) would tend to annul even THE KING'S AUTHORITY; for, it is laid down as an established principle of the British constitution, by one of the best autho<lb rend="hidden" type="hyphenInWord"/>rities in our common law, that <q>
+               <hi>there is</hi> NO KING <hi>where</hi> WILL <hi>rules, and not law:</hi>
+            </q> 
+            <q>Non est enim rex, ubi dominatur <hi>voluntas</hi> et non lex;</q> so that a king of England ceases to be <hi>king,</hi> when he ceases to be limited by the LAW; as another old constitutional maxim also informs us, <q>The law is the most high in<lb rend="hidden" type="hyphenInWord"/>heritance that the king has; for, if the <hi>LAW</hi> was not, there would be <hi>NO KING</hi> nor inheritance;</q>
+            <note place="bottom" n="§">
+               <q> Le ley est le plus haute inhéritance que le roi ad: car par <hi>la ley</hi> il-même et tous ses sujets sont ru<lb rend="hidden" type="hyphenInWord"/>lés; et, si le ley ne fuit, <hi>nul</hi> roi et nul inhéritance sera.</q> Year Book, 19 Hen. VI. 63.</note> and another max<lb rend="hidden" type="hyphenInWord"/>im
+<pb n="49" facs="50"/>
+says, <q>Cessa regnare, si non vis judi<lb rend="hidden" type="hyphenInWord"/>care.</q> 
+            <q> Cease to reign, if you will not do justice.</q>—The king, therefore, must not <hi>deny</hi> or <hi>delay</hi> common right; and the insertion of a <hi>"non obstante,"</hi> to set aside at once all <hi>the laws, statutes,</hi> and <hi>usages,</hi> of the kingdom, respecting THE PERSON<lb rend="hidden" type="hyphenInWord"/>AL PROTECTION of the subject, is a manifest <hi>subversion of our legal constitu<lb rend="hidden" type="hyphenInWord"/>tion,</hi> and consequently is HIGH-TREA<lb rend="hidden" type="hyphenInWord"/>SON <hi>against the king,</hi> as well as against the <hi>state,</hi> and the <hi>latter</hi> is declared to be no less a crime than the <hi>former;</hi>— <q> Non minor est proditio <hi>LEGIS,</hi> quam <hi>REGEM</hi> velle perdere.</q> — So that such an attempt against <hi>the law</hi> is not only a most dangerous undermining of the <hi>king's crown and dignity,</hi> but the highest act of <hi>treason</hi> and DISLOYALTY in the strictest sense of the word: as <hi>no man</hi> can be LOYAL who votes for a <hi>general suspension</hi> of <hi>all the</hi> LAWS and <hi>fences</hi> of that
+<pb n="50" facs="51"/>
+most valuable <hi>right</hi> of the subject, the <hi>right</hi> to personal liberty!</p>
+         <p>Such a suspension <hi>of law</hi> is too similar to that <hi>non obstante</hi> of pope Innocent IV. "whereby" (as the proctors of king Henry III. declared) <q>common right was annulled, and authentic records render<lb rend="hidden" type="hyphenInWord"/>ed void.</q>—<q>Per quam jus pro nihilo habetur et authentica scripta enervan<lb rend="hidden" type="hyphenInWord"/>tur.</q> (Judge Atkins Parl. Tracts, p. 212.) And the same learned judge re<lb rend="hidden" type="hyphenInWord"/>marks, that <q>
+               <hi>it is part of the description given of</hi> antichrist, <hi>by the prophet Da<lb rend="hidden" type="hyphenInWord"/>niel, c. 7.</hi>
+            </q> 
+            <q>He shall think that he may change times and laws, and they shall be given into his hands.</q> (P. 218.) In the following paragraph he also cites bp. Jewel's Exposition upon the Epistle to the Thessalonians, (fol. 131.) viz. <q> 
+               <hi>Antichrist</hi>
+            </q> (says the bishop) <q>
+               <hi>is there called</hi> 
+               <gap rend="content:〈 in non-Latin alphabet 〉">
+                  <desc>foreign</desc>
+               </gap>, a man without order or LAW, that man of sin; which is one
+<pb n="51" facs="52"/>
+of the peculiar notes of antichrist.</q> 
+            <q>He shall seek to be free, and go at liberty; he shall be tied to NO LAW, neither of God nor man.</q> 
+            <q>Hence it is said of the pope, that he is <q>
+                  <hi>So<lb rend="hidden" type="hyphenInWord"/>lutus</hi> OMNI LEGE HUMANA. <hi>In iis quae</hi> VULT, <hi>est ei pro ratione</hi> VOLUN<lb rend="hidden" type="hyphenInWord"/>TAS, <hi>nec est qui dicat illi, Domine, cur ita facis? Ille potest</hi> SUPRA JUS DISPEN<lb rend="hidden" type="hyphenInWord"/>SARE, <hi>et de injustitia facere justitiam, corrigendo jura et mutando.</hi>
+               </q>
+            </q>
+         </p>
+         <p>To set up the WILL and PLEASURE of man, therefore, above LAW, or to pre<lb rend="hidden" type="hyphenInWord"/>tend to give a power to the king, or <hi>his privy-council,</hi> to SUSPEND the <hi>fun<lb rend="hidden" type="hyphenInWord"/>damental</hi> LAWS <hi>of the kingdom,</hi> is to render them <gap rend="content:〈 in non-Latin alphabet 〉">
+               <desc>foreign</desc>
+            </gap>, <hi>lawless</hi> and <hi>un<lb rend="hidden" type="hyphenInWord"/>limited,</hi> like the princes and powers of ANTICHRIST, foretold in the second Psalm, who say, — <q>Let us break their bonds asunder, and cast away their cords from us;</q> viz. the <hi>bonds</hi> of <hi>reason,
+<pb n="50" facs="53"/>
+               <gap extent="1 page" rend="content:〈1 page duplicate〉">
+                  <desc>duplicate</desc>
+               </gap>
+               <pb n="51" facs="54"/>
+               <gap extent="1 page" rend="content:〈1 page duplicate〉">
+                  <desc>duplicate</desc>
+               </gap>
+               <pb n="52" facs="55"/>
+law,</hi> and <hi>natural justice,</hi> and the <hi>cords</hi> of allegiance to <hi>divine authority;</hi> for, to this effect, I have seen a remark upon the text, by judge Atkins, though I cannot at present find the passage. An act of parliament for so base a purpose, as the establishment of an <hi>unlimited power,</hi> is so far from deserving the name of <hi>law,</hi> that it must necessarily be deemed a <hi>sub<lb rend="hidden" type="hyphenInWord"/>version of law;</hi> as it sets up the <hi>will</hi> and <hi>pleasure</hi> of <hi>man (king and council)</hi> above the <hi>operation of law,</hi> contrary to a funda<lb rend="hidden" type="hyphenInWord"/>mental principle of the constitution. <q> More <hi>SECURE,</hi> as well as <hi>MORE POW<lb rend="hidden" type="hyphenInWord"/>ERFUL,</hi> is the effect <hi>(or operation)</hi> of <hi>LAW,</hi> than the <hi>WILL</hi> and <hi>PLEASURE</hi> of man;</q> 
+            <q>Firmior et potentior est opera<lb rend="hidden" type="hyphenInWord"/>tio <hi>LEGIS</hi> quam <hi>DISPOSITIO</hi> hominis;</q> (Co. Lit. 102.) because, <q>the man who is allowed more power than is just and equal, <hi>will</hi> affect still more than is al<lb rend="hidden" type="hyphenInWord"/>lowed:</q> 
+            <q>
+               <hi>Cui plus licet quam par est, plus vult quam licet.</hi>
+            </q> (2 Inst. 464.).</p>
+         <p>
+            <pb n="53" facs="56"/>From the unhappy experience of <hi>all</hi> nations, in <hi>all</hi> ages, this established doc<lb rend="hidden" type="hyphenInWord"/>trine of our <hi>common law</hi> may be amply proved; and, with respect to <hi>the sup<lb rend="hidden" type="hyphenInWord"/>posed act</hi> in question, it is certainly liable to afford such opportunity and tempta<lb rend="hidden" type="hyphenInWord"/>tion to promote unjust charges against innocent persons; (arming a particular party with unconstitutional powers of oppression and iniquity, to intimidate all honest and independant people;) that it is manifestly a <hi>malum in se,</hi> (as I have said,) which can never be made <hi>lawful;</hi> nay, the whole business is so <hi>dis<lb rend="hidden" type="hyphenInWord"/>loyal</hi> that it seems to be nothing less than <hi>"framing mischief by a law,"</hi> which is the most dangerous as well as most <hi>iniquitous</hi> mode of oppression; because it amounts to <hi>an apostacy from God!</hi> as the Scriptures declare, <q>Shall the throne of iniquity have fellowship with thee, which formeth mis<lb rend="hidden" type="hyphenInWord"/>chief by a law?</q> (Ps. 94.20.) And
+<pb n="54" facs="57"/>
+again, <q>Wo be to them that decree un<lb rend="hidden" type="hyphenInWord"/>righteous decrees, and that write griev<lb rend="hidden" type="hyphenInWord"/>ousness which they have prescribed, to turn aside the needy from <hi>JUDGEMENT,</hi>
+            </q> &amp;c. The very case in point! Isaiah x. 12. See pages 19, 33, 41, 44, and 45. — We are bound, by our baptismal vow, to <hi>"renounce the devil and all his works,"</hi> and of course it is our duty to resist and oppose <hi>evil</hi> to the utmost of our power; otherwise we deserve not to be ranked with the <hi>servants</hi> and <hi>soldiers</hi> of the <hi>"prince of peace,"</hi> because he is, also, the <hi>king of</hi> RIGHTEOUSNESS; and, therefore, in a Christian community, every <hi>private</hi> person, every individual, has an un<lb rend="hidden" type="hyphenInWord"/>doubted right to detect and protest against every <hi>iniquity</hi> and <hi>injustice,</hi> even though it shall have obtained the sanction of the <hi>public</hi> legislature; and it is a maxim of the common law, that <q>Unusquisque paci et justitiae publicae tenetur succur<lb rend="hidden" type="hyphenInWord"/>rere; </q> but the judges are still more
+<pb n="55" facs="58"/>
+particularly bound (both on account of their learning and office) to point out and reject every ordinance of man that is contrary to <hi>natural justice</hi> and <hi>the laws of God.</hi> And so far is it from being their du<lb rend="hidden" type="hyphenInWord"/>ty to obey, or enforce, any <hi>such laws,</hi> that the common law has provided them a ready answer for refusing the functions of their office in such cases; — <q>Contra justitiam nihil possumus:</q> for, though they are officers of the king and people, and sit in the <hi>king's judgement seat,</hi> judging in <hi>his</hi> name; yet their duty respecting <hi>common right</hi> and <hi>natural justice</hi> does not depend <hi>on the king,</hi> nor any other, but on GOD alone, as I have already remarked; for they <q>judge not for man, but for the Lord,</q> &amp;c. (2d Chron. xix. 6, 7.) — And again, — <q>Ye shall not be afraid of the face of man,</q> 
+            <hi>(which excludes all partial influence of kings or any other human powers,)</hi> 
+            <q>for the judgement is God's.</q> (Deut. i.
+<pb n="56" facs="59"/>
+16, 17.).—And all judges ought to be deeply impressed with that indispensable doctrine of our common law, that <q>it is infinitely more heinous to offend <hi>ETER<lb rend="hidden" type="hyphenInWord"/>NAL</hi> than <hi>TEMPORAL</hi> majesty!</q> for it is a maxim, — <q>Gravius est <hi>ETERNAM</hi> quam <hi>TEMPORALEM</hi> laedere <hi>MAJES<lb rend="hidden" type="hyphenInWord"/>TATEM.</hi> 
+            </q> — Thus stands THE LAW OF GOD respecting <hi>judges;</hi> and THE LAW OF GOD is always to be esteemed an unalienable and unchangeable part of THE LAW OF ENGLAND! (See p. 42, 45.)</p>
+         <p>Both the king and his judges are sworn (as I have already observed, p. 29, 30.) <hi>not to delay or deny common right;</hi> and, there<lb rend="hidden" type="hyphenInWord"/>fore, no danger, or other <hi>evil</hi> whatsoever, (against which men have ever pleaded a NECESSITY of <hi>suspending</hi> the laws of protection from innocent persons,) can be so great an <hi>evil,</hi> or be so imminently dangerous in itself, as that very measure of <hi>suspension!</hi> No NECESSITY whatsoe<lb rend="hidden" type="hyphenInWord"/>ver
+<pb n="57" facs="60"/>
+can be so deplorable, or so disgrace<lb rend="hidden" type="hyphenInWord"/>fully injurious to the state, as the <hi>measure itself!</hi> and, therefore, there never can be a <hi>necessity</hi> for such a MEASURE; and the same may be said, with unquestionable truth, concerning every other MEASURE of <hi>oppression</hi> and <hi>injustice;</hi> but more par<lb rend="hidden" type="hyphenInWord"/>ticularly may it be said of that other most notorious and <hi>iniquitous</hi> mode of <hi>suspend<lb rend="hidden" type="hyphenInWord"/>ing,</hi> or rather <hi>annulling,</hi> all <hi>the laws</hi> of British freedom, in the case of <hi>seamen;</hi> I mean the IMPRESSING <note place="bottom" n="‡">
+               <p>The form of <hi>press-warrants,</hi> and the <hi>expressions</hi> used therein, may, perhaps, be very ancient; and those expressions, (viz. <hi>impress</hi> and <hi>press-money,</hi>) per<lb rend="hidden" type="hyphenInWord"/>haps, according to the ancient meaning of them, may be innocent and <hi>legal:</hi> but no RIGHT or prerogative, either by <hi>usage</hi> or <hi>prescription,</hi> is thereby to be pre<lb rend="hidden" type="hyphenInWord"/>sumed in favour of the <hi>modern sense</hi> in which they are now usually interpreted: <hi>viz.</hi> as a warrant to take a man <hi>by force,</hi> to drag him away, like a thief, to a <hi>floating prison</hi> (the most dangerous and detestable of all others); that, by <hi>imprisonment</hi> and <hi>duress,</hi> he may be compelled to enter into an <hi>involuntary servitude!</hi> What is this but a <hi>true</hi> definition of the most absolute slavery!—And yet it is <hi>equally true</hi> when applied to the case of <hi>pressed seamen</hi> on-board the tenders and hulks. But let us examine by what authority this is done, and then judge whether the supposed <hi>prerogative</hi> is <hi>legal.</hi> The warrant is signed by <hi>the lords commis<lb rend="hidden" type="hyphenInWord"/>sioners of the admiralty and their secretary,</hi> who claim no other authority in their justification than what is expressed in the beginning of the warrant:—viz.— <hi>"In pursuance of his majesty's order in council, dated,"</hi> —&amp;c. &amp;c.</p>
+               <p>Now, unhappily for <hi>the lords of the admiralty and their secretary,</hi> (if they should be duly prosecuted for their misdemeanor,) neither <hi>his majesty</hi> nor <hi>the privy-council</hi> (neither any of them separately, nor all of them together have any <hi>legal</hi> power to commit, or <hi>distrain</hi> an innocent man of his liberty; because all power for any such purposes was taken from them by authority of parliament, and the act is still in full force. See 16 Cha. I. c. x. The purpose of this act is expressly <hi>"for the regulating the privy-council,"</hi> as well as <q>for taking away the court commonly called the star-chamber.</q>
+               </p>
+               <p>In the preamble of this act the Great Charter is ci<lb rend="hidden" type="hyphenInWord"/>ted, —that— <q>No freeman shall be <hi>TAKEN,</hi> or <hi>IM<lb rend="hidden" type="hyphenInWord"/>PRISONED,</hi> or disseized of his freehold, or <hi>LIBER<lb rend="hidden" type="hyphenInWord"/>TIES,</hi> &amp;c. but by lawful judgement of his peers, or by the law of the land,</q> and also (besides several others) that inestimable statute of 28 Edw. III. cap. iii. that <q> No man, of what estate or condition soever he be, shall be put out of his lands or tenements, nor <hi>TAKEN,</hi> nor <hi>IMPRISONED,</hi> &amp;c. without being brought in to answer <hi>BY DUE PROCESS OF LAW:</hi>
+                  </q>—so that the whole statute of 16 Cha. I. c. x. must be construed according to the true spirit of these golden laws of liberty; and more especially the 8th section of it, where we read— <q> That, if <hi>ANY PERSON</hi>
+                  </q> 
+                  <hi>(here can be no exception to the prejudice of seamen)</hi> 
+                  <q>shall hereafter be <hi>COMMITTED, RESTRAINED OF HIS LIBERTY,</hi> or <hi>SUFFER IM<lb rend="hidden" type="hyphenInWord"/>PRISONMENT,</hi> by the order or decree of any such court of star-chamber,</q> 
+                  <hi>&amp;c. (mentioning several other courts, and then adds,)</hi> 
+                  <q>
+                     <hi>OR</hi> by the command <hi>OR WAR<lb rend="hidden" type="hyphenInWord"/>RANT</hi> of <hi>THE KING'S MAJESTY,</hi> his heirs or succes<lb rend="hidden" type="hyphenInWord"/>sors, in their own person, or by the command or <hi>WAR<lb rend="hidden" type="hyphenInWord"/>RANT</hi> of the <hi>COUNCEL-BOARD,</hi> or of any of the lords, or others of <hi>HIS MAJESTY'S PRIVY-COUNCIL,</hi> that, in <hi>EVERY</hi> such case, <hi>EVERY PERSON,</hi> so committed, restrained of his liberty, or suffering imprisonment,</q> [<hi>which necessarily includes the case of</hi> "every person" — "<hi>restrained of his</hi> liberty," <hi>or</hi> 
+                  <q>taken, or imprison<lb rend="hidden" type="hyphenInWord"/>ed</q> 
+                  <hi>by</hi> a press-warrant; <hi>especially as</hi> 
+                  <q>his majesty's order in council</q> (which is <hi>expressly</hi> limited by this act) is the only authority cited by the <hi>admiralty</hi> for issuing such warrants, since the clause of <q>non obstante statuto</q> has been declared VOID in law.] <q>upon de<lb rend="hidden" type="hyphenInWord"/>mand, or motion made,</q> 
+                  <hi>(says the act,)</hi> 
+                  <q>by his coun<lb rend="hidden" type="hyphenInWord"/>sel, or other employed by him for that purpose, unto the <hi>JUDGES</hi> of the court of <hi>KING'S-BENCH,</hi> or <hi>COM<lb rend="hidden" type="hyphenInWord"/>MON-PLEAS,</hi> in open court, <hi>SHALL, WITHOUT DE<lb rend="hidden" type="hyphenInWord"/>LAY UPON ANY PRETENCE WHATSOEVER,</hi> for the ordinary dues usually paid for the same, have forthwith granted unto him a writ of <hi>HABEAS CORPUS,</hi> to be directed generally unto all and every sheriff, goaler, minister, <hi>OFFICER,</hi> or other person, in whose custody the party so committed or restrained shall be,</q> &amp;c. (And, after describing the mode of making the return to the writ, the statute directs the court that they)— <q> shall thereupon do what to <hi>JUSTICE</hi> shall appertain; either by delivering, bailing, or <hi>REMANDING,</hi> the prisoner: and, if any thing shall be otherwise wilfully done, or omitted to be done, <hi>BY ANY JUDGE, JUS<lb rend="hidden" type="hyphenInWord"/>TICE, OFFICER,</hi> or other person aforementioned, con<lb rend="hidden" type="hyphenInWord"/>trary to the direction and <hi>TRUE MEANING</hi> hereof,</q> (necessarily including the "TRUE MEANING," like<lb rend="hidden" type="hyphenInWord"/>wise, of all the acts recited in the preamble: so that, if A JUDGE should presume to <hi>remand</hi> into confinement any <q>
+                     <hi>man, of what estate or condition soever he be,</hi>
+                  </q> that has been <q>
+                     <hi>TAKEN, or IMPRISONED, &amp;c. WITHOUT DUE PROCESS OF LAW,</hi>
+                  </q>) <q>that then</q> 
+                  <hi>(says the act)</hi> 
+                  <q>such person, so offending, shall forfeit to the party grieved his <hi>TREBLE DAMAGES,</hi> to be reco<lb rend="hidden" type="hyphenInWord"/>vered by such means and in such manner as is formerly in this act limited and appointed for the like penalty to be sued for and recovered,</q> &amp;c.</p>
+               <p>In the preamble of the Petition of Rights, (3 Cha. I.) the same noble declarations of British liberty, drawn from the ancient statutes against <q>taking and imprisoning a man without due process of the law,</q> are expressly recited and confirmed, (see 3d and 4th §.) as well as in the last-mentioned act. And the <hi>judges</hi> are likewise expressly directed, BY BOTH ACTS, to grant "WRITS OF HABEAS CORPUS," for immediate relief from all such <hi>illegal</hi> imprisonments; whether committed by authority of the <hi>king</hi> or of the <hi>privy-council:</hi> so that there are two <hi>habeas corpus</hi> acts, pre<lb rend="hidden" type="hyphenInWord"/>vious to, and of equal authority with, that which commonly engrosses the title of <hi>the Habeas Corpus Act,</hi> though it is, in reality, only a supplement to the two former acts, being clearly intended to supply all that could be thought insufficient for the security of the subject's <hi>liberty</hi> in the former acts above recited: be<lb rend="hidden" type="hyphenInWord"/>ing intitled,—"<hi>An Act for the</hi> BETTER SECURING <hi>the Liberty of the Subject, &amp;c.</hi>" See stat. 31 Cha. II. c. ii. And therefore whatever may seem <hi>doubtful,</hi> or not suf<lb rend="hidden" type="hyphenInWord"/>ficiently expletive therein, must necessarily be con<lb rend="hidden" type="hyphenInWord"/>strued <hi>in favour of liberty,</hi> according to the established rules and maxims of the common law.<note place="bottom" n="‖">"<hi>Impius et crudelis judicandus est qui</hi> LIBERTATI <hi>non favet.</hi>" Co. Lit. 29, from Fortescu. <q>Impious and cruel is that man to be esteemed who does not <hi>favour</hi> liberty.</q>—<q>
+                        <hi>Angliae jura in omni casu</hi> LIBERTATI <hi>dant savorem.</hi>
+                     </q> (See Prin. Leg. et Aequit. p. 5, from Fortescu.) <q>
+                        <hi>The laws of England</hi> FAVOUR <hi>liberty</hi> IN EVERY CASE.</q> And the learned chancellor Fortescu himself expresses this <hi>noble principle</hi> still more fully in c. xlvii. p. 109, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>e laud. Leg. Ang.—<q>Humana natura in <hi>LIBERTATIS</hi> causa <hi>FAVOREM</hi> semper, <hi>MAGIS QUAM IN ALIIS CAUSIS,</hi> deprecetur,</q> 
+                     <hi>&amp;c.</hi> 
+                     <q>In the cause of <hi>LIBERTY</hi> human nature <hi>ALWAYS</hi> implores <hi>FAVOUR</hi> more than in any other cause.</q>
+                  </note>
+               </p>
+               <p>If a judge, therefore, should <hi>remand</hi> a man into any such illegal imprisonment, he immediately (by the in<lb rend="hidden" type="hyphenInWord"/>evitable construction of these laws<note place="bottom" n="§">This truth is also farther testified by the arguments and autho<lb rend="hidden" type="hyphenInWord"/>rities collected in Bushel's case, reported by Ld C. J. Vaughan, p. 156:—<hi>viz.</hi> 
+                     <q>When a man is brought by <hi>HABEAS CORPUS</hi> to the court, and, upon return of it, it appears to the court that he was against law <hi>IM<lb rend="hidden" type="hyphenInWord"/>PRISONED</hi> and <hi>DETAINED,</hi> though there be no cause of privilege for him in this court, he shall never be by the act of the court <hi>REMANDED</hi> to his unlawful imprisonment, for then <hi>THE COURT</hi> should do an act of <hi>INJUS<lb rend="hidden" type="hyphenInWord"/>TICE,</hi> in imprisoning him, <hi>DE NOVO, AGAINST LAW;</hi> whereas the the great charter is, Quod nullus liber homo <hi>IMPRISONETUR, NISI PER LEGEM TERRAE,</hi>
+                     </q> &amp;c.</note>) becomes a party in the injury: for the illegality of <hi>remanding</hi> a man, brought up by HABEAS CORPUS, where <q>no cause is certified,</q> (that is, no <hi>legal</hi> cause,) is severely con<lb rend="hidden" type="hyphenInWord"/>demned in the 5th sect. of <hi>the Bill of Rights:</hi> and the subsequent act, of 16 Cha. I. c. x. gives a penalty of <hi>treble damages,</hi> as I have already remarked. And, what is worse, if any judge should be guilty of such <hi>injustice,</hi> in the case of a <hi>pressed man,</hi> he would be lia<lb rend="hidden" type="hyphenInWord"/>ble to still greater penalties, because the case of <hi>pressing</hi> necessarily includes, not only the circumstances of <q> taking and imprisoning a man without due process of the law,</q> but also the intention of carrying him a pri<lb rend="hidden" type="hyphenInWord"/>soner <hi>"out of the realm;"</hi> whereby the judges (so of<lb rend="hidden" type="hyphenInWord"/>fending) become liable to all the penalties of the last supplemental <hi>habeas corpus act;</hi> which is treble costs, and 500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> damages <hi>at the least;</hi> a disability to bear any office of trust or profit under the crown; besides all the other penalties of a <hi>premunire,</hi> which the king <hi>cannot pardon!</hi>
+                  <note place="bottom" n="¶">
+                     <q> — the person, or persons, who shall knowingly frame, contrive, write, seal, or counter-sign, <hi>ANY WARRANT</hi>
+                     </q> or writing <q>for such commitment, detainer,</q> imprisonment, <q>or <hi>TRANSPORTATION;</hi> or shall so commit, detain, imprison, or <hi>TRANSPORT,</hi> any person, or persons, contrary to this act; or be <hi>ANY WAYS ADVISING, AID<lb rend="hidden" type="hyphenInWord"/>ING, OR ASSISTING, THEREIN;</hi>
+                     </q> (which must inevitably include the act of REMANDING;) <q>being lawfully convicted thereof, shall</q> 
+                     <hi>(besides the penalties of</hi> treble costs and £. <hi>500</hi> damages, <hi>mentioned in the former part of the section)</hi> 
+                     <q>be disabled from thenceforth to bear any office of trust or profit within the said realm of England, &amp;c. and shall incur and sustain the pains, penalties, &amp;c. in and by the sta<lb rend="hidden" type="hyphenInWord"/>tute of provision and premunire, &amp;c.—and be <hi>INCAPABLE OF ANY PARDON FROM THE KING,</hi> his heirs, &amp;c.</q> —Stat. 31 Car. II. §. xii. And, by the x. §. a forfeit of 500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> is awarded against any judge for refusing the writ of HABEAS CORPUS, even though demand<lb rend="hidden" type="hyphenInWord"/>ed in time of vacation.</note>
+               </p>
+               <p>The plea of <hi>necessity</hi> for the service will not excuse them; because that very plea in the very same case, <hi>the necessity for the sea service,</hi> viz. for <q>the good and safety of the kingdom in general, &amp;c. and the whole king<lb rend="hidden" type="hyphenInWord"/>dom in danger</q> (and a stronger or more urgent <hi>necessity</hi> cannot be expressed); yet it was deemed INSUFFI<lb rend="hidden" type="hyphenInWord"/>CIENT to <hi>justify</hi> the opinion of <hi>all the judges</hi> in favour of extorting SHIP-MONEY (16 Cha. I. c. 14); and much more <hi>insufficient</hi> will it be to excuse the violent and forci<lb rend="hidden" type="hyphenInWord"/>ble <hi>"taking and imprisoning"</hi> of SHIP-MEN, because the <hi>persons</hi> of men are infinitely more sacred in law than their pecuniary property: for it is an unquestionable maxim, that <q>LAW <hi>regards</hi> THE PERSON <hi>above his possessions.</hi>
+                  </q> 
+                  <q>LIFE AND LIBERTY MOST,</q> &amp;c. (Prin. Leg. et Aeq. p. 56.) And, as <hi>the inheritance of the law,</hi> by an established maxim already quoted, is said to de<lb rend="hidden" type="hyphenInWord"/>scend <q>
+                     <hi>unicuique nostrum,</hi>
+                  </q>—<q>
+                     <hi>to</hi> EVERY ONE <hi>of us,</hi>
+                  </q> (without exception,) the SEAMEN are surely as much entitled to claim their <hi>inheritance</hi> and RIGHT to the whole benefit of the law as any other part of the com<lb rend="hidden" type="hyphenInWord"/>munity; for they cannot be excluded, because ano<lb rend="hidden" type="hyphenInWord"/>ther excellent maxim says, <q>Turpis est <hi>PARS</hi> quae non convenit cum suo <hi>TOTO.</hi>
+                  </q> 
+                  <hi>(Plowden, 161.)</hi> 
+                  <q>Shame<lb rend="hidden" type="hyphenInWord"/>ful is▪ that part</q> 
+                  <hi>(of a community)</hi> 
+                  <q>which is not suited with its whole</q> (body). So that, if SEAMEN are denied <hi>the benefit and protection of the laws,</hi> on the part of government, such a denial unavoidably tends to slacken and untie the <hi>bands of allegiance</hi> on the part of the seamen, who are thereby compelled to under<lb rend="hidden" type="hyphenInWord"/>take their own protection and defence whenever <hi>the law</hi> is denied them; for the ties of allegiance must necessa<lb rend="hidden" type="hyphenInWord"/>rily be reciprocal, according to the first principles of social government, because the protection of <hi>natural right</hi> is the <hi>first foundation of English law,</hi> which no act of parliament has any authority <hi>to subvert;</hi> and the useful order of <hi>seamen,</hi> in particular, cannot be de<lb rend="hidden" type="hyphenInWord"/>nied <hi>the protection of the law,</hi> without the most stimula<lb rend="hidden" type="hyphenInWord"/>lating provocation to resistance in their own defence: because it is agreeable to a fundamental maxim of the British constitution of state, that <q>Nothing is more in<lb rend="hidden" type="hyphenInWord"/>tolerable in law, than that any one part of the communi<lb rend="hidden" type="hyphenInWord"/>ty should be esteemed under a different law from the rest,</q>
+                  <note place="bottom" n="*">
+                     <q> Nihil in lege intolerabilius est, candem rem diverso jure censeri:</q> 
+                     <hi>and another maxim says,</hi>—<q>Turpis est pars quae non convenit cum suo toto.</q>
+                  </note> 
+                  <hi>for there can be no such thing as</hi> 
+                  <q>common right</q> wherever this is the case.—Thus I have endeavoured to express the <hi>right of seamen</hi> in as plain and intelligible terms as I could; that every <hi>common seaman</hi> of <hi>common sense</hi> may be able to discern the <hi>inesti<lb rend="hidden" type="hyphenInWord"/>mable value</hi> of his <hi>best inheritance,</hi> THE LAW; and I shall always esteem it <hi>my duty to God</hi> to maintain and defend their rights to the utmost of my power.</p>
+            </note> them into ser<lb rend="hidden" type="hyphenInWord"/>vice
+<pb n="58" facs="61"/>
+by <hi>force</hi> and <hi>violence,</hi> which the most dissolute of public ministers never pre<lb rend="hidden" type="hyphenInWord"/>sumed
+<pb n="59" facs="62"/>
+to palliate, or excuse, by any o<lb rend="hidden" type="hyphenInWord"/>ther plea than this mere bugbear, NE<lb rend="hidden" type="hyphenInWord"/>CESSITY!</p>
+         <p>
+            <pb n="60" facs="63"/>It is a practice so notoriously repugnant to <hi>common right</hi> and equity, so funda<lb rend="hidden" type="hyphenInWord"/>mentally
+<pb n="61" facs="64"/>
+subversive of the most essential and indispensable principles of our happy
+<pb n="62" facs="65"/>
+legal establishment; and, at the same time, so impious a violation of that <hi>na<lb rend="hidden" type="hyphenInWord"/>tural
+<pb n="63" facs="66"/>
+equality,</hi> with respect <hi>to law, jus<lb rend="hidden" type="hyphenInWord"/>tice,</hi> and <hi>personal protection,</hi> which the
+<pb n="64" facs="67"/>
+Almighty himself has commanded to be maintained <hi>"without respect of persons;"</hi>
+            <pb n="65" facs="68"/>
+that even an act of parliament cannot make it <hi>lawful;</hi> for <q>God is no respecter <hi>of</hi> persons.</q> 
+            <hi>(Acts x. 34)</hi> 
+            <q>He ac<lb rend="hidden" type="hyphenInWord"/>cepteth not the persons of princes, nor re<lb rend="hidden" type="hyphenInWord"/>gardeth the rich <hi>MORE THAN POOR;</hi> for they are all the work of his hands.</q> 
+            <hi>(Job. xxxiv. 19.)</hi> 
+            <q>He hath made the small and the great, <hi>AND CARETH FOR ALL ALIKE.</hi>
+            </q> (Wisdom, vi. 7.) And, with respect to <hi>equal justice,</hi> God's direction to judges is part of the <hi>moral law,</hi> which is still binding,—<q>they shall judge the peo<lb rend="hidden" type="hyphenInWord"/>ple with <hi>JUST JUDGEMENT.</hi> Thou shalt not wrest judgement. Thou <hi>SHALT NOT RESPECT PERSONS;</hi> neither take
+<pb n="66" facs="69"/>
+ a gift,</q>
+            <note place="bottom" n="*">According to the common law of England also, BRIBERY, or the <hi>taking of gifts,</hi> is esteemed a most <hi>hei<lb rend="hidden" type="hyphenInWord"/>nous crime</hi> in JUDICIAL PROCEEDINGS; yet it is much <hi>more heinous</hi> (because more dangerous) in LEGISLA<lb rend="hidden" type="hyphenInWord"/>TION: insomuch that a JUST SUSPICION of <hi>undue in<lb rend="hidden" type="hyphenInWord"/>fluence</hi> (by <hi>private pensions, places held during pleasure,</hi> &amp;c.) is sufficient also to <hi>vitiate</hi> and <hi>annul</hi> the proceed<lb rend="hidden" type="hyphenInWord"/>ings even of a LEGISLATURE! and therefore, when wicked and corrupt men, in the administration of <hi>any</hi> government, presume to varnish over their ille<lb rend="hidden" type="hyphenInWord"/>gal proceedings with the specious pretence of <q>vindi<lb rend="hidden" type="hyphenInWord"/>cating and establishing legislative authority,</q> and yet, at the same time, (by sapping its <hi>honour</hi> and <hi>dignity</hi> with the baneful influence of <hi>pensions,</hi> and such other BRIBERY,) do notoriously practice the most effectual means to undermine and destroy it!—such men, I say, must be deemed <hi>traitors</hi> and <hi>unpardonable hypocrites,</hi> whom NATIONAL JUSTICE will mark for the future vengeance of a much <hi>injured,</hi> and, hitherto, <q>DELUDED PEO<lb rend="hidden" type="hyphenInWord"/>PLE, </q> if they do not repent, before the measure of their iniquity be fulfilled, and heartily adopt some prudent plan of political reformation!</note> &amp;c. (Deut. xvi. 18.) The fashionable <hi>sneer,</hi> therefore, of some mo<lb rend="hidden" type="hyphenInWord"/>dern lawyers, against the <hi>just</hi> doctrine concerning <hi>"the equality of mankind,"</hi> savours of a lamentable ignorance in <hi>the first principles</hi> of their profession, relating to <hi>"common right"</hi> or <hi>justice!</hi>
+         </p>
+         <p>
+            <pb n="67" facs="70"/>All that I have said against the <hi>supposed act</hi> for <hi>suspending the law,</hi> would be e<lb rend="hidden" type="hyphenInWord"/>qually applicable to an act of parliament for <hi>impressing</hi> either <hi>seamen,</hi> or any other rank or denomination of British subjects: because it would be a real <hi>suspension</hi> (with respect to <hi>one part</hi> of the community) of all the most valuable acts of parliament which are deemed the pillars of the con<lb rend="hidden" type="hyphenInWord"/>stitution, though the learned judge Foster has prostituted his pen by asserting that it is <q>
+               <hi>not inconsistent with any statute.</hi>
+            </q> That learned man, surely, did not con<lb rend="hidden" type="hyphenInWord"/>sider that the practice of <hi>impressing</hi> (as now carried on) necessarily includes the circumstances of <q>taking</q> 
+            <hi>and</hi> 
+            <q>im<lb rend="hidden" type="hyphenInWord"/>prisoning</q> 
+            <hi>without</hi> 
+            <q>due process of the law;</q> which is expressly prohibited not only by <hi>one</hi> statute, but by many <hi>sta<lb rend="hidden" type="hyphenInWord"/>tutes.</hi> The very first <hi>statute</hi> in our book ordains, that <q>No freeman shall be <hi>TA<lb rend="hidden" type="hyphenInWord"/>KEN</hi> or <hi>IMPRISONED,</hi> &amp;c. but by the
+<pb n="68" facs="71"/>
+lawful judgement of his peers, or by the <hi>LAW OF THE LAND:</hi>
+            </q> which, in a<lb rend="hidden" type="hyphenInWord"/>nother recital, <hi>by parliamentary authority,</hi> is explained to signify <q>process of the law.</q>—And another venerable statute (which, like Magna Charta, has been so frequently confirmed by other acts of parliament, in different periods, that <hi>no single parliament</hi> can have sufficient au<lb rend="hidden" type="hyphenInWord"/>thority to repeal it) expressly ordains, that <q> No man, of what estate or condition that he be,</q> 
+            <hi>(so that there can be no excep<lb rend="hidden" type="hyphenInWord"/>tion of SEAMEN,)</hi> 
+            <q>shall be put out of land or tenements, nor <hi>TAKEN,</hi> nor <hi>IMPRISONED,</hi> nor disinherited,</q> 
+            <hi>(and the protection of THE LAW is already shewn to be our</hi> most valuable <hi>inheritance,)</hi> 
+            <q>nor put to death, without being brought to answer by <hi>DUE PROCESS OF LAW.</hi>
+            </q> Stat. 28 Ed. III. c. 3. This excellent statute, and the clause above quoted from the Great-Charter, are both <hi>expressly re<lb rend="hidden" type="hyphenInWord"/>cited</hi> and <hi>confirmed</hi> in the Bill of Rights,
+<pb n="69" facs="72"/>
+(3 Cha. I. c. 1.) and also in the act for <hi>regulating the privy-council,</hi> (16 Cha. I. c. 10.)—So that judge Foster's assertion in favour of <hi>pressing,</hi> viz. that it is <q>not in<lb rend="hidden" type="hyphenInWord"/>consistent with any statute,</q> is an unpar<lb rend="hidden" type="hyphenInWord"/>donable instance of disingenuity! For what <hi>"due process of law"</hi> can be pointed out to justify or warrant the <hi>taking, im<lb rend="hidden" type="hyphenInWord"/>prisoning,</hi> and <hi>disinheriting,</hi> (of his <hi>most</hi> va<lb rend="hidden" type="hyphenInWord"/>luable <hi>inheritance,</hi> THE LAW) an innocent sailor? — An <hi>admiralty-warrant</hi> cannot be considered as a <q>due process of the law,</q> to justify any such <hi>taking, im<lb rend="hidden" type="hyphenInWord"/>prisoning, &amp;c.</hi> because it is founded on no other authority than that of <q>the king and council,</q> whose warrant, <hi>for any such purposes,</hi> is rendered totally <hi>illegal</hi> by authority of an act of parliament, still in force; (16 Cha. I. c. 10.) so that if a judge should presume to <hi>remand</hi> a man to confinement, that has been <q>taken and imprisoned</q> by any such <hi>warrant,</hi> (which is <hi>illegal,</hi> and of course no <q>pro<lb rend="hidden" type="hyphenInWord"/>cess
+<pb n="70" facs="73"/>
+ of law,</q>) he would be liable to an impeachment of <hi>high-treason to the state:</hi> for promoting an <hi>illegal</hi> power and pre<lb rend="hidden" type="hyphenInWord"/>tension of the crown, in direct opposition to <hi>a solemn act of the whole legislature!</hi>
+         </p>
+         <p>For the same reasons, every magis<lb rend="hidden" type="hyphenInWord"/>trate who presumes to <hi>back a press-war<lb rend="hidden" type="hyphenInWord"/>rant</hi> is also highly criminal, and makes himself an <hi>adviser</hi> and <hi>party,</hi> in a most notorious breach of the king's peace! because the effect of promoting an <hi>illegal</hi> warrant, to <hi>suspend</hi> (as much as in him lies) the laws of the king's peace, <hi>common right,</hi> and <hi>personal protection,</hi> from any of the <hi>king's subjects,</hi> (and this even in the <hi>king's name,</hi>) must necessarily <hi>suspend</hi> also, at the same time, the <hi>allegiance</hi> of the persons injured, for so a long time as they are in any actual danger; and they are permitted, even by the FIRST <hi>foun<lb rend="hidden" type="hyphenInWord"/>dation
+<pb n="71" facs="74"/>
+of the English law,</hi>
+            <note place="bottom" n="*">
+               <q> Primum fundamentum legis Angliae est lex <hi>RATIO<lb rend="hidden" type="hyphenInWord"/>NIS.</hi>
+               </q> 
+               <hi>—Doct. et Stud. c. 5.</hi>—<q>Insuper lex ratio<lb rend="hidden" type="hyphenInWord"/>nis permittit plurima fieri, ut scilicet quod <hi>LICITUM EST</hi> vim vi repellere, et quod fas est <hi>UNICUIQUE</hi>
+               </q> 
+               <hi>(seamen not excepted)</hi> 
+               <q>se tueri, et rem suam defendere contra vim injustam.</q> Doct. et Stud. c. ii.</note> 
+            <q>to repel force with force, and to defend themselves and their own property against <hi>UNJUST</hi> violence.</q> And they are not deemed guilty of <hi>murder,</hi> even if they <hi>kill</hi> the assailants, provided the <hi>killing</hi> be <hi>inevi<lb rend="hidden" type="hyphenInWord"/>table</hi> in their defence; and that they can<lb rend="hidden" type="hyphenInWord"/>not otherwise maintain their rights.—Nay, men are not only <hi>justified</hi> in defend<lb rend="hidden" type="hyphenInWord"/>ing <hi>themselves</hi> with force and arms, but may also legally <hi>defend</hi> and <hi>rescue</hi> any o<lb rend="hidden" type="hyphenInWord"/>ther person whatever, that is attacked or oppressed by an <hi>unlawful violence,</hi> though he be totally unknown to the rescuers!— For this was literally the case of Hopkins, Hugget, and three others, (an adjudged case in B. R. 18 Car. 2.) who, in at<lb rend="hidden" type="hyphenInWord"/>tempting to <hi>rescue</hi> a stranger from the
+<pb n="72" facs="75"/>
+custody of some <hi>press-masters,</hi> in Smith<lb rend="hidden" type="hyphenInWord"/>field, happened to kill one of them.—<q>
+               <hi>This was but man-slaughter,</hi>
+            </q> (says Ld. C. J. Holt,<note place="bottom" n="†">See his Report of <hi>"Regina versus Mawgridge,"</hi> published at the end of Ld C. J. Kelyng's Reports, of which judge Holt was the editor. Some stress has been laid on the circumstance in the above case, that <hi>"the piece of paper,"</hi> which the press-masters shewed to Hugget, &amp;c. <hi>"was not a sufficient warrant."</hi> This is, indeed, readily allowed; and we may safely add, that, if the <hi>lord admiral himself</hi> had attended to assist his <hi>press-masters,</hi> his authority in this case would have been as insignificant as that of any other man; since the baneful clause of <hi>"Non obstante statuto"</hi> in the <hi>lord admiral's patent</hi> is declared <hi>null and void:</hi> and, e<lb rend="hidden" type="hyphenInWord"/>ven if <hi>the king,</hi> at that time, and the <hi>lords of the privy-council</hi> had also attended in person, with the BEST WARRANT they could make, it would still have been <hi>"an insufficient warrant"</hi> to justify any such vio<lb rend="hidden" type="hyphenInWord"/>lent attacks upon the liberty of innocent subjects! and the same <hi>judgement in law</hi> must inevitably have been given (supposing the LAW to be DULY MAIN<lb rend="hidden" type="hyphenInWord"/>TAINED) as in the recited case: because the <hi>meanest subjects</hi> are as much entitled to <hi>the protection of the law</hi> as a king is to <hi>his crown,</hi> and consequently are <hi>equally</hi> justified in defending it, and in resisting <hi>unlawful</hi> force with force, according to the <hi>first foundation of the English law</hi> as already recited. For it is a maxim in law, that <hi>"the king can order nothing"</hi> (i. e. nothing of legal process) <q>except by a court legally appointed.</q> 
+               <q> Rex nil potest jubere nisi per curiam legitime constitu<lb rend="hidden" type="hyphenInWord"/>tam. </q> Now, as all pretence of <hi>legal power</hi> (in the capaci<lb rend="hidden" type="hyphenInWord"/>ty of a court of law) is taken from the <hi>king and council</hi> by express act of parliament, it would be absurd to attribute to their <hi>warrants and orders,</hi> or the <hi>admiralty press-warrants,</hi> (which are founded on no other autho<lb rend="hidden" type="hyphenInWord"/>rity,) the least <hi>legal</hi> authority as <hi>"a sufficient warrant"</hi> to justify the <hi>taking</hi> and <hi>imprisoning</hi> any man whatsoe<lb rend="hidden" type="hyphenInWord"/>ver; because they are not, nor cannot be considered as, any part of "THE DUE PROCESS OF THE LAW," which alone can justify the <hi>taking</hi> and <hi>imprisoning</hi> Bri<lb rend="hidden" type="hyphenInWord"/>tish subjects! And, therefore, as <hi>press-gangs</hi> (officers as well as men) are manifestly employed in an <hi>unlawful</hi> business, acting WITHOUT LAW, there is no crime in <hi>beating,</hi> or even in <hi>killing,</hi> them, if they cannot other<lb rend="hidden" type="hyphenInWord"/>wise be repelled, which must necessarily be deemed a <hi>justifiable manslaughter,</hi> "SE DEFENDENDO;" because it is a maxim, that— <q>where there is <hi>NO LAW</hi> there is no <hi>TRANSGRESSION.</hi>
+               </q> 
+               <q>Ubi non est <hi>LEX</hi> ibi non est <hi>TRANSGRESSIO.</hi>
+               </q> And another maxim says: —<q>In vain doth that man implore the aid</q> 
+               <hi>(or protec<lb rend="hidden" type="hyphenInWord"/>tion)</hi> 
+               <q>of <hi>LAW,</hi> who strives to subvert even the <hi>LAW</hi> itself.</q>—<q>Frustra <hi>LEGIS</hi> auxilium implorat, qui <hi>LEGES IPSAS</hi> subvertere conatur:</q> which must ine<lb rend="hidden" type="hyphenInWord"/>vitably be deemed the case of <hi>press-gangs;</hi> insomuch that judge Foster himself (if he meant to act according TO LAW) must have directed the jury to find <hi>the same</hi> verdict, in his famous reported case of <hi>Alexander Broadfoot,</hi> even if, instead of a <hi>common sailor</hi> belong<lb rend="hidden" type="hyphenInWord"/>ing to <hi>the press-gang,</hi> Broadfoot had shot the lieutenant of the gang, or even the captain himself with the <hi>ad<lb rend="hidden" type="hyphenInWord"/>miralty warrant</hi> in his hand; because the same <hi>just objection</hi> would still have held good against the press-gang, <hi>viz.—"that they acted without legal warrant;"</hi> for an admiralty warrant, to impress seamen, is <hi>no legal warrant,</hi> or <hi>"process of the law,"</hi> to <hi>take</hi> or <hi>imprison</hi> any man whatsoever: — and, therefore all the pains that have been taken, by that learned man, to dis<lb rend="hidden" type="hyphenInWord"/>guise and confound the true <hi>legal</hi> state of the case, are frivolous, and unworthy his rank and character!</note>) <q>for, when the liberty of
+<pb n="73" facs="76"/>
+ one subject is invaded, it affects all the rest: it is a provocation to all people, as
+<pb n="74" facs="77"/>
+being of ill example and pernicious conse<lb rend="hidden" type="hyphenInWord"/>quence. </q>
+         </p>
+         <p>In short, that excellent adage for all the ordinary circumstances of life, viz. "<hi>Honesty the best</hi> POLICY," will be found to hold equally good in real <hi>poli<lb rend="hidden" type="hyphenInWord"/>tics,</hi> or affairs of government, even throughout the most dangerous and a<lb rend="hidden" type="hyphenInWord"/>larming difficulties and emergencies of state; because (if we entertain any real be<lb rend="hidden" type="hyphenInWord"/>lief in divine Providence) examples may be produced, from the histories of all na<lb rend="hidden" type="hyphenInWord"/>tions, to demonstrate, that the crafty re<lb rend="hidden" type="hyphenInWord"/>finements of mere <hi>worldly policy</hi> do fre<lb rend="hidden" type="hyphenInWord"/>quently
+<pb n="75" facs="78"/>
+hasten or produce the very evils they were intended to avert! An ad<lb rend="hidden" type="hyphenInWord"/>ministration of <hi>government,</hi> therefore, which cannot subsist with <hi>law, justice,</hi> and <hi>common honesty,</hi> is <hi>unfit to subsist at all!</hi> be<lb rend="hidden" type="hyphenInWord"/>cause <hi>law</hi> is the only basis of <hi>good and law<lb rend="hidden" type="hyphenInWord"/>ful government;</hi> so that no man can be es<lb rend="hidden" type="hyphenInWord"/>teemed truly <hi>loyal</hi> who thinks otherwise; and though several precedents for <hi>sus<lb rend="hidden" type="hyphenInWord"/>pending</hi> THE LAW (both in pressing and other cases) may easily be produced; yet they can afford no justification or ex<lb rend="hidden" type="hyphenInWord"/>cuse for such measures; because the <hi>ini<lb rend="hidden" type="hyphenInWord"/>quity</hi> of them still remains, and <q>Malum quo communius eo pejus;</q> so that the citing <hi>bad presidents</hi> is a manifest aggravation of the <hi>treason!</hi> And it is a maxim,—that <q> PEACE IS THE LIFE OF THE COM<lb rend="hidden" type="hyphenInWord"/>MONWEALTH, LIBERTY THE SOUL OF IT, AND THE LAWS IT'S BODY.</q>—<q>VITA REIPUBLICAE PAX, ET A<lb rend="hidden" type="hyphenInWord"/>NIMUS LIBERTAS, ET CORPUS LE<lb rend="hidden" type="hyphenInWord"/>GES. </q> —And, therefore, the hateful
+<pb n="76" facs="79"/>
+measure of SUSPENDING THE LAWS, under a pretended <hi>necessity</hi> of carrying on a cruel WAR against the advocates for LIBERTY, ought to be deemed an at<lb rend="hidden" type="hyphenInWord"/>tempt to destroy the LIFE, SOUL, and BODY, <hi>of the republic!</hi>
+         </p>
+         <epigraph>
+            <q>—Great is the TRUTH, and stronger than all things;—it liveth and conquer<lb rend="hidden" type="hyphenInWord"/>eth for evermore. With her there is no ACCEPTING OF PERSONS, or RE<lb rend="hidden" type="hyphenInWord"/>WARDS; she doeth the things that are JUST, and refraineth from ALL UN<lb rend="hidden" type="hyphenInWord"/>JUST and WICKED THINGS. — Nei<lb rend="hidden" type="hyphenInWord"/>ther in her JUDGEMENT (or decree) is any UNRIGHTEOUSNESS; and she is the STRENGTH, KINGDOM, POWER, and MAJESTY, of all ages!</q>
+            <q>BLESSED BE THE GOD OF TRUTH!</q>
+         </epigraph>
+      </body>
+   </text>
+</TEI>

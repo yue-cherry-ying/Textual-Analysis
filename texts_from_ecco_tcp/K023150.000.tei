@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ode for musick:</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023150.000</idno>
+            <idno type="docno">CW3313975798</idno>
+            <idno type="ecll">0685201100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ode for musick:</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>[4],8p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for Bernard Lintott,</publisher>
+                  <date>1713.</date>
+                  <idno type="TCP">K023150.000</idno>
+                  <idno type="docno">CW3313975798</idno>
+                  <idno type="ecll">0685201100</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title: 'Mr. Pope's Ode on St. Cecilia's Day'.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P904</note>
+                  <note>Griffith, 20</note>
+                  <note>English Short Title Catalog, ESTCT5694.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>Mr. <hi>POPE</hi>'s
+ODE
+ON
+St. <hi>CECILIA</hi>'s Day.</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>ODE
+FOR
+MUSICK.</p>
+            <p>
+               <hi>LONDON:</hi>
+Printed for BERNARD LINTOTT, at the <hi>Cross-Keys</hi>
+in <hi>Fleetstreet.</hi> 1713.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="1" facs="3"/>
+         <head>ODE
+FOR
+MUSICK.</head>
+         <lg n="1">
+            <head>I.</head>
+            <l>DEscend ye Nine! descend and sing;</l>
+            <l>The breathing Instruments inspire,</l>
+            <l>Wake into Voice each silent String,</l>
+            <l>And sweep the sounding Lyre!</l>
+            <l>In a sadly-pleasing Strain</l>
+            <l>Let the warbling Lute complain:</l>
+            <l>
+               <pb n="2" facs="4"/>
+Let the loud Trumpet sound,</l>
+            <l>Till the Roofs all around</l>
+            <l>The shrill Ecchos rebound:</l>
+            <l>While in more lengthen'd Notes and slow,</l>
+            <l>The deep, majestick, solemn Organs blow.</l>
+            <l>Hark! the Numbers, soft and clear,</l>
+            <l>Gently steal upon the Ear;</l>
+            <l>Now louder, and yet louder rise,</l>
+            <l>And fill with spreading Sounds the Skies;</l>
+            <l>Exulting in Triumph now swell the bold Notes,</l>
+            <l>In broken Air, trembling, the wild Musick floats;</l>
+            <l>Till, by degrees, remote and small,</l>
+            <l>The Strains decay,</l>
+            <l>And melt away</l>
+            <l>In a dying, dying Fall.</l>
+         </lg>
+         <lg n="2">
+            <head>II.</head>
+            <l>By Musick, Minds an equal Temper know,</l>
+            <l>Nor swell too high, nor sink too low.</l>
+            <l>If in the Breast tumultuous Joys arise,</l>
+            <l>Musick her soft, assuasive Voice applies;</l>
+            <l>
+               <pb n="3" facs="5"/>
+Or when the Soul is press'd with Cares</l>
+            <l>Exalts her in enlivening Airs.</l>
+            <l>
+               <hi>Warriors</hi> she fires with animated Sounds;</l>
+            <l>Pours Balm into the bleeding <hi>Lover</hi>'s Wounds:</l>
+            <l>At Musick, <hi>Melancholy</hi> lifts her Head;</l>
+            <l>Dull <hi>Morpheus</hi> rowzes from his Bed;</l>
+            <l>
+               <hi>Sloath</hi> from its Lethargy awakes,</l>
+            <l>And list'ning <hi>Envy</hi> drops her Snakes;</l>
+            <l>Intestine War no more our <hi>Passions</hi> wage,</l>
+            <l>Ev'n giddy <hi>Factions</hi> hear away their Rage.</l>
+         </lg>
+         <lg n="3">
+            <head>III.</head>
+            <l>But when our Country's Cause provokes to Arms,</l>
+            <l>How martial Musick every Bosom warms!</l>
+            <l>So when the first bold Vessel dar'd the Seas,</l>
+            <l>High on the Stern the <hi>Thracian</hi> rais'd his Strain,</l>
+            <l>While <hi>Argo</hi> saw her kindred Trees</l>
+            <l>Descend from <hi>Pelion</hi> to the Main.</l>
+            <l>Transported Demi-Gods stood round,</l>
+            <l>And Men grew Heroes at the Sound,</l>
+            <l>Enflam'd with Glory's Charms:</l>
+            <l>
+               <pb n="4" facs="6"/>
+Each Chief his sevenfold Shield display'd,</l>
+            <l>And half unsheath'd the shining Blade;</l>
+            <l>And Seas, and Rocks, and Skies rebound</l>
+            <l>To Arms, to Arms, to Arms!</l>
+         </lg>
+         <lg n="4">
+            <head>IV.</head>
+            <l>But when thro' all th' Infernal Bounds</l>
+            <l>Which flaming <hi>Phlegeton</hi> surrounds,</l>
+            <l>Sad <hi>Orpheus</hi> sought his Consort lost;</l>
+            <l>Th' Inexorable Gates were barr'd,</l>
+            <l>And nought was seen, and nought was heard</l>
+            <l>Around the dreary Coast,</l>
+            <l>But dreadful Gleams,</l>
+            <l>Dismal Screams,</l>
+            <l>Fires that glow,</l>
+            <l>Shrieks of Woe,</l>
+            <l>Sullen Moans,</l>
+            <l>Hollow Groans,</l>
+            <l>And Cries of tortur'd Ghosts.</l>
+            <l>But hark! he strikes the golden Lyre;</l>
+            <l>And see! the tortur'd Ghosts respire,</l>
+            <l>See shady Forms advance!</l>
+            <l>
+               <pb n="5" facs="7"/>
+Thy Stone, O <hi>Sysiphus,</hi> stands still;</l>
+            <l>
+               <hi>Ixion</hi> rests upon his Wheel,</l>
+            <l>And the pale Spectres dance!</l>
+            <l>The Furies sink upon their Iron Beds,</l>
+            <l>And Snakes uncurl'd hang list'ning round their Heads.</l>
+         </lg>
+         <lg n="5">
+            <head>V.</head>
+            <l>By the Streams that ever flow,</l>
+            <l>By the fragrant Winds that blow</l>
+            <l>O'er th' <hi>Elysian</hi> Flowers,</l>
+            <l>By those happy Souls who dwell</l>
+            <l>In Yellow Meads of <hi>Asphodel,</hi>
+            </l>
+            <l>Or <hi>Amaranthine</hi> Bowers:</l>
+            <l>By the Heroe's armed Shades</l>
+            <l>Glitt'ring thro' the gloomy Glades,</l>
+            <l>By the Youths that dy'd for Love,</l>
+            <l>Wandring in the Myrtle Grove,</l>
+            <l>Restore, restore <hi>Eurydice</hi> to Life;</l>
+            <l>Oh take the Husband, or return the Wife.</l>
+            <l>He sung, and Hell consented</l>
+            <l>To hear the Poet's Pray'r;</l>
+            <l>
+               <pb n="6" facs="8"/>
+Stern <hi>Proserpine</hi> relented,</l>
+            <l>And gave him back the Fair.</l>
+            <l>Thus Song could prevail</l>
+            <l>O'er Death and o'er Hell,</l>
+            <l>A Conquest how hard and how glorious?</l>
+            <l>Tho' Fate had fast bound her</l>
+            <l>With <hi>Styx</hi> nine times round her,</l>
+            <l>Yet Musick and Love were Victorious.</l>
+         </lg>
+         <lg n="6">
+            <head>VI.</head>
+            <l>But soon, too soon, the Lover turns his Eyes:</l>
+            <l>Again she falls, again she dies, she dies!</l>
+            <l>How wilt thou now the fatal Sisters move?</l>
+            <l>No Crime was thine, if 'tis no Crime to love.</l>
+            <l>Now under hanging Mountains,</l>
+            <l>Beside the Falls of Fountains,</l>
+            <l>Or where <hi>Hebrus</hi> wanders,</l>
+            <l>Rolling in <hi>Maeanders,</hi>
+            </l>
+            <l>All alone,</l>
+            <l>Unheard, unknown,</l>
+            <l>He makes his Moan;</l>
+            <l>And calls her Ghost</l>
+            <l>For ever, ever, ever lost!</l>
+            <l>
+               <pb n="7" facs="9"/>
+Now with Furies surrounded,</l>
+            <l>Despairing, confounded,</l>
+            <l>He trembles, he glows,</l>
+            <l>Amidst <hi>Rhodope</hi>'s Snows:</l>
+            <l>See, wild as the Winds, o'er the Desart he flies;</l>
+            <l>Hark! <hi>Haemus</hi> resounds with the <hi>Bacchanals</hi> Cries—</l>
+            <l>—Ah see, he dies!</l>
+            <l>Yet ev'n in Death <hi>Eurydice</hi> he sung,</l>
+            <l>
+               <hi>Eurydice</hi> still trembled on his Tongue,</l>
+            <l>
+               <hi>Eurydice</hi> the Woods,</l>
+            <l>
+               <hi>Eurydice</hi> the Floods,</l>
+            <l>
+               <hi>Eurydice</hi> the Rocks, and hollow Mountains rung.</l>
+         </lg>
+         <lg n="7">
+            <head>VII.</head>
+            <l>Musick the fiercest Griefs can charm,</l>
+            <l>And Fate's severest Rage disarm:</l>
+            <l>Musick can soften Pain to Ease,</l>
+            <l>And make Despair and Madness please:</l>
+            <l>Our Joys below it can improve,</l>
+            <l>And antedate the Bliss above.</l>
+            <l>This the Divine <hi>Cecilia</hi> found,</l>
+            <l>And to her Maker's Praise confin'd the Sound.</l>
+            <l>
+               <pb n="8" facs="10"/>
+When the full Organ joins the tuneful Quire,</l>
+            <l>The Immortal Pow'rs incline their Ear;</l>
+            <l>Born on the swelling Notes our Souls aspire,</l>
+            <l>While solemn Airs improve the sacred Fire;</l>
+            <l>And Angels lean from Heav'n to hear!</l>
+            <l>Of <hi>Orpheus</hi> now no more let Poets tell,</l>
+            <l>To bright <hi>Cecilia</hi> greater Pow'r is giv'n;</l>
+            <l>His Numbers rais'd a Shade from Hell,</l>
+            <l>Hers lift the Soul to Heav'n.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

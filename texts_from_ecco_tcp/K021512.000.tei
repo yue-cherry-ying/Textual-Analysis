@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new musical interlude, called The election: As it is performed at the Theatre Royal in Drury-Lane.</title>
+            <author>Andrews, Miles Peter, d. 1814.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K021512.000</idno>
+            <idno type="docno">CW3310780877</idno>
+            <idno type="ecll">0227100700</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new musical interlude, called The election: As it is performed at the Theatre Royal in Drury-Lane.</title>
+                  <author>Andrews, Miles Peter, d. 1814.</author>
+               </titleStmt>
+               <extent>[4],13,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for W. Griffin,</publisher>
+                  <date>1774.</date>
+                  <idno type="TCP">K021512.000</idno>
+                  <idno type="docno">CW3310780877</idno>
+                  <idno type="ecll">0227100700</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Miles Peter Andrews.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT2452.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>A NEW MUSICAL INTERLUDE, CALLED THE ELECTION. AS IT IS PERFORMED AT THE THEATRE ROYAL IN DRURY-LANE.</p>
+            <p>LONDON: Printed for W. GRIFFIN, at Garrick's Head, No. 6, Catharine street, Strand. M,DCC,LXXIV. [Price 6d.]</p>
+         </div>
+         <div type="note">
+            <pb facs="2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THE following Trifle is the Pro<lb rend="hidden" type="hyphenInWord"/>duction of a hasty Hour; and tho' evidently calculated to amuse at this <hi>Juncture,</hi> yet the Author flatters him<lb rend="hidden" type="hyphenInWord"/>self it breathes throughout that Freedom and Indepency which is <hi>ever</hi> so grateful to us all, tempered with that Loyalty and Harmony which is so necessary to pro<lb rend="hidden" type="hyphenInWord"/>mote the general Happiness.</p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="3"/>
+            <head>DRAMATIS PERSONAE.</head>
+            <list>
+               <label>JOHN,</label>
+               <item>Mr. BANNISTER.</item>
+               <label>RICHARD,</label>
+               <item>Mr. VERNON.</item>
+               <label>TRUSTY,</label>
+               <item>Mr. DAVIES.</item>
+            </list>
+            <list>
+               <label>SALLY,</label>
+               <item>Mrs. WRIGHTEN.</item>
+               <label>WIFE,</label>
+               <item>Mrs. LOVE.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="4"/>
+            <head>THE ELECTION. A MUSICAL INTERLUDE.</head>
+            <stage>SCENE. A Baker's Shop.</stage>
+            <stage>Enter JOHN and his WIFE.</stage>
+            <sp>
+               <speaker>JOHN.</speaker>
+               <l>I Tell thee, Moll, this canting will not do;</l>
+               <l>I'll sell my loaves, but not my conscience too.</l>
+               <l>Shall I be perjur'd, Wife, and damn my soul</l>
+               <l>To get a guinea for a penny roll?</l>
+            </sp>
+            <sp>
+               <lg type="rondeau">
+                  <stage>RONDEAU.</stage>
+                  <lg>
+                     <l>Honest John no bribe can charm,</l>
+                     <l>His heart is like his <hi>oven,</hi> warm:</l>
+                     <l>Tho' poor as Job,</l>
+                     <l>He will not rob,</l>
+                     <l>Nor sell his truth to fill his fob.</l>
+                  </lg>
+                  <lg>
+                     <pb n="2" facs="5"/>
+                     <l>T<gap resp="#oxf" extent="4 letters" rend="content:••••">
+                           <desc>illegible</desc>
+                        </gap> and hirelings, I'd black-ball 'em!</l>
+                     <l>For to let such rascals set,</l>
+                     <l>Is as bad as using <hi>allum,</hi>
+                     </l>
+                     <l>Or as selling bread <hi>short weight.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Tho' I oft am <hi>mealy-handed,</hi>
+                     </l>
+                     <l>I am not <hi>mealy-mouth'd</hi> likewise;</l>
+                     <l>For a knave I'll not be <hi>branded,</hi>
+                     </l>
+                     <l>But declare without disguise.</l>
+                     <l>Honest John no bribe, &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>What because my out-side's <hi>dusty,</hi>
+                     </l>
+                     <l>Must my mind be dirty too?</l>
+                     <l>They, perhaps, will find me <hi>crusty,</hi>
+                     </l>
+                     <l>Who now think me soft as <hi>dough.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>I nor mind their balls nor feasting,</l>
+                     <l>Nor their specious promise heed;</l>
+                     <l>What's the bread without the <hi>yeast</hi> in?</l>
+                     <l>What's the word without the deed?</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>WIFE.</speaker>
+               <l>Lord! Johnny now, why make you such a fuss?</l>
+               <l>What's truth and conscience to such folk as us?</l>
+               <l>Nor one nor t'other will, as I'm a sinner,</l>
+               <l>E'er give us credit for a Sunday's dinner.</l>
+               <l>Sir <hi>Courtly</hi> says, if you'll but vote for him,</l>
+               <l>He'll fill our pockets to the very brim.</l>
+            </sp>
+            <sp>
+               <pb n="3" facs="6"/>
+               <speaker>JOHN.</speaker>
+               <l>I tell thee No;—he's one of those, they say,</l>
+               <l>Who's ever ready to talk <hi>any</hi> way;</l>
+               <l>Loud as a bull, or mute as any mouse,</l>
+               <l>A <hi>dial,</hi> or a <hi>larum,</hi> in the house:</l>
+               <l>All smiles and treachery, all bows and lies;</l>
+               <l>In fact, a complication of disguise.</l>
+               <l>'Squire Trusty is my man, who, just and true,</l>
+               <l>Butters his bread just as a man shou'd do.</l>
+            </sp>
+            <sp>
+               <speaker>WIFE.</speaker>
+               <p>He can't say <hi>bo to a goose</hi>;—don't vote for such.</p>
+            </sp>
+            <sp>
+               <speaker>JOHN.</speaker>
+               <l>Better to say too little, than too much.</l>
+               <l>Our parson talks well, but experience teaches,</l>
+               <l>He seldom practises the good he preaches:</l>
+               <l>The 'Squire's an honest cock—</l>
+            </sp>
+            <sp>
+               <speaker>WIFE.</speaker>
+               <l>And so are we,</l>
+               <l>And we may starve upon our honesty.</l>
+               <l>Sir Courtly'll get an act to bake on Sundays,</l>
+               <l>Then we may live genteel, and keep St. Mondays:</l>
+               <l>Besides, his friend young Richard loves our Sally;</l>
+               <l>Sure, for her sake, you'll not stand <hi>shilly shally.</hi>
+               </l>
+               <l>Who knows but we may hold our heads up soon;</l>
+               <l>Who knows when you—</l>
+            </sp>
+            <sp>
+               <pb n="4" facs="7"/>
+               <speaker>JOHN.</speaker>
+               <p>Who knows when you'll have done!</p>
+            </sp>
+            <sp>
+               <speaker>WIFE.</speaker>
+               <l>Why, hubby, all the world are mending now,</l>
+               <l>And live as grand as Lords.</l>
+            </sp>
+            <sp>
+               <speaker>JOHN.</speaker>
+               <p>The Lord knows how.</p>
+            </sp>
+            <sp>
+               <speaker>WIFE.</speaker>
+               <l>There's <hi>Patch</hi> the glazier, who, they say's no fool,</l>
+               <l>Sends both his daughters to the boarding-school;</l>
+               <l>And neighbour <hi>Squab,</hi> the sexton's wife, I see</l>
+               <l>Wears a silk gown, and drinks the best green tea.</l>
+               <l>This is the time to make us all for ever;</l>
+               <l>Grow rich at an election <hi>hub</hi>—or never.</l>
+            </sp>
+            <sp>
+               <lg type="song">
+                  <head>SONG.</head>
+                  <lg>
+                     <l>If in life you desire to have credit and weight,</l>
+                     <l>To be fear'd by the rich, and caress'd by the great,</l>
+                     <l>Your vote and your int'rest will raise you to note,</l>
+                     <l>If for int'rest you tender your int'rest and vote.</l>
+                  </lg>
+                  <lg>
+                     <pb n="5" facs="8"/>
+                     <l>Would you hang on the arm of my Lord, or his Grace,</l>
+                     <l>And familiarly ask for a pension, or place,</l>
+                     <l>To your int'rest he'll promise his life to devote,</l>
+                     <l>If you'll promise him both your int'rest and vote.</l>
+                  </lg>
+                  <lg>
+                     <l>This engages the minds of the great and the small,</l>
+                     <l>Of our friendships and loves is the basis of all;</l>
+                     <l>Each talent, each virtue, each gift he has got,</l>
+                     <l>Who can boast Borough int'rest, and proffers his vote.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>JOHN.</speaker>
+               <l>Sad doctrine this, but be it mine to prove</l>
+               <l>We have not quite forgot our country's love:</l>
+               <l>To venal honours let me ne'er aspire,</l>
+               <l>But in my station tend my humble fire;</l>
+               <l>On no vain schemes of false ambition bent,</l>
+               <l>My pride, Integrity—my wealth, Content.</l>
+            </sp>
+            <sp>
+               <lg type="song">
+                  <head>SONG.</head>
+                  <lg>
+                     <l>Whilst happy in my native land,</l>
+                     <l>I boast my counry's charter,</l>
+                     <l>I'll never basely lend my hand</l>
+                     <l>Her liberties to barter.</l>
+                  </lg>
+                  <lg>
+                     <pb n="6" facs="9"/>
+                     <l>The noble mind is not at all</l>
+                     <l>By poverty degraded;</l>
+                     <l>'Tis guilt alone can make us fall,</l>
+                     <l>And well I am persuaded,</l>
+                     <l>Each free-born Briton's song should be,</l>
+                     <l>" Or give me Death or Liberty!"</l>
+                  </lg>
+                  <lg>
+                     <l>Tho' small the pow'r which fortune grants,</l>
+                     <l>And few the gifts she sends us,</l>
+                     <l>The lordly hireling often wants</l>
+                     <l>That freedom which defends us.</l>
+                  </lg>
+                  <lg>
+                     <l>By law secur'd from lawless strife,</l>
+                     <l>Our house is our <hi>castellum:</hi>
+                     </l>
+                     <l>Thus bless'd with all that's dear in life,</l>
+                     <l>For lucre shall we sell 'em?</l>
+                     <l>No; ev'ry Briton's song shou'd be,</l>
+                     <l>" Or give me Death or Liberty!"</l>
+                  </lg>
+               </lg>
+               <stage>[Exit.</stage>
+            </sp>
+            <stage>Enter SALLY.</stage>
+            <sp>
+               <l>Well, mother, say—will Mr. Richard's friend</l>
+               <l>Succeed, and shall we gain our end?</l>
+               <l>If father would but for Sir Courtly vote,</l>
+               <l>He swore to marry me without a groat.</l>
+            </sp>
+            <sp>
+               <pb n="7" facs="10"/>
+               <speaker>WIFE.</speaker>
+               <l>Ah! child, your hopes and mine are wholly over,</l>
+               <l>I've lost my fancied greatness, you your lover:</l>
+               <l>Spite of all I cou'd say, your father's gone</l>
+               <l>To give his vote for Trusty—we're undone!</l>
+               <l>Condemn'd, thro' life, to be the slave and sloven,</l>
+               <l>We must eat <hi>raspins</hi> still, and draw the <hi>oven.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SALLY.</speaker>
+               <l>Ah! cruel fortune! must I then despair,</l>
+               <l>And lose the only youth that's worth my care!</l>
+               <l>Then all my dreams of happiness are flown;</l>
+               <l>Still must I wear this linsey-woolsey gown!</l>
+               <l>Still without curtains sleep upon the floor,</l>
+               <l>And rival the Miss <hi>Patches</hi> now no more.</l>
+            </sp>
+            <sp>
+               <lg type="song">
+                  <head>SONG.</head>
+                  <l>Adieu to silks and satins,</l>
+                  <l>To love and peace adieu!</l>
+                  <l>Each day in homely pattens,</l>
+                  <l>I still must bake and brew.</l>
+                  <l>
+                     <pb n="8" facs="11"/>Each morn at early rising,</l>
+                  <l>Must twirl the hated mop,</l>
+                  <l>And ev'ry thought disguising,</l>
+                  <l>Attend my father's shop.</l>
+                  <l>Adieu, &amp;c.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>WIFE.</speaker>
+               <l>Here comes young Mr. Richard—I'm afraid—</l>
+               <l>Heart-broken—I shall die.—</l>
+            </sp>
+            <sp>
+               <speaker>SALLY.</speaker>
+               <p>And I a maid—</p>
+            </sp>
+            <sp>
+               <speaker>RICHARD.</speaker>
+               <l>Welcome my lovely Sally;—why so sad?</l>
+               <l>Beauty and youth shou'd be for ever glad.</l>
+            </sp>
+            <sp>
+               <speaker>WIFE.</speaker>
+               <l>Yes, but our friends will one and all forsake us,</l>
+               <l>And now we've nothing left but this poor bake-house.</l>
+               <l>My husband voted wrong.</l>
+            </sp>
+            <sp>
+               <speaker>RICHARD.</speaker>
+               <l>He acted right.</l>
+               <l>True to his Trust, his conduct seems more bright:</l>
+               <l>Unaw'd, unbiass'd, he preserves his fame,</l>
+               <l>
+                  <pb n="9" facs="12"/>Would every Englishman could say the same:—</l>
+               <l>Sir <hi>Courtly</hi> was my friend, to him I owe</l>
+               <l>The little fortune which I offer now,</l>
+               <l>To aid his cause with warmth, to take his part,</l>
+               <l>Duty and Gratitude impell'd my heart;</l>
+               <l>But Gratitude nor Duty bid condemn</l>
+               <l>That Honour which so often springs from them.</l>
+               <l>Your father's merit sets him up to view,</l>
+               <l>And more enhances my esteem for you.</l>
+            </sp>
+            <sp>
+               <lg type="song">
+                  <head>SONG.</head>
+                  <lg>
+                     <l>Ah! let it ne'er with truth be said,</l>
+                     <l>That public Virtue droops her head;</l>
+                     <l>That English Faith should luckless prove,</l>
+                     <l>Or cross one English Virgin's love.</l>
+                  </lg>
+                  <lg>
+                     <l>If in my Sally's youthful heart,</l>
+                     <l>Her Richard e'er may claim a part,</l>
+                     <l>This happy hour shall smiling prove</l>
+                     <l>That Honour firmly fixes Love.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <stage>Enter JOHN.</stage>
+            <sp>
+               <l>Well friends, the poll is over—all is done,</l>
+               <l>Sir <hi>Courtly</hi> has thrown up, and we have won.</l>
+               <l>
+                  <stage>(<hi>To Richard</hi>)</stage> I wish I could have granted your request,</l>
+               <l>But Conscience bade me vote as I thought best.</l>
+            </sp>
+            <sp>
+               <pb n="10" facs="13"/>
+               <speaker>RICHARD.</speaker>
+               <l>Pray no excuses—we may yet be friends:</l>
+               <l>Give me your daughter, and our quarrel ends:</l>
+               <l>Happy to win the favour, if I can,</l>
+               <l>And boast th' alliance of so just a man.</l>
+            </sp>
+            <sp>
+               <speaker>JOHN.</speaker>
+               <l>Take her, she's freely your's, and may you find</l>
+               <l>For want of fortune, treasures in her mind.—</l>
+               <l>But other subjects claim the present hour;</l>
+               <l>When conqu'ring Freedom tramples abject pow'r;</l>
+               <l>E'er now the Sons of Liberty rejoice,</l>
+               <l>And chearful hail the Hero of their choice.</l>
+            </sp>
+            <sp>
+               <lg type="quartet">
+                  <head>QUARTETTO.</head>
+                  <lg>
+                     <stage>JOHN and CHORUS.</stage>
+                     <l>Come, then, let us hasten all,</l>
+                     <l>To greet the glorious festival.</l>
+                  </lg>
+                  <lg>
+                     <stage>JOHN solo.</stage>
+                     <l>For what to a Briton so grateful can be,</l>
+                     <l>As the triumph of Freedom and Virtue to see?—</l>
+                  </lg>
+                  <lg>
+                     <pb n="11" facs="14"/>
+                     <stage>CHORUS.</stage>
+                     <l>Come, then, let us, &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <stage>WIFE.</stage>
+                     <l>Since my daughter will be married,</l>
+                     <l>What care I who has miscarried.—</l>
+                  </lg>
+                  <lg>
+                     <stage>CHORUS.</stage>
+                     <l>Come, then, let us, &amp;c.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <lg type="duet">
+                  <head>DUET.</head>
+                  <stage>RICHARD and SALLY.</stage>
+                  <l>With joy my freedom I resign,</l>
+                  <l>To call my lovely Sally mine,</l>
+                  <l>And she, thro' every scene of life,</l>
+                  <l>Will prove the fond and faithful wife.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="12" facs="15"/>
+               <lg type="song">
+                  <stage>SONG and CHORUS.</stage>
+                  <stage>(A shouting, &amp;c. is heard repeatedly.)</stage>
+                  <l>Hark, hark, hark!—the loud huzza!</l>
+                  <l>Come, come, come, come come away:</l>
+                  <l>Let each Briton now be gay,</l>
+                  <l>This is Britain's holiday!</l>
+               </lg>
+               <stage>[Exeunt.</stage>
+            </sp>
+            <stage>The Scene draws, and discovers the principal street of a market-town crouded with people of all denominations; the Member is chaired, and brought to the Front of the Stage.</stage>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <l>Trusty for ever!</l>
+               <stage>(TRUSTY bowing)</stage>
+               <l>I thank ye for your favour;</l>
+               <l>And 'tis my resolution,</l>
+               <l>To guard the Constitution.</l>
+            </sp>
+            <sp>
+               <pb n="13" facs="16"/>
+               <speaker>CHORUS.</speaker>
+               <p>Trusty for ever, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>TRUSTY.</speaker>
+               <l>I thank ye for your favour,</l>
+               <l>To you I will resign,</l>
+               <l>Your pleasure shall be mine.</l>
+            </sp>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <p>Trusty for ever, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>TRUSTY.</speaker>
+               <l>I thank ye for your favour,</l>
+               <l>Thro' life I will support the interest of the nation,</l>
+               <l>Still bound by inclination,</l>
+               <l>To this noble Corporation.</l>
+            </sp>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <p>Trusty for ever—huzza! &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>TRUSTY.</speaker>
+               <p>I thank you for your favour—huzza! &amp;c.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

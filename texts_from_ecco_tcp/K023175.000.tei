@@ -1,0 +1,520 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One thousand seven hundred and thirty eight. Dialogue II. By Mr. Pope:</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023175.000</idno>
+            <idno type="docno">CW3311252252</idno>
+            <idno type="ecll">0277200200</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One thousand seven hundred and thirty eight. Dialogue II. By Mr. Pope:</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>16p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>Dublin :</pubPlace>
+                  <publisher>printed by R. Reilly. For G. Risk, G. Ewing, W. Smith, and G. Faulkner,</publisher>
+                  <date>1738.</date>
+                  <idno type="TCP">K023175.000</idno>
+                  <idno type="docno">CW3311252252</idno>
+                  <idno type="ecll">0277200200</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P940</note>
+                  <note>Griffith, 496</note>
+                  <note>English Short Title Catalog, ESTCT5725.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>ONE THOUSAND
+SEVEN HUNDRED
+AND
+THIRTY EIGHT.</p>
+            <p>DIALOGUE II.</p>
+            <p>By Mr. <hi>POPE.</hi>
+            </p>
+            <p>
+               <hi>DUBLIN:</hi>
+Printed by R. REILLY. For G. RISK, G. EWING, W. SMITH, and
+G. FAULKNER, Booksellers. MDCCXXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="2"/>
+            <head>ONE THOUSAND
+SEVEN HUNDRED
+AND
+THIRTY EIGHT.</head>
+            <head>DIALOGUE II.</head>
+            <lg>
+               <l>
+                  <hi>A.</hi> TIS IS all a Libel—<hi>P<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>xt<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n</hi> (Sir) will say.</l>
+               <l>
+                  <hi>B.</hi> Not' yet, my Friend! to-morrow
+'faith it may;</l>
+               <l>And for that very cause I print to day.</l>
+               <l>How shou'd I fret, to mangle ev'ry line,</l>
+               <l>In rev'rence to the Sins of <hi>Thirty-nine!</hi>
+               </l>
+               <l>Vice with such Giant-strides comes on amain,</l>
+               <l>Invention strives to be before in vain;</l>
+               <l>Feign what I will, and paint it e'er so strong,</l>
+               <l>Some rising Genius sins up to my Song.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="3"/>
+               <l>
+                  <hi>A.</hi> Yet none but you by Name the Guilty lash;</l>
+               <l>Ev'n <note place="bottom" n="*">The Ordinary of <hi>Newgate,</hi> who publishes the Memoirs of the Malefactors</note>
+                  <hi>Guthry</hi> saves half <hi>Newgate</hi> by a Dash.</l>
+               <l>Spare then the Person, and expose the Vice.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> How Sir! not damn the Sharper, but the Dice?</l>
+               <l>Come on then Satire! gen'ral, unconfin'd,</l>
+               <l>Spread thy broad wing, and sowze on all the Kind.</l>
+               <l>Ye Statesmen, Priests, of one Religion all!</l>
+               <l>Ye Tradesmen vile, in Army, Court, or Hall!</l>
+               <l>Ye Rev'rend Atheists!</l>
+               <l>
+                  <hi>A.</hi> Scandal! name them, Who?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> Why that's the thing you bid me not to do.</l>
+               <l>Who starv'd a Mother, who forswore a Debt,</l>
+               <l>I never nam'd—the Town's enquiring yet.</l>
+               <l>The pois'ning Dame—<hi>A.</hi> You mean—<hi>B.</hi> I don't. <hi>A.</hi> You do.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> See! now I keep the Secret, and not you.</l>
+               <l>The bribing Statesman—<hi>A.</hi> Hold! too high you go.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> The brib'd Elector—<hi>A.</hi> There you stoop too low.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> I fain wou'd please you, if I knew with what:</l>
+               <l>Tell me, which Knave is lawful Game, which not?</l>
+               <l>Must great Offenders, once escap'd the Crown,</l>
+               <l>Like Loyal Harts, be never more run down?</l>
+               <l>
+                  <pb n="5" facs="4"/>
+Admit your Law to spare the Knight requires;</l>
+               <l>As Beasts of Nature may we hunt the Squires?</l>
+               <l>Suppose I censure—you know what I mean—</l>
+               <l>To save a Bishop, may I name a Dean?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A.</hi> A Dean, Sir? no: his Fortune is not made,</l>
+               <l>You hurt a man that's rising in the Trade.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> If not the Tradesman who sets up to day,</l>
+               <l>Much less the 'Prentice who to morrow may.</l>
+               <l>Down, down, proud Satire! tho' a Land be spoil'd,</l>
+               <l>Arraign no mightier Thief than wretched <note place="bottom" n="*">Jonathan Wild.</note>
+                  <hi>Wild,</hi>
+               </l>
+               <l>Or if a Court or Country's made a Job,</l>
+               <l>Go drench a Pick-pocket, and join the Mob.</l>
+            </lg>
+            <lg>
+               <l>But Sir, I beg you, for the Love of Vice!</l>
+               <l>The matter's weighty, pray consider twice:</l>
+               <l>Have you less Pity for the needy Cheat,</l>
+               <l>The poor and friendless Villian, than the Great?</l>
+               <l>Alas! the small Discredit of a Bribe</l>
+               <l>Scarce hurts the Lawyer, but undoes the Scribe.</l>
+               <l>Then better sure it Charity becomes,</l>
+               <l>To tax Directors, who (thank God) have Plums;</l>
+               <l>Still better, Ministers; or if the thing</l>
+               <l>May pinch ev'n there—why lay it on a King.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="5"/>
+               <l>
+                  <hi>A.</hi> Stop! stop!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> Must Satire, then, nor <hi>rise,</hi> nor <hi>fall</hi>?</l>
+               <l>Speak out, and bid me blame no Rogues at all.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A.</hi> Yes, strike that <hi>Wild,</hi> I'll justify the blow.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> Strike? why the man was hang'd ten years ago:</l>
+               <l>Who now that obsolete Example fears?</l>
+               <l>Ev'n <hi>Peter</hi> trembles only for his Ears.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A.</hi> What always <hi>Peter? Peter</hi> thinks you mad,</l>
+               <l>You make men desp'rate if they once are bad:</l>
+               <l>Else might he take to Virtue some years hence—</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> As <hi>S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>k,</hi> if he lives, will love the PRINCE.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A.</hi> Strange spleen to <hi>S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>k</hi>!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> Do I wrong the Man?</l>
+               <l>God knows, I praise a Courtier where I can.</l>
+               <l>When I confess, there <hi>is</hi> who feels for Fame,</l>
+               <l>And melts to Goodness, need I SCARBROW name?</l>
+               <l>Pleas'd let me own, in <hi>Esher</hi>'s peaceful Grove<note place="bottom" n="*">The House and Gardens of <hi>Esher</hi> in <hi>Surry,</hi> design'd by Mr. <hi>Kent.</hi>
+                  </note>
+               </l>
+               <l>(Where <hi>Kent</hi> and Nature vye for PELHAM's Love)</l>
+               <l>The Scene, the Master, opening to my view,</l>
+               <l>I fit and dream I see my CRAGS anew!</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="6"/>
+               <l>Ev'n in a Bishop I can spy Desert;</l>
+               <l>
+                  <hi>Secker</hi> is decent, <hi>Rundel</hi> has a Heart,</l>
+               <l>Manners with Candour are to <hi>Benson</hi> giv'n,</l>
+               <l>To <hi>Berkley,</hi> ev'ry Virtue under Heav'n.</l>
+            </lg>
+            <lg>
+               <l>But does the Court a worthy Man remove?</l>
+               <l>That instant, I declare he has my Love:</l>
+               <l>I shun his Zenith, court his mild decline;</l>
+               <l>Thus SOMMERS once, and HALIFAX were mine.</l>
+               <l>Oft in the clear, still Mirrour of Retreat,</l>
+               <l>I study'd SHREWSBURY, the wise and great:</l>
+               <l>CARLETON's calm Sense, and STANHOPE's noble Flame</l>
+               <l>Compar'd, and knew their gen'rous End the same:</l>
+               <l>How pleasing ATTERBURY's softer hour!</l>
+               <l>How shin'd the Soul, unconquer'd in the Tow'r!</l>
+               <l>How can I PULT'NEY, CHESTERFIELD forget,</l>
+               <l>While <hi>Roman</hi> Spirit charms, and <hi>Attic</hi> Wit:</l>
+               <l>ARGYLE, the States whole Thunder born to wield,</l>
+               <l>And shake alike the Senate and the Field:</l>
+               <l>Or WYNDHAM, arm'd for Freedom and the Throne,</l>
+               <l>The Master of our Passions, and his own.</l>
+               <l>
+                  <pb n="8" facs="7"/>
+Names, which I long have lov'd, nor lov'd in vain,</l>
+               <l>Rank'd with their Friends, not number'd with their Train;</l>
+               <l>And if yet higher the proud List should end,</l>
+               <l>Still let me say! No Follower, but a Friend.</l>
+            </lg>
+            <lg>
+               <l>Yet think not Friendship only prompts my Lays;</l>
+               <l>I follow <hi>Virtue,</hi> where she shines, I praise,</l>
+               <l>Point she to Priest or Elder, Whig or Tory,</l>
+               <l>Or round a Quaker's Beaver cast a Glory.</l>
+               <l>I never (to my sorrow I declare)</l>
+               <l>Din'd with the MAN of ROSS, or my <note place="bottom" n="*">Sir John Barnard.</note>LORD MAY'R.</l>
+               <l>Some, in their choice of Friends (nay, look not grave)</l>
+               <l>Have still a secret Byass to a Knave:</l>
+               <l>To find an honest man, I beat about,</l>
+               <l>And love him, court him, praise him, in or out.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A.</hi> Then why so few commended?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> Not so fierce;</l>
+               <l>Find you the Virtue, and I'll find the Verse.</l>
+               <l>But random Praise—the Task can ne'er be done,</l>
+               <l>Each Mother asks it for her Booby Son,</l>
+               <l>
+                  <pb n="9" facs="8"/>
+Each Widow asks it for the Best of Men,</l>
+               <l>For him she weeps, and him she weds again.</l>
+               <l>Praise cannot stoop, like Satire, to the Ground;</l>
+               <l>The Number may be hang'd, but not be crown'd.</l>
+               <l>Enough for half the Greatest of these days</l>
+               <l>To 'scape my Censure, not expect my Praise:</l>
+               <l>Are they not rich? what more can they pretend?</l>
+               <l>Dare they to hope a Poet for their Friend?</l>
+               <l>What <hi>Richlieu</hi> wanted, <hi>Louis</hi> scarce could gain,</l>
+               <l>And what young <hi>Ammon</hi> wish'd, but wish'd in vain.</l>
+               <l>No Pow'r the Muse's Friendship can command;</l>
+               <l>No Pow'r, when Virtue claims it, can withstand:</l>
+               <l>To <hi>Cato, Virgil</hi> pay'd one honest line;</l>
+               <l>O let my Country's Friends illumin mine!</l>
+               <l>—What are you thinking? <hi>A.</hi> Faith, the thought's no Sin,</l>
+               <l>I think your Friends are out, and would be in.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> If merely to come in, Sir, they go out,</l>
+               <l>The way they take is strangely round about.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A.</hi> They too may be corrupted, you'll allow?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> I only call those Knaves, who are so now▪</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="9"/>
+               <l>Is that too little? Come then, I'll comply—</l>
+               <l>Spirit of <hi>Arnall!</hi> aid me while I lye.</l>
+               <l>
+                  <hi>Cobbam</hi>'s a Coward, <hi>Polwarth</hi> is a Slave,</l>
+               <l>And <hi>Lyttleton</hi> a dark, designing Knave,</l>
+               <l>St. <hi>John</hi> has ever been a wealthy Fool—</l>
+               <l>But let me add, Sir <hi>Robert</hi>'s mighty dull,</l>
+               <l>Has never made a Friend in private life,</l>
+               <l>And was, besides, a Tyrant to his Wife.</l>
+            </lg>
+            <lg>
+               <l>But pray, when others praise him, do I blame?</l>
+               <l>Call <hi>Clodius, Wolsey,</hi> any odious name?</l>
+               <l>Why rail they then, if but a Wreath of mine</l>
+               <l>Oh All-accomplish'd St. <hi>John!</hi> deck thy Shrine?</l>
+            </lg>
+            <lg>
+               <l>What? shall each spur-gall'd Hackney of the Day,</l>
+               <l>When <hi>Pax<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n</hi> gives him double Pots and Pay,</l>
+               <l>Or each new-pension'd Sycophant, pretend</l>
+               <l>To break my Windows, if I treat a Friend;</l>
+               <l>Then wisely plead, to me they meant no hurt,</l>
+               <l>But 'twas my Guest at whom they threw the dirt?</l>
+               <l>Sure, if I spare the Minister, no rules</l>
+               <l>Of Honour bind me, not to maul his Tools;</l>
+               <l>
+                  <pb n="11" facs="10"/>
+Sure, if they cannot cut, it may be said</l>
+               <l>His saws are toothless, and his Hatchets Lead.</l>
+            </lg>
+            <lg>
+               <l>It anger'd <hi>Turenne,</hi> once upon a day,</l>
+               <l>To see a Footman kick'd that took his pay:</l>
+               <l>But when he heard th'Affront the Fellow gave,</l>
+               <l>Knew one a Man of Honour, one a Knave;</l>
+               <l>The prudent Gen'ral turn'd it to a jest,</l>
+               <l>And begg'd, he'd take the pains to kick the rest.</l>
+               <l>Which not at present having time to do—</l>
+               <l>
+                  <hi>A.</hi> Hold Sir! for God's sake, where's th' Affront to you?</l>
+               <l>Against your worship what has <hi>S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>k</hi> writ?</l>
+               <l>When did <hi>Ty<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l</hi> hurt you with his Wit?</l>
+               <l>Or grant, the Bard whose Distich all commend,</l>
+               <l>[<hi>In Pow'r a Servant, out of Pow'r a Friend.</hi>]</l>
+               <l>To <hi>W<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>le</hi> guilty of some venial Sin,</l>
+               <l>What's that to you, who ne'er was out nor in?</l>
+            </lg>
+            <lg>
+               <l>The Priest whose Flattery be-dropt the Crown,</l>
+               <l>How hurt he you? he only stain'd the Gown.</l>
+               <l>And how did, pray the Florid Youth offend,</l>
+               <l>Whose Speech you took, and gave it to a Friend?</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="11"/>
+               <l>
+                  <hi>B.</hi> Faith it imports not much from whom it came;</l>
+               <l>Whoever borrow'd, could not be to blame,</l>
+               <l>Since the whole House did afterwards the same:</l>
+               <l>Let Courtly Wits to Wits afford supply,</l>
+               <l>As Hog to Hog in Huts of <hi>Westphaly</hi>;</l>
+               <l>If one, thro' Nature's Bounty or his Lord's,</l>
+               <l>Has what the frugal, dirty soil affords,</l>
+               <l>From him the next receives it, thick or thin,</l>
+               <l>As pure a Mess almost as it came in;</l>
+               <l>The blessed Benefit, not there confin'd,</l>
+               <l>Drops to the third who nuzzles close behind;</l>
+               <l>From tail to mouth, they feed, and they carouse;</l>
+               <l>The last, full fairly gives it to the <hi>House.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A.</hi> This filthy Simile, this beastly Line,</l>
+               <l>Quite turns my Stomach—<hi>B.</hi> So does Flatt'ry mine;</l>
+               <l>And all your Courtly Civet-Cats can vent,</l>
+               <l>Perfume to you, to me is Excrement.</l>
+            </lg>
+            <lg>
+               <l>But hear me further—<hi>Japhet,</hi> 'tis agreed,</l>
+               <l>Writ not, and <hi>Chartres</hi> scarce could write or read,</l>
+               <l>In all the Courts of <hi>Pindus</hi> guiltless quite:</l>
+               <l>But Pens can sorge, my Friend, that cannot write.</l>
+               <l>
+                  <pb n="13" facs="12"/>
+And must no Egg in <hi>Japhet</hi>'s Face be thrown,</l>
+               <l>Because the Deed he forg'd was not my own?</l>
+               <l>Must never Patriot then declaim at Gin,</l>
+               <l>Unless, good man! he has been fairly in?</l>
+               <l>No zealous Pastor blame a failing Spouse,</l>
+               <l>Without a staring Reason on his Brows?</l>
+               <l>And each Blasphemer quite escape the Rod,</l>
+               <l>Because the insult's not on Man, but God?</l>
+            </lg>
+            <lg>
+               <l>Ask you what Provocation I have had?</l>
+               <l>The strong Antipathy of Good to Bad.</l>
+               <l>When Truth or Virtue an Affront endures,</l>
+               <l>Th' Affront is mine, my Friend, and should be yours.</l>
+               <l>Mine, as a Foe profess'd to false Pretence,</l>
+               <l>Who think a Coxcomb's Honour like his Sense;</l>
+               <l>Mine, as a Friend to ev'ry worthy mind;</l>
+               <l>And mine as Man, who feel for all mankind.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A.</hi> You're strangely proud.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>B.</hi> So proud, I am no Slave;</l>
+               <l>So impudent, I own myself no Knave:</l>
+               <l>So odd, my Country's Ruin makes me grave.</l>
+               <l>
+                  <pb n="14" facs="13"/>
+Yes, I am proud; I must be proud to see</l>
+               <l>Men not afraid of God, afraid of me:</l>
+               <l>Safe from the Bar, the Pulpit, and the Throne,</l>
+               <l>Yet touch'd and sham'd by <hi>Ridicule</hi> alone.</l>
+               <l>O sacred Weapon! left for Truth's defence,</l>
+               <l>Sole dread of Folly, Vice, and Insolence!</l>
+               <l>To all but Heav'n-directed hands deny'd,</l>
+               <l>The Muse may give thee, but the Gods must guide.</l>
+               <l>Rev'rent I touch thee! but with honest zeal;</l>
+               <l>To rowze the Watchmen of the Publick Weal,</l>
+               <l>To Virtue's Work provoke the tardy Hall,</l>
+               <l>And goad the Prelate slumb'ring in his Stall.</l>
+            </lg>
+            <lg>
+               <l>Ye tinsel Insects! whom a Court maintains,</l>
+               <l>That counts your Beauties only by your Stains,</l>
+               <l>Spin all your Cobwebs o'er the Eye of Day!</l>
+               <l>The Muse's wing shall brush you all away:</l>
+               <l>All his Grace preaches, all his Lordship sings,</l>
+               <l>All that makes Saints of Queens, and Gods of Kings,</l>
+               <l>All, all bat Truth, drops dead born from the Press,</l>
+               <l>Like the last Gazette, or the last Address.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="14"/>
+               <l>When black Ambition stains a Publick Cause,</l>
+               <l>A Monarch's sword when mad Vain-glory draws,</l>
+               <l>Not <hi>Waller</hi>'s Wreath can hide the Nation's Scar,</l>
+               <l>Nor <hi>Boileau</hi> turn the <note place="bottom" n="†">In his Ode on <hi>Namur</hi>; where (to use his own words) <hi>il a fait un Astre de la Plume blanche qui le Roy porte ordinairement a son Chapeau, &amp; qui est en effet une espece de Comete, fatale a nos enne<lb rend="hidden" type="hyphenInWord"/>mis.</hi>
+                  </note> Feather to a Star.</l>
+            </lg>
+            <lg>
+               <l>Not so, when diadem'd with Rays divine,</l>
+               <l>Touch'd with the Flame that breaks from <hi>Virtue</hi>'s Shrine,</l>
+               <l>Her Priestess Muse, forbids the Good to dye,</l>
+               <l>And ope's the Temple of Eternity;</l>
+               <l>There other <hi>Trophies</hi> deck the truly Brave,</l>
+               <l>Than such as <hi>Anstis</hi> casts into the Grave;</l>
+               <l>Far other <hi>Stars</hi> than * and * * wear,</l>
+               <l>And may descend to <hi>Mor<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ton</hi> from <hi>Stair:</hi>
+               </l>
+               <l>Such as on <note place="bottom" n="*">Dr. <hi>Hough</hi> Bishop of <hi>Worcester.</hi>
+                  </note>HOUGH's unsully'd Mitre shine,</l>
+               <l>Or beam, good DIGBY! from a Heart like thine.</l>
+               <l>Let Envy howl while Heav'ns whole Chorus sings,</l>
+               <l>And bark at Honour not conferr'd by Kings;</l>
+               <l>Let Flatt'ry sickening see the Incense rise,</l>
+               <l>Sweet to the World, and grateful to the Skies:</l>
+               <l>
+                  <pb n="16" facs="15"/>
+Truth guards the Poet, sanctifies the line,</l>
+               <l>And makes Immortal, Verse as mean as mine.</l>
+            </lg>
+            <lg>
+               <l>Yes, the last Pen for Freedom let me draw,</l>
+               <l>When Truth stands trembling on the edge of Law:</l>
+               <l>Here, Last of <hi>Briton's!</hi> let your Names be read;</l>
+               <l>Are none, none living? let me praise the Dead,</l>
+               <l>And for that Cause which made your Fathers shine,</l>
+               <l>Fall, by the Votes of their degen'rate Line!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A.</hi> Alas! alas! pray end what you began,</l>
+               <l>And write next winter more <hi>Essays</hi> on <hi>Man.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

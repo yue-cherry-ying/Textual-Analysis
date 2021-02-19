@@ -1,0 +1,1804 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amelia: A new English opera, as it is perform'd at the New Theatre in the Hay-Market, after the Italian manner. Set to musick by Mr. John Frederick Lampe.</title>
+            <author>Carey, Henry, 1687?-1743.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020979.000</idno>
+            <idno type="docno">CW3309712961</idno>
+            <idno type="ecll">0047500300</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Amelia: A new English opera, as it is perform'd at the New Theatre in the Hay-Market, after the Italian manner. Set to musick by Mr. John Frederick Lampe.</title>
+                  <author>Carey, Henry, 1687?-1743.</author>
+               </titleStmt>
+               <extent>[8],29,[3]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Watts,</publisher>
+                  <date>1732.</date>
+                  <idno type="TCP">K020979.000</idno>
+                  <idno type="docno">CW3309712961</idno>
+                  <idno type="ecll">0047500300</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Henry Carey.</note>
+                  <note>With a half-title and three final pages of advertisements.</note>
+                  <note>Microopaque copy lacks advertisements.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT1729.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>AMELIA. A New ENGLISH <hi>OPERA,</hi> As it is Perform'd at the NEW THEATRE in the HAY-MARKET, After the <hi>ITALIAN</hi> Manner. Set to MUSICK By Mr. <hi>JOHN FREDERICK LAMPE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for J. WATTS at the Printing-Office in <hi>Wild-Court</hi> near <hi>Lincoln's-Inn Fields.</hi> MDCCXXXII. [Price One Shilling.]</p>
+         </div>
+         <div type="argument">
+            <pb facs="2"/>
+            <head>THE ARGUMENT.</head>
+            <p>
+               <hi>CASIMIR,</hi> Prince and General of the <hi>Hungarian</hi> Army, being unfortunately defeated in a War between him and <hi>Osmyn</hi> Grand Visier of the <hi>Turks,</hi> is taken Prisoner. Upon the Arrival of this unhappy News, <hi>Ame<lb rend="hidden" type="hyphenInWord"/>lia, Casimir's</hi> Wife, resolves to try all possi<lb rend="hidden" type="hyphenInWord"/>ble Means to effect his Redemption; accord<lb rend="hidden" type="hyphenInWord"/>ingly she advises <hi>Rodulpho</hi> a young Prince, and an intimate Friend of <hi>Casimir,</hi> to dress himself in a <hi>Turkish</hi> Habit, and present her to <hi>Osmyn</hi> as a Captive taken by him, imagining that if she could be brought into the Presence of the Grand Visier, he would be so deeply cap<lb rend="hidden" type="hyphenInWord"/>tivated with her Beauty, that she could easily induce him to grant any Favour, upon a seem<lb rend="hidden" type="hyphenInWord"/>ing Condescension to any thing he should ask of her in return: With this View she is car<lb rend="hidden" type="hyphenInWord"/>ried to <hi>Osmyn,</hi> upon whom she had the In<lb rend="hidden" type="hyphenInWord"/>fluence
+<pb facs="3"/>
+she promis'd herself, and compleated the Redemption of her Husband. <hi>Amelia</hi> having thus successfully obtained her desired Ends, soon after meeting with a good Opportunity, when <hi>Osmyn</hi> was engaged in other Affairs, makes her Escape with <hi>Rodulpho</hi> by Night, and dis<lb rend="hidden" type="hyphenInWord"/>appoints the Grand Visier of his Expectation. <hi>Augusta, Casimir</hi>'s Sister, all this while mis<lb rend="hidden" type="hyphenInWord"/>sing <hi>Amelia,</hi> and <hi>Rodulpho</hi> her Lover, sup<lb rend="hidden" type="hyphenInWord"/>poses they are gone upon some vicious Design; and <hi>Casimir</hi> himself not finding them at home at his Return, concurs with her in the same Opinion, so that upon her coming back they meet with a Reception much contrary to what they might naturally hope for after so dange<lb rend="hidden" type="hyphenInWord"/>rous an Adventure, being both instantly put into Confinement: <hi>Amelia</hi> so highly resents this undeserved Usage, that she advises <hi>Rodul<lb rend="hidden" type="hyphenInWord"/>pho</hi> not to give <hi>Casimir</hi> any immediate Satis<lb rend="hidden" type="hyphenInWord"/>faction about their Undertakings; but <hi>Rodul<lb rend="hidden" type="hyphenInWord"/>pho</hi> finding that such a Delay would be of dangerous Consequence (a Day being already fix'd for their Execution) resolves to conceal it
+<pb facs="4"/>
+no longer, but in a Letter to <hi>Casimir</hi> gives a genuine Account of all their Proceedings, the Truth of which he is so well convinced of, that he is instantly reconciled to both his De<lb rend="hidden" type="hyphenInWord"/>liverers, and gives <hi>Augusta</hi> to <hi>Rodulpho</hi> in Marriage as a Gratuity for his extraordinary Friendship.</p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="5"/>
+            <head>Dramatis Personae.</head>
+            <list>
+               <head>MEN.</head>
+               <label>
+                  <hi>Osmyn,</hi> Grand Visier, Commānder of the <hi>Turks.</hi>
+               </label>
+               <item>Mr. <hi>Waltz.</hi>
+               </item>
+               <label>
+                  <hi>Casimir,</hi> Prince and General of the <hi>Hungarian</hi> Army.</label>
+               <item>Mr. <hi>Kelly.</hi>
+               </item>
+               <label>
+                  <hi>Rodulpho,</hi> his Friend, in Love with Augusta.</label>
+               <item>Mr. <hi>Snider.</hi>
+               </item>
+            </list>
+            <list>
+               <head>WOMEN.</head>
+               <label>
+                  <hi>Amelia,</hi> Wife of <hi>Casimir.</hi>
+               </label>
+               <item>Miss <hi>Arne.</hi>
+               </item>
+               <label>
+                  <hi>Augusta,</hi> Sister to <hi>Casimir,</hi> in Love with <hi>Rodulpho.</hi>
+               </label>
+               <item>Mrs. <hi>Mason.</hi>
+               </item>
+            </list>
+            <list>
+               <item>Officers, Guards, and Attendants, <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <stage>SCENE the Frontiers of <hi>Hungaria</hi> towards <hi>Turkey.</hi>
+            </stage>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="6"/>
+            <hi>AMELIA.</hi> A New ENGLISH OPERA.</head>
+         <div n="1" type="act">
+            <div n="1" type="scene">
+               <head>ACT I. SCENE I.</head>
+               <stage>SCENE, A spacious Country.</stage>
+               <sp>
+                  <stage>
+                     <hi>Osmyn</hi> at the Head of the <hi>Turkish</hi> Army.</stage>
+                  <l>
+                     <seg rend="decorInit">H</seg>ERE let the wearied Army rest awhile,</l>
+                  <l>That ere we farther march,</l>
+                  <l>We may have time sedately to consult</l>
+                  <l>The Measures necessary to be taken</l>
+                  <l>To make the <hi>Turks</hi> victorious;</l>
+                  <l>Then nought remains, but with undaunted Courage</l>
+                  <l>To prosecute our Scheme.</l>
+                  <lg>
+                     <l>
+                        <hi>What Toil! what Danger! and what Care!</hi>
+                     </l>
+                     <l>
+                        <hi>To Glory lead the Way:</hi>
+                     </l>
+                     <l>
+                        <hi>Commanded by the God of War,</hi>
+                     </l>
+                     <l>
+                        <hi>The Brave with Joy obey.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <pb n="2" facs="7"/>
+               <head>SCENE II.</head>
+               <stage>A Court before <hi>Casimir</hi>'s Palace.</stage>
+               <stage>
+                  <hi>Casimir, Amelia, Augusta,</hi> and <hi>Rodulpho.</hi>
+               </stage>
+               <sp>
+                  <stage>
+                     <hi>Amelia</hi> to <hi>Casimir.</hi>
+                  </stage>
+                  <lg>
+                     <l>
+                        <hi>O let me die, while yet I see</hi>
+                     </l>
+                     <l>
+                        <hi>The Comfort of my Heart;</hi>
+                     </l>
+                     <l>
+                        <hi>For worse than instant Death 'twill be</hi>
+                     </l>
+                     <l>
+                        <hi>From thee, my Love, to part.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Casim.</speaker>
+                  <l>Weep not, <hi>Amelia,</hi>
+                  </l>
+                  <l>My Country's Safety loudly calls me hence,</l>
+                  <l>And I must now inevitably leave thee:</l>
+                  <l>How can these Eyes behold <hi>Hungaria</hi> ravag'd</l>
+                  <l>By bold invading <hi>Turks?</hi>
+                  </l>
+                  <l>No, Heaven is Guardian of our righteous Cause,</l>
+                  <l>And <hi>Casimir</hi> its Instrument of Vengeance.</l>
+                  <l>Farewel, my Dear, till Conquest brings me back,</l>
+                  <l>To lay my Laurels at <hi>Amelia</hi>'s Feet.</l>
+                  <l>
+                     <stage>[To <hi>Rod.</hi>]</stage> 
+                     <hi>Rodulpho!</hi> I intrust thee with a Charge</l>
+                  <l>Dearer to me than all terrestrial Blessings,</l>
+                  <l>My Sister, and my Wife:</l>
+                  <l>Attest your Friendship by a faithful Care.</l>
+                  <l>Once more farewel, my Friend and Sister;</l>
+                  <l>And oh my dearest Wife! farewel.</l>
+                  <lg>
+                     <l>
+                        <hi>What Heart can help bleeding, my Charmer!</hi>
+                     </l>
+                     <l>
+                        <hi>To leave one so virtuous and fair;</hi>
+                     </l>
+                     <l>
+                        <hi>Sure Heav'n will let nothing alarm her,</hi>
+                     </l>
+                     <l>
+                        <hi>But make her, for my sake, its Care.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exeunt <hi>Casimir</hi> and <hi>Amelia</hi> different ways.</stage>
+               </sp>
+            </div>
+            <div n="3" type="scene">
+               <pb n="3" facs="8"/>
+               <head>SCENE III.</head>
+               <stage>
+                  <hi>Augusta</hi> and <hi>Rodulpho.</hi>
+               </stage>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Oh what a dismal Day is this, <hi>Rodulpho!</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Despair not, Princess, of your Brother's Safety;</l>
+                  <l>Am not I almost equally concern'd?</l>
+                  <l>To <hi>Casimir</hi> my Friendship is so great,</l>
+                  <l>That, but for your dear Sake,</l>
+                  <l>Arm'd by his Side with Pleasure would I march</l>
+                  <l>To shield him, and to share with him the Danger.</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Are you already weary of your Charge?</l>
+                  <l>Go, follow him, it is not yet too late,</l>
+                  <l>I need not your Protection.</l>
+                  <lg>
+                     <l>
+                        <hi>Leave me, leave me,</hi>
+                     </l>
+                     <l>
+                        <hi>Don't deceive me:</hi>
+                     </l>
+                     <l>
+                        <hi>Faithless Lover!</hi>
+                     </l>
+                     <l>
+                        <hi>I discover</hi>
+                     </l>
+                     <l>
+                        <hi>That another has your Heart.</hi>
+                     </l>
+                     <l>
+                        <hi>All your Smiling</hi>
+                     </l>
+                     <l>
+                        <hi>Is beguiling,</hi>
+                     </l>
+                     <l>
+                        <hi>All your Passion</hi>
+                     </l>
+                     <l>
+                        <hi>Affectation,</hi>
+                     </l>
+                     <l>
+                        <hi>Go, I see through all your Art.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>You wrong me, fair <hi>Augusta;</hi>
+                  </l>
+                  <l>Can you condemn my real Friendship</l>
+                  <l>To him, whom you so dearly value?</l>
+                  <l>You are the only one of all the Sex</l>
+                  <pb n="2" facs="9"/>
+                  <gap extent="1 page" rend="content:〈1 page duplicate〉">
+                     <desc>duplicate</desc>
+                  </gap>
+                  <pb n="3" facs="10"/>
+                  <gap extent="1 page" rend="content:〈1 page duplicate〉">
+                     <desc>duplicate</desc>
+                  </gap>
+                  <l>
+                     <pb n="4" facs="11"/>
+That ever gain'd my Heart:</l>
+                  <l>Why would you then torment me thus,</l>
+                  <l>And wound me with such undeserv'd Reproaches?</l>
+                  <lg>
+                     <l>
+                        <hi>Friendship, Glory, I disdain,</hi>
+                     </l>
+                     <l>
+                        <hi>Thee, my Charmer, to obtain:</hi>
+                     </l>
+                     <l>
+                        <hi>Who can other Beauties prize</hi>
+                     </l>
+                     <l>
+                        <hi>That has seen those conqu'ring Eyes?</hi>
+                     </l>
+                     <l>
+                        <hi>Wrong not then my Flame sincere,</hi>
+                     </l>
+                     <l>
+                        <hi>By Suspicion too severe,</hi>
+                     </l>
+                     <l>
+                        <hi>Since 'tis past all Pow'r to move</hi>
+                     </l>
+                     <l>
+                        <hi>The Ardour of my constant Love.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <head>SCENE IV.</head>
+               <stage>A Prospect of the <hi>Turkish</hi> Camp.</stage>
+               <stage>
+                  <hi>Osmyn,</hi> Officers, Guards, and Attendants.</stage>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>Be this the Day appointed</l>
+                  <l>To rush with Fury on our Christian Foes.</l>
+                  <l>Now, now, my Mussulmen, exert your Courage;</l>
+                  <l>Those, who in this Engagement fall,</l>
+                  <l>Will be abundantly rewarded</l>
+                  <l>With the eternal Joys of Paradise:</l>
+                  <l>The rest with Spoil and Conquest will return.</l>
+                  <l>Inseparable Blessings thus attend us,</l>
+                  <l>Whether we live or die,</l>
+                  <l>We're sure of Happiness.</l>
+                  <lg>
+                     <l>
+                        <hi>I'll destroy the proud Foe in his Glory,</hi>
+                     </l>
+                     <l>
+                        <hi>From our Presence he shall fly,</hi>
+                     </l>
+                     <l>
+                        <hi>For I'll conquer or die,</hi>
+                     </l>
+                     <l>
+                        <hi>To dubious Fear I am a Stranger:</hi>
+                     </l>
+                     <l>
+                        <pb n="5" facs="12"/>
+                        <hi>Let all be so brave, that the Story</hi>
+                     </l>
+                     <l>
+                        <hi>May be noted by Fame,</hi>
+                     </l>
+                     <l>
+                        <hi>From the</hi> Ganges <hi>to</hi> Thame,</l>
+                     <l>
+                        <hi>And equal the Height of our Danger.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="5" type="scene">
+               <head>SCENE V.</head>
+               <stage>
+                  <hi>Rodulpho</hi> and <hi>Amelia.</hi>
+               </stage>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Oh Princess! why this solemn Face of Mourning?</l>
+                  <l>Provoke not Providence by your Distrust;</l>
+                  <l>'Tis time enough to grieve when there's Occasion.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>I feel a secret Boding in my Soul,</l>
+                  <l>A thousand dismal Apprehensions</l>
+                  <l>By turns torment, and rob me of my Rest.</l>
+                  <lg>
+                     <l>
+                        <hi>Distracting Fears,</hi>
+                     </l>
+                     <l>
+                        <hi>Tormenting Cares,</hi>
+                     </l>
+                     <l>
+                        <hi>Perplex my doubtful Mind;</hi>
+                     </l>
+                     <l>
+                        <hi>Till his Return,</hi>
+                     </l>
+                     <l>
+                        <hi>For whom I mourn,</hi>
+                     </l>
+                     <l>
+                        <hi>No Pleasure can I find.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Rod. [to <hi>Amel.</hi>]</speaker>
+                  <l> Stop this Effusion of your Tears, my Princess!</l>
+                  <l>Your Hope for <hi>Casimir</hi>'s good Success</l>
+                  <l>Should over-weigh the Balance of your Grief.</l>
+               </sp>
+               <stage>Enter <hi>Augusta,</hi> behind.</stage>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>So close! so kind!</l>
+                  <l>'Tis proper to observe them.</l>
+               </sp>
+               <sp>
+                  <pb n="6" facs="13"/>
+                  <speaker>Amel.</speaker>
+                  <l>
+                     <hi>Rodulpho!</hi> Well I know your hearty Wishes,</l>
+                  <l>But still the Immenseness of my Passion</l>
+                  <l>Extends to a far greater Pitch,</l>
+                  <l>Than you can think, or I express.</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>So very fond! confound her, O ye Gods!</l>
+                  <l>Rodulpho <hi>to</hi> Amelia.</l>
+                  <l>
+                     <hi>Oh let not Fears,</hi>
+                  </l>
+                  <l>
+                     <hi>Or anxious Cares,</hi>
+                  </l>
+                  <l>
+                     <hi>The fair</hi> Amelia <hi>discontent;</hi>
+                  </l>
+                  <l>
+                     <hi>For soon we may</hi>
+                  </l>
+                  <l>
+                     <hi>Expect the Day,</hi>
+                  </l>
+                  <l>
+                     <hi>Which shall our mutual Joy cement.</hi>
+                  </l>
+                  <stage>[Exeunt <hi>Rod.</hi> and <hi>Amel.</hi>
+                  </stage>
+               </sp>
+            </div>
+            <div n="6" type="scene">
+               <head>SCENE VI.</head>
+               <sp>
+                  <stage>
+                     <hi>Augusta</hi> alone.</stage>
+                  <l>A faithful Friend!</l>
+                  <l>A chaste and virtuous Wife!</l>
+                  <l>Is this the Lover has so often vow'd</l>
+                  <l>Eternal Constancy to me?</l>
+                  <l>Is this the Wife so generally fam'd</l>
+                  <l>For exemplary Goodness?</l>
+                  <l>How is my Brother and my self abus'd!</l>
+                  <l>But he shall know, and I'll revenge their Infidelity.</l>
+                  <lg>
+                     <l>
+                        <hi>Vengeance! Vengeance! swift overtake 'em,</hi>
+                     </l>
+                     <l>
+                        <hi>May they never more be blest!</hi>
+                     </l>
+                     <l>
+                        <hi>May the Gods as wretched make them,</hi>
+                     </l>
+                     <l>
+                        <hi>As they've render'd me distress'd.</hi>
+                     </l>
+                     <l>
+                        <pb n="7" facs="14"/>
+                        <hi>Rise, ye fierce infernal Legions,</hi>
+                     </l>
+                     <l>
+                        <hi>From the dismal Shades below!</hi>
+                     </l>
+                     <l>
+                        <hi>Bear 'em to your darksome Regions,</hi>
+                     </l>
+                     <l>
+                        <hi>Plunge 'em deep in endless Woe.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exit.</stage>
+               </sp>
+            </div>
+            <div n="7" type="scene">
+               <head>SCENE VII.</head>
+               <stage>A Pavilion.</stage>
+               <stage>
+                  <hi>Osmyn,</hi> with Attendants.</stage>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>At length the Sultan's Arms</l>
+                  <l>Have prov'd triumphant,</l>
+                  <l>And Conquest is the Premium of our Courage.</l>
+                  <l>Bring forth the once renowned <hi>Casimir,</hi>
+                  </l>
+                  <l>Now <hi>Osmyn</hi>'s Captive, and the Sultan's Slave.</l>
+                  <stage>[<hi>Casimir</hi> enters in Chains.</stage>
+                  <l>Well, <hi>Casimir!</hi> you see the Fate of War</l>
+                  <l>Is now decided in our Favour;</l>
+                  <l>These Chains are not to be compar'd</l>
+                  <l>With the Severities I can inflict,</l>
+                  <l>Unless, upon the Terms I shall propose,</l>
+                  <l>You purchase your Redemption.</l>
+               </sp>
+               <sp>
+                  <speaker>Casim.</speaker>
+                  <l>
+                     <hi>Osmyn!</hi> I rather choose to die,</l>
+                  <l>Than on inglorious Terms to purchase Life,</l>
+                  <l>For Death is welcome after this Defeat.</l>
+               </sp>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>Christian! 'tis vain to hope immediate Death,</l>
+                  <l>For I'll consummate my Revenge</l>
+                  <l>By a Protraction of thy Misery:</l>
+                  <l>Were we to live the Series of an Age,</l>
+                  <l>My Vengeance then would be the more compleat.</l>
+                  <lg>
+                     <pb n="8" facs="15"/>
+                     <l>
+                        <hi>The Eagle with its Prey,</hi>
+                     </l>
+                     <l>
+                        <hi>Through Aether cuts his way,</hi>
+                     </l>
+                     <l>
+                        <hi>Retaining fast his trembling Prize;</hi>
+                     </l>
+                     <l>
+                        <hi>With a relentless Breast,</hi>
+                     </l>
+                     <l>
+                        <hi>He bears him to his Nest,</hi>
+                     </l>
+                     <l>
+                        <hi>And makes him there a Sacrifice.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="8" type="scene">
+               <head>SCENE VIII.</head>
+               <stage>A Room.</stage>
+               <stage>
+                  <hi>Amelia</hi> and <hi>Rodulpho.</hi>
+               </stage>
+               <stage>Enter Messenger with a Letter.</stage>
+               <sp>
+                  <speaker>Amel. [to <hi>Mess.</hi>]</speaker>
+                  <l> Let me not hear you speak,</l>
+                  <l>Your Looks at once declare</l>
+                  <l>That you're the Bearer of unwelcome News:</l>
+                  <l>Give me the Letter.</l>
+                  <stage>[Reads, and swoons, <hi>Rodulpho</hi> runs to her.</stage>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Dearest <hi>Amelia!</hi>
+                  </l>
+                  <l>Why this sudden Change?</l>
+               </sp>
+               <stage>Enter <hi>Augusta,</hi> aside.</stage>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>A very kind Embrace!</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>Give me the Letter, 'tis no doubt the last</l>
+                  <l>That I shall from my dearest Lord receive.</l>
+                  <lg>
+                     <l>
+                        <hi>Come, sad Companion of eternal Grief!</hi>
+                     </l>
+                     <l>
+                        <hi>Let Floods of Tears to Sorrow give Relief.</hi>
+                     </l>
+                     <l>
+                        <hi>I'll read and kiss thee all the tedious Day,</hi>
+                     </l>
+                     <l>
+                        <hi>And o'er thee weep till Sight is wept away.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exit <hi>Amel.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <pb n="9" facs="16"/>
+                  <speaker>Rod.</speaker>
+                  <l>Lovely <hi>Augusta,</hi> follow your sad Sister,</l>
+                  <l>And try to comfort her in this Affliction.</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>No.</l>
+                  <l>I have too many Sorrows of my own,</l>
+                  <l>You best can sooth her Anguish:</l>
+                  <l>Leave me to my self.</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>I cannot leave you thus.</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>I will be left, this is no time</l>
+                  <l>For idle Compliments.</l>
+                  <stage>[Exit <hi>Rodulpho.</hi>
+                  </stage>
+                  <lg>
+                     <l>
+                        <hi>That all succeeding Times</hi>
+                     </l>
+                     <l>
+                        <hi>May shun such monstrous Crimes,</hi>
+                     </l>
+                     <l>
+                        <hi>Ye Gods, exert your Power?</hi>
+                     </l>
+                     <l>
+                        <hi>On all who thus offend,</hi>
+                     </l>
+                     <l>
+                        <hi>Let fiery wrath descend</hi>
+                     </l>
+                     <l>
+                        <hi>In an unbounded Shower.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+            <trailer>The End of the First Act.</trailer>
+         </div>
+         <div n="2" type="act">
+            <pb facs="17"/>
+            <head>AMELIA.</head>
+            <div n="1" type="scene">
+               <head>ACT II. SCENE I.</head>
+               <stage>SCENE <hi>Osmyn</hi>'s Pavilion.</stage>
+               <stage>
+                  <hi>Casimir,</hi> chain'd at the Entry.</stage>
+               <stage>Enter <hi>Rodulpho</hi> in a <hi>Turkish</hi> Habit, with <hi>Ame<lb rend="hidden" type="hyphenInWord"/>lia,</hi> likewise disguised.</stage>
+               <sp>
+                  <speaker>RODULPHO.</speaker>
+                  <l>
+                     <seg rend="decorInit">T</seg>HUS far, dread Princess!</l>
+                  <l>I have with due Fidelity attended,</l>
+                  <l>Nor is there any Danger in this World,</l>
+                  <l>Thro' which I would not venture for your sake,</l>
+                  <l>Yet still deliberate once more with Caution</l>
+                  <l>The Perils of this Undertaking.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>No more Objections:</l>
+                  <l>
+                     <pb n="11" facs="18"/>
+I'm positive to follow my Intentions,</l>
+                  <l>Or join with me, or leave me to my self.</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>'Twas not on my Account, but yours,</l>
+                  <l>That I was first induc'd to offer</l>
+                  <l>The well-intended, ill-receiv'd Advice.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>
+                     <hi>Rodulpho!</hi> Well you know my sad Mis<lb rend="hidden" type="hyphenInWord"/>fortunes,</l>
+                  <l>I'm just distracted with a deep Despair;</l>
+                  <l>Can you not then excuse the harsh Expression?</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Behold yon Wretch that's grov'ling on the Ground.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>By all my Hopes of Happiness, my Hus<lb rend="hidden" type="hyphenInWord"/>band!</l>
+                  <stage>[<hi>Amelia</hi> running towards <hi>Casimir, Rodulpho</hi> withholding her.</stage>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>For Heaven's sake, be not preclpitate,</l>
+                  <l>This is no Season for Discovery.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>O <hi>Rodulpho!</hi> how can I behold him!</l>
+                  <l>And be prohibited from speaking to him.</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Observe you not a Party near approaching?</l>
+                  <l>We're ruin'd if suspected.</l>
+                  <lg>
+                     <l>
+                        <hi>So the gentle Turtle-Dove</hi>
+                     </l>
+                     <l>
+                        <hi>Bemoans her hapless Captive Love,</hi>
+                     </l>
+                     <l>
+                        <hi>When in the Fowler's Snare:</hi>
+                     </l>
+                     <l>
+                        <hi>She strives to free him, but in vain,</hi>
+                     </l>
+                     <l>
+                        <hi>And hovers round, and round again,</hi>
+                     </l>
+                     <l>
+                        <hi>Then drops, kill'd by Despair.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <pb n="12" facs="19"/>
+               <head>SCENE II.</head>
+               <stage>A Gallery.</stage>
+               <stage>
+                  <hi>Augusta,</hi> with Attendants.</stage>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>What, gone! impossible! it cannot be:</l>
+                  <l>To leave the Palace thus at Dead of Night:</l>
+                  <l>Oh false <hi>Rodulpho!</hi>
+                  </l>
+                  <l>Traitor to Friendship, Gratitude, and Love!</l>
+                  <l>But much more false <hi>Amelia!</hi>
+                  </l>
+                  <l>The faithless Spouse of a distressed Husband:</l>
+                  <l>This Conduct will imprint a greater Wound,</l>
+                  <l>Than his Defeat and Loss of Liberty.</l>
+                  <lg>
+                     <l>
+                        <hi>To see such Woes dear</hi> Casimir <hi>oppress,</hi>
+                     </l>
+                     <l>
+                        <hi>And slighted by a faithless Wife,</hi>
+                     </l>
+                     <l>
+                        <hi>Fills all my Soul with exquisite Distress,</hi>
+                     </l>
+                     <l>
+                        <hi>And makes me weary of this Life.</hi>
+                     </l>
+                     <l>
+                        <hi>But as an Instance of the cordial Love</hi>
+                     </l>
+                     <l>
+                        <hi>I to my injur'd Brother bear,</hi>
+                     </l>
+                     <l>
+                        <hi>I'll by th' immortal Pow'rs that rule above,</hi>
+                     </l>
+                     <l>
+                        <hi>To Justice bring the guilty Pair.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exit.</stage>
+               </sp>
+            </div>
+            <div n="3" type="scene">
+               <head>SCENE III.</head>
+               <stage>
+                  <hi>Osmyn's</hi> Pavilion. <hi>Casimir</hi> at the Entry, as before.</stage>
+               <stage>
+                  <hi>Osmyn, Rodulpho,</hi> and <hi>Amelia.</hi>
+               </stage>
+               <sp>
+                  <speaker>Osm. [to <hi>Rod.</hi>]</speaker>
+                  <l> Tell me, my Mussulman,</l>
+                  <l>By what happy Chance</l>
+                  <l>
+                     <pb n="13" facs="20"/>
+Thou didst obtain this matchless Beauty?</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>On an Escort for Forage near the City,</l>
+                  <l>I seiz'd this lovely Christian,</l>
+                  <l>By whose majestick Looks inspir'd with Awe,</l>
+                  <l>I made a solemn Vow to bring her spotless</l>
+                  <l>To the victorious <hi>Osmyn.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>This pleasing Instance of thy Loyalty</l>
+                  <l>Shall e'er be graciously remembred,</l>
+                  <l>And thou shalt always be our chief Attendant.</l>
+                  <l>
+                     <stage>[To <hi>Amel.</hi>]</stage> Say, beauteous Christian,</l>
+                  <l>Why thus in Sorrow droops that lovely Head?</l>
+                  <l>Thou art not fall'n into Barbarian Hands,</l>
+                  <l>Nor wilt thou find us hideous, as we're painted.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <lg>
+                     <l>
+                        <hi>The Youngling ravish'd from its Nest,</hi>
+                     </l>
+                     <l>
+                        <hi>Expos'd to Danger stands,</hi>
+                     </l>
+                     <l>
+                        <hi>But Joy soon warms its panting Breast,</hi>
+                     </l>
+                     <l>
+                        <hi>When fall'n in gentle Hands.</hi>
+                     </l>
+                     <l>
+                        <hi>Little, alas! did I believe</hi>
+                     </l>
+                     <l>
+                        <hi>My Life would be restor'd</hi>
+                     </l>
+                     <l>
+                        <hi>By your dread Pow'r, which most conceive</hi>
+                     </l>
+                     <l>
+                        <hi>Is not to be implor'd.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exeunt <hi>Osmyn, Amelia,</hi> and <hi>Rodulpho.</hi>
+                  </stage>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <head>SCENE IV.</head>
+               <sp>
+                  <stage>
+                     <hi>Casimir</hi> alone.</stage>
+                  <l>O for a deadly Instrument, to end</l>
+                  <l>This most accursed Life!</l>
+                  <l>
+                     <pb n="14" facs="21"/>
+Since what I now endure is past Forbearance.</l>
+                  <l>No more; it is resolv'd, I'll so provoke him,</l>
+                  <l>That he must kill me, if he has yet remaining</l>
+                  <l>One Spark of Manhood or Resentment.</l>
+                  <lg>
+                     <l>
+                        <hi>The furious Tiger for a while kept under,</hi>
+                     </l>
+                     <l>
+                        <hi>Rouses at last, and bursts his Chains asunder;</hi>
+                     </l>
+                     <l>
+                        <hi>Inspir'd with double Rage he flies</hi>
+                     </l>
+                     <l>
+                        <hi>Upon his Foes, and self-avenging dies.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="5" type="scene">
+               <head>SCENE V.</head>
+               <stage>Enter <hi>Osmyn, Amelia,</hi> and <hi>Rodulpho.</hi>
+               </stage>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>Joy of my Heart! the longer I converse,</l>
+                  <l>The more I'm ravish'd and delighted</l>
+                  <l>With thy incomparable Wisdom.</l>
+                  <l>Thou hast a Soul more beauteous than thy Form,</l>
+                  <l>Nor can I live without the blest Enjoyment</l>
+                  <l>Of both those excellent Perfections.</l>
+                  <lg>
+                     <l>
+                        <hi>Lovely Creature! while I'm gazing,</hi>
+                     </l>
+                     <l>
+                        <hi>Ev'ry Feature more amazing,</hi>
+                     </l>
+                     <l>
+                        <hi>All my Soul with Raptures charm.</hi>
+                     </l>
+                     <l>
+                        <hi>If such Pleasure's in beholding,</hi>
+                     </l>
+                     <l>
+                        <hi>Oh the Transport of infolding</hi>
+                     </l>
+                     <l>
+                        <hi>So much Beauty in my Arms!</hi>
+                     </l>
+                  </lg>
+                  <stage>[Going on, <hi>Casimir</hi> obstructs 'em.</stage>
+               </sp>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>Darest thou obstruct my Way?</l>
+                  <l>Dispatch him straight for his Presumption;</l>
+                  <l>Sever his Head from his detested Body.</l>
+                  <stage>[Guards go to kill <hi>Casimir, Amelia</hi> interposes.</stage>
+               </sp>
+               <sp>
+                  <pb n="15" facs="22"/>
+                  <speaker>Amel.</speaker>
+                  <l>Make here your Way, for such a Sight</l>
+                  <l>These Eyes can never bear.</l>
+                  <l>
+                     <stage>[To <hi>Osm.</hi>]</stage> Is this your boasted Mildness?</l>
+                  <l>What from your Fury may not I expect</l>
+                  <l>By this Example of your Cruelty?</l>
+                  <lg>
+                     <l>
+                        <hi>How can you vainly thus pretend</hi>
+                     </l>
+                     <l>
+                        <hi>To love, when yet you hate?</hi>
+                     </l>
+                     <l>
+                        <hi>For if I should but once offend,</hi>
+                     </l>
+                     <l>
+                        <hi>I see my instant Fate:</hi>
+                     </l>
+                     <l>
+                        <hi>Pity and Love to Heaven ally'd,</hi>
+                     </l>
+                     <l>
+                        <hi>Engross the Godlike Breast,</hi>
+                     </l>
+                     <l>
+                        <hi>Where Pity's Entrance is deny'd,</hi>
+                     </l>
+                     <l>
+                        <hi>There Love can never rest.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>At your Request he lives,</l>
+                  <l>But we'll no longer stay</l>
+                  <l>To hear his Insults,</l>
+                  <l>And repent our Mercy.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>You say you love me, let me be con<lb rend="hidden" type="hyphenInWord"/>vinced</l>
+                  <l>You plainly do, by condescending</l>
+                  <l>To reinstate the Christian in his Liberty;</l>
+                  <l>For I am shock'd at this Barbarity,</l>
+                  <l>And while my Soul with Horrour overflows,</l>
+                  <l>I cannot think of Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>What is it for your sake</l>
+                  <l>I would not grant?</l>
+                  <l>But he's my Enemy avow'd;</l>
+                  <l>To give him Freedom is to make him able</l>
+                  <l>
+                     <pb n="16" facs="23"/>
+To war against us yet a second time;</l>
+                  <l>Ask any other Proof of my Affection,</l>
+                  <l>And my Compliance waits on your Request.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>Too well I am satisfy'd with one Repulse,</l>
+                  <l>I shall but ask again to be denied.</l>
+                  <l>
+                     <stage>[To <hi>Rod.</hi>]</stage> What shall I do in this Perplexity?</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Deny her not this Instance of your Favour,</l>
+                  <l>It will remove the Terrour of her Mind,</l>
+                  <l>If you release him.</l>
+               </sp>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>Such is the Ardour of my Passion,</l>
+                  <l>That I'll engage her at the dearest Rate.</l>
+                  <l>
+                     <stage>[To her.]</stage> 
+To let you see, my Charmer!</l>
+                  <l>I give your Love the preference,</l>
+                  <l>Above all other Views whatsoever,</l>
+                  <l>At your immediate Intercession,</l>
+                  <l>This Christian has his Liberty restor'd;</l>
+                  <l>I only ask the Tribute of your Heart,</l>
+                  <l>As a Return of Gratitude.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Who would not with Gladness surrender,</hi>
+                     </l>
+                     <l>
+                        <hi>A Heart to a Lover so tender,</hi>
+                     </l>
+                     <l>
+                        <hi>Whose Actions his Passion declare?</hi>
+                     </l>
+                     <l>
+                        <hi>Assist me, bright Goddess of Beauty!</hi>
+                     </l>
+                     <l>
+                        <hi>And</hi> Cupid! <hi>instruct me my Duty,</hi>
+                     </l>
+                     <l>
+                        <hi>To make all his Wishes my Care.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <stage>[<hi>Osm.</hi> to <hi>Cas.</hi>]</stage>
+                  <l> Christian,</l>
+                  <l>At the Request of this celestial Creature,</l>
+                  <l>You have your Life and Liberty.</l>
+               </sp>
+               <sp>
+                  <pb n="17" facs="24"/>
+                  <speaker>Cas.</speaker>
+                  <l>Angel of Goodness!</l>
+                  <l>That from the deep Abyss of Desperation</l>
+                  <l>Has call'd me forth to Life again,</l>
+                  <l>Once more to come to my <hi>Amelia</hi>'s Arms.</l>
+               </sp>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>No more, we will not hear your tedious Thanks;</l>
+                  <l>Your Presence only aggravates my Wrath;</l>
+                  <l>So fly while you have free Permission.</l>
+               </sp>
+               <sp>
+                  <speaker>Casim.</speaker>
+                  <lg>
+                     <l>
+                        <hi>To the Arms of my Dearest I'm flying,</hi>
+                     </l>
+                     <l>
+                        <hi>Who doubtless with Sorrow is dying;</hi>
+                     </l>
+                     <l>
+                        <hi>Despairing to see me again,</hi>
+                     </l>
+                     <l>
+                        <hi>Above all the World I adore her;</hi>
+                     </l>
+                     <l>
+                        <hi>O how will my Presence restore her!</hi>
+                     </l>
+                     <l>
+                        <hi>And ease her disconsolate Pain!</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exit <hi>Casimir.</hi>
+                  </stage>
+               </sp>
+            </div>
+            <div n="6" type="scene">
+               <head>SCENE VI.</head>
+               <stage>Osmyn, Amelia.</stage>
+               <sp>
+                  <speaker>Osm.</speaker>
+                  <l>Now, the delightful Object of my Soul!</l>
+                  <l>Remains there any Favour yet unask'd,</l>
+                  <l>That you can wish, or I confer?</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>Victorious <hi>Osmyn!</hi>
+                  </l>
+                  <l>I need no other proof of your Affection.</l>
+               </sp>
+               <sp>
+                  <lg>
+                     <l>
+                        <stage>Osm.</stage> 
+                        <hi>To one so fair and kind,</hi>
+                     </l>
+                     <l>
+                        <stage>Amel.</stage> 
+                        <hi>To such a generous Mind,</hi>
+                     </l>
+                     <l>
+                        <stage>Both.</stage> 
+                        <hi>Surpassing all Treasure,</hi>
+                     </l>
+                     <l>
+                        <hi>Who would not with Pleasure</hi>
+                     </l>
+                     <l>
+                        <pb n="18" facs="25"/>
+                        <hi>A Heart sincere resign!</hi>
+                     </l>
+                     <l>
+                        <stage>Osm.</stage> 
+                        <hi>I ne'er can leave thee,</hi>
+                     </l>
+                     <l>
+                        <stage>Amel.</stage> 
+                        <hi>I'll ne'er deceive thee,</hi>
+                     </l>
+                     <l>
+                        <stage>Both.</stage> 
+                        <hi>For ever I am thine.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+            <trailer>The End of the Second Act.</trailer>
+         </div>
+         <div n="3" type="act">
+            <pb facs="26"/>
+            <head>AMELIA.</head>
+            <div n="1" type="scene">
+               <head>ACT III. SCENE I.</head>
+               <stage>A Room in <hi>Casimir</hi>'s Palace.</stage>
+               <stage>
+                  <hi>Augusta</hi> alone.</stage>
+               <sp>
+                  <speaker>AUGUSTA.</speaker>
+                  <l>
+                     <seg rend="decorInit">A</seg> Brother injured lost!</l>
+                  <l>A Sister false!</l>
+                  <l>A Traitor doubly so to Heaven and me!</l>
+                  <l>Why do I yet survive?</l>
+                  <l>Welcome Resolution!</l>
+                  <l>Guide thou with friendly Force</l>
+                  <l>My trembling Hand,</l>
+                  <l>And with this Poignard</l>
+                  <l>Fathom all my Woes.</l>
+                  <stage>[Offers to kill herself.</stage>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <pb n="20" facs="27"/>
+               <head>SCENE II.</head>
+               <stage>
+                  <hi>Casimir</hi> enters.</stage>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>Why, with uplifted Arms and pointed Steel,</l>
+                  <l>Seek'st thou, <hi>Augusta,</hi> to destroy</l>
+                  <l>A Life that's not thy own?</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Ye Gods, it is my dear, my injured Bro<lb rend="hidden" type="hyphenInWord"/>ther!</l>
+                  <l>O <hi>Casimir,</hi> this is a dismal Meeting!</l>
+               </sp>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>Is this my welcome?</l>
+                  <l>What is the meaning of this odd Reception?</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Ask me not,</l>
+                  <l>Too soon, alas, you'll learn</l>
+                  <l>The woeful Reason.</l>
+               </sp>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>Distract me not, but tell me where's <hi>Ame<lb rend="hidden" type="hyphenInWord"/>lia?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Would she were dead.</l>
+               </sp>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>Curs'd be the Tongue, that utters such a Thought;</l>
+                  <l>Is there the Wretch can wish <hi>Amelia</hi> dead?</l>
+                  <l>And art thou she?</l>
+                  <l>Leave this unnatural Sister, <hi>Casimir,</hi>
+                  </l>
+                  <l>And seek thy Love, thy dear <hi>Amelia.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>
+                     <stage>[Aside.]</stage> Unhappy Man! I cannot undeceive him,</l>
+                  <l>Lest that upon so shocking a Relation,</l>
+                  <l>Some direful Resolution should ensue.</l>
+                  <stage>[Exit.</stage>
+               </sp>
+               <sp>
+                  <pb n="21" facs="28"/>
+                  <speaker>Cas.</speaker>
+                  <lg>
+                     <l>
+                        <hi>My Charmer's very Name</hi>
+                     </l>
+                     <l>
+                        <hi>Does all my Soul inflame,</hi>
+                     </l>
+                     <l>
+                        <hi>And fills my Heart with Joy:</hi>
+                     </l>
+                     <l>
+                        <hi>May both our Troubles cease,</hi>
+                     </l>
+                     <l>
+                        <hi>And everlasting Peace</hi>
+                     </l>
+                     <l>
+                        <hi>Our future Time employ.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exit.</stage>
+               </sp>
+            </div>
+            <div n="3" type="scene">
+               <head>SCENE III.</head>
+               <stage>A Room in <hi>Osmyn's</hi> Pavilion.</stage>
+               <sp>
+                  <stage>
+                     <hi>Rodulpho</hi> alone.</stage>
+                  <l>The happy Time will soon approach,</l>
+                  <l>In which <hi>Augusta</hi>'s Jealousy shall have</l>
+                  <l>A most agreeable Determination;</l>
+                  <l>For when she knows, that this our quiet Depar<lb rend="hidden" type="hyphenInWord"/>ture</l>
+                  <l>Was to effect dear <hi>Casimir</hi>'s Redemption,</l>
+                  <l>Her Love, now smother'd by unjust Suspicions,</l>
+                  <l>Will reassume a greater Blaze.</l>
+               </sp>
+               <stage>Enter <hi>Amelia</hi> in a Fright.</stage>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>Save me, <hi>Rodulpho!</hi>
+                  </l>
+                  <l>
+                     <hi>Osmyn</hi> no longer will admit Denial,</l>
+                  <l>I must, or die, or yield to his Embraces.</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Amuse him with Pretences of Compliance,</l>
+                  <l>Then when alone, unguarded and dissolved,</l>
+                  <l>He's wholly in your Power. This to his Heart.</l>
+                  <stage>[Offers her a Dagger.</stage>
+               </sp>
+               <sp>
+                  <pb n="22" facs="29"/>
+                  <speaker>Amel.</speaker>
+                  <l>What would you have me murder him, <hi>Rodulpho?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Call not that Murder, Princess, which is Justice.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>I will not purchase Liberty so dear,</l>
+                  <l>Sooner I'll kill myself.</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>I then suppose, you love this vile Barba<lb rend="hidden" type="hyphenInWord"/>rian.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>'Tis false, I hate him to the last degree,</l>
+                  <l>But yet, I'll not imbrue my Hands in Blood,</l>
+                  <l>And base Assassination.</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>If you're afraid to prosecute th' Attempt,</l>
+                  <l>I'll pierce him with the fatal Instrument.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>
+                     <hi>Rodulpho,</hi> be not rash in your Proposals;</l>
+                  <l>Who knows, but some bless'd Turn,</l>
+                  <l>When least expected,</l>
+                  <l>May profer Liberty on easier Terms?</l>
+                  <lg>
+                     <l>
+                        <hi>Let not Mortals tempt their Fate,</hi>
+                     </l>
+                     <l>
+                        <hi>But for Heaven's Decision wait,</hi>
+                     </l>
+                     <l>
+                        <hi>And by Resignation show</hi>
+                     </l>
+                     <l>
+                        <hi>What to Providence they owe.</hi>
+                     </l>
+                     <l>
+                        <hi>That just Power, which weighs the Crime,</hi>
+                     </l>
+                     <l>
+                        <hi>Points the Punishment and Time,</hi>
+                     </l>
+                     <l>
+                        <hi>Sure, tho' late will interpose,</hi>
+                     </l>
+                     <l>
+                        <hi>And save the injur'd from their Foes.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <pb n="23" facs="30"/>
+               <head>SCENE IV.</head>
+               <stage>
+                  <hi>Casimir</hi> alone in an Apartment.</stage>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>She's false, insufferably false!</l>
+                  <l>Then farewel Truth and Virtue;</l>
+                  <l>
+                     <hi>Osmyn,</hi> restore me to my Chains again;</l>
+                  <l>For my <hi>Amelia</hi>'s Usage far exceeds</l>
+                  <l>All the Barbarity you could invent.</l>
+                  <stage>[Goes to kill himself.</stage>
+               </sp>
+               <stage>Enter <hi>Augusta.</hi>
+               </stage>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Why, <hi>Casimir,</hi> with sacrilegious Hands</l>
+                  <l>Dost thou attempt what late thou didst condemn?</l>
+               </sp>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>O my dear Sister, Sharer of my Grief!</l>
+                  <l>Can you forgive those passionate Expressions,</l>
+                  <l>Which lately came from my unwary Tongue?</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>It was the height of Love for lost <hi>Amelia,</hi>
+                  </l>
+                  <l>Which caus'd the inconsiderate Resentment.</l>
+               </sp>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>But now—I find your Wish was just,</l>
+                  <l>The causeless Passion makes me more uneasy.</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>No more, my dearest Brother!</l>
+                  <l>But let us now revenge the gross Offence.</l>
+               </sp>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>
+                     <hi>Augusta,</hi> your Advice I shall accept,</l>
+                  <l>And put it in immediate Execution.</l>
+                  <lg>
+                     <l>
+                        <hi>Just Heav'ns in my Resentments join,</hi>
+                     </l>
+                     <l>
+                        <hi>The Cause is yours as well as mine;</hi>
+                     </l>
+                     <l>
+                        <pb n="24" facs="31"/>
+                        <hi>And Vengeance, doubtless, is our due:</hi>
+                     </l>
+                     <l>
+                        <hi>O let me, while I thus complain,</hi>
+                     </l>
+                     <l>
+                        <hi>See both the Adulterers once again,</hi>
+                     </l>
+                     <l>
+                        <hi>To vindicate myself and you.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="5" type="scene">
+               <head>SCENE V.</head>
+               <stage>
+                  <hi>Amelia</hi> and <hi>Rodulpho.</hi>
+               </stage>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>
+                     <hi>Rodulpho,</hi> you have shewn a Friendship,</l>
+                  <l>Which will admit of no Comparison.</l>
+                  <l>O bless'd, tho' mean Disguise! in which array'd</l>
+                  <l>We have escap'd without Discovery.</l>
+                  <stage>[Martial Musick at a Distance.</stage>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Madam, we're past the Extremity of Danger;</l>
+                  <l>Behold a Party of <hi>Hungarian</hi> Horse</l>
+                  <l>This way advancing.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>
+                     <hi>Casimir</hi>'s own Troop conducted by him<lb rend="hidden" type="hyphenInWord"/>self,</l>
+                  <l>Support me Heaven in this Excess of Joy!</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>Now, now, <hi>Amelia,</hi> all our past Afflic<lb rend="hidden" type="hyphenInWord"/>tions</l>
+                  <l>Have here an ample Recompense.</l>
+               </sp>
+            </div>
+            <div n="6" type="scene">
+               <pb n="25" facs="32"/>
+               <head>SCENE VI.</head>
+               <stage>Enter <hi>Officer.</hi>
+               </stage>
+               <sp>
+                  <speaker>Officer.</speaker>
+                  <l>I seize you Prisoners to Prince <hi>Casimir.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>Stand off, officious Slave;</l>
+                  <l>I am his Wife.</l>
+               </sp>
+               <sp>
+                  <speaker>Officer.</speaker>
+                  <l>We know it, Madam, 'tis our Lord's Command,</l>
+                  <l>To bring you both to close Confinement.</l>
+               </sp>
+               <sp>
+                  <stage>[<hi>Amel.</hi> to <hi>Rod.</hi> aside.]</stage>
+                  <l> 
+Since he is so rash,</l>
+                  <l>Let us resolve him nothing;</l>
+                  <l>But still let this unjust Suspicion plague him,</l>
+                  <l>Till a fit Time to prove our Innocence.</l>
+               </sp>
+               <stage>Enter <hi>Casimir.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cas. [Disguis'd.]</speaker>
+                  <l>O vile lascivious Pair!</l>
+               </sp>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>O <hi>Casimir!</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>You have framed, no doubt,</l>
+                  <l>Some well concerted Story;</l>
+                  <l>But I'm deaf to every thing but Vengeance,</l>
+                  <l>Take from my Presence such detested Objects.</l>
+                  <lg>
+                     <l>
+                        <hi>Ah Traitress, wicked and impure!</hi>
+                     </l>
+                     <l>
+                        <hi>How can I possibly endure</hi>
+                     </l>
+                     <l>
+                        <hi>To see that odicus Face?</hi>
+                     </l>
+                     <l>
+                        <hi>Oh that my Heart had not been set</hi>
+                     </l>
+                     <l>
+                        <hi>On one who could her Truth forget,</hi>
+                     </l>
+                     <l>
+                        <hi>To suffer such Disgrace.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="7" type="scene">
+               <pb n="26" facs="33"/>
+               <head>SCENE VII.</head>
+               <stage>An Apartment in <hi>Osmyn</hi>'s Pavilion.</stage>
+               <sp>
+                  <stage>
+                     <hi>Osmyn</hi> alone.</stage>
+                  <l>It's certain she is fled, but who could think,</l>
+                  <l>That in such beautiful Perfection,</l>
+                  <l>Ingratitude could be conceal'd;</l>
+                  <l>'Twas for her sake I condescended</l>
+                  <l>To grant the Christian Life and Liberty:</l>
+                  <l>So much her Charms have ravish'd all my Soul,</l>
+                  <l>That with the fair delusive Creature</l>
+                  <l>Are all my Hopes of Comfort fled:</l>
+                  <l>Now all my Conquests are insipid,</l>
+                  <l>The World and all its rich Possessions</l>
+                  <l>Cannot redress the Anguish I conceive,</l>
+                  <l>By this one Woman's Imposition.</l>
+                  <lg>
+                     <l>
+                        <hi>All my Glories I resign,</hi>
+                     </l>
+                     <l>
+                        <hi>For a Life that's Divine;</hi>
+                     </l>
+                     <l>
+                        <hi>In a lonely desart Cell,</hi>
+                     </l>
+                     <l>
+                        <hi>I'll in sweet Retirement dwell;</hi>
+                     </l>
+                     <l>
+                        <hi>Unmolested I intend</hi>
+                     </l>
+                     <l>
+                        <hi>All my future Years to spend:</hi>
+                     </l>
+                     <l>
+                        <hi>Now adieu ye worldly Joys,</hi>
+                     </l>
+                     <l>
+                        <hi>Short-lived Splendor, Courts and Noise;</hi>
+                     </l>
+                     <l>
+                        <hi>There I only hope to find</hi>
+                     </l>
+                     <l>
+                        <hi>Solitude, and Peace of Mind.</hi>
+                     </l>
+                  </lg>
+                  <stage>[Exit.</stage>
+               </sp>
+            </div>
+            <div n="8" type="scene">
+               <pb n="27" facs="34"/>
+               <head>SCENE VIII.</head>
+               <stage>A Prison.</stage>
+               <stage>
+                  <hi>Rodulpho</hi> alone.</stage>
+               <sp>
+                  <speaker>Rod.</speaker>
+                  <l>To what a hazardous Presumption,</l>
+                  <l>
+                     <hi>Amelia</hi> carries her Resentment:</l>
+                  <l>But there's no reason I should venture Life</l>
+                  <l>Upon the Caprice of a Woman.</l>
+                  <l>This Letter shall to <hi>Casimir</hi> unfold</l>
+                  <l>The whole of our proceeding.</l>
+               </sp>
+            </div>
+            <div n="9" type="scene">
+               <head>SCENE IX.</head>
+               <stage>A great Hall.</stage>
+               <stage>
+                  <hi>Amelia</hi> going to Execution.</stage>
+               <stage>After a dead March, Enter <hi>Augusta.</hi>
+               </stage>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Now Traitress! take the just Reward,</l>
+                  <l>Your heinous Crimes demand;</l>
+                  <l>Nor shall <hi>Rodulpho</hi> long survive you.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>O let me see my Husband ere I die.</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>It is in vain to pray for Mercy now.</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>What has my Obstinacy brought upon me!</l>
+                  <l>I have murdered both <hi>Rodulpho</hi> and myself,</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Why is her Death delay'd?</l>
+                  <l>Dispatch her instantly.</l>
+               </sp>
+               <sp>
+                  <pb n="28" facs="35"/>
+                  <speaker>Amel.</speaker>
+                  <l>Since I must die, I must submit.</l>
+                  <l>But let <hi>Rodulpho</hi>'s Life be spar'd,</l>
+                  <l>And tell my <hi>Casimir</hi> we are the Persons,</l>
+                  <l>Who sav'd him from the barb'rous Cruelty,</l>
+                  <l>Which the Grand Visier threaten'd on him:</l>
+                  <l>Tell him, I die his chaste and loving Wife,</l>
+                  <l>And that <hi>Rodulpho</hi> is his faithful Friend,</l>
+                  <l>More he will know, perhaps, when it's too late.</l>
+                  <lg>
+                     <l>Amelia <hi>wishes when she dies</hi>
+                     </l>
+                     <l>
+                        <hi>Her dearest Lord may close her Eyes,</hi>
+                     </l>
+                     <l>
+                        <hi>And Heaven may open his:</hi>
+                     </l>
+                     <l>
+                        <hi>Then will he wish, but all in vain,</hi>
+                     </l>
+                     <l>
+                        <hi>To have her render'd back again,</hi>
+                     </l>
+                     <l>
+                        <hi>From Realms of endless Bliss.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <stage>Enter <hi>Casimir</hi> snatching the Headman's Sword.</stage>
+               <stage>
+                  <hi>Rodulpho</hi> follows.</stage>
+               <sp>
+                  <speaker>Cas.</speaker>
+                  <l>O live <hi>Amelia!</hi> live, thou best of Wives!</l>
+                  <l>
+                     <hi>Rodulpho!</hi> live, thou most sincere of Friends!</l>
+                  <l>Embrace him, Sister!</l>
+                  <l>Who, with my dear <hi>Amelia,</hi>
+                  </l>
+                  <l>Effected my Deliverance from Death.</l>
+                  <l>Bless'd be the Day that I was taken Captive,</l>
+                  <l>For otherwise I should have never known,</l>
+                  <l>That I had such a Wife and such a Friend:</l>
+                  <l>Unkind <hi>Amelia,</hi> not to undeceive me!</l>
+                  <l>How could you persevere to such Extremity?</l>
+               </sp>
+               <sp>
+                  <speaker>Amel.</speaker>
+                  <l>Unkinder you, that could be so suspicious.</l>
+               </sp>
+               <sp>
+                  <pb n="29" facs="36"/>
+                  <speaker>Cas.</speaker>
+                  <l>No more reproaches,</l>
+                  <l>But let one general rejoicing</l>
+                  <l>Run through our Hearts on this Occasion.</l>
+               </sp>
+               <sp>
+                  <speaker>Cas. Amel.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Let me press thee, O my Charmer,</hi>
+                     </l>
+                     <l>
+                        <hi>To a Heart that's only thine;</hi>
+                     </l>
+                     <l>
+                        <hi>Never Passion sure was warmer,</hi>
+                     </l>
+                     <l>
+                        <hi>Never more did Souls combine.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <stage>
+                     <hi>Casimir</hi> to <hi>Rodulpho</hi> and <hi>Amelia.</hi>
+                  </stage>
+                  <l>A double Nuptial shall resplend the Day,</l>
+                  <l>For to reward the Friendship of <hi>Rodulpho,</hi>
+                  </l>
+                  <l>I give <hi>Augusta</hi> to his longing Arms.</l>
+                  <l>And as we've all been equally concerned</l>
+                  <l>In a Variety of great Misfortunes,</l>
+                  <l>So let us now unanimously share</l>
+                  <l>This unexpected Interval of Mirth.</l>
+                  <l>O my <hi>Amelia,</hi> Pattern to thy Sex!</l>
+                  <l>This Act of thine convey'd to latest Ages,</l>
+                  <l>With Honour and Applause</l>
+                  <l>Shall spread thy Fame,</l>
+                  <l>And Thousands, yet unborn, revere thy Name.</l>
+               </sp>
+               <sp>
+                  <stage>CHORUS.</stage>
+                  <lg>
+                     <l>
+                        <hi>When Dangers Innocence invade,</hi>
+                     </l>
+                     <l>
+                        <hi>Just Heav'n vouchsafes a timely Aid;</hi>
+                     </l>
+                     <l>
+                        <hi>And makes with brighter Lustre shine</hi>
+                     </l>
+                     <l>
+                        <hi>Virtues conceal'd in Souls divine.</hi>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <pb facs="37"/>
+            <head>BOOKS Printed for J. WATTS, and Sold by the Booksellers both of Town and Country.</head>
+            <list>
+               <item>
+                  <hi>A very curious Edition in QUARTO, of</hi>
+                  <p>The BEGGAR's OPERA. As it is Acted at the Theatre-Royal in Lincoln's-Inn Fields. Written by Mr. GAY.—<q rend="inline">
+                        <hi>Nos haec novimus esse nihil.</hi> 
+                        <bibl>Mart.</bibl>
+                     </q> With the OUVERTURE in SCORE, the SONGS and the BASSES, (the OUVERTURE and BASSES Compos'd by Dr. PE<lb rend="hidden" type="hyphenInWord"/>PUSH) Curiously Engrav'd on COPPER PLATES.</p>
+               </item>
+               <item>
+                  <hi>In OCTAVO.Lately Publish'd, Curiously Printed in SIX POCKET VOLUMES.</hi>
+                  <list>
+                     <item>The MUSICAL MISCELLANY: Being a Collection of CHOICE SONGS and LYRICK POEMS. Set to MUSICK by the most emi<lb rend="hidden" type="hyphenInWord"/>nent MASTERS, (With the BASSES to each Tune, and Transpos'd for the FLUTE) viz.<list>
+                           <item>Mr. Attilio.</item>
+                           <item>Mr. Barret.</item>
+                           <item>Mr. Betts.</item>
+                           <item>Mr. Bononcini.</item>
+                           <item>Mr. Bradley.</item>
+                           <item>Mr. Brailsford.</item>
+                           <item>Mr. Burgess.</item>
+                           <item>Mr. Carey.</item>
+                           <item>Mr. Charke.</item>
+                           <item>Mr. Cole.</item>
+                           <item>Dr. Croft.</item>
+                           <item>Mr. Dieupart.</item>
+                           <item>Mr. Flemming.</item>
+                           <item>Mr. Galliard.</item>
+                           <item>Mr. Geminiani.</item>
+                           <item>Mr. Gough.</item>
+                           <item>Mr. Grano.</item>
+                           <item>Mr. Graves.</item>
+                           <item>Dr. Green.</item>
+                           <item>Mr. Handel.</item>
+                           <item>Mr. Haym.</item>
+                           <item>Mr. Holmes.</item>
+                           <item>Mr. Holcomb.</item>
+                           <item>Mr. Leveridge.</item>
+                           <item>Mr. Monro.</item>
+                           <item>Dr. Pepusch.</item>
+                           <item>Mr. Potter.</item>
+                           <item>Mr. D. Purcell.</item>
+                           <item>M. H. Purcell.</item>
+                           <item>Mr. Ramondon.</item>
+                           <item>Mr. Ravenscraft.</item>
+                           <item>Mr. David Rizzio.</item>
+                           <item>Mr. Seedo.</item>
+                           <item>Mr. J. Sheeles.</item>
+                           <item>Mr. Trevers.</item>
+                           <item>Mr. Vincent.</item>
+                           <item>Mr. Webber.</item>
+                           <item>Mr. Weldon.</item>
+                           <item>Mr. Whichello.</item>
+                           <item>Mr. Anth. Young.</item>
+                        </list>
+                     </item>
+                     <item>Fifty One NEW FABLES in Verse, (Invented for the Amusement of His Highness WILLIAM Duke of Cumberland) By Mr. GAY: With Fifty One Cutts, Design'd by Mr. Kent and Mr. Wotton, and Engraved by Mr. Baron, Mr. Vandergucht, and Mr. Fourdrinier. The Third Edition.</item>
+                     <item>TRAGEDIES.<list>
+                           <item>PERIANDER, King of Corinth: A Tragedy. As it is Acted at the Theatre Royal in Lincoln's-Inn Fields. Written by Mr. JOHN TRACY. To which is prefix'd, The HISTORY of PERIANDER: Extracted from the most Authentick Greek and Latin Historians, and the Chevalier <hi>Ramsay</hi>'s CYRUS. Address'd to the Readers and Spectators of the Trage<lb rend="hidden" type="hyphenInWord"/>dy of PERIANDER.</item>
+                           <item>
+                              <hi>TIMOLEÒN.</hi> A Tragedy. As it is Acted at the Theatre Royal, by His Majesty's Servants. Written by Mr. Benjamin Martyn. The Second Edition.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <gap extent="1+ pages" rend="content:〈1+ pages missing〉">
+               <desc>missing</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>

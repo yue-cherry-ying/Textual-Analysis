@@ -1,0 +1,2152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pharnaces: an opera. Altered from the Italian. By Thomas Hull. As it is performed at the Theatre Royal in Drury-Lane.</title>
+            <author>Hull, Thomas, 1728-1808.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020297.000</idno>
+            <idno type="docno">CW3306671646</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pharnaces: an opera. Altered from the Italian. By Thomas Hull. As it is performed at the Theatre Royal in Drury-Lane.</title>
+                  <author>Hull, Thomas, 1728-1808.</author>
+                  <author>Lucchini, Antonio Maria.</author>
+               </titleStmt>
+               <extent>vi,[2],39,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. and R. Tonson, and T. Lownds [sic],</publisher>
+                  <date>1765.</date>
+                  <idno type="TCP">K020297.000</idno>
+                  <idno type="docno">CW3306671646</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Altered from Antonio Maria Lucchini's 'Farnace'.</note>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT781.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>PHARNACES: AN OPERA.</p>
+            <p>[Price One Shilling.]</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>PHARNACES: AN OPERA.</p>
+            <p>Altered from the ITALIAN.</p>
+            <p>By THOMAS HULL.</p>
+            <p>As it is Performed At the Theatre Royal in <hi>Drury-Lane.</hi>
+            </p>
+            <q>
+               <l>Levius fit patientiâ</l>
+               <l>Quicquid corrigere est nefas.</l> 
+               <bibl>HORAT.</bibl>
+            </q>
+            <p>LONDON: Printed for J. and R. TONSON in the Strand, and T. LOWNDS in Fleet-street.</p>
+            <p>M DCC LXV.</p>
+            <pb facs="3"/>
+            <gap extent="1 page" rend="content:〈1 page duplicate〉">
+               <desc>duplicate</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb n="v" facs="4"/>
+            <head>To Mrs. JANE STEAD.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>ONE of the most valuable Privileges of Friendship, is that of carrying on an Intercourse unsubjected to the Slavish Ties of Form and Ceremony; which one I claim, for addressing You thus unexpectedly—and whatever delicate Pain You may suf<lb rend="hidden" type="hyphenInWord"/>fer from Surprize, You are too generous, I am sure, not to allow another the Advan<lb rend="hidden" type="hyphenInWord"/>tage of that Liberty, which You are so fond of Yourself.</p>
+            <p>To whom should an Author of slender Abilities fly for Countenance, but to the Great or Good?—Fortune has denied me the Advantage of the former, but has made me ample Amends in the latter. So sensibly do I feel this, that, were my Production equal to that of the first Poet's in the Age,
+<pb n="vi" facs="5"/>
+I could never think it more highly graced, than by this Opportunity of acknowledging my having known one of the best Women in the World; and that I shall always be (with warmest Wishes for her enjoying many, many Years of Happiness)</p>
+            <closer>
+               <signed>Her sincere Friend, and most grateful, and affectionate humble Servant, THOMAS HULL</signed>
+               <dateline>London, <date>Jan. 1, 1765.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="6"/>
+            <head>Dramatis Personae.</head>
+            <list>
+               <head>MEN.</head>
+               <item>
+                  <label>POMPEY,</label> Mr. <hi>Giustinelli.</hi>
+               </item>
+               <item>
+                  <label>ATHRIDATES,</label> Mr. <hi>Champnes.</hi>
+               </item>
+               <item>
+                  <label>PHARNACES,</label> Mr. <hi>Vernon.</hi>
+               </item>
+               <item>
+                  <label>GILADES,</label> Mrs. <hi>Dorman.</hi>
+               </item>
+               <item>
+                  <label>CHILD,</label> Miss <hi>Rogers.</hi>
+               </item>
+            </list>
+            <p>Priests, Guards, &amp;c.</p>
+            <list>
+               <head>WOMEN.</head>
+               <item>
+                  <label>TAMIRIS,</label> Mrs. <hi>Vincent.</hi>
+               </item>
+               <item>
+                  <label>SELINDA,</label> Miss <hi>Slack.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <pb facs="7"/>
+         <head>PHARNACES.</head>
+         <div n="1" type="act">
+            <head>ACT I. SCENE I.</head>
+            <stage>An outer Apartment in the Palace of <hi>SINOPE. PHARNACES,</hi> with his Sword bloody, fol<lb rend="hidden" type="hyphenInWord"/>lowed by <hi>TAMIRIS,</hi> and the Child.</stage>
+            <sp>
+               <speaker>PHARNACES.</speaker>
+               <lg>
+                  <l>NO more, <hi>Tamiris</hi>—seek not, with thy Tears,</l>
+                  <l>T' unnerve my Fortitude—tho' lost to Fortune,</l>
+                  <l>I live to Glory—my imperial Mind,</l>
+                  <l>Yet unsubdued—and this my blood-stain'd Hand</l>
+                  <l>Shall yet revenge it's Master—yet shall rend</l>
+                  <l>Yon crested Laurels from insulting <hi>Rome.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>
+                  <hi>Pharnaces</hi>—stay—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>I cannot—must not hear.—</l>
+            </sp>
+            <q>
+               <pb n="2" facs="8"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Not in the Splendor of a Throne,</l>
+                        <l>Is a Monarch's Greatness shown;</l>
+                        <l>'Tis his to brave Misfortune's Frown,</l>
+                        <l>To rescue from Disgrace a Crown;</l>
+                        <l>His Soul undaunted, proud and free,</l>
+                        <l>And live or die with Dignity.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>My Husband—yet relent—Ah cruel Virtue!</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Oh! turn—behold my streaming Eyes—</l>
+                        <l>Preserve—preserve thy precious Life!</l>
+                        <l>Nor, in one Moment, sacrifice</l>
+                        <l>Thy helpless Child—thy hapless Wife!</l>
+                     </lg>
+                     <lg>
+                        <l>With thee, Hope's latest Refuge goes,</l>
+                        <l>And we a Prey to cruel Foes!</l>
+                        <l>Preserve—preserve thy precious Life—</l>
+                        <l>Thy helpless Child—thy hapless Wife!</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>
+                  <hi>Tamiris</hi>—rise!—Thy Happiness and Hono<gap resp="#apex" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>
+               </l>
+               <l>Dear as my own, have been my righteous Care,</l>
+               <l>And ever shall—restrain thy Tears, and hear me.—</l>
+               <l>Take thou this Sword, yet reeking with the Gore</l>
+               <l>Of dying Foes—observe it well—and swear</l>
+               <l>Thereon, by all the Love thy Heart e'er boasted,</l>
+               <l>By all Life's Hopes, and by the Gods who crown 'e<gap resp="#apex" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>
+               </l>
+               <l>Thou wilt fulfil whatever I enjoin.</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>My boding Heart!—I swear—</l>
+            </sp>
+            <sp>
+               <pb n="3" facs="9"/>
+               <speaker>Phar.</speaker>
+               <l>Once more I go</l>
+               <l>T' avenge a People's Wrongs, a Father's Fall—</l>
+               <l>Should I return no more, plunge that, I charge thee,</l>
+               <l>Into yon Infant's Breast—nor let the Heir</l>
+               <l>Of <hi>Pontus</hi> live a Prey to Chains and Insult—</l>
+               <l>Preserve him from that Lot—die then thyself,</l>
+               <l>And haste to meet the Partner of thy Soul,</l>
+               <l>Where Tyranny and Bondage are no more.</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Immortal Gods! is this <hi>Pharnaces'</hi> Order?</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>It is—A Husband and a King commands.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Be stedfast—tho' Compassion flow</l>
+                        <l>In Streams of soft maternal Woe!</l>
+                        <l>Thy Blood, thy Pride, thy Rank maintain.</l>
+                        <l>Live not to feel a Tyrant's Yoke—</l>
+                        <l>In Pity give the gen'rous Stroke,</l>
+                        <l>And save thy Son from Infamy and Pain.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exit, with Attendants▪</stage>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>He's gone—he flies—and swifter than the Bark</l>
+               <l>Driv'n by the Tempest's Rage—on certain Ruin</l>
+               <l>Dashes.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>Why weeps my Mother? what provokes</l>
+               <l>My Father?—and what means this bloody Sword?</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Unhappy Child!—I would—but cannot speak—</l>
+               <l>Hold, hold, my Brain!—Oh great, All-guiding Pow'r,</l>
+               <l>Who lov'st to succour Virtue, lend thine Aid,</l>
+               <l>Sooth my Distress, and rescue me from Madness▪</l>
+            </sp>
+            <q>
+               <pb n="4" facs="10"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>With deadly Damp my Heart is cold—</l>
+                        <l>I hear—I hear the dismal Cries—</l>
+                        <l>Tyrant! the fatal Stroke withhold.</l>
+                        <l>'Tis fall'n—Alas! <hi>Pharnaces</hi> dies!</l>
+                     </lg>
+                     <lg>
+                        <l>See his stern Shade its Right demand;</l>
+                        <l>He calls me to the cruel Deed;</l>
+                        <l>He beckons with his crimson Hand,</l>
+                        <l>And bids the wretched Infant bleed.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exit, the Child follows.</stage>
+            <stage>
+               <hi>SCENE</hi> changes to an open Plain, with a View of <hi>SINOPE</hi> at a Distance.</stage>
+            <stage>A March.</stage>
+            <stage>Enter <hi>POMPEY</hi> and <hi>ATHRIDATES,</hi> with Forces.</stage>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>At length, the <hi>Roman</hi> Eagle wings his Flight,</l>
+               <l>With Terror plum'd, o'er half the <hi>Asian</hi> World.</l>
+               <l>
+                  <hi>Pharnaces</hi> too is vanquish'd.</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Yet refuses</l>
+               <l>To stoop to <hi>Pompey</hi>'s Arms, and own his Valour;</l>
+               <l>But coop'd within <hi>Sinope</hi>'s haughty Walls,</l>
+               <l>By desp'rate Rage, and Arrogance impell'd,</l>
+               <l>Attempts to raise new Force.</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Attempts in vain!</l>
+               <l>He but provokes the Blow, he should avoid▪</l>
+               <l>Such Virtue should not die.</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Not die!—the Traytor!</l>
+               <l>
+                  <pb n="5" facs="11"/>
+He, who unable in the Paths of War</l>
+               <l>To wreak his Enmity, by Darkness came</l>
+               <l>And treacherously stole my only Child—</l>
+               <l>She too, ungrateful Girl! to join the Robber!</l>
+               <l>So may the Fates with Laurels crown my Brow,</l>
+               <l>As I would see the Tide, that fills his Veins,</l>
+               <l>Shed Drop by Drop i'th' Dust!—Behold the Gate,</l>
+               <l>Which leads to his Retreat—This Hour is mine.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Swift-wing'd Vengeance nerve my Arm,</l>
+                        <l>Tenfold Rage my Bosom warm!</l>
+                        <l>With all their Fires I feel it glow;</l>
+                        <l>They bid me give the destin'd Blow!</l>
+                     </lg>
+                     <lg>
+                        <l>Nor shall a Daughter's Tears</l>
+                        <l>Allay the Flames, wherein my Soul is tost;</l>
+                        <l>All, all his Race would ill repay</l>
+                        <l>My Throne disgrac'd, my Honour lost.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Restrain this headstrong Madness, <hi>Athridates;</hi>
+               </l>
+               <l>Let <hi>Pompey</hi>'s Voice, at least, his Pow'r prevail;</l>
+               <l>Thou shalt not go to act so damn'd a Deed.</l>
+               <l>Destroy thy Child!—My Soul is damp'd with Horror;</l>
+               <l>I'll stand between, and shield thee from thyself.</l>
+               <l>For Glory, not for Cruelty, we fight;</l>
+               <l>Nor shall our Cause be stain'd—thy Rage misleads thee.</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Would'st thou deprive my Sword of just Re<lb rend="hidden" type="hyphenInWord"/>venge,</l>
+               <l>That noble Thirst of Arms and Royalty?</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Far other Attributes and Passions grace</l>
+               <l>
+                  <gap resp="#apex" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> sacred Names—True Valour dwells with Mercy.</l>
+            </sp>
+            <q>
+               <pb n="6" facs="12"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>The Blaze of <hi>Rage,</hi> with headlong Fires,</l>
+                        <l>Spreads madly round, nor brooks Command—</l>
+                        <l>The Flame, which <hi>Valour's</hi> Warmth inspires,</l>
+                        <l>Is held by <hi>Reason's</hi> steady Hand—</l>
+                        <l>
+                           <hi>That</hi> scatters Ruin, and Dismay,</l>
+                        <l>While <hi>this</hi> to Glory lights the Way.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>Flourish.</stage>
+            <stage>Enter <hi>GILADES</hi> with <hi>SELINDA</hi> in Chains, Guards, &amp;c▪</stage>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>Behold, my royal Master, what a Prize</l>
+               <l>Hath this Day, grac'd my Arms.</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>A Prize indeed! <stage>[Aside▪</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>
+                  <hi>Pharnaces'</hi> Sister!—Oh! all bounteon▪ Powers▪</l>
+               <l>Now ye are kind indeed! to Gifts like these,</l>
+               <l>The Tribute of an o'ercharg'd Heart is poor.</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>It must be so! within her lovely Mien</l>
+               <l>Virtue's enthron'd, and bids the graceful Seat,</l>
+               <l>Where she resides, be safe and undefil'd. <stage>[Aside</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Traitress, approach, and with thy streaming Blood</l>
+               <l>Haste to appease, in part, a Monarch's Wrongs.</l>
+               <stage>[Draw</stage>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Whence is thy Rage? wherein have I offended</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Thou shar'st <hi>Pharnaces'</hi> Blood—for that the dy'st.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Inhuman Sentence!—die for Nature's Fault▪</l>
+               <stage>[As <hi>Athridates</hi> prepares to strike, <gap resp="#apex" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> kneels to <hi>Pompey,</hi> who interpoles.]</stage>
+               <l>
+                  <pb n="7" facs="13"/>
+Oh! save me from his Wrath—thou gallant <hi>Roman,</hi>
+               </l>
+               <l>To thee, to thee I bend—or I mistake,</l>
+               <l>Or Mercy's Beam adorns thy Brow—O spare</l>
+               <l>My Youth, my Innocence—</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Illustrious Maid,</l>
+               <l>Rise and be safe!—misguided <hi>Athridates,</hi>
+               </l>
+               <l>My Eldership I claim, and will assert,</l>
+               <l>Ev'n against thee, my Rights—When Virtue sues,</l>
+               <l>Rage smooths his Brow, and listens with Delight.</l>
+               <l>She is my Captive now.—Let thy Resentment</l>
+               <l>On Foes employ its Fury—let <hi>Pharnaces,</hi>
+               </l>
+               <l>Who knows to wield the Spear, and bend the Bow,</l>
+               <l>Let him be sought—hence, with thy fell <hi>Armenians,</hi>
+               </l>
+               <l>Rase these proud Walls, and act, at least, a Deed,</l>
+               <l>That will not misbecome a Soldier's Arm.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <sp>
+                        <speaker>Ath.</speaker>
+                        <l>A Monarch's Duty claims me,</l>
+                        <l>A Soldier's Pride inflames me!</l>
+                        <l>Curst <hi>Pharnaces!</hi> lo, I come!</l>
+                        <l>Prepare, prepare to meet thy Doom!</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exit, with Forces.</stage>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Recal thy dread Command, oh gallant Chief!</l>
+               <l>Why must <hi>Pharnaces</hi> fall by thy Decree?</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>
+                  <hi>Rome</hi> and her Senate doom him—</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>And with him</l>
+               <l>All of his Blood—then be it so!—</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Fear nothing.</l>
+               <l>Oppression shall not reach thy Innocence,</l>
+               <l>Be that my Care!</l>
+            </sp>
+            <sp>
+               <pb n="8" facs="14"/>
+               <speaker>Sel.</speaker>
+               <l>To thy Compassion then</l>
+               <l>I trust—</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>And to my Love.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Love!—do not mock</l>
+               <l>Your Captive.</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Could I injure, by Deceit,</l>
+               <l>Such Virtue?—</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Still I fear—within thy Power,</l>
+               <l>Have I not all to dread?—In <hi>Asia</hi>
+               </l>
+               <l>
+                  <hi>Pompey</hi>'s a Warrior only—What's <hi>Selinda?</hi>
+               </l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Save me not from Slaughter's Jaws, <stage>[Kneels</stage>
+                        </l>
+                        <l>To stray with mangled Innocence;</l>
+                        <l>Let thy Virtue plead my Cause,</l>
+                        <l>Be thine Honour my Defence!</l>
+                        <l>Be thy Triumph now beheld</l>
+                        <l>In Mercy and Humanity!</l>
+                        <l>To shameful Life I cannot yield,</l>
+                        <l>Free from Guilt, I dare to die.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Banish all Fear and hear me, <stage>[raising her.]</stage> he<gap resp="#apex" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> a <hi>Roman,</hi>
+               </l>
+               <l>A Warriour and a Prince!—One Moment's Glance</l>
+               <l>Hath vanquish'd all my Soul—and Prudence bids</l>
+               <l>That from thy Pow'r I fly, lest I forget</l>
+               <l>The Duties of my Station. This brave Man,</l>
+               <l>(Whom, for his Feats in War, and private Merit,</l>
+               <l>I stile my Friend) shall be thy Beauty's Guardian</l>
+               <l>'Till I once more behold thee—check thy Tears,</l>
+               <l>And let thy Heart be still, <stage>(The Officer unchains <hi>Selinda</hi>
+                  </stage> secure in this,</l>
+               <l>
+                  <pb n="9" facs="15"/>
+My Care is not to thee alone confin'd,</l>
+               <l>But, far as Honour will allow, it reaches</l>
+               <l>To all thy Soul holds dear—Attend her, <hi>Lucius.</hi>
+               </l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Love, (when Worth like thine inspires)</l>
+                        <l>By sensual Passions unsubdu'd,</l>
+                        <l>Mingles ev'n with Glory's Fires,</l>
+                        <l>And mounts to all that's great and good;</l>
+                        <l>The Battle done,</l>
+                        <l>The Lawrels won,</l>
+                        <l>It burns within th' <hi>extatic</hi> Heart,</l>
+                        <l>In ev'ry <hi>Rapture</hi> claims a Part,</l>
+                        <l>And, ev'n when fierce <hi>Desire</hi> shall end,</l>
+                        <l>Glows in the sacred Name of <hi>Friend.</hi>
+                        </l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exit, with Forces.</stage>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>A Friend!—a Lover!—no!—And yet his Words</l>
+               <l>Seem'd by the Breath of Truth inspired—my Breast</l>
+               <l>Throbs with a dubious Passion; Hope and Doubt—</l>
+               <l>(Hope for myself, my Friends—yet Doubt for all)</l>
+               <l>Equal engage, and raise a War within.—</l>
+               <l>One Way alone remains—to bear my Lot</l>
+               <l>With Fortitude—to wait, with patient Virtue,</l>
+               <l>Whatever Fate ordains; and keep in mind</l>
+               <l>That gracious Breath, that bade my Heart be still.</l>
+            </sp>
+            <q>
+               <pb n="10" facs="16"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Late beset with Terrors round,</l>
+                        <l>Hideous Moans,</l>
+                        <l>Dying Groans,</l>
+                        <l>Then in hostile Fetters bound!</l>
+                        <l>Decreed, within a Dungeon's Gloom,</l>
+                        <l>Heavy Moments to consume!</l>
+                        <l>Whence the Ray that seems to rise,</l>
+                        <l>And dawn upon my failing Eyes?</l>
+                        <l>If of <hi>Truth</hi> the sacred Beam,</l>
+                        <l>Thro' my Soul thy Radiance stream,</l>
+                        <l>Exert thy full, thy clearer Light!</l>
+                        <l>Thro' Error's Maze,</l>
+                        <l>Direct my Ways,</l>
+                        <l>And lead, Oh! lead to what is right!</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exit, attended by <hi>Lucius</hi> and Guard.</stage>
+            <trailer>End of the First Act.</trailer>
+         </div>
+         <div n="2" type="act">
+            <pb n="11" facs="17"/>
+            <head>ACT II. SCENE I.</head>
+            <stage>A Burial-Place belonging to the Kings of <hi>PONTUS.</hi>
+            </stage>
+            <stage>Alarms of a Siege, loud Groans, and the following Chorus heard from behind.</stage>
+            <lg>
+               <stage>CHORUS.</stage>
+               <l>'Tis done—the fatal Stroke is giv'n—</l>
+               <l>Save us—save us, pitying Heav'n!</l>
+            </lg>
+            <stage>Then Enter <hi>TAMIRIS</hi> distractedly, followed by her Child, and a Soldier.</stage>
+            <sp>
+               <speaker>CHILD.</speaker>
+               <l>O Mother, Mother!</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Fate has done its worst—</l>
+               <l>
+                  <hi>Rome</hi> triumphs, and <hi>Sinope</hi> sinks in Ruins—</l>
+               <l>
+                  <hi>Pharnaces'</hi> Order now must be obey'd,</l>
+               <l>It must—it shall—but not on thee, my Child!</l>
+               <l>My Death alone may satisfy—and thee,</l>
+               <l>Dear Pledge of early Bliss, and happier Days,</l>
+               <l>Thee I consign to Fate—some whiter Hour</l>
+               <l>Perhaps may meet thee, should the Arm of Slaughter,</l>
+               <l>Tir'd with its bloody Office, spare thy Weakness—</l>
+               <l>Here lye a while conceal'd. My trusty Servant,</l>
+               <l>Unfold that sacred Door—</l>
+               <stage>[The Soldier opening a Tomb, the Child starts back.]</stage>
+               <l>
+                  <pb n="12" facs="18"/>
+Why starts my Comfort?</l>
+               <l>No harm can reach thee here—here may'st thou lie</l>
+               <l>Secure, and save thy Life.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>I dare not venture</l>
+               <l>Into that dismal Place—no—dearest Mother,</l>
+               <l>I'll go with you, and I may be the Means</l>
+               <l>To save you—sure they cannot be so cruel</l>
+               <l>To hurt you, when I'm near—On my weak Knees</l>
+               <l>I'll crawl for ever, blind myself with Tears,</l>
+               <l>To beg 'em spare my Mother.</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Oh my Child!</l>
+               <l>My Heart is almost broke—comply—comply—</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Can the Darling of my Heart,</l>
+                        <l>O! can he doubt a Mother's Care,</l>
+                        <l>Can his Mind endure a Smart</l>
+                        <l>Her Bosom does not more than share?</l>
+                        <l>Here from Cruelty secure,</l>
+                        <l>Let no vain Fear thy Soul annoy,</l>
+                        <l>The deadly Gloom a while endure,</l>
+                        <l>Then wake to Light and new-born Joy.—</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>The very Sight is Death—I cannot go—</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>In this, I fear, my latest Breath,</l>
+                        <l>Hear me, dearest Mother, hear me,</l>
+                        <l>From a sad and early Death,</l>
+                        <l>Spare me, dearest Mother, spare me.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[They force the Child into the Tomb, and close it on him.]</stage>
+            <sp>
+               <pb n="13" facs="19"/>
+               <speaker>Tam.</speaker>
+               <l>Forgive me, cruel Glory, and <hi>Pharnaces,</hi>
+               </l>
+               <l>Do thou forgive, that, spite of thy Commands,</l>
+               <l>I yield to Nature's Voice—her Cries are loud—</l>
+               <l>I could not on my Infant wreak thy Bidding</l>
+               <l>There spake the Mother—but behold the Queen</l>
+               <l>Assert her Pride, and thine.</l>
+               <stage>[She offers to stab herself.</stage>
+            </sp>
+            <stage>Enter <hi>ATHRIDATES</hi> and his Party.</stage>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Base Wretch, forbear; <stage>[Seizing the Dagger.</stage>
+               </l>
+               <l>Thou shalt not 'scape me so—by thine own Hand</l>
+               <l>To see thee freed, would disappoint my Vengeance,</l>
+               <l>And stain my Triumph.</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>What severe Compassion—</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Compassion! hence—I know it not—say where</l>
+               <l>Where hast thou hid thy Child?—th'accursed Offspring</l>
+               <l>Of my perfidious Foe?</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Amid' the Ruins,</l>
+               <l>The dreadful Ruins of our <hi>Asian</hi> World,</l>
+               <l>Forlorn, I seek him.</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Trait'rous Wretch, 'tis false—</l>
+               <l>Stain of my Blood and Arms, thou hast conceal'd him,</l>
+               <l>But all thy Arts are vain—I go to seek</l>
+               <l>And bring him to thine Eyes—then shalt thou die;</l>
+               <l>Yet not, 'till in his streaming Blood imbath'd,</l>
+               <l>Death from his ghastly Mien shall dart new Horror,</l>
+               <l>And doubly wound thy Soul, to glut my Vengeance.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <sp>
+                        <speaker>Tam.</speaker>
+                        <l>In my Anguish take a Part,</l>
+                     </sp>
+                     <sp>
+                        <speaker>Ath.</speaker>
+                        <l>O'er thy Sorrows I rejoice,</l>
+                        <l>Doubly seel each piercing Smart,</l>
+                     </sp>
+                     <sp>
+                        <speaker>Tam.</speaker>
+                        <l>Ah! is that a Father's Voice?</l>
+                     </sp>
+                     <sp>
+                        <pb n="14" facs="20"/>
+                        <speaker>Ath.</speaker>
+                        <l>Thy Father, Traitress! I disclaim,</l>
+                        <l>At once the Feelings and the Name;</l>
+                        <l>The Child, and Sire, I go to seek,</l>
+                        <l>Then shall Revenge in Tortures speak.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>
+               <hi>[Exit</hi> Athridates.</stage>
+            <stage>[As <hi>ATHRIDATES</hi> goes out, Enter, on the opposite side, <hi>PHARNACES.</hi>
+            </stage>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Unarm'd! defenceless! compass'd round with Horror,</l>
+               <l>Where can I fly for Refuge?—ha! <hi>Tamiris!</hi>
+               </l>
+               <l>Hast thou fulfill'd my great Command?</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>My Husband,</l>
+               <l>I meant to do it—but—nay, turn not from me.</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Take heed; let me not think thou wouldst deny</l>
+               <l>Thy Child the last Compassion thou couldst shew him</l>
+               <l>For, if thou hast—</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Be pacified—'tis done.</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Matchless Obedience! then my Boy is dead</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>
+                  <stage>(Aside.)</stage> Forgive me, Truth; I dare not tru<gap resp="#apex" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap> thee now.</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Draw near, <hi>Tamiris</hi>—one Embrace, ere ye</l>
+               <l>We follow him, and let my Eyes drop Blood,</l>
+               <l>To thank thy noble Mercy—closer yet!</l>
+               <l>United thus, we may defy the Gods</l>
+               <l>To shew two human Hearts so greatly wretched.</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Claspt in thy Arms, Death has not half h Horrors—</l>
+               <l>The easier Part of thy Command, remains</l>
+               <l>Yet unperform'd—now bid me give the Blow,</l>
+               <l>And see how fearless—</l>
+            </sp>
+            <sp>
+               <pb n="15" facs="21"/>
+               <speaker>Phar.</speaker>
+               <l>Stay, a Moment Stay!</l>
+               <l>Let me behold my sole-surviving Comfort</l>
+               <l>A little longer—such a Loss, as thee,</l>
+               <l>Requires an Age's Pause.</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>My Lord!—<hi>Pharnaces!</hi>
+               </l>
+               <l>What means this awful Silence? Can the Arm</l>
+               <l>Of Slaughter tire? Or do his Terrors sleep</l>
+               <l>Awhile, to wake more horrid?</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Dreadful Interval!</l>
+               <l>I thank ye Gods, and will enjoy your Bounty▪</l>
+               <l>In Luxury of Grief—<hi>Tamiris,</hi> say</l>
+               <l>Where lie the precious Ashes of my Son?</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Within that Tomb.</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Kneel with me, kneel, my Comfort,</l>
+               <l>And consecrate the dear Remains with Tears,</l>
+               <l>Such pious Tears, as Parents only shed,</l>
+               <stage>[They kneel on each side of the Tomb.</stage>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <sp>
+                        <speaker>Phar.</speaker>
+                        <l>Now free from Pow'r of mortal Harms,</l>
+                        <l>Thy sweet, thy guiltless Soul</l>
+                        <l>Shall dread no more the Shock of Arms,</l>
+                        <l>Nor hear the Thunder roll.</l>
+                        <l>O! happy thou, who thus hast paid</l>
+                        <l>Thy Debt so soon below!</l>
+                        <l>Since longer Life had only made</l>
+                        <l>A longer Date of Woe.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <lg>
+               <l>Farewel, and sleep in Peace!—the righteous Pow'rs</l>
+               <l>Have some Compassion; if a Parent's Tongue</l>
+               <l>Pronounc'd the Doom, yet they who know the Motive</l>
+               <l>Who read each Thought— <stage>[Alarms within.</stage>
+               </l>
+               <l>
+                  <pb n="16" facs="22"/>
+Nay shrink not from the Storm,</l>
+               <l>If it o'erwhelm us, so!—no Hour so fit!</l>
+               <stage>[Alarms again.</stage>
+            </lg>
+            <stage>Enter <hi>ATHRIDATES</hi> attended.</stage>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Let all these boasted monumental Piles,</l>
+               <l>These Glories of a Race to me perfidious,</l>
+               <l>And <hi>Rome</hi>'s high State, be levell'd to the Earth▪</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>O dreadful Sound!</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Give to the Winds their Ashes!</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Oh Heav'ns!—my Father what hast thou to fear</l>
+               <l>From senseless Marble?</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Where hast thou conceal'd</l>
+               <l>Thy Child?—quick!—tell me.</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>
+                  <stage>(starting forth.)</stage> From a Tyrant's Power</l>
+               <l>Secure he sleeps—thy Fury cannot reach him.</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>
+                  <hi>Pharnaces</hi> there!—Guards seize upon 'em both,</l>
+               <l>Revenge, I thank thee.</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Tyrant, we defy—</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Thy Pride shall yet be tam'd—down with those Trophies!—</l>
+               <l>Why this Delay?</l>
+               <stage>[To the Guards who prepare to destroy the Monuments.</stage>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>O Gods!—I must reveal him.</l>
+               <l>Unfold that Womb of Death— <stage>[the Guards open it.</stage>
+               </l>
+               <l>Unhappy Cause</l>
+               <l>Of matchless Grief, come forth!</l>
+            </sp>
+            <stage>[The Child comes out of the Tomb and runs to <hi>Tamiris.</hi>
+            </stage>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Deceitful Woman!</l>
+               <l>Thus hast thou sav'd my Child?—I thought him past</l>
+               <l>The Reach of Anguish, Sorrow, or Disgrace,</l>
+               <l>
+                  <pb n="17" facs="23"/>
+But now he lives to all, and we to share 'em.</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Vengeance provides a noble Feast—All, All,</l>
+               <l>Shall feel my Rage—prepare ye—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Tyrant, strike!—</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>In Mercy, pause, and save us!</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Why <hi>Tamiris,</hi>
+               </l>
+               <l>Why should we live?—Honour and Truth have left us.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <sp>
+                        <speaker>Ath.</speaker>
+                        <l>Tho' all Hell's Troops between us lay,</l>
+                        <l>And dar'd my lifted Arm to stay,</l>
+                        <l>Thro' Lines of Fire I'd cut my Way,</l>
+                        <l>The Call of Vengeance to obey.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[As he offers to draw, the Child advances before <hi>Pharnaces</hi> and <hi>Tamiris,</hi> and kneels; <hi>Athridates</hi> retires in Confusion.]</stage>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <sp>
+                        <speaker>Child.</speaker>
+                        <l>For all the Woes my Parents bear,</l>
+                        <l>I kneel, a willing Sacrifice;</l>
+                        <l>Their virtuous Hearts, in Pity, spare,</l>
+                        <l>And let my little Life suffice!</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Loud Alarms!]</stage>
+            <stage>Enter <hi>GILADES</hi> hastily—his Sword drawn.</stage>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>Lord <hi>Athridates!</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Whence this sudden Outcry?</l>
+            </sp>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>
+                  <hi>Pompey</hi> requires your instant Aid—from whence</l>
+               <l>The western Tow'r frowns o'er the torrid Heath,</l>
+               <l>
+                  <pb n="18" facs="24"/>
+A furious Sally by some Foes conceal'd,</l>
+               <l>Assail'd his Flank, who to the neighb'ring Marsh,</l>
+               <l>In wild Confusion fly.</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Our Force shall shield 'em.</l>
+               <l>
+                  <hi>Gilades,</hi> to thy Care I give those Traitors,</l>
+               <l>'Till my Return— <stage>
+                     <hi>[To</hi> Pharnaces, &amp;c.]</stage>—Yet hope not to escape me,</l>
+               <l>My Wrath is not less certain, tho' delay'd;</l>
+               <l>E'er Ev'ning Shades descend, prepare to see</l>
+               <l>Each other's streaming Gore.— <stage>[Exit.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>
+                  <stage>[Aside]</stage> Gods! did I hear</l>
+               <l>Those Words aright?—My Heart is chill'd with Horror.</l>
+               <l>Guards, mildly treat their Sorrows—to <hi>Pharnaces</hi>
+               </l>
+               <l>Shew Honour, and to the Eastern Palace Gate</l>
+               <l>Conduct 'em strait—I follow—</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>See my Lord,</l>
+               <l>The Gods yet smile upon us.</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>No, <hi>Tamiris,</hi>
+               </l>
+               <l>Our Title to their Care is forfeited.</l>
+               <l>Disgrace and Shame are on us,</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Yet forgive me!</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Tempt me not with thy Tears—I cannot bear them;</l>
+               <l>War, War, and Vengeance, quick devour my Griefs,</l>
+               <l>And root Remembrance from me.</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Oh! forbear!</l>
+            </sp>
+            <q>
+               <pb n="19" facs="25"/>
+               <floatingText>
+                  <body>
+                     <head>AIR. TRIO.</head>
+                     <sp>
+                        <speaker>Tam.</speaker>
+                        <stage>[Kneeling]</stage>
+                        <l>Cruel! Husband! O impart</l>
+                        <l>Some Comfort to my breaking Heart!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Child.</speaker>
+                        <stage>[Kneeling]</stage>
+                        <l>Dearest Father, O impart</l>
+                        <l>Some Comfort to her breaking Heart!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Tam.</speaker>
+                        <l>Pain and Torture be my Share!</l>
+                        <l>But thy Frowns I cannot bear.</l>
+                        <l>Husband!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Child.</speaker>
+                        <l>Father!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Phar.</speaker>
+                        <stage>[Raising 'em.]</stage>
+                        <l>Spare my Shame!</l>
+                        <l>Lost to Virtue as to Fame,</l>
+                        <l>Pair'd in Misery we go,</l>
+                        <l>Death alone can end our Woe.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exit guarded—leading <hi>Tamiris</hi> and Child in either Hand.]</stage>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>Their Griefs have enter'd in my Soul—O curst</l>
+               <l>Curst <hi>Athridates!</hi>—thine own Daughter!—say,</l>
+               <l>Nurse of each nice and tender Feeling, Nature,</l>
+               <l>What is thy Force, or where are thy Abodes,</l>
+               <l>If in a Parent's Breast thou do'st not dwell?</l>
+               <l>—What Impulse strikes my Mind?—May I believe</l>
+               <l>That Heav'n dooms me an Instrument?—It does—</l>
+               <l>Pleas'd I obey—far as my Pow'r extends</l>
+               <l>See me devoted to the great Behest.</l>
+            </sp>
+            <q>
+               <pb n="20" facs="26"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>The Guardian Angel of Distress,</l>
+                        <l>Prone to pity, and to bless,</l>
+                        <l>Directs, and makes me bold!</l>
+                        <l>The Tyrant's Purpose I'll reveal,</l>
+                        <l>Faith and Allegiance I repeal—</l>
+                        <l>With Vice no League can hold. <stage>[Exit.</stage>
+                        </l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>An Apartment in the Palace.</stage>
+            <stage>Enter <hi>POMPEY</hi> attended by Guards—<hi>SELINDA</hi> by Ladies.</stage>
+            <stage>
+               <hi>POMPEY</hi> speaks to an Officer, as he enters.</stage>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Confine them all—they, and their hardy Chiefs,</l>
+               <l>To <hi>Rome</hi> must be led Captive—Such, my Fair,</l>
+               <l>I grieve to say must be <hi>Pharnaces'</hi> Lot,</l>
+               <l>Unless he swear Allegiance to our State.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>No Remedy?—Can <hi>Pompey</hi> then refuse</l>
+               <l>The Boon of her he loves?</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>My Oath enjoins it.</l>
+               <l>I love <hi>Selinda</hi>—and revere the Gods!—</l>
+               <l>My Honour too is pledg'd—if I must forseit,</l>
+               <l>That, or my promis'd Bliss in Love and thee,</l>
+               <l>Tho' Soul and Body sever at the Blow,</l>
+               <l>Thou must be torn away—I may be wretched,</l>
+               <l>But cannot be inglorious.</l>
+            </sp>
+            <q>
+               <pb n="21" facs="27"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Torture, alas, may sorely prove</l>
+                        <l>The Pangs of disappointed Love,</l>
+                        <l>Yet some Relief remains behind,</l>
+                        <l>While Justice sways the suff'ring Mind,</l>
+                        <l>But Honour banished from her Throne,</l>
+                        <l>Each Joy, each Hope of Rest is flown.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Noble <hi>Roman,</hi>
+               </l>
+               <l>Forgive my Earnestness! the Favours shewn</l>
+               <l>To me, your Captive, freed and thus attended,</l>
+               <l>Should silence me—but think he is my Brother,</l>
+               <l>I saw him guarded, almost dead with Grief!</l>
+               <l>His Wife and Child—</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Forbear, I saw it too;—</l>
+               <l>And turned aside, so sore it smote my Heart.</l>
+               <l>Oh! would I could preserve him!—thou, <hi>Selinda,</hi>
+               </l>
+               <l>Shalt to the Council, and assist our Suit,</l>
+               <l>Redeem'd from <hi>Athridates'</hi> barb'rous Hands,</l>
+               <l>There have I cited him to hear our Offers.</l>
+               <l>There he must have his Audience and resolve—</l>
+               <l>
+                  <hi>Pompey</hi> shall e'en descend to beg his Friendship,</l>
+               <l>Rather than lose Alliance with his Virtue.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>The Gods reward you!</l>
+            </sp>
+            <q>
+               <pb n="22" facs="28"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Ye Pow'rs of strong and soothing Sound,</l>
+                        <l>Your double Force impart,</l>
+                        <l>The Warrior's stubborn Ear to wound,</l>
+                        <l>Or melt the Father's Heart!</l>
+                     </lg>
+                     <lg>
+                        <l>So may he yet, with Truth and Love,</l>
+                        <l>Establish Peace and Fame,</l>
+                        <l>While future Ages shall approve</l>
+                        <l>And honour <hi>Pompey</hi>'s Name.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Be thy Wish prophetic!</l>
+               <l>Speed we, to try our Art! yet e'er we go,</l>
+               <l>Here, my Delight, my Pride, to Heav'n I swear,</l>
+               <l>By Honour and by Arms, no more to breathe</l>
+               <l>My fervent Hopes, nor ask thy yielding Hand</l>
+               <l>'Till he resolve, lest I should owe the Gift</l>
+               <l>To any Motive but thy gen'rous Love.</l>
+               <l>Let him but meet my Wish, my lavish Soul</l>
+               <l>Shall know no Bounds of glorious Recompense.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR. DUETTO.</head>
+                     <sp>
+                        <speaker>Pom.</speaker>
+                        <l>Awhile may rav'nous Slaughter cease,</l>
+                        <l>Disarm'd by heav'nly—smiling Peace!</l>
+                        <l>And wild Ambition's furious Sway</l>
+                        <l>To Friendship, and to Love, give way!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Sel.</speaker>
+                        <l>That Wish, ye whisp'ring Breezes hear,</l>
+                        <l>Oh! waft it to <hi>Pharnaces'</hi> Ear!</l>
+                        <l>Thou, God of Peace, his Heart incline,</l>
+                        <l>And teach it to accord with mine!</l>
+                     </sp>
+                     <sp>
+                        <pb n="23" facs="29"/>
+                        <speaker>Pom.</speaker>
+                        <l>May then my Sighs, my Wish express,</l>
+                        <l>And teach <hi>Selinda</hi>'s Heart to bless?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Sel.</speaker>
+                        <l>Then shall my Sighs my Love express;</l>
+                        <l>Be happy thou, if I can bless.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Pom.</speaker>
+                        <l>Thus o'er the Altar's flaming Height,</l>
+                        <l>Our Truth shall cast a purer Light,</l>
+                        <l>While sacred Honour plights the Vow,</l>
+                        <l>And decks the Crown for <hi>Hymen</hi>'s Brow.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Sel.</speaker>
+                        <l>Thus o'er the Altar's, &amp;c.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[They repeat the Strain together, and Exeunt, attended.</stage>
+            <stage>End of the Second Act.</stage>
+         </div>
+         <div n="3" type="act">
+            <pb n="24" facs="30"/>
+            <head>ACT III. SCENE I.</head>
+            <stage>The Council-Chamber.</stage>
+            <stage>
+               <hi>POMPEY</hi> discover'd magnificently attended. <hi>PHARNACES</hi> guarded. <hi>SELINDA,</hi> &amp;c.</stage>
+            <sp>
+               <speaker>PHARNACES.</speaker>
+               <l>SELINDA, cease—forbear thy vain Persuasion;</l>
+               <l>The lazy Drop, that falls upon the Flint,</l>
+               <l>Hath more Effect.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Yet listen to the Voice</l>
+               <l>Of Mercy, and of Happiness—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>No more!—</l>
+               <l>Mercy!—What's that?—Can I, a Kingdom's Heir,</l>
+               <l>Exil'd my native Walls, reduc'd to see</l>
+               <l>My Country bleeding, all our <hi>Asian</hi> Coast</l>
+               <l>By War laid waste, or sunk in Slavery;</l>
+               <l>Can I see this, yet to the Hand that caus'd it,</l>
+               <l>For Freedom bend, and sue for Mercy?—No—</l>
+               <l>Come Death, Destruction come!—</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Renown'd <hi>Pharnaces,</hi>
+               </l>
+               <l>Let Reason take the Rein—the Terms I offer</l>
+               <l>Are such as may with Honour be embrac'd.</l>
+            </sp>
+            <q>
+               <pb n="25" facs="31"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>O hark to Reason's pow'rful Tongue,</l>
+                        <l>Obey, obey her Voice;</l>
+                        <l>Fond Hope attunes her soothing Song,</l>
+                        <l>To bid thy Soul rejoice;</l>
+                     </lg>
+                     <lg>
+                        <l>Fair Freedom, deckt in all her Charms,</l>
+                        <l>Invites thee to be blest,</l>
+                        <l>And Friendship longs, with folding Arms,</l>
+                        <l>To wrap thee in her Breast.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Hear how the Victor courts thee to be happy.</l>
+               <l>Embrace his Love, my Brother.</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Hence, <hi>Selinda!</hi>
+               </l>
+               <l>Abus'd, mistaken Maid!—Embrace his Love!</l>
+               <l>What Weakness thus misleads thy Mind?—Forbear</l>
+               <l>To try my Temper further—I'm resolv'd—</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>
+                           <hi>Roman,</hi> thy soft, thy soothing Arts give o'er,</l>
+                        <l>Of Friendship and of Freedom talk no more;</l>
+                        <l>Hope, from her ample Hoard, brings no Relief,</l>
+                        <l>And Reason serves but to encrease my Grief.</l>
+                     </lg>
+                     <lg>
+                        <l>A Prince appeals!—O dare not thou deny</l>
+                        <l>The Boon, for which his Scrrows loudly cry;</l>
+                        <l>The only Mercy thou, with Pride, can'st shew,</l>
+                        <l>Or he receive—give, give the fatal Blow!</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <pb n="26" facs="32"/>
+               <speaker>Pom.</speaker>
+               <l>In Sable clad, the Noon of Night approaches;</l>
+               <l>With earliest Dawn, my Pris'ners must to <hi>Rome.</hi>
+               </l>
+               <l>Let me not see <hi>Pharnaces</hi> in the Number,</l>
+               <l>Spare <hi>me</hi> the Sorrow, and <hi>thyself</hi> the Shame.</l>
+               <l>My Oath and Honour equally forbid</l>
+               <l>The fatal Doom should be repeal'd, unless</l>
+               <l>Thou swear to meet my Wish—thine Aid in Arms</l>
+               <l>We ask not—take another Hour—that ended,</l>
+               <l>The Temple shall with ev'ry Rite be crown'd,</l>
+               <l>That mutual Leagues require; and at the Altar</l>
+               <l>We shall attend thine Answer—Gallant Prince,</l>
+               <l>Let it be Peace between us!—'Till that time,</l>
+               <l>Return to thine Apartment; O return,</l>
+               <l>And in thy Wife's and Infant's Sorrows read</l>
+               <l>Persuasion, far beyond the greatest Pow'r</l>
+               <l>Of human Tongue.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>TRIO.</head>
+                     <sp>
+                        <speaker>Pom.</speaker>
+                        <l>Night, as thy gloomy Shades descend,</l>
+                        <l>Our Troubles hide, our Tumults end,</l>
+                        <l>That Concord's clear and gladsome Ray,</l>
+                        <l>May mingle with the Dawn of Day!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Sel.</speaker>
+                        <l>Night, as thy Shades incline to Rest,</l>
+                        <l>Bring Quiet to the Warrior's Breast,</l>
+                        <l>That Morn may see his Sorrows cease,</l>
+                        <l>And wake his Soul to Love and Peace!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Phar.</speaker>
+                        <l>Like me, to dark Despair a Prey,</l>
+                        <l>O Night, eternal be thy Sway,</l>
+                        <l>That staring Morn, with thousand Eyes,</l>
+                        <l>No more upon my Shame may rise!</l>
+                        <stage>[Exit <hi>Pharnaces,</hi> guarde</stage>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>
+               <pb n="27" facs="33"/>
+               <hi>Enter</hi> ATHRIDATES <hi>and</hi> GILADES.</stage>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>His, his Command! away!</l>
+               <stage>[To <hi>Gilades</hi> entering.</stage>
+               <l>
+                  <hi>Roman,</hi> in me</l>
+               <l>Behold a Monarch pleading for his Right!</l>
+               <l>I claim my Captives; to my Rage restore them,</l>
+               <l>That Vengeance may be gratified!</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Great Conqueror,</l>
+               <l>Now interpose thy Pow'r, or all is lost.</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Athridates,</l>
+               <l>By virtue of my Place, by Oath enjoin'd,</l>
+               <l>And by our Country's Law, the Cause of Justice</l>
+               <l>I here support; and from Oppression's Gripe</l>
+               <l>Redeem the meanest Captive. Should <hi>Pharnaces</hi>
+               </l>
+               <l>Swear Faith to <hi>Rome,</hi> 'tis mine to seal the Compact;</l>
+               <l>If not, her Senate doom him—'till that time,</l>
+               <l>He lives in my Protection—Thou art answer'd.—</l>
+            </sp>
+            <stage>Omitted in the Repre<lb rend="hidden" type="hyphenInWord"/>sentation.
+<sp>
+                  <speaker>Ath.</speaker>
+                  <l>Vengeance and Death! Is then a King refus'd,</l>
+                  <l>His Claim despis'd?</l>
+               </sp>
+               <sp>
+                  <speaker>Pom.</speaker>
+                  <l>Thou dost forget thyself.</l>
+               </sp>
+            </stage>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR. Omitted in the Repre<lb rend="hidden" type="hyphenInWord"/>sentation.</head>
+                     <lg>
+                        <l>Disgrac'd with ev'ry Spot and Shame,</l>
+                        <l>That mean Revenge and Slaughter bring;</l>
+                        <l>No more usurp the sacred Name,</l>
+                        <l>The hallow'd Scepter of a King.</l>
+                        <l>When frantic Wars no longer rave,</l>
+                        <l>'Tis his to succour and redress;</l>
+                        <l>His Scepter is the Pow'r to save,</l>
+                        <l>His Crown, and Triumph, is to bless.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>
+               <hi>[Exeunt</hi> Pompey, Selinda, <hi>and</hi> Guards.</stage>
+            <sp>
+               <pb n="28" facs="34"/>
+               <speaker>Ath.</speaker>
+               <l>Refus'd! insulted!—Curses on his Head!</l>
+               <l>The mighty Hunger of Revenge unsated!</l>
+               <l>But tremble, <hi>Roman!</hi> know, I came prepar'd</l>
+               <l>To meet thy Arrogance.—I well foresaw</l>
+               <l>His boasted Virtue center'd all in this,</l>
+               <l>To please a Woman!—whom to wanton Dalliance</l>
+               <l>He now enamour'd leads.—O blest Occasion!</l>
+               <l>Fit Time for Vengeance! while the City sleeps,</l>
+               <l>And he in Love dissolv'd.—Here, take this Paper,</l>
+               <l>It holds my full Instructions—Haste this instant,</l>
+               <l>Near to the Southern Quarter of the Palace</l>
+               <l>Assemble all our Troops, prepar'd to close</l>
+               <l>The <hi>Romans</hi> in, and at the Signal giv'n,</l>
+               <l>To drench them in their Gore.— <stage>[Gives the Paper.</stage>
+               </l>
+               <l>
+                  <hi>Pompey,</hi> enjoy</l>
+               <l>Thy last of Pleasures—for, this very Hour,</l>
+               <l>Thou sleep'st, to wake no more.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>The Thunders of Battle prepare</l>
+                        <l>With Horror unwonted to roll;</l>
+                        <l>Loud echoing Groans thro' the Air,</l>
+                        <l>Are the Pleasure and Pride of my Soul.</l>
+                     </lg>
+                     <lg>
+                        <l>See Slaughter his Cavern unfolds,</l>
+                        <l>Forth issues a terrible Flood,</l>
+                        <l>While Vengeance exulting beholds,</l>
+                        <l>And smiles o'er a Deluge of Blood.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exit, attended.</stage>
+            <q>
+               <pb n="29" facs="35"/>
+               <floatingText>
+                  <body>
+                     <head>RECITATIVE accompanied.</head>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <l>Now, cruel Tyrant! now my Justice dread,</l>
+                        <l>It bursts, a Tempest, round thy guilty Head.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exit.</stage>
+            <stage>
+               <hi>SCENE II.</hi> Changes to an Apartment.</stage>
+            <stage>Enter <hi>POMPEY, SELINDA,</hi> and Attendants.</stage>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Oh! how the jealous Minutes speed! too quick</l>
+               <l>For me and my Desires! e'er yet the Time,</l>
+               <l>The fatal Period comes, to plunge Us all</l>
+               <l>In Grief, that knows no Cure, on thee, <hi>Selinda,</hi>
+               </l>
+               <l>Rests all the little Hope, that cheers my Heart.</l>
+               <l>—Thou answer'st not—</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>I fear 'tis all in vain.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <sp>
+                        <speaker>Sel.</speaker>
+                        <l>Yet, tho' the Gate of Love be seen</l>
+                        <l>By fell Resentment strongly barr'd,</l>
+                        <l>And stubborn Pride, with rugged Mien,</l>
+                        <l>Each downy Path to Mercy guard,</l>
+                        <l>Once more will I my Pow'r employ,</l>
+                        <l>Your Loves and Duties to combine,</l>
+                        <l>To free <hi>Pharnaces</hi> be my Joy,</l>
+                        <l>The Praise and Glory all be thine!</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>Enter <hi>GILADES</hi> with a Paper, and kneels.</stage>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>Forgive this bold Intrusion, thus to Earth</l>
+               <l>
+                  <pb n="30" facs="36"/>
+I bend, and swear, tho' born and bred <hi>Armenian,</hi>
+               </l>
+               <l>My Heart is wholly thine!—preserve thyself—</l>
+               <l>This Paper speaks thy Danger—</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Rise, <hi>Gilades!</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>My Heart alas! sinks in me—may Distress</l>
+               <l>Danger, and Death be far from such Perfection!</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Confusion!—What so sudden and so near!</l>
+               <l>Thy Virtue claims our noblest Thanks—<hi>Selinda,</hi>
+               </l>
+               <l>Haste to thy Brother; be th' Attempt propitious,</l>
+               <l>As it is good!—Soldier, conduct her safe,</l>
+               <l>Repair thou then to me; thy Aid I ask,</l>
+               <l>In this unlook'd for Treach'ry.</l>
+            </sp>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>You command me,—</l>
+               <stage>[Exit <hi>Pompey</hi> one way, <hi>Gilades</hi> and <hi>Selinda</hi> the other.</stage>
+            </sp>
+            <stage>Enter <hi>PHARNACES</hi> with a Dagger, <hi>TAMIRIS</hi> and <hi>CHILD.</hi>
+            </stage>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Thou now hast heard, and now must own, <hi>Tamiris,</hi>
+               </l>
+               <l>The subtlest Pow'r of Eloquence were vain</l>
+               <l>Against such mighty Reasons—<hi>Pompey</hi> sooths</l>
+               <l>But to betray Us to a mean Concession,</l>
+               <l>A voluntary Bondage—let Us then</l>
+               <l>Believe no more, and be no more deceiv'd.</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Not for myself I fear and tremble thus,</l>
+               <l>But for my Child—O! look on him, <hi>Pharnaces!</hi>
+               </l>
+               <l>Within his streaming Eyes a thousand Torments</l>
+               <l>Await me—Death, alas! has neither Frown,</l>
+               <l>Nor Pain, but I could meet with thee unshaken.</l>
+            </sp>
+            <q>
+               <pb n="31" facs="37"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>The Spectre Death, when view'd from far,</l>
+                        <l>Appears a Foe, in Terror drest,</l>
+                        <l>But proves, when we behold him near,</l>
+                        <l>The Comfort of Affliction's Breast;</l>
+                        <l>The steddy Soul he threats in vain,</l>
+                        <l>The Coward he alone affrights,—</l>
+                        <l>And gives us, for a Moment's Pain,</l>
+                        <l>Whole Ages of supreme Delights.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>
+               <hi>Enter</hi> SELINDA.</stage>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>My Brother arm'd! drop, drop that fatal Steel—</l>
+               <l>Once more great <hi>Pompey</hi> sends—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>'Tis past, <hi>Selinda.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Yet hear me—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>No—Art thou so lost to Honour,</l>
+               <l>And to the Blood, thou shar'st, basely to give</l>
+               <l>Thy Hours to him, who leads Us all to Ruin?</l>
+               <l>Tamely receive a mean, precarious Life,</l>
+               <l>Dependant on his Smile!—No—join with Us,</l>
+               <l>And be thine own Deliverer!</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Rash Man!</l>
+               <l>Perversely bold!—he sends to tell thee now—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>That he prepares to crown our general Fall</l>
+               <l>With Ruin of thy Virtue.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Blind to Goodness!</l>
+               <l>His Views on me—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Are foul as Infamy.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>My Life upon his Honor!</l>
+            </sp>
+            <sp>
+               <pb n="32" facs="38"/>
+               <speaker>Phar.</speaker>
+               <l>Hence!—begone!—</l>
+               <l>Consult a wretched Safety—We're resolv'd.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Oh! yet forbear! <stage>[Loud Alarms within.</stage>
+               </l>
+               <l>There, there the Storm begins!</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>What Storm! has Wretchedness, like ours, a Gleam</l>
+               <l>Of Hope?</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>From <hi>Pompey</hi>'s Arm, from him you wrong,</l>
+               <l>Alone expect it—Gods, protect his Virtues!</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>Explain, my Sister!—quick—</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Thy cruel Father</l>
+               <l>Madly resentful, that he is depriv'd</l>
+               <l>His wish'd-for Vengeance, seeks, by treach'rous Arts,</l>
+               <l>To make a general Slaughter on the City,</l>
+               <l>At this dead Hour. The Prince, thro' secret Means,</l>
+               <l>Appriz'd of his Intent, prepares to meet him,</l>
+               <l>And turns his Force against his own Ally,</l>
+               <l>Rather than to Barbarity and Shame</l>
+               <l>Resign your Lives.</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>My Husband!—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Turn thee from me—</l>
+               <l>A Torrent of Remorse and Shame o'erwhelms me.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Indeed the Prince is noble, and of me</l>
+               <l>He ev'n foregoes a Hope, 'till you are happy.</l>
+               <stage>[A Flourish sounded.</stage>
+            </sp>
+            <stage>
+               <hi>Enter</hi> GILADES.</stage>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>The Prince, my Lord, requests your speedy Presence.</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Is then his virtuous Cause—</l>
+            </sp>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>The Gods have crown'd it— <stage>[Exit.</stage>
+               </l>
+            </sp>
+            <sp>
+               <pb n="33" facs="39"/>
+               <speaker>Tam.</speaker>
+               <l>Thanks to the righteous Pow'rs!—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Exalted Chief!</l>
+               <l>How have I wrong'd thy noble Heart!—thou now</l>
+               <l>Hast found indeed the Way t'inslave <hi>Pharnaces.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>Seek we the sacred Spot—the flaming Altar,</l>
+               <l>With ev'ry ceremonious Rite expects us.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <sp>
+                        <speaker>Phar.</speaker>
+                        <l>The gracious Pow'rs, with timely Care,</l>
+                        <l>Have warn'd my erring Breast,</l>
+                        <l>O! may I hence, with pious Fear,</l>
+                        <l>Abide their great Behest!</l>
+                     </sp>
+                     <sp>
+                        <speaker>All.</speaker>
+                        <l>O! may We hence, &amp;c.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exeunt.</stage>
+            <stage>SCENE III. Changes to the Temple.</stage>
+            <stage>The Altar drest with the Holy Fire, <hi>Gilades,</hi> Priests, Guards, &amp;c. <hi>Pompey</hi> discovered on the Steps of the Altar; beneath him, on his Right, stands a Priest, with a Spear in his Hand—on his Left, another with a Torch—in the Centre, beneath the Steps of the Altar, a Golden Urn filled with Earth.</stage>
+            <sp>
+               <speaker>Chorus of Priests.</speaker>
+               <lg>
+                  <l>Descend, sweet Peace, descend and bring</l>
+                  <l>Content and Pleasure on thy Wing.</l>
+                  <l>With jocund Plenty in thy Train,</l>
+                  <l>Descend, and cheer the sickning Swain!</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="34" facs="40"/>
+               <speaker>Pom.</speaker>
+               <l>Hear this, all gracious Pow'rs, and Oh! dispose</l>
+               <l>Pharnaces' Heart to ratify the Wish!</l>
+               <l>Mean while, 'till Reconcilement's soothing Balm</l>
+               <l>Shall heal our wounded Minds, and crown our Bliss,</l>
+               <l>For Treachery detected and subdued</l>
+               <l>Pay we our honest Thanks in grateful Song.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Wake, wake the loud Blast, and bid Incense arise;</l>
+                        <l>How clear burns the Flame, how it streams to the Skies!</l>
+                        <l>To the Pow'r, who wards the Blow,</l>
+                        <l>And lays the lurking Traitor low,</l>
+                        <l>Dwell upon the pleasing Strain,</l>
+                        <l>The grateful Lay ne'er flows in vain.</l>
+                        <l>Again wake the Blast, &amp;c.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>Enter <hi>ATHRIDATES</hi> guarded.</stage>
+            <lg>
+               <l>Thou, <hi>Athridates,</hi> rash, misguided Man,</l>
+               <l>From thy own Vassals take a great Example.</l>
+               <l>Not fear of Pain or Death, so soon cou'd vanquish</l>
+               <l>Men learn'd and practis'd in the Trade of War—</l>
+               <l>The Fear of Guilt alone unnerv'd their Arms—</l>
+               <l>Asham'd to strike in such a vicious Cause!</l>
+               <l>They left thee naked to the bitter Wound</l>
+               <l>Of Shame and Disappointment.</l>
+            </lg>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>Curses seize</l>
+               <l>Their dastard Souls! and thee, thou double Traitor, <stage>[To Gil.</stage>
+               </l>
+               <l>False to thy Cause and Master!</l>
+            </sp>
+            <sp>
+               <speaker>Gil.</speaker>
+               <l>Bloody Tyrant—</l>
+               <l>Take back the Term—it suits thee best—thou Traitor</l>
+               <l>To Virtue, Justice, and Humanity!</l>
+               <l>
+                  <pb n="35" facs="41"/>
+Couldst thou expect to find a single Wretch,</l>
+               <l>So lost to Goodness, who wou'd dare abett</l>
+               <l>Revenge so black, and infamous as thine?</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>In Honour's Cause alone</l>
+                        <l>The fatal Sword I raise,</l>
+                        <l>That, that should point the sacred Steel,</l>
+                        <l>And bid its Lightning blaze.</l>
+                     </lg>
+                     <lg>
+                        <l>But edgeless be the Blade,</l>
+                        <l>That Vice attempts to wield,</l>
+                        <l>And blasted be the guilty Arm</l>
+                        <l>That stains the noble Field!</l>
+                     </lg>
+                     <lg>
+                        <l>Base Wretch! from Sight of Man,</l>
+                        <l>Despairing may'st thou fly!</l>
+                        <l>In desert Wilds to groan, unseen,</l>
+                        <l>And unlamented, die!</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Thy Troops are in our Care, and swear Affiance</l>
+               <l>To <hi>Rome</hi>'s high State. For thee, the double Name</l>
+               <l>Of Monarch and Ally, secures thy Person.</l>
+               <l>To Shame, Disquiet, and each Pang, that tears</l>
+               <l>The guilty Soul, I leave thee free.</l>
+            </sp>
+            <sp>
+               <speaker>Ath.</speaker>
+               <l>To Shame!</l>
+               <l>I know it not, and glory in the Deed!</l>
+               <l>My Rage shall still pursue—O! might it reach thee!</l>
+            </sp>
+            <q>
+               <pb n="36" facs="42"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Could I purchase, from ample Futurity's Roll,</l>
+                        <l>The Blessing, that most would enrapture my Soul,</l>
+                        <l>'Twere to see thee, my Captive, in Agony lie,</l>
+                        <l>Distracted, despairing, and begging to die;</l>
+                        <l>In lingering Pains would I see thee depart,</l>
+                        <l>And riot, and feast on the Pangs of thy Heart.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[Exit.</stage>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Repentance may, and will, I hope, o'ertake him.</l>
+               <l>Tamiris, thou art sav'd the dreadful Sight</l>
+               <l>Of a Disgrace so near thee—In that Thought</l>
+               <l>My Heart rejoices—Now the Trial comes,</l>
+               <l>On which my Bliss depends.—</l>
+            </sp>
+            <stage>Enter <hi>PHARNACES, TAMIRIS, SELINDA,</hi> and Child, with Guards.</stage>
+            <lg>
+               <l>Pharnaces, say</l>
+               <l>Am I to call thee Friend?—Weigh well my Offers</l>
+               <l>E'er yet—</l>
+            </lg>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>O virtuous Prince, forbear thy Counsel,</l>
+               <l>Spare further Speech, lest I appear to make</l>
+               <l>A Merit of embracing Worth like thine.</l>
+               <l>Shame ties my Tongue!—to You and <hi>Rome</hi> I bend,</l>
+               <l>And o'er the sacred Knot, in Floods of Tears,</l>
+               <l>Will shed Remorse.</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Blest Hearing!—reverend Flamen,</l>
+               <stage>[To the Priest.</stage>
+               <l>Advance the Torch—</l>
+            </sp>
+            <sp>
+               <pb n="37" facs="43"/>
+               <speaker>Phar.</speaker>
+               <l>Thus be the desp'rate Fire</l>
+               <stage>[Buries the Torch in the Urn.</stage>
+               <l>Of Enmity extinguish'd—ne'er again</l>
+               <l>Oh! ne'er to be renew'd!</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Behold I break <stage>[Takes the Spear from the Priest.</stage>
+               </l>
+               <l>The fatal Spear, and, as it falls to Earth,</l>
+               <l>So die destructive War!</l>
+            </sp>
+            <sp>
+               <speaker>Chorus of Priests.</speaker>
+               <lg>
+                  <l>Th' attentive Gods have heard our pious Pray'r,</l>
+                  <l>For Innocence, and Virtue, are their Care.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>For <hi>Rome,</hi> I greet, and hold thee to my Heart.</l>
+               <l>This City be thine own! 'till Peace restore</l>
+               <l>Repose to <hi>Asia,</hi> and to thee thine Empire.</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>My Wife, my Child!—this Transport is too much!</l>
+            </sp>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>In what a Length, an Age of Misery,</l>
+               <l>Have some few Hours involv'd us! and a Moment</l>
+               <l>To bring this great Deliverance!—O my Child!—</l>
+            </sp>
+            <sp>
+               <speaker>Phar.</speaker>
+               <l>Preserve him ever there, and warn his Mind,</l>
+               <l>From these his Father's Errors, to correct</l>
+               <l>Impetuous Heat, and tread in Reason's Path.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>My Mother's Virtue, and my Father's Honour,</l>
+               <l>I'll make my great Example.</l>
+            </sp>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Now, <hi>Selinda,</hi>
+               </l>
+               <l>I may, with Honour, ask—</l>
+            </sp>
+            <sp>
+               <speaker>Sel.</speaker>
+               <l>What I, with Pride,</l>
+               <l>Consent to, my Preserver, Prince, and Master!</l>
+               <l>Pharnaces! Sister!—my fond Heart is full</l>
+               <l>Of Rapture—do I live to see ye thus?</l>
+            </sp>
+            <q>
+               <pb n="38" facs="44"/>
+               <floatingText>
+                  <body>
+                     <head>AIR.</head>
+                     <lg>
+                        <l>Now o'er your Eyes, so sunk of late,</l>
+                        <l>Gay Transport throws his glitt'ring Rays,</l>
+                        <l>And, like the Sun, on swelling Floods,</l>
+                        <l>Within the sparkling Fluid plays.</l>
+                     </lg>
+                     <lg>
+                        <l>O never may the Beam decay,</l>
+                        <l>O be the Channel never dry,</l>
+                        <l>But Virtue, from her thousand Springs,</l>
+                        <l>Eternal Streams of Joy supply!</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Tam.</speaker>
+               <l>To thee, <hi>Selinda</hi> (Sister of my Soul,</l>
+               <l>And ev'ry Feeling there) by <hi>Pompey</hi>'s Virtue</l>
+               <l>Directed and inspir'd, we owe it all.</l>
+            </sp>
+            <q>
+               <floatingText>
+                  <body>
+                     <head>AIR. Omitted in the Repre<lb rend="hidden" type="hyphenInWord"/>sentation.</head>
+                     <lg>
+                        <l>Denied too soon a Father's Care,</l>
+                        <l>The Comfort Nature lent,</l>
+                        <l>Whom, while his Crimes my Bosom tear,</l>
+                        <l>She bids my Soul lament;</l>
+                     </lg>
+                     <lg>
+                        <l>Of fost'ring Love the Pow'rs impart</l>
+                        <l>In thee, kind Maid, an equal Store,</l>
+                        <l>Nor could a Parent's lavish Heart</l>
+                        <l>Bestow a Joy, a Blessing more.</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Pom.</speaker>
+               <l>Oh what a glorious Change!—Let Music wake</l>
+               <l>Her various Melody, and to the World,</l>
+               <l>The wond'ring World, proclaim our Happiness!</l>
+            </sp>
+            <q>
+               <pb n="39" facs="45"/>
+               <floatingText>
+                  <body>
+                     <head>AIR, Last.</head>
+                     <head type="sub">QUINTETTO.</head>
+                     <sp>
+                        <speaker>Pom.</speaker>
+                        <l>Sweet <hi>Peace,</hi> escap'd from Discord's Chain,</l>
+                        <l>Enraptur'd dances o'er the Plain!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Phar.</speaker>
+                        <l>Fair Friendship shines in burnish'd Vest,</l>
+                        <l>And <hi>Honour</hi> leads the noble Guest!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Child.</speaker>
+                        <l>With placid Smile, <hi>Content</hi> is seen,</l>
+                        <l>And bids the Bosom be serene!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Tam.</speaker>
+                        <l>Glad <hi>Freedom</hi> takes the Mou<gap resp="#apex" extent="1 letter" rend="content:•">
+                              <desc>illegible</desc>
+                           </gap>ner's Part,</l>
+                        <l>And comforts, and exalts the Heart!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Sel.</speaker>
+                        <l>
+                           <hi>Wealth</hi> in his gorgeous Trapping glows,</l>
+                        <l>And round, and round his Treasure throws!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Pom.</speaker>
+                        <l>See <hi>Love</hi> his purple Pinions tries,</l>
+                        <l>And scatters Blessings, as he flies!</l>
+                     </sp>
+                     <lg>
+                        <stage>CHORUS.</stage>
+                        <l>In mystic Order they advance,</l>
+                        <l>They raise the Note, they weave the Dance,</l>
+                        <l>While in their Song this Truth's exprest,</l>
+                        <l>ENDURING VIRTUE MUST BE BLEST▪</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

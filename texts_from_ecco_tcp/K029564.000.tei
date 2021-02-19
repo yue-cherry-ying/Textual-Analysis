@@ -1,0 +1,520 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of a surprizing meteor: seen in the air March 19. 1718/19. at night. Containing, I. A description of this meteor, from the original letters of those who saw it in different places. ... By William Whiston, M.A. ...</title>
+            <author>Whiston, William, 1667-1752.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K029564.000</idno>
+            <idno type="docno">CW3305086377</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of a surprizing meteor: seen in the air March 19. 1718/19. at night. Containing, I. A description of this meteor, from the original letters of those who saw it in different places. ... By William Whiston, M.A. ...</title>
+                  <author>Whiston, William, 1667-1752.</author>
+               </titleStmt>
+               <extent>36,[4]p.,plate ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for W. Taylor,</publisher>
+                  <date>1719.</date>
+                  <idno type="TCP">K029564.000</idno>
+                  <idno type="docno">CW3305086377</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a postscript and two pages of advertisements.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT18934.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>AN ACCOUNT OF A Surprizing METEOR, Seen in the Air <hi>March</hi> 19. 1718/19. at NIGHT.</p>
+            <p>CONTAINING,<list>
+                  <item>I. A Description of this Meteor, from the Origi<lb rend="hidden" type="hyphenInWord"/>nal Letters of those who saw it in different Places.</item>
+                  <item>II. Some Historical Accounts of the like METEORS before.</item>
+                  <item>III. A Demonstration that such METEORS are not COMETS.</item>
+                  <item>IV. That such METEORS are not a Concourse of Vapours above our Atmosphere.</item>
+                  <item>V. That they are prodigious Blasts of Thunder and Lightenings in the upper Regions of our Air.</item>
+                  <item>VI. Observations from the whole.</item>
+               </list>
+            </p>
+            <p>By WILLIAM WHISTON, M.A. sometime Pro<lb rend="hidden" type="hyphenInWord"/>fessor of the Mathematicks in the Universi<lb rend="hidden" type="hyphenInWord"/>ty of <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for W. TAYLOR, at the <hi>Ship</hi> in <hi>Pater-Noster-Row.</hi> 1719.</p>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="2"/>
+AN ACCOUNT OF THE Surprizing METEOR <hi>Seen in the Air</hi> March 19. 1718/9.</head>
+         <div type="introduction">
+            <p>
+               <seg rend="decorInit">I</seg>N order to afford the Reader what Light I can about this remarkable Phae<lb rend="hidden" type="hyphenInWord"/>nomenon, I shall<list>
+                  <item>I. Give him a faithful Relation of the Phaenomenon it self, and that from the original Accounts of some of the most intelligent of those that saw it: (for I my self saw nothing of it:) and shall draw the proper Inferences therefrom.</item>
+                  <item>II. I shall give him like faithful Accounts of other Phaenomena of the same Nature, so far as they have hitherto come to my Hand.</item>
+                  <item>
+                     <pb n="4" facs="3"/>
+III. I shall give some Account of Dr. <hi>Wallis</hi>'s Hy<lb rend="hidden" type="hyphenInWord"/>pothesis about such Meteors; <hi>viz.</hi> That they are <hi>Co<lb rend="hidden" type="hyphenInWord"/>mets;</hi> with my Reasons against that Hypothesis.</item>
+                  <item>IV. I shall give a like Account of Dr. <hi>Halley</hi>'s Hypo<lb rend="hidden" type="hyphenInWord"/>thesis about them; <hi>viz.</hi> That they are a sort of <hi>fortui<lb rend="hidden" type="hyphenInWord"/>tous Collection of Vapours</hi> in the vast Void about us, which by Accident only sometimes fall into our At<lb rend="hidden" type="hyphenInWord"/>mosphere, without any other relation thereto; with my Reasons against that Hypothesis.</item>
+                  <item>V. I shall propose an Hypothesis of my own, for the Solution of these Appearances; <hi>viz.</hi> That they are no other than prodigious Storms or Blasts of Thunder and Lightening in the upper Regions of our Air; with my Reasons for that Hypothesis.</item>
+                  <item>VI. I shall conclude with a few Observations rela<lb rend="hidden" type="hyphenInWord"/>ting to these Meteors, and their Consequences.</item>
+               </list>
+            </p>
+         </div>
+         <div n="1" type="section">
+            <p>I. I shall give the Reader a faithful Relation of this surprizing Phaenomenon it self, from the original Ac<lb rend="hidden" type="hyphenInWord"/>counts of some of the most intelligent of those that saw it; which Accounts do here follow.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Dear Sir,</salute>
+                  </opener>
+                  <p>A Surprizing Phaenomenon, was seen with us here in the Air, at Eight at Night, on <hi>Thursday</hi> last, much like the Description of what was lately at <hi>Venice;</hi> a sudden Appearance of a Globe of Fire, equal to the apparent Bigness and Bright<lb rend="hidden" type="hyphenInWord"/>ness of the Sun, illuminating the whole Region as at Noon-day. After a small Pause at its first break<lb rend="hidden" type="hyphenInWord"/>ing out (in the South-west, betwixt <hi>Orion</hi>'s <hi>Girdle,</hi> and the <hi>Great Dog,</hi> at about 20° Elev.) it shot ho<lb rend="hidden" type="hyphenInWord"/>rizontally with pretty great Velocity into the South-east, leaving a Stream of Light in the Air, and disappear'd in about 6″ from its first Appear<lb rend="hidden" type="hyphenInWord"/>ance; but the Streams of Light were continued for a quarter of an Hour, separated into two or three
+<pb n="5" facs="4"/>
+bended Figures, of the Colour of red mottled Fire, which also dy'd away. I should be glad to know whether any of this was seen at <hi>London,</hi> and in what Quarter, that we may make some Judgment of its real Distance and Altitude.</p>
+                  <closer>
+                     <signed>Your most affectionate Friend, <hi>&amp;c.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Yelvertoft, Northamp<lb rend="hidden" type="hyphenInWord"/>ton-Shire,</hi> 
+                        <date>
+                           <hi>Mar.</hi> 21. 1718-19.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>N.B. <hi>This utmost Altitude of about</hi> 20 <hi>Degrees at</hi> Yel<lb rend="hidden" type="hyphenInWord"/>vertoft, <hi>agrees well with several Observations made at</hi> London, <hi>which seems to have been about the same Distance from the Meteor with</hi> Yelvertoft: <hi>For here it never appear'd considerably above</hi> 20 <hi>Degrees high.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Dear Sir,</salute>
+                  </opener>
+                  <p>NOT knowing, whether or no, the following Account of the Appearance may be of any use to you; I thought fit to send it, that you may use it, or not, as you think fit. After the Appearance was over, there appeared a duskish red Streak whence they said the Appearance came; it did not seem to change its Place at all, but gradually vanish'd away in about a quarter, or half an Hour; if the same was also observ'd at other Places, the Heighth and Distance of it might easily be calcula<lb rend="hidden" type="hyphenInWord"/>ted. If my Globe be rightly made, it was be<lb rend="hidden" type="hyphenInWord"/>tween 14 or 15 Degrees high, and about 50 Degrees from the South, counting Westward. But when I look'd at the Appearance it self thro' the Window, it was got further South-Eastward, and could not
+<pb n="6" facs="5"/>
+be above 10 Degrees high, and was between 37 and 42 Degrees from the South to the Westward.</p>
+                  <closer>
+                     <signed>I am, <hi>&amp;c.</hi>
+                     </signed> 
+                     <dateline>
+                        <hi>Lyndon, Rutland,</hi> 
+                        <date>
+                           <hi>Apr.</hi> 6. 1719.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Wednesday, Portsmouth,</hi> 
+                        <date>24 <hi>March,</hi> 1718-9.</date>
+                     </dateline> 
+                     <salute>Dear Sir,</salute>
+                  </opener>
+                  <p>ON <hi>Thursday</hi> Night I saw the shaking Meteor you make mention of. I was abroad in the Yard, before our Commissioner's Door, and observ'd both the Beginning, and almost the whole Continuance of it: which I take to be thus:</p>
+                  <p>At 4 Minutes past 8 a Clock, due West from the Place I stood, about 40 Degrees high, first appear'd a round reddish Ball (as near as I could guess) 8 or 10′ Diameter, which descended slowly down<lb rend="hidden" type="hyphenInWord"/>wards, a little inclining to the South, and all the while encreasing its Magnitude; when it came with<lb rend="hidden" type="hyphenInWord"/>in 20 Deg. of the Horizon, it alter'd its Motion more aslant to the Southward, and increas'd its Brightness and Magnitude prodigiously, till its least Diameter was about 26 to 28 Minutes; its Light and Brightness being equal to the Sun, but of a whiter Colour. (I take the Redness you mention to proceed from the smoaky Air you live in.) The Air was clear, except two thin Clouds through which it pass'd, as if the Clouds had been heated or set on Fire in that Part, and which continu'd near half an Hour. Your Letter, and some other Accounts I have seen, say it continued half a Minute, but in<lb rend="hidden" type="hyphenInWord"/>deed I guest by the Slowness of the Motion it was near a Minute before it disappear'd; and when it came within 7 or 8 Deg. of the Horizon my Sight was obstructed at a Tar-house that intercepted. Ma<lb rend="hidden" type="hyphenInWord"/>ny People affirm they heard a Noise sometime af<lb rend="hidden" type="hyphenInWord"/>ter it like to Thunder, or a hot Iron quench'd in Water: and I thought I heard such a Noise faintly,
+<pb n="7" facs="6"/>
+—which seem'd to be about <hi>Yarmouth</hi> in the <hi>Isle of Wight</hi>—I have seen and spoke with some that were about 28 Miles farther Westward, who affirm they did hear such a Noise very distinctly.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Ashton</hi> near <hi>Exon,</hi> 
+                        <date>
+                           <hi>March</hi> 20. 1718-9.</date>
+                     </dateline>
+                  </opener>
+                  <p>LAST Night, a few Minutes before eight a Clock, we had here the terriblest Flash of Lighten<lb rend="hidden" type="hyphenInWord"/>ing that I believe was ever seen; it lasted about three Minutes, as near as I can guess. It was so great that it quite obscur'd the Light of the Moon, tho' it was a very bright Night. There appear'd in the Sky a Stream as it were of Fire for some Minutes after, and at some Distance as it were a Cloud of Smoke. The Phaenomenon was so very sur<lb rend="hidden" type="hyphenInWord"/>prizing, that I did not at first well know what to make of it, till after gazing at it about three or four Minutes, we heard a great Clap of Thunder, which at first resembled the Noise of Canon, the most I e<lb rend="hidden" type="hyphenInWord"/>ver heard in my Life.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Phillack,</hi> near St. <hi>Ives</hi> in <hi>Cornwall.</hi>
+                     </dateline>
+                  </opener>
+                  <p>ON <hi>Thursday, March</hi> 19, between 8 and 9 in the Evening, there appeared in the Firmament, first a red Star bigger than common, and did in<lb rend="hidden" type="hyphenInWord"/>crease more and more, till at last it burst out in a splendid Light, which did run from the North to the South, and continued near a Minute so light as it was at Noon-Day. We were all astonish'd to see such a splendid Appearance this time a Night.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>March</hi> 28. 1719.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <pb n="8" facs="7"/>
+                  <p>I Could give you a particular Account of the Phae<lb rend="hidden" type="hyphenInWord"/>nomenon, which was seen the 19th Instant in the Evening; for the Explosion was heard here, and by observing the Time, between seeing the Light and hearing the Sound. I have the Distance, by which, with the Angle it made above the Horizon; by Trigonometry I calculate its perpendicular Height to be near 40 Miles, and that it was Verti<lb rend="hidden" type="hyphenInWord"/>cal about <hi>Sheepwash</hi> or <hi>Torrington</hi> in <hi>Devonshire,</hi> and that it was seen in other Countries besides <hi>England,</hi> by reason of its great Height. I suppose the Ex<lb rend="hidden" type="hyphenInWord"/>plosion was not took Notice of at <hi>London,</hi> by rea<lb rend="hidden" type="hyphenInWord"/>son it would not reach the Ear in less than 12 Mi<lb rend="hidden" type="hyphenInWord"/>nutes after the Light.</p>
+                  <closer>
+                     <signed>I am, <hi>&amp;c.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Looe</hi> in <hi>Cornwall,</hi> 
+                        <date>
+                           <hi>March</hi> 27. 1719.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>N.B. <hi>The same Author afterward gave a more parti<lb rend="hidden" type="hyphenInWord"/>cular Account of what he observ'd about this Meteor; of which the Epitome follows.</hi>
+               <q>
+                  <p>It broke out between the two foremost Stars in the Square of the little <hi>Bear,</hi> but 2 or 3 Degrees to the Eastward, at the Altitude of 46°. It ran along by the Star in the bending of the <hi>Dragons Tail,</hi> and thro' the great <hi>Bears Tail,</hi> a little below the middle Star, and so away towards <hi>Cor Caroli,</hi> and past pretty near it; thence coming round again it fell down into our Horizon, cutting it at <hi>S.S.E.</hi> half South nearly; but if any thing to the Eastward, not coming nigh the <hi>Moon.</hi>
+                     <list>
+                        <item>The Sound was certainly heard at <hi>Guernsey.</hi>
+                        </item>
+                        <item>The Course was from the South to the East.</item>
+                        <item>The Sound makes its Altitude 50 Miles nearly.</item>
+                     </list>
+                  </p>
+               </q>
+            </p>
+            <p>
+               <pb n="9" facs="8"/>
+N.B. <hi>That this Author's own natural Thoughts of the Meteor's Altitude, from his Observations, was between</hi> 38 <hi>and</hi> 40 <hi>Miles; tho' in this Letter he seems willing to extend it to about</hi> 50 <hi>Miles: And that another Audi<lb rend="hidden" type="hyphenInWord"/>tor near</hi> Lempster <hi>in</hi> Herefordshire, <hi>estimated the Interval between the Light and the Sound by a Watch, and found it about</hi> 10 <hi>Minutes: Which gives about</hi> 40 <hi>Miles of Altitude also.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>From <hi>Exeter.</hi>
+                     </dateline>
+                  </opener>
+                  <p>SITTING at the Fire-side about Eight a Clock at Night, the <hi>Moon</hi> shining then very bright, and the Sky clear, not the least Cloud to be seen, on the sudden there appeared a very great Light far brighter than the Sun at Noon-day, ac<lb rend="hidden" type="hyphenInWord"/>companied with so great an Heat, that the Arm of mine which was next to the Window burnt for ma<lb rend="hidden" type="hyphenInWord"/>ny Hours as if it had been scalded. There was so great a Smoak, that I thought, and so did ma<lb rend="hidden" type="hyphenInWord"/>ny others, that all the Ground had been on Fire; but we soon perceived that it was in the Sky. The Light came from the North-East (which is the Si<lb rend="hidden" type="hyphenInWord"/>tuation of our Room) it seem'd to go very swift over our House, and so over the Church to the South-West. In a very short time it returned back again (but not near so big) and as it appeared to us, broke just over the Church, like a Sky-Rocket, but so large, and with so many Sparks of Fire, that it left so great a Redness (seemingly to us just the breadth and length of the Church) that it look<lb rend="hidden" type="hyphenInWord"/>ed like all Blood, and gave the same Reflexion into the Rooms on the other side of the House. Some Minutes after this (I should think at least seven or eight) we heard a Report like a great Canon (much greater than ever I heard.) It shook the House and Windows very much. About a
+<pb n="10" facs="9"/>
+Minute after, there went off to our thinking, a<lb rend="hidden" type="hyphenInWord"/>bout thirty, not so big. They sounded just as the Tower-Guns did, when we were in <hi>Mincing<lb rend="hidden" type="hyphenInWord"/>lane,</hi> but shook the House and Windows much more. After this, we heard smaller, with a Sound like Drums and Trumpets, which lasted but a short Time. After the Light went off, although the Moon seemed to shine bright; for about two Mi<lb rend="hidden" type="hyphenInWord"/>nutes, it was so dark, that we could not see our Hands.</p>
+               </body>
+            </floatingText>
+            <p>N.B. <hi>That Resemblance of the latter Sounds to a Drum, I have heard confirm'd by more than one Au<lb rend="hidden" type="hyphenInWord"/>ditor besides.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <p>—I Should not trouble you any longer, but that we had a very extraordinary Meteor last <hi>Thursday</hi> Night, the Nineteenth of this In<lb rend="hidden" type="hyphenInWord"/>stant. I was walking in <hi>Stephen</hi>'s Green, and saw it distinctly, about 20 after Seven, the Moon was pretty bright, when on a sudden, it was in a Manner extinguish'd by a prodigious Blaze, two or three Times bigger than its Orb, of very white clear Light. It began about <hi>E.S.E.</hi> moved for<lb rend="hidden" type="hyphenInWord"/>ward to the <hi>S.</hi> for about 20 Degrees extreamly swift, and then ended in a Point. It shot like a Cone, left a Train of reddish Light, which soon vanish'd, for all was over in eight or nine Se<lb rend="hidden" type="hyphenInWord"/>conds. The Appearances of Meteors are so sudden, and their Continuance so short, that they are sel<lb rend="hidden" type="hyphenInWord"/>dom observ'd, and hard to be describ'd. It was seen at <hi>Drogheda,</hi> but I have heard no Account of it further off.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Trinity-College, Dublin,</hi> 
+                        <date>24. <hi>Mar.</hi> 1718.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <pb n="11" facs="11"/>
+                  <opener>
+                     <dateline>
+                        <hi>London,</hi> 
+                        <date>19 <hi>March,</hi> 1718-9.</date>
+                     </dateline>
+                  </opener>
+                  <p>COming Home this Evening, about 8 a Clock, thro' St. <hi>Paul</hi>'s Church-Yard, on the North side, my Face being Westward, I discern'd in the Sky a large Ball of Fire, at about 20 or 25° height from the Horizon, and bearing about <hi>W.</hi> and by <hi>N.</hi> or <hi>W.N.W.</hi> when I first saw it: It seem'd to be as large as the Moon at Full, with a pale blewish Light, and to have little Motion; but in a Moment it was thrown into the Shape of a common Meteor, the Head di<lb rend="hidden" type="hyphenInWord"/>minishing 'till it was all turn'd into a long Stream of Light, which extended to about 50 or 60° in the Heavens toward <hi>S.W.</hi> and on an Angle of about 10 or 15° from a Parallel with the Horizon, but the broadest part of this Stream was at least double to the Diameter of its first Appearance, and made so strong a Light while it was in its greatest Extent, that for a Moment the Moon, which was above a Day past the first Quarter, and all the Stars, seem'd to disappear by the Superiority of this new Light; and at that Moment one might have read the smallest Print by it. While it was throwing it self into this beautiful Stream, I thought I heard a Noise of hissing, like what is made by the flying of a large Rocket in the Air, but I heard no other Noise. The Light, tho' very strong, was very a<lb rend="hidden" type="hyphenInWord"/>greeable to the Eye, and as it vanish'd it turn'd from a bright Pale to a Yellowish Colour. The Du<lb rend="hidden" type="hyphenInWord"/>ration of the whole I do not think was above half a Minute, and of the greatest Light not the tenth part of a Minute.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <pb n="12" facs="12"/>
+                  <head>
+                     <hi>An Account of the late</hi> Meteor, <hi>as it appear'd at</hi> Norwold <hi>in</hi> Norfolk, <hi>about nine Mile North West of</hi> Thetford.</head>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>March</hi> the 19th, 1718-9.</date>
+                     </dateline>
+                  </opener>
+                  <p>ABout a quarter past eight in the Evening, the Sky being very clear, and the Moon be<lb rend="hidden" type="hyphenInWord"/>tween a Day and two Days past the first Quarter, there appeared a bright Star a little West of <hi>Orion,</hi> and somewhat higher than his Belt; at first it stood still, but in a few Minutes began to glide slowly, and almost parallel to the Horizon, and in<lb rend="hidden" type="hyphenInWord"/>creas'd in Velocity and Bigness, till it came to be between the Belt and Sword of <hi>Orion,</hi> by which time it was as big as the Moon in the Horizon, and burst and fell down very swift with a Train of Light about the Breadth of a Rainbow, which reached from <hi>Orion</hi> to the Horizon, and gradually vanished in small Sparks like a Rocket. It was a Minute or more before they were quite extin<lb rend="hidden" type="hyphenInWord"/>guished; the Light was so great as to extinguish that of the Moon; the Colour was very White and Blue, like the common Composition of Stars in Rockets; and several Persons, both Abroad and in the House, were positive of hearing distinctly a Noise, like a great Number of Rockets going off together.</p>
+               </body>
+            </floatingText>
+            <p>
+               <pb facs="10"/>
+               <figure rend="block">
+                  <figDesc>diagram of path of meteor</figDesc>
+               </figure>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <pb n="13" facs="13"/>
+                  <opener>
+                     <dateline>
+                        <hi>Worcester,</hi> 
+                        <date>
+                           <hi>Mar.</hi> 28. 1719.</date>
+                     </dateline> 
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>ON <hi>Thursday</hi> the 19th of <hi>March,</hi> 1718-9, at 8h 11 so estimated by a Pendulum Clock, com<lb rend="hidden" type="hyphenInWord"/>par'd the next Day with an Horizontal Dial made at <hi>London;</hi> but without allowing any thing for its deviating a little from the true <hi>North</hi> to the <hi>East<lb rend="hidden" type="hyphenInWord"/>ward.</hi> At that Time, I say, I was walking in my Chamber, with my Face towards the Window, made of a clear Glass, from which I was at about three or four Foot Distance, when I saw on a sudden, through it, at the <hi>South West,</hi> a very great Flash of Fire, express'd in the Figure by A B. I open'd instantly the Window, from whence I had a clear Prospect of that Part of Heaven, except a<lb rend="hidden" type="hyphenInWord"/>bout three or four Degrees next to the Horizon. The whole Space A B, was fill'd up in an Instant, with a very bright Flame, which might last about four Seconds of Time, and perhaps not above two or three Seconds, and so did suddenly vanish, lea<lb rend="hidden" type="hyphenInWord"/>ving in the very same Place A B, a small thin Cloud, of a grey Colour, somewhat reddish. At the same Time, a small Fire continu'd from B, to run leisurely along the Line B E C, leaving all a<lb rend="hidden" type="hyphenInWord"/>long behind it a grey Stream, about 15′ broad. The Line B E C, was very uniform, a little bend<lb rend="hidden" type="hyphenInWord"/>ing towards <hi>Sirius;</hi> but the Edges or Sides of it were rough, and not uniform as the Line it self, this Part being in some Places a very little broader or narrower than in others. The whole Figure A B E C resembled exactly a Rod or Staff. The Fire might be about five Seconds in describing the Line B E C, having its handle about 1d broad in A B, in a di<lb rend="hidden" type="hyphenInWord"/>rect continued Line with the rest. While the Line B C was a forming, it look'd exactly as if a Roc<lb rend="hidden" type="hyphenInWord"/>ket, or a Bomb, had been thrown in our Neigh<lb rend="hidden" type="hyphenInWord"/>bourhood. The visible Remains of this whole Phe<lb rend="hidden" type="hyphenInWord"/>nomenon
+<pb n="14" facs="14"/>
+continuing about a Quarter of an Hour, gave me an Opportunity of delineating it immedi<lb rend="hidden" type="hyphenInWord"/>ately, with the Stars about it. But because of the Impossibility of making a plain Figure, represent<lb rend="hidden" type="hyphenInWord"/>ing truly so great a Part of Heaven, unless it be in the Nature of a Projection, I have reduc'd here my Figures to a Planisphere, whereof the <hi>Zenith</hi> is the Center, the Eye being suppos'd in the op<lb rend="hidden" type="hyphenInWord"/>posite Point, in the Surface of the Sphere. How<lb rend="hidden" type="hyphenInWord"/>ever, I have placed the Stars only by Estimation, as my Figures directed me, without using any Ta<lb rend="hidden" type="hyphenInWord"/>ble of the Stars, <hi>&amp;c.</hi> In my Draught, I suppos'd for a Foundation, that the higher-most Star in <hi>O<lb rend="hidden" type="hyphenInWord"/>rion,</hi> was about 30d high, as I judg'd it to be by Estimation. The Situations and Proportions are very near the Matter in the Figure, including in it <hi>Procyon;</hi> at least they are so near the Matter, that from this Observation, and any tolerable Observa<lb rend="hidden" type="hyphenInWord"/>tion beside, made in <hi>England,</hi> &amp;c. from any Place fit for that Purpose, it may be very safely determi<lb rend="hidden" type="hyphenInWord"/>ned how high this Phenomenon was from the Sur<lb rend="hidden" type="hyphenInWord"/>face of the Globe; what Places it was perpendicu<lb rend="hidden" type="hyphenInWord"/>lar upon; what was its true Bigness and Figure, and real Swiftness in Burning; and how much it was leaning at its Extremity C, either towards <hi>Worcester</hi> or from it; and lastly, whether the Line A B E C, was really uniform in it self, and almost streight; or, whether it only seemed so to me, as being at <hi>Worcester.</hi> As soon as we knew that this Phenomenon had been seen at <hi>London,</hi> and that there, as they said, it gave as great a Light as in the Day Time, I concluded that it had been seen in <hi>Cornwall</hi> too. The printed Account, in a Letter from <hi>Plimouth, March</hi> the 20th, though very gene<lb rend="hidden" type="hyphenInWord"/>ral, and upon that Account imperfect; yet enables us to guess very well at the Height and Bigness, and Situation of the bright Part A B, of this Phe<lb rend="hidden" type="hyphenInWord"/>nomenon; and that with so much the more Cer<lb rend="hidden" type="hyphenInWord"/>tainty, because the Part A B was very near the <hi>Ze<lb rend="hidden" type="hyphenInWord"/>nith</hi> at <hi>Plimouth.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="15" facs="15"/>
+N.B. <hi>That this curious Author's Computation of the middle Point of the larger Part of the Meteor, or of it when it was bursting to Pieces in its Explosion, is scarce</hi> 22½ <hi>Miles. But then, that is only on the Supposition that that Point was perpendicularly over</hi> Plimouth, <hi>as some imperfect Accounts at first said; whereas the Observati<lb rend="hidden" type="hyphenInWord"/>ons by the Stars which are among the exactest I have heard of, compar'd with others already set down, will prove, That that Point was not then over</hi> Pli<lb rend="hidden" type="hyphenInWord"/>mouth, <hi>but rather over the middle of</hi> Bretaign <hi>in</hi> France; <hi>which greater Distance will by the same Me<lb rend="hidden" type="hyphenInWord"/>thod of Computation, afford us near forty Miles Alti<lb rend="hidden" type="hyphenInWord"/>tude, which agrees with the most accurate Observations of the Interval, between the Sound and the Light, and with the rest of the Observations by the Stars already set down; and indeed, with the Generality of the Obser<lb rend="hidden" type="hyphenInWord"/>vations every where that I have met with; and may therefore, I think, be entirely depended on by us.</hi>
+            </p>
+            <p>NOW the proper Result of all these Accounts, and of many others that I have seen and heard, is this; That this Meteor was compos'd of Nitro-sulphureous Vapours, or Exhalations, collected first together in the upper Regions of the Air, over <hi>Radnorshire</hi> in <hi>Wales,</hi> or the neighbouring Counties: That it was at first smaller, and to Appearance like a large Star only; that it gathered more Fewel as it rolled along, and grew larger and larger all the Way; that its Course was nearly Parallel to the Horizon, and its Direction nearly South, or a very small matter towards the South-West: That by the time it came to be Vertical, between <hi>Cardiff</hi> in <hi>Wales</hi> and, and <hi>Minehead</hi> in <hi>Somerset<lb rend="hidden" type="hyphenInWord"/>shire,</hi> over the <hi>Severn</hi> Sea, it was become vastly large and bright, so as to exceed the Noon-day Sun in Splendor, near that Line along which it pass'd, and
+<pb n="16" facs="16"/>
+to equal its apparent Magnitude also: That it pro<lb rend="hidden" type="hyphenInWord"/>ceeded in this manner quite over <hi>Devonshire,</hi> but much nearer the Eastern Limits of it, than the Western: That it past almost perpendicularly over the City of <hi>Exeter,</hi> and so over the <hi>British</hi> Channel, till it came over <hi>Bretaign</hi> in <hi>France:</hi> That all this while its Mag<lb rend="hidden" type="hyphenInWord"/>nitude and Light were not impair'd; that it made a hissing Noise like a Rocket all the way, and spread a prodigious and continued Lightening, even to the utmost Limits of the whole Horizon: That upon its coming near to <hi>Bretaign</hi> in <hi>France,</hi> it began to burst to Pieces and dissolve, with a prodigious Noise, which endur'd for some time, answering to the time of its bursting to Pieces, all the while it was dissolving: That it left a large Smoke, or sort of Cloud along all that Space where it burst, above 100 Miles in Length, over our Channel and <hi>Bretaign,</hi> and perhaps somewhat further towards <hi>Bell-Isle:</hi> That the Noise of this Explo<lb rend="hidden" type="hyphenInWord"/>sionw as heard all along its Course, and 50 or 60 Miles at least on both Sides of it; first like a vast Number of great Guns discharg'd together; and then like the rattling or interrupted Noise of Drums; such as are in both Cases usual in and after great Claps of Thunder: That this Meteor, while it was dissolving, seems to have sent out lesser Streams of Light, backwards to<lb rend="hidden" type="hyphenInWord"/>wards <hi>Wales</hi> from the North-end; and backwards to<lb rend="hidden" type="hyphenInWord"/>wards <hi>Exeter,</hi> from the South-end, before it intirely va<lb rend="hidden" type="hyphenInWord"/>nished: After which, certain Traces or Streams of the fiery Vapors continued sor a quarter of an Hour, as Marks where it had passed: That this Meteor must have been about 38 or 40 Miles in perpendicular Height from the Earth all along, tho' perhaps somewhat lower towards its dissolution: That it went from <hi>Radnor</hi> in <hi>Wales,</hi> to the utmost Parts of <hi>Bretaign</hi> in <hi>France,</hi> or about 300 Miles, in 7 or 8″ of Time; or at the Rate of above 2000 Miles in a Minute: That it must have been visible, wherever Clouds did not in<lb rend="hidden" type="hyphenInWord"/>terpose, within the Compass of an Oval, whose lon<lb rend="hidden" type="hyphenInWord"/>ger Axis, drawn nearly through <hi>Radnor</hi> and <hi>Bell-Isle,</hi> must have been about 1400 Miles, and its lesser at right Angles thereto about 1100 Miles, <hi>i. e.</hi> through
+<pb n="17" facs="17"/>
+all <hi>Great Britain</hi> and <hi>Ireland;</hi> through <hi>Holland, Flanders,</hi> the Western Parts of <hi>Germany,</hi> all <hi>France,</hi> and the North-East Parts of <hi>Spain,</hi> with <hi>Lombardy</hi> in <hi>Italy:</hi> And that it was really about a Mile in Diameter: That therefore it was truly a <hi>Meteor,</hi> or what properly, during its whole Course, was within the Limits of our Atmosphere: As both the hissing Noise during its Passage, and the terrible Thunder afterwards, do plainly demonstrate. It being well known that no Sound can be propagated, but through the elastical Medium of the Air. The remaining Traces of this Meteor left in the same Air, and seen therein for a quarter of an Hour after it was gone, are also evident Demonstrations of the same thing.</p>
+         </div>
+         <div n="2" type="section">
+            <p n="2">II. I shall now give the Reader faithful Accounts of other Phaenomena of the like Nature with this Meteor before us, so far as they have hitherto come to my Hand.</p>
+            <p n="1">(1.) The first Meteor of this kind that I have met with as seen in this last Age (for of the elder Ones we have generally such imperfect Accounts, and that chiefly as Omens only, that little Light can be gather<lb rend="hidden" type="hyphenInWord"/>ed from them, to any sober Enquirer's Satisfaction) is that mentioned by Dr. <hi>Hook,</hi> in these Words.<q rend="inline">
+                  <p>
+                     <note place="marg">
+                        <hi>Hook</hi>'s <hi>Posthu<lb rend="hidden" type="hyphenInWord"/>mous Works.</hi> p. 200.</note>A like Phaenomenon to that in <hi>Italy</hi> 1676, says he, was some 10 Years before observ'd, both here in <hi>England</hi> and in <hi>Holland.</hi> It was seen by Sir <hi>Rob. Murray,</hi> if I mis-remember not, and by Mr. <hi>Shortgrave;</hi> and I think, also by Mons. <hi>Hugens</hi> in <hi>Holland.</hi> It was as big as the <hi>Italian</hi> Meteor, and was judg'd to be of an exceeding great Height in the Atmo<lb rend="hidden" type="hyphenInWord"/>sphere; being seen at Places so far distant at the same time. It appeared first about the North-East, and pas<lb rend="hidden" type="hyphenInWord"/>sed by the North-West; not rising, as I remember, so high, as 10 Degrees above the Horizon.</p>
+               </q>
+            </p>
+            <p n="2">
+               <pb n="18" facs="18"/>
+(2.) The second Meteor of this kind, that I have met with was, in the Words of the same Dr. <hi>Hook</hi> 
+               <q rend="inline">
+                  <note place="marg">
+                     <hi>Ibid.</hi> p. 199.</note>A <hi>Fax,</hi> or <hi>Lam<lb rend="hidden" type="hyphenInWord"/>pas volans,</hi> observ'd after Sun-set, the 1 st of <hi>March</hi> 1676, at <hi>Fau</hi>—by <hi>Petrus de Lavina;</hi> at <hi>Rome,</hi> by Monsieur <hi>Auzout;</hi> at <hi>Florence,</hi> by <hi>Matthias del Arpi;</hi> at <hi>Venice,</hi> by <hi>Jo. Jacob Hertz;</hi> and in several other Cities of <hi>Italy:</hi> In all which it was seen also by very many others: And at the same time also, was observ'd in the lower Parts of <hi>Germany;</hi> as at <hi>Triers,</hi> by the Jesuits there; Places very far distant from one another; and yet the Time and Manner of the Appearance in all was much the same. It seemed to rise out of the North-East, and to pass by the Me<lb rend="hidden" type="hyphenInWord"/>ridian to the South-West Parts of the Heavens, near the same Tract that the Sun had gone that Day; and disappear'd behind thick Clouds, where, with a mighty Noise, it was suppos'd to be blown to pieces and dispers'd. It appeared about the Bigness of the Full Moon, and left behind it a Tail about three Diameters, of a reddish Flame at first, but turning blewish towards the last. It lasted about a Mi<lb rend="hidden" type="hyphenInWord"/>nute or two. Its Noise at last was like the Noise of an Earthquake at a Distance, and made the Glass in the Windows shake. From the comparing several Obser<lb rend="hidden" type="hyphenInWord"/>vations 'twas suppos'd about 90 Miles high, and near a Mile in Diameter.</q>
+            </p>
+            <p>N.B. <hi>This must, in all Probability, be the very same Meteor which</hi> Montanari, <hi>the great Mathematician at</hi> Bononia <hi>saw, and exactly measur'd; of which pre<lb rend="hidden" type="hyphenInWord"/>sently. For it was seen in the same Year, in the same Month, at the same time of the Night, in the same Countries, and passed along the very same Course, and was of the same Bigness; as will appear immediate<lb rend="hidden" type="hyphenInWord"/>ly. How the Day of the Month,</hi> March 1 <hi>for</hi> March 21, <hi>comes to be mistaken, I do not certainly know; on<lb rend="hidden" type="hyphenInWord"/>ly if they were both meant of the same Style, it is very easily accounted for.</hi>
+            </p>
+            <p>
+               <pb n="19" facs="19"/>
+N.B. <hi>The real Altitude therefore of this Meteor was not</hi> 90 <hi>Mile, as 'tis here in general stated; but about</hi> 38 <hi>Miles rather, as</hi> Montanari <hi>particularly measur'd it; as we shall now see.</hi>
+            </p>
+            <p n="2">(2.) The Third, or rather the same Second Meteor of this kind I have met with, is that on <hi>March</hi> 21. 1676, about an Hour and three quar<lb rend="hidden" type="hyphenInWord"/>ters after Sun-set, exactly, to a few Mi<lb rend="hidden" type="hyphenInWord"/>nutes, within two Days of 43 Years before the last; which was an eminent one indeed, and was particularly ob<lb rend="hidden" type="hyphenInWord"/>serv'd at <hi>Bononia,</hi> by that great Mathematician <hi>Monta<lb rend="hidden" type="hyphenInWord"/>nari.</hi> "It came over the <hi>Adriatick,</hi> says Dr. <hi>Halley</hi> in his Extract from him, <q rend="inline margQuotes">
+                  <note place="marg">
+                     <hi>Philosophical Transact.</hi> No. 341.</note>"as from <hi>Dalmatia;</hi> crost over <hi>Italy;</hi> and became nearly Vertical to <hi>Rimini</hi> and <hi>Le<lb rend="hidden" type="hyphenInWord"/>ghorn:</hi> Its perpendicular Altitude was, at least, 38 Miles; it made a hissing Noise as it passed, which was heard near its Course: From <hi>Leghorn</hi> it went off to Sea, towards <hi>Corsica:</hi> And at <hi>Leghorn</hi> it was heard to give a very great Blow, beyond the Noise of a great Cannon; with a Rattling, which conti<lb rend="hidden" type="hyphenInWord"/>nued about a Minute or two. Its Velocity was not less than 160 Miles in a Minute: It was of an oval Shape: At 50 Miles Distance, its lesser Diameter was as large to the Eye as the Moon's Diameter, and its larger above half as big again; so that its real lesser Diameter was above half a Mile, and the o<lb rend="hidden" type="hyphenInWord"/>ther more than three quarters of a Mile.</q>
+            </p>
+            <p n="3">(3.) The next Meteor of this kind, was that mentio<lb rend="hidden" type="hyphenInWord"/>ned by Dr. <hi>Wallis, Sept.</hi> 20. 1676. about 7 at Night, which he describes thus; <q rend="inline margQuotes">
+                  <note place="marg">
+                     <hi>Philosophical Transact.</hi> No. 135.</note>"There appeared a sudden Light, equal to that of Noon-day, so that the smallest Pin or Straw might be seen lying on the Ground; and above in the Air was seen, (at no great Distance, as was suppos'd,) a long Appearance as of Fire; like a long Arm, with a great Knob at the End; for so it was de<lb rend="hidden" type="hyphenInWord"/>scribed to the Dr. (who did not himself see it;)
+<pb n="20" facs="20"/>
+shooting along very swiftly: And at its disappear<lb rend="hidden" type="hyphenInWord"/>ing seem'd to break into small Sparks or Parcels of Fire, like as Rockets, and such artificial Fire-works in the Air are wont to do. 'Twas so surprizing, and of so short continuance, that it was scarce seen by any who did not then happen to be abroad; and lasted only while one might tell 15 or 20 at most. It was seen in most of the Southern Counties of <hi>England,</hi> at or near the same time. Nor could the Dr. satisfy himself which way this Meteor went.</q>
+            </p>
+            <p n="4">(4.) The next Meteor of this kind is that mentio<lb rend="hidden" type="hyphenInWord"/>ned by <hi>Kirchius,</hi> as seen at <hi>Leipsick, May</hi> 22. 1680. <q rend="inline margQuotes">
+                  <note place="marg">
+                     <hi>Philosophical Transact.</hi> No. 341.</note>"about three in the Morning, as descending in the North, and leaving behind it a long white Streak. It was seen at several Places 160 <hi>English</hi> Miles distant from <hi>Leipsick,</hi> but met with no good Observers: as it is no wonder at that time of the Night.</q>
+            </p>
+            <p n="5">(5.) The next Meteor of this kind, was seen by <hi>Kirchius</hi> himself at <hi>Leipsick, July</hi> 9. 1686. <q rend="inline margQuotes">
+                  <note place="marg">
+                     <hi>Ibid.</hi>
+                  </note>"at half an Hour past One in the Morning: which mov'd but ve<lb rend="hidden" type="hyphenInWord"/>ry little for half a quarter of an Hour; its Diameter was about half as large as that of the Moon: Its Light at first was such, you might read by it; but by degrees it vanished away. It was seen in many Places at a considerable Distance from <hi>Leipsick;</hi> and and was at least 30 <hi>English</hi> Miles high.</q>
+            </p>
+            <p n="6">(6.) The next Meteor of this kind, that I have met with, was seen by Mons. <hi>Feuillee,</hi> a cu<lb rend="hidden" type="hyphenInWord"/>rious <hi>Ir<gap resp="#oxf" extent="3+ letters" rend="content:•••…">
+                     <desc>illegible</desc>
+                  </gap>
+               </hi> Observer in the <hi>South-Sea, May</hi> 1<gap resp="#oxf" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>. 1708. about Nine at Night. His Words are these: <q rend="inline">
+                  <note place="marg">
+                     <hi>Feuillee</hi>'s <hi>Jour<lb rend="hidden" type="hyphenInWord"/>nal.</hi> p 116.</note>We saw, s ys be, a flying Fire, which being lighted all of a sudden perfectly resembled the Planet <hi>Venus;</hi> it remain;d in the Place where it first appear'd for a Minute and a half. I took care to observe it, by comparing it with the nearest of the fixed Stars. On a sudden it exten<lb rend="hidden" type="hyphenInWord"/>ded it self, and filled all the Horizon with Light, in such a manner, that we might have discover'd a Ship
+<pb n="21" facs="21"/>
+in any Part of the Horizon. This Light thus spread, lasted but a short time.</q>
+            </p>
+            <p n="7">(7.) The next Meteor of this kind, that I have met with, was seen by the same Observer, a little above two Months after the for<lb rend="hidden" type="hyphenInWord"/>mer, in the same Voyage, <hi>July</hi> 17. 1708. His Words are these; <q rend="inline">
+                  <note place="marg">
+                     <hi>Ibid.</hi> p. 199.</note>In the Night, I saw a Phaeno<lb rend="hidden" type="hyphenInWord"/>menon very Particular, almost like another that I had observed in the Northern Parts. As Astronomy has been always my chief delight, I was looking up to the Heavens to observe the Stars that make all its Beauty, and which compose the Southern Constella<lb rend="hidden" type="hyphenInWord"/>tions. When I perceived on a sudden a Star much greater than <hi>Jupiter</hi> and <hi>Venus,</hi> which continuing more than two Minutes in the same bigness, and without losing any thing of its Light; I began to think, from its duration, that it was a <hi>New Star.</hi>—Whilst I was employ'd in observing this New Phaenomenon, it hap<lb rend="hidden" type="hyphenInWord"/>pen'd that this Luminary, as I could properly call it at that time, took Fire all on a sudden; and,—ex<lb rend="hidden" type="hyphenInWord"/>tending it self throughout all our Hemisphere, disco<lb rend="hidden" type="hyphenInWord"/>ver'd it to us intirely, and made us see to the furthest Limits of it, so that we might have seen a Ship at a great distance; and, if I may venture to say it, even in any Part of the Horizon; from whence, one may judge, how very great this Light must have been.</q>
+            </p>
+            <p n="8">(8.) The next Meteor of this kind, was seen in <hi>En<lb rend="hidden" type="hyphenInWord"/>gland, July</hi> 31. 1708. between 9 and 10 a Clock at Night. <q rend="inline margQuotes">
+                  <note place="marg">
+                     <hi>Philosophical Transact.</hi> No. 341.</note>"It was between 40 and 50 Miles perpendicularly high; and that over <hi>Sheerness,</hi> or the <hi>Buoy on the Nore.</hi> It was seen at <hi>London,</hi> and in <hi>Suffolk,</hi> [and no doubt in the neighbouring Parts of <hi>England.</hi>]</q> It appear'd at <hi>London</hi> to move horizontally, from <hi>E.</hi> by <hi>N.</hi> to <hi>E.</hi> by <hi>S.</hi> and in <hi>Suffolk</hi> it appear'd as sliding obliquely downwards. It was very bright at its first Appearance, sufficient to take up a Pin, and but a little inferior to the Light of the <hi>Moon;</hi> and it died away at the End of its Course, leaving a pale whiteness in the Place, without any Noise.</p>
+            <p>
+               <pb n="22" facs="22"/>
+This is an Epitome of the several Histories of Me<lb rend="hidden" type="hyphenInWord"/>teors of this Nature, that I have yet met with in the last Age.</p>
+            <p n="9">(9.) Nor do I know of any the like Meteors seen since, till this before us; Unless we reckon that men<lb rend="hidden" type="hyphenInWord"/>tion'd in our <hi>Gazette,</hi> and News-Papers, as seen over <hi>Venice, Feb.</hi> 22. last. But since it does not yet appear that this was seen at any considerable Distance, per<lb rend="hidden" type="hyphenInWord"/>haps it might be somewhat of another Nature, and such a Meteor as is several times seen in our lower Air.</p>
+         </div>
+         <div n="3" type="section">
+            <p n="3">III. I shall now give some Account of Dr. <hi>Wallis's</hi> Hypothesis about such Meteors; namely, that they are Comets: with my Reasons against that Hypo<lb rend="hidden" type="hyphenInWord"/>thesis.</p>
+            <p>Now as to this Hypothesis, take it in the Doctor's own Account, <hi>Philos. Transact.</hi> No. 135. as set down by Mr. <hi>Lowthorp,</hi> in his Abridgment of those Transactions, <q rend="inline margQuotes">"The Breadth of Ground, says he, where this <hi>Meteor, Sept.</hi> 20. 1676. was seen, was too much for any or<lb rend="hidden" type="hyphenInWord"/>dinary Meteor in our lower Region of the Air to be seen in at once; which argues that either it was <hi>higher</hi> than it was imagin'd to be, (tho' the <hi>Light</hi> of it reached the Earth,) or else that it had a very <hi>swift Motion.</hi> This made me then conjecture, that it might be some small <hi>Com t,</hi> whose <hi>linea trajectori<gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                        <desc>illegible</desc>
+                     </gap>
+                  </hi> passed very near our Earth, or upon it; and might when farther distant from us, appear as a Comet And that Comet, which hath since appeared in <hi>Apri</hi> and <hi>May,</hi> confirms me in the same Opinion; which I conjecture may be the very same which passed by us in <hi>September</hi> last.</q> So far Dr. <hi>Wallis.</hi> Now tho this Hypothesis might be tolerable when it was writ<lb rend="hidden" type="hyphenInWord"/>ten, before the true Theory and Motions of Comets were discover'd by Sir <hi>Isaac Newton,</hi> and when the Dr seems not to have been acquainted with any other Ap<lb rend="hidden" type="hyphenInWord"/>pearance of the like Nature, yet will it now no way bear. The Reason is obvious, <hi>viz.</hi> because these Me<lb rend="hidden" type="hyphenInWord"/>teors have no manner of Resemblance to Comets at all
+<pb n="23" facs="23"/>
+either in their <hi>Bigness,</hi> which is usually about or under a Mile in Diameter; while Comets are usually of the Bigness of Planets, or several thousand Miles in Dia<lb rend="hidden" type="hyphenInWord"/>meter: or in their <hi>Nature,</hi> which is that of Light or Fire; while Comets are ever as dark or opake in them<lb rend="hidden" type="hyphenInWord"/>selves as the Planets; or in their <hi>Trajectory,</hi> which in Comets is a Line descending to, and ascending from the Sun, and nearly parabolical; while these Meteors still pass in a manner parallel to the Earth's Horizon: or in their <hi>Velocity,</hi> which in these Meteors is very diffe<lb rend="hidden" type="hyphenInWord"/>rent, but in Comets near the Earth is always the same; or in their <hi>Atmospheres,</hi> of which these Meteors are still destitute; but which almost always encompass the Bo<lb rend="hidden" type="hyphenInWord"/>dies of Comets, and that to a vast Distance; or in their <hi>Tails,</hi> of which we have no Signs in these Me<lb rend="hidden" type="hyphenInWord"/>teors, but which almost as certainly accompany the Comets as do their Atmospheres themselves, as in<lb rend="hidden" type="hyphenInWord"/>deed derived from them: or in their <hi>visible Duration,</hi> which in these Meteors is seldom many Minutes, fre<lb rend="hidden" type="hyphenInWord"/>quently not many Seconds, but in Comets is usually many Days or Weeks, nay sometimes Months. To say nothing of the Impossibility there is that the same Co<lb rend="hidden" type="hyphenInWord"/>met which was near the Earth in <hi>September</hi> should con<lb rend="hidden" type="hyphenInWord"/>tinue near it, or approach again to it seven or eight Months afterwards, as the Dr. supposes; when the Earth was then not very far from the opposite Point of its Orbit, or more than 100,000,000 Miles distant from its former Place. 'Tis therefore certain that these Meteors cannot belong to the Species of Bodies we call Comets.</p>
+         </div>
+         <div n="4" type="section">
+            <p n="4">IV. I shall now give a like Account of Dr. <hi>Halley</hi>'s Hypothesis about these Meteors; <hi>viz.</hi> That they are a sort of <hi>fortuitous Collection of such Vapours</hi> in the vast Void about us, as by Accident only fall into our At<lb rend="hidden" type="hyphenInWord"/>mosphere, at certain times; without any other relati<lb rend="hidden" type="hyphenInWord"/>on thereto; with my Reasons against that Hypo<lb rend="hidden" type="hyphenInWord"/>thesis.</p>
+            <p>Dr. <hi>Halley</hi> gives us his Hypothesis, <hi>Transact. No.</hi> 341. <hi>p.</hi> 162. in these Words, <q rend="inline margQuotes">"I have, says he, much con<lb rend="hidden" type="hyphenInWord"/>sidered
+<pb n="24" facs="24"/>
+this Appearance, and think it one of the hardest things to account for that I have yet met with in the Phaenomena of Meteors; and am in<lb rend="hidden" type="hyphenInWord"/>duced to think that it must be some Collection of Matter form'd in the Aether, <hi>as it were by some fortui<lb rend="hidden" type="hyphenInWord"/>tous Concourse of Atoms;</hi> and that the Earth met with it as it past along in its Orb, then but newly form'd, and before it had conceiv'd any great <hi>Impetus</hi> of Descent toward the Sun. For the direction of that over <hi>Italy</hi> was exactly opposite to that of the Earth, that is, its Course was from <hi>W.S.W.</hi> to <hi>E.N.E.</hi> where<lb rend="hidden" type="hyphenInWord"/>fore the Meteor seem'd to move the contrary way; and besides, falling into the Power of the Earth's Gravity, and losing its Motion from the Opposition to the Medium, it seems that it descended towards the Earth, and was extinguish'd in the <hi>Tyrrhene</hi> Sea, to the West South West of <hi>Leghorn.</hi> The great Blow being heard upon its first Immersion into the Water, and the rattling like the driving a Cart over Stones, being what succeeded upon its quenching; some<lb rend="hidden" type="hyphenInWord"/>thing like which is always observ'd upon quenching a very hot Iron in Water.</q> Thus far Dr. <hi>Halley.</hi>
+            </p>
+            <p>Now the plain Reasons why I can no way agree to this Hypothesis, are these:</p>
+            <p n="1">(1.) 'Tis very evident, there neither is, nor can be any such <hi>Collection of Vapours form'd in the Aether, as it were by some fortuitous Concourse of Atoms, and without Gravity,</hi> which the Dr. here supposes as the Foundati<lb rend="hidden" type="hyphenInWord"/>on of his Hypothesis. Such a Mass of Matter in an immense Vacuum, without any Gravitation to the Sun, the Dr. well knows is a mere Chimaera, contra<lb rend="hidden" type="hyphenInWord"/>dicting all the certain Philosophy in the World. Nor can it be possibly suppos'd but by immediate Creati<lb rend="hidden" type="hyphenInWord"/>on out of nothing, or by it self emerging out of no<lb rend="hidden" type="hyphenInWord"/>thing, without being created, before it could be thus <hi>collected together;</hi> neither of which Notions, I imagine, will be justify'd by the Dr. himself, in his cool Thoughts. But let us for once suppose such Masses of fiery Matter frequently collected in the Aether, tho' we know they cannot possibly be so collected; yet is it evident,</p>
+            <p n="2">
+               <pb n="25" facs="25"/>
+(2.) That if such Meteors as these were thence de<lb rend="hidden" type="hyphenInWord"/>riv'd, they would appear at all sorts of Distances, within the reach of their Light, or within the reach of a thousand or two of Miles: For a Body so large, and a Light so nearly equal to that of the Sun, as these have, would certainly be visible so far; where<lb rend="hidden" type="hyphenInWord"/>as it does not appear, that any of them have been yet seen so far as 50 Miles from the Earth.</p>
+            <p n="3">(3.) These Meteors would, on such an Hypothesis, be equally of all Magnitudes whatsoever; such fortu<lb rend="hidden" type="hyphenInWord"/>itous Productions, if such there were, going for cer<lb rend="hidden" type="hyphenInWord"/>tain by no Rule at all: Whereas those above-mention<lb rend="hidden" type="hyphenInWord"/>ed seem never to have been of a larger Size than this last, which was about a Mile in Diameter; and the rest of no very great Variety therefrom.</p>
+            <p n="4">(4.) They would and must all, upon this Hypo<lb rend="hidden" type="hyphenInWord"/>thesis, as the Dr. allows, in these Climates, go nearly with the same Velocity, and in the same Course, as to our Sight, <hi>i. e.</hi> from East to West; because their Motion being only apparent, must be deriv'd from the Earth's Motions, Annual and Diurnal, which are from West to East, both the same way, and of one tenor. Whereas these Meteors go uncertainly, and without any regard to those Motions at all. Accordingly, this last went almost directly South, and much faster than even the annual Motion it self; entirely contrary to this Hy<lb rend="hidden" type="hyphenInWord"/>pothesis.</p>
+            <p n="5">(5.) If these Balls of Light or Fire were such Mas<lb rend="hidden" type="hyphenInWord"/>ses as did not belong to our Atmosphere, but only pass'd through it accidentally, as Dr. <hi>Halley</hi> supposes; why do we not see them before our Atmosphere reaches them? and after it leaves them, whenever it does so, as well as while they pass through it? not to say, that the first Collection, as well as last Dissoluti<lb rend="hidden" type="hyphenInWord"/>on of these Meteors, does, by the Observations them<lb rend="hidden" type="hyphenInWord"/>selves appear, both to begin and end within the Li<lb rend="hidden" type="hyphenInWord"/>mits of that Atmosphere, and thereby shew they pro<lb rend="hidden" type="hyphenInWord"/>perly belong to it, entirely contrary to the Dr's. Hy<lb rend="hidden" type="hyphenInWord"/>pothesis.</p>
+            <p n="6">(6.) If this was the Origin of these Meteors, why do they seldom or never hit against the Body of the
+<pb n="26" facs="26"/>
+Earth it self, or terraqueous Globe, but against the Air? Or rather, why does the Body of the Earth or terraqueous Globe, seldom or never hit against these Me<lb rend="hidden" type="hyphenInWord"/>teors, but only the Air, nay the upper Regions of the Air? Why do these Meteors seldom or never destroy a City, or burn up a Fleet, as well as pass over our Heads, without doing us any Damage? The Earth's Diameter is near 8000 Miles; the Altitude of any sen<lb rend="hidden" type="hyphenInWord"/>sible Atmosphere, as Dr. <hi>Halley</hi> has fully prov'd, is not 50 Miles, and thence the Diameter of the whole, not 8100 Miles. Now the Disk or biggest Circle of the larger Sphere will be to the Disk or biggest Circle of the smaller here, as the Squares of those Numbers, or nearly as 40 to 41, and the Difference of those Squares, or the Hazard of such a Ball's hitting against the Earth, or the Atmosphere, will be as the smaller Number to the Difference of those Numbers, or as 40 to 1. Nay, since only the upper Regions of the Air, for in them alone these Meteors have been seen, are to be compar'd with the Earth; it will appear on a like Calculation, that the Hazard of such a Ball's hitting against the Earth, is to that of its hitting a<lb rend="hidden" type="hyphenInWord"/>gainst the upper Parts of the Atmosphere, at least as 100 to 1, or that, one with another, 100 of these ter<lb rend="hidden" type="hyphenInWord"/>rible Meteors will hit against the Earth it self, and de<lb rend="hidden" type="hyphenInWord"/>stroy all before them, for one that hits against the upper Regions of the Air; and above 100 will hit a<lb rend="hidden" type="hyphenInWord"/>gainst either the Earth, or lower Regions of the Air, for one that hits against those upper Regions; to which yet we see Providence usually, if not always confines them. I say that these Meteors seem seldom or never to hit against the terraqueous Globe it self.</p>
+            <p>'Tis true, Dr. <hi>Halley</hi> imagines, that those which go off with a Report, as the principal certainly, and all probably do, must fall into the Sea, and in quenching make that Noise we hear after these Mete<lb rend="hidden" type="hyphenInWord"/>ors, and that one of those already mentioned descen<lb rend="hidden" type="hyphenInWord"/>ded towards the Earth, and was extinguished particu<lb rend="hidden" type="hyphenInWord"/>larly in the <hi>Tyrrhene Sea.</hi> But then, since that is a bare Hypothesis, and without any Fact or History to sup<lb rend="hidden" type="hyphenInWord"/>port it, nay contrary to the known Observations them<lb rend="hidden" type="hyphenInWord"/>selves,
+<pb n="27" facs="27"/>
+while Dr. <hi>Hook</hi>'s Account, set down as above, assures us, that the <hi>Italian Meteor</hi> which Dr. <hi>Halley</hi> sup<lb rend="hidden" type="hyphenInWord"/>pos'd to fall into the Sea, only set behind a Cloud, I shall not need to confute it any farther. In short, this whole Hypothesis seems to me so very weak, that it can only be excus'd and forgiven on account of the many other noble and truly excellent Performances of its Author. Tho' I confess I think this Author should not easily forgive himself in one thing, I mean that odd Insi<lb rend="hidden" type="hyphenInWord"/>nuation here made, as if there might be a <hi>formation of Meteors,</hi> at least, if not of other Bodies also, <hi>as it were by some fortuitous Concourse of Atoms;</hi> which, I venture to say it, is, at this time of Day especially, as little a<lb rend="hidden" type="hyphenInWord"/>greeable to sound Philosophy, as to all the Notions we have of Providence and Religion.</p>
+         </div>
+         <div n="5" type="section">
+            <p n="5">V. I shall now propose a New Hypothesis of my own, for the Solution of these Appearances, <hi>viz.</hi> That they are no other than prodigious Storms, or Blasts of Thunder and Lightening in the upper Regions of our Air: With my Reasons for that Hypothesis.</p>
+            <p>Having therefore now given my Reasons, why I cannot at all go into the Notions of either Dr. <hi>Wallis,</hi> or Dr. <hi>Halley</hi> in this Matter; I come to my own Hypo<lb rend="hidden" type="hyphenInWord"/>thesis, or Conjecture; so I shall yet call it: Tho' I confess the Evidence for it seems to me so strong, that, if the future Phaenomena of this kind do confirm it, as much as I think those do which we are hitherto acquainted withal, it may perhaps hereafter merit a higher Denomination.</p>
+            <p>My Opinion therefore concerning such Meteors, is plainly this, That they properly deserve that Name of <hi>Meteors,</hi> as belonging directly to our Atmosphere; and that they are no other than prodigious Storms or blasts of Thunder and Lightening, of such Thunder and Lightening, as is proper and peculiar to those more elevated Regions of our Air in which they ap<lb rend="hidden" type="hyphenInWord"/>pear. In order to the true understanding of my meaning in which Hypothesis, the Reader must observe, that the Air at 39 Miles high, is, by Dr. <hi>Halley</hi>'s Cal<lb rend="hidden" type="hyphenInWord"/>culation,
+<pb n="28" facs="28"/>
+agreed to now by all, about 2000 times ra<lb rend="hidden" type="hyphenInWord"/>rer and weaker than it is here with us; that a Storm or Blast of this kind, even here below, seems to be a Collection of nitro-sulphureous and fiery Vapors, into a sort of a rolling Globe, or Whirl-wind of Fire; that this is that <hi>Fulmen</hi> or <hi>pernicious Lightning,</hi> which is so terrible in its Effects; that it is still accompanied with that <hi>Fulgur</hi> or <hi>Flash,</hi> we call <hi>common Lightening,</hi> and with that <hi>Tonitru,</hi> that great rolling or rattling Noise which we call <hi>Thunder;</hi> and that such Collecti<lb rend="hidden" type="hyphenInWord"/>ons of nitro-sulphureous or fiery Vapors may be vastly larger before they are limited or determined by the external Air, which by rarefaction is excluded from within, where it is so vastly rare, than the like Col<lb rend="hidden" type="hyphenInWord"/>lections are with us: That the prodigious Velocity of such Balls may also be better suppos'd in such a rare and thin Medium, than in ours, so much denser and thicker; and that so much the greater Quantity of nitro-sulphureous Vapors will be spent and exhausted by one such Ball or Blast, than by one of ours here below, as it is in Magnitude greater; which will also render such Phaenomena in the same Proportion rarer and seldomer in any certain region there than here.</p>
+            <p>These things being supposed, which appear to me very reasonable; it will be a natural Account of these Phaenomenona, if we esteem them direct Blasts of this kind. For certainly these Fire-balls, as we have shew'd, are still within the Limits of our Air, the Place of such Meteors: They have all the three Chara<lb rend="hidden" type="hyphenInWord"/>cters of such, and only of such Blasts; the <hi>Fulmen,</hi> the Ball or Whirlwind of pernicious Lightening; the <hi>Fulgur,</hi> the Flash or common Lightening; and the <hi>To<lb rend="hidden" type="hyphenInWord"/>nitra,</hi> the Noise or Thunder. They go with a Swiftness which we have no Examples of here in any Meteors, unless it be in such Thunder and Lightening. So that I do not see room for much doubt in the Case. 'Tis true, the rareness of the Air above, will, as in all like Cases, greatly deaden and damp the sound of the Thunder; as no doubt it does; but this is no great difficulty here, because the prodigious Vastness of the Blast, if it be at all so much more violent as
+<pb n="29" facs="29"/>
+the Fire-ball is greater in Quantity, as it must natu<lb rend="hidden" type="hyphenInWord"/>rally be, will abundantly make up that Defect, and afford us a sufficient Sound notwithstanding; as will appear presently by Calculation. I do not indeed know any mechanical Power, that in such a fluid Me<lb rend="hidden" type="hyphenInWord"/>dium as the Air, can cause so sudden, and so prodigi<lb rend="hidden" type="hyphenInWord"/>ous a Collection of fiery Vapors, and carry them in one particular horizontal Direction with such an im<lb rend="hidden" type="hyphenInWord"/>mense Velocity as we here meet with. But then, I am equally at a loss for the mechanical Cause of the strange Effects of Gun-powder, and of the like Cause of the Velocity, Force, and Direction of Thunder and Lightening, and indeed of many other Powers of Nature; of whose Existence, yet, there is no man<lb rend="hidden" type="hyphenInWord"/>ner of Question. So that if it appear, that this Me<lb rend="hidden" type="hyphenInWord"/>teor is no other than a Blast of Thunder and Ligh<lb rend="hidden" type="hyphenInWord"/>tening, such as is proper and peculiar to the higher Regions of the Air, as I hope it now does; we ought not to object this Difficulty against the present Soluti<lb rend="hidden" type="hyphenInWord"/>on, which is built on the known Properties of nitro<lb rend="hidden" type="hyphenInWord"/>sulphureous Vapors in all such Explosions, whether of Gun-powder below, or of Thunder and Lightening a little above.</p>
+         </div>
+         <div type="conclusion">
+            <p>And now, for a Conclusion, I shall Observe a few things which may, on this Occasion, deserve the At<lb rend="hidden" type="hyphenInWord"/>tention of the Curious.</p>
+            <p n="1">Note (1.) That such a Collection of nitrosulphureous Vapours as this, of a Mile in Diameter, is to such a Col<lb rend="hidden" type="hyphenInWord"/>lection of the like Vapours in the largest Thunder-Storms here below, of scarce 20 Feet Diameter, as the Cubes of those Diameters, or as 16,000,000 to 1. So that the Explosion or Force of such a Ball of Fire as this would naturally, as to Light, Sound, and Strength, be in the same Proportion also. Whence it is questionable, whether if all the Gunpowder now in the World were laid together, and fir'd at once, it could make an Explosion equal to this before us.</p>
+            <p n="2">Note (2.) That therefore it is no Wonder that the Sound of this Explosion was heard at the Distance of at least 80 or 100 Miles from the Explosion it self, even through that upper Air, where it is about 2000 times
+<pb n="30" facs="30"/>
+rarer, and therefore in the same Proportion weaker than it is here below.</p>
+            <p n="3">Note (3.) That therefore if this Ball of Fire had been directed downward, and come into our lower Air, and been there exploded, its Sound, at the same Di<lb rend="hidden" type="hyphenInWord"/>stances, would have been about 2000 times as great as it now was, So that besides the sad Desolation that might arise from the Ball of Fire, which would have been vastly sudden and terrible, the very Sound or Concussion of the Air would it self have been exceed<lb rend="hidden" type="hyphenInWord"/>ing dreadful, and very fatal also to all the neighbour<lb rend="hidden" type="hyphenInWord"/>ing Animals, Trees, and Buildings whatsoever. Some of the smaller <hi>Meteors</hi> of this kind afford no Sound at this Distance; but the larger sort, of which the last was the Principal, did so always to a great Degree, as the foregoing Histories inform us.</p>
+            <p n="4">Note (4.) That therefore a smaller <hi>Meteor</hi> of this sort, or such as some of the foregoing Histories de<lb rend="hidden" type="hyphenInWord"/>scribe, if it should descend to the Earth, would be a<lb rend="hidden" type="hyphenInWord"/>bundantly sufficient utterly to destroy a particular Ci<lb rend="hidden" type="hyphenInWord"/>ty; and such an one as this, no small part of a County, and that in an instant, without giving the least room for foreknowing, preventing, or escaping from the same.</p>
+            <p n="5">Note (5.) That we know of no mechanical Causes that can prevent such a Descent of these <hi>Meteors</hi> down<lb rend="hidden" type="hyphenInWord"/>wards: For as our common Thunder and Lightening certainly do, and that not seldom, descend from the Clouds to the Earth, and make lesser Destructions there, so do some of the best Observations incline us to allow that even this, as well as others of these <hi>Me<lb rend="hidden" type="hyphenInWord"/>teors,</hi> have a little descended in their Course also. Nor in case of the original Direction downwards, do I know any sufficient Obstacle our lower Air, how dense soever, could lay in its way; the Strength and Velocity of such a <hi>Meteor,</hi> vastly exceeding any such inconside<lb rend="hidden" type="hyphenInWord"/>rable Resistance. Yet it is to be noted,</p>
+            <p n="6">(6.) That our late Histories of those <hi>Meteors</hi> of this kind, whose Heights have been measur'd, never give less than 30 Miles Altitude to any of them. Whence it appears, that the Great and Good Author of Na<lb rend="hidden" type="hyphenInWord"/>ture
+<pb n="31" facs="31"/>
+has generally, in the Course of his Providence, confin'd them to the upper Regions of our Air, and preserv'd the lower Parts of it, with the Inhabitants of the Earth and Seas, from the dismal Effects of them; tho' that Confinement and Preservation be provided for by Causes which no way appear to us at pre<lb rend="hidden" type="hyphenInWord"/>sent.</p>
+            <p n="7">(7.) That we accordingly have no certain Accounts of any great Destruction brought upon Mankind by such <hi>Meteors,</hi> excepting that amazing and divine Judg<lb rend="hidden" type="hyphenInWord"/>ment on <hi>Sodom</hi> and <hi>Gomorrah, Admah</hi> and <hi>Zeboim,</hi> which the Sacred Scriptures record, and to which all the Heathen Accounts also agree. The Scriptures de<lb rend="hidden" type="hyphenInWord"/>scribe it thus: <q rend="inline">
+                  <note place="marg">Gen. xix. 24, 25, 26.</note>
+                  <hi>Then the Lord rained upon So<lb rend="hidden" type="hyphenInWord"/>dom and upon Gomorrah Brimstone and Fire, from the Lord out of Heaven. And he over<lb rend="hidden" type="hyphenInWord"/>threw those Cities, and all the Plain, and all the Inhabitants of the Cities, and that which grew upon the Ground. But Lot's Wife looked back from behind him, and she became a Pillar of Salt.—</hi>
+                  <note place="marg">v. 28.</note>
+                  <hi>And the Smoak of the Countrey went up as the Smoak of a Furnace.</hi>
+               </q> Which is elsewhere al<lb rend="hidden" type="hyphenInWord"/>luded to also by <hi>Moses,</hi> in these Words; <q rend="inline">
+                  <note place="marg">Deut. xxix. 23.</note>
+                  <hi>The whole Land thereof is Brimstone, and burning Salt; that it is not sown, nor beareth, nor any Grass groweth therein; like the Over<lb rend="hidden" type="hyphenInWord"/>throw of Sodom and Gomorrah, Admah and Zeboim, which the Lord overthrew in his Anger, and in his Wrath.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Diodorus Siculus</hi> says, that Places near this <hi>Asphaltites,</hi> or Lake of <hi>Bitumen,</hi> 
+               <q rend="inline">
+                  <note place="marg">Diodor. XIX.</note>
+                  <hi>are fiery, and of an ill Savor, and make the Bodies of the Inhabitants sickly, and altogether short-liv'd.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Strabo</hi> says, <q rend="inline">
+                  <note place="marg">Strabo XVI.</note>
+                  <hi>There are many Indications of a burning Soil here:—which confirm the Tradition of the Inhabitants adjoining, which say, There were therein of old thirteen Cities, the Principal of which was</hi> Sodom; <hi>whose Circuit is still shewn of</hi> 60 <hi>Furlongs; and that the Lake arose from Earthquakes, with the Erup<lb rend="hidden" type="hyphenInWord"/>tions of Fire, and of hot and brimstony Waters: whereby the Stones took Fire, while some of the Cities were swallowed up, and others deserted by those who could get away.</hi>
+               </q>
+            </p>
+            <p>
+               <pb n="32" facs="32"/>
+               <hi>Tacitus</hi> says, that <q rend="inline">
+                  <note place="marg">Tacit. V. <hi>vid.</hi> Plin. v. 16.</note>
+                  <hi>These Plains are related to have been anciently very fruitful, and with great Cities in them: but that they were burnt by a Blast of Thunder and Ligh<lb rend="hidden" type="hyphenInWord"/>tening; the Footsteps of which remain: That the Land looks burnt, and has lost its Fertility: because all things that grew there, whether of their own Accord, or by Culture of the La<lb rend="hidden" type="hyphenInWord"/>bourer, both the Herb and the Flower, when they seem nearly ripe, become black and empty, and seem to vanish away into Ashes.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Solinus</hi> says, <q rend="inline">
+                  <note place="marg">Solin. <hi>c.</hi> 36.</note>
+                  <hi>There is a large Bay, that opens itself a great way from</hi> Jerusalem, <hi>which was stricken from Heaven, as a black Soil that turns into Ashes: There were there two Ci<lb rend="hidden" type="hyphenInWord"/>ties,</hi> Sodom <hi>and</hi> Gomorrah <hi>by Name, the Apple of which Places, when it seems to be ripe, cannot be chewed; for the paring on the outside, which is thin, contains with<lb rend="hidden" type="hyphenInWord"/>in nothing but Soot and Ashes; which when you press it never so little with your Hand, sends out Smoak, and va<lb rend="hidden" type="hyphenInWord"/>nishes away into Dust dispers'd by the Wind.</hi>
+               </q>
+            </p>
+            <p>Now how exactly these Descriptions agree to a Countrey destroy'd by such a terrible <hi>Meteor</hi> as this, I dare appeal to all sober and considerate Naturalists: while the <hi>Rain of Fire and Brimstone,</hi> or of <hi>Brimstone on Fire,</hi> with nitrous Salts intermixed, is here literally true: while the <hi>Smoak like the Smoak of a Furnace,</hi> is al<lb rend="hidden" type="hyphenInWord"/>so literally true: it being evident in Fact, that all Vulcano's, great Guns, and such <hi>Meteors</hi> as these, di<lb rend="hidden" type="hyphenInWord"/>rectly leave a mighty Smoak after their Explosion: while the Salt Lake itself would easily thence arise, by the Penetration of such fierce and fiery Particles into the Bowels of a Countrey, which was <hi>full of Slime-pits</hi>
+               <note place="marg">Gen. xiv. 10.</note> already, and so prepared to take Fire: while it would thus easily destroy itself by a <hi>Subversion,</hi> an <hi>Overthrow,</hi> or an Earthquake, and thereupon admit the Waters of the River <hi>Jordan,</hi> from the neighbouring <hi>Sea of the Plain,</hi> and would infect them with its nitrous and sulphureous Vapours, and so become one great <hi>Salt,</hi> or <hi>Dead Sea,</hi> for all future Generati<lb rend="hidden" type="hyphenInWord"/>ons: while the Remains of all this would naturally pro<lb rend="hidden" type="hyphenInWord"/>duce such a barren Soil, full of Smoak and Ashes, as
+<pb n="33" facs="33"/>
+we find adjoyning to the Salt Sea, by the foregoing Descriptions. This nitrosulphureous Shower would also naturally fall on <hi>Lot</hi>'s Wife, while she stayed a lit<lb rend="hidden" type="hyphenInWord"/>tle behind, <hi>looking back,</hi> as not fully believing God's threatning concerning this terrible Destruction, and would not only kill her in an instant, but render her Body immediately stiff and fixed, in the same Po<lb rend="hidden" type="hyphenInWord"/>sture wherein she was when it fell on her; which is no uncommon Circumstance with us, when any Per<lb rend="hidden" type="hyphenInWord"/>sons have been kill'd by Lightening; and which would render her a standing <hi>Pillar of Salt,</hi> of Nitrous Salt, in a literal Sense; however, a <hi>Pillar of Salt</hi> for Perpetuity, or a lasting Monument of this terrible Judgment for future Generations. And so it prov'd, for it was still in Being se<lb rend="hidden" type="hyphenInWord"/>veral Years after our Saviour's Death,<note place="marg">
+                  <hi>See</hi> Luk. xvii 32.</note> as the <hi>Jewish</hi> Historian <hi>Josephus</hi> himself as<lb rend="hidden" type="hyphenInWord"/>sures us,<note place="marg">
+                  <hi>Joseph. Antiq.</hi> I. 12.</note> and whose Words seem to im<lb rend="hidden" type="hyphenInWord"/>ply, that himself had seen it also.</p>
+            <p n="8">Note (8.) That one great ordinary Intention and Use of these Meteors seems to be the same with that of the Tides for the Sea; and of Storms, whether of Wind, or of Thunder and Lightening, for the low<lb rend="hidden" type="hyphenInWord"/>er Air; I mean not only the agitating the Air, but chiefly the purging and purifying of it, by spending and consuming such noxious Steams and Exhalations, as otherwise might be pernicious to Mankind, to the Bruit Animals, and to the other Inhabitants there<lb rend="hidden" type="hyphenInWord"/>of, if such there be. I say, this seems to me at least <hi>one of the Uses</hi> of Thunder and Lightening, both here below, and there above; without presuming to deny that there may be other Uses of the same, or that these, as well as other Meteors, may be farther inten<lb rend="hidden" type="hyphenInWord"/>ded by Providence for Purposes which we have at present no certain Means of discovering. It does not follow, that because the fixed Stars are very useful to us in Astronomy, that therefore Providence only de<lb rend="hidden" type="hyphenInWord"/>signed them for that End. And the Case is the same in other Instances.</p>
+            <p n="9">Note (9.) That there seem to have been of late more uncommon Meteors seen than have been usual
+<pb n="34" facs="34"/>
+in the like Space of Time. Thus we have had at least Eight or Nine of the Meteors of this kind taken Notice of in these Parts of the World, within 53 Years; while we know not where to find so many in a much longer Space in any elder Histories. Thus also there have been more frequent and remarkable <hi>Aurorae Boreales,</hi> or <hi>Northern Lights,</hi> observ'd within somewhat more than three Years last past, than appear in our Historians, in a much longer Space. To say nothing of that pale Light like Twilight, which is chiefly seen between the Horizon and the <hi>Pleiades,</hi> about the End of <hi>February,</hi> and Beginning of <hi>March,</hi> which some have thought to be peculiar to the last 70 or 80 Years. Nor can it well be said, that all this has happened only by the Negligence of the elder Writers in trans<lb rend="hidden" type="hyphenInWord"/>mitting such Things to us: Since, on the contrary, they have generally been but over Superstitious in setting down such strange Appearances, and of no<lb rend="hidden" type="hyphenInWord"/>ting how ominous they thought them to Mankind.</p>
+            <p n="10">Note (10.) That it no way appears that the fre<lb rend="hidden" type="hyphenInWord"/>quenter Phaenomena of these sorts, have yet had any ill Influence on the natural World. The Seasons, the Air, with the Fruits of the Earth, and the living Creatures, seeming in general to have received hither<lb rend="hidden" type="hyphenInWord"/>to no Damage thereby. And certainly, if they tend to purge the Air, as I imagine, they may have recei<lb rend="hidden" type="hyphenInWord"/>ved no small Benefit from them. Nay indeed, in case they should be deriv'd from any considerable or gene<lb rend="hidden" type="hyphenInWord"/>ral Change in our Air of late, I should think it more probable that such Change was for the Benefit and Ad<lb rend="hidden" type="hyphenInWord"/>vantage of the same, than the contrary.</p>
+            <p n="11">Note (11.) That we have no reason to suppose that Comets, or Northern Lights, or these Meteors before us, with the like more unusual Phaenomena of Nature, are properly and generally <hi>ominous,</hi> or directly fore<lb rend="hidden" type="hyphenInWord"/>bode any future Judgments to the World, or to par<lb rend="hidden" type="hyphenInWord"/>ticular Nations, or Parties therein, as the Vulgar are apt to imagine. They are indeed, with other celesti<lb rend="hidden" type="hyphenInWord"/>al Phaenomena, naturally Invitations to the abstract<lb rend="hidden" type="hyphenInWord"/>ing our Minds from continually poring on things be<lb rend="hidden" type="hyphenInWord"/>low; they call on us to look upwards, to the Works of
+<pb n="35" facs="35"/>
+God that are above us; to his superior Providence, and to a proper Dependance on him. They preach to us this Doctrine, That God has it always in his Power to preserve or destroy the World, and all the Crea<lb rend="hidden" type="hyphenInWord"/>tures therein, as he pleases; and this without any new Miracles. But they are, I think, of themselves, and generally speaking, no proper Indications of impen<lb rend="hidden" type="hyphenInWord"/>ding Judgments, or of God's Will to punish or destroy any Part of his Creatures. It may be indeed justly e<lb rend="hidden" type="hyphenInWord"/>steem'd a great Sign of the Guilt and conscious Wic<lb rend="hidden" type="hyphenInWord"/>kedness of Mankind in general; that all such extraor<lb rend="hidden" type="hyphenInWord"/>dinary Phaenomena are still interpreted to the worse Sense, as Fore-runners of Wars, Famines, Plagues, <hi>&amp;c.</hi> but they are not, I believe, any Signs that God is really and particularly at such times bringing those or the like Judgments upon them. However, I have so fully spoken my Mind of this Matter, and of the Li<lb rend="hidden" type="hyphenInWord"/>mitations and Restrictions thereto belonging, in my Account of the former surprising <hi>Meteor, March</hi> 6. 1716. <hi>pag.</hi> 74-77. that I shall not repeat it here, but refer the Reader thither, who desires farther Satisfa<lb rend="hidden" type="hyphenInWord"/>ction. I conclude with one more important Observa<lb rend="hidden" type="hyphenInWord"/>tion, which is this:</p>
+            <p n="12">Note (12.) That we ought here to observe, and to ac<lb rend="hidden" type="hyphenInWord"/>knowledge the good Providence of God, the great Au<lb rend="hidden" type="hyphenInWord"/>thor of universal Nature, of the Air in particular, with its surprising Wonders; and the great Disposer and Di<lb rend="hidden" type="hyphenInWord"/>rector of them all, in usually confining the terrible <hi>Meteors</hi> of this kind to the upper Regions of the Air, and not permitting them to descend low enough to hurt us here below. And this deserves more particu<lb rend="hidden" type="hyphenInWord"/>larly our regard, because we know of no mechanical Causes that can hinder their Direction downward; and because we know that ordinary Thunder-blasts are frequently so directed, and this sometimes to the terrible Destruction of Buildings and Animals here below. Let us but consider, what has been above shewn, how certainly such a descending Ball or Whirl<lb rend="hidden" type="hyphenInWord"/>wind of Fire and Brimstone as this, which was a full Mile in Diameter, and mov'd at the rate of at least 2000 Miles in a Minute, might have conquer'd all the Re<lb rend="hidden" type="hyphenInWord"/>sistance
+<pb n="36" facs="36"/>
+of our lower Air; and in a moment, before it could have been in the least foreseen, or provided a<lb rend="hidden" type="hyphenInWord"/>gainst by any, might have destroy'd such a City as <hi>London</hi> it self. How inevitably, how immediately, such a famous Emporium might then have <hi>been as Sodom, and like unto Gomor<lb rend="hidden" type="hyphenInWord"/>rah;</hi>
+               <note place="marg">
+                  <hi>Is.</hi> i. 9.</note> and not one Person might have es<lb rend="hidden" type="hyphenInWord"/>caped to tell the sad News to the rest of the World? This would not seldom be the natural Result of such Blasts here below, which are frequently seen above, did not the divine Providence, by some Means un<lb rend="hidden" type="hyphenInWord"/>known to us, restrain their Course, and <hi>six them their Bounds which they can<lb rend="hidden" type="hyphenInWord"/>not pass;</hi>
+               <note place="marg">
+                  <hi>Ps.</hi> civ. 9.</note> and say, <hi>hitherto shall ye come, and no further;</hi> and in such a Place a<lb rend="hidden" type="hyphenInWord"/>bove <hi>shall your proud Waves,</hi> or <hi>Blasts be stayed.</hi>
+               <note place="marg">
+                  <hi>Job</hi> xxxviii. 11.</note> This is the rational, the reli<lb rend="hidden" type="hyphenInWord"/>gious Consequence; this is the just and the pious In¦ference, which the Consideration of such surprizing Meteors, such wonderful Works of <hi>him that dwelleth in the Heavens</hi> naturally suggests to us. I therefore end my Discourse on this, nearly as I did that on the former Meteor; <hi>O ye Fire and Heat, O ye Lightenings and Clouds; O ye Children of Men, bless ye the Lord; praise and exalt him above all for ever.</hi>
+               <note place="marg">
+                  <hi>Song of the three Children</hi> v. 43, 50, 56.</note>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="37"/>
+            <head>POSTSCRIPT.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have just now got some good Observations of this Meteor from our famous Observato<lb rend="hidden" type="hyphenInWord"/>ry at <hi>Greenwich,</hi> and what Accounts were there received, <hi>viz.</hi> that to us about <hi>London</hi> it arose from or but little under the Seven Stars, which were then half a Point from the West to the North, at the Altitude of 22° or 23°, that it proceeded above 40° upon the Horizon, till it came under the Sword of <hi>Orion,</hi> near the South West, and about the Al<lb rend="hidden" type="hyphenInWord"/>titude of 15°; that the time of its Appearance was near<lb rend="hidden" type="hyphenInWord"/>ly 11′ after 8, and that it lasted about 6″, making a his<lb rend="hidden" type="hyphenInWord"/>sing Noise as it passed along. All which confirms what I have already advanc'd, and particularly implies what I have noted above, That the Meteor had the grea<lb rend="hidden" type="hyphenInWord"/>test Elevation at first, or was not much less than 50 Miles high, which is nearly the utmost Limit of our Atmosphere; that it gradually descended lower till it came over <hi>Devonshire,</hi> where it was about 39 Miles high; and that where it brake, over the Sea, and o<lb rend="hidden" type="hyphenInWord"/>ver <hi>Bretaign</hi> in <hi>France,</hi> its Altitude could not be very much above 30 Miles.</p>
+            <p>As to the Monastery burnt in <hi>France,</hi> it was the Day before the Appearance of this Meteor, and so had no Relation to it. And the like is to be said of some o<lb rend="hidden" type="hyphenInWord"/>ther Accidents elsewhere, none of which appear to have at all been occasion'd by it.</p>
+            <closer>
+               <signed>W.W.</signed> 
+               <dateline>
+                  <date>
+                     <hi>May</hi> 25. 1719.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="publishersadvertisement">
+            <pb facs="38"/>
+            <head>
+               <hi>BOOKS writ by</hi> W. WHISTON, M.A.</head>
+            <list>
+               <item>I. THE Elements of <hi>Euclid,</hi> with select Theorems out of <hi>Archimedes.</hi> By the Learned <hi>Andrew Tac<lb rend="hidden" type="hyphenInWord"/>quet.</hi> To which are added, Practical Corollaries, shewing the Uses of many of the Propositions. The whole abridg'd, and in this Third Edition publish'd in <hi>English.</hi>
+               </item>
+               <item>II. Astronomical Lectures read in the Publick Schools at <hi>Cambridge.</hi> Whereunto is added, a Colle<lb rend="hidden" type="hyphenInWord"/>ction of Astronomical Tables; being those of Mr. <hi>Flamsteed,</hi> corrected; Dr. <hi>Halley;</hi> Monsieur <hi>Cassini;</hi> and Mr. <hi>Street.</hi> For the Use of Young Students in the U<lb rend="hidden" type="hyphenInWord"/>niversity. And now done into <hi>English.</hi>
+               </item>
+               <item>III. An Account of a surprizing Meteor seen in the Air, <hi>March</hi> the 16th, 1715-16. at Night. Containing, 1. A Description of this Meteor, from the Author's own Observations. 2. Some Historical Accounts of the like Meteors before; with Extracts from such Let<lb rend="hidden" type="hyphenInWord"/>ters and Accounts of this, as the Author has receiv'd. 3. The principal Phaenomena of this Meteor. 4. Con<lb rend="hidden" type="hyphenInWord"/>jectures for their Solution. 5. Reasons why our Solu<lb rend="hidden" type="hyphenInWord"/>tions are so imperfect. 6. Inferences and Observations from the Premises. The Second Edition.</item>
+               <item>IV. An humble and serious Address to the Princes and States of <hi>Europe,</hi> to Admit, or at least openly to Tolerate the Christian Religion in their Dominions.</item>
+               <item>V. Sir <hi>Isaac Newton</hi>'s Mathematick Philosophy more easily Demonstrated.</item>
+               <item>VI. Astronomical Principles of Religion, Natural and Revealed.</item>
+               <item>
+                  <pb facs="39"/>
+VII. His Account of Dr. <hi>Sacheverell</hi>'s Proceedings, in order to Exclude him from St. <hi>Andrew</hi>'s Church in <hi>Holborn.</hi> The Fourth Edition.</item>
+               <item>VIII. His Letter of Thanks to the Right Reve<lb rend="hidden" type="hyphenInWord"/>rend the Lord Bishop of <hi>London,</hi> for his late Let<lb rend="hidden" type="hyphenInWord"/>ter to his Clergy against the Use of <hi>New Forms of Doxo<lb rend="hidden" type="hyphenInWord"/>logy,</hi> &amp;c.</item>
+               <item>IX. His Second Letter to the Lord Bishop of <hi>Lon<lb rend="hidden" type="hyphenInWord"/>don</hi> on the same Subject.</item>
+               <item>X. His Scripture Politicks; or, an impartial Ac<lb rend="hidden" type="hyphenInWord"/>count of the Origin and Measures of Government Ec<lb rend="hidden" type="hyphenInWord"/>clesiastical and Civil, taken out of the Books of the Old and New Testament. With a Postscript relating to the Report of the Committee of Convocation about the Bishop of <hi>Bangor</hi>'s Preservative, and Sermon be<lb rend="hidden" type="hyphenInWord"/>fore the King. To which is subjoin'd the Supposal; or a New Scheme of Government. First Publish'd <hi>A.D.</hi> 1712. and now reprinted.</item>
+            </list>
+            <p>
+               <hi>All Printed for</hi> J. SENEX, <hi>at the</hi> Globe <hi>in</hi> Salisbu<lb rend="hidden" type="hyphenInWord"/>ry-Court; <hi>and</hi> W. TAYLOR, <hi>at the</hi> Ship <hi>in</hi> Pater-Noster-Row.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

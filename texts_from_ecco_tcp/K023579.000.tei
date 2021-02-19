@@ -1,0 +1,764 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Macbeth reconsidered; an essay: intended as an answer to part of the Remarks on some of the characters of Shakspeare:</title>
+            <author>Kemble, John Philip, 1757-1823.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023579.000</idno>
+            <idno type="docno">CW3313238047</idno>
+            <idno type="ecll">0559100700</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Macbeth reconsidered; an essay: intended as an answer to part of the Remarks on some of the characters of Shakspeare:</title>
+                  <author>Kemble, John Philip, 1757-1823.</author>
+               </titleStmt>
+               <extent>[4],36p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for T. and J. Egerton,</publisher>
+                  <date>1786.</date>
+                  <idno type="TCP">K023579.000</idno>
+                  <idno type="docno">CW3313238047</idno>
+                  <idno type="ecll">0559100700</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By John Philip Kemble.</note>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT6430.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>MACBETH RECONSIDERED; AN ESSAY.</p>
+            <p>[Price One Shilling.]</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>MACBETH RECONSIDERED; AN ESSAY: INTENDED AS AN ANSWER TO PART OF THE REMARKS ON SOME OF THE CHARACTERS OF SHAKSPEARE.</p>
+            <p>LONDON: PRINTED FOR T. AND J. EGERTON, WHITEHALL.</p>
+            <p>MDCCLXXXVI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="3"/>
+            <p>TO EDMUND MALONE, THIS ESSAY IS INSCRIBED BY HIS OBEDIENT, AND OBLIGED SERVANT,</p>
+            <closer>
+               <signed>THE AUTHOR.</signed>
+            </closer>
+         </div>
+         <div type="tothereader">
+            <pb facs="4"/>
+            <head>Advertisement to the Reader.</head>
+            <p>THE Passages printed in Italics are quota<lb rend="hidden" type="hyphenInWord"/>tions from Mr. Wheatley's Remarks; and the re<lb rend="hidden" type="hyphenInWord"/>ferences correspond with the edition of Shakspeare given by Johnson and Stevens 1778.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="5"/>
+         <head>MACBETH RECONSIDERED.</head>
+         <p>PLAYS are designed, by the joint powers of precept and example, to have a good influence on the lives of men. Enquiries into the conduct of fable in the drama were use<lb rend="hidden" type="hyphenInWord"/>less to this end: the regular, or irregular, disposition of parts in a play is an artificial praise, or blame, that can contribute nothing to the improvement, or depravation, of the mind; for the cause of morality is promoted only, when, by a catastrophe resulting from principles natural to the agents, who produce it, we are taught to love virtue, and abhor<lb rend="hidden" type="hyphenInWord"/>vice.</p>
+         <p>Neglect of unity is the obvious fault of Shakspeare's pieces, truth of manners their unrivalled excellence.</p>
+         <p>
+            <pb n="4" facs="6"/>This Essay does not profess to observe up<lb rend="hidden" type="hyphenInWord"/>on any inconsistency in the conduct of the tragedy of Macbeth, it concerns itself only with the sentiments of the hero of it, pre<lb rend="hidden" type="hyphenInWord"/>suming they will more effectually serve ethicks, if, in analysing his character, it shews that there is no distinction between him and king Richard, in the quality of personal courage. If Macbeth be what Mr. Wheatley describes him, we must forego our virtuous satisfac<lb rend="hidden" type="hyphenInWord"/>tion in his repugnance to guilt, for it arises from mere cowardice; and can gain no in<lb rend="hidden" type="hyphenInWord"/>struction from his remorse, for it is only the effect of imbecility; we despise him; we cannot feel for him; and shall never be amended by a wretch, who is uniformly the object of our contempt.</p>
+         <p>The writer of these pages does not consider, that his position will never be established, till Mr. Wheatley's be overthrown, without per<lb rend="hidden" type="hyphenInWord"/>ceiving how difficult, and apparently invidi<lb rend="hidden" type="hyphenInWord"/>ous, a task he undertakes; he relies, how<lb rend="hidden" type="hyphenInWord"/>ever, upon Shakspeare to clear Macbeth from the imputation laid on his nature; and can truly say, the argument is not taken up in a spirit of controversy, but out of a love for, what is believed to be, just criticism.</p>
+         <p>
+            <pb n="5" facs="7"/>Having given many judicious proofs of the difference, there certainly is, in the characters of Macbeth and Richard, Mr. Wheatley pro<lb rend="hidden" type="hyphenInWord"/>ceeds to the article of courage, and says, <hi>In Richard it is intrepidity, and in Macbeth no more than resolution: in him</hi> [Macbeth] <hi>it proceeds from exertion, not from nature; in enterprize he betrays a degree of fear, though he is able, when occasion requires, to stifle and subdue it.</hi>
+         </p>
+         <p>The attempt to controvert this doctrine na<lb rend="hidden" type="hyphenInWord"/>turally resolves itself into three heads; name<lb rend="hidden" type="hyphenInWord"/>ly, a repetition of the simple character of Mac<lb rend="hidden" type="hyphenInWord"/>beth, as it stands before any change is effected in it by the supernatural soliciting of the weird sisters; a consideration of his conduct towards Banquo, and Macduff; and a review of his deportment, as opposed to Richard's in the "Remarks." This order will involve an inquiry into Mr. Wheatley's interpretation of the poet's text; into the appositeness of the facts adduced in support of hi opinion; and into his philosophy of the pec<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>liar passion of characters, when, facts not supplying testi<lb rend="hidden" type="hyphenInWord"/>mony, he can substantiate his hypothesis only on the evidence of appropriated sentiment.</p>
+         <p>An appeal for judgement on the nature of Macbeth's courage lies to the tribunal of
+<pb n="6" facs="8"/>
+Shakspeare himself. The circumscribed na<lb rend="hidden" type="hyphenInWord"/>ture of a drama renders it generally imprac<lb rend="hidden" type="hyphenInWord"/>ticable for the principal personages in it gra<lb rend="hidden" type="hyphenInWord"/>dually to unfold themselves; it is, therefore, an allowed artifice with dramatic authors (and of which they commonly avail themselves) by an impressive description of their heroes to bring us, in a great measure, acquainted with them, before they are actually engaged in scenes, where, for want of such previous in<lb rend="hidden" type="hyphenInWord"/>telligence, their proceedings might appear, at best, confused, and generally, perhaps, inex<lb rend="hidden" type="hyphenInWord"/>plicable. We are bound, then, to receive the introductory portrait our author has drawn of Macbeth as a true resemblance; for a crea<lb rend="hidden" type="hyphenInWord"/>ture of the poet's arbitrary creation may be assimilated only to those features, which he has thought fit to give him. Here is the picture.</p>
+         <q>
+            <l>—The merciless Macdonel</l>
+            <l>—</l>
+            <l>—from the western isles</l>
+            <l>Of kernes and gallow-glasses is supply'd;</l>
+            <l>And fortune, on his damned quarrel smiling,</l>
+            <l>Shew'd like a rebel's whore: but all's too weak:</l>
+            <l>For brave Macbeth, (well he deserves that name)</l>
+            <l>Disdaining fortune, with his brandish'd steel,</l>
+            <l>Which smoak'd with bloody execution,</l>
+            <l>
+               <pb n="7" facs="9"/>Like valour's minion, carved out his passage,</l>
+            <l>'Till he fac'd the slave:</l>
+            <l>And ne'er shook hands, nor bade farewel to him,</l>
+            <l>'Till he unseam'd him from the nave to the chops.</l>
+            <bibl>(P. 446. v. 4.)</bibl>
+         </q>
+         <p>Could Shakspeare call a man brave, and insist upon his well deserving that appel<lb rend="hidden" type="hyphenInWord"/>lation; could he grace a man with the title of valour's minion, and deem him, as he does in a subsequent passage, worthy to be match<lb rend="hidden" type="hyphenInWord"/>ed even with the goddess of war;—could he do this, and not design to impress a full idea of the dignity of his courage? Macbeth's great heart pants to meet the merciless leader of the rebels; his executing sword, all dyed in reek<lb rend="hidden" type="hyphenInWord"/>ing gore, hews out a passage to him; he main<lb rend="hidden" type="hyphenInWord"/>tains the combat, 'till the death of his anta<lb rend="hidden" type="hyphenInWord"/>gonist crowns his persistive valour with the victory he burned for.</p>
+         <p>It is said, Macbeth has <hi>resolution,</hi> not <hi>intre<lb rend="hidden" type="hyphenInWord"/>pidity.</hi> What is the soldier's intrepidity, but disdaining fortune?</p>
+         <p>It is objected, though with some qualifi<lb rend="hidden" type="hyphenInWord"/>cation, that Macbeth's courage <hi>proceeds from exertion, not from nature;</hi> and that in <hi>enterprize he betrays a deal of fear.</hi> Let us turn to the portrait once more.</p>
+         <q>
+            <pb n="8" facs="10"/>
+            <sp>
+               <speaker>Cap.</speaker>
+               <l>No sooner justice had, with valour arm'd,</l>
+               <l>Compell'd these skipping kernes to trust their heels;</l>
+               <l>But the Norweyan lord, surveying vantage,</l>
+               <l>With furbish'd arms, and new supplies of men,</l>
+               <l>Began a fresh assault.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Dismay'd not this</l>
+               <l>Our captains, Macbeth and Banquo?</l>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <l>Yes;</l>
+               <l>As sparrows, eagles; or the hare, the lion.</l>
+            </sp>
+            <bibl>(P. 449. v. 4.)</bibl>
+         </q>
+         <p>The Thane of Rosse takes up the narrative;—
+<q>
+               <l>Norway himself, with terrible numbers,</l>
+               <l>—</l>
+               <l>—began a dismal conflict;</l>
+               <l>'Till that Bellona's bridegroom, lapt in proof,</l>
+               <l>Confronted him with self-comparisons,</l>
+               <l>Point against point rebellious, arm 'gainst arm,</l>
+               <l>Curbing his lavish spirit: and to conclude,</l>
+               <l>The victory fell on us.—</l>
+               <bibl>P. 452. v. 4.</bibl>
+            </q>
+         </p>
+         <p>Is it to betray fear in enterprize, already worn with the fatigues of a hard-fought field, to rush, at disadvantage, on fresh supplies and terrible numbers, unconcerned as eagles, when they swoop on sparrows, and lions, when they strike a hare? It cannot be the laboured effect of exertion, it is the spontaneous im<lb rend="hidden" type="hyphenInWord"/>pulse of a dauntless nature, that again hurries Bellona's bridegroom, through all the horrors of a dismal conflict, to single out and hold the royal invader point against point, till his re<lb rend="hidden" type="hyphenInWord"/>sistless
+<pb n="9" facs="11"/>
+arm has curbed his lavish spirit, and raised on his discomfiture the trophies of a second conquest.</p>
+         <p>Macbeth now enters in the scene, and a deputation from the sovereign meets him, with these gracious acknowledgements to his tri<lb rend="hidden" type="hyphenInWord"/>umphant valour.</p>
+         <q>
+            <l>The king hath happily received, Macbeth,</l>
+            <l>The news of thy success: and when he reads</l>
+            <l>Thy personal venture in the rebel's <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ight,</l>
+            <l>His wonder and his praises do contend,</l>
+            <l>Which should be thine, or his: silenc'd with that</l>
+            <l>In viewing o'er the rest o' the self-same day,</l>
+            <l>He finds thee in the stout Norweyan ranks,</l>
+            <l>Nothing afraid of what thyself didst make,</l>
+            <l>Strange images of death. As thick as tale,</l>
+            <l>Came post with post; and every one did bear</l>
+            <l>Thy praises in his kingdom's great defence</l>
+            <l>—</l>
+            <l>—For an earnest of a greater honour,</l>
+            <l>He bade me, from him, call thee Thane of Cawdor.</l>
+            <bibl>(P. 464. v. 4.)</bibl>
+         </q>
+         <p>The king congratulates Macbeth on his success; and professes, that the praise, due to his personal venture in the first battle, is lost in silent wonder at the sublimity of his daring. How inexpressible, then, are Dun<lb rend="hidden" type="hyphenInWord"/>can's feelings, when he finds him once more engaged, the self-same day, in the stout
+<pb n="10" facs="12"/>
+Norweyan ranks, careless of meeting that death, which he was so terribly dealing on the squadrons that surrounded him! The king confers the forfeited honours of the disloyal Cawdor upon his general, only as a token of those higher dignities, which all conspire to think his atchievements in the kingdom's great defence have justly merited.</p>
+         <p>Such is the character Shakspeare attributes to Macbeth, while yet the pureness of his conscience is uncontaminated by guilt. The impetuosity of Glamis is the decision of in<lb rend="hidden" type="hyphenInWord"/>trepidity; the feats of his own hand assure to him the renown of gallantry; and the whole tenour of his conduct, throughout this peril<lb rend="hidden" type="hyphenInWord"/>ous adventure, unequivocally displays a soul, that, with Othello's, may
+<q>
+               <l>—agnize</l>
+               <l>A natural and prompt alacrity</l>
+               <l>It finds in hardness.—</l>
+               <bibl>(P. 465. v. 10.)</bibl>
+            </q>
+         </p>
+         <p>We come now to the second part of this question. The "Remarks" affirm, that <hi>Macbeth is personally afraid of Banquo,</hi> and that <hi>his fear is founded on the superior courage of the other.</hi>
+         </p>
+         <p>The evidence, which is given in, of Ban<lb rend="hidden" type="hyphenInWord"/>quo's superior courage may, perhaps, on ex<lb rend="hidden" type="hyphenInWord"/>amination,
+<pb n="11" facs="13"/>
+seem but of little weight. Whence are the proofs of Macbeth's cowardice to be brought? Not from his behaviour in battle. It does not appear, that, <hi>upon the first meet<lb rend="hidden" type="hyphenInWord"/>ing of the witches, Macbeth is agitated much more than Banquo;</hi> Banquo's description of their figures, and his <hi>several pertinent questions</hi> to them (amounting, though, to no more than two) are not expressive of <hi>mere curiosity,</hi> but of the surprise, with which himself and his partner are equally affected, on their un<lb rend="hidden" type="hyphenInWord"/>expectedly encountering three objects of so grotesque an appearance,
+<q>
+               <l>— What are these,</l>
+               <l>So wither'd, and so wild in their attire;</l>
+               <l>That look not like the inhabitants o' the earth,</l>
+               <l>And yet are on't?—Live you? or are you ought</l>
+               <l>That man may question?—</l>
+               <bibl>(P. 406. v. 4.)</bibl>
+            </q>
+If Macbeth <hi>only repeats the same inquiry,</hi> it is not from timidity, but from a wish for the same information; and when he does it <hi>shortly,</hi> he indicates his impatience for an answer.</p>
+         <p>Why should the speeches of Macbeth and Banquo, in this scene, <hi>appear to be injudiciously distributed?</hi> And how will <hi>the difference in their characters account for such a distribution?</hi> Ban<lb rend="hidden" type="hyphenInWord"/>quo addresses the witches first: Banquo is
+<pb n="12" facs="14"/>
+made to see them first; not in token of su<lb rend="hidden" type="hyphenInWord"/>periority, but merely, perhaps, that their ceremonious silence to him,
+<q>
+               <l>— each at once her choppy finger laying</l>
+               <l>Upon her skinny lips,—</l>
+               <bibl>(P. 406. v. 4.)</bibl>
+            </q>
+may heighten the solemnity of the pro<lb rend="hidden" type="hyphenInWord"/>phetic greeting, with which they are about to hail Macbeth. Yet, the distribution of the parts is of so little moment, that it might have happened fortuitously: to have done, however, with conjecture, the context evinces, that it is not produced for the purpose of shew<lb rend="hidden" type="hyphenInWord"/>ing Banquo's superiority, in <hi>being perfectly calm</hi> under an occurrence, that has <hi>ruffled</hi> Macbeth.</p>
+         <p>If Macbeth <hi>is amazed, when he sees the witches are vanished,</hi> and likens their disap<lb rend="hidden" type="hyphenInWord"/>pearance to the melting of breath into the wind; Banquo is struck too, and compares them, in their sudden evanescence, to the bursting bubbles of the water.—(P. 464. v.4.)</p>
+         <p>Banquo cannot be said to <hi>treat the witches with contempt;</hi> he adjures them,—
+<q>I' the name of truth;—
+<bibl>(P. 462. v. 4.)</bibl>
+            </q>
+and, with Macbeth, gives them, in some sort, credit for
+<q>
+               <l>More than mortal knowledge.</l>
+               <l>
+                  <pb n="13" facs="15"/>If you can look into the seeds of time,</l>
+               <l>And say, which grain will grow, and which will not;</l>
+               <l>Speak then to me, who neither beg, nor fear,</l>
+               <l>Your favours, nor your hate.—</l>
+               <bibl>(P. 462. v. 4.)</bibl>
+            </q>
+         </p>
+         <p>This is the language of manly firmness, not of contempt. He does not mean to <hi>ridicule their prophecy</hi> by answering to Macbeth's question,
+<q>
+               <l>Went it not so?</l>
+               <l>To the self-same tune, and words.—</l>
+               <bibl>(P. 464. v.4.)</bibl>
+            </q>
+This is a grave, and precise, reply to a par<lb rend="hidden" type="hyphenInWord"/>ticular, and interesting, demand. It has been observed, from the highest critical authority, that Malcolm confirms the serious import of the speech in question, when he calls the effusions of Macduff's grief and rage a manly "tune."—P. 586. v. 4.) It is plain, that Banquo's exclamation—,
+<q>What, can the devil speak true?—
+<bibl>(P. 465. v. 4.)</bibl>
+            </q>
+on hearing part of the prophecy fulfilled, is dictated by wonder, not <hi>disregard;</hi> for, when Macbeth takes occasion, from that very event, to question him on the hope, he now might
+<pb n="14" facs="16"/>reasonably entertain, of his family's advance<lb rend="hidden" type="hyphenInWord"/>ment, he solemnly replies,
+<q>
+               <l>— 'Tis strange;</l>
+               <l>And oftentimes, to win us to our harm,</l>
+               <l>The instruments of darkness tell us truths;</l>
+               <l>Win us with honest trifles, to betray us</l>
+               <l>In deepest consequence.—</l>
+               <bibl>(P. 466. v. 4.)</bibl>
+            </q>
+Now let us advert to the subsequent effect, which the declarations of the sisters have upon Banquo's mind: he prays to be delivered from their temptations;
+<q>
+               <l>—Merciful powers!</l>
+               <l>Restrain in me the cursed thoughts, that nature</l>
+               <l>Gives way to in repose!—</l>
+               <bibl>(P.492. v. 4.)</bibl>
+            </q>
+         </p>
+         <p>Mr. Stevens, to whom every admirer of Shakspeare must feel himself under high obli<lb rend="hidden" type="hyphenInWord"/>gations, observes upon this passage, <q>it is ap<lb rend="hidden" type="hyphenInWord"/>parent from what Banquo says afterwards</q>—[to Macbeth, "I dreamt last night of the three weird sisters,"]—<q>that he had been solicited in a dream to attempt something, in consequence of the prophecy of the witches, that his waking senses were shock'd at.</q>—(P. 492. v. 4.) —These horrible emotions could never have been
+<pb n="15" facs="17"/>
+caused in him by declarations, which he had contemned, ridiculed, or disregarded. The adventure on the heath, therefore, does not prove Banquo's spirit greater than Macbeth's.</p>
+         <p>The "Remarks" proceed thus, in proof of Macbeth's personal fear of Banquo; <hi>his principal object is the death of the father; and the securing of his crown against Banquo's issue, who alone were pointed out to his jealousy by the witches, is no more than a secondary consideration.</hi>
+         </p>
+         <p>Macbeth, when he <hi>confesses to Lady Mac<lb rend="hidden" type="hyphenInWord"/>beth, that his mind is full of scorpions,</hi> shews Banquo not to be the sole cause of his un<lb rend="hidden" type="hyphenInWord"/>easiness, by adding, "Thou know'st, that Banquo, and his Fleance, lives:" Moreover; directing the assassins, he tells them, the son's absence is "no less material" to him, than the father's; he urges the death of Fleance on a motive distinct from cowardice; for, allowing, one moment, that he personally fear'd Banquo, it is impossible to conceive he could have felt the same dread of a boy: again; had his fears been personal they must have ended with the removal of the object of them; but finding the son has not fallen with the father, he is again involv'd in all his former apprehensions.
+<q>
+               <pb n="16" facs="18"/>
+               <l>Fleance is 'scap'd.</l>
+               <l>Then comes my fit again.—</l>
+               <bibl>(P. 538. v. 4.)</bibl>
+            </q>
+The witches, it is true, only point out Ban<lb rend="hidden" type="hyphenInWord"/>quo's issue to Macbeth's jealousy; but acual is not possible progeny, and the loss of one child does not prevent a man from begetting others: thus, the securing of his crown against Banquo's issue is so far from being a <hi>secondary,</hi> that it is the tyrant's only, instigation to this double murder.</p>
+         <p>The original idea of Macbeth's personally fearing Banquo seems founded on these words;
+<q>
+               <l>— our fears in Banquo</l>
+               <l>Stick deep;—</l>
+            </q>
+and,
+<q>
+               <l>— There is none, but he,</l>
+               <l>Whose being I do fear,—</l>
+               <bibl>(P. 522. v, 4.)</bibl>
+            </q>
+         </p>
+         <p>It will be essentially necessary, towards ex<lb rend="hidden" type="hyphenInWord"/>plaining the sense of these strong lines, to fol<lb rend="hidden" type="hyphenInWord"/>low the train of reasoning through the context of the speech, from which they are taken.</p>
+         <q>
+            <l>To be thus, is nothing;</l>
+            <l>But to be safely thus:—Our fears in Banquo</l>
+            <l>Stick deep; and in his royalty of nature</l>
+            <l>Reigns that, which would be fear'd: 'Tis much he dares;</l>
+            <l>
+               <pb n="17" facs="19"/>And, to that dauntless temper of his mind,</l>
+            <l>He hath a wisdom, that doth guide his valour</l>
+            <l>To act in safety. There is none, but he,</l>
+            <l>Whose being I do fear: and, under him,</l>
+            <l>My genius is rebuk'd; as, it is said,</l>
+            <l>Mark Anthony's was by Caesar. He chid the sisters,</l>
+            <l>When first they put the name of king upon me,</l>
+            <l>And bade them speak to him; then, prophet-like,</l>
+            <l>They hail'd him father to a line of kings:</l>
+            <l>Upon my head they plac'd a fruitless crown,</l>
+            <l>And put a barren sceptre in my gripe,</l>
+            <l>Thence to be wrench'd with an unlineal hand,</l>
+            <l>No son of mine succeeding. If it be so,</l>
+            <l>For Banquo's issue have I fil'd my mind;</l>
+            <l>For them the gracious Duncan have I murder'd;</l>
+            <l>Put rancours in the vessel of my peace</l>
+            <l>Only for them; and mine eternal jewel</l>
+            <l>Given to the common enemy of man,</l>
+            <l>To make them kings, the seed of Banquo kings!</l>
+            <l>Rather than so, come, fate, into the list,</l>
+            <l>And champion me to the utterance!—</l>
+            <bibl>(ibid.)</bibl>
+         </q>
+         <p>In this soliloquy the usurper reflects, that, after all he has done to obtain the crown, he is in great danger of losing it; weighs the causes of that danger; and resolves, by re<lb rend="hidden" type="hyphenInWord"/>moving them, to take effectual measures for the firmly establishing of his supremacy. In other words;—</p>
+         <p>I have possess'd myself of the sovereignty; but to what avail, when, in a moment, it
+<pb n="18" facs="20"/>
+may be wrested from me? Banquo's eye is fix'd upon it; and there reigns in his very nature a royalty, that seems to realize his ex<lb rend="hidden" type="hyphenInWord"/>pectations: he is not only a soldier of uncom<lb rend="hidden" type="hyphenInWord"/>mon bravery, but so consummate a politician, that, should he revolt against my govern<lb rend="hidden" type="hyphenInWord"/>ment, he would infallibly carry his designs successfully into execution. He is the only man alive, whose attempts I dread: and he holds as high an ascendant over my good ge<lb rend="hidden" type="hyphenInWord"/>nius, as, it is said, Caesar did over Mark An<lb rend="hidden" type="hyphenInWord"/>tony's. His hopes are not only strengthen'd by his natural endowments, but embolden'd too by the assurances of prophecy: hearing me saluted king by the sisters, he bade them speak to him; they obey'd; and hail'd him father to a line of kings; they plac'd a crown upon my head, and put a sceptre in my hand, not to be transmitted to my own, but to be wrench'd away by the unlineal inheritance of his, children. If so, I shall have perpetrated such crimes, as must embitter every moment of my life in this world, and forbid every hope of happiness in the world to come, only to make the seed of Banquo kings! It must not be—I here oppose myself to the predic<lb rend="hidden" type="hyphenInWord"/>tion, and resolve by extirpating his family, to elude the decrees of fate itself.</p>
+         <p>
+            <pb n="19" facs="21"/>The usurper, then, does not plunge into fresh crimes <hi>to get rid of personal fear</hi>—ambi<lb rend="hidden" type="hyphenInWord"/>tion impels him to the murder of Duncan; and the same ambition urges him on the de<lb rend="hidden" type="hyphenInWord"/>struction of Banquo and Fleance, who seem destin'd to degrade him and his house from the splendors of monarchy to the obscurity of vassalage.</p>
+         <p>The "Remarks" find additional proofs of Macbeth's cowardice in his conduct towards Macduff—"<hi>The same motives of personal fear, and those unmix'd with any other, impel him to seek the destruction of Macduff.</hi>"</p>
+         <p>Macbeth is not wrought by <hi>personal fear,</hi> to destroy Macduff, but by the knowledge of his disaffection,
+<q>
+               <l>How say'st thou, that Macduff denies his person,</l>
+               <l>At our great bidding?—</l>
+               <bibl>(P. 546. v. 4.)</bibl>
+            </q>
+         </p>
+         <p>The discontented Thane of Fife is a man, whose parts and popularity are not to be de<lb rend="hidden" type="hyphenInWord"/>spis'd; he is described,
+<q>—Noble, wise, judicious,—
+<bibl>(P. 567. v. 4.)</bibl>
+            </q>
+And Rosse, speaking of the misfortune that had befallen him in the loss of his wife and children, says,
+<q>
+               <pb n="20" facs="22"/>
+               <l>No mind, that's honest,</l>
+               <l>But in it shares some woe.—</l>
+               <bibl>(P. 584. v. 4.)</bibl>
+            </q>
+         </p>
+         <p>If Macbeth thanks the apparition, that had "harped his fears aright,"—it is because, its caution justifying his suspicions, he shall now provide more strenuously against the machina<lb rend="hidden" type="hyphenInWord"/>tions of his enemy.</p>
+         <p>If, when told that,
+<q>
+               <l>—none of women born</l>
+               <l>Shall harm him,—</l>
+            </q>
+he says,
+<q>Then live, Macduff;—</q>
+yet, repressing the feelings of confidence, in<lb rend="hidden" type="hyphenInWord"/>stantly adds,
+<q>
+               <l>—Thou shalt not live;</l>
+               <l>That I may tell pale-hearted fear it lies;—</l>
+            </q>
+the quality of that fear is decided, when (being assur'd, that he
+<q>
+               <l>—shall never vanquish'd be, until</l>
+               <l>Great Birnam wood to high Dunsinane hill</l>
+               <l>Shall come against him,—)</l>
+            </q>
+he exclaims,
+<q>
+               <l>—Our <hi>high-plac'd</hi> Macbeth</l>
+               <l>Shall live the lease of nature.—</l>
+               <bibl>(P. 562. v. 4.)</bibl>
+            </q>
+         </p>
+         <p>
+            <pb n="21" facs="23"/>When the Thane of Fife encounters Mac<lb rend="hidden" type="hyphenInWord"/>beth in battle, the tyrant does not use the power upon his life, which he believes him<lb rend="hidden" type="hyphenInWord"/>self possess'd of, as instantly he would, had he fear'd him; but, yielding to compunc<lb rend="hidden" type="hyphenInWord"/>tion for the inhuman wrongs he had done him, wishes to avoid the necessity of adding Macduff's blood to that, already spilt in the slaughter of his dearest connections.
+<q>
+               <sp>
+                  <l>—Get thee back, my soul is too much charg'd</l>
+                  <l>With blood of thine already.</l>
+               </sp>
+               <sp>
+                  <speaker>Macd.</speaker>
+                  <l>I have no words,</l>
+                  <l>My voice is in my sword; thou bloodier villain</l>
+                  <l>Than terms can give thee out!—(<hi>Fight.</hi>)</l>
+               </sp>
+               <sp>
+                  <speaker>Mach.</speaker>
+                  <l>Thou losest labour:</l>
+                  <l>As easy may'st thou the intrenchant air</l>
+                  <l>With thy keen sword impress, as make me bleed:</l>
+                  <l>Let fall thy blade on vulnerable crests;</l>
+                  <l>I bear a charmed life, which must not yield</l>
+                  <l>To one of woman born.—</l>
+               </sp>
+               <bibl>(P. 606. v. 4.)</bibl>
+            </q>
+Unmov'd by Macduff's taunts and furious attack, Macbeth advises him to employ his valour where success may follow it, and gene<lb rend="hidden" type="hyphenInWord"/>rously warns him against persisting to urge an unequal combat with one, whom destiny had, pronounced invincible.—</p>
+         <p>The "Remarks" would now condemn Macbeth from his own confession of the truth
+<pb n="22" facs="24"/>
+of the accusations brought against him—
+<q>
+               <hi>That apprehension was his reason for these murthers, he intimates himself; when meditating on that of Banquo, he observes, that,</hi>
+               <q>Things bad begun make strong themselves by ill.—
+<bibl>(P. 535. a. 3. s. 2.)</bibl>
+               </q>
+And when that of Macduff is in contemplation, he says,
+<q>
+                  <l>—I am in blood</l>
+                  <l>Stept in so far, that, shou'd I wade no more,</l>
+                  <l>Returning were as tedious as go o'er.—</l>
+                  <bibl>(P. 546. v. 4.)</bibl>
+               </q>
+            </q>
+         </p>
+         <p>The comment on these passages, which Cibber puts into the mouth of king Richard, is remarkable, and justly explains their mean<lb rend="hidden" type="hyphenInWord"/>ing.</p>
+         <p>
+            <q>Crowns got with blood must be with blood main<lb rend="hidden" type="hyphenInWord"/>tain'd.
+<bibl>(Act 3.)</bibl>
+            </q>
+and,
+<q>
+               <l>When I look back, 'tis terrible retreating;</l>
+               <l>I cannot bear the thought, nor dare repent.—</l>
+               <bibl>(Act 5.)</bibl>
+            </q>
+         </p>
+         <p>In a word, Macbeth does not meditate the deaths of Banquo and Macduff through <q>
+               <hi>per<lb rend="hidden" type="hyphenInWord"/>sonal fear</hi>
+            </q> of them; but because his am<lb rend="hidden" type="hyphenInWord"/>bition renders the former obnoxious to his envy, and the latter to his hatred.</p>
+         <p>
+            <pb n="23" facs="25"/>It must now be shewn, that the proofs of Richard's superior courage are not conclu<lb rend="hidden" type="hyphenInWord"/>sive against Macbeth. Equal firmness in equal trials will invalidate some of them; some are to be refuted by shewing that what is objected to Macbeth as timidity will as strongly affect Richard himself; and some may, perhaps, be founded on misapprehea<lb rend="hidden" type="hyphenInWord"/>sion of fact, or sentiment.</p>
+         <p>If it is a mark of resolution in Richard that, when Tyrrel informs him the princes are dis<lb rend="hidden" type="hyphenInWord"/>patched, <q>
+               <hi>though certain of the event, he is solicitous to hear at leisure in what manner it was conducted</hi>—
+<q>
+                  <l>Come to me, Tyrrel, soon at after supper,</l>
+                  <l>When thou shalt tell the process of their death;—</l>
+                  <bibl>(P. 115. v. 7.)</bibl>
+               </q>
+            </q>
+         </p>
+         <p>Macbeth must be allowed to display precisely the same quality, when he says to the mur<lb rend="hidden" type="hyphenInWord"/>derer, who has related to him the process of Banquo's death,
+<q>
+               <l>—Get thee gone; to-morrow</l>
+               <l>We'll hear, ourselves again.</l>
+               <bibl>(P. 558. v. 4)</bibl>
+            </q>
+         </p>
+         <p>The "Remarks" proceed—<q>
+               <hi>Macbeth's suspicions extend to all his great lords</hi>—</q>
+            <q>
+               <l>There is not a one of them, but in his house</l>
+               <l>I keep a servant fee'd;—</l>
+               <bibl>(p. 546. v. 4.)</bibl>
+            </q>
+            <pb n="24" facs="26"/>
+and, "<hi>he tells the physician,"</hi>—
+<q>The Thanes fly from me.—
+<bibl>(P. 596. v. 4.)</bibl>
+            </q>
+Does not Richard betray as much suspicion when he dares not trust Stanley, till he has taken the young lord Strange as a surety for his fidelity?—and is he not as anxious from a mere doubt of his followers, as Macbeth is on finding himself really deserted?
+<q>
+               <sp>
+                  <speaker>K. Rich.</speaker>
+                  <l>O Ratcliff, I have dream'd a fearful dream!—</l>
+                  <l>What think'st thou?—Will our friends prove all true?—</l>
+               </sp>
+               <sp>
+                  <speaker>Rat.</speaker>
+                  <l>No doubt, my Lord.</l>
+               </sp>
+               <sp>
+                  <speaker>K. Rich.</speaker>
+                  <l>I fear, I fear.</l>
+                  <l>—</l>
+                  <l>—</l>
+                  <l>—Come, go with me Under our tents; I'll play the eaves-dropper,</l>
+                  <l>To hear, if any mean to shrink from me.</l>
+               </sp>
+               <bibl>(P. 156. v. 7.)</bibl>
+            </q>
+         </p>
+         <p>Mr. W. says, <q>
+               <hi>His going round the camp, just before the battle, to listen if any meant to shrink from him, is proper on that particular oc<lb rend="hidden" type="hyphenInWord"/>casion</hi>
+            </q>—Agreed—But why think the same action proper conduct in Richard, and cow<lb rend="hidden" type="hyphenInWord"/>ardice in. Macbeth?—</p>
+         <p>
+            <pb n="25" facs="27"/>
+            <hi>The "Remarks," bent upon exalting Richard at Macbeth's expence, say,</hi> 
+            <q>The same determined spirit carries him through the bloody business of murdering his nephews: and when Buckingham shews a reluctance to be concern'd in it, he immediately looks out for another—Had Macbeth been thus disappointed in the person to whom he had open'd himself, it would have disconcerted any design he had form'd.</q>
+         </p>
+         <p>It appears, however, that the persons Macbeth open'd himself to, were not wrought to his purpose on their first interview; yet it does not disconcert his designs; he sends for them again, repeats his former conversation, and prevails with them by strong arguments, and large promises, to undertake a murder, the execution whereof he steadily persists in. P. 325. v. 4.</p>
+         <p>
+            <hi>Again,</hi> 
+            <q>All the crimes Richard commits are for his advancement, not for his security.</q>
+         </p>
+         <p>Richard removes Clarence and Hastings, as Macbeth does Duncan, for his advancement; but he murders his nephews and his wife, as Macbeth does Banquo, to secure himself in that advancement.</p>
+         <p>
+            <pb n="26" facs="28"/>
+            <hi>Why should it be supposed Macbeth</hi> 
+            <q>catches the terrors he sees express'd in the coun<lb rend="hidden" type="hyphenInWord"/>tenance of the messenger, who informs him of numbers of the enemy?</q>
+            <q>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <l>There is ten thousand—</l>
+               </sp>
+               <sp>
+                  <speaker>Mach.</speaker>
+                  <l>Geese, villain?</l>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <l>Soldiers, Sir.</l>
+               </sp>
+               <sp>
+                  <speaker>Mach.</speaker>
+                  <l>Go, prick thy face, and over-red thy fear,</l>
+                  <l>Thou lily-liver'd boy. What soldiers, Patch?</l>
+                  <l>Death of thy soul! those linen cheeks of thine</l>
+                  <l>Are counsellors to fear.—</l>
+               </sp>
+               <bibl>(P. 593. v.4.)—</bibl>
+            </q>
+         </p>
+         <p>From the contemptuous manner in which he treats the intelligence, he seems rather to imagine what effect such looks might have upon the garrison, than to acknowledge any they have produc'd upon himself—What is Richard's composure in a similar situation? The information he receives of insurrections in Devonshire and Kent being followed by news of Buckingham's army, striking the messenger, he exclaims,
+<q>
+               <l>Out on ye owls!—nothing but songs of death?</l>
+               <l>There, take thou that.—</l>
+               <bibl>(P. 137. v.7.)</bibl>
+            </q>
+         </p>
+         <p>
+            <hi>Macbeth's courage is impeach'd, because</hi> 
+            <q>he calls for his armour, notwithstanding Sey<lb rend="hidden" type="hyphenInWord"/>ton's remonstrance, that
+<q>It is not needed yet—</q>
+               <pb n="27" facs="29"/>persists in putting it on; calls for it again eagerly afterwards; bids. the person who is assisting him
+<q>
+                  <hi>Dispatch</hi>—</q>
+then, the moment it is on, pulls it off again, and directs his attendants to,
+<q>Bring it after.—<bibl>(P. 597. v. 4.)</bibl>
+               </q>
+            </q>
+         </p>
+         <p>Is there more confusion and inconsistency in this, than in the following, scene?
+<q>
+               <sp>
+                  <speaker>Rat.</speaker>
+                  <l>Most mighty sovereign, on the western coast</l>
+                  <l>Rideth a puissant navy; to the shore</l>
+                  <l>Throng many doubtful hollow-hearted friends,</l>
+                  <l>Unarm'd and unresolv'd, to beat them back:</l>
+                  <l>'Tis thought, that Richmond is their admiral;</l>
+                  <l>And there they hull, expecting but the aid</l>
+                  <l>Of Buckingham to welcome them ashore.</l>
+               </sp>
+               <sp>
+                  <speaker>K. Rich.</speaker>
+                  <l>Some light-foot friend post to the duke of Norfolk;—</l>
+                  <l>Ratcliff, thyself, —or Catesby;—where is he?</l>
+               </sp>
+               <sp>
+                  <speaker>Cates.</speaker>
+                  <l>Here, my good lord.</l>
+               </sp>
+               <sp>
+                  <speaker>K. Rich.</speaker>
+                  <l>Catesby, fly to the duke—</l>
+               </sp>
+               <sp>
+                  <speaker>Cates.</speaker>
+                  <l>I will, my lord, with all convenient haste.</l>
+               </sp>
+               <sp>
+                  <speaker>K. Rich.</speaker>
+                  <l>Ratcliffe, come hither: post to Sa<lb rend="hidden" type="hyphenInWord"/>lisbury;</l>
+                  <l>When thou comest thither—Dull, unmindful villain, </l>
+                  <stage>(To Catesby.)</stage>
+                  <l>Why stay'st thou here, and go'st not to the duke?</l>
+               </sp>
+               <sp>
+                  <pb n="28" facs="30"/>
+                  <speaker>Cates.</speaker>
+                  <l>First, mighty liege, tell me your highness' pleasure,</l>
+                  <l>What from your grace I shall deliver to him.</l>
+               </sp>
+               <sp>
+                  <speaker>K. Rich.</speaker>
+                  <l>O, true, good Catesby;—Bid him levy straight</l>
+                  <l>The greatest strength and power he can make,</l>
+                  <l>And meet me suddenly at Salisbury.</l>
+               </sp>
+               <sp>
+                  <speaker>Cates.</speaker>
+                  <l>I go.</l>
+               </sp>
+               <sp>
+                  <speaker>Rat.</speaker>
+                  <l>What, may it please you, shall I do at Sa<lb rend="hidden" type="hyphenInWord"/>lisbury?</l>
+               </sp>
+               <sp>
+                  <speaker>K. Rich.</speaker>
+                  <l>Why, what would'st thou do there be<lb rend="hidden" type="hyphenInWord"/>fore I go?</l>
+               </sp>
+               <sp>
+                  <speaker>Rat.</speaker>
+                  <l>Your highness told me, I shou'd post before.</l>
+               </sp>
+               <sp>
+                  <speaker>K. Rich.</speaker>
+                  <l>My mind is chang'd.—</l>
+               </sp>
+'<bibl>(P. 134. v. 7.)</bibl>
+            </q>
+         </p>
+         <p>
+            <hi>Arguing principally from the recited in<lb rend="hidden" type="hyphenInWord"/>stances of it, the "Remarks" say,</hi> 
+            <q>These are all symptoms of timidity, which he confesses to have been natural to him, when he owns that</q>
+            <q>The time has been my senses wou'd have cool'd To hear a night-shriek, and my fell of hair Wou'd at a dismal treatise rouse and stir, As life were in't.—I have supt full of horrors; Direness, familiar to my slaught'rous thoughts, Cannot once start me.—<bibl>(P. 599. v. 4.)</bibl>
+            </q>
+         </p>
+         <p>Here Mr. W. refutes his own position; for, if his interpretation of these lines be ad<lb rend="hidden" type="hyphenInWord"/>mitted, he must allow that Macbeth, what<lb rend="hidden" type="hyphenInWord"/>ever his former feelings were, has no timidity
+<pb n="29" facs="31"/>
+in his disposition now. But the passage refers neither to fear or courage—it is a pathetic reflection on the dreadful change produced in his humane habits, during a seventeen years usurpation, the records whereof are crouded with practices so oppressive and bloody, as have hardened his once easily yielding temper against all impressions of sensibility, and the charities of nature.</p>
+         <p>P. 76. When Richard "<hi>asks</hi>"
+<q>My lord of Surry, why look you so sad?—
+<bibl>(P. 144. v. 7.)</bibl>
+            </q>
+and afterwards "<hi>enquires,</hi>"
+<q>Saw'st thou the melancholy lord Northumberland?
+<bibl>(P. 147. v. 7.)</bibl>
+            </q>
+            <hi>he is not</hi> 
+            <q>satisfied upon being told, that he and Surry were busied in</q>
+            <q>Chearing up the foldiers.—</q>
+He would, indeed, fain persuade himself to be satisfied; but, in reality, he is far from being at ease.
+<q>
+               <l>I am satisfied—Give me a bowl of wine:</l>
+               <l>I have not the alacrity of spirit,</l>
+               <l>Nor cheer of mind, that I was won't to have.—</l>
+               <bibl>(P. 148. v. 7.)</bibl>
+            </q>
+            <pb n="30" facs="32"/>
+The nature of Richard's question on Surry's sadness, and observation of Northumberland's melancholy, may be exemplify'd from Mr. W's judicious reflection on Macbeth's inter<lb rend="hidden" type="hyphenInWord"/>rogatories to the physician—
+<q>Canst thou not minister to a mind diseas'd; Pluck from the memory, &amp;c. &amp;c.—<bibl>(P. 596. v. 4.)</bibl>
+            </q>
+            <q>Though it is the disorder of Lady Macbeth that gives occasion to these questions, yet,— in his own mind, he is all the while making application to himself. Richard represents the enemy as a troop of banditti; A sort of vagabonds, rascals, and run-aways, A scum of Brittains, and base lackey peasants, &amp;c.
+<bibl>(P. 165. v. 7.)</bibl>
+            </q>
+         </p>
+         <p>This harangue to his army shou'd not have been quoted as an instance of Richard's in<lb rend="hidden" type="hyphenInWord"/>trepidity; for it does not contain his real sentiments of Richmond's friends: the in<lb rend="hidden" type="hyphenInWord"/>feriority of the foe is a topic which generals, to encourage their own troops, have com<lb rend="hidden" type="hyphenInWord"/>monly affected; and Richard never cou'd have seriously held in contempt such enemies as
+<q>
+               <l>Sir Walter Herbert, a renowned soldier;</l>
+               <l>Sir Gilbert Talbot, and Sir William Stanley;</l>
+               <l>
+                  <pb n="31" facs="33"/>Oxford, redoubted Pembroke, Sir James Blunt,</l>
+               <l>And Rice ap Thomas, with a valiant crew;</l>
+               <l>And many others of great name and worth.—</l>
+               <bibl>(P. 139. v. 7.)</bibl>
+            </q>
+         </p>
+         <p>When lady Macbeth, finding her husband will proceed no further in the bloody business of his sovereign's death, reproaches him thus;
+<q>
+               <l>—Would'st thou have that,</l>
+               <l>Which thou esteem'st the ornament of life,</l>
+               <l>And live a coward in thine own esteem;</l>
+               <l>Letting I dare not wait upon I would—?—</l>
+               <bibl>(P. 488. v. 4.)</bibl>
+            </q>
+his reply,
+<q>I dare do all that may become a man—</q>
+is so far being an assertion of mere <q>
+               <hi>manliness of character,</hi>
+            </q> in Mr. W's sense, that it sublimely expresses an entire contempt of danger, and reverence for virtue.</p>
+         <p>To compare Macbeth and Richard under the influence of visions—Macbeth addresses Banquo thus,
+<q>Why, what care I? If thou can'st nod, speak too. If charnel-houses, and our graves, must send Those that we bury, back; our monuments Shall be the maws of kites.—<bibl>(P. 541. v. 6.)</bibl>
+            </q>
+         </p>
+         <p>
+            <pb n="32" facs="34"/>Again
+<q>
+               <l>What man dare, I dare:</l>
+               <l>Approach thou like the rugged Russian bear,</l>
+               <l>The arm'd rhinoceros, or the Hyrcan tyger,</l>
+               <l>Take any shape but that, and my firm nerves</l>
+               <l>Shall never tremble: Or, be alive again,</l>
+               <l>And dare me to the desert with thy sword;</l>
+               <l>If trembling I inhabit, then protest me</l>
+               <l>The baby of a girl. Hence, horrible shadow!</l>
+               <l>Unreal mockery, hence!—</l>
+               <bibl>(P. 543. v. 4.)</bibl>
+            </q>
+Notwithstanding the firmness of this defiance, it cannot be suppos'd but Macbeth is as much terrify'd while he utters it, as Richard is, when, starting out of a dream in which the souls of those he had murder'd had appear'd to him, he cries,
+<q>
+               <l>Have mercy, Jesu!—soft; I did but dream.—</l>
+               <l>O coward conscience, how dost thou afflict me!</l>
+               <l>The lights burn blue.—Is it not dead midnight?</l>
+               <l>Cold fearful drops stand on my trembling flesh, &amp;c.</l>
+               <bibl>(P. 154. v. 7.)</bibl>
+            </q>
+         </p>
+         <p>Superstition may be a sign of timidity— Macbeth's superstition is founded on the strong assurances of preternatural agents, whose first promises to him had been made good—Rich<lb rend="hidden" type="hyphenInWord"/>ard condescends to be affected by omens,
+<q>
+               <l>Richmond!—when I was last at Exeter,</l>
+               <l>The mayor in courtsy shew'd me the castle,</l>
+               <l>
+                  <pb n="33" facs="35"/>And call'd it Rouge-m<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>nt: at which name I started;</l>
+               <l>Because a bard of Ireland told me once,</l>
+               <l>I shou'd not live long after I saw Richmond.—</l>
+               <bibl>(P. 112. v. 7.)</bibl>
+            </q>
+Again;
+<q>
+               <l>The sun will not be seen to-day;</l>
+               <l>The sky doth frown and lour upon our army.</l>
+               <l>I wou'd these dewy tears were from the ground!—</l>
+               <bibl>(P. 159. v. 7.)</bibl>
+            </q>
+It will be said, and it will be granted, that Richard presently stifles these emotions: it is only asserted that he feels them, like Mac<lb rend="hidden" type="hyphenInWord"/>beth; and that Macbeth, like him, can over<lb rend="hidden" type="hyphenInWord"/>come them.—The wood of Birnam moves to<lb rend="hidden" type="hyphenInWord"/>wards Dunsinane—The tyrant
+<q>Doubts the equivocation of the fiend.—</q>
+and, believing the laws of nature invented to his ruin,
+<q>Pulls in resolution.—</q>
+Instantly, however, he shakes off this mo<lb rend="hidden" type="hyphenInWord"/>mentary dismay,
+<q>
+               <l>—Blow, wind! come, wrack!</l>
+               <l>At least we'll die with our harness on our back.—</l>
+               <bibl>(P. 604. v. 4.)</bibl>
+            </q>
+He rushes upon the enemy—encounters Mac<lb rend="hidden" type="hyphenInWord"/>duff —The sisters have palter'd with him; he has done with belief in the juggling fiends, and can rely upon himself—
+<q>
+               <pb n="34" facs="36"/>
+               <l>Though Birnam wood be come to Dunfinane,</l>
+               <l>And thou oppos'd, being of no woman born,</l>
+               <l>Yet I will try thy last: before my body</l>
+               <l>I throw my warlike shield: lay on, Macduff;</l>
+               <l>And damn'd be him that first cries, hold, enough.</l>
+            </q>
+            <bibl>(P. 608. v. 4.)</bibl>
+This conduct in Macbeth is stigmatized with the name of <hi>despair.</hi>—It certainly is of the same nature with Richard's determination:
+<q>
+               <l>—I have set my life upon a cast,</l>
+               <l>And I will stand the hazard of the die.—</l>
+               <bibl>(P. 164. v. 7.)</bibl>
+            </q>
+The resolution of both tyrants in the battles, that decided their fate, is that mix'd effusion of grief, shame, and pride, which cannot be denominated less than the despair of innate bravery.</p>
+         <p>If Macbeth's behaviour is to be called cow<lb rend="hidden" type="hyphenInWord"/>ardly, when, overpowered by the completion of the prophecies, he, for a moment, declines the combat with Macduff; so must Richard's, when he flies with Hastings before Warwick and Somerset, leaving Edward to the mercy of the Lancastrians.—P. 52<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>. v. 6.</p>
+         <p>
+            <hi>From the review of the characters of the usurpers, it appears not to be true of Richard, that</hi> 
+            <q>upon no occasion, however tremendous, end at no moment of his life, however un<lb rend="hidden" type="hyphenInWord"/>guarded,
+<pb n="35" facs="37"/>
+does he betray the least symptom of fear;</q>—<hi>or of Macbeth, that he</hi> 
+            <q>is always shaken upon great, and frequently upon trivial occasions.</q>
+         </p>
+         <p>Macbeth and Richard are each of them as intrepid as man can be: yet, it may be said of each, without any derogation from that character, that he is, at times, agitated with apprehensions. The Earl of Peterborough has left it upon record, that intrepidity and sense of danger are by no means incompatible.</p>
+         <p>Having endeavour'd to prove, that Macbeth has a just right to the reputation of intre<lb rend="hidden" type="hyphenInWord"/>pidity; that he feels no personal dread of Ban<lb rend="hidden" type="hyphenInWord"/>quo and Macduff; and that he meets equal, not to say superior, trials, as boldly as Rich<lb rend="hidden" type="hyphenInWord"/>ard; it may be expected this essay should at<lb rend="hidden" type="hyphenInWord"/>tempt to shew in what the essential difference between these great bad men consists.</p>
+         <p>Ambition is the impulse that governs every action of Richard's life; he attains the crown by dissimulation, that owns no respect for virtue; and by cruelty, which entails no re<lb rend="hidden" type="hyphenInWord"/>morse on the va<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>our, that wou'd maintain his ill-acquir'd dignity. Ambition is the predo<lb rend="hidden" type="hyphenInWord"/>minant vice of Macbeth's nature; but he gra<lb rend="hidden" type="hyphenInWord"/>tifies it by hypocrisy, that reveres virtue too highly to be perfectly itself; and by murders,
+<pb n="36" facs="38"/>
+the recollection whereof, at times, renders his valour, useless by depriving him of all fense, but that of his enormous wickedness. Richard's character is simple, Macbeth's mix'd. Richard is only intrepid, Macbeth intrepid, and feeling. Richard's mind not being diverted by reflection from the exigen<lb rend="hidden" type="hyphenInWord"/>cies of his situation, he is always at full leisure to display his valour; Macbeth, dis<lb rend="hidden" type="hyphenInWord"/>tracted by remorse, loses all apprehension of danger in the contemplation of his guilt; and never recurs to his valour for support, till the enemy's approach rouzes his whole soul, and conscience is repell'd by the necessity for ex<lb rend="hidden" type="hyphenInWord"/>ertion.</p>
+         <p>The writer of the above pages cannot con<lb rend="hidden" type="hyphenInWord"/>clude without saying, he read the <q>Remarks on some of Shakspeare's Characters</q> with so much general pleasure and conviction, that he wishes his approbation were considerable enough to increase the celebrity which Mr. Wheatley's memory has acquir'd from a work, so usefully intended, and so elegantly perform'd.</p>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

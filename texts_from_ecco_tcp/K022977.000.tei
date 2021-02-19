@@ -1,0 +1,1202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A miscellany on taste. By Mr. Pope, &amp;c. Viz. I. of taste in architecture. An epistle to the Earl of Burlington. With notes variorum, and a compleat key. II. Of Mr. Pope's taste in divinity, viz. the fall of man, and the first Psalm. Translated for the use of a young lady. III. Of Mr. Pope's taste of Shakespeare. IV. - His satire on Mrs. P-y. V. Mr. Congreve's fine epistle on retirement and taste. Address'd to Lord Cobham:</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K022977.000</idno>
+            <idno type="docno">CW3324785366</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A miscellany on taste. By Mr. Pope, &amp;c. Viz. I. of taste in architecture. An epistle to the Earl of Burlington. With notes variorum, and a compleat key. II. Of Mr. Pope's taste in divinity, viz. the fall of man, and the first Psalm. Translated for the use of a young lady. III. Of Mr. Pope's taste of Shakespeare. IV. - His satire on Mrs. P-y. V. Mr. Congreve's fine epistle on retirement and taste. Address'd to Lord Cobham:</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>[4], 45, [1] p. : ill. ; 8.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed; and sold by G. Lawton [i.e. Lawton Gilliver], in Fleet-street; T. Osborn, below bridge; and J. Hughes in High-Holborn,</publisher>
+                  <date>1732.</date>
+                  <idno type="TCP">K022977.000</idno>
+                  <idno type="docno">CW3324785366</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Edited by Matthew Concanen, the elder? - "G. Lawton" = Lawton Gilliver.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Griffith, 266; Guerinot, p. 207ff</note>
+                  <note>English Short Title Catalog, ESTCT5481.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#http://authorities.loc.gov/">
+               <term>Satires -- 18th century. -- England</term>
+               <term>Poems -- 18th century. -- England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>A MISCELLANY ON TASTE.</p>
+            <p>By Mr. <hi>POPE,</hi> &amp;c.</p>
+            <p>Viz.</p>
+            <p>I. Of TASTE in ARCHITECTURE. An Epistle to the Earl of <hi>Burlington.</hi> With <hi>NOTES Variorum,</hi> and a Compleat KEY.</p>
+            <p>II. Of Mr. POPE'<hi>S</hi> TASTE in DIVINITY, <hi>viz.</hi> The FALL of MAN, and the First PSALM. Translated for the Use of a YOUNG LADY.</p>
+            <p>III. Of Mr. POPE'<hi>S</hi> TASTE of <hi>Shakespeare.</hi>
+            </p>
+            <p>IV.—His <hi>Satire</hi> on Mrs. <hi>P—y.</hi>
+            </p>
+            <p>V. Mr. CONGREVE'<hi>S</hi> fine EPISTLE on RETIREMENT and TASTE. Address'd to Lord <hi>Cobham.</hi>
+            </p>
+            <q>
+               <l>No <hi>Author</hi> ever spar'd a Brother,</l>
+               <l>
+                  <hi>Wits are</hi> Game-Cocks to one another.</l>
+            </q>
+            <bibl>GAY'<hi>S</hi> Fab. the 8th.</bibl>
+            <p>
+               <hi>LONDON:</hi> Printed; and sold by <hi>G. Lawton,</hi> in <hi>Fleet-street; T. Osborn,</hi> below Bridge; and <hi>J. Hughes</hi> in <hi>High-Holborn.</hi> 1732. Price 1 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="keytocharacters">
+            <pb facs="2"/>
+            <head>CLAVIS.</head>
+            <list>
+               <label>Topham,</label>
+               <item> Richard Topham, of <hi>Old Windsor,</hi> 
+                  <abbr>Esq</abbr> late Keeper of the Records in the Tower.</item>
+               <label>Fountaine,</label>
+               <item>Sir <hi>Andrew Fountaine,</hi> to whom the late Dean <hi>Hickes</hi>dedicated his most learned Work, intituled, <hi>Lingua<lb rend="hidden" type="hyphenInWord"/>rum Septentrionalium the saurus,</hi> two Toms Folio.</item>
+               <label>Curio,</label>
+               <item>Dr. <hi>A—tt.</hi>
+               </item>
+               <label>Hearne,</label>
+               <item>That ingenious and learned Antiquary Mr. <hi>Thomas Hearne</hi> of Edmund-Hall, Oxon.</item>
+               <label>Mead,</label>
+               <item>The learned <hi>Richard Mead,</hi> M. D.</item>
+               <label>Sloan,</label>
+               <item>Sir <hi>Hans Sloan,</hi> M. D.</item>
+               <label>Virro,</label>
+               <item>Mr. <hi>S—es</hi> of <hi>Hertfordshire.</hi>
+               </item>
+               <label>Sir. Shylock,</label>
+               <item>Sir <hi>R—W—</hi>
+               </item>
+               <label>S—d,</label>
+               <item>One <hi>Stafford,</hi> a Carpenter.</item>
+               <label>Babo,</label>
+               <item>Lord <hi>C—d—n.</hi>
+               </item>
+               <label>Villario,</label>
+               <item>Lord <hi>C—le—n.</hi>
+               </item>
+               <label>Sabinus,</label>
+               <item>The Son of <hi>Virro.</hi>
+               </item>
+               <label>Bridgman,</label>
+               <item>A Gardener of that Name.</item>
+               <label>Timon,</label>
+               <item>Duke of <hi>C—.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="3"/>
+            <head>Of TASTE: Or, (As it is altered in the SECOND EDITION) <ref target="#CT005481-1">*</ref> Of FALSE TASTE.</head>
+            <head type="sub">AN EPISTLE To the Right Honourable RICHARD Earl of BURLINGTON.</head>
+            <div type="poem">
+               <lg>
+                  <l>
+                     <ref target="#CT005481-2">
+                        <hi rend="sup">a</hi>
+                     </ref> TIS strange, the Miser should his Cares imploy</l>
+                  <l>To <hi>gain</hi> those Riches he can ne'er <hi>enjoy:</hi>
+                  </l>
+                  <l>
+                     <pb n="2" facs="4"/> 
+                     <ref target="#CT005481-3">
+                        <hi rend="sup">a</hi>
+                     </ref> Is it less strange, the Prodigal should <hi>waste</hi>
+                  </l>
+                  <l>His Wealth to purchase what he ne'er can <hi>taste?</hi>
+                  </l>
+                  <l>
+                     <ref target="#CT005481-4">
+                        <hi rend="sup">b</hi>
+                     </ref> Not for himself he sees, or hears, or eats;</l>
+                  <l>
+                     <ref target="#CT005481-5">
+                        <hi rend="sup">c</hi>
+                     </ref> Artists must chuse his Pictures, Music, Meats:</l>
+                  <l>
+                     <ref target="#CT005481-6">
+                        <hi rend="sup">d</hi>
+                     </ref> He buys for<ref target="#CT005481-7">
+                        <hi rend="sup">e</hi>
+                     </ref> 
+                     <hi>Topham</hi> Drawings and Designs,</l>
+                  <l>For <hi>Fountain</hi> Statues, and for <hi>Curio</hi> Coins,</l>
+                  <l>
+                     <pb n="3" facs="5"/> 
+                     <ref target="#CT005481-8">
+                        <hi rend="sup">a</hi>
+                     </ref> Rare Monkish Manuscripts for <hi>Hearne</hi> alone,</l>
+                  <l>
+                     <ref target="#CT005481-9">
+                        <hi rend="sup">b</hi>
+                     </ref> And Books for <hi>Mead,</hi>
+                     <ref target="#CT005481-10">
+                        <hi rend="sup">c</hi>
+                     </ref> and Rarities for <hi>Sloan.</hi>
+                  </l>
+                  <l>
+                     <pb n="4" facs="6"/> Think we all these are for himself? no more</l>
+                  <l>
+                     <ref target="#CT005481-11">
+                        <hi rend="sup">a</hi>
+                     </ref> Than his fine Wife (my Lord) or finer Whore.</l>
+                  <l>
+                     <pb n="5" facs="7"/> 
+                     <ref target="#CT005481-12">
+                        <hi rend="sup">a</hi>
+                     </ref> For what has <hi>Virro</hi> painted, built, and planted:</l>
+                  <l>Only to shew how many Tastes he wanted.</l>
+                  <l>What brought Sir <hi>Shylock</hi>'s ill-got Wealth to waste?</l>
+                  <l>
+                     <ref target="#CT005481-13">
+                        <hi rend="sup">b</hi>
+                     </ref> Some Daemon whisper'd, "<hi>Knights</hi> should have a <hi>Taste.</hi>"</l>
+                  <l>
+                     <ref target="#CT005481-14">
+                        <hi rend="sup">c</hi>
+                     </ref> Heav'n visits with a <hi>Taste</hi> the welath Fool,</l>
+                  <l>And needs no Rod, but <hi>S—d</hi> with a Rule.</l>
+                  <l>See sportive Fate, to punish aukward Pride,</l>
+                  <l>Bids <hi>Babo</hi> build, and sends him such a Guide:</l>
+                  <l>
+                     <pb n="6" facs="8"/> A standing Sermon! at each Year's Expence,</l>
+                  <l>
+                     <ref target="#CT005481-15">
+                        <hi rend="sup">a</hi>
+                     </ref> That never Coxcomb reach'd Magnificence.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#CT005481-16">
+                        <hi rend="sup">b</hi>
+                     </ref> Oft have you hinted to your Brother Peer,</l>
+                  <l>A certain Truth which many buy too dear:</l>
+                  <l>Something there is more needful than Expence,</l>
+                  <l>And something previous ev'n to Taste—'Tis <hi>Sense;</hi>
+                  </l>
+                  <l>
+                     <ref target="#CT005481-17">
+                        <hi rend="sup">c</hi>
+                     </ref> Good Sense, which only is the Gift of Heav'n,</l>
+                  <l>And tho' no Sience, fairly worth the Seven.</l>
+                  <l>
+                     <pb n="7" facs="9"/> A Light, which in yourself you must perceive;</l>
+                  <l>
+                     <note place="bottom" n="*">Mr. <hi>Pope's</hi> NOTE. Inigo Jones.</note>
+                     <hi>Jones</hi> and<note place="bottom" n="†">Mr. <hi>Pope's</hi> NOTE. The famous Artist who design'd the best Gar<lb rend="hidden" type="hyphenInWord"/>dens in <hi>France;</hi> and plann'd <hi>Greenwich</hi> and St. <hi>James</hi>'s Parks, <hi>&amp;c.</hi>
+                     </note> 
+                     <hi>Le Nôtre</hi> have it not to give.</l>
+               </lg>
+               <lg>
+                  <l>To build, to plant, whatever you intend,</l>
+                  <l>To rear the Column, or the Arch to bend,</l>
+                  <l>To swell the Terras, or to sink the Grot;</l>
+                  <l>In all, let <hi>Nature</hi> never be forgot.</l>
+                  <l>Consult the <hi>Genius</hi> of the <hi>Place</hi> in all,</l>
+                  <l>That tells the Waters or to rise, or fall,</l>
+                  <l>Or helps th' ambitious Hill the Heav'ns to scale,</l>
+                  <l>Or scoops in circling Theatres the Vale,</l>
+                  <l>Calls in the Country, catches opening Glades,</l>
+                  <l>Joins willing Woods, and varies Shades from Shades,</l>
+                  <l>Now breaks, or now directs, th' intending Lines;</l>
+                  <l>
+                     <hi>Paints</hi> as you plant, and as you work, <hi>Designs.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#CT005481-18">
+                        <hi rend="sup">a</hi>
+                     </ref> Begin with <hi>Sense,</hi> of ev'ry Art the Soul,</l>
+                  <l>Parts answ'ring Parts, shall slide into a Whole,</l>
+                  <l>
+                     <pb n="8" facs="10"/> Spontaneous Beauties all around advance,</l>
+                  <l>Start, ev'n from <hi>Difficulty,</hi> strike, from <hi>Chance;</hi>
+                  </l>
+                  <l>
+                     <hi>Nature</hi> shall join you; <hi>Time</hi> shall make it grow</l>
+                  <l>A Work to wonder at—perhaps a<ref target="#CT005481-19">*</ref> STOW.</l>
+               </lg>
+               <lg>
+                  <l>Without it, proud <hi>Versailles!</hi> thy Glory salls,</l>
+                  <l>And <hi>Nero</hi>'s Terrasses desert their Walls:</l>
+                  <l>The vast <hi>Parterres</hi> a thousand Hands shall make,</l>
+                  <l>Lo! <hi>Bridgman</hi> comes, and floats them with a <hi>Lake:</hi>
+                  </l>
+                  <l>Or<ref target="#CT005481-20">
+                        <hi rend="sup">a</hi>
+                     </ref> cut wide <hi>Views</hi> thro' Mountains to the Plain,</l>
+                  <l>
+                     <ref target="#CT005481-21">
+                        <hi rend="sup">b</hi>
+                     </ref> You'll wish your Hill, and shelter'd Seat, again.</l>
+                  <l>
+                     <pb n="9" facs="11"/> Behold <hi>Villario</hi>'s ten-years Toil compleat,</l>
+                  <l>His <hi>Quincunx</hi> darkens, his Espaliers meet,</l>
+                  <l>
+                     <ref target="#CT005481-22">
+                        <hi rend="sup">a</hi>
+                     </ref> The Wood supports the Plain; the Parts unite,</l>
+                  <l>And strength of Shade contends with strength of Light;</l>
+                  <l>His bloomy Beds a waving Glow display,</l>
+                  <l>Blushing in bright Diversities of Day,</l>
+                  <l>
+                     <ref target="#CT005481-23">
+                        <hi rend="sup">b</hi>
+                     </ref> With silver-quiv'ring Rills maeander'd o'er—</l>
+                  <l>—Enjoy them, you! <hi>Villario</hi> can no more;</l>
+                  <l>
+                     <pb n="10" facs="12"/> Tri'd of the Scene Parterres and Fountains yield,</l>
+                  <l>
+                     <ref target="#CT005481-24">
+                        <hi rend="sup">a</hi>
+                     </ref> He finds at last he better likes a Field.</l>
+                  <l>Thro' his young Woods how pleas'd <hi>Sabinus</hi> stray'd,</l>
+                  <l>Or fate delighted in the thick'ning Shade,</l>
+                  <l>With annual Joy the red'ning Shoots to greet,</l>
+                  <l>And see the stretching Branches long to meet!</l>
+                  <l>
+                     <ref target="#CT005481-25">
+                        <hi rend="sup">b</hi>
+                     </ref> His Son's fine Taste an op'ner <hi>Vista</hi> loves,</l>
+                  <l>Foe to the <hi>Dryads</hi> of his Father's Groves,</l>
+                  <l>
+                     <pb n="11" facs="13"/> One <hi>boundless Green</hi> or <hi>flourish'd Carpet</hi> Views,</l>
+                  <l>With all the mournful Family of <hi>Yews;</hi>
+                  </l>
+                  <l>The thriving Plants ignoble Broomsticks made</l>
+                  <l>Now sweep those Allies they were born to shade.</l>
+                  <l>
+                     <ref target="#CT005481-26">
+                        <hi rend="sup">a</hi>
+                     </ref> Yet hence the <hi>Poor</hi> are cloth'd, the <hi>Hungry</hi> fed;</l>
+                  <l>
+                     <hi>Health</hi> to himself, and to his Infants <hi>Bread</hi>
+                  </l>
+                  <l>The Lab'rer bears; what thy hard Heart denies,</l>
+                  <l>Thy charitable Vanity supplies.</l>
+                  <l>
+                     <ref target="#CT005481-27">
+                        <hi rend="sup">b</hi>
+                     </ref> Another Age shall see the golden Ear</l>
+                  <l>Imbrown thy Slope, and nod on thy Parterre,</l>
+                  <l>
+                     <pb n="12" facs="14"/> Deep Harvests bury all thy Pride has plann'd,</l>
+                  <l>And laughing <hi>Ceres</hi> re-assume the Land.</l>
+                  <l>At <hi>Timon</hi>'s <hi>Villa</hi> let us pass a Day,</l>
+                  <l>
+                     <ref target="#CT005481-28">
+                        <hi rend="sup">a</hi>
+                     </ref> Where all cry out, "What Sums are thrown away!</l>
+                  <l>So proud, so grand, of that stupendous Air,</l>
+                  <l>
+                     <hi>Soft</hi> and <hi>Agreeable</hi> come never there.</l>
+                  <l>
+                     <pb n="13" facs="15"/> Greatness, with <hi>Timon,</hi> dwells in such a Draught</l>
+                  <l>As brings all <hi>Brobdignag</hi> before your Thought:</l>
+                  <l>To compass this, his Building is a Town,</l>
+                  <l>His Pond an Ocean, his Parterre a Down;</l>
+                  <l>
+                     <ref target="#CT005481-29">
+                        <hi rend="sup">a</hi>
+                     </ref> Who but must laugh the Master when he sees?</l>
+                  <l>
+                     <ref target="#CT005481-30">
+                        <hi rend="sup">b</hi>
+                     </ref> A puny Insect, shiv'ring at a Breeze!</l>
+                  <l>
+                     <pb n="14" facs="16"/> Lo! what huge Heaps of Littleness around!</l>
+                  <l>The Whole, a labour'd Quarry above ground!</l>
+                  <l>Two <hi>Cupids</hi> squirt before:<ref target="#CT005481-31">
+                        <hi rend="sup">a</hi>
+                     </ref> A Lake behind</l>
+                  <l>Improves the keenness of the Northern Wind.</l>
+                  <l>His <hi>Gardens</hi> next your Admiration call,</l>
+                  <l>
+                     <ref target="#CT005481-32">
+                        <hi rend="sup">b</hi>
+                     </ref> On ev'ry side you look, behold the Wall</l>
+                  <l>No pleasing Intricacies intervene,</l>
+                  <l>No artful Wildeness to perplex the Scene:</l>
+                  <l>
+                     <pb n="15" facs="17"/> 
+                     <ref target="#CT005481-33">
+                        <hi rend="sup">a</hi>
+                     </ref> Grove nods at Grove, each Ally has a Brother,</l>
+                  <l>And half the Platform just reflects the other.</l>
+                  <l>
+                     <ref target="#CT005481-34">
+                        <hi rend="sup">b</hi>
+                     </ref> The suff'ring Eye inverted Nature sees,</l>
+                  <l>Trees cut to Statues, Statues thick as Trees,</l>
+                  <l>With here a Fountain, never to be play'd,</l>
+                  <l>And there a Summer-house, that knows no Shade.</l>
+                  <l>Here <hi>Amphritrite</hi> sails thro' Myrtle bow'rs;</l>
+                  <l>Then<note place="bottom" n="†">Mr. <hi>Pope's</hi> NOTE. <hi>The two famous Statues of the</hi> Gladiator pugnans, &amp; Gla<lb rend="hidden" type="hyphenInWord"/>diator moriens.</note> 
+                     <hi>Gladiators</hi> fight or die, in flow'rs;</l>
+                  <l>
+                     <pb n="16" facs="18"/> Un-water'd see the drooping See-horse mourn,</l>
+                  <l>
+                     <ref target="#CT005481-35">
+                        <hi rend="sup">a</hi>
+                     </ref> And Swallows roost in <hi>Nilus'</hi> dusty Urn.</l>
+                  <l>Behold! my Lord advances o'er the Green,</l>
+                  <l>Smit with the mighty pleasure, to be seen:</l>
+                  <l>But soft—by regular approach—not yet—</l>
+                  <l>First thro' the length of yon hot Terras sweat,</l>
+                  <l>And when up ten steep Slopes you've dragg'd your thighs,</l>
+                  <l>
+                     <ref target="#CT005481-36">
+                        <hi rend="sup">b</hi>
+                     </ref> Just at his Study-door he'll bless your Eyes.</l>
+                  <l>
+                     <pb n="17" facs="19"/> His <hi>Study?</hi> with what Authors is it stor'd?</l>
+                  <l>
+                     <ref target="#CT005481-37">
+                        <hi rend="sup">a</hi>
+                     </ref> In Books, not Authors, curious is my Lord;</l>
+                  <l>To all their <hi>dated Backs</hi> he turns you round,</l>
+                  <l>These <hi>Aldus</hi> printed, those <hi>Du Suëil</hi> has <hi>bound.</hi>
+                  </l>
+                  <l>Lo! some are <hi>Vellum,</hi> and the rest as good</l>
+                  <l>For all his Lordship knows, but they are <hi>Wood.</hi>
+                  </l>
+                  <l>
+                     <ref target="#CT005481-38">
+                        <hi rend="sup">b</hi>
+                     </ref> For <hi>Locke</hi> or <hi>Milton</hi> 'tis in vain to look,</l>
+                  <l>These Shelves admit not any Modern book.</l>
+                  <l>
+                     <pb n="18" facs="20"/> And now the Chappel's silver Bell you hear,</l>
+                  <l>That summons you to all the Pride of Pray'r:</l>
+                  <l>Light Quirks of Musick, broken and uneven,</l>
+                  <l>Make the Soul dance upon a<ref target="#CT005481-39">
+                        <hi rend="sup">a</hi>
+                     </ref> Jig to Heaven.</l>
+                  <l>On painted Cielings you devoutly stare,</l>
+                  <l>Where sprawl the Saints of <hi>Verrio,</hi> or <hi>Laguerre,</hi>
+                  </l>
+                  <l>On gilded Clouds in fair expansion lie,</l>
+                  <l>
+                     <ref target="#CT005481-40">
+                        <hi rend="sup">b</hi>
+                     </ref> And bring all Paradise before your Eye.</l>
+                  <l>To Rest, the Cushion, and soft <hi>Dean</hi> invite,</l>
+                  <l>Who never mentions Hell to Ears polite.</l>
+                  <l>
+                     <pb n="19" facs="21"/> But hark! the chiming Clocks to Dinner call;</l>
+                  <l>
+                     <ref target="#CT005481-41">
+                        <hi rend="sup">a</hi>
+                     </ref> A hundred Footsteps scrape the marble Hall:</l>
+                  <l>The rich Buffet well-colour'd <hi>Serpents</hi> grace,</l>
+                  <l>And gaping <hi>Tritons</hi> spew to wash your Face.</l>
+                  <l>
+                     <ref target="#CT005481-42">
+                        <hi rend="sup">b</hi>
+                     </ref> Is this a Dinner? this a Genial Room?</l>
+                  <l>No, 'tis a Temple, and a Hecatomb;</l>
+                  <l>A solemn Sacrifice, perform'd in State,</l>
+                  <l>You drink by Measure, and to Minutes eat.</l>
+                  <l>
+                     <ref target="#CT005481-43">
+                        <hi rend="sup">c</hi>
+                     </ref> So quick retires each flying Course, you'd swear</l>
+                  <l>
+                     <hi>Sancho</hi>'s dread Doctor and his Wand were there:</l>
+                  <l>
+                     <pb n="20" facs="22"/> Between each Act the trembling Salvers ring,</l>
+                  <l>From Soup to Sweetwine, and <hi>God bless the King.</hi>
+                  </l>
+                  <l>In plenty starving, tantaliz'd in State,</l>
+                  <l>
+                     <ref target="#CT005481-44">
+                        <hi rend="sup">a</hi>
+                     </ref> And complaisantly help'd to all I hate,</l>
+                  <l>Treated, caress'd, and tir'd, I take my leave,</l>
+                  <l>Sick of his civil Pride from Morn to Eve;</l>
+                  <l>I curse such lavish Cost, and little Skill,</l>
+                  <l>
+                     <ref target="#CT005481-45">
+                        <hi rend="sup">b</hi>
+                     </ref> And swear, no Day was ever past so ill.</l>
+               </lg>
+               <lg>
+                  <l>In you, my <hi>Lord,</hi> Taste sanctifies Expence,</l>
+                  <l>For Splendor borrows all her Rays from Sense.</l>
+                  <l>
+                     <pb n="21" facs="23"/> 
+                     <ref target="#CT005481-46">
+                        <hi rend="sup">a</hi>
+                     </ref> You show us, <hi>Rome</hi> was glorious, not profuse,</l>
+                  <l>And pompous Buildings once were things of use.</l>
+                  <l>
+                     <ref target="#CT005481-47">
+                        <hi rend="sup">b</hi>
+                     </ref> Just as they are,<ref target="#CT005481-48">
+                        <hi rend="sup">c</hi>
+                     </ref> yet shall your noble Rules</l>
+                  <l>Fill half the Land with <hi>Imitating Fools,</hi>
+                  </l>
+                  <l>
+                     <pb n="22" facs="24"/> Who random Drawings from your Sheets shall take,</l>
+                  <l>And of one Beauty many Blunders make;</l>
+                  <l>Load some vain Church with old Theatric State;</l>
+                  <l>Turn Arcs of Triumph to a Garden-gate;</l>
+                  <l>Reverse your Ornaments, and hang them all</l>
+                  <l>On some patch'd Doghole ek'd with Ends of Wall,</l>
+                  <l>Then clap four slices of Pilaster on't,</l>
+                  <l>And lac'd with bits of Rustic, 'tis a Front:</l>
+                  <l>Shall call the Winds thro' long Arcades to roar,</l>
+                  <l>
+                     <ref target="#CT005481-49">
+                        <hi rend="sup">a</hi>
+                     </ref> Proud to catch cold at a <hi>Venetian</hi> door;</l>
+                  <l>Conscious they act a true <hi>Palladian</hi> part,</l>
+                  <l>And if they starve, they starve by Rules of Art.</l>
+                  <l>
+                     <pb n="23" facs="25"/> 
+                     <ref target="#CT005481-50">
+                        <hi rend="sup">a</hi>
+                     </ref> Yet thou proceed; be fallen Arts thy care,</l>
+                  <l>Erect new Wonders, and the Old repair,</l>
+                  <l>
+                     <hi>Jones</hi> and <hi>Palladio</hi> to themselves restore,</l>
+                  <l>And be, whate'er <hi>Vitruvius</hi> was before:</l>
+                  <l>Till Kings call forth th' Idea's of thy Mind,</l>
+                  <l>Proud to accomplish what such Hands design'd,</l>
+                  <l>Bid Harbours open, publick Ways extend,</l>
+                  <l>
+                     <ref target="#CT005481-51">
+                        <hi rend="sup">b</hi>
+                     </ref> And Temples, worthier of the God, ascend;</l>
+                  <l>
+                     <pb n="24" facs="26"/> Bid the broad Arch the dang'rous Flood contain,</l>
+                  <l>The Mole projected break the roaring Main;</l>
+                  <l>Back to his bounds their subject Sea command,</l>
+                  <l>And roll obedient Rivers thro' the Land:</l>
+                  <l>These Honours, Peace to happy <hi>Britain</hi> brings,</l>
+                  <l>These are Imperial Works, and worthy <hi>Kings.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="remarks">
+               <head>REMARKS.</head>
+               <pb n="1" facs="3"/>
+               <p xml:id="CT005481-1">* <hi>Of Taste,]</hi> Some of our little Second-Hand Smatterers in Criticism, will be apt to imagine our Author ought to have wrote <hi>On Taste,</hi> rather than <hi>Of Taste,</hi> as if <hi>Of</hi> and <hi>On</hi> had two different Significations. But Mr. <hi>Pope</hi> has declar'd himself in fa<lb rend="hidden" type="hyphenInWord"/>vour of <hi>Of,</hi> and thereby clapt a Gag into the Mouths of all Gainsayers. His <hi>hoc volo, sic jubeo</hi> is sufficient to make any Ex<lb rend="hidden" type="hyphenInWord"/>pression▪ pass for Standard, and <hi>stet pro Ratione Voluntas.</hi>
+               </p>
+               <p xml:id="CT005481-2">
+                  <hi rend="sup">a</hi> 
+                  <hi>'Tis strange,</hi> &amp;c.] This is a vast deal too strange to be true; and the Misfortune is, every common Observer knows it to be quite otherwise. The Miser's Enjoyment consists in hoard<lb rend="hidden" type="hyphenInWord"/>ing up his Wealth, and feasting his Eyes with the Sight there<lb rend="hidden" type="hyphenInWord"/>of. Our old Friend <hi>Horace</hi> has assured us of this, almost Two Thousand Years ago; for he introduces a Man of this Character, saying, <q>
+                     <l>—Populus me sibilat, at mihi plaudo</l>
+                     <l>Ipse domi, simul ac Nummos contemplor in Arca.</l>
+                  </q>
+               </p>
+               <p xml:id="CT005481-3">
+                  <pb n="2" facs="4"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>It is less strange,</hi> &amp;c.] This Assertion is equally weak, and inconclusive. The Prodigal, like every Body else, lays out his Money in something, which he chuses rather than the Mo<lb rend="hidden" type="hyphenInWord"/>ney he parts with. And tho' perhaps his Taste in Painting, Ar<lb rend="hidden" type="hyphenInWord"/>chitecture, &amp;c. may not be altogether so exquisite as Mr. <hi>Pope</hi>'s in Philosophy or Poetry, yet still he certainly tastes the Purchase he makes, better than the Purchase Money; for otherwise, he de<lb rend="hidden" type="hyphenInWord"/>serves to be begg'd for a Fool for parting with it.</p>
+               <p xml:id="CT005481-4">
+                  <hi rend="sup">b</hi> 
+                  <hi>Not for himself, he sees, or hears, or eats;]</hi> If this Sentence has any Meaning at all, it must certainly be, either that he sees, or hears, or eats for somebody else or that somebody else; sees, or hears, or eats for him. As for any Body's seeing, or hearing for me, I might not perhaps scruple it much; but for any Body's eat<lb rend="hidden" type="hyphenInWord"/>ing for me, I should humbly beg he would not insist upon it; my Stomach would never consent to it.</p>
+               <p xml:id="CT005481-5">
+                  <hi rend="sup">c</hi> 
+                  <hi>Artists must chuse,</hi> &amp;c.] I cannot forbear owning our Au<lb rend="hidden" type="hyphenInWord"/>thor perfectly in the right here, in allowing the Prodigal, Artists to chuse for him, when he is incapable of chusing for himself; for who, in his Wits, would not rather employ real Artists, in any Af<lb rend="hidden" type="hyphenInWord"/>fair, than a Parcel of Blunderers and Blockheads?</p>
+               <p xml:id="CT005481-6">
+                  <hi rend="sup">d</hi> 
+                  <hi>He buys]</hi> He buys! Who buys? Not the <hi>Miser,</hi> I hope, his Money is too fast lockt up in his Chest, ever to be let loose on any such Occasions. Nor the <hi>Prodigal!</hi> for he is forc'd to make use of other People's Eyes and Ears to supply some certain Defici<lb rend="hidden" type="hyphenInWord"/>encies in his own. Who can it be then? Why, it must certainly be the Artists, mentioned in the preceeding Line: But if so, why false Grammar? And why would not <hi>They buy,</hi> have done full as well as <hi>He buys?</hi> This I shall leave to be corrected in his next Edition.</p>
+               <p xml:id="CT005481-7">
+                  <hi rend="sup">e</hi> 
+                  <hi>For</hi> Topham, Fountain, <hi>and</hi> Curio] What strange Gentle<lb rend="hidden" type="hyphenInWord"/>men <pb n="3" facs="5"/> must these be, who cannot go to Market, and buy these Things themselves, rather than employ others, as their Factors, and be forc'd to allow Brokerage. But the World needs not be inform'd, at this Time of Day, that few of These are the Produce of this Island; How famous soever we may be for modern Improvements in Me<lb rend="hidden" type="hyphenInWord"/>chanicks, Mathematicks, <hi>&amp;c.</hi> we certainly were never very fa<lb rend="hidden" type="hyphenInWord"/>mous for Antiquities, Drawings and Coins. <hi>Greece</hi> and <hi>Italy</hi> are well known to be the grand Magazines for all these; and whoever has not his present Residence in these Parts, must, of Necessity, pur<lb rend="hidden" type="hyphenInWord"/>chase the Produce of them from Second or Third Hands.</p>
+               <p xml:id="CT005481-8">
+                  <hi rend="sup">a</hi> 
+                  <hi>Rare Monkish Manuscripts for</hi> Hearne <hi>alone,]</hi> Poor <hi>Tom Hearne!</hi> I dare swear, so polite a Genius as Mr. <hi>Pope</hi> never once strained his Optick Nerves with poring over one of thy Monkish Manuscripts. <hi>Robert of Gloucester,</hi> and <hi>Jeffrey of Monmouth</hi> are quite out of his Way; and he knows no more of <hi>Florence of War<lb rend="hidden" type="hyphenInWord"/>cester,</hi> nor the <hi>Textus Roffensis,</hi> than a <hi>Dancing Master</hi> does of <hi>Algebra,</hi> or a <hi>Lawyer</hi>'s <hi>Clerk of Divinity.—</hi> But to the Matter in Hand.—I cannot imagine Mr. <hi>Hearne</hi> oblig'd to trot round the Kingdom in quest of Manuscripts, where-ever an old Abbey may have stood; or to travel into foreign Countries wherever such Books may have been dispers'd at the Reformation. 'Tis enough if he knows the Value of them when they are brought to him, and how to oblige the World with them afterwards, at a proper Opor<lb rend="hidden" type="hyphenInWord"/>tunity.</p>
+               <p xml:id="CT005481-9">
+                  <hi rend="sup">b</hi> 
+                  <hi>And Books for</hi> Mead,] This worthy Gentleman has a vast and valuable Library, stor'd with all Sorts of Books Foreign and Domestic; and he is not only a Person of extraordinary Learning himself, but one of the greatest Patrons and Encouragers of it, in this Kingdom. However, it is not impossible but he may have bought Books from Second and Third Hands, and he may very likely have some, among so prodigious a Collection, which he has hardly deign'd a reading. But I hope Mr. <hi>Pope</hi>'s Works are none of that Number, tho' he may well save himself the Trouble even of looking into them; for whether Mr. <hi>Pope</hi> knows it or no, he can read <hi>Homer</hi> and <hi>Statius,</hi> nay, and <hi>Chaucer</hi> and <hi>Shakespear,</hi> in <pb n="4" facs="6"/> their Originals, without Recourse either to a rhiming Translator, or a Modernizer to point him out their Meaning.—But <hi>Mead</hi> is not only famous for Books, but for several choice Curiosities, among which is his celebrated Head of <hi>Homer,</hi> for a Copy of which, if I mistake not, Mr. <hi>Pope</hi> has been oblig'd to him, to grace his <hi>Odyssey.—</hi> And the World tells strange Stories, if Mr. <hi>Pope</hi> be not oblig'd for the best Part of his own Head to some Body else, who may, not unlikely, meet the same Treatment in his next Per<lb rend="hidden" type="hyphenInWord"/>formance, as these have done in This.</p>
+               <p xml:id="CT005481-10">
+                  <hi rend="sup">c</hi> 
+                  <hi>And Rarities for</hi> Sloan.] Whether Dr. <hi>Sloan</hi> has a full Know<lb rend="hidden" type="hyphenInWord"/>ledge of the true Value of every individual Rarity in so extraordina<lb rend="hidden" type="hyphenInWord"/>ry a Collection, is what neither Mr. <hi>Pope</hi> nor I can tell.—But to alledge that he employs others to chuse for him, is as much as to say, that he is unable to chuse for himself; or in other Words, that he has not Judgment enough to distinguish a Crocodile from a Rattle Snake. Sir <hi>Hans</hi> has purchased Rarities from all known Parts of the Globe.—But must he travel to all these Parts him<lb rend="hidden" type="hyphenInWord"/>self to pick them up? An Age would not bring that about: And between Mr. <hi>Pope</hi> and I, he has much better Business at Home, where he has Wealth enough to purchase whatever valuable Thing is offer'd him; and has, at this Time the richest private Collection in <hi>Europe,</hi> or perhaps in the <hi>Universe.</hi>
+               </p>
+               <p xml:id="CT005481-11">
+                  <hi rend="sup">a</hi> 
+                  <hi>Than his fine Wife (my Lord) or finer Whore.]</hi> What a spiteful Insinuation is here, against the poor Artists, that they keep their Whores finer than their Wives. I am sorry to hear our Author is a Batchelor, or we should see how he would manage in that important Affair of Life. He is certainly an Artist, for all the World owns him a Rhimer; and some per<lb rend="hidden" type="hyphenInWord"/>haps may look upon him as a Reasoner.—But these two Faculties do not always go together; and if they did,—He is not indispensably oblig'd to reason his best on every little Oc<lb rend="hidden" type="hyphenInWord"/>casion. Rhime may sometimes do the Business full as well with<lb rend="hidden" type="hyphenInWord"/>out it.</p>
+               <p xml:id="CT005481-12">
+                  <pb n="5" facs="7"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>For what has</hi> Virro <hi>painted, built, and planted?</hi> &amp;c.] What pity it is that <hi>Virro</hi> did not consult our Author, before he went to work? Had he done that, I dare vouch, all would have been well, tho' every Thing appear'd just as it does. But for want of this <hi>Unum Necessarium,</hi> for want of consulting this universal Genius, his Paintings are monstrous, his Buildings barba<lb rend="hidden" type="hyphenInWord"/>rous, his Planting ridiculous, and he has no Taste, or what's worse, an ill one.</p>
+               <p xml:id="CT005481-13">
+                  <hi rend="sup">b</hi> 
+                  <hi>Some</hi> Daemon <hi>whisper'd,</hi> "Knights <hi>should have a</hi> Taste," Mr. <hi>Pope</hi> has not half the Modesty of this good natur'd <hi>Daemon,</hi> who only whisper'd a Secret softly into one Knight's Ear,—He has proclaim'd it to the World. How does he know, now, but <hi>Squires</hi> and private <hi>Gentlemen</hi> may put in for their respective Shares; If so, what an Inundation of Taste will then break in upon us: The Nation will be over run with it, and the Government o<lb rend="hidden" type="hyphenInWord"/>blig'd at last to put a Stop to it, as a growing Evil.</p>
+               <p xml:id="CT005481-14">
+                  <hi rend="sup">c</hi> 
+                  <hi>Heaven visits with a</hi> Taste the <hi>Wealthy Fool,]</hi> Our Author, I think, is generally supposed to be pretty rich; and most People allow him to have a Taste, at least of something.—Now as Heaven has visited him with a Taste, how ought he to bless him<lb rend="hidden" type="hyphenInWord"/>self that he is no Fool; for if he had, he might have had no more Wit than to have fallen to Building, or something as bad, and thereby wasted his Wealth as simply as some other People.</p>
+               <p xml:id="CT005481-15">
+                  <pb n="6" facs="8"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>That never Coxcomb reach'd Magnificence.]</hi> When Coxcombs of Quality will employ Fools of Architects, they can never rea<lb rend="hidden" type="hyphenInWord"/>sonably expect to reach Magnificence, should they lay out their whole Estates: And indeed the Case would be much the same should they take it into their Heads to turn Architects themselves, with a Design to save Charges.</p>
+               <p xml:id="CT005481-16">
+                  <hi rend="sup">b</hi> 
+                  <hi>Oft have you hinted to your Brother Peer,</hi> &amp;c.] How much had the World been obliged to this noble Lord, if he had once generously published that grand Secret to the World, which he so oft hinted to his Brother Peer in private Conversation.—But if he had, others would have been presented with that Experience, which they have since purchased at so dear a Rate; and this Lord's Buildings would never have been found <hi>Non-pareils,</hi> had not some hundreds fallen short of them, out of an Ambition of excelling them.</p>
+               <p xml:id="CT005481-17">
+                  <hi rend="sup">c</hi> 
+                  <hi>Good Sense which only is the Gift of Heaven,</hi> &amp;c.] This is a much greater Compliment to good Sense, than ever one would have expected from Mr. <hi>Pope:</hi> But the Truth is, he has a Mind to set Sense and the Sciences at Variance, by shewing that they have not the least Affinity with each other; and insinuating, that 'tis no great Difficulty for a Man to become an Adept in any of the Seven Sciences, tho' he was a Changeling himself, and his whole Family had been Fools for fifteen Generations.</p>
+               <p xml:id="CT005481-18">
+                  <pb n="7" facs="9"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>Begin with</hi> Sense, &amp;c.] 'Tis somewhat odd that Mr. <hi>Pope</hi> should be capable of giving so good Advice to others, and mind <pb n="8" facs="10"/> it so little himself.—What a woeful Beginning did he make, and how miserably did he blunder between his Miser and Prodi<lb rend="hidden" type="hyphenInWord"/>gal!—But enough of that:—I am surpriz'd to find Sense here styl'd the Soul of every Art or Science, when there was a strong Insinuation not much above a dozen Lines before, that they had very little Business together; or, in other Words, that Sense might, without any Detriment to the Sciencies, be divorc'd from them, and put to a separate Maintenance.</p>
+               <p xml:id="CT005481-19">* The Seat and Gardens of the Lord Viscount <hi>Cobham</hi> in <hi>Buck<lb rend="hidden" type="hyphenInWord"/>inghamshire.</hi>
+               </p>
+               <p xml:id="CT005481-20">
+                  <hi rend="sup">a</hi> 
+                  <hi>Cut wide</hi> Views <hi>thro' Mountains]</hi> If Ten Thousand Hands were employed in any Work without some good Head to direct them, it is no Wonder if they make mad or foolish Work on't: But how a Mountain in one Line should dwindle to a Hill in the next, without any visible Means, surpasses my Comprehension, unless it be merely to answer the Measure of the Verse.</p>
+               <p xml:id="CT005481-21">
+                  <hi rend="sup">b</hi> 
+                  <hi>You'll wish your Hill, and shelter'd Seat, again.]</hi> Then he <pb n="9" facs="11"/> may have it. He had a Mountain to remove, in the former Line; and, without doubt, he was at the Charge of doing it. Now he he has only a Hill to bring back, and all is right again, and his House in <hi>statu quo.</hi> And sure less Charge will bring a Hill Home again, than would carry a Mountain Abroad.</p>
+               <p xml:id="CT005481-22">
+                  <hi rend="sup">a</hi> 
+                  <hi>The Wood supports the Plain;]</hi> I have heard of a Plain sup<lb rend="hidden" type="hyphenInWord"/>porting a Wood a thousand Times, because the Plain was below, and the Wood above.—But how Mr. <hi>Pope</hi>'s Wood comes to support his Plain, I own myself unable to determine, un<lb rend="hidden" type="hyphenInWord"/>less His was a subterraneous Wood, which supported the Plain above, as a convenient Number of Columns do a Stately Cu<lb rend="hidden" type="hyphenInWord"/>pola.</p>
+               <p xml:id="CT005481-23">
+                  <hi rend="sup">b</hi> 
+                  <hi>His bloomy Beds,</hi> &amp;c. <hi>with Silver quiv'ring Rills maeander'd o'er.]</hi> This is the most mysterious Passage I have lately met with. How, in the Name of Goodness, can Silver quiv'ring Rills maeander Beds o'er. Had it been maeander them thro', that is, divide them with a winding Stream, it had been Sense; but <pb n="10" facs="12"/> then the next Rhime must have suffered.—But now I recol<lb rend="hidden" type="hyphenInWord"/>lect, these superterraneous Rills were, perhaps, designed for his subterraneous Wood; and as such, I shall leave them to perform their Office.</p>
+               <p xml:id="CT005481-24">
+                  <hi rend="sup">a</hi> 
+                  <hi>He finds at last he better likes a Field.]</hi> That is, he finds at last, he likes a Field better. Where is the Poetry here? Where, the Majesty of Thought, The Sublimity of Diction?—But to pass these by, and proceed to the Sentiment. I can see no Manner of Wonder, why a Gentleman, in his declining Years should be tired with the Diversions of his Youth, when we find it common for most of us to dislike those Things to Day which we doted on but Yesterday.</p>
+               <p xml:id="CT005481-25">
+                  <hi rend="sup">b</hi> 
+                  <hi>His Son's fine Taste an op'ner</hi> Vista <hi>loves,</hi> &amp;c.] The Father was of the same Opinion before he died, (if we may suppose <hi>Vil<lb rend="hidden" type="hyphenInWord"/>lario</hi> and <hi>Sabinus</hi> Relations, and believe what has been advanced half a Dozen Lines before.) But how comes his Son to have a Taste so much finer than his Father? The Father planted noble Gardens in his Youth, and delighted to walk in the Fields in his <pb n="11" facs="13"/> old Age. However he had his Choice, and might have taken a Turn in his Gardens whenever he had thought fit.—The Son, to shew a Specimen of his superior Taste, makes quick Work, grubs up his Father's Woods, and converts his thriving Plants to Broom<lb rend="hidden" type="hyphenInWord"/>sticks.</p>
+               <p xml:id="CT005481-26">
+                  <hi rend="sup">a</hi> 
+                  <hi>Yet hence the</hi> Poor <hi>are cloth'd,</hi> &amp;c.] This would certainly be a fine Reflection, were it not design'd for the sake of a Stroke of Satyr in the next Stanza. <hi>Villario</hi> is here brought upon the Stage again, and accus'd for what every wise and good Man ought to applaud him; namely, for setting the Poor to Work, and rather chusing to have his Money circulate thro' the Neighbour<lb rend="hidden" type="hyphenInWord"/>hood, than suffer it to lye pil'd up in his Chests, and see his Poor Dependants starve for want of Employment.</p>
+               <p xml:id="CT005481-27">
+                  <hi rend="sup">b</hi> 
+                  <hi>Another Age shall see,</hi> &amp;c.] This is no more than what has ever been common to all Nations in all the later Ages of the World. The Stately Palaces of the <hi>Aegyptian</hi> and <hi>Persian</hi> Mo<lb rend="hidden" type="hyphenInWord"/>narchs lye now buried under huge Heaps of Dust and Rubbish: All <pb n="12" facs="14"/> the pleasant Gardens of Ancient <hi>Rome</hi> are long since turn'd to a Wilderness: Nay, the very situation of several of the most renowned Cities in the World are now become so obscure, that Travellers into those Parts, cannot agree where they have for<lb rend="hidden" type="hyphenInWord"/>merly stood.—In one Word, the whole of the Story rests here. <hi>Villario</hi> pleas'd himself with Planting and Gardening, and by that Means kept his poor Neighbourhood from Want. A descendant of his, of a different Taste (or, if Mr. <hi>Pope</hi> pleases, of a finer Taste) may possibly, some Ages hence, cut down his shady Woods, plow up his fine Walks, and turn the whole to Corn-Ground again. This will also be Employment and Bread for the Neighbourhood, whenever it happens.—And whether Mr. <hi>Pope</hi> be sensible of it, or no, Satyr rebounds back upon the Author, whenever it is pointed at a wrong Object.</p>
+               <p xml:id="CT005481-28">
+                  <hi rend="sup">a</hi> 
+                  <hi>Where all cry out, what Sums are thrown away!</hi> &amp;c.] 'Tis somewhat strange that all should conspire, with one Voice, to blame <hi>Timon</hi>'s profuseness in Building; and what is stranger still, how it came to our Author's Knowledge. But perhaps this is only his private Opinion, which he has a mind to father upon the Publick. —Be that as it will, any other Extravagance would have produced as ill an Effect, and several, much worse.—But <hi>Timon</hi> has thrown away vast Sums in Building.—The Publick <pb n="13" facs="15"/> certainly gathered up as much as he threw away, and this was no more than changing Hands. The whole was undoubtedly gi<lb rend="hidden" type="hyphenInWord"/>ven to Stone-Cutters, Carvers, Statuaries, Bricklayers, Carpenters, Joyners, Labourers, <hi>&amp;c.</hi> All the Materials too were undoubtedly the Produce of our own Island, except a little foreign Marble, and some other Trifles of small Importance. So that such a private Expence is so far from being a Publick Loss, that the Nation would not be one Farthing the poorer, if fifty such Fabricks were erected every ten or a dozen years.</p>
+               <p xml:id="CT005481-29">
+                  <hi rend="sup">a</hi> 
+                  <hi>Who but must laugh the Master]</hi> Who but must laugh at our Poet for writing such barbarous English? I am really surpriz'd to think how he suffered such an Impropriety to escape him. The Truth is, <hi>laugh at the Master</hi> would have stretch'd the Verse a Syllable beyond its ordinary Length, for which Rea<lb rend="hidden" type="hyphenInWord"/>son He, having more Regard to Sound than Sense, chose to omit the Particles.</p>
+               <p xml:id="CT005481-30">
+                  <hi rend="sup">b</hi> 
+                  <hi>A puny Insect, shiv'ring at a Breeze!]</hi> The puny Insect in this Page, is declared a Lord in the next; and it is undenyable that there may be little Lords as well as great ones.—Every one who has the Honour to be acquainted with Mr. <hi>Pope,</hi> owns him to be a fine, tall, proper, well-shap'd agreeable, jolly Gentleman, with a Constitution strong enough to enable him to defy Winds and Weather: But how he happens, here, to reflect upon a little Lord, meerly for shrinking at a fit of Cold Weather, is what I cannot well reconcile, either to good Sense, or good Manners. However, if our Author has here, confin'd himself to one Day, a he assures us, it seems a little extraordinary, methinks, that my <pb n="14" facs="16"/> Lord should be taken with a shivering Fit when several of his Visitors were sweating upon a Hot Terras. But if he takes in the Compass of several Months, 'tis not unlikely but the whole Company might shiver and sweat at different. Times of the Year, and by that Means keep his Lordship in Countenance.</p>
+               <p xml:id="CT005481-31">
+                  <hi rend="sup">a</hi> 
+                  <hi>A Lake behind improves the keenness of the Northern Wind.]</hi> 'Tis not improbable that the Lake mentioned here, may be the same with the Pond or Ocean in the preceeding Page; if so, it is no great Wonder it should chill the Part of the House adja<lb rend="hidden" type="hyphenInWord"/>cent to it, which our Author has assured us was the North Side. And if the Lake lay on the North Side of the House, then the House most certainly stood on the South Side of the Lake.</p>
+               <p xml:id="CT005481-32">
+                  <hi rend="sup">b</hi> 
+                  <hi>On every Side you look, behold the Wall!]</hi> If a Person could be<lb rend="hidden" type="hyphenInWord"/>hold my Lord's Garden Wall on every Side, from any particular Station within, 'tis strange how it was capable of containing that Down of a Parterre and that Ocean of a Pond: or how that <hi>Brob<lb rend="hidden" type="hyphenInWord"/>dignagian</hi> Palace, or Town of a House (mentioned about half a Score Lines ago) could lye adjacent to it.</p>
+               <p xml:id="CT005481-33"> 
+                  <pb n="15" facs="17"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>Grove nods at Grove, each Ally has a Brother,</hi> &amp;c.] This is the very first Time I ever heard either a House or Gardens condemned for Regularity. Groves, Allys, <hi>&amp;c.</hi> are, or may be all, in their proper Places, beautiful and agreeable; and why an exact Regularity should make them otherwise, is impossible to know. The best of all the Gardens, as well as Fabricks, of an<lb rend="hidden" type="hyphenInWord"/>cient Times, were perfectly Regular: And had Mr. <hi>Pope</hi> been the Designer of these, I dare almost venture to assert, he would either have plann'd them out in a regular Form, or every good Judge would have condemn'd his Gothick Fancy.</p>
+               <p xml:id="CT005481-34">
+                  <hi rend="sup">b</hi> The <hi>suff'ring Eye inverted Nature sees,</hi> &amp;c.] 'Tis a thou<lb rend="hidden" type="hyphenInWord"/>sand Pities, one of so exquisite a Taste as Mr. <hi>Pope</hi> is own'd to be, should meet with any Thing disagreeable. Trees cut to Sta<lb rend="hidden" type="hyphenInWord"/>tues are held abominable. Statues standing too thick, detestable. A dry Fountain, insupportable; (This indeed ought to have been set a playing to welcome so great a Personage to Lord <hi>Timon</hi>'s <hi>Villa)</hi> and an unshaded Summer-House, an unpardonable Object.</p>
+               <p xml:id="CT005481-35"> 
+                  <pb n="16" facs="18"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>And Swallows roost in</hi> Nilus' <hi>dusty Urn.]</hi> These Printers are some of the most ignorant, and withal the most self-conceit<lb rend="hidden" type="hyphenInWord"/>ed Coxcombs breathing; One may tell them their Faults Ten Thousand Times over, yet still they will go on in a Mill-Horse Tract, and commit the same Blunders afresh. For <hi>Swallows roost in</hi> Nilus' <hi>dusty Urn,</hi> read, <hi>Sparrows nest in</hi> Nilus' <hi>dusty Urn.</hi> If the House was a Town, a <hi>Brobdignagian</hi> Palace, or a la<lb rend="hidden" type="hyphenInWord"/>bour'd Quarry above Ground, (as we are told some lines before) then, nothing could be more fit than <hi>Nilus</hi>'s Urn to clap up a<lb rend="hidden" type="hyphenInWord"/>gainst one of the Walls for a Bird-Bottle.</p>
+               <p xml:id="CT005481-36">
+                  <hi rend="sup">b</hi> 
+                  <hi>Just at his Study door he'll bless your Eyes.]</hi> Here we find my Lord, first of all, advancing o'er the Green on purpose to expose his Person to view;—And now we are told that our Eyes must not be blest with the Sight, till he appears at his Study-door.<hi>—Quere,</hi> Whereabouts, upon the Green, my Lord's Stu<lb rend="hidden" type="hyphenInWord"/>dy-door stands? <hi>
+                     <q>Aliquando bonus dormitat Homerus.</q>
+                  </hi>
+               </p>
+               <p xml:id="CT005481-37"> 
+                  <pb n="17" facs="19"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>In Books, not Authors, curious is my Lord;]</hi> If Mr. <hi>Pope</hi> has thoroughly examined my Lord in <hi>Greek, Latin, French, Ita<lb rend="hidden" type="hyphenInWord"/>lian,</hi> or any other Language, and found him defective, we may safely take his Word; for He has already given the World an ample Specimen, as well of his profound Skill in Languages, as of his extraordinary Candour and Humanity. But should the Case prove otherwise, and our Author takes my Lord's Igno<lb rend="hidden" type="hyphenInWord"/>rance, as most of the World do his Learning, meerly from Hear-say, then he will go a great Way towards the forfeiting so amiable a Character.—It is not improbable that he may have seen the dated Backs of my Lord's Books, and have made no further Observations than that some of them were bound in <hi>Vellum,</hi> and others in Past-board. But that is no Argument why my Lord should have looked no more upon the Insides than He, who perhaps was not a full half Hour in the Place.</p>
+               <p xml:id="CT005481-38">
+                  <hi rend="sup">b</hi> 
+                  <hi>For</hi> Locke <hi>or</hi> Milton <hi>'tis in vain to look,]</hi> If my Lord ad<lb rend="hidden" type="hyphenInWord"/>mits neither <hi>Locke</hi> nor <hi>Milton,</hi> how can we reasonably expect he should allow Mr. <hi>Pope</hi>'s Works a Place in his Library; and this cannot but be a sensible Mortification to an Author, whose Ambition prompts him to cry out with <hi>Aeneas.</hi> 
+                  <q>
+                     <l>Quae Regio in Terris nostri non plena Laboris?</l>
+                  </q>
+               </p>
+               <p xml:id="CT005481-39"> 
+                  <pb n="18" facs="20"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>Make the Soul dance upon a Jig]</hi> This is a palpable Mis<lb rend="hidden" type="hyphenInWord"/>take; they are always Minuet or Rigadoon Aires, and the Jig is only inserted here, to suite the Measure of the Verse.</p>
+               <p xml:id="CT005481-40">
+                  <hi rend="sup">b</hi> 
+                  <hi>And bring all Paradise before your Eye.]</hi> If by this, our Au<lb rend="hidden" type="hyphenInWord"/>thor means either <hi>Moses</hi>'s or <hi>Mahomet</hi>'s Paradise, nothing can be more foreign to his purpose, for in the Account of either of them, we read not one Word of Silver Bells, Musical Quirks, Dancing Souls, Painted Cielings, Sprawling Saints, nor gilded Clouds, and these make up the whole of Mr. <hi>Pope</hi>'s Para<lb rend="hidden" type="hyphenInWord"/>dise, which must certainly be a new one, different from both the other. <q>
+                     <l>Ignotusque locus Graiis, simul atque Latinis.</l>
+                  </q>
+               </p>
+               <p xml:id="CT005481-41"> 
+                  <pb n="19" facs="21"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>A Hundred Footsteps scrape the Marble Hall:]</hi> Our Author, it seems, was admitted, among a vast Croud, to a magnificent Entertainment. How well he requited his Benefactor, we shall see afterwards.</p>
+               <p xml:id="CT005481-42">
+                  <hi rend="sup">b</hi> 
+                  <hi>Is this a Dinner?]</hi> No, I'll be sworn, nor nothing like One, as it has been hitherto describ'd. We have heard of nothing yet but <hi>Serpents</hi> gracing the Buffet, and <hi>Tritons</hi> spewing out Water, and then he calls out—Is this a Dinner.—However I am affraid he cries out before he has Occasion.</p>
+               <p xml:id="CT005481-43">
+                  <hi rend="sup">c</hi> 
+                  <hi>So quick retires each flying Course,</hi> &amp;c.] Now we come to a Dinner, in good Earnest, but our Author very justly com<lb rend="hidden" type="hyphenInWord"/>plains of their taking all his Victuals from before him, out of an Excess of Complaisance, which indeed was intollerable to one so sharp set. Howbeit, if ever he should have the Honour to be admitted to my Lord's Table again, I would advise him to copy after his Brother <hi>Durfey's</hi> bright Example, and take a Hammer and a Ten-penny Nail in his Pocket, to fix the first good Plate full of Meat, he lays his Hands on, fast to the Table.</p>
+               <p xml:id="CT005481-44"> 
+                  <pb n="20" facs="22"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>And complaisantly help'd to all I hate,]</hi> I wonder how my Lord's Servants came to know his Palate so exquisitely well, as to help him to nothing but what he hated.—And yet what's strange, he complain'd, but a few Lines before, that the Courses were taken too soon away.—If we hate every Dish upon a Table, the sooner they are remov'd the better.—But he seems resolv'd not to be satisfied, and therefore I am really of Opinion, his best Way would have been to have din'd at Home, and paid my Lord a Visit afterwards.—He would hardly have been chid for coming so late.</p>
+               <p xml:id="CT005481-45">
+                  <hi rend="sup">b</hi> 
+                  <hi>And swear, no Day was ever past so ill.]</hi> So my Lord swears too, I dare affirm, if all the rest of his Guests were of his Stamp. But if the rest were of a different Disposition, 'tis not unlikely but Mr. <hi>Pope</hi> might pass unobserv'd in the Croud, and that may be one grand Cause of his Uneasiness.</p>
+               <p xml:id="CT005481-46"> 
+                  <pb n="21" facs="23"/> 
+                  <hi rend="sup">a</hi> 
+                  <q>
+                     <l>You show us, <hi>Rome</hi> was glorious, not profuse,</l>
+                     <l>And pompous Buildings once were things of use.</l>
+                  </q>] The <hi>Roman</hi> Buildings were undoubtedly the most expensive upon Earth, but, at the same time, they were the least useful, whatever Mr. <hi>Pope</hi> may alledge to the contrary.—Their most noted Structures were their <hi>Circi,</hi> for Horse, and Chariot Races. <hi>Amphitheatres</hi> for Combats with <hi>Gladiators</hi> and wild Beasts. <hi>Theatres</hi> for Sceni<lb rend="hidden" type="hyphenInWord"/>cal Diversions. <hi>Naumachiae</hi> for Naval Exercises. <hi>Baths, Tem<lb rend="hidden" type="hyphenInWord"/>ples, Triumphal Arches, Monumental Pillars, Pyramids,</hi> &amp;c. All these were built in the most sumptuous and stately Man<lb rend="hidden" type="hyphenInWord"/>ner possible; and it is well known, that some of them were of little Use to the Republick, some of no Use, and others of vast Detriment, as their own Writers allow.</p>
+               <p xml:id="CT005481-47">
+                  <hi rend="sup">b</hi> 
+                  <hi>Just as they are, yet shall your noble Rules,</hi> &amp;c.] This, as it stands, is down-right Nonsense, <hi>Yet shall your noble Rules, just as they are, fill half the Land,</hi> &amp;c. that is, your noble Rules, such as they are, good or bad, rough as they run, shall fill.—This, I dare say, is none of your Meaning. The Truth is, your De<lb rend="hidden" type="hyphenInWord"/>sign was to have been understood in a Sense very different from what the Expressions will bear. Your Aim was to have said, Yet shall your noble Rules, as just as they are, fill, <hi>&amp;c.</hi> This would have been Sense, and something to your Purpose, but then it would have stretch'd your Verse out a Syllable too long, and you rather chose to transgress against Sense, than Sound. However, for once, I will help you to an Expression which shall suite you exactly. <hi>Just tho' they be, yet shall—</hi>
+               </p>
+               <p xml:id="CT005481-48">
+                  <hi rend="sup">c</hi> 
+                  <hi>Yet shall your noble Rules—Fill half the Land with Imitating Fools,]</hi> Better by half were it for the Land that my Lord's Rules, how just soever, had never been published, than they should add such vast Numbers to the Stock of Fools we have already.—However, I hope, my Lord had no such Design in the Publica<lb rend="hidden" type="hyphenInWord"/>tion, but what he did was out of a generous Principle of serving his Country, and not with any sinister View of raising himself a Name by making half the Nation appear ridiculous.</p>
+               <p xml:id="CT005481-49"> 
+                  <pb n="22" facs="24"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>Proud to catch Cold at a</hi> Venetian <hi>door;]</hi> If either a <hi>Roman,</hi> or a <hi>Gothic</hi> Door would exempt the Master of the House from catching Cold, no <hi>Venetian</hi> Door should ever find a Place round my Mansion—If otherwise, I cannot imagine what Busi<lb rend="hidden" type="hyphenInWord"/>ness the <hi>Venetian Door</hi> has here, since the Wind's roaring thro' long Arcades would cause a Man to catch Cold at a Door of any other Form, every whit as soon.</p>
+               <p xml:id="CT005481-50"> 
+                  <pb n="23" facs="25"/> 
+                  <hi rend="sup">a</hi> 
+                  <hi>Yet thou proceed; be fallen Arts thy care,]</hi> This Verse is Lame, and wants a Crutch. However I shall overlook it, as on<lb rend="hidden" type="hyphenInWord"/>ly a Printer's Error. <hi>Be the fallen Arts thy care,</hi> is the true reading.</p>
+               <p xml:id="CT005481-51">
+                  <hi rend="sup">b</hi> 
+                  <hi>And Temples worthier of the God,]</hi> To talk of a Temple worthy of a God, is unworthy any Man of Sense. Whether such an Idea will go down in Poetry, I know not; I am sure it will never do, either in Philosophy or Divinity▪ Why should one Temple be worthier of an omnipresent Being than another? Why should a large Temple suite him better than a small One? A Marble Fabrick, than one of Free Stone, or that, than one of Brick or Timber. Solomon has assured us, long enough ago, that <hi>God dwells not in Houses made with Hands.</hi> And tho' the <hi>Pagans</hi> were taught that their Local Dieties might he confin'd within cer<lb rend="hidden" type="hyphenInWord"/>tain Limits, yet the wiser Sort among them, condemn'd the No<lb rend="hidden" type="hyphenInWord"/>tion; and <hi>Christianity</hi> has not only set us free from that, but a Thousand other Fopperies; so that whoever advances such Doc<lb rend="hidden" type="hyphenInWord"/>trine, at this Time of the Day, is making a fresh Attempt to put a Hook in our Noses, and a Bridle in our Lips, to draw us back to <hi>Paganism.</hi> or, which is much the same, to <hi>Popery.</hi>
+               </p>
+            </div>
+            <div type="appendix">
+               <pb facs="27"/>
+               <head>APPENDIX.</head>
+               <p>THUS have I given my Readers a few plain Remarks upon Mr. <hi>Pope</hi>'s last doughty Performance: I shall now add Mr. <hi>Congreve</hi>'s Epistle to the Lord Viscount <hi>Cobham,</hi> (on a Subject not much different) whereby the World will easily perceive that this Work falls as far short of Mr. <hi>Congreve's,</hi> as his Ode on <hi>Music</hi> did of Mr. <hi>Dryden</hi>'s; His <hi>Pasto<lb rend="hidden" type="hyphenInWord"/>rals</hi> of Mr. <hi>Philips</hi>'s; His <hi>Windsor Forest</hi> of Sir <hi>John Denham Cooper</hi>'s <hi>Hill;</hi> His first Book of <hi>Homer,</hi> of that done by Mr. <hi>Tickell,</hi> or his <hi>Dunciad</hi> of the <hi>Dis<lb rend="hidden" type="hyphenInWord"/>pensary.</hi>
+               </p>
+               <p>But, what is most surprizing, Mr. <hi>Pope</hi> has not once named, nor so much as hinted at, his Patron's polite Taste so well known to all <hi>Mankind.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="1" type="part">
+            <pb n="26" facs="28"/>
+            <head>Numb. I. OF RETIREMENT AND TASTE.</head>
+            <head type="sub">An EPISTLE to the Right Honourable the Lord Viscount COBHAM.</head>
+            <byline>By Mr. CONGREVE.</byline>
+            <l>SINCEREST Critic of my Prose, or Rhime,</l>
+            <l>Tell how thy pleasing STOWE employs thy Time.</l>
+            <l>Say, COBHAM, what amuses thy Retreat?</l>
+            <l>Or Stratagems of War, or Schemes of State?</l>
+            <l>Dost thou recall to Mind with Joy, or Grief,</l>
+            <l>Great <hi>MARLBRO</hi>'s Actions? That immortal <hi>Chief,</hi>
+            </l>
+            <l>Whose slightest Trophy rais'd in each Campaign,</l>
+            <l>More than suffic'd to signalize a Reign?</l>
+            <l>
+               <pb n="27" facs="29"/> Does thy Remembrance rising, warm thy Heart,</l>
+            <l>With Glory past, where Thou thy self hadst Part;</l>
+            <l>Or dost thou grieve indignant, now to see,</l>
+            <l>The fruitless End of all thy Victory?</l>
+            <l>To see th'Audacious Foe, so late subdu'd,</l>
+            <l>Dispute those Terms for which so long they su'd,</l>
+            <l>As if BRITANNIA now were sunk so low,</l>
+            <l>To beg that PEACE she wonted to bestow?</l>
+            <l>Be far that Guilt! be never known that Shame!</l>
+            <l>That ENGLAND shou'd retract her <hi>righful Claim,</hi>
+            </l>
+            <l>Or ceasing to be dreaded and ador'd,</l>
+            <l>Stain with her Pen the Lustre of her Sword.</l>
+            <l>Or dost thou give the Winds a-far to blow,</l>
+            <l>Each vexing-Thought, and Heart-devouring Woe,</l>
+            <l>And fix thy Mind alone on rural Scenes,</l>
+            <l>To turn the level'd Lawns to liquid Plains,</l>
+            <l>To raise the creeping Rills from humble Beds,</l>
+            <l>And force the latent Springs to lift their Heads,</l>
+            <l>
+               <pb n="28" facs="30"/> On watry Colums, Capitals to rear,</l>
+            <l>That mix their flowing Curls with upper Air?</l>
+            <l>Or dost Thou, weary grown, these Works neglect,</l>
+            <l>No Temples, Statues, Obelisks erect,</l>
+            <l>But catch the morning Breeze from fragrant Meads</l>
+            <l>Or shun the Noon-tide Ray in wholesome Shades?</l>
+            <l>Or slowly walk along the mazy Wood,</l>
+            <l>To meditate on all that's wise and good?</l>
+            <l>For Nature bountiful, in Thee has join'd,</l>
+            <l>A Person pleasing, with a worthy Mind;</l>
+            <l>Not given thee Form alone, but Means, and Art,</l>
+            <l>To draw the Eye, or to allure the Heart.</l>
+            <l>Poor were the Praise in Fortune to excel,</l>
+            <l>Yet want the Way to use that Fortune well.</l>
+            <l>While thus adorn'd, while thus with Virtue crown'd,</l>
+            <l>At Home, in Peace; Abroad, in Arms renown'd;</l>
+            <l>Graceful in Form, and winning in Address,</l>
+            <l>While well you think what aptly you express,</l>
+            <l>
+               <pb n="29" facs="31"/> With Health, with Honour, with a fair Estate,</l>
+            <l>A Table free, and elegantly neat:</l>
+            <l>What can be added more to mortal Bliss?</l>
+            <l>What can he want, that stands possest of This?</l>
+            <l>What can the fondest wishing Mother more,</l>
+            <l>Of Heaven attentive for her Son implore?</l>
+            <l>And yet a <hi>Happiness</hi> remains <hi>unknown,</hi>
+            </l>
+            <l>Or to <hi>Philosophy</hi> reveal'd <hi>alone;</hi>
+            </l>
+            <l>A <hi>Precept,</hi> which unpractis'd renders vain</l>
+            <l>Thy flowing Hopes, and Pleasure turns to Pain.</l>
+            <l>Shou'd Hope and Fear thy Heart alternate tear,</l>
+            <l>Or Love, or Hate, or Rage, or anxious Care,</l>
+            <l>Whatever Passions may thy Mind infest,</l>
+            <l>(Where is that Mind which Passions ne'er molest?)</l>
+            <l>Amidst the Pangs of such intestine Strife,</l>
+            <l>Still <hi>think the</hi> PRESENT DAY, <hi>the</hi> LAST <hi>of</hi> LIFE;</l>
+            <l>Defer not till <hi>To-Morrow</hi> to be <hi>Wise,</hi>
+            </l>
+            <l>
+               <hi>To-Morrow</hi>'s SUN, to <hi>Thee</hi> may never <hi>rise.</hi>
+            </l>
+            <l>Or shou'd <hi>To-Morrow</hi> chance to cheer thy <hi>Sight,</hi>
+            </l>
+            <l>With her enliv'ning and unlook'd-for <hi>Light,</hi>
+            </l>
+            <l>
+               <pb n="30" facs="32"/> How grateful will appear her <hi>dawning Rays!</hi>
+            </l>
+            <l>As Favours unexpected doubly please.</l>
+            <l>Who thus can think, and who such Thoughts pursues,</l>
+            <l>Content may keep his Life, or calmly lose:</l>
+            <l>All Proofs of this Thou may'st thyself receive,</l>
+            <l>When Leisure from Affairs will give thee Leave.</l>
+            <l>Come see thy Friend retir'd, without Regret,</l>
+            <l>Forgetting Care, or striving to forget;</l>
+            <l>In easy Contemplation soothing Time</l>
+            <l>With Morals much, and now and then with Rhime;</l>
+            <l>Not so robust in Body, as in Mind,</l>
+            <l>And always undejected, tho' declin'd:</l>
+            <l>Not wond'ring at the World's new wicked Ways,</l>
+            <l>Compar'd with those of our Fore-fathers Days,</l>
+            <l>For Virtue now is neither more nor less,</l>
+            <l>And Vice is only varied in the Dress:</l>
+            <l>Believe it, <hi>Men</hi> have always been the same,</l>
+            <l>And OVID's <hi>Golden Age</hi> is but a Dream.</l>
+         </div>
+         <div n="2" type="part">
+            <pb n="31" facs="33"/>
+            <head>Numb II.</head>
+            <head type="sub">To the AUTHOR.</head>
+            <epigraph>
+               <q>
+                  <l>Demitte auriculas, at iniquae mentis Asellus</l>
+                  <l>Cum gravius dorso subit onus.—</l>
+               </q>
+               <bibl>Hor.</bibl>
+            </epigraph>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF we will look a little into the Conduct and Custom of the World, it may not appear so extraordinary as some have thought it, that Mr. <hi>Pope</hi> because he cannot be the <hi>Foun<lb rend="hidden" type="hyphenInWord"/>tain of Honour</hi> to Mankind, should be fond of usurping the <hi>Fountain of Infamy,</hi> and please himself with dealing out a Fund of <hi>dirty</hi> Pro<lb rend="hidden" type="hyphenInWord"/>motions from that <hi>inexhaustible</hi> Spring. And as nothing yields a more sincere Delight than to see the Workings of a <hi>beneficent</hi> Mind; I doubt not but every <hi>good</hi> Man is rejoiced to observe this <hi>Great Prince</hi> creating <hi>Dunces</hi> upon <hi>Dunces,</hi> of his own free Will and Motion, with so much Alacrity, and all in a due Subordination. It is
+<pb n="32" facs="34"/> certain, I ought to be very well satisfied with my Share of <hi>Honours</hi> in this Kingdom of <hi>Dul<lb rend="hidden" type="hyphenInWord"/>ness,</hi> since the Preamble to my Patent is, That <hi>He could not find One more fit to wear them.</hi> I would not willingly act like the Favourite, whom <hi>Shakespeare</hi> somewhere describes, who being made proud by his Prince, advanced his Pride against the Power that bred it: But I would rather, like a grateful Favourite, lay out my Talents in asserting the Legality of my Master's Title to those Dominions, in which he exercises so free a Sway, and from whence he so unsparingly dispenses his <hi>Promotions.</hi>
+            </p>
+            <p>And since I have mention'd <hi>Shakespeare,</hi> (one of the Tributaries by Conquest made subservi<lb rend="hidden" type="hyphenInWord"/>ent to his Throne) I will attempt to convince Unbelievers, by some few Instances of his <hi>Prowess,</hi> with what a Strength of Arm, and Fineness of Head, he has <hi>humbled</hi> that proud Adversary to his Sceptre; Or, (to step out of all <hi>Metaphor</hi> at once) I will attempt to shew with what Fidelity he has perform'd the <hi>dull</hi> Office of an <hi>Editor,</hi> hardly without aiming to under<lb rend="hidden" type="hyphenInWord"/>stand his Author himself, or having any Ambi<lb rend="hidden" type="hyphenInWord"/>tion that his Readers ever should: Or, where he does aim, to shew he has such a happy Fatality at Mistaking, that we are to wish he would not explain the Author into <hi>Nonsense.</hi> Give me Leave to subjoin some Examples just as they oc<lb rend="hidden" type="hyphenInWord"/>cur to my Observation.</p>
+            <p>
+               <hi>I. Much ado about Nothing. Act. 3. Scene 5.</hi> Sometimes fashioning them like <hi>Pharoah</hi>'s Soldiers▪
+<pb n="33" facs="35"/> in the <hi>reechy</hi> Painting, sometimes like the God <hi>Bel</hi>'s Priests in the old Church-Window, &amp;c.</p>
+            <p>Mr. <hi>Pope</hi> is pleas'd to tell us, that <hi>reechie</hi> sig<lb rend="hidden" type="hyphenInWord"/>nifies <hi>valuable.</hi> But the Poet had no Intention here of complimenting the Richness, or Value of the Painting: On the other Hand, he would speak despieably of it, as of a common <hi>Wall-Painting;</hi> as he does in another Play of the Story of the <hi>Prodigal,</hi> and the <hi>German</hi>-hunt<lb rend="hidden" type="hyphenInWord"/>ing in <hi>Water-Work.</hi> We may be pretty sure therefore our Author wrote, <hi>the</hi> reechy <hi>Paint<lb rend="hidden" type="hyphenInWord"/>ing;</hi> i. e. Smoke-dry'd, exposed to Weather, or reeking and steaming with Nastiness. There are two other Passages, where, I remember, this Word again occurrs in our Author.</p>
+            <q>
+               <bibl>Coriolanus. Act 2. Scene 4.</bibl>
+               <l>—The Kitchen-Maukin pins</l>
+               <l>Her richest Lockram 'bout her <hi>reechy Neck,</hi> &amp;c.</l>
+            </q>
+            <q>
+               <bibl>And Hamlet. Act 3. Scene 11.</bibl>
+               <l>And let him for a Pair of <hi>reechy</hi> Kisses,</l>
+               <l>Or padling in your Neck, &amp;c.</l>
+            </q>
+            <p>Now if <hi>reechy,</hi> in either of these Passages, sig<lb rend="hidden" type="hyphenInWord"/>nifies <hi>valuable,</hi> I shall be content to allow Mr. <hi>Pope</hi>'s Gloss upon the Passage first quoted.</p>
+            <q>
+               <bibl>II. Henry VIII. Act 1. Scene 1.</bibl>
+               <l>One sare that promises no <hi>Element</hi>
+               </l>
+               <l>In such a Business.</l>
+            </q>
+            <p>Here we are told that <hi>Element</hi> is <hi>Rudiment,</hi> or <hi>Beginning:</hi> But here again the common Sense of the Passage is explain'd away. <hi>Shake<lb rend="hidden" type="hyphenInWord"/>speare</hi> means no more than that, He is One who
+<pb n="34" facs="36"/> promises no <hi>Qualifications,</hi> no <hi>Talents</hi> for such a Business; or, is not in a <hi>Sphere</hi> for it. In these Acceptations, I think, our Poet generally uses the Phrase. So,</p>
+            <q>
+               <bibl>Merry Wives of Windsor. Act 4. Scene 4.</bibl>
+               <l>And such Dawbry as this is beyond our <hi>Ele<lb rend="hidden" type="hyphenInWord"/>ment.</hi>
+               </l>
+            </q>
+            <q>
+               <bibl>Twelfth-Night. Act 3. Scene 2.</bibl>
+               <l>What you would is out of my Welkin, I might say <hi>Element,</hi>
+               </l>
+               <l>but the Word is over-worn.</l>
+            </q>
+            <q>
+               <bibl>And again. Act 3. Scene 9.</bibl>
+               <p>You are idle shallow Things, I am not of your <hi>Element.</hi>
+               </p>
+            </q>
+            <p>In every one of which Quotations Mr. <hi>Pope's</hi> Gloss would be out of the Way: It were not amiss, perhaps, that this Commentator should remember, <hi>A Man may sometimes be out of his</hi> Element.</p>
+            <q>
+               <bibl>III. King Lear. Act 3. Scene 2.</bibl>
+               <l>Crack Nature's Mould, all<note place="bottom" n="‖">
+                     <p>All Relations, or kindred Elements that com<lb rend="hidden" type="hyphenInWord"/>pose Man, as Mr. <hi>Pope</hi> expounds it. But, with Submission, the Text must first be slightly a<lb rend="hidden" type="hyphenInWord"/>mended, and we shall easily come at a better Explication. Read,</p>
+                     <q>
+                        <l>—all <hi>Germins</hi> spill at once, <hi>&amp;c.</hi>
+                        </l>
+                        <l>i. e. <hi>Germina,</hi> Seeds of Matter.</l>
+                     </q>
+                     <p>So, again, in <bibl>Mackbeth. Act 4. Scene 2.</bibl>
+                     </p>
+                     <l>—tho' the Treasure</l>
+                  </note> 
+                  <hi>Germains</hi> spill at once</l>
+               <l>That make ingrateful Man.</l>
+            </q>
+            <q>
+               <pb n="35" facs="37"/>
+               <l>Of Nature's <hi>Germins</hi> tumble all together,</l>
+               <l>Ev'n 'till Destruction sicken.—</l>
+            </q>
+            <p>For so it must here like wise be corrected. And to put this Emendation beyond all Doubt, I will produce one more Passage, where our Author not only uses the same Thought again, but the Word that ascertains my Explication into the Bargain.</p>
+            <q>
+               <bibl>Winter's Tale. Act 4. Scene 9.</bibl>
+               <l>Let Nature crush the Sides o'th'Earth together,</l>
+               <l>And marr the <hi>Seeds</hi> within.</l>
+            </q>
+            <q>
+               <bibl>IV. King Lear, Act 1. Scene 6.</bibl>
+               <l>—wherefore should I</l>
+               <l>Stand in the Plague of Custom, and permit</l>
+               <l>The <hi>Nicety</hi> of Nations to deprive me, <hi>&amp;c.</hi>
+               </l>
+            </q>
+            <p>I would very willingly know, as Mr. <hi>Pope</hi> de<lb rend="hidden" type="hyphenInWord"/>clares against his having made any <hi>Innovations,</hi> from what Authority he has adopted this quaint Word, <hi>Nicety.</hi> It is in none of the Old Co<lb rend="hidden" type="hyphenInWord"/>pies, that ever I have seen; and if he derives it either from Mr. <hi>Row</hi>'s Edition, or Mr. <hi>Tate</hi>'s Alteration of this Play, he must give me Leave to except against it. The Old Reading, (which, I presume, Mr. <hi>Pope</hi> did not know what to make of) 'tis true, is corrupted.—<hi>The</hi> Curi<lb rend="hidden" type="hyphenInWord"/>osity <hi>of Nations.</hi>—but out of it I will venture to restore the Poet's genuine Word;</p>
+            <q>The <hi>Courtesy</hi> of Nations to deprive me, <hi>&amp;c.</hi>
+            </q>
+            <p>Our accurate <hi>Editor</hi> might have observ'd, that his Author chuses the very Term upon the like Occasion, in another of his Plays. <hi>As you like it.</hi> Act 1. Scene 1.</p>
+            <q>
+               <pb n="36" facs="38"/> The <hi>Courtesy</hi> of Nations allows you my bet<lb rend="hidden" type="hyphenInWord"/>ter, in that you are the <hi>first-born.</hi>
+            </q>
+            <p>So, in another Place, he substitutes it for Birth<lb rend="hidden" type="hyphenInWord"/>right.
+<bibl>
+                  <hi>Cymbelyne.</hi> Act 4. Scene 8.</bibl>
+            </p>
+            <q>
+               <l>—aye hopeless</l>
+               <l>To have the <hi>Courtesy</hi> your Cradle promis'd.</l>
+            </q>
+            <p>And, for the more vulgar Use of the Phrase, I do not doubt but Mr. <hi>Pope</hi> may have heard, that certain Lands and Honours are held by the <hi>Cour<lb rend="hidden" type="hyphenInWord"/>tesy</hi> of <hi>England.</hi>
+            </p>
+            <q>
+               <bibl>V. Measure for Measure. Act. 3. Scene 4.</bibl>
+               <l>—say to thyself,</l>
+               <l>From their abominable and beastly Touches,</l>
+               <l>I drink, I eat <hi>away</hi> myself, and live.</l>
+            </q>
+            <p>This is a very excellent Instance of our Editor's <hi>Sagacity,</hi> and I wish heartily he would have obliged us with his physical Solution, how a Man may <hi>eat away</hi> himself and <hi>live.</hi> Till he does this, I would crave Leave to substitute by Conjecture;</p>
+            <q>
+               <l>—say to thyself,</l>
+               <l>By their abominable, and beastly Touches,</l>
+               <l>I drink, I eat, <hi>array</hi> myself, and live.</l>
+            </q>
+            <p>
+               <hi>i. e.</hi> I feed myself and put Cloaths on my Back, by exercising the vile Trade of a Bawd.</p>
+            <q>
+               <bibl>VI. Twelfth-Night. Act 1. Scene 4.</bibl>
+               <sp>
+                  <speaker>Sir Andr.</speaker>
+                  <p>—O had I but follow'd the Arts.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Tob.</speaker>
+                  <p>Then hadst thou had an excellent Head of Hair.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Andr.</speaker>
+                  <p>Why, would that have mended my Hair?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Tob.</speaker>
+                  <p>Past Question, for thou seest it will not <hi>cool my</hi> Nature.</p>
+                  <p>
+                     <pb n="37" facs="39"/> Prodigious Sagacity!—The Dialogue is of a very light Strain here betwixt two foolish Knights; but I would be very glad to know, methinks, why Sir <hi>Andrew</hi>'s Hair hanging <hi>lank,</hi> should, or should not, <hi>cool</hi> Sir <hi>Toby</hi>'s Nature. Till I can be informed in this Point, I fancy we may make Sense of it thus,</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Andr.</speaker>
+                  <p>Why, should that have mended my Hair?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Tob.</speaker>
+                  <p>Past Question, for thou seest it will not <hi>curl by</hi> Nature.</p>
+               </sp>
+            </q>
+            <q>
+               <bibl>VII. Love's Labour Lost. Act 3. Scene 3.</bibl>
+               <l>This <hi>Signior</hi> Junio, giant dwarf, Dan <hi>Cupid.</hi>
+               </l>
+            </q>
+            <p>Some Readers, 'tis probable, would have been glad to know why the Poets call <hi>Cupid</hi> Signior <hi>Junio.</hi> Has it an Allusion to any old Tale, or to any Charactar in any old Play? No such Thing. As there is a Contrast of Terms in <hi>Giant-Dwarf,</hi> so I have a great Suspicion there should be in these other Words, if we could retrieve the true Reading. And why might it not have been?</p>
+            <q>
+               <l>This <hi>Senior-junior,</hi> giant-Dwarf, Dan <hi>Cupid.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>i. e.</hi> this Old Young Man. I am sure there is a Description afterwards of him in this very Play, which will be no bad Confirmation of this Conjecture.</p>
+            <q>
+               <l>That was the way to make his Godhead wax,</l>
+               <l>For he hath been <hi>Five thousand Years</hi> a <hi>Boy.</hi>
+               </l>
+               <bibl>VIII. Ibid. Act 4. Scene 3.</bibl>
+            </q>
+            <p>And why indeed <hi>Naso,</hi> but for smelling out the odoriferous Flowers of Fancy? The Jerks
+<pb n="38" facs="40"/> of Invention <hi>imitary</hi> is Nothing: So doth the Hound his Master, <hi>&amp;c.</hi>
+            </p>
+            <p>Sagacity with a Vengeance! What? Neither osund Sense, true Grammar, right Inserence, Pointing, or Meaning?—Then, what is <hi>In<lb rend="hidden" type="hyphenInWord"/>vention imitary?</hi> Invention and Imitation are certainly two distinct Things. In short, is Mr. <hi>Pope</hi> won't merrily call it <hi>pidling,</hi> I will venture to give Light to this very difficult Passage. The Speech is by a Pedant, who frequently throws in a Word of <hi>Latin</hi> amongst his <hi>English;</hi> and he is here flourishing upon the Merit of Invention, beyond that of Imitation, or copy<lb rend="hidden" type="hyphenInWord"/>ing after another. Correct it thus, and all is plain and intelligible.</p>
+            <p>
+               <q>—And why indeed <hi>Naso,</hi> but for smelling out the odoriserous Flowers of Fancy? the Jerks of Invention?—<hi>imitari,</hi> is nothing; so doth the Hound his Mlaster, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>imitari, <hi>i. e.</hi> to imitate, copy, <hi>or</hi> follow after.</p>
+            <q>
+               <bibl>IX. Titus Andronicus. Act 3. Scene 3.</bibl>
+               <l>Which of your Hands hath not defended <hi>Rome,</hi>
+               </l>
+               <l>And rear'd alost the bloody Battle-Ax,</l>
+               <l>Writing Destruction on the Enemies <hi>Castle?</hi>
+               </l>
+            </q>
+            <p>Sagacity again! unless Mr. <hi>Pope</hi> means an Im<lb rend="hidden" type="hyphenInWord"/>provement of the <hi>Art Military,</hi> by teaching us that it was ever a Custom to hew down Castles with a Battle-Ax. Or, how if he should have a Mind to tell us, that they wore <hi>Castles,</hi> former<lb rend="hidden" type="hyphenInWord"/>ly, upon their Heads for <hi>defensive</hi> Armour? There is, indeed a Passage in <hi>Troilus</hi> and <hi>Cressida,</hi> which such a Commentator might take in such a Sense.</p>
+            <q>
+               <pb n="39" facs="41"/> 
+               <hi>—And,</hi> Diomede,</q>
+            <p>
+               <hi>Stand fast and wear a</hi> Castle <hi>on thy Head,</hi> &amp;c. But as I cannot come in to this Interpretation, I shall venture to read the Passage in <hi>Andronicus</hi> thus,</p>
+            <p>Writing Destruction on the Enemies <hi>Caske?</hi>
+            </p>
+            <p>A broken <hi>k</hi> in the Manuscript might be mista<lb rend="hidden" type="hyphenInWord"/>ken for a <hi>tl,</hi> and thus a Castle was built at once: But I think it would be something easier to split an <hi>Helmet</hi> with a Battle-Ax, than cut down a <hi>Castle,</hi> and that is one Reason which induces me to propose this Reading.</p>
+            <p>I had design'd to throw in another Emenda<lb rend="hidden" type="hyphenInWord"/>tion upon the Word <hi>Castle;</hi> but I have already transgress'd the Limits of a Letter, and there are two, or three, Topicks still behind, that I have an Occasion to touch upon.</p>
+            <p>Mr. <hi>Pope</hi>'s DUNCIAD having lately made its Appearance in so pompous a Shape, with <hi>Notes variorum,</hi> (I am sorry the Editor could not spare us this short Scrap in a <hi>single</hi> Lan<lb rend="hidden" type="hyphenInWord"/>guage;) I am very well content to pass over the <hi>Slander</hi> of his <hi>Wit;</hi> but ought not, as I apprehend, to rest Silent under <hi>that</hi> of his <hi>Malice,</hi> in which he would fix a pretended Charge of Ingratitude upon Me, a Vice, I hope, of all others the least ingrasted in my Nature. This Charge is, <q>That during the Space of two Years, while Mr. <hi>Pope</hi> was preparing his Edition of <hi>Shakespeare,</hi> I, who had then some Correspondence with him, and was sol<lb rend="hidden" type="hyphenInWord"/>liciting Favours by Letters, did wholly con<lb rend="hidden" type="hyphenInWord"/>ceal
+<pb n="40" facs="42"/> my Design (upon that Author) till after his Publication.</q>
+            </p>
+            <p>To one Part of this Accusation I have re<lb rend="hidden" type="hyphenInWord"/>ply'd in a former Letter in this <hi>Paper.</hi> To say I concealed my Design, is a slight Mis<lb rend="hidden" type="hyphenInWord"/>take: for I had no such certain Design, till I saw how <hi>incorrect</hi> an Edition Mr. <hi>Pope</hi> had gi<lb rend="hidden" type="hyphenInWord"/>ven the Publick. To the other Part, I think, I dare securely charge my Memory with all the <hi>Favours</hi> that ever I ventur'd to ask of Mr. <hi>Pope:</hi> and I challenge him to produce my Let<lb rend="hidden" type="hyphenInWord"/>ters against me, if he thinks there is any Room for it. The first Favour that I ask'd, was, when I introduced a Play upon the Stage, that he would assist me in a few Tickets towards my Benefit. In about a Month after this Request, I received my Packet back, with this civil Excuse, That he had been all the while from home, and had not my Parcel till it was too late to do any thing with it. This, I confess, induced me, when I put out my Proposals for <hi>Aeschylus,</hi> to sollicit Mr. <hi>Pope</hi> for this <hi>Second Favour,</hi> that he would please to recommend <hi>that</hi> my <hi>Design,</hi> if it did not interfere with his own Affair of the <hi>Odyssey.</hi> To this Mr. <hi>Pope</hi> reply'd by Letter, <q>That <hi>he was glad I had undertaken this Work, and should be as glad to promote my Interest, notwithstanding his own Subscription to the</hi> Odyssey: <hi>That his own Awkwardness, and indeed Inability, of solliciting in any Kind, made him quite use<lb rend="hidden" type="hyphenInWord"/>less
+<pb n="41" facs="43"/> to his own Interest; but that he might not be intirely so to mine, he would ask those of his Friends for me, with whom he was familiar enough to ask any thing.</hi>
+               </q>—But from that Day to the Publication of my <hi>Shake<lb rend="hidden" type="hyphenInWord"/>speare Restored,</hi> (an Interval of above Two Years) I never received one Line more from Mr. <hi>Pope,</hi> no Intimation of <hi>one</hi> Subscriber by his Interest, not even an Order that I should put his <hi>own</hi> Name down in my List. Upon this naked Fact, I submit the Censure both of my <hi>Obligations</hi> and <hi>Ingratitude.</hi>
+            </p>
+            <p>The <hi>Publick</hi> should not have been troubled with this State of the Case, had not these Insi<lb rend="hidden" type="hyphenInWord"/>nuations been industriously propagated at this Crisis, both to hurt my Interest in my <hi>Subscrip<lb rend="hidden" type="hyphenInWord"/>tion</hi> for my <hi>Remarks on</hi> SHAKESPEARE, which will now shortly appear in the World; and in that <hi>Play,</hi> which is designed for my <hi>Benefit</hi> on <hi>Monday</hi> next in the Theatre at <hi>Drury Lane.</hi>
+               <note place="bottom" n="*">Double Falshood.</note> It is my Misfortune, I can boast but of a very scanty Interest, and much less Merit; and, con<lb rend="hidden" type="hyphenInWord"/>sequently, Both are the more easily to be shock<lb rend="hidden" type="hyphenInWord"/>ed. I had no Method, but This, of appealing to those Many, whom I have not the Honour of approaching, for their <hi>Favour:</hi> and of hum<lb rend="hidden" type="hyphenInWord"/>bly hoping it the rather, because all my poor Attempts in Writing are calculated to entertain, and none <hi>at the Expence of any Man's Character.</hi>
+            </p>
+            <closer>
+               <signed>I am, Sir, Your very humble Servant, Lew. Theobald.</signed> 
+               <dateline>Wyan's-Court in Great-Rus<lb rend="hidden" type="hyphenInWord"/>sel-Street, <date>April 16, 1729.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="3" type="part">
+            <pb facs="44"/>
+            <head>N<hi rend="sup">o</hi> III. Of Mr. POPE's TASTE of RELIGION.</head>
+            <head type="sub">Being a Translation of the First Psalm. For the Use of a Young LADY.</head>
+            <lg>
+               <l>THE Maid is blest that will not hear</l>
+               <l>of Masquerading Tricks,</l>
+               <l>Nor lends to wanton Songs an Ear,</l>
+               <l>Nor sighs for Coach and Six.</l>
+            </lg>
+            <lg>
+               <l>To please her shall her Husband strive</l>
+               <l>With all his Main and Might,</l>
+               <l>And in her Love shall Exercise</l>
+               <l>Himself both Day and Night.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>She</hi> shall bring forth most Pleasant Fruit,</l>
+               <l>He flourish still, and Stand,</l>
+               <l>Even so all <hi>Things</hi> shall prosper well,</l>
+               <l>That this Maid takes in <hi>Hand.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No wicked Whores shall have such Luck,</l>
+               <l>Who follow their own Wills,</l>
+               <l>But purg'd shall be to Skin and Bone,</l>
+               <l>With <hi>Mercury</hi> and <hi>Pills.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For why, The Pure and Cleanly Maids</l>
+               <l>Shall All, good Husbands gain;</l>
+               <l>But Filthy and Uncleanly Jades</l>
+               <l>Shall Rot in <hi>Drury-Lane.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="4" type="part">
+            <pb facs="45"/>
+            <head>Numb IV.</head>
+            <head type="sub">Of Mr. Pope's TASTE of Original Sin.</head>
+            <opener>To the Ingenious Mr. MOORE, Author of the Celebrated WORM-POWDER.</opener>
+            <lg n="1">
+               <head>I.</head>
+               <l>HOW much, egregious MOORE, are We</l>
+               <l>Deceiv'd by Shows, and Forms?</l>
+               <l>Whate'er we think, whate'er we see,</l>
+               <l>All Human Race are <hi>WORMS.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>
+                  <hi>Man,</hi> is a very <hi>WORM</hi> by Birth,</l>
+               <l>Proud <hi>Reptile,</hi> vile and vain,</l>
+               <l>A while he crawls upon the Earth,</l>
+               <l>Then shrinks to Earth again.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>That <hi>Woman,</hi> is a <hi>WORM,</hi> we find,</l>
+               <l>E'er since our Granum's Evil;</l>
+               <l>She first convers'd with her own kind,</l>
+               <l>That Ancient <hi>WORM,</hi> the <hi>Devil.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <pb n="44" facs="46"/>
+               <head>IV.</head>
+               <l>But whether <hi>Man,</hi> or <hi>He,</hi> God knows,</l>
+               <l>Foecundified her Belly,</l>
+               <l>With that pure Stuff from whence we rose,</l>
+               <l>The Genial <hi>Vermicelli.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>The <hi>Learn'd</hi> themselves we <hi>BOOK-WORMS</hi> name,</l>
+               <l>The <hi>Block-Head</hi> is a <hi>SLOW-WORM!</hi>
+               </l>
+               <l>The <hi>Nymph,</hi> whose Tail is all on Flame,</l>
+               <l>Is aptly term'd a <hi>GLOW-WORM.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>The <hi>Fops</hi> are painted Butter-Flies,</l>
+               <l>That flutter for a Day;</l>
+               <l>First from a <hi>WORM</hi> they took their Rise,</l>
+               <l>Then in a <hi>WORM</hi> decay.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>The <hi>Flatterer</hi> an Ear-Wig grows,</l>
+               <l>Some WORMS suit all Conditions;</l>
+               <l>Misers <hi>are</hi> MUCK-WORMS, SILK-WORMS Beaus,</l>
+               <l>And <hi>DEATH-WATCHES, Physicians.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <pb n="45" facs="47"/>
+               <head>VIII.</head>
+               <l>That <hi>Statesmen</hi> have a <hi>WORM</hi> is seen,</l>
+               <l>By all their winding Play:</l>
+               <l>Their Conscience is a <hi>WORM</hi> within,</l>
+               <l>That gnaws them Night and Day.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Ah! <hi>MOORE!</hi> Thy Skill were well Employ'd,</l>
+               <l>And greater Gain would rise,</l>
+               <l>If thou could'st make the Courtier void</l>
+               <l>The <hi>WORM</hi> that never dies.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>O Learned Friend of <hi>Abchurch-Lane,</hi>
+               </l>
+               <l>Who sett'st our Entrails free,</l>
+               <l>Vain is thy Art, thy Powder Vain,</l>
+               <l>Since <hi>WORMS</hi> shall Eat ev'n Thee.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Thou only canst our Fate Adjourn;</l>
+               <l>Some few short Years, no more:</l>
+               <l>Ev'n <hi>BUTTON</hi>'s Wits to <hi>WORMS</hi> shall turn,</l>
+               <l>Who <hi>Maggots</hi> were before.</l>
+            </lg>
+            <p>
+               <hi>NB. Mr.</hi> Pope has lately reprinted this Poem, but has omitted the ivth Stanza▪</p>
+         </div>
+         <div n="5" type="part">
+            <pb facs="48"/>
+            <head>N<hi rend="sup">o</hi> V. Mr. POPE'S Satire on Mrs. P—</head>
+            <head type="sub">The LOOKING-GLASS.</head>
+            <l>WITH Scornful Mein, and various toss of Air</l>
+            <l>Fantastic, vain and insolently Fair.</l>
+            <l>Grandeur intoxicates her giddy Brain,</l>
+            <l>She looks Ambition, and she moves Disdain.</l>
+            <l>Far other Carriage, grac'd her Virgin Life,</l>
+            <l>But charming <hi>G—y</hi>'s lost, in <hi>P—y</hi>'s Wise.</l>
+            <l>Not greater Arrogance in Him we find,</l>
+            <l>And this Conjunction swells at least her Mind:</l>
+            <l>O could the Sire, renown'd in <hi>Glass,</hi> produce</l>
+            <l>One faithful <hi>Mirrour</hi> for his Daughter's Use,</l>
+            <l>Wherein she might her haughty Errours trace,</l>
+            <l>And by Reflexion learn to mend her Face.</l>
+            <l>The wonted Sweetness to her Form restore,</l>
+            <l>Be what she was, and charm Mankind once more.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

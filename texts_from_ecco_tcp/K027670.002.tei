@@ -1,0 +1,1116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters of the late Rev. Mr. Laurence Sterne, to his most intimate friends. With a fragment in the manner of Rabelais. To which are prefix'd, memoirs of his life and family. Written by himself. And published by his daughter, Mrs. Medalle. In three volumes.: [pt.2]</title>
+            <author>Sterne, Laurence, 1713-1768.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K027670.002</idno>
+            <idno type="docno">CW3310645766</idno>
+            <idno type="ecll">0192301202</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters of the late Rev. Mr. Laurence Sterne, to his most intimate friends. With a fragment in the manner of Rabelais. To which are prefix'd, memoirs of his life and family. Written by himself. And published by his daughter, Mrs. Medalle. In three volumes.:</title>
+                  <author>Sterne, Laurence, 1713-1768.</author>
+               </titleStmt>
+               <extent>3v.,plate : port. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for T. Becket,</publisher>
+                  <date>1775.</date>
+                  <idno type="TCP">K027670.002</idno>
+                  <idno type="docno">CW3310645766</idno>
+                  <idno type="ecll">0192301202</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Comprises 117 letters, including two from correspondents of Sterne.</note>
+                  <note>Letter 58 maybe a forgery.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT14758.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>LETTERS OF THE LATE Rev. Mr. LAURENCE STERNE, To his most intimate FRIENDS.</p>
+            <p>WITH A FRAGMENT in the Manner of <hi>Rabelais.</hi>
+            </p>
+            <p>To which are prefixed, Memoirs of his Life and Family. Written by HIMSELF, And published by his Daughter, Mrs. MEDALLE.</p>
+            <p>In THREE VOLUMES.</p>
+            <p>VOL. II.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for T. BECKET, the Corner of the Adelphi, in the Strand. 1775.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="2"/>
+            <head>LETTERS.</head>
+            <div n="27" type="letter">
+               <head>LETTER XXVII. To Lady D.</head>
+               <opener>
+                  <dateline>Paris, <date>July 9, 1762.</date>
+                  </dateline>
+               </opener>
+               <p>I Will not send your ladyship the trifles you bid me purchase without a line. I am very well pleased with Paris—indeed I meet with so many civilities amongst the people here that I must sing their praises—the French have a great deal of urbanity in their composition, and to stay a lit<lb rend="hidden" type="hyphenInWord"/>tle
+<pb n="2" facs="3"/>
+time amongst them will be agreea<lb rend="hidden" type="hyphenInWord"/>ble.—I splutter French so as to be understood—but I have had a droll adventure here in which my Latin was of some service to me—I had hired a chaise and a horse to go about seven miles into the country, but, <hi>Shandean like,</hi> did not take notice that the horse was almost dead when I took him—Before I got half way the poor ani<lb rend="hidden" type="hyphenInWord"/>mal dropp'd down dead—so I was forced to appear before the Police, and began to tell my story in French, which was, that the poor beast had to do with a worse beast than himself, namely <hi>his master,</hi> who had driven him all the day before (Jehu like) and that he had neither had corn, or hay,
+<pb n="3" facs="4"/>
+therefore I was not to pay for the horse—but I might as well have whistled, as have spoke French, and I believe my Latin was equal to my uncle Toby's Lilabulero—being not understood because of it's purity, but by dint of words I forced my judge to do me justice—no common thing by the way in France.—My wife and daughter are arrived—the latter does nothing but look out of the window, and complain of the tor<lb rend="hidden" type="hyphenInWord"/>ment of being frizled.—I wish she may ever remain a child of nature—I hate children of art.</p>
+               <p>I hope this will find your ladyship well—and that you will be kind e<lb rend="hidden" type="hyphenInWord"/>nough
+<pb n="4" facs="5"/>
+to direct to me at Toulouse, which place I shall set out for very soon. I am, with truth and sincerity,</p>
+               <closer>
+                  <signed>Your Ladyship's Most faithful, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="28" type="letter">
+               <pb n="5" facs="6"/>
+               <head>LETTER XXVIII. To Mr. E.</head>
+               <opener>
+                  <dateline>Paris, <date>July 12, 1762.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>MY wife and daughter arrived here safe and sound on Thursday, and are in high raptures with the speed and pleasantness of their journey, and particularly of all they see and meet with here. But in their journey from York to Paris, nothing has given them a more sensible and lasting plea<lb rend="hidden" type="hyphenInWord"/>sure, than the marks of kindness they received from you and Mrs. E.—The friendship, good will and politeness
+<pb n="6" facs="7"/>
+of my two friends I never doubted to me, or mine, and I return you both all a grateful man is capable of, which is merely my thanks. I have taken however the liberty of sending an Indian taffety, which Mrs. E. must do me the honour to wear for my wife's sake, who would have got it made up, but that Mr. Stanhope, the Consul of Algiers, who sets off to<lb rend="hidden" type="hyphenInWord"/>morrow morning for London, has been so kind (I mean his lady) as to take charge of it; and we had but just time to procure it: and had we miss'd that opportunity, as we should have been obliged to have left it be<lb rend="hidden" type="hyphenInWord"/>hind us at Paris, we knew not when or how to get it to our friend.—I
+<pb n="7" facs="8"/>
+wish it had been better worth a para<lb rend="hidden" type="hyphenInWord"/>graph. If there is any thing we can buy or procure for you here, (intelli<lb rend="hidden" type="hyphenInWord"/>gence included) you have a right to command me—for I am yours, with my wife and girl's kind love to you and Mrs. E.</p>
+               <closer>
+                  <signed>LAU. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="29" type="letter">
+               <pb n="8" facs="9"/>
+               <head>LETTER XXIX. To T. H. S. Esq.</head>
+               <opener>
+                  <dateline>Toulouse, <date>August 12, 1762.</date>
+                  </dateline>
+                  <salute>My dear H.</salute>
+               </opener>
+               <p>BY the time you have got to the end of this long letter you will per<lb rend="hidden" type="hyphenInWord"/>ceive that I have not been able to an<lb rend="hidden" type="hyphenInWord"/>swer your last 'till now—I have had the intention of doing it almost as of<lb rend="hidden" type="hyphenInWord"/>ten as my prayers in my head—'tis thus we use our best friends—what an infamous story is that you have told me!—After some little remarks on it the rest of my letter will go on like silk. ****— is a good na<lb rend="hidden" type="hyphenInWord"/>tured
+<pb n="9" facs="10"/>
+old easy fool and has been de<lb rend="hidden" type="hyphenInWord"/>ceived by the most artful of her sex, and she must have abundance of im<lb rend="hidden" type="hyphenInWord"/>pudence and charlatanery to have carried on such a farce. I pity the old man for being taken in for so much money—a man of sense I should have laughed at—My wife saw her when in town, and she had not the appearance of poverty, but when she wants to melt **** heart she puts her gold watch and diamond rings in her drawer.—But he might have been aware of her. I could not have been mistaken in her character—and 'tis odd she should talk of her wealth to one, and tell another the reverse—so good night to her.—About a week
+<pb n="10" facs="11"/>
+or ten days before my wife arrived at Paris I had the same accident I had at Cambridge, of breaking a vessel in my lungs. It happen'd in the night, and I bled the bed full, and finding in the morning I was likely to bleed to death, I sent immediately for a surgeon to bleed me at both arms—this saved me, and with lying speech<lb rend="hidden" type="hyphenInWord"/>less three days I recovered upon my back in bed; the breach healed, and in a week after I got out—This with my weakness and hurrying about made me think it high time to haste to Toulouse.—We have had four months of such heats that the oldest Frenchman never remembers the like—'twas as hot as <hi>Nebuchadnezzar</hi>'s
+<pb n="11" facs="12"/>
+                  <hi>oven,</hi> and never has relaxed one hour—in the height of this 'twas our des<lb rend="hidden" type="hyphenInWord"/>tiny (or rather destruction) to set out by way of Lyons, Montpellier, <hi>&amp;c.</hi> to shorten, I trow, our sufferings—Good God!—but tis over—and here I am in my own house, quite settled by M....'s aid, and good-natured offices, for which I owe him more than I can express or know how to pay at present—'Tis in the prettiest situation in Tou<lb rend="hidden" type="hyphenInWord"/>louse, with near two acres of garden—the house too good by half for us—well furnished, for which I pay thirty pounds a year.—I have got a good cook—my wife a decent <hi>femme de chambre,</hi> and a good looking <hi>laquais</hi>—The Abbé has planned our expences,
+<pb n="12" facs="13"/>
+and set us in such a train, we cannot easily go wrong—tho' by the bye the D— is seldom found sleeping un<lb rend="hidden" type="hyphenInWord"/>der a hedge. Mr. Trotter dined with me the day before I left Paris—I took care to see all executed according to your directions—but Trotter, I dare say, by this has wrote to you—I made him happy beyond expression with your crazy tales, and more so with its frontispiece.—I am in spirits, writing a crazy chapter—with my face turned towards thy turret—'Tis now I wish all warmer climates, coun<lb rend="hidden" type="hyphenInWord"/>tries, and every thing else at — that separates me from our paternal seat—<hi>ce sera là où reposera ma cendre—et ce sera là où mon cousin viendra repondre</hi>
+                  <pb n="13" facs="14"/>
+                  <hi>les pleurs dues à notre amitié.</hi>—I am taking asses milk three times a day, and cows milk as often—I long to see thy face again once more—greet the Col. kindly in my name, and thank him cordially from me for his many civilities to Madame and Mademoiselle Shandy at York, who send all due acknowledgments. The humour is over for France, and Frenchmen, but that is not enough for your affec<lb rend="hidden" type="hyphenInWord"/>tionate cousin, L. S.</p>
+               <p>(A year will tire us all out I trow) but thank heaven the post brings me a letter from my Anthony—I felicitate you upon what Messrs. the Reviewers allow you—they have too much judge<lb rend="hidden" type="hyphenInWord"/>ment
+<pb n="14" facs="15"/>
+themselves not to allow you what you are actually possess'd of, <q rend="inline">"talents, wit and humour."</q>—Well, write on my dear cousin, and be guided by thy own fancy.—Oh! how I envy you all at Crazy Castle!—I could like to spend a month with you—and should return back again for the vintage.—I honour the man that has given the world an idea of our pa<lb rend="hidden" type="hyphenInWord"/>rental seat—'tis well done—I look at it ten times a day with a <hi>quando te aspi<lb rend="hidden" type="hyphenInWord"/>ciam?</hi>—Now farewell—remember me to my beloved Col.—greet Panty most lovingly on my behalf, and if Mrs. C... and Miss C... <hi>&amp;c.</hi> are at G.. greet them likewise with a holy kiss—So God bless you.</p>
+            </div>
+            <div n="30" type="letter">
+               <pb n="15" facs="16"/>
+               <head>LETTER XXX. To Mr. F.—, at Paris.</head>
+               <opener>
+                  <dateline>Toulouse, <date>August 14, 1762.</date>
+                  </dateline>
+                  <salute>My dear F.</salute>
+               </opener>
+               <p>AFTER many turnings (<hi>alias</hi> digressions) to say nothing of down<lb rend="hidden" type="hyphenInWord"/>right overthrows, stops, and delays, we have arrived in three weeks at Toulouse, and are now settled in our houses with servants, &amp;c. about us, and look as composed as if we had been here seven years.—In our journey we suffered so much from the heats, it gives me pain to remember
+<pb n="16" facs="17"/>
+it—I never saw a cloud from Paris to Nismes half as broad as a twenty<lb rend="hidden" type="hyphenInWord"/>four sols piece.—Good God! we were toasted, roasted, grill'd, stew'd and carbonaded on one side or other all the way—and being all done enough <hi>(assez cuits)</hi> in the day, we were eat up at night by bugs, and other unswept out vermin, the legal inhabitants (if length of possession gives right) of every inn we lay at.—Can you conceive a worse ac<lb rend="hidden" type="hyphenInWord"/>cident than that in such a journey, in the hottest day and hour of it, four miles from either tree or shrub which could cast a shade of the size of one of Eve's fig leaves—that we should break a hind wheel into
+<pb n="17" facs="18"/>
+ten thousand pieces, and be obliged in consequence to sit five hours on a gravelly road, without one drop of water or possibility of getting any—To mend the matter, my two po<lb rend="hidden" type="hyphenInWord"/>stillions were two dough-hearted fools, and fell a crying—Nothing was to be done! By heaven, quoth I, pulling off my coat and waistcoat, something shall be done, for I'll thrash you both within an inch of your lives—and then make you take each of you a horse, and ride like two devils to the next post for a cart to carry my bag<lb rend="hidden" type="hyphenInWord"/>gage, and a wheel to carry ourselves—Our luggage weighed ten quintals—'twas the fair of Baucaire—all the world was going, or returning—we
+<pb n="18" facs="19"/>
+were ask'd by every soul who pass'd by us, if we were going to the fair of Baucaire—No wonder, quoth I, we have goods enough! <hi>vous avez raison mes amis</hi>—</p>
+               <p>Well! here we are after all, my dear friend—and most deliciously placed at the extremity of the town, in an excellent house well furnish'd, and elegant beyond any thing I look'd for—'Tis built in the form of a hotel, with a pretty court towards the town—and behind, the best gar<lb rend="hidden" type="hyphenInWord"/>dens in Toulouse, laid out in serpen<lb rend="hidden" type="hyphenInWord"/>tine walks, and so large that the company in our quarter usually come to walk there in the evenings, for
+<pb n="19" facs="20"/>
+which they have my consent—<q rend="inline">"the more the merrier."</q>—The house consists of a good <hi>salle à manger</hi> above stairs joining to the very great <hi>salle à com<lb rend="hidden" type="hyphenInWord"/>pagnie</hi> as large as the Baron D'Hol<lb rend="hidden" type="hyphenInWord"/>bach's; three handsome bed-cham<lb rend="hidden" type="hyphenInWord"/>bers with dressing rooms to them—below stairs two very good rooms for myself, one to study in, the other to see company.—I have moreover cellars round the court, and all other offices—Of the same landlord I have bargained to have the use of a country-house which he has two miles out of town, so that myself and all my family have nothing more to do than to take our hats and remove from the one to the other—My
+<pb n="20" facs="21"/>
+landlord is moreover to keep the gardens in order—and what do you think I am to pay for all this? nei<lb rend="hidden" type="hyphenInWord"/>ther more or less than thirty pounds a year—all things are cheap in propor<lb rend="hidden" type="hyphenInWord"/>tion—so we shall live for very very little.—I dined yesterday with Mr. H— he is most pleasantly situated, and they are all well.—As for the books you have received for D—, the bookseller was a fool not to send the bill along with them—I will write to him about it.—I wish you was with me for two months; it would cure you of all evils ghostly and bodily—but this, like many other wishes both for you and myself, must have its completion elsewhere—Adieu my
+<pb n="21" facs="22"/>
+kind friend, and believe that I love you as much from inclination as rea<lb rend="hidden" type="hyphenInWord"/>son, for</p>
+               <closer>
+                  <signed>I am most truly yours, L. STERNE.</signed>
+                  <postscript>
+                     <p>My wife and girl join in compliments to you—my best respects to my worthy Baron d'Holbach and all that society—remember me to my friend Mr. Panchaud.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="31" type="letter">
+               <pb n="22" facs="23"/>
+               <head>LETTER XXXI. To J. H. S. Esq.</head>
+               <opener>
+                  <dateline>Toulouse, <date>Oct. 19, 1762.</date>
+                  </dateline>
+                  <salute>My dear H.</salute>
+               </opener>
+               <p>I Received your letter yesterday—so it has been travelling from Crazy Castle to Toulouse full eighteen days—If I had nothing to stop me I would engage to set out this morn<lb rend="hidden" type="hyphenInWord"/>ing, and knock at Crazy Castle gates in three days less time—by which time I should find you and the colonel, Panty, &amp;c. all alone—the season I most wish and like to be with you
+<pb n="23" facs="24"/>
+—I rejoice from my heart, down to my reins, that you have snatch'd so many happy and sunshiny days out of the hands of the blue devils—If we live to meet and join our forces as heretofore we will give these gentry a drubbing—and turn them for ever out of their usurped citadel—some legions of them have been put to flight already by your operations this last campaign—and I hope to have a hand in dispersing the remainder the first time my dear cousin sets up his banners again under the square tower—But what art thou meditating with axes and hammers?—<q rend="inline">"<hi>I know thy pride and the naughtiness of thy heart,</hi>"</q> and thou lovest the sweet
+<pb n="24" facs="25"/>
+visions of architraves, friezes and pediments with their tympanums, and thou hast found out a pretence, <hi>à raison de cinq cent livres ster<lb rend="hidden" type="hyphenInWord"/>ling</hi> to be laid out in four years, &amp;c. &amp;c. (so as not to be felt, which is al<lb rend="hidden" type="hyphenInWord"/>ways added by the D— as a bait) to justify thyself unto thyself—It may be very wise to do this—but 'tis wiser to keep one's money in one's pocket, whilst there are wars without and rumours of wars within.—St. — advises his disciples to sell both coat and waistcoat—and go rather without shirt or sword, than leave no money in their scrip, to go to Jerusalem with—Now those <hi>quatre ans consecutifs,</hi> my dear Anthony, are the most precious
+<pb n="25" facs="26"/>
+morsels of thy <hi>life to come</hi> (in this world) and thou wilt do well to en<lb rend="hidden" type="hyphenInWord"/>joy that morsel without cares, calcu<lb rend="hidden" type="hyphenInWord"/>lations, and curses, and damns, and debts—for as sure as stone is stone, and mortar is mortar, &amp;c. 'twill be one of the many works of thy repen<lb rend="hidden" type="hyphenInWord"/>tance—But after all, if the Fates have decreed it, as you and I have some time supposed it on account of your generosity, <q rend="inline">"<hi>that you are never to be a monied man,</hi>"</q> the decree will be fulfilled whether you adorn your castle and line it with cedar, and paint it within side and without side with vermilion, or not—<hi>et cela etant</hi> (having a bottle of Frontiniac and glass at my right hand) I drink, dear
+<pb n="26" facs="27"/>
+Anthony, to thy health and happi<lb rend="hidden" type="hyphenInWord"/>ness, and to the final accomplish<lb rend="hidden" type="hyphenInWord"/>ments of all thy lunary and sublunary projects.—For six weeks together, after I wrote my last letter to you, my pro<lb rend="hidden" type="hyphenInWord"/>jects were many stories higher, for I was all that time, as I thought, jour<lb rend="hidden" type="hyphenInWord"/>neying on to the other world—I fell ill of an epidemic vile fever which killed hundreds about me—The physicians here are the errantest char<lb rend="hidden" type="hyphenInWord"/>latans in Europe, or the most igno<lb rend="hidden" type="hyphenInWord"/>rant of all pretending fools—I with<lb rend="hidden" type="hyphenInWord"/>drew what was left of me out of their hands, and recommended my affairs entirely to Dame Nature—She (dear goddess) has saved me in fifty different pinching bouts, and I begin to have
+<pb n="27" facs="28"/>
+a kind of enthusiasm now in her fa<lb rend="hidden" type="hyphenInWord"/>vour, and in my own, That one or two more escapes will make me be<lb rend="hidden" type="hyphenInWord"/>lieve I shall leave you all at last by translation, and not by fair death. I am now stout and foolish again as a happy man can wish to be—and am busy playing the fool with my uncle Toby, who I have got soused over head and ears in love.—I have many hints and projects for other works; all will go on I trust as I wish in this matter.—When I have reaped the benefit of this winter at Toulouse—I cannot see I have any thing more to do with it, therefore after having gone with my wife and girl to Bagnieres, I shall return from
+<pb n="28" facs="29"/>
+whence I came—Now my wife wants to stay another year to save money, and this opposition of wishes, tho' it will not be as sour as lemon, yet 'twill not be as sweet as sugar candy.—I wish T— would lead Sir Charles to Toulouse; 'tis as good as any town in the South of France—for my own part, 'tis not to my taste—but I believe, the ground work of my <hi>ennui</hi> is more to the eternal plati<lb rend="hidden" type="hyphenInWord"/>tude of the French characters—little variety, no originality in it at all—than to any other cause—for they are very civil—but civility itself, in that uniform, wearies and bodders one to death—If I do not mind, I shall grow most stupid and sententious—
+<pb n="29" facs="30"/>
+Miss Shandy is hard at it with mu<lb rend="hidden" type="hyphenInWord"/>sick, dancing, and French speak<lb rend="hidden" type="hyphenInWord"/>ing, in the last of which she does <hi>à marveille,</hi> and speaks it with an ex<lb rend="hidden" type="hyphenInWord"/>cellent accent, considering she prac<lb rend="hidden" type="hyphenInWord"/>tices within sight of the Pyrenean Mountains.—If the snows will suffer me, I propose to spend two or three months at Barege, or Bagnieres, but my dear wife is against all schemes of additional expences—which wicked propensity (tho' not of despotick power) yet I cannot suffer—tho' by the bye laudable enough—But she may talk—I will do my own way, and she will acquiesce without a word of debate on the subject.—Who can say so much in praise of his wife? Few
+<pb n="30" facs="31"/>
+I trow.—M— is out of town vin<lb rend="hidden" type="hyphenInWord"/>taging—so write to me, <hi>Monsieur Sterne gentilhomme Anglois</hi>—'twill find me.—We are as much out of the road of all intelligence here as at the Cape of Good Hope—so write a long nonsensical letter like this, now and then to me—in which say nothing but what may be shewn, (tho' I love every paragraph and spirited stroke of your pen, others might not) for you must know a letter no sooner arrives from England, but curiosity is upon her knees to know the contents.—Adieu dear H. believe me,</p>
+               <closer>
+                  <signed>Your affectionate, L. STERNE.</signed>
+                  <postscript>
+                     <pb n="31" facs="32"/>
+                     <p>We have had bitter cold weather here these fourteen days—which has obliged us to sit with whole pagells of wood lighted up to our noses—'tis a dear article—but every thing else being extreme cheap, Madame keeps an excellent good house, with <hi>soupe, boulli, roti</hi>—&amp;c. &amp;c. for two hundred and fifty pounds a year.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="32" type="letter">
+               <pb n="32" facs="33"/>
+               <head>LETTER. XXXII. To Mr. F. at Paris.</head>
+               <opener>
+                  <dateline>Toulouse, <date>November 9, 1762.</date>
+                  </dateline>
+                  <salute>My dear F.</salute>
+               </opener>
+               <p>I Have had this week your letter on my table, and hope you will for<lb rend="hidden" type="hyphenInWord"/>give my not answering it sooner—and even to day I can but write you ten lines, being engaged at Mrs. M—'s. I would not omit one post more ac<lb rend="hidden" type="hyphenInWord"/>knowledging the favour—In a few posts I will write you a long one gratis, that is for love—Thank you for having done what I desired you—
+<pb n="33" facs="34"/>
+and for the future direct to me under cover at Monsieur Brousse's—I receive all letters through him, more punctual and sooner than when left at the post-house—</p>
+               <p>H—'s family greet you with mine—we are much together and never forget you—forget me not to the baron—and all the circle—nor to your domestic circle—</p>
+               <p>I am got pretty well, and sport much with my uncle Toby in the volume I am now fabricating for the laughing part of the world—for the melancholy part of it, I have nothing but my prayers—so God help them.—I shall hear from you in a post or
+<pb n="34" facs="35"/>
+two at least after you receive this—in the mean time dear F— adieu, and believe no man wishes or esteems you more than your</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="33" type="letter">
+               <pb n="35" facs="36"/>
+               <head>LETTER XXXIII. To the same.</head>
+               <opener>
+                  <dateline>Toulouse, <date>Dec. 17, 1762.</date>
+                  </dateline>
+                  <salute>My dear F—</salute>
+               </opener>
+               <p>THE post after I wrote last—I received yours with the inclosed draught upon the receiver, for which I return you all thanks—I have re<lb rend="hidden" type="hyphenInWord"/>ceived this day likewise the box and tea all safe and sound—so we shall all of us be in our cups this Christmas, and drink without fear or stint—We begin to live extremely happy, and are all toge<lb rend="hidden" type="hyphenInWord"/>ther every night—fiddling, laughing and singing, and cracking jokes. You
+<pb n="36" facs="37"/>
+will scarce believe the news I tell you—There are a company of English strollers arrived here, who are to act comedies all the Christmas, and are now busy in making dresses and pre<lb rend="hidden" type="hyphenInWord"/>paring some of our best comedies—Your wonder will cease, when I in<lb rend="hidden" type="hyphenInWord"/>form you these strollers are your friends with the rest of our society, to whom I proposed this scheme <hi>soulagement</hi>—and I assure you we do well.—The next week, with a grand orchestra—we play the Busy Body—and the Journey to London the week after, but I have some thoughts of adapting it to our situation—and making it the Journey to Toulouse, which, with the change of half a dozen scenes,
+<pb n="37" facs="38"/>
+may be easily done.—Thus my dear F. for want of something better we have recourse to ourselves, and strike out the best amusements we can from such materials.—My kind love and friendship to all my true friends—My service to the rest. H—'s family have just left me, having been this last week with us—they will be with me all the holidays.—In summer we shall visit them, and so balance hos<lb rend="hidden" type="hyphenInWord"/>pitalities.</p>
+               <closer>Adieu, <signed>Yours most truly, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="34" type="letter">
+               <pb n="38" facs="39"/>
+               <head>LETTER XXXIV. To the same.</head>
+               <opener>
+                  <dateline>Toulouse, <date>Wednesday, Dec. 4. 1762.</date>
+                  </dateline>
+                  <salute>Dear F—,</salute>
+               </opener>
+               <p>I HAVE for this last fortnight every post-day gone to Messrs. B— and sons, in expectation of the pleasure of a letter from you, with the remittance I desired you to send me here.—When a man has no more than half a dozen guineas in his pocket—and a thousand miles from home—and in a country, where he can as soon raise the d—l, as a six livres piece to go to market
+<pb n="39" facs="40"/>
+with, in case he has changed his last guinea—you will not envy my situ<lb rend="hidden" type="hyphenInWord"/>ation.—God bless you—remit me the balance due upon the receipt of this.—We are all at H—'s, practising a play we are to act here this Christmas holidays—all the Dramatis Personae are of the English, of which we have a happy society living together like brothers and sisters—Your banker here has just sent me word the tea Mr. H. wrote for is to be delivered into my hands—'tis all one into whose hands the treasure falls—we shall pay Brousse for it the day we get it—We join in our most friendly, respects, and believe me, dear F—y, truly yours,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="35" type="letter">
+               <pb n="40" facs="41"/>
+               <head>LETTER XXXV. To the same.</head>
+               <opener>
+                  <dateline>Toulouse, <date>March 29, 1762.</date>
+                  </dateline>
+                  <salute>Dear F—,</salute>
+               </opener>
+               <p>—THO' that's a mistake! I mean the date of the place, for I write at Mr. H—'s in the country, and have been there with my people all the week—how does Tristram do? you say in yours to him—faith but so-so—the worst of human maladies is poverty—though that is a second lye—for poverty
+<pb n="41" facs="42"/>
+of spirit is worse than poverty of purse, by ten thousand per cent.—I inclose you a remedy for the one, a draught of a hundred and thirty pounds, for which I insist upon a rescription by the very return—or I will send you and all your commissaries to the d—l.—I do not hear they have tasted of one fleshy banquet all this Lent—you will make an excellent <hi>grillé—P—</hi> they can make nothing of him, but <hi>bouillon</hi>—I mean my other two friends no ill—so shall send them a reprieve, as they acted out of necessity—not choice—My kind respects to Baron D' Holbach and all his houshold—Say all that's kind for me to my other
+<pb n="42" facs="43"/>
+friends—you know how much, dear F—, I am yours,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+                  <postscript>
+                     <p>I have not five Louis to vapour with in this land of coxcombs—My wife's compliments.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="36" type="letter">
+               <pb n="43" facs="44"/>
+               <head>LETTER XXXVI. To the same.</head>
+               <opener>
+                  <dateline>Toulouse, <date>April 18, 1763.</date>
+                  </dateline>
+                  <salute>Dear F—,</salute>
+               </opener>
+               <p>I Thank you for your punctuality in sending me the rescription, and for your box by the courier, which came safe by last post.—I was not surprised much with your account of Lord ***** being obliged to give way—and for the rest, all follows in course.—I suppose you will endeavour to fish and catch something for yourself
+<pb n="44" facs="45"/>
+in these troubled waters—at least I wish you all a reasonable man can wish for himself—which is wishing enough for you—all the rest is in the brain.—Mr. Woodhouse (who you know) is also here—he is a most amiable worthy man, and I have the pleasure of having him much with me—in a short time he proceeds to Italy.—The first week in June I decamp like a patriarch with my whole houshold, to pitch our tents for three months at the foot of the Pyrenean Hills at Bag<lb rend="hidden" type="hyphenInWord"/>nieres, where I expect much health and much amusement from the concourse of adventurers from all corners of the earth.—Mrs. M— sets out at the same time, for another part of the
+<pb n="45" facs="46"/>
+Pyrenean Hills, at Coutray—from whence to Italy—This is the general plan of operation here—except that I have some thoughts of spending the winter at Florence, and crossing over with my family to Leghorn by water—and in April of returning by way of Paris home—but this is a sketch only, for in all things I am governed by circumstances—so that what is fit to be done on Monday, may be very unwise on Saturday—On all days of the week believe me yours,</p>
+               <closer>
+                  <signed>With unfeigned truth, L. STERNE.</signed>
+                  <postscript>
+                     <p>
+                        <hi>P.S.</hi> All compliments to my Parisian friends.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="37" type="letter">
+               <pb n="46" facs="47"/>
+               <head>LETTER XXXVII. To the same.</head>
+               <opener>
+                  <dateline>Toulouse, <date>April 29, 1763.</date>
+                  </dateline>
+                  <salute>My dear F—,</salute>
+               </opener>
+               <p>LAST post my agent wrote me word he would send up from York a bill for fourscore guineas, with or<lb rend="hidden" type="hyphenInWord"/>ders to be paid into Mr. Selwin's hands for me. This he said he would expedite immediately, so 'tis possible you may have had advice of it—and 'tis possible also the money may not be paid this fortnight, therefore as I
+<pb n="47" facs="48"/>
+set out for Bagnieres in that time, be so good as to give me credit for the money for a few posts or so, and send me either a rescription for the money, or a draught for it—at the receipt of which we shall decamp for ten or twelve weeks—You will re<lb rend="hidden" type="hyphenInWord"/>ceive twenty pounds more on my ac<lb rend="hidden" type="hyphenInWord"/>count, which send also—So much for that—as for pleasure—you have it all amongst you at Paris—we have nothing here which deserves the name.—I shall scarce be tempted to sojourn another winter at Toulouse—for I cannot say it suits my health, as I hoped—'tis too moist—and I cannot keep clear of agues here—so that if I stay the next winter on
+<pb n="48" facs="49"/>
+this side of the water—'twill be either at Nice or Florence—and I shall re<lb rend="hidden" type="hyphenInWord"/>turn to England in April—Wherever I am, believe me, dear F—, that I am,</p>
+               <closer>
+                  <signed>Yours faithfully, L. STERNE.</signed>
+                  <postscript>
+                     <p>Madame and Mademoiselle present their best compliments—Remem<lb rend="hidden" type="hyphenInWord"/>ber me to all I regard, particularly Messrs. P—d, and the rest of your <hi>houshold.</hi>
+                     </p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="38" type="letter">
+               <pb n="49" facs="50"/>
+               <head>LETTER XXXVIII. To the same.</head>
+               <opener>
+                  <dateline>Toulouse, <date>May 21, 1763,</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>I Took the liberty three weeks ago to desire you would be so kind as to send me fourscore pounds, having re<lb rend="hidden" type="hyphenInWord"/>ceived a letter the same post from my Agent, that he would order the mo<lb rend="hidden" type="hyphenInWord"/>ney to be paid to your correspondent in London in a fortnight.—It is some disappointment to me that you have taken no notice of my letter, especi<lb rend="hidden" type="hyphenInWord"/>ally as I told you we waited for the mo<lb rend="hidden" type="hyphenInWord"/>ney
+<pb n="50" facs="51"/>
+before we set out for Bagnieres,—and so little distrust had I that such a civility would be refused me, that we have actually had all our things pack'd up these eight days, in hourly expectation of receiving a letter.—Perhaps my good friend has waited till he heard the money was paid in London—but you might have trusted to my honour—that all the cash in your iron box (and all the bankers in Europe put together) could not have tempted me to say the thing <hi>that is not.</hi>—I hope before this you will have received an account of the money being paid in London—But it would have been taken kindly, if you had wrote me word you would
+<pb n="51" facs="52"/>
+transmit me the money when you had received it, but no sooner; for Mr. R— of Montpellier, tho' I know him not, yet knows enough of me to have given me credit for a fortnight for ten times the sum.</p>
+               <closer>
+                  <signed>I am, dear F—, your friend and hearty well-wisher, L. STERNE.</signed>
+                  <postscript>
+                     <p>I saw the family of the H— yesterday, and asked them if you was in the land of the living—They said yea—for they had just received a letter from you.—After all I hear<lb rend="hidden" type="hyphenInWord"/>tily forgive you—for you have done me a signal service in mortifying me,
+<pb n="52" facs="53"/>
+and it is this, I am determined to grow rich upon it.</p>
+                     <p>Adieu, and God send you wealth and happiness—All compliments to — Before April next I am obliged to revisit your metropolis in my way to England.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="39" type="letter">
+               <pb n="53" facs="54"/>
+               <head>LETTER XXXIX. To the same.</head>
+               <opener>
+                  <dateline>Toulouse, <date>June 9, 1773.</date>
+                  </dateline>
+                  <salute>My dear F—,</salute>
+               </opener>
+               <p>I This moment received yours—consequently the moment I got it I sat down to answer it—So much for a logical inference.</p>
+               <p>Now believe me I had never wrote you so testy a letter, had I not both loved and esteemed you—and it was merely in vindication of the rights of friendship that I wrote in a way as
+<pb n="54" facs="55"/>
+if I was hurt—for neglect me in your heart, I knew you could not, without cause; which my heart told me I never had—or will ever give you:—I was the best friends with you that ever I was in my life, before my letter had got a league, and pleaded the true excuse for my friend, <q rend="inline">"That he was oppressed with a mul<lb rend="hidden" type="hyphenInWord"/>titude of business."</q> Go on, my dear F. and have but that excuse, (so much do I regard your interest) that I would be content to suffer a <hi>real evil</hi> without future murmuring—but in truth, my disappointment was partly chimerical at the bottom, having a letter of credit for two hundred pounds from a person I never saw, by me—but
+<pb n="55" facs="56"/>
+which out of a nicety of temper I would not make any use of—I set out in two days for Bagnieres, but direct to me to Brousse, who will for<lb rend="hidden" type="hyphenInWord"/>ward all my letters.—Dear F— adieu.—Believe me,</p>
+               <closer>
+                  <signed>Yours affectionately, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="40" type="letter">
+               <pb n="56" facs="57"/>
+               <head>LETTER XL. To the same.</head>
+               <opener>
+                  <dateline>Toulouse, <date>June 12, 1763.</date>
+                  </dateline>
+                  <salute>Dear F—,</salute>
+               </opener>
+               <p>LUCKILY just before I was stepping into my chaise for Bagnieres, has a strayed fifty pound bill found its way to me; so I have sent it to its lawful owner inclosed—My noodle of an agent, instead of getting Mr. Selwin to advise you he had received the money (which would have been enough) has got a bill for it, and sent it rambling to the furthest part
+<pb n="57" facs="58"/>
+of France after me, and if it had not caught me just now it might have fol<lb rend="hidden" type="hyphenInWord"/>lowed me into Spain, for I shall cross the Pyreneans, and spend a week in that kingdom, which is enough for a fertile brain to write a volume upon.—When I write the history of my travels—Memorandum! I am not to forget how honest a man I have for a banker at Paris.—But, my dear friend, when you say you dare trust me for what little occasions I may have, you have as much faith as ho<lb rend="hidden" type="hyphenInWord"/>nesty—and more of both than of good policy.—I thank you however ten thousand times—and except such liberty as I have lately taken with you—and that too at a pinch—I say
+<pb n="58" facs="59"/>
+beyond that I will not trespass upon your good nature, or friendliness to serve me.—God bless you, dear F—</p>
+               <closer>
+                  <signed>I am yours whilst, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="41" type="letter">
+               <pb n="59" facs="60"/>
+               <head>LETTER XLI. To the same.</head>
+               <opener>
+                  <dateline>Montpellier, <date>Oct. 5, 1763.</date>
+                  </dateline>
+                  <salute>Dear F.</salute>
+               </opener>
+               <p>I Am ashamed I have not taken an opportunity of thanking you before now, for your friendly act of civility, in ordering Brousse, your correspon<lb rend="hidden" type="hyphenInWord"/>dent at Toulouse, in case I should have occasion, to pay me fifteen hun<lb rend="hidden" type="hyphenInWord"/>dred livres—which as I knew the offer came from your heart I made no dif<lb rend="hidden" type="hyphenInWord"/>ficulty of accepting.—In my way thro' Toulouse to Marseilles, where
+<pb n="60" facs="61"/>
+we have been, but neither liking the place nor Aix (particularly the latter, it being a parliament town, of which Toulouse has given me a surfeit) we have returned here, where we shall reside the winter—My wife and daugh<lb rend="hidden" type="hyphenInWord"/>ter purpose to stay a year at least be<lb rend="hidden" type="hyphenInWord"/>hind me—and when winter is over, to return to Toulouse, or go to Mon<lb rend="hidden" type="hyphenInWord"/>taubon, where they will stay till they return, or I fetch them—For myself I shall set out in February for Eng<lb rend="hidden" type="hyphenInWord"/>land, where my heart has been fled these six months—but I shall stay a fortnight with my friends at Paris; tho' I verily believe, if it was not for the pleasure of seeing and chattering with you, I should pass on directly
+<pb n="61" facs="62"/>
+to Brussels, and so on to Rotterdam, for the sake of seeing Holland, and embark from thence to London—But I must stay a little with those I love and have so many reasons to re<lb rend="hidden" type="hyphenInWord"/>gard—you cannot place too much of this to your own score.—I have had an offer of going to Italy a fortnight ago—but I must like my subject as well as the terms, neither of which were to my mind.—Pray what English have you at Paris? where is my young friend Mr. F—? We hear of three or four English families coming to us here—If I can be serviceable to any you would serve, you have but to write.—Mr. H... has sent my friend W—'s picture—You have seen the
+<pb n="62" facs="63"/>
+original, or I would have sent it you—I believe I shall beg leave to get a copy of my own from yours, when I come in <hi>propria persona</hi>—till when, God bless you my dear friend, and believe me,</p>
+               <closer>
+                  <signed>Most faithfully yours, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="42" type="letter">
+               <pb n="63" facs="64"/>
+               <head>LETTER XLII. To the same.</head>
+               <opener>
+                  <dateline>Montpellier, <date>Jan. 5, 1764.</date>
+                  </dateline>
+                  <salute>My dear Friend,</salute>
+               </opener>
+               <p>YOU see I cannot pass over the fifth of the month without thinking of you, and writing to you—The last is a periodical habit—the first is from my heart, and I do it oftner than I remember—however, from both mo<lb rend="hidden" type="hyphenInWord"/>tives together I maintain I have a right to the pleasure of a single line—be it only to tell me how your watch goes—You know how much happier
+<pb n="64" facs="65"/>
+it would make me to know that all things belonging to you went on well.—You are going to have them all to yourself (I hear) and that Mr. S— is true to his first intention of leaving business—I hope this will enable you to accomplish yours in a shorter time, that you may get to your long wished for retreat of tranquillity and silence—When you have got to your fire<lb rend="hidden" type="hyphenInWord"/>side, and into your arm-chair (and by the by, have another to spare for a friend) and are so much a sovereign as to sit in your furr'd cap (if you like it, tho' I should not, for a man's ideas are at least the cleaner for being dress'd decently) why then it will be a miracle if I do not glide in like a
+<pb n="65" facs="66"/>
+ghost upon you—and in a very un<lb rend="hidden" type="hyphenInWord"/>ghost-like fashion help you off with a bottle of your best wine.</p>
+               <p>January 15.—It does not happen every day that a letter begun in the most perfect health, should be con<lb rend="hidden" type="hyphenInWord"/>cluded in the greatest weakness—I wish the vulgar high and low do not say it was a judgement upon me for taking all this liberty with <hi>ghosts</hi>—Be it as it may—I took a ride when the first part of this was wrote to<lb rend="hidden" type="hyphenInWord"/>wards Perenas—and returned home in a shivering fit, tho' I ought to have been in a fever, for I had tired my beast; and he was as unmoveable as Don Quixote's wooden horse, and my
+<pb n="66" facs="67"/>
+arm was half dislocated in whipping him—This quoth I is inhuman—No, says a peasant on foot behind me, I'll drive him home—so he laid on his posteriors, but 'twas needless—as his face was turn'd towards Montpellier he began to trot.—But to return, this fever has confined me ten days in my bed—I have suffered in this scuffle with death terribly—but unless the spirit of prophecy deceive me—I shall not die but live—in the mean time dear F. let us live as merrily but <hi>as innocently</hi> as we can.—It has ever been as good, if not better, than a bishoprick to me—and <hi>I desire no other</hi>—Adieu my dear friend and be<lb rend="hidden" type="hyphenInWord"/>lieve me yours,</p>
+               <closer>
+                  <signed>L. S.</signed>
+                  <postscript>
+                     <pb n="67" facs="68"/>
+                     <p>Please to give the inclosed to Mr. T.—and tell him I thank him cordially from my heart for his great <hi>good<lb rend="hidden" type="hyphenInWord"/>will.</hi>
+                     </p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="43" type="letter">
+               <pb n="68" facs="69"/>
+               <head>LETTER XLIII. To the same.</head>
+               <opener>
+                  <dateline>Montpellier, <date>Jan. 20.</date>
+                  </dateline>
+                  <salute>My dear Friend,</salute>
+               </opener>
+               <p>HEARING by Lord R. who in passing thro' here in his way to Madrid has given me a call, that my worthy friend Mr. Fox was now at Paris—I have inclosed a letter to him, which you will present in course or direct to him.—I suppose you are full of Eng<lb rend="hidden" type="hyphenInWord"/>lish—but in short we are here as if in another world, where unless some stray'd soul arrives, we know nothing
+<pb n="69" facs="70"/>
+of what is going on in yours.—Lord G.......r I suppose is gone from Paris, or I had wrote also to him. I know you are as busy as a bee, and have few moments to yourself—nevertheless bestow one of them upon an old friend and write me a line—and if Mr. F. is too idle and has ought to say to me, pray write a second line for him.—We had a letter from Miss P— this week, who it seems has decamp'd for ever from Paris—<hi>All is for the best</hi>—which is my general re<lb rend="hidden" type="hyphenInWord"/>flection upon many things in this world.—Well! I shall shortly come and shake you by the hand in St. Sauveur—if still you are there.—My wife re<lb rend="hidden" type="hyphenInWord"/>turns to Toulouse and purposes to
+<pb n="70" facs="71"/>
+spend the summer at Bagnieres—I on the contrary go and visit my wife the church in Yorkshire.—We all live the longer—at least the hap<lb rend="hidden" type="hyphenInWord"/>pier—for having things our own way.—This is my conjugal maxim—I own 'tis not the best of maxims—but I maintain 'tis not the worst. Adieu dear F— and believe me,</p>
+               <closer>
+                  <signed>Yours with truth, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="44" type="letter">
+               <pb n="71" facs="72"/>
+               <head>LETTER XLIV. To Mrs. F.</head>
+               <opener>
+                  <dateline>Montpellier, <date>Feb. 1, 1764.</date>
+                  </dateline>
+               </opener>
+               <p>I AM preparing, my dear Mrs. F. to leave France, for I am heartily tired of it—That insipidity there is in French characters has disgusted your friend Yorick.—I have been dangerously ill, and cannot think that the sharp air of Montpellier has been of service to me—and so my physi<lb rend="hidden" type="hyphenInWord"/>cians told me when they had me un<lb rend="hidden" type="hyphenInWord"/>der their hands for above a month—if you stay any longer here, Sir, it
+<pb n="72" facs="73"/>
+will be fatal to you—And why good people were you not kind enough to tell me this sooner?—After having dis<lb rend="hidden" type="hyphenInWord"/>charged them, I told Mrs. S. that I should set out for England very soon, but as she chuses to remain in France for two or three years, I have no ob<lb rend="hidden" type="hyphenInWord"/>jection, except that I wish my girl in England.—The states of Langue<lb rend="hidden" type="hyphenInWord"/>doc are met—'tis a fine raree-shew, with the usual accompanyments of fiddles, bears, and puppet-shews.—I believe I shall step into my post-chaise with more alacrity to fly from these sights, than a Frenchman would to fly to them—and except a tear at parting with my little slut, I shall be in high spirits, and every step I take
+<pb n="73" facs="74"/>
+that brings me nearer England, will I think help to set this poor frame to rights. Now pray write to me di<lb rend="hidden" type="hyphenInWord"/>rected to Mr. F. at Paris, and tell me what I am to bring you over.—How do I long to greet all my friends! few do I value more than yourself.—My wife chuses to go to Montauban, rather than stay here, in which I am truely passive.—If this should not find you at Bath, I hope it will be forwarded to you, as I wish to fulfill your commissions—and so adieu—Ac<lb rend="hidden" type="hyphenInWord"/>cept every warm wish for your health, and believe me ever yours,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+                  <postscript>
+                     <pb n="74" facs="75"/>
+                     <p>
+                        <hi>P.S.</hi> My physicians have al<lb rend="hidden" type="hyphenInWord"/>most poisoned me with what they call <hi>bouillons refraichissants</hi>—'tis a cock flead alive and boiled with poppy seeds, then pounded in a mortar, af<lb rend="hidden" type="hyphenInWord"/>terwards pass'd thro' a sieve—There is to be one crawfish in it, and I was gravely told it must be a male one—a female would do me more hurt than good.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="45" type="letter">
+               <pb n="75" facs="76"/>
+               <head>LETTER XLV. To Miss S.</head>
+               <opener>
+                  <dateline>Paris, <date>May l5, 1764.</date>
+                  </dateline>
+                  <salute>My dear Lydia,</salute>
+               </opener>
+               <p>BY this time I suppose your mo<lb rend="hidden" type="hyphenInWord"/>ther and self are fixed at Montauban, and I therefore direct to your banker, to be delivered to you.—I acquiesced in your staying in France—likewise it was your mother's wish—but I must tell you both (that unless your health had not been a plea made use of) I should have wished you both to re<lb rend="hidden" type="hyphenInWord"/>turn with me.—I have sent you the
+<pb n="76" facs="77"/>
+Spectators, and other books, particu<lb rend="hidden" type="hyphenInWord"/>larly Metastasio; but I beg my girl to read the former, and only make the lat<lb rend="hidden" type="hyphenInWord"/>ter her amusement.—I hope you have not forgot my last request, to make no friendships with the French-women—not that I think ill of them all, but sometimes women of the best princi<lb rend="hidden" type="hyphenInWord"/>ples are the most <hi>insinuating</hi>—nay I am so jealous of you that I should be miserable were I to see you had the least grain of coquettry in your com<lb rend="hidden" type="hyphenInWord"/>position.—You have enough to do—for I have also sent you a guittar—and as you have no genius for drawing, (tho' you never could be made to believe it) pray waste not your time about it—Remember to write to me as to a
+<pb n="77" facs="78"/>
+friend—in short whatever comes into your little head, and then it will be natural.—If your mother's rheuma<lb rend="hidden" type="hyphenInWord"/>tism continues and she chooses to go to Bagnieres—tell her not to be stopped for want of money, for my purse shall be as open as my heart. I have preached at the ambassador's chapel—Hezekiah—(an odd subject your mother will say) There was a concourse of all nations, and reli<lb rend="hidden" type="hyphenInWord"/>gions too.—I shall leave Paris in a few days—I am lodged in the same hotel with Mr. T.... they are good and generous souls—Tell your mother that I hope she will write to me, and that when she does so, I may also receive a letter from my Lydia.</p>
+               <p>
+                  <pb n="78" facs="79"/>Kiss your mother from me, and believe me,</p>
+               <closer>
+                  <signed>Your affectionate, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="46" type="letter">
+               <pb n="79" facs="80"/>
+               <head>LETTER XLVI.</head>
+               <opener>
+                  <dateline>York, <date>August 6, 1764.</date>
+                  </dateline>
+                  <salute>My dear F—,</salute>
+               </opener>
+               <p>THERE is a young lady with whom I have sent a letter to you, who will arrive at Paris in her way to Italy—her name is Miss Tuting; a lady known and loved by the whole kingdom—if you can be of any aid to her in your advice, &amp;c. as to her journey, &amp;c. your good nature and politeness, I am sure need no spur from me to do it. I was sorry we were like the two buckets of a well,
+<pb n="80" facs="81"/>
+whilst in London, for we were never able to be both resident together the month I continued in and about the environs.—If I get a cough this winter which holds me three days, you will certainly see me at Paris the week following, for now I abandon every thing in this world to health and to my friends—for the last ser<lb rend="hidden" type="hyphenInWord"/>mon that I shall ever preach, was preach'd at Paris—so I am altogether an idle man, or rather a free one, which is better. I sent, last post, twenty pounds to Mrs. S. which makes a hundred pounds remitted, since I got here—You must pay yourself what I owe you out of it—and place
+<pb n="81" facs="82"/>
+the rest to account.—Betwixt this and Lady-day next, Mrs. S. will draw from time to time upon you to about the amount of a hundred louis—but not more—(I think) I having left her a hundred in her pocket.—But you shall always have money be<lb rend="hidden" type="hyphenInWord"/>forehand of mine—and she pur<lb rend="hidden" type="hyphenInWord"/>poses to spend no further than five thousand livres in the year—but twenty pound, this way or that, makes no difference between us—Give my kindest compliments to Mr. P—. I have a thousand things to say to you, and would go half way to Paris to tell them you in your ear.—The Messrs. T—, H—, &amp;c. and many more of
+<pb n="82" facs="83"/>
+your friends with whom I am now, send their services—Mine to all friends—Yours, dear F. most truly,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="47" type="letter">
+               <pb n="83" facs="84"/>
+               <head>LETTER XLVII. To J. H. S. Esq.</head>
+               <opener>
+                  <dateline>
+                     <date>September 4, 1764.</date>
+                  </dateline>
+               </opener>
+               <p>NOW, my dear, dear Anthony—I do not think a week or ten days playing the good follow (at this very time) at Scarborough so abominable a thing—but if a man could get there cleverly, and every soul in his house in the mind to try what could be done in furtherance thereof, I have no one to consult in this affair—therefore as a man may do worse things, the Eng<lb rend="hidden" type="hyphenInWord"/>lish of all which is this, that I am
+<pb n="84" facs="85"/>
+going to leave a few poor sheep here in the wilderness for fourteen days—and from pride and naughtiness of heart to go see what is doing at Scar<lb rend="hidden" type="hyphenInWord"/>borough—stedfastly meaning after<lb rend="hidden" type="hyphenInWord"/>wards to lead a new life and strengthen my faith.—Now some folks say there is much company there—and some fay not—and I believe there is nei<lb rend="hidden" type="hyphenInWord"/>ther the one or the other—but will be both, if the world will have but a month's patience or so.—No, my dear H... I did not delay sending your letter directly to the post—As there are critical times or rather turns and revolutions in *** humours, I knew not what the delay of an hour might hazard—I will answer
+<pb n="85" facs="86"/>
+for him, he has seventy times seven forgiven you—and as often wish'd you at the d—l.—After many os<lb rend="hidden" type="hyphenInWord"/>cillations the pendulum will rest firm as ever.—</p>
+               <p>I send all kind compliments to Sir C... D.... and G—s —I love them from my soul—If G.....t is with you, him also.—I go on, not rapidly, but well enough with my uncle To<lb rend="hidden" type="hyphenInWord"/>by's amours—There is no sitting, and cudgeling ones brains whilst the sun shines bright—'twill be all over in six or seven weeks, and there are dis<lb rend="hidden" type="hyphenInWord"/>mal months enow after to endure suf<lb rend="hidden" type="hyphenInWord"/>focation by a brimstone fire-side.—If you can get to Scarborough, do.—
+<pb n="86" facs="87"/>
+A man who makes six tons of alum a week, may do any thing—Lord G—y is to be there—what a temp<lb rend="hidden" type="hyphenInWord"/>tation!</p>
+               <closer>
+                  <signed>Yours affectionately, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="48" type="letter">
+               <pb n="87" facs="88"/>
+               <head>LETTER XLVIII. To Mr. F. at Paris.</head>
+               <opener>
+                  <dateline>York, <date>September 29, 1764.</date>
+                  </dateline>
+                  <salute>My dear Friend,</salute>
+               </opener>
+               <p>I Have just had the honour of a letter from Miss T—, full of the ac<lb rend="hidden" type="hyphenInWord"/>knowledgments of your attention and kind services to her; I will not believe these arose from the D. of A....'s letters, nor mine. Surely <hi>she needed no</hi> recommendation—the truest and most honest compliment I can pay you, is to say they came from your own good heart, only you was intro<lb rend="hidden" type="hyphenInWord"/>duced
+<pb n="88" facs="89"/>
+to the object—for the rest fol<lb rend="hidden" type="hyphenInWord"/>low'd in course—However let me cast in my mite of thanks to the trea<lb rend="hidden" type="hyphenInWord"/>sury which belongs to good natured actions. I have been with Lord G—y these three weeks at Scarborough—the pleasures of which I found some<lb rend="hidden" type="hyphenInWord"/>what more exalted than those of Bag<lb rend="hidden" type="hyphenInWord"/>nieres last year—I am now returned to my Philosophical Hut to finish Tristram, which I calculate will be ready for the world about Christmas, at which time I decamp from hence, and fix my head quarters at London for the winter—unless my cough pushes me forwards to your Metro<lb rend="hidden" type="hyphenInWord"/>polis—or that I can persuade some <hi>gros</hi> my Lord to take a trip to you—
+<pb n="89" facs="90"/>
+I'll try if I can make him relish the joys of the <hi>Tuileries, Opera Comique,</hi> &amp;c.</p>
+               <p>I had this week a letter from Mrs. S— from Montauban, in which she tells me she has occasion for fifty pounds immediately—Will you send an order to your correspondent at Montauban to pay her so much cash—and I will in three weeks send as much to Becket—But as her purse is low, for God's sake write directly.—Now you must do something e<lb rend="hidden" type="hyphenInWord"/>qually essential—to rectify a mistake in the mind of your correspondent there, who it seems gave her a hint not long ago, <q rend="inline">"<hi>that she was sepa<lb rend="hidden" type="hyphenInWord"/>rated</hi>
+                     <pb n="90" facs="91"/>
+                     <hi>from me for life.</hi>
+                  </q>—Now as this is not true in the first place, and may give a disadvantageous impression of her to those she lives amongst—'twould be unmerciful to let her, or my daughter, suffer by it; so do be so good as to undeceive him—for in a year or two she proposes (and in<lb rend="hidden" type="hyphenInWord"/>deed I expect it with impatience from her) to rejoin me—and tell them I have all the confidence in the world she will not spend more than I can afford, and I only mention'd two hun<lb rend="hidden" type="hyphenInWord"/>dred guineas a year—because 'twas right to name some certain sum, for which I beg'd you to give her cre<lb rend="hidden" type="hyphenInWord"/>dit.—I write to you of all my most intimate concerns, as to a brother,
+<pb n="91" facs="92"/>
+so excuse me dear F—. God bless you—Believe me,</p>
+               <closer>
+                  <signed>Yours affectionately, L. STERNE.</signed>
+                  <postscript>
+                     <p>Compliments to Mr. Panchaud, D'Holbach, &amp;c.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="49" type="letter">
+               <pb n="92" facs="93"/>
+               <head>LETTER XLIX. To J. H. S. Esq.</head>
+               <opener>
+                  <dateline>Coxwould, <date>— Thursday.</date>
+                  </dateline>
+                  <salute>My dear Cousin,</salute>
+               </opener>
+               <p>I Am but this moment return'd from Scarborough, where I have been drinking the waters ever since the races, and have received marvellous strength, had I not debilitated it as fast as I got it, by playing the good fellow with Lord G—y and Co. too much. I rejoice you have been encamp'd at Harrowgate, from which, by now, I suppose you are decamp'd
+<pb n="93" facs="94"/>
+—otherwise as idle a beast as I have been, I would have sacrificed a few days to the god of laughter with you and your jolly set.—I have done no<lb rend="hidden" type="hyphenInWord"/>thing good that I know of, since I left you, except paying off your gui<lb rend="hidden" type="hyphenInWord"/>nea and a half to K—, in my way thro' York hither—I must try now and do better—Go on, and prosper for a month,</p>
+               <closer>
+                  <signed>Your affectionate L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="50" type="letter">
+               <pb n="94" facs="95"/>
+               <head>LETTER L. To Mr. F. at Paris.</head>
+               <opener>
+                  <dateline>York, <date>November 11, 1764.</date>
+                  </dateline>
+                  <salute>My dear Friend,</salute>
+               </opener>
+               <p>I Sent ten days ago, a bank bill of thirty pounds to Mr. Becket, and this post one of sixty—When I get to Lon<lb rend="hidden" type="hyphenInWord"/>don, which will be in five weeks, you will receive what shall always keep you in bank for Mrs. S—; in the mean time I have desired Becket to send you fourscore pounds, and if my wife, before I get to London, should have occasion for fifty louis let her
+<pb n="95" facs="96"/>
+not wait a minute, and if I have not paid it, a week or a fortnight I know will break no squares with a good and worthy friend.—I will contrive to send you these two new volumes of Tristram, as soon as ever I get them from the press.—You will read as odd a tour thro' France as ever was projected or executed by traveller, or travel-writers since the world be<lb rend="hidden" type="hyphenInWord"/>gan—'Tis a laughing good temper'd satyr against travelling (as <hi>puppies</hi> tra<lb rend="hidden" type="hyphenInWord"/>vel) Panchaud will enjoy it—I am quite civil to your Parisians—<hi>et pour cause</hi> you know—'tis likely I may see them in spring—Is it possible for you to get me over a copy of my picture any how? If so I would write to Ma<lb rend="hidden" type="hyphenInWord"/>demoiselle
+<pb n="96" facs="97"/>
+N— to make as good a copy from it as she possibly could—with a view to do her service here—and I would remit her the price—I really believe it would be the parent of a dozen portraits to her, if she executes it with the spi<lb rend="hidden" type="hyphenInWord"/>rit of the original in your hands—for it will be seen by many—and as my phiz is as remarkable as my<lb rend="hidden" type="hyphenInWord"/>self, if she preserves the true cha<lb rend="hidden" type="hyphenInWord"/>racter of both, it will do her ho<lb rend="hidden" type="hyphenInWord"/>nour and service too.—Write me a line about this, and tell me you are well and happy—Will you pre<lb rend="hidden" type="hyphenInWord"/>sent my kind respects to the worthy Baron—I shall send him one of the best impressions of my picture from
+<pb n="97" facs="98"/>
+Mr. Reynolds's—another to Monsieur P—. My love to Mr. S—n and P—d.</p>
+               <closer>
+                  <signed>I am most truly yours, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="51" type="letter">
+               <pb n="98" facs="99"/>
+               <head>LETTER LI. To J. H. S. Esq.</head>
+               <opener>
+                  <dateline>
+                     <date>November 13, 1764.</date>
+                  </dateline>
+                  <salute>My dear Cousin,</salute>
+               </opener>
+               <p>'TIS a church militant week with me, full of marches, and coun<lb rend="hidden" type="hyphenInWord"/>termarches—and treaties about Stil<lb rend="hidden" type="hyphenInWord"/>lington common, which we are going to inclose—otherwise I would have obey'd your summons—and yet I could not well have done it this week neither, having receiv'd a letter from C—, who has been very ill; and is coming down to stay a week or ten
+<pb n="99" facs="100"/>
+days with me.—Now I know he is am<lb rend="hidden" type="hyphenInWord"/>bitious of being better acquainted with you; and longs from his soul for a sight of you in your own castle.—I cannot do otherwise, than bring him with me—nor can I gallop away and leave him an empty house to pay a visit to from London, as he comes half express to see me.—I thank you for the care of my northern vintage—I fear after all I must give it a fer<lb rend="hidden" type="hyphenInWord"/>mentation on the other side of the Alps, which is better than being on the lees with it—but <hi>nous verrons</hi>—yet I fear as it has got such hold of my brain and comes upon it like an armed man at nights—I must give way for quietness sake, or be hag-ridden with
+<pb n="100" facs="101"/>
+the conceit of it all my life long.—I have been <hi>Miss-ridden</hi> this last week by a couple of romping girls <hi>(bien mises et comme il faut)</hi> who might as well have been in the house with me, (tho' perhaps not, my retreat here is too quiet for them) but they have taken up all my time, and have given my judgment and fancy more airings than they wanted.—These things ac<lb rend="hidden" type="hyphenInWord"/>cord not well with sermon making—but 'tis my vile errantry, as Sancho says, and that is all that can be made of it.—I trust all goes swimmingly on with your alum; that the works amuse you, and call you twice out (at least) a day.—I shall see them I trust in ten days, or thereabout—If
+<pb n="101" facs="102"/>
+it was any way possible, I would set out this moment, tho' I have no cavalry—(<hi>except a she ass</hi>) Give all friendly respects to Mrs. C. and to Col. H...'s and the garrison, both of Guisbro and Skelton.—I am, dear Anthony, affectionately</p>
+               <closer>
+                  <signed>Yours, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="52" type="letter">
+               <pb n="102" facs="103"/>
+               <head>LETTER LII. To Mr. F. at P.</head>
+               <opener>
+                  <dateline>York, <date>November 16, 1764.</date>
+                  </dateline>
+                  <salute>My dear Friend,</salute>
+               </opener>
+               <p>THREE posts before I had the favour of yours (which is come to hand this moment) I had wrote to set Mrs. S. right in her mistake—That you had any money of mine in your hands—being very sensible that the hundred pounds I had sent you, thro' Becket's hands, was but about what would balance with you—The rea<lb rend="hidden" type="hyphenInWord"/>son of her error was owing to my writ<lb rend="hidden" type="hyphenInWord"/>ing her word, I would send you a
+<pb n="103" facs="104"/>
+bill in a post or two for fifty pounds—which, my finances falling short just then, I deferr'd—so that I had paid nothing to any one—but was however come to York this day, and I have sent you a draught for a hun<lb rend="hidden" type="hyphenInWord"/>dred pounds—in honest truth a fort<lb rend="hidden" type="hyphenInWord"/>night ago I had not the cash—but I am as honest as the king (as Sancho Pança says) <hi>only not so rich.</hi>
+               </p>
+               <p>Therefore if Mrs. S. should want thirty louis more, let her have them—and I will balance all (which will not be much) with honour at Christmas, when I shall be in London, having now just finish'd my two volumes of Tristram.—I have some thoughts of
+<pb n="104" facs="105"/>
+going to Italy this year—at least I shall not defer it above another.—I have been with Lord Granby, and with Lord Shelburne, but am now sat down till December in my sweet retirement—I wish you was sat down as happily, and as free of all worldly cares.—In a few years, my dear F. I hope to see you a real country gentleman, tho' not altoge<lb rend="hidden" type="hyphenInWord"/>ther exiled from your friends in Lon<lb rend="hidden" type="hyphenInWord"/>don—there I shall spend every winter of my life, in the same lap of con<lb rend="hidden" type="hyphenInWord"/>tentment, where I enjoy myself now—and wherever I go—we must bring three parts in four of the treat along with us—In short we must be happy within—and then few things
+<pb n="105" facs="106"/>
+without us make much difference—This is my Shandean philosophy.—You will read a comic account of my journey from Calais thro' Paris to the Garonne, in these volumes—my friends tell me they are done with spirit—it must speak for itself—Give my kind respects to Mr. Selwin and my friend Panchaud—When you see Baron d'Holbach, present him my respects, and believe me, dear F.</p>
+               <closer>
+                  <signed>Your's cordially, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="53" type="letter">
+               <pb n="106" facs="107"/>
+               <head>LETTER LIII. To D. G. Esq.</head>
+               <opener>
+                  <dateline>London, <date>March 16, 1765.</date>
+                  </dateline>
+                  <salute>Dear G.</salute>
+               </opener>
+               <p>I Threatened you with a letter in one I wrote a few weeks ago to Foley, but (to my shame be it spoken) I lead such a life of dissipation I have never had a moment to myself which has not been broke in upon, by one engagement or impertinence or another—and as plots thicken to<lb rend="hidden" type="hyphenInWord"/>wards the latter end of a piece, I find, unless I take pen and ink just now, I shall not be able to do it,
+<pb n="107" facs="108"/>
+till either I am got into the country, or you to the city. You are teized and tormented too much by your cor<lb rend="hidden" type="hyphenInWord"/>respondents, to return to us, and with accounts how much your friends, and how much your Theatre wants you—so that I will not magnify ei<lb rend="hidden" type="hyphenInWord"/>ther our loss or yours—but hope cor<lb rend="hidden" type="hyphenInWord"/>dially to see you soon.—Since I wrote last I have frequently stept into your house—that is, as frequently as I could take the whole party, where I dined, along with me—This was but justice to you, as I walk'd in as a wit—but with regard to myself, I balanced the account thus—I am sometimes in my friend —'s house, but he is always in Tristram Shandy's—where my
+<pb n="108" facs="109"/>
+friends say he will continue (and I hope the prophecy true for my own immortality) even when he himself is no more.</p>
+               <p>I have had a lucrative winter's campaign here—Shandy sells well—I am taxing the publick with two more volumes of sermons, which will more than double the gains of Shan<lb rend="hidden" type="hyphenInWord"/>dy—It goes into the world with a prancing list of <hi>de toute la noblesse</hi>—which will bring me in three hundred pounds, exclusive of the sale of the copy—so that with all the contempt of money which <hi>ma façon de penser</hi> has ever impress'd on me, I shall be rich in spite of myself: but I scorn you
+<pb n="109" facs="110"/>
+must know, in the high <hi>ton</hi> I take at present, to pocket all this trash—I set out to lay a portion of it in the service of the world, in a tour round Italy, where I shall spring game, or the duce is in the dice.—In the begin<lb rend="hidden" type="hyphenInWord"/>ning of September I quit England, that I may avail myself of the time of vintage, when all nature is joyous, and so saunter philosophically for a year or so, on the other side the Alps.—I hope your pilgrimages have brought Mrs. G. and yourself back <hi>à la fleur de jeunesse</hi>—May you both long feel the sweets of it, and your friends with you.—Do, dear friend, make my kindest wishes and compli<lb rend="hidden" type="hyphenInWord"/>ments acceptable to the best and wisest
+<pb n="110" facs="111"/>
+of the daughters of Eve—You shall ever believe and ever find me affec<lb rend="hidden" type="hyphenInWord"/>tionately yours,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="54" type="letter">
+               <pb n="111" facs="112"/>
+               <head>LETTER LIV. To D. G. Esq.</head>
+               <opener>
+                  <dateline>Bath, <date>April 6, 1765.</date>
+                  </dateline>
+               </opener>
+               <p>I Scalp you!—my dear G—! my dear friend!—foul befal the man who hurts a hair of your head!—and so full was I of that very sentiment, that my letter had not been put into the post-office ten minutes, before my heart smote me; and I sent to recall it—but failed—You are sadly to blame, Shandy! for this, quoth I, leaning with my head on my hand, as I re<lb rend="hidden" type="hyphenInWord"/>criminated upon my false delicacy in
+<pb n="112" facs="113"/>
+the affair—G—'s nerves (if he has any left) are as fine and delicately spun, as thy own—his sentiments as honest and friendly—thou knowest, Shandy, that he loves thee—why wilt thou ha<lb rend="hidden" type="hyphenInWord"/>zard him a moment's pain? Puppy! fool, coxcomb, jack-ass, &amp;c. &amp;c.—and so I balanced the account to your favour, before I received it drawn up in <hi>your way</hi>—I say <hi>your way</hi>—for it is not stated so much to your honour and credit, as I had passed the account before—for it was a most la<lb rend="hidden" type="hyphenInWord"/>mented truth, that I never received one of the letters your friendship meant me, except whilst in Paris.—O! how I congratulate you for the anxiety the world has and continues
+<pb n="113" facs="114"/>
+to be under, for your return.—Re<lb rend="hidden" type="hyphenInWord"/>turn, return to the few who love you and the thousands who admire you.—The moment you set your foot upon your stage—mark! I tell it you—by some magic, irresisted power, every fibre about your heart will vibrate afresh, and as strong and feelingly as ever—Nature, with glory at her back, will light up the torch within you—and there is enough of it left, to heat and enlighten the world these many, many, many years.</p>
+               <p>Heaven be praised! (I utter it from my soul) that your lady, and my Mi<lb rend="hidden" type="hyphenInWord"/>nerva, is in a condition to walk to Windsor—full rapturously will I lead
+<pb n="114" facs="115"/>
+the graceful pilgrim to the temple, where I will sacrifice with the purest incense to her—but you may worship with me, or not—'twill make no dif<lb rend="hidden" type="hyphenInWord"/>ference either in the truth or warmth of my devotion—still (after all I have seen) I still maintain her peerless.</p>
+               <p>P—! good Heav'n!—give me some one with less smoke and more fire—There are who, like the Pharisees, still think they shall be heard for <hi>much</hi> speaking—Come—come away my dear G— and teach us another lesson.</p>
+               <p>Adieu!—I love you dearly—and your lady better—not hobbihorsically—but most sentimentally and affec<lb rend="hidden" type="hyphenInWord"/>tionately<pb n="115" facs="116"/>
+—for
+I am yours (that is if you never say another word about—) with all the sentiments of love and friendship you deserve from me,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="55" type="letter">
+               <pb n="116" facs="117"/>
+               <head>LETTER LV.</head>
+               <opener>
+                  <dateline>Bath, <date>April 15, 1765.</date>
+                  </dateline>
+                  <salute>My dear F.</salute>
+               </opener>
+               <p>MY wife tells me she has drawn for one hundred pounds, and 'tis fit that you should be paid it that mi<lb rend="hidden" type="hyphenInWord"/>nute—the money is now in Becket's hands—send me, my dear F— my account, that I may discharge the balance to this time, and know what to leave in your hands.—I have made a good campaign of it this year in the field of the literati—
+<pb n="117" facs="118"/>
+my two volumes of Tristram, and two of sermons, which I shall print very soon, will bring me a considerable sum.—Almost all the nobility in Eng<lb rend="hidden" type="hyphenInWord"/>land honour me with their names, and 'tis thought it will be the largest, and most splendid list which ever pranced before a book, since subscriptions came into fashion.—Pray present my most sincere compliments to lady H—whose name I hope to insert with many others.—As so many men of genius favour me with their names also, I will quarrel with Mr. H—e, and call him deist, and what not, un<lb rend="hidden" type="hyphenInWord"/>less I have his name too.—My love to Lord W.—Your name, F. I have put in as a free-will offering of my
+<pb n="118" facs="119"/>
+labours—your list of subscribers you will send—'tis but a crown for sixteen sermons—Dog cheap! but I am in quest of honour, not money.—Adieu, adieu,—believe me, dear F.</p>
+               <closer>
+                  <signed>Yours truly, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="56" type="letter">
+               <pb n="119" facs="120"/>
+               <head>LETTER LVI. To Mr. W.</head>
+               <opener>
+                  <dateline>Coxwould, <date>May 23, 1765.</date>
+                  </dateline>
+               </opener>
+               <p>AT this moment am I sitting in my summer house with my head and heart full, not of my uncle Toby's amours with the widow Wadman, but my sermons—and your letter has drawn me out of a pensive mood—the spirit of it <hi>pleaseth me</hi>—but in this solitude, what can I tell or write to you but about myself—I am glad that you are in love—'twill cure you (at least) of the spleen, which has a bad
+<pb n="120" facs="121"/>
+effect on both man and woman—I my<lb rend="hidden" type="hyphenInWord"/>self must ever have some dulcinea in my head—it harmonises the soul—and in those cases I first endeavour to make the lady believe so, or rather I begin first to make myself believe that I am in love—but I carry on my affairs quite in the French way, sentimentally—<q rend="inline">"<hi>l'amour</hi>" (say they) "<hi>n'est rien sans sentiment</hi>"</q>—Now notwithstanding they make such a pother about the <hi>word,</hi> they have no precise idea annex'd to it—And so much for that same subject called love—I must tell you how I have just treated a French gentleman of for<lb rend="hidden" type="hyphenInWord"/>tune in France, who took a liking to my daughter—Without any ceremony
+<pb n="121" facs="122"/>
+(having got my direction from my wife's banker) he wrote me word that he was in love with my daugh<lb rend="hidden" type="hyphenInWord"/>ter, and desired to know what <hi>fortune</hi> I would give her at present, and how much at my <hi>death</hi>—by the bye, I think there was very little <hi>sen<lb rend="hidden" type="hyphenInWord"/>timent</hi> on <hi>his side</hi>—My answer was <q rend="inline">"Sir, I shall give her ten thousand pounds the day of marriage—my calculation is as follows—she is not eighteen, you are sixty-two—there goes five thousand pounds—then Sir, you at least think her not ugly—she has many accomplishments, speaks Italian, French, plays upon the guit<lb rend="hidden" type="hyphenInWord"/>tar, and as I fear you play upon no instrument whatever, I think you
+<pb n="122" facs="123"/>
+will be happy to take her at my terms, for here finishes the account of the ten thousand pounds"</q>—I do not sup<lb rend="hidden" type="hyphenInWord"/>pose but he will take this as I mean, that is—a flat refusal.—I have had a parsonage house burnt down by the carelessness of my curate's wife—as soon as I can I must rebuild it, I trow—but I lack the means at present—yet I am never happier than when I have not a shilling in my pocket—for when I have I can never call it my own. Adieu my dear friend—may you enjoy better health than me, tho' not better spirits, for that is im<lb rend="hidden" type="hyphenInWord"/>possible.</p>
+               <closer>
+                  <signed>Yours sincerely, L. STERNE.</signed>
+                  <postscript>
+                     <p>My compliments to the Col.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="57" type="letter">
+               <pb n="123" facs="124"/>
+               <head>LETTER LVII. To Mr. F. at Paris.</head>
+               <opener>
+                  <dateline>York, <date>July 13, 1765.</date>
+                  </dateline>
+                  <salute>My dear Sir,</salute>
+               </opener>
+               <p>I Wrote some time in spring, to beg you would favour me with my ac<lb rend="hidden" type="hyphenInWord"/>count. I believe you was set out from Paris, and that Mr. Garrick brought the letter with him—which possibly he gave you. In the hurry of your business you might forget the contents of it; and in the hurry of mine in town (though I called once) I could not get to see you. I decamp for
+<pb n="124" facs="125"/>
+Italy in September, and shall see your face at Paris, you may be sure—but I shall see it with more pleasure when I am out of debt—which is your own fault, for Becket has had money left in his hands for that purpose.—Do send Mrs. Sterne her two last volumes of Tristram; they arrived with your's in spring, and she complains she has not got them.—My best services to Mr. Panchaud.—I am busy com<lb rend="hidden" type="hyphenInWord"/>posing two volumes of sermons—they will be printed in September, though I fear not time enough to bring them with me. Your name is amongst the list of a few of my ho<lb rend="hidden" type="hyphenInWord"/>norary subscribers—who subscribe for love.—If you see Baron D'Hol<lb rend="hidden" type="hyphenInWord"/>bach,
+<pb n="125" facs="126"/>
+and Diderot, present my respects to them—If the Baron wants any En<lb rend="hidden" type="hyphenInWord"/>glish books, he will let me know, and I will bring them with me—Adieu.</p>
+               <closer>
+                  <signed>I am truly your's, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="58" type="letter">
+               <pb n="126" facs="127"/>
+               <head>LETTER LVIII. To Mrs. M—d—s.</head>
+               <opener>
+                  <dateline>Coxwould, <date>July 21, 1765.</date>
+                  </dateline>
+               </opener>
+               <p>THE first time I have dipped my pen into the ink-horn for this week past is to write to you, and to thank you most sincerely for your kind epistle—Will this be a sufficient apology for my letting it be ten days upon my table without answering it—I trust it will—I am sure my own feelings tell me so, because I felt it impossible to do any thing that is un<lb rend="hidden" type="hyphenInWord"/>gracious towards you.—It is not every
+<pb n="127" facs="128"/>
+hour, or day, or week of a man's life that is a fit season for the duties of friendship—sentiment is not always at hand—pride and folly, and what is called business, oftentimes keep it at a distance—and without sentiment, what is friendship?—a name, a shadow!—But, to prevent a misapplication of this, (though why should I fear it from so kind and gentle a spirit as your's)—you must know, that by care<lb rend="hidden" type="hyphenInWord"/>lessness of my curate, or his wife, or his maid, or some one within his gates, the parsonage-house at Sutton was burnt to the ground, with the fur<lb rend="hidden" type="hyphenInWord"/>niture that belonged to me, and a pretty good collection of books; the loss three hundred and fifty pounds—
+<pb n="128" facs="129"/>
+The poor man with his wife took the wings of the next morning, and fled away—this has given me real vexa<lb rend="hidden" type="hyphenInWord"/>tion, for so much was my pity and esteem for him, that as soon as I heard of this disaster, I sent to desire he would come and take up his abode with me till another habitation was ready to receive him—but he was gone—and, as I am told, through fear of my persecution.—Heavens! how little did he know of me to suppose I was among the number of those wretches that heap misfortune upon misfortune—and when the load is almost insup<lb rend="hidden" type="hyphenInWord"/>portable, still to add to the weight! God, who reads my heart, knows it to be true—that I wish rather to share,
+<pb n="129" facs="130"/>
+than to encrease the burthen of the miserable—to dry up, instead of add<lb rend="hidden" type="hyphenInWord"/>ing a single drop to the stream of sor<lb rend="hidden" type="hyphenInWord"/>row.—As for the dirty trash of this world, I regard it not—the loss of it does not cost me a sigh, for after all, I may say with the Spanish Captain, that I am as good a gentleman as the king, only not quite so rich.</p>
+               <p>But to the point: Shall I expect you here this summer?—I much wish that you may make it convenient to gratify me in a visit for a few weeks—I will give you a roast fowl for your dinner, and a clean table-cloth every day—and tell you a story by way of desert—in the heat of the day we will
+<pb n="130" facs="131"/>
+sit in the shade—and in the evening the fairest of all the milk-maids who pass by my gate, shall weave a gar<lb rend="hidden" type="hyphenInWord"/>land for you.—If I should not be so fortunate, contrive to meet me the be<lb rend="hidden" type="hyphenInWord"/>ginning of October—I shall stay a fort<lb rend="hidden" type="hyphenInWord"/>night after, and then seek a kindlier climate.—This plaguy cough of mine seems to gain ground, and will bring me to my grave in spight of me—but while I have strength to run away from it I will—I have been wrestling with it for these twenty years past—and what with laughter and good spirits, have prevented its giving me a fall—but my antagonist presses closer than ever upon me—and I have no<lb rend="hidden" type="hyphenInWord"/>thing left on my side but another
+<pb n="131" facs="132"/>
+journey abroad—A-propos—are you for a scheme of that sort? if not, per<lb rend="hidden" type="hyphenInWord"/>haps you will accompany me as far as Dover, that we may laugh together on the beach, to put Neptune in a good humour before I embark—God bless you, my dear Madam,—and believe me ever your's,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="59" type="letter">
+               <pb n="132" facs="133"/>
+               <head>LETTER LIX. To Mr. W.</head>
+               <opener>
+                  <dateline>Coxwould, <date>December 20, 1765.</date>
+                  </dateline>
+               </opener>
+               <p>THANKS, my dear W. for your letter—I am just preparing to come and greet you and many other friends in town—I have drained my ink standish to the bottom, and after I have published, shall set my face, not towards Jerusalem, but towards the Alps—I find I must once more fly from death whilst I have strength—I shall go to Naples and see whether
+<pb n="133" facs="134"/>
+the air of that place will not set this poor frame to rights—As to the pro<lb rend="hidden" type="hyphenInWord"/>ject of getting a bear to lead, I think I have enough to do to govern my<lb rend="hidden" type="hyphenInWord"/>self—and however profitable it might be (according to your opinion) I am sure it would be unpleasurable—Few are the minutes of life, and I do not think that I have any to throw away on any one being.—I shall spend nine or ten months in Italy, and call upon my wife and daughter in France at my return—so shall be back by the King's birth-day—what a project!—and now my dear friend am I going to York, not for the sake of society—nor to walk by the side of the muddy Ouse, but to recruit myself of the most
+<pb n="134" facs="135"/>
+violent spitting of blood that ever mortal man experienced; because I had rather (in case 'tis ordained so) die there, than in a post-chaise on the road.—If the amour of my uncle Toby do not please you, I am mis<lb rend="hidden" type="hyphenInWord"/>taken—and so with a droll story I will finish this letter—A sensible friend of mine, with whom not long ago, I spent some hours in conversation, met an apothecary (an acquaintance of ours)—the latter asked him how he did? why, ill, very ill—I have been with Sterne, who has given me such a dose of <hi>Atticsalt</hi> that I am in a fever—Attic salt, Sir, Attic salt! I have Glauber salt—I have Epsom salt in my shop, &amp;c.—Oh! I suppose 'tis
+<pb n="135" facs="136"/>
+some French salt—I wonder you would trust his report of the medicine, he cares not what he takes himself—I fancy I see you smile—I long to be able to be in London, and embrace my friends there—and shall enjoy myself a week or ten days at Paris with my friends, particularly the Ba<lb rend="hidden" type="hyphenInWord"/>ron d'Holbach, and the rest of the joyous sett—As to the females—no I will not say a word about them—only I hate borrowed characters taken up (as a woman does her shift) for the purpose she intends to effectuate. Adieu, adieu—I am yours whilst</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="60" type="letter">
+               <pb n="136" facs="137"/>
+               <head>LETTER LX. To Mr. F. at Paris.</head>
+               <opener>
+                  <dateline>London, <date>October 7, 1765.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>IT is a terrible thing to be in Paris without a perriwig to a man's head! In seven days from the date of this, I should be in that case, unless you tell your neighbour Madame Requiere to get her <hi>bon mari de me faire une peruque à bourse, au mieux—c'est à dire—une la plus extraordinaire—la plus jolie—la plus gentille—et la plus</hi>—</p>
+               <p>
+                  <pb n="137" facs="138"/>—<hi>Mais qu' importe? jai l'honneur d'etre grand critique—et bien difficile encore dans les affaires de peruques</hi>—and in one word that he gets it done in five days after notice—</p>
+               <p>I beg pardon for this liberty, my dear friend, and for the trouble of forwarding this by the very next post.—If my friend Mr. F. is in Paris—my kind love to him and respects to all others—in sad haste—</p>
+               <closer>
+                  <signed>Yours truly, L. STERNE.</signed>
+                  <postscript>
+                     <p>I have paid into Mr. Becket's hands six hundred pounds, which you may draw upon at sight, according as either Mrs. S— or myself make it expedient.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="61" type="letter">
+               <pb n="138" facs="139"/>
+               <head>LETTER LXI. To Mr. P. at Paris.</head>
+               <opener>
+                  <dateline>Beau Pont Voisin, <date>November 7, 1765.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>I Forgot to desire you to forward whatever letters came to your hand to your banker at Rome, to wait for me against I get there, as it is uncer<lb rend="hidden" type="hyphenInWord"/>tain how long I may stay at Turin, &amp;c. &amp;c. at present I am held prisoner in this town by the sudden swelling of two pitiful rivulets from the snows melting on the Alps—so that we can<lb rend="hidden" type="hyphenInWord"/>not either advance to them, or retire
+<pb n="139" facs="140"/>
+back again to Lyons—for how long the gentlemen who are my fellow-travellers, and myself, shall languish in this state of vexatious captivity, heaven and earth surely know, for it rains as if they were coming together to settle the matter.—I had an agree<lb rend="hidden" type="hyphenInWord"/>able journey to Lyons, and a joyous time there; dining and supping every day at the commandant's—Lord F. W. I left there, and about a dozen Eng<lb rend="hidden" type="hyphenInWord"/>lish—If you see lord Ossory, lord William Gordon, and my friend Mr. Crawfurd, remember me to them—if Wilkes is at Paris yet, I send him all kind wishes—present my compli<lb rend="hidden" type="hyphenInWord"/>ments as well as thanks to my good friend Miss P—, and believe me, dear Sir, with all truth, yours,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="62" type="letter">
+               <pb n="140" facs="141"/>
+               <head>LETTER LXII. To the same.</head>
+               <opener>
+                  <dateline>Turin, <date>November 15, 1765.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>AFTER many difficulties I have got here safe and sound—tho' eight days in passing the mountains of Sa<lb rend="hidden" type="hyphenInWord"/>voy.—I am stopped here for ten days by the whole country betwixt here and Milan being laid under water by continual rains—but I am very happy, and have found my way into a dozen houses already—Tomorrow I am to be presented to the King, and when that
+<pb n="141" facs="142"/>
+ceremony is over, I shall have my hands full of engagements.—No Eng<lb rend="hidden" type="hyphenInWord"/>lish here but Sir James Macdonald who meets with much respect, and Mr. Ogilby. We are all together, and shall depart in peace together—My kind services to all—pray forward the inclosed—</p>
+               <closer>
+                  <signed>Yours most truly, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="63" type="letter">
+               <pb n="142" facs="143"/>
+               <head>LETTER LXIII. To the same.</head>
+               <opener>
+                  <dateline>Turin, <date>November 28, 1765.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>I AM just leaving this place with Sir James Macdonald for Milan, &amp;c.—We have spent a joyous fortnight here, and met with all kinds of ho<lb rend="hidden" type="hyphenInWord"/>nours—and with regret do we both bid adieu—but health on my side—and good sense on his—say 'tis better to be at Rome—you say at Paris—but you put variety out of the que<lb rend="hidden" type="hyphenInWord"/>stion.—I intreat you to forward the
+<pb n="143" facs="144"/>
+inclosed to Mrs. Sterne—My compli<lb rend="hidden" type="hyphenInWord"/>ments to all friends, more particu<lb rend="hidden" type="hyphenInWord"/>larly to those I most value (that in<lb rend="hidden" type="hyphenInWord"/>cludes Mr. F. if he is at Paris.)</p>
+               <closer>
+                  <signed>I am yours most truly, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="64" type="letter">
+               <pb n="144" facs="145"/>
+               <head>LETTER LXIV. To the same.</head>
+               <opener>
+                  <dateline>Florence, <date>December 18, 1765.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>I Have been a month passing the plains of Lombardy—stopping in my way of Milan, Parma, Placenza, and Bologna—with weather as deli<lb rend="hidden" type="hyphenInWord"/>cious as a kindly April in England, and have been three days in crossing a part of the Apennines covered with thick snow—Sad transition!—I stay here three days to dine with our Ple<lb rend="hidden" type="hyphenInWord"/>nipo Lords T—d and C—r,
+<pb n="145" facs="146"/>
+and in five days shall tread the Vatican and be introduced to all the Saints in the Pantheon.—I stay but fourteen days to pay these civilities, and then decamp for Naples.—Pray send the inclosed to my wife, and Becket's letter to London.</p>
+               <closer>
+                  <signed>Yours truly, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="65" type="letter">
+               <pb n="146" facs="147"/>
+               <head>LETTER LXV. To Miss S.</head>
+               <opener>
+                  <dateline>Naples, <date>February 3, 1766.</date>
+                  </dateline>
+                  <salute>My dear Girl,</salute>
+               </opener>
+               <p>YOUR letter, my Lydia, has made me both laugh and cry—Sorry am I that you are both so afflicted with the ague, and by all means I wish you both to fly from Tours, because I re<lb rend="hidden" type="hyphenInWord"/>member it is situated between two ri<lb rend="hidden" type="hyphenInWord"/>vers, la Loire, and le Cher—which must occasion fogs, and damp un<lb rend="hidden" type="hyphenInWord"/>wholesome weather—therefore for the same reason go not to Bourges en
+<pb n="147" facs="148"/>
+Bresse—'tis as vile a place for agues.—I find myself infinitely better than I was—and hope to have added at least ten years to my life by this journey to Italy—the climate is heavenly, and I find new principles of health in me, which I have been long a stranger to—but trust me, my Lydia, I will find you out wherever you are, in May. Therefore I beg you to direct to me at Belloni's at Rome, that I may have some idea where you will be then.—The account you give me of Mrs. C— is truly amiable, I shall ever honour her—Mr. C. is a divert<lb rend="hidden" type="hyphenInWord"/>ing companion—what he said of your little French admirer was truly droll—the Marquis de — is an
+<pb n="148" facs="149"/>
+impostor, and not worthy of your acquaintance—he only pretended to know me, to get introduced to your mother—I desire you will get your mother to write to Mr. C. that I may discharge every debt, and then my Lydia, if I live, the produce of my pen shall be yours—If fate re<lb rend="hidden" type="hyphenInWord"/>serves me not that—the humane and good, part for thy father's sake, part for thy own, will never abandon thee!—If your mother's health will permit her to return with me to England, your summers I will render as agree<lb rend="hidden" type="hyphenInWord"/>able as I can at Coxwould—your winters at York—you know my publications call me to London.—If Mr. and Mrs. C— are still at Tours,
+<pb n="149" facs="150"/>
+thank them from me for their cor<lb rend="hidden" type="hyphenInWord"/>diality to my wife and daughter. I have purchased you some little trifles, which I shall give you when we meet, as proofs of affection from</p>
+               <closer>
+                  <signed>Your fond father, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="66" type="letter">
+               <pb n="150" facs="151"/>
+               <head>LETTER LXVI. To Mr. F. at Paris.</head>
+               <opener>
+                  <dateline>Naples, <date>February 8, 1766.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>I Desire Mrs. S— may have what cash she wants—if she has not re<lb rend="hidden" type="hyphenInWord"/>ceived it before now: she sends me word she has been in want of cash these three weeks—be so kind as to pre<lb rend="hidden" type="hyphenInWord"/>vent this uneasiness to her—which is doubly so to me.—I have made very little use of your letters of credit, having since I left Paris taken up no more money than about fifty louis at Turin, as much at Rome—and
+<pb n="151" facs="152"/>
+a few ducats here—and as I now travel from hence to Rome, Venice, through Vienna to Berlin, &amp;c. with a gentleman of fortune, I shall draw for little more till my return—so you will have always enough to spare for my wife.—The beginning of March be so kind as to let her have a hundred pounds to begin her year with.—</p>
+               <p>There are a good many English here, very few in Rome, or other parts of Italy.—The air of Naples agrees very well with me—I shall return fat—my friendship to all who honour me with theirs—Adieu my dear friend—I am ever yours,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="67" type="letter">
+               <pb n="152" facs="153"/>
+               <head>LETTER LXVII. To J. H. S. Esq.</head>
+               <opener>
+                  <dateline>Naples, <date>February 5, 1766.</date>
+                  </dateline>
+                  <salute>My dear H.</salute>
+               </opener>
+               <p>'TIS an age since I have heard from you—but as I read the London Chronicle, and find no tidings of your death, or that you are even at the point of it, I take it, as I wish it, that you have got over thus much of the winter free from the damps, both of climate and spirits, and here I am, as happy as a king after all, growing fat, sleek, and well liking—
+<pb n="153" facs="154"/>
+not improving in stature, but in breadth.—We have a jolly carnival of it—nothing but operas—punchi<lb rend="hidden" type="hyphenInWord"/>nellos—festinos and masquerades—We (that is <hi>nous autres</hi>) are all dres<lb rend="hidden" type="hyphenInWord"/>sing out for one this night at the Princess Francavivalla, which is to be superb.—The English dine with her (exclusive) and so much for small chat—except that I saw a little come<lb rend="hidden" type="hyphenInWord"/>dy acted last week with more expres<lb rend="hidden" type="hyphenInWord"/>sion and spirit, and true character than I shall see one hastily again.—I stay here till the holy week, which I shall pass at Rome, where I occupy myself a month—My plan was to have gone from thence for a fortnight to Florence—and then by Leghorn to
+<pb n="154" facs="155"/>
+Marseilles directly home—but am di<lb rend="hidden" type="hyphenInWord"/>verted from this by the repeated pro<lb rend="hidden" type="hyphenInWord"/>posals of accompanying a gentleman, who is returning by Venice, Vienna, Saxony, Berlin, and so by the Spaw, and thence through Holland to Eng<lb rend="hidden" type="hyphenInWord"/>land—'tis with Mr. E...... I have known him these three years, and have been with him ever since I reach'd Rome; and as I know him to be a good hearted young gentleman, I have no doubt of making it answer both his views and mine—at least I am persuaded we shall return home together, as we set out, with friend<lb rend="hidden" type="hyphenInWord"/>ship and good will.—Write your next letter to me at Rome, and do me the following favour if it lies in your way,
+<pb n="155" facs="156"/>
+which I think it does—to get me a letter of recommendation to our am<lb rend="hidden" type="hyphenInWord"/>bassador (Lord Stormont at Vienna) I have not the honour to be known to his lordship, but Lords P— or H—, or twenty you better know, would write a certificate for me, im<lb rend="hidden" type="hyphenInWord"/>porting that I am not fallen out of the clouds. If this will cost my cousin little trouble, do inclose it in your next letter to me at Belloni.—You have left Skelton I trow a month, and I fear have had a most sharp win<lb rend="hidden" type="hyphenInWord"/>ter, if one may judge of it from the severity of the weather here, and all over Italy, which exceeded any thing known till within these three weeks here, that the sun has been as hot as
+<pb n="156" facs="157"/>
+we could bear it.—Give my kind ser<lb rend="hidden" type="hyphenInWord"/>vices to my friends—especially to the houshold of faith—my dear Garland—to Gilbert—to the worthy Colo<lb rend="hidden" type="hyphenInWord"/>nel — to Cardinal S—, to my fel<lb rend="hidden" type="hyphenInWord"/>low labourer Pantagruel—dear cousin Antony, receive my kindest love and wishes.</p>
+               <closer>
+                  <signed>Yours affectionately, L. STERNE.</signed>
+                  <postscript>
+                     <p>
+                        <hi>P.S.</hi> Upon second thoughts, direct your next to me at Mr. W. banker at Venice.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="68" type="letter">
+               <pb n="157" facs="158"/>
+               <head>LETTER LXVIII. To Mr. P. at Paris.</head>
+               <opener>
+                  <dateline>Naples, <date>February 14, 1766.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>I Wrote last week to you, to desire you would let Mrs. S— have what money she wanted—it may hap<lb rend="hidden" type="hyphenInWord"/>pen as that letter went inclosed in one to her at Tours, that you will receive this first—I have made little use of your letters of credit, as you will see by that letter, nor shall I want much (if any) till you see me, as I travel now in company with a gentleman—
+<pb n="158" facs="159"/>
+however as we return by Venice, Vienna, Berlin, &amp;c. to the Spaw, I should be glad if you will draw me a letter of credit upon some one at Venice, to the extent of fifty louis—but I am persuaded I shall not want half of them—however in case of sick<lb rend="hidden" type="hyphenInWord"/>ness or accidents, one would not go so long a rout without money in one's pocket.—The bankers here are not so conscientious as my friend P. they would make me pay twelve per cent. if I was to get a letter here.—I beg your letters, &amp;c. may be inclosed to Mr. Watson at Venice—where we shall be in the Ascension.—I have re<lb rend="hidden" type="hyphenInWord"/>ceived much benefit from the air of Naples—but quit it to be at Rome
+<pb n="159" facs="160"/>
+before the holy week.—There are about five and twenty English here—but most of them will be decamp'd in two months—there are scarce a third of the number at Rome—I sup<lb rend="hidden" type="hyphenInWord"/>pose therefore that Paris is full—my warmest wishes attend you—with my love to Mr. F. and compliments to all—I am, dear Sir, very faith<lb rend="hidden" type="hyphenInWord"/>fully,</p>
+               <closer>
+                  <signed>Yours, L. STERNE.</signed>
+                  <postscript>
+                     <p>Sir James Macdonald is in the house with me, and is just recovering a long and most cruel fit of the rheumatism.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="69" type="letter">
+               <pb n="160" facs="161"/>
+               <head>LETTER LXIX. To J. H. S. Esq.</head>
+               <opener>
+                  <dateline>
+                     <date>May 25,</date> near Dijon.</dateline>
+                  <salute>Dear Antony,</salute>
+               </opener>
+               <p>MY desire of seeing both my wife and girl has turn'd me out of my road towards a delicious Chateau of the Countess of M—, where I have been patriarching it these seven days with her ladyship, and half a dozen of very handsome and agreeable ladies—her ladyship has the best of hearts—a valuable present not given to every one.—Tomorrow, with regret,
+<pb n="161" facs="162"/>
+I shall quit this agreeable circle, and post it night and day to Paris, where I shall arrive in two days, and just wind myself up, when I am there, e<lb rend="hidden" type="hyphenInWord"/>nough to roll on to Calais—so I hope to sup with you the king's birth day, according to a plan of sixteen days standing.—Never man has been such a wildgoose chace after a wife as I have been—after having sought her in five or six different towns, I found her at last in <hi>Franche Comté</hi>—Poor woman! she was very cordial, &amp;c. and begs to stay another year or so—my Lydia pleases me much—I found her greatly improved in every thing I wish'd her—I am most unac<lb rend="hidden" type="hyphenInWord"/>countably well, and most accountably
+<pb n="162" facs="163"/>
+nonsensical—'tis at least a proof of good spirits, which is a sign and token given me in these latter days that I must take up again the pen.—In faith I think I shall die with it in my hand, but I shall live these ten years, my An<lb rend="hidden" type="hyphenInWord"/>tony, notwithstanding the fears of my wife, whom I left most melancholy on that account.—This is a delicious part of the world; most celestial weather, and we lie all day, without damps, upon the grass—and that is the whole of it, except the inner man (for her ladyship is not stingy of her wine) is inspired twice a day with the best Bur<lb rend="hidden" type="hyphenInWord"/>gundy that grows upon the mountains, which terminate our lands here.—Surely you will not have decamp'd
+<pb n="163" facs="164"/>
+to Crazy Castle before I reach town.—The summer here is set in good ear<lb rend="hidden" type="hyphenInWord"/>nest—'tis more than we can say for Yorkshire—I hope to hear a good tale of your alum works—have you no other works in hand? I do not expect to hear from you, so God prosper you—and all your undertak<lb rend="hidden" type="hyphenInWord"/>ings.—I am, my dear cousin,</p>
+               <closer>
+                  <signed>Most affectionately yours, L. STERNE.</signed>
+                  <postscript>
+                     <p>Remember me to Mr. G—, Car<lb rend="hidden" type="hyphenInWord"/>dinal S—, the Col. &amp;c. &amp;c. &amp;c.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="70" type="letter">
+               <pb n="164" facs="165"/>
+               <head>LETTER LXX. To Mr. P. at Paris.</head>
+               <opener>
+                  <dateline>York, <date>June 28, 1766.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>I Wrote last week to Mr. Becket to discharge the balance due to you—and I have receiv'd a letter from him telling me, that if you will draw upon him for one hundred and sixty pounds, he will punctually pay it to your or<lb rend="hidden" type="hyphenInWord"/>der—so send the draughts when you please—Mrs. S. writes me word, she wants fifty pounds—which I de<lb rend="hidden" type="hyphenInWord"/>sire you will let her have—I will take
+<pb n="165" facs="166"/>
+care to remit it to your correspondent—I have such an entire confidence in my wife, that she spends as little as she can, tho' she is confined to no par<lb rend="hidden" type="hyphenInWord"/>ticular sum—her expences will not ex<lb rend="hidden" type="hyphenInWord"/>ceed three hundred pounds a year, unless by ill health, or a journey—and I am very willing she should have it—and you may rely, in case it ever happens that she should draw for fifty or a hundred pounds extraordinary, that it and every demand shall be punctually paid—and with proper thanks; and for this the whole Shan<lb rend="hidden" type="hyphenInWord"/>dean family are ready to stand secu<lb rend="hidden" type="hyphenInWord"/>rity.—'Tis impossible to tell you how sorry I was that my affairs hurried me so quick thro' Paris, as to deprive
+<pb n="166" facs="167"/>
+me of seeing my old friend Mr. F. and of the pleasure I proposed in be<lb rend="hidden" type="hyphenInWord"/>ing made known to his better half—but I have a probability of seeing him this winter.—Adieu dear Sir, and be<lb rend="hidden" type="hyphenInWord"/>lieve me</p>
+               <closer>
+                  <signed>Most cordially yours, L. STERNE.</signed>
+                  <postscript>
+                     <p>
+                        <hi>P.S.</hi> Mrs. S— is going to Chalon, but your letter will find her I believe at Avignon—she is very poor<lb rend="hidden" type="hyphenInWord"/>ly—and my daughter writes to me with sad grief of heart that she is worse.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="71" type="letter">
+               <pb n="167" facs="168"/>
+               <head>LETTER LXXI. To Mr. S.</head>
+               <opener>
+                  <dateline>Coxwould, <date>July 23, 1766.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>ONE might be led to think that there is a fatality regarding us—we make appointments to meet, and for these two years have not seen each others face but twice—we must try, and do better for the future—having sought you with more zeal, than C.... sought the Lord, in order to deliver you the books you bad me purchase for you at Paris—I was forced to
+<pb n="168" facs="169"/>
+pay carriage for them from London down to York—but as I shall neither charge you the books nor the car<lb rend="hidden" type="hyphenInWord"/>riage—'tis not worth talking about.—Never man, my dear Sir, has had a more agreeable tour than your Yorick—and at present I am in my peaceful retreat, writing the ninth volume of Tristram—I shall publish but one this year, and the next I shall begin a new work of four volumes, which when finish'd, I shall continue Tris<lb rend="hidden" type="hyphenInWord"/>tram with fresh spirit.—What a differ<lb rend="hidden" type="hyphenInWord"/>ence of scene here! But with a dis<lb rend="hidden" type="hyphenInWord"/>position to be happy, 'tis neither this place, nor t'other that renders us the reverse.—In short each man's happiness depends upon him<lb rend="hidden" type="hyphenInWord"/>self<pb n="169" facs="170"/>
+—he
+is a fool if he does not en<lb rend="hidden" type="hyphenInWord"/>joy it.</p>
+               <p>What are you about, dear S—? Give me some account of your plea<lb rend="hidden" type="hyphenInWord"/>sures—you had better come to me for a fortnight, and I will shew, or give you (if needful) a practical dose of my philosophy; but I hope you do not want it—if you did—'twould be the office of a friend to give it—Will not even our races tempt you? You see I use all arguments—Believe me yours most truly,</p>
+               <closer>
+                  <signed>LAURENCE STERNE.</signed>
+               </closer>
+            </div>
+            <div n="72" type="letter">
+               <pb n="170" facs="171"/>
+               <head>LETTER LXXII. To Mr. P. at Paris.</head>
+               <opener>
+                  <dateline>Coxwould, <date>September 21, 1766.</date>
+                  </dateline>
+                  <salute>My dear Friend,</salute>
+               </opener>
+               <p>IF Mrs. S— should draw upon you for fifty louis d'ors, be so kind as to remit her the money—and pray be so good as not to draw upon Mr. Becket for it (as he owes me no<lb rend="hidden" type="hyphenInWord"/>thing) but favour me with the draught, which I will pay to Mr. Selwin.—A young nobleman is now negociat<lb rend="hidden" type="hyphenInWord"/>ing a jaunt with me for six weeks, about Christmas, to the Fauxbourg
+<pb n="171" facs="172"/>
+de St. Germain—I should like much to be with you for so long—and if my wife should grow worse (having had a very poor account of her in my daughter's last) I cannot think of her being without me—and however ex<lb rend="hidden" type="hyphenInWord"/>pensive the journey would be, I would fly to Avignon to administer conso<lb rend="hidden" type="hyphenInWord"/>lation to both her and my poor girl—Wherever I am, believe me</p>
+               <closer>
+                  <salute>Dear Sir,</salute>
+                  <signed>yours, L. STERNE.</signed>
+                  <postscript>
+                     <p>My kind compliments to Mr. F—: though I have not the ho<lb rend="hidden" type="hyphenInWord"/>nour of knowing his rib, I see no reason why I may not present all due
+<pb n="172" facs="173"/>
+respects to the better half of so old a friend, which I do by these pre<lb rend="hidden" type="hyphenInWord"/>sents—with my friendliest wishes to Miss P—.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="73" type="letter">
+               <pb n="173" facs="174"/>
+               <head>LETTER LXXIII. To Mr. F. at Paris.</head>
+               <opener>
+                  <dateline>Coxwould, <date>October 25, 1766.</date>
+                  </dateline>
+                  <salute>My dear F.</salute>
+               </opener>
+               <p>I Desired you would be so good as to remit to Mrs. S— fifty louis, a month ago—I dare say you have done it—but her illness must have cost her a good deal—therefore having paid the last fifty pounds into Mr. Sel<lb rend="hidden" type="hyphenInWord"/>win's hands, I beg you to send her thirty guineas more—for which I send a bank bill to Mr. Becket by this post—but surely had I not done
+<pb n="174" facs="175"/>
+so, you would not stick at it—for be assured, my dear F. that the first Lord of the Treasury is neither more able or more willing (nor perhaps half so punctual) in repaying with honour all I ever can be in your books.—My daughter says her mother is very ill—and I fear going fast down by all ac<lb rend="hidden" type="hyphenInWord"/>counts—'tis melancholy in her situa<lb rend="hidden" type="hyphenInWord"/>tion to want any aid that is in my power to give—do write to her—and believe me, with all compliments to your Hotel,</p>
+               <closer>
+                  <signed>Yours very truly, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="74" type="letter">
+               <pb n="175" facs="176"/>
+               <head>LETTER LXXIV. To the same.</head>
+               <opener>
+                  <dateline>York, <date>November 25, 1766.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>I Just received yours—and am glad that the balance of accounts is now paid to you—Thus far all goes well—I have received a letter from my daughter with the pleasing tidings that she thinks her mother out of danger—and that the air of the coun<lb rend="hidden" type="hyphenInWord"/>try is delightful (excepting the winds) but the description of the Chateau my wife has hired is really pretty—
+<pb n="176" facs="177"/>
+on the side of the Fountain of Vau<lb rend="hidden" type="hyphenInWord"/>cluse—with seven rooms of a floor, half furnished with tapestry, half with blue taffety, the permission to fish, and to have game; so many partridges a week, &amp;c. and the price—guess! sixteen guineas a year—there's for you P.—about the latter end of next month my wife will have occasion for a hundred guineas—and pray be so good, my dear sir, as to give or<lb rend="hidden" type="hyphenInWord"/>ders that she may not be disappointed—she is going to spend the Carnival at Marseilles at Christmas—I shall be in London by Christmas week, and then shall balance this remittance to Mrs. S. with Mr. S— I am going to ly in of another child of the Shan<lb rend="hidden" type="hyphenInWord"/>daick
+<pb n="177" facs="178"/>
+procreation, in town—I hope you wish me a safe delivery—I fear my friend Mr. F. will have left town before I get there—Adieu dear Sir—I wish you every thing in this world which will do you good, for I am with unfeigned truth,</p>
+               <closer>
+                  <signed>Yours, L. STERNE.</signed>
+                  <postscript>
+                     <p>Make my compliments acceptable to the good and worthy Baron D'Hol<lb rend="hidden" type="hyphenInWord"/>bach—Miss P. &amp;c. &amp;c.</p>
+                  </postscript>
+               </closer>
+            </div>
+            <div n="75" type="letter">
+               <pb n="178" facs="179"/>
+               <head>LETTER LXXV. To Mr. P. at Paris.</head>
+               <opener>
+                  <dateline>London, <date>February 13, 1767.</date>
+                  </dateline>
+                  <salute>Dear P.</salute>
+               </opener>
+               <p>I Paid yesterday (by Mr. Becket) a hundred guineas, or pounds I forget which, to Mr. Selwin—But you must remit to Mrs. S. at Marseilles a hun<lb rend="hidden" type="hyphenInWord"/>dred louis before she leaves that place, which will be in less than three weeks. Have you got the ninth volume of Shandy?—'tis liked the best of all here.—I am going to publish a Senti<lb rend="hidden" type="hyphenInWord"/>mental
+<pb n="179" facs="180"/>
+Journey through France and Italy—the undertaking is protected and highly encouraged by all our no<lb rend="hidden" type="hyphenInWord"/>blesse—'tis subscribed for, at a great rate—'twill be an original—in large quarto—the subscription half a gui<lb rend="hidden" type="hyphenInWord"/>nea—If you can procure me the ho<lb rend="hidden" type="hyphenInWord"/>nour of a few names of men of science, or fashion, I shall thank you—they will appear in good company, as all the nobility here almost have honour<lb rend="hidden" type="hyphenInWord"/>ed me with their names.—My kindest remembrance to Mr. F.—respects to Baron D'Holbach, and believe me ever ever yours,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="76" type="letter">
+               <pb n="180" facs="181"/>
+               <head>LETTER LXXVI. To Miss S.</head>
+               <opener>
+                  <dateline>Old Bond-street, <date>February 23, 1767.</date>
+                  </dateline>
+               </opener>
+               <p>AND so, my Lydia! thy mother and thyself are returning back again from Marseilles to the banks of the Sorgue—and there thou wilt sit and fish for trouts—I envy you the sweet situation.—Petrarch's tomb I should like to pay a sentimental visit to—the Fountain of Vaucluse, by thy description, must be delightful—I
+<pb n="181" facs="182"/>
+am also much pleased with the account you give me of the Abbé de Sade—you find great comfort in such a neighbour—I am glad he is so good as to correct thy translation of my Sermons—dear girl go on, and make me a present of thy work—but why not the House of Mourning? 'tis one of the best. I long to receive the life of Petrarch, and his Laura, by your Abbé, but I am out of all patience with the answer the Marquis made the Abbé—'twas truly coarse, and I won<lb rend="hidden" type="hyphenInWord"/>der he bore it with any christian pa<lb rend="hidden" type="hyphenInWord"/>tience—But to the subject of your letter—I do not wish to know who was the busy fool, who made your mother uneasy about Mrs. —
+<pb n="182" facs="183"/>
+'tis true I have a friendship for her, but not to infatuation—I believe I have judgment enough to discern hers, and every woman's faults. I honour thy mother for her answer—<q rend="inline">"that she wished not to be informed, and begged him to drop the subject."</q>—Why do you say that your mother wants money?—whilst I have a shil<lb rend="hidden" type="hyphenInWord"/>ling, shall you not both have nine<lb rend="hidden" type="hyphenInWord"/>pence out of it?—I think, if I have my enjoyments, I ought not to grudge you yours.—I shall not begin my Sentimental Journey till I get to Coxwould—I have laid a plan for something new, quite out of the beat<lb rend="hidden" type="hyphenInWord"/>en track.—I wish I had you with me—and I would introduce you to one
+<pb n="183" facs="184"/>
+of the most amiable and gentlest of beings, whom I have just been with—not Mrs. —, but a Mrs. J. the wife of as worthy a man as I ever met with—I esteem them both. He possesses every manly virtue—honour and bravery are his characteristicks, which have distinguished him nobly in several instances—I shall make you better acquainted with his character, by sending Orme's History, with the books you desired—and it is well worth your reading; for Orme is an elegant writer, and a just one; he pays no man a compliment at the expence of truth.—Mrs. J— is kind—and friendly—of a sentimen<lb rend="hidden" type="hyphenInWord"/>tal turn of mind—and so sweet a dis<lb rend="hidden" type="hyphenInWord"/>position,
+<pb n="184" facs="185"/>
+that she is too good for the world she lives in—Just God! if all were like her, what a life would this be!—Heaven, my Lydia, for some wise purpose has created dif<lb rend="hidden" type="hyphenInWord"/>ferent beings—I wish my dear child knew her—thou art worthy of her friendship, and she already loves thee; for I sometimes tell her what I feel for thee.—This is a long letter—write soon, and never let your letters be studied ones—write naturally, and then you will write well.—I hope your mother has got quite well of her ague—I have sent her some of Huxham's tincture of the Bark. I will order you a guittar since the other is broke.
+<pb n="185" facs="186"/>
+Believe me, my Lydia, that I am yours affectionately,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="77" type="letter">
+               <pb n="186" facs="187"/>
+               <head>LETTER LXXVII. To Mr. P. at Paris.</head>
+               <opener>
+                  <dateline>London, <date>February 27, 1767.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>MY Daughter begs a present of me, and you must know I can deny her nothing—It must be strung with cat-gut, and of five chords—<hi>si chiama in Italiano la chitera di cinque corde</hi>—she cannot get such a thing at Mar<lb rend="hidden" type="hyphenInWord"/>seilles—at Paris one may have every thing—Will you be so good to my girl as to make her happy in this af<lb rend="hidden" type="hyphenInWord"/>fair, by getting some musical body to
+<pb n="187" facs="188"/>
+buy one, and send it her to Avignon directed to Monsieur Teste?—I wrote last week to desire you would remit Mrs. S. a hundred louis—'twill be all, except the guittar, I shall owe you—send me your account, and I will pay Mr. Selwin—direct to me at Mr. Becket's—all kind respects to my friend Mr. F. and your sister.</p>
+               <closer>
+                  <signed>Yours cordially, L. STERNE.</signed>
+               </closer>
+            </div>
+            <div n="77" type="letter">
+               <pb n="188" facs="189"/>
+               <head>LETTER *LXXVII. To D. G. Esq.</head>
+               <opener>
+                  <dateline>
+                     <date>Thursday, Eleven o'Clock—Night.</date>
+                  </dateline>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>'TWAS for all the world like a cut across my finger with a sharp pen<lb rend="hidden" type="hyphenInWord"/>knife.—I saw the blood—gave it a suck—wrapt it up—and thought no more about it.</p>
+               <p>But there is more goes to the heal<lb rend="hidden" type="hyphenInWord"/>ing of a wound than this comes to:—a wound (unless 'tis a wound not worth talking of, but by the bye mine is) must give you some pain after.—Nature will take her own way with it—it must ferment—it must digest.</p>
+               <p>
+                  <pb n="189" facs="190"/>The story you told me of Tristram's pretended tutor, this morning—My letter by right should have set out with this sentence, and then the simile would not have kept you a moment in suspence.</p>
+               <p>This vile story, I say—tho' I then saw both how, and where it wounded—I felt little from it at first—or, to speak more honestly (tho' it ruins my simile) I felt a great deal of pain from it, but affected an air usual on such accidents, of less feeling than I had.</p>
+               <p>I have now got home to my lodgings since the play (you astonished me in it) and have been unwrapping this self<lb rend="hidden" type="hyphenInWord"/>same wound of mine, and shaking my head over it this half hour.</p>
+               <p>
+                  <pb n="190" facs="191"/>What the devil!—is there no one learned blockhead throughout the many schools of misapplied science in the Christian World, to make a <hi>tutor</hi> of for my Tristram?—<hi>Ex quovis ligno non fit.</hi>—Are we so run out of stock, that there is no one lumber-headed, muddle-headed, mortar-headed, pud<lb rend="hidden" type="hyphenInWord"/>ding-headed <hi>chap</hi> amongst our doc<lb rend="hidden" type="hyphenInWord"/>tors?—Is there no one single wight of much reading and no learning a<lb rend="hidden" type="hyphenInWord"/>mongst the many children in my <hi>mo<lb rend="hidden" type="hyphenInWord"/>ther's</hi> nursery, who bid high for this charge—but I must disable my judg<lb rend="hidden" type="hyphenInWord"/>ment by choosing a W—n? Venge<lb rend="hidden" type="hyphenInWord"/>ance! have I so little concern for the honour of my hero!—Am I a wretch so void of sense, so bereft of feeling for the figure he is to make in story,
+<pb n="191" facs="192"/>
+that I should chuse a praeceptor to rob him of all the immortality I intended him? O! dear Mr. G.</p>
+               <p>Malice is ingenious—unless where the excess of it outwits itself—I have two comforts in this stroke of it;—the first is, that this one is partly of this kind; and secondly, that it is one of the number of those which so unfairly brought poor Yorick to his grave.—The report might draw blood of the author of Tristram Shandy—but could not harm such a man as the author of the Divine Legation—God bless him! though (by the bye, and ac<lb rend="hidden" type="hyphenInWord"/>cording to the natural course of de<lb rend="hidden" type="hyphenInWord"/>scents) the blessing should come from him to me.</p>
+               <p>
+                  <pb n="192" facs="193"/>Pray have you no interest, lateral or collateral, to get me introduced to his Lordship?</p>
+               <p>Why do you ask?</p>
+               <p>My dear Sir, I have no claim to such an honour, but what arises from the honour and respect which in the pro<lb rend="hidden" type="hyphenInWord"/>gress of my work will be shewn the world I owe to so great a man.</p>
+               <p>Whilst I am talking of owing—I wish, my dear Sir, that any body would tell you, how much I am indebted to you.—I am determined never to do it myself, or say more upon the subject than this, that I am yours,</p>
+               <closer>
+                  <signed>L. STERNE.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>End of Vol. II.</trailer>
+      </body>
+   </text>
+</TEI>

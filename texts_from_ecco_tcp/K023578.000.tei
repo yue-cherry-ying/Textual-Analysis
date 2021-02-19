@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Introduction to the school of Shakespeare; held, on Wednesday evenings, in the Apollo, at the Devil Tavern, Temple Bar. To which is added a retort courteous on the criticks, as delivered at the second and third lectures:</title>
+            <author>Kenrick, W. (William), 1725?-1779.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023578.000</idno>
+            <idno type="docno">CW3311498297</idno>
+            <idno type="ecll">0321900900</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Introduction to the school of Shakespeare; held, on Wednesday evenings, in the Apollo, at the Devil Tavern, Temple Bar. To which is added a retort courteous on the criticks, as delivered at the second and third lectures:</title>
+                  <author>Kenrick, W. (William), 1725?-1779.</author>
+               </titleStmt>
+               <extent>vi,39,[3]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for the author, and sold by the booksellers; also at the Devil Tavern,</publisher>
+                  <date>[1774]</date>
+                  <idno type="TCP">K023578.000</idno>
+                  <idno type="docno">CW3311498297</idno>
+                  <idno type="ecll">0321900900</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author identified on p.[v] as William Kenrick.</note>
+                  <note>With a half-title and 2 pages at the end, listing Kenrick's works.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT6428.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>INTRODUCTION TO THE SCHOOL OF SHAKESPEARE.</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>INTRODUCTION TO THE SCHOOL OF SHAKESPEARE; Held, on Wednesday Evenings, In the Apollo, at the Devil Tavern, Temple Bar.</p>
+            <p>TO WHICH IS ADDED A RETORT COURTEOUS ON THE CRITICKS, As delivered at the Second and Third Lectures.</p>
+            <p>LONDON: PRINTED FOR THE AUTHOR, AND SOLD BY THE BOOKSELLERS; ALSO AT THE DEVIL TAVERN.</p>
+         </div>
+         <div type="note">
+            <pb facs="3"/>
+            <head>ADVERTISEMENT.</head>
+            <p>DR. KENRICK having advisedly deserred the printing of his edition of Shakespeare till that of Mr. Steevens appeared, the expediency of carrying his work into im<lb rend="hidden" type="hyphenInWord"/>mediate execution is so much abated, by the labours of that Commentator, and the contributions of his correspondents, that its intended publication is, for the present, laid aside. The appearance, however, of a mutilated <hi>play-house</hi> copy, under the auspices of the MANAGERS, from whose affected veneration for Shakespeare better things might have been expected, has not only alarmed the poet's ad<lb rend="hidden" type="hyphenInWord"/>mirers in general, but suggested that some pertinent ob<lb rend="hidden" type="hyphenInWord"/>servations on his writings might be now opportunely communicated to the public in a more entertaining me<lb rend="hidden" type="hyphenInWord"/>thod. Dr. K. desirous of returning, by the earliest means, the obligations he lies under to his subscribers, has therefore adopted the suggested expedient of delivering some part of his comment, with the correspondent parts of the text, in public Lectures.</p>
+            <p>He has entered, indeed, the more readily into this design, as there are a number of passages in dramatic writers, particularly in Shakespeare, which cannot be suc<lb rend="hidden" type="hyphenInWord"/>cessfully elucidated without the aid of declamation. As to the title, which he has (too quaintly perhaps) presumed to give this attempt; the public may remember they were promised, many years ago, the speedy publication of a
+<pb n="vi" facs="4"/>
+work, to be entitled A SCHOOL OF SHAKESPEARE; but, as that performance has not yet appeared, and will now probably never make its appearance, the Lecturer thinks no farther apology necessary, for assuming a title so well adapted to his design.</p>
+            <p>N. B. The Subscribers to Dr. K's Shakespeare will be admitted to the whole course without farther subscription; or, if dissatisfied, may have their former subscription re<lb rend="hidden" type="hyphenInWord"/>turned.</p>
+            <p>{inverted ⁂}The communications of critical readers, tending to throw such lights on the poetical or moral beauties of Shakespeare, as may have escaped his commentators, will be gratefully received and properly applied.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="5"/>
+            <head>INTRODUCTION.</head>
+            <p>A PROFESSED panegyric on the genius of Shakespeare, has been the usual preface to the various editions of his writings. A scholiast, like a translator, is almost universally the encomiast of his author. A rhetorical expositor, therefore, will not be expected to break through a custom; which affords so great a scope for declamation! But, to recite, what has been often written, will yield little sa<lb rend="hidden" type="hyphenInWord"/>tisfaction to my auditors; and, to advance any thing new on a subject, which has employed the pens of the greatest wits, for almost two centuries past, is an attempt above my presumption. For, though too much cannot be said in praise of our in<lb rend="hidden" type="hyphenInWord"/>comparable poet, it may be impertinent to attempt to say more than has already been so well said by others. Formal encomiums resemble mere compliments; which are the more futile and superfluous, as they rather tend to depreciate, than enhance, extraordi<lb rend="hidden" type="hyphenInWord"/>nary merit.</p>
+            <p>It will, I flatter myself, be a more en<lb rend="hidden" type="hyphenInWord"/>tertaining and useful task to exemplify the particular excellencies, which justify our
+<pb n="2" facs="6"/>
+universal admiration of this favourite bard, than to expatiate, in general terms, on his superiority of genius. General admirers are caught by superficial attractions; and, however enthusiastic their devotion, it usu<lb rend="hidden" type="hyphenInWord"/>ally depends on the slightness of their ac<lb rend="hidden" type="hyphenInWord"/>quaintaince with the object of their ido<lb rend="hidden" type="hyphenInWord"/>latry.</p>
+            <q>
+               <hi>Pools</hi> may ADMIRE, but <hi>men of sense</hi> APPROVE!</q>
+            <p>Approbation, therefore, must second out <hi>applause,</hi> to give it sterling value and prove our attachment real.—But, to <hi>approve</hi> we must <hi>understand,</hi> and fully to understand so comprehensive and sublime a writer as Shakespeare, is perhaps not quite so easy as is generally imagined. At least there are many, and those <hi>not uncritical</hi> readers, who are ingenious enough to confess that, after repeated perusals of his works, they seldom recur to him, without meeting with some new difficulty to surmount, or excellence to admire.</p>
+            <p>Not that I have presumed to invite my auditors to a dull enumeration of <hi>verbal</hi> errors, the dry investigation of doubtful phraseology, or the ellucidation of obscuri<lb rend="hidden" type="hyphenInWord"/>ties,
+<pb n="3" facs="7"/>
+arising from obsolete diction and vulgar allusions; many of them too mean to ex<lb rend="hidden" type="hyphenInWord"/>cite curiosity, or too long lost to be worth the labour of research.—Thanks to the suc<lb rend="hidden" type="hyphenInWord"/>cessful industry of more laborious criticks, they have released me, in a great measure, from the painful task of ascertaining am<lb rend="hidden" type="hyphenInWord"/>biguities, disentangling intricacies, and re<lb rend="hidden" type="hyphenInWord"/>covering the meaning of terms, long lost in the darkness of antiquity!</p>
+            <p>The text of Shakespeare gives room for a more pleasing and instructive comment. The poetical beauties and defects of this wonderful bard, whose works are allowed to afford the most numerous as well as con<lb rend="hidden" type="hyphenInWord"/>spicuous instances of both, fall under the immediate cognizance of the liberal scho<lb rend="hidden" type="hyphenInWord"/>liast. Hence Mr. Pope affirms, that his writings not only present the fairest and fullest subject of criticism; but that, to cri<lb rend="hidden" type="hyphenInWord"/>ticise on them effectually, would be the best method to form the judgment and taste of our nation.—This were an arduous at<lb rend="hidden" type="hyphenInWord"/>tempt indeed! An attempt, in which so many of the leviathans of literature have failed, that it might be justly deemed arro<lb rend="hidden" type="hyphenInWord"/>gance in me to resume it.</p>
+            <p>
+               <pb n="4" facs="8"/>It is near twenty years since the admirers of Shakespeare were publickly addressed, in favour of an Editor, possessed of a ge<lb rend="hidden" type="hyphenInWord"/>nius, of which it was said, as of Caesar,
+<q>The Alps and Pyreneans sink before it.</q>
+From him we were promised an edition w<gap resp="#pdcc" extent="4 letters" rend="content:••••">
+                  <desc>illegible</desc>
+               </gap>y of the author and himself: in w<gap resp="#pdcc" extent="4 letters" rend="content:••••">
+                  <desc>illegible</desc>
+               </gap> the beauties of the former were to be pointed out agreeably to the sublime imagination of the editor; who had con<lb rend="hidden" type="hyphenInWord"/>fessedly all the requisite qualifications of a great critic.
+<q>Quid dignum tanto seret hic promissor hiatu!</q>
+Nothing!—The promiser was no prophet; this mighty genius, after buoying up the public expectation for about ten years, most egregiously failed in the execution of his design. His edition had hardly ap<lb rend="hidden" type="hyphenInWord"/>peared, before a new one was set on foot by the very proprietors who had employed him; soliciting eleemosynary contributions: which were levied, in much about the same time, with success on the public.</p>
+            <p>In this last compilation, which, to the honour of the conductor, may be stiled a
+<pb n="5" facs="9"/>
+stupendous monument of verbal criticism; almost every thing is done but that which seems most wanted; an illustration of the poetical beauties and moral excellencies of the writer. This was deemed so essential<lb rend="hidden" type="hyphenInWord"/>ly necessary by Mr. Pope and Dr. War<lb rend="hidden" type="hyphenInWord"/>burton, that they thought it incumbent on them to distinguish, by their manner of printing, the more striking passages of the author, so as to arrest the attention of the indolent, and direct the judgment of the ignorant, reader.</p>
+            <p>Dr. Johnson, indeed, censures this prac<lb rend="hidden" type="hyphenInWord"/>tice as useless, or rather hurtful. Its only effect, says he, is to preclude the pleasure of judging for ourselves; to teach the young and ignorant to decide without prin<lb rend="hidden" type="hyphenInWord"/>ciples; to defeat curiosity and discernment, by leaving them less to discover; and at last to shew the opinion of the critick, without the reasons on which it was found<lb rend="hidden" type="hyphenInWord"/>ed, and without affording any light by which it may be examined.</p>
+            <p>In the course of the present Lectures (which are offered, however, as a mite only into the general treasury of exposi<lb rend="hidden" type="hyphenInWord"/>tion) I shall endeavour to shun this cause of censure, by laying down the principles
+<pb n="6" facs="10"/>
+and giving such reasons of approbation or censure, as may enable my auditors to judge for themselves; without preventing the exercise of their own curiosity, or al<lb rend="hidden" type="hyphenInWord"/>together depriving them of that self-com<lb rend="hidden" type="hyphenInWord"/>placency which attends the congratulation of one's own discernment.</p>
+            <p>It were to supersede the expediency of all classical exposition, should we adopt the maxim, "that a reader is never plea<lb rend="hidden" type="hyphenInWord"/>sed with the meaning of a writer, unless it be immediately obvious to his own ap<lb rend="hidden" type="hyphenInWord"/>prehension."</p>
+            <p>Yet such is the assertion of that learned commentator, who insists on the facility of comprehending the works of Shake<lb rend="hidden" type="hyphenInWord"/>speare in the following terms of amplifica<lb rend="hidden" type="hyphenInWord"/>tion. <q>A description of the obvious scenes of nature, a representation of general life, a sentiment of reflection or ex<lb rend="hidden" type="hyphenInWord"/>perience, a deduction of conclusive ar<lb rend="hidden" type="hyphenInWord"/>gument, a sorcible eruption of effer<lb rend="hidden" type="hyphenInWord"/>vescent passion, are to be considered as proportionate to common apprehen<lb rend="hidden" type="hyphenInWord"/>sion, unassisted by critical officiousness; since, to conceive them, nothing is more requisite than acquaintance with the general state of the world, and those
+<pb n="7" facs="11"/>
+faculties which he must almost bring with him who would read Shakespeare.</q>
+            </p>
+            <p>—But, granting that Shakespeare's reflec<lb rend="hidden" type="hyphenInWord"/>tions, reasonings and representations, were universally obvious, and that persons of every capacity possess the faculties of com<lb rend="hidden" type="hyphenInWord"/>prehending them; it is not so much the exertion of abilities as of attention that is in this case required. The poet can be but half-read by half-readers; for the works of Shakespeare will by no means rank with those frivolous productions, which our English Aristophanes facetiously calls pret<lb rend="hidden" type="hyphenInWord"/>ty light summer reading.</p>
+            <p>Pope, in his Essay on Criticism, says, we should read
+<q>
+                  <l>—a work of wit</l>
+                  <l>With the same spirit that its author writ.</l>
+               </q>
+            </p>
+            <p>To do justice to the poet and ourselves, therefore, in the reading of Shakespeare, we should summon up all our attention to his subject. The immediate compre<lb rend="hidden" type="hyphenInWord"/>hension of flights of genius and force of argument, requires that both the imagina<lb rend="hidden" type="hyphenInWord"/>tion and judgment should be wide awake. It is not enough that the eye of an indolent reader run carelessly over the page of such
+<pb n="8" facs="12"/>
+a writer, to take in, at so cursory a view, the full extent of his meaning. Even a more intent peruser will sometimes fail to seize (in a moment) that combination of ideas, which may have cost the mod ready writer, the labour of days, weeks, months, to collect, compare and combine.</p>
+            <p>Congenial talents, it is true, like drops of a similar fluid, readily coalesce: men of the same turn for observation, and of similar modes of thinking, easily under<lb rend="hidden" type="hyphenInWord"/>stand each other: but this is not the case with others, who differ as well in opi<lb rend="hidden" type="hyphenInWord"/>nion as intellectual abilities. To superior geniuses, who may themselves affect to vie with the great master of our English drama, my lectures may afford as little instruction as amusement. But in this extensive metro<lb rend="hidden" type="hyphenInWord"/>polis, I presume there are to be found a sufficient number of his more humble ad<lb rend="hidden" type="hyphenInWord"/>mirers, to whom they may prove both acceptable and useful, however futile or frivolous they may seem to men of super<lb rend="hidden" type="hyphenInWord"/>lative ingenuity.</p>
+            <p>As to the expediency of their oral de<lb rend="hidden" type="hyphenInWord"/>livery, it may be pleaded, that the proprie<lb rend="hidden" type="hyphenInWord"/>ties of dramatic composition strike more forcibly from recital, than in perusal. The
+<pb n="9" facs="13"/>
+ablest commentator on Shakespeare might discover, in the declamation of a Quin or a Garrick, many exquisite strokes of cha<lb rend="hidden" type="hyphenInWord"/>racter, passion and humour, evidently de<lb rend="hidden" type="hyphenInWord"/>signed by the poet, which yet Would other<lb rend="hidden" type="hyphenInWord"/>wise escape the notice of the mere literary critick. Nay, it is even possible that the poet himself (who, it must be remembered, was but an indifferent stage-player) did not intend all those nice touches and for<lb rend="hidden" type="hyphenInWord"/>cible strokes of expression; which an able actor or artful declaimer might, by pro<lb rend="hidden" type="hyphenInWord"/>priety of pause, significance of tone, and variety of cadence, give his writings in re<lb rend="hidden" type="hyphenInWord"/>cital.</p>
+            <p>This may seem an heresy, too bold to come from an orthodox admirer of Shake<lb rend="hidden" type="hyphenInWord"/>speare, especially if we admit the justice of the ingenious encomium, passed on him by one of his latest and best commentators. Shakespeare, says she, (for we are told the encomiast is a Lady) seems to have had the art of the dervise, in the Arabian tales; who could throw his soul into the body of another man, and be at once possessed of his sentiments, adopt his passions, and rise to all the functions and feelings of his situ<lb rend="hidden" type="hyphenInWord"/>ation.</p>
+            <p>
+               <pb n="10" facs="14"/>But perhaps this elegant eulogy, though supported by as beautiful and pertinent an allusion, may be no farther applicable than to the sentimental powers of the writer, and not to the correspondent sensations, or, in Dr. Johnson's phrase, effervescent pas<lb rend="hidden" type="hyphenInWord"/>sions of the man. The poet (like the der<lb rend="hidden" type="hyphenInWord"/>vise) might be able to throw his soul into the unanimated body of another, without being able to accommodate his own body to the feelings and passions of another's soul: in which case, however justly he might speak the general language of those passions, he might still learn something from those who could feel, as they spoke, from themselves. If the Ghost in Hamlet (as we are told) was the best part his powers of declamation could arrive at; he could not personally assume the characters or dis<lb rend="hidden" type="hyphenInWord"/>play the feelings he so pathetically describes, while he dictates their proper language to others.</p>
+            <p>But, be this as it may, with respect to Shakespeare, it is well known to have been the case with many modern authors, who have been astonished at the latent meaning, that has been discovered in their composi<lb rend="hidden" type="hyphenInWord"/>tions, by a Garrick a Clive, or a Pritchard. It even happens in composition, that a sense,
+<pb n="11" facs="15"/>
+more pertinent, sublime or profound than at first intended, is often struck out by a happy collision of words, as unforeseen as unpremeditated. If passages of this kind are sometimes fortuitously suggested to the writer, how much oftener will his genius, or art, designedly present them to the reader; who is not to be wondered at, if he content himself with the more obvious meaning, that floats on the surface; with<lb rend="hidden" type="hyphenInWord"/>out diving into the depths of his author.</p>
+            <p>A line or two from almost any classical writer will afford an exemplary instance.—In Iago's celebrated speech on the inesti<lb rend="hidden" type="hyphenInWord"/>mable value of a good name, he says,
+<q>
+                  <l>Who steals my <hi>purse,</hi> steals <hi>trash.</hi> 'Tis something, nothing.</l>
+                  <l>'Twas <hi>mine,</hi> 'tis <hi>his</hi> and has been <hi>slave</hi> to <hi>thousands.</hi>
+                  </l>
+               </q>
+I believe such in general is the manner in which those lines are repeated. And yet there seems to be a want of meaning in the words <hi>something, nothing,</hi> so delivered. The antithesis in the second line, also, is confined to the various possessors, in the words <hi>mine, his,</hi> and <hi>thousands.</hi> Whereas, if we conceive the speaker to pause, on call<lb rend="hidden" type="hyphenInWord"/>ing
+<pb n="12" facs="16"/>
+his <hi>purse, trash,</hi> then to admit it to be <hi>something,</hi> or make it a question; and af<lb rend="hidden" type="hyphenInWord"/>terwards go on, as if upon farther thought, more forcibly to undervalue it, by calling it expressly <hi>nothing,</hi> the sense would be greatly improved. Again, if we extend the antithesis in the second line, or rather distinguish another, between the words, <hi>'Twas, 'tis</hi> and <hi>has been,</hi> denoting the fu<lb rend="hidden" type="hyphenInWord"/>tility of the possission, as merely temporary and transitory; the passage would, in this case, be much more pregnant of mean<lb rend="hidden" type="hyphenInWord"/>ing.
+<q>
+                  <l>Who steals my <hi>purse,</hi> steals <hi>trash</hi> —'Tis <hi>something!</hi>— Nothing—</l>
+                  <l>'TWAS <hi>mine,</hi> 'TIS <hi>his</hi> and HAS BEEN slave to <hi>thousands.</hi>
+                  </l>
+               </q>
+A similar instance of the double antithesis is to be found in the first hook of Milton's Paradise Lost: where Satan says, it is
+<q>Better to <hi>reign</hi> in <hi>Hell</hi> than <hi>serve</hi> in <hi>Heaven.</hi>
+               </q>
+If I remember right, Mr. Quin, as well as some other celebrated readers of Milton, gave no farther meaning or energy to this line; although it is evident, from the con<lb rend="hidden" type="hyphenInWord"/>text, that the antithesis is double, and re<lb rend="hidden" type="hyphenInWord"/>quires
+<pb n="13" facs="17"/>
+a farther distinction of emphasis be<lb rend="hidden" type="hyphenInWord"/>tween <hi>reigning</hi> in <hi>Hell</hi> and <hi>serving</hi> in <hi>Hea<lb rend="hidden" type="hyphenInWord"/>ven,</hi>—The fallen spirit is addressing his companion in revolt, on the subject of their new abode, the infernal world; of which having taken a survey; he thus exclaims
+<q>
+                  <l>— Here, at least,</l>
+                  <l>We shall be free; th' Almighty</l>
+                  <l>— will not drive us hence,</l>
+                  <l>Here we may reign secure; and, in my choice,</l>
+                  <l>To reign is worth ambition tho' in Hell:</l>
+                  <l>Better to REIGN in <hi>Hell</hi> than SERVE in <hi>Heaven.</hi>
+                  </l>
+               </q>
+Innumerable are the passages in poetical and particularly dramatic compositions, where the whole meaning of the writer is not more obvious to the reader; nor more easily explained, without the aid of declamation; which, when it is just and emphatical, renders farther explanation unnecessary. A proper, tho' simple, recital of the text is hence often a better comment than whole pages of written annotations.</p>
+            <p>A judicious actor is, therefore, the best expositor of the drama. We have a strik<lb rend="hidden" type="hyphenInWord"/>ing instance of this in Mr. Garrick; who is not improperly stiled a living comment on our author. What a pity that, out of
+<pb n="14" facs="18"/>
+so great a number of capital parts as are found in the plays of Shakespeare, the walk of this great comedian has (of late years at least) been confined to about twelve characters in tragedy, and, I think, to one only in comedy [Benedict.]</p>
+            <p>Had all the principal personages, in the dramas of our immortal poet, the advan<lb rend="hidden" type="hyphenInWord"/>tage of the living comment of such an ex<lb rend="hidden" type="hyphenInWord"/>cellent actor; it would have effectually pre<lb rend="hidden" type="hyphenInWord"/>cluded the present undertaking. But, when so few of them are capitally filled, and the greater part of the rest injudiciously shortened, with a view to accommodate them to the incapacities of inferior per<lb rend="hidden" type="hyphenInWord"/>formers, it is doing a piece of justice to the poet, to endeavour to rescue his mangled remains from such injurious mutilators. My auditors will excuse me, however, if I do not affect the grimace and roar of the lock, or the rant and whine of the buskin. If I have voice enough to make myself distinctly heard, and sufficient art in the management of it to convey the meaning of the poet, the end, I propose, will be answered, in giving some satisfaction to his admirers; and, if to them, to the public
+<pb n="15" facs="19"/>
+at large; for who is not an admirer of Shakespeare?</p>
+            <p>Admirable as he is to be regarded as a poet, there is also another light, in which he is seldom presented to us, tho' he ap<lb rend="hidden" type="hyphenInWord"/>pears in it, if possible, to still greater ad<lb rend="hidden" type="hyphenInWord"/>vantage. This is that of a <hi>moral philosopher;</hi> his works containing a practical system of ethics, the more instructive and useful as the precept is almost every where joined to example. His moral reflections are not like those of most other play-wrights, an ad<lb rend="hidden" type="hyphenInWord"/>ventitious appendage to the dialogue. On the contrary, they rise naturally from the; situation and circumstance of the speaker, and flow spontaneously from his lips, as the genuine effusions of his heart. Hence it is that they make so forcible and lasting an impression on the memory, and have per<lb rend="hidden" type="hyphenInWord"/>haps contributed more to form our national character, for humanity, justice, and be<lb rend="hidden" type="hyphenInWord"/>nevolence, than all the theoretical books of morality which have appeared in our language.</p>
+            <p>I am not singular in admiring this great poet as a philosopher. The learned and in<lb rend="hidden" type="hyphenInWord"/>genious Mrs. Montague observes, in like
+<pb n="16" facs="20"/>
+manner, that "we are apt to consider Shakespeare only as a poet, but he is certain<lb rend="hidden" type="hyphenInWord"/>ly one of the greatest moral philosophers that ever lived." The testimony of Mr. Pope, on this head, does the poet the highest honour, "Shakespeare," say he, "is not more a master of the Great than of the Ridiculous in human nature; of our noblest tendernesses than of our vainest foibles; of our strongest emotions than of our idlest sensations!—Nor does he only excel in the passions: in the coolness of reflection and reasoning he is full as admirable. His senti<lb rend="hidden" type="hyphenInWord"/>ments, on every subject, are not only in general the most pertinent and judicious, hut, by a talent very peculiar, something between penetration and felicity, he hits on that particular point on which the bent of each argument turns, or the force of each motive depends." Were any thing want<lb rend="hidden" type="hyphenInWord"/>ing more conclusive, we might recur to the character given of this sublime genius by one little his inserior, Mr. Dryden. "Shakespeare," says he, "was the man, who, of all modern, and perhaps an<lb rend="hidden" type="hyphenInWord"/>cient poets, had the largest and most com<lb rend="hidden" type="hyphenInWord"/>prehensive soul."—My auditors, I am per<lb rend="hidden" type="hyphenInWord"/>suaded, will agree, therefore, with me, that the understanding of English, and even
+<pb n="17" facs="21"/>
+a slight acquaintance with the author's stile and phraseology, is insufficient to enable the generality of readers to enter fully into his sense and spirit, without much attention and more mature reflection, than is usually bestowed on dramatic productions.</p>
+            <p>I shall hence wave farther apology, as needless, either for this mode of comment, or for making the School of Shakespeare, not a school of verbal criticism and theatri<lb rend="hidden" type="hyphenInWord"/>cal declamation, but of <hi>poetical propriety</hi> and MORAL PHILOSOPHY.</p>
+         </div>
+         <div type="retort">
+            <pb facs="22"/>
+            <head>A RETORT COURTEOUS ON THE CRITICKS.</head>
+            <p>THE respect which individuals owe to public opinion, especially when they solicit the public patronage, reduces them to the necessity of considering every thing as im<lb rend="hidden" type="hyphenInWord"/>portant, which regards the merit of their pretensions. It is this necessity that ren<lb rend="hidden" type="hyphenInWord"/>ders the remarks of writers, otherwise in<lb rend="hidden" type="hyphenInWord"/>significant, deserving notice. Contemptible as are frequently the anonymous correspon<lb rend="hidden" type="hyphenInWord"/>dents of newspapers, there is scarce a reader in town, to whom some one or other of those papers does not appear an oracle. In an age so divided between the bustle of busi<lb rend="hidden" type="hyphenInWord"/>ness and the dissipation of divertisement, it is no wonder that curiosity should adopt the means of acquiring knowledge without the trouble of thinking. Our daily chronicles pretend to offer those means, and are therefore revered of course as oracular. Liable, however, to be deceived either by ignorance or design, their decisions, like those of the
+<pb n="20" facs="23"/>
+oracles of old, should be trusted with caution.</p>
+            <p>Interested in the effect of those decisions respecting the present undertaking, it is in<lb rend="hidden" type="hyphenInWord"/>cumbent on me to mention their mistake, expose their errour and correct their mis<lb rend="hidden" type="hyphenInWord"/>conception. Not that I have reason to com<lb rend="hidden" type="hyphenInWord"/>plain that the majority, or the most respect<lb rend="hidden" type="hyphenInWord"/>able, of our diurnal critics, have not pass<lb rend="hidden" type="hyphenInWord"/>ed sufficient encomiums on my first Lecture. The misfortane of it is, they have most of them applauded and censured in the wrong place; seeming not to have entered fully into my design.—The most general objection is, that I am deficient in oratory, and that I cannot "with the true stage-mechanism of proper emphasis recite Shakespeare's versifi<lb rend="hidden" type="hyphenInWord"/>cation." To this, I answer, that I neither pretend to, nor require, the peculiar talents of an orator, or actor, to deliver a decla<lb rend="hidden" type="hyphenInWord"/>matory comment on that poet. I affect not the grace, but aim merely at the propriety of declamation; as it is by conviction and not persuasion that I would with to affect my auditors. Did I pretend to oratory, I should take the trouble to commit my dis<lb rend="hidden" type="hyphenInWord"/>course, as well as all the passages I recite, to memory, so as to be able to repeat them by rote, and assume the different characters
+<pb n="21" facs="24"/>
+of the respective speakers; without which it is impossible to deliver them oratorially: and the talk of speaking with energy and propriety for two whole hours without book, is what I am persuaded my auditors will not think it reasonable to impose on me. The critick of the Public Advertiser, indeed, has furnished me with a better apo<lb rend="hidden" type="hyphenInWord"/>logy on this head than probably I could make for myself. He intimates, with a perhaps, what is certainly true, that the Lecturer considers himself rather as a teacher than a practitioner of eloquence, as a rhetorical professor rather than a professed orator. "It is notorious, says the critick, that the dancing-master, who teaches the art of ad<lb rend="hidden" type="hyphenInWord"/>dress to others, is not the most graceful in his own deportment. The drawing-master instructs his pupils also in the rudiments of design, not by the delicate touches of the pencil, but by the coarse outlines of rough chalk: nay, we even are told there are musical connoisseurs, who would rather hear a tune hummed over by a Bach or an Arne, with scarce any voice at all, than hear it melodiously warbled by a Linley or a Davis."</p>
+            <p>Had the criticks in general attended to the motto I have adopted from Horace,
+<pb n="22" facs="25"/>
+signifying that "I meant to do the office of a whetstone, which gives an edge to steel, without having any itself," <note place="bottom" n="*">
+                  <q>—Fungar vice cotis Reddere quaeserrumvalet, exsors ipsa secandi. <bibl>HOR.</bibl>
+                  </q>
+               </note> they must all have coincided with this writer: but perhaps some of them did not read it, and it is not impossible that, being in Latin, some others might not—understand it.</p>
+            <p>As to what has been said about "the <hi>stage-mechanism of proper emphasis,</hi>" my design is in part to explode the <hi>mechanical emphasis</hi> of the stage, as altogether impro<lb rend="hidden" type="hyphenInWord"/>per. It is the habitual exercise of this mode of declamation that misleads the actor from the meaning of the author. If, while I am endeavouring, therefore, to point out this meaning merely by a different mode of declamation, I am to be judged by the very standard, which I am exploding; the prepossession of the criticks in favour of theatrical habit, places me in a very pe<lb rend="hidden" type="hyphenInWord"/>culiar predicament. The greater the errour I may attempt to correct in stage declaim<lb rend="hidden" type="hyphenInWord"/>ers, the greater the blunder I shall be sup<lb rend="hidden" type="hyphenInWord"/>posed to have committed myself: unless indeed, I should trouble my auditors with a comment on every such passage; giving the reasons for speaking it differently from others; in which case the task I have un<lb rend="hidden" type="hyphenInWord"/>dertaken
+<pb n="23" facs="26"/>
+might, instead of <hi>fifteen</hi> Lectures, require fifty. I shall explain this by. ex<lb rend="hidden" type="hyphenInWord"/>ample.</p>
+            <p>In the tragedy of Macbeth, there is a celebrated passage, which, having long puzzled both the actors and commentators, seems at length to have obtained the general sanction of being spoken in a manner the most quaint and absurd imaginable.</p>
+            <p>After the murder of Duncan, Macbeth, whose hands are still bloody, exclaims,
+<q>
+                  <l>Will all great Neptune's <hi>ocean</hi> wash this blood</l>
+                  <l>Clean from my hand? No; this <hi>my</hi> hand will rather</l>
+                  <l>The multitudinous SEA <hi>incarnadine,</hi>
+                  </l>
+                  <l>Making the Green, One Red.</l>
+               </q>
+            </p>
+            <p>The players used to say,
+<q>
+                  <l>The multitudinous <hi>seas</hi> incarnadine</l>
+                  <l>Making the green one, red.</l>
+               </q>
+            </p>
+            <p>This the criticks objected to, as a bald and puerile mode of expression unworthy of Shakespeare. But granting that, <hi>making the green one, red,</hi> is a little bald and puerile, the <hi>making the green, One red,</hi> is full as quaint and childishly affected. Multitudinous sea in the singular, and <hi>making the Green, One Red,</hi> were however contended for and adopted,
+<pb n="24" facs="27"/>
+I think, first by Mr. Murphy, afterwards by Mr. Sheridan, by Mr. Macklin, and, if I rightly remember, by Mr. Garrick; as also by Dr. Johnson, who reads THY <hi>multitudinous,</hi> conceiving the last lines to be an apostrophe to Neptune.—Mr. Steevens reads the <hi>multitudinous</hi> SEAS in the plural, still making the green, One red.—In my manuscript text, I read partly with one and partly with the other; thinking with Dr. Johnson it may be <hi>thy,</hi> and with Mr. Steevens that it should be <hi>seas</hi> in the plural; at the same time differing with both, as to the <hi>green's</hi> being converted into <hi>red.</hi> Mr. Steevens indeed tells us, that the same thought occurs in an old play, called the Downfall of the Earl of Huntingdon.
+<q>He made the <hi>green sea red</hi> with Turkish blood.</q>
+            </p>
+            <p>But with due deference to Mr. Steevens, the thought is not the same, if we read, "making the green, One red;" there is no glaring absurdity, though there is much bombast, in the notion of a green sea be<lb rend="hidden" type="hyphenInWord"/>ing turned by a bloody hand into a red one; but there is as palpable an impropriety in idea as impossibility in fact; for green, in the abstract, to be turned, by any means, into red. A green sea may become a red
+<pb n="25" facs="28"/>
+sea, but green, the colour, itself, can never become red: besides, the epithet multitu<lb rend="hidden" type="hyphenInWord"/>dinous appears in this case to be merely ex<lb rend="hidden" type="hyphenInWord"/>pletive and useless, especially if it be sup<lb rend="hidden" type="hyphenInWord"/>posed to mean, as our Dictionaries, citing this very passage, explain it, "the having the appearance of, or looking like, a mul<lb rend="hidden" type="hyphenInWord"/>titude." For why looking like a multitude? Such an epithet applied to the sea has here no propriety whatever. But if we take it in the sense in which Shake<lb rend="hidden" type="hyphenInWord"/>speare uses the same word elsewhere, as meaning manifold, various, of different kinds, &amp;c. there is the utmost propriety in it.—The colour of blood being the pre<lb rend="hidden" type="hyphenInWord"/>dominant idea in the mind of Macbeth, it is plain he means by multitudinous sea (or rather seas) the many-coloured or va<lb rend="hidden" type="hyphenInWord"/>riously-coloured seas. Geographers have their Black Sea, their White Sea, their Red Sea. And, though a natural philosopher should question whether those seas took their name from the different colours of their waters, poetical licence will sufficiently justify our author in alluding to their appellation: nay, without having recourse to poetical licence, or resting on nominal qualities, Shakespeare might, as a naturalist, advert to the occa<lb rend="hidden" type="hyphenInWord"/>sional variegation really effected in the co<lb rend="hidden" type="hyphenInWord"/>lour of the sea by floods, currents and other
+<pb n="26" facs="29"/>
+causes: all which, however, being little and partial in comparison of the main ocean, whose constant and general colour is green. Macbeth is made (by a very na<lb rend="hidden" type="hyphenInWord"/>tural and easy climax) to insinuate that his hand will not only incarnadine any par<lb rend="hidden" type="hyphenInWord"/>ticular sea of what colour soever it be oc<lb rend="hidden" type="hyphenInWord"/>casionally tinged; but that it will change even the native colour of the general con<lb rend="hidden" type="hyphenInWord"/>course of waters, the main ocean, the GREEN <hi>sea</hi> red.</p>
+            <p>I therefore read the passage thus:
+<q>
+                  <l>Will all great Neptune's <hi>ocean</hi> wash this blood</l>
+                  <l>Clean from my hand? No; this <hi>my</hi> hand will rather</l>
+                  <l>Thy multitudinous <hi>seas incarnadine;</hi>
+                  </l>
+                  <l>Making the GREEN one, red.</l>
+               </q>
+Now, whither I am right or wrong in the explication of this passage, I should read it in this manner; so that, if unapprized of my reasons for it, the sagacious critics, who have so greatly mistaken my design, would in all probability think I had committed a blunder for want of the <hi>stage-mechanism</hi> of <hi>proper emphasis.</hi> From this instance, taken from many hundreds of the like nature that might be given) may be deduced a sufficient reason why I should not effect the graces of elocution, were I even pos<lb rend="hidden" type="hyphenInWord"/>sessed
+<pb n="27" facs="30"/>
+of the powers and talents for dis<lb rend="hidden" type="hyphenInWord"/>playing them; and this is, that the strong and pointed mode of artificial declamation which is necessary to convey and enforce any new or uncommon meaning, by words already well known, and supposed to be perfectly understood, is incompatible with the graceful cadence and voluble flow of oratory.<note place="bottom" n="*">This, with the foregoing example taken from Othello, may serve to shew the <hi>reader</hi> also the expedi<lb rend="hidden" type="hyphenInWord"/>ency of an <hi>oral</hi> comment on the poet; it being impos<lb rend="hidden" type="hyphenInWord"/>sible for the <hi>writer</hi> to convey by letters the emphasis and tones made use of by the <hi>speaker.</hi>
+               </note>
+            </p>
+            <p>In a commentator, it is necessary that he should investigate and disclose all the sense and meaning contained in his author. An orator who speaks in his own character, or an actor who personates that of another, and would appear the man he represents, should attempt to convey no more sentiment than he can accompany with sensibility. On the stage we had rather lose sight of the author than the actor, who should make every thing his own, and mean no more than he can deliver with gracefulness and ease. An actor, therefore, would some<lb rend="hidden" type="hyphenInWord"/>times do well designedly to sink a quaint or latent sense in a sentence overcharged
+<pb n="28" facs="31"/>
+with meaning, rather than sacrifice the gracefulness of delivery and propriety of representation to the precise expression of a particular idea, when the general mean<lb rend="hidden" type="hyphenInWord"/>ing is natural and sufficiently full and char<lb rend="hidden" type="hyphenInWord"/>racteristick without it.</p>
+            <p>Enacting words (says the late ingenious author of the Actor) is labour too minute.</p>
+            <p>A commentator, on the other hand, cannot be too particular, precise and point<lb rend="hidden" type="hyphenInWord"/>ed in-his emphasis; even though a dissonant or deficient voice should subject him to the implication or wanting what he ought not to exert, if he had them, <hi>oratorial abilities.</hi>
+            </p>
+            <p>It is not merely as an orator, however, that I have been censured by the criticks. I have been charged as a commentator with having grossly mistaken my author, in clearing the character of Sir John Falstaff of imputed malignity of disposition, and in describing him as a <hi>harmless, inoffensive, jocular</hi> creature. A writer in the Public ledger advances this charge, among other nmrepresentations in that paper of Thurs<lb rend="hidden" type="hyphenInWord"/>day last.</p>
+            <p>
+               <pb n="29" facs="32"/>That Falstaff is a <hi>jocular</hi> creature is uni<lb rend="hidden" type="hyphenInWord"/>versally admitted; but that he is <hi>harmless</hi> and <hi>inoffensive,</hi> is what neither I, nor, I believe any body else ever before suggested. For my own part, I neither palliated his meanness nor extenuated his vices; but left him in full possession of his character for gluttony, lying, cowardice and theft. This sagacious critick, therefore, must be a great latitudinarian in morals and have adopted a very singular system of ethicks, if he holds that a man, who is at once a glutton, a liar, a coward and a thies, is a harmless inoffensive creature.</p>
+            <p>I will appeal, therefore, to my auditors, whether I have not reason to expect that criticks, who can so readily overlook the vices of mankind, should have a little more candour toward their soibles and defects. They forget that I told them my lectures were not calculated for auditors of super<lb rend="hidden" type="hyphenInWord"/>lative ingenuity; but for such only as are modest enough to think that the poet, whose intellectual eye in a fine phrenzy rolling, could dart from heaven to earth, from earth to heaven, may have sometimes seen farther than is commonly descried by the mental opticks of unpoetical or un<lb rend="hidden" type="hyphenInWord"/>critical readers.</p>
+            <div type="addition">
+               <pb facs="33"/>
+               <head>ADDITION TO THE RETORT COURTEOUS</head>
+               <p>SUCH is the Retort Courteous to the criticks, which I had the honour of read<lb rend="hidden" type="hyphenInWord"/>ing to my auditors last Wednesday: to which so many objections, and of which so many misrepresentations, have been since made in the public papers, that it becomes necessary for me to make their authors some reply.</p>
+               <p>I have in the first place been charged with affecting a sovereign contempt for newspaper animadversions, and yet stoop<lb rend="hidden" type="hyphenInWord"/>ing so low as to profit by them, in impro<lb rend="hidden" type="hyphenInWord"/>ving by the advice they contained. But surely my thinking them at first worth my animandversion is a proof that the contempt, supposed to be affected, was not quite so sovereign as alledged; especially as I am said to have thought them of still so much more consequence as to prosit by them. It were cruel to deny the authors of these
+<pb n="32" facs="34"/>
+animadversions the honour of having con<lb rend="hidden" type="hyphenInWord"/>tributed to my improvement, while they admit I am improved. I am conscious, however, of that improvement's being so very little, that it does neither them nor me any great credit.</p>
+               <p>But, though they admit I have improved by them, they seem determined not to im<lb rend="hidden" type="hyphenInWord"/>prove by me. They allow that my re<lb rend="hidden" type="hyphenInWord"/>marks are ingenious, but not convinc<lb rend="hidden" type="hyphenInWord"/>ing: the critics or rather critic, for like sovereign princes, they each write in the royal plurality, of we, us and our<lb rend="hidden" type="hyphenInWord"/>selves.—One of these critics in particular, whom I distinguish as much for his supe<lb rend="hidden" type="hyphenInWord"/>riour ingenuousness as ingenuity, admits that my reading of the passage, cited from Macbeth, is defended in a plausible man<lb rend="hidden" type="hyphenInWord"/>ner; but that he (I should say they) are nevertheless not converts to the doctrine; as they think such reading exceedingly puerile, bald and improper. As to its baldness and puerility, I shall not attempt to controvert a matter of elegance and taste; but I cannot help remarking, as something whimsical, a critic's calling any expression improper, who at the same time contends for the propriety of saying that the colour green may become red. He might as well
+<pb n="33" facs="35"/>
+say black may become white, nay better for black and white are only the extremes of light and shade merely colourable acci<lb rend="hidden" type="hyphenInWord"/>dents, and not like green and red, genuine and natural colours <note place="bottom" n="*">Green is at least a secondary, if not a primary colour.</note>.</p>
+               <p>This critic says, <q>A good logician will be able by sophistry and the artifice of words to cheat the senses.</q>—But a good logician never uses sophistry or the artifice of words, so that what he charges on a good logician proves that he means a bad one. Again, he says, <q>none but the weak will give up an opinion which was rationally founded on hearing the specious argument of an able casuist.</q> This is to suppose that a weak man is better able to found a rational opinion, or judge when it is so founded, than an able casuist. The truth indeed is, that the weak in judg<lb rend="hidden" type="hyphenInWord"/>ment are generally the most strong in opi<lb rend="hidden" type="hyphenInWord"/>nion: for, as Shakespeare says,
+<q>Conceit the strongest works in weakest minds.</q>
+Or (not to go out of the line of the critic's reading,) as it is observed to the same pur<lb rend="hidden" type="hyphenInWord"/>pose, in the air of a well known Burletta,
+<q>Remember, when the judgment's weak that pre<lb rend="hidden" type="hyphenInWord"/>judice is strong.</q>
+               </p>
+               <p>
+                  <pb n="34" facs="36"/>I do not wonder, therefore, that our critic, even though he has considered, as he says, and reconsidered the point, should still remain in his former sen<lb rend="hidden" type="hyphenInWord"/>timents. Had he given any hint of the manner in which he investigated this knotty point, one might judge of the depth and acuteness of his enquiry; and of the grounds of his tenaciousness of opi<lb rend="hidden" type="hyphenInWord"/>nion. As it is, he has lest the point as much in the dark as he found it. I will endeavour therefore to elucidate it a little farther. The main difficulty seems to lie in the meaning of the epithet multitudin<lb rend="hidden" type="hyphenInWord"/>ous, which Macbeth gives to the sea.</p>
+               <p>Now to come at the meaning of doubt<lb rend="hidden" type="hyphenInWord"/>ful words in an author there are only two ways; the one by enquiring in what sense they are used by the same and con<lb rend="hidden" type="hyphenInWord"/>temporary writers; and the other by en<lb rend="hidden" type="hyphenInWord"/>tering fully into the sentiment, and ex<lb rend="hidden" type="hyphenInWord"/>plaining them by their necessary connexion with the context. For we must not arbi<lb rend="hidden" type="hyphenInWord"/>trarily give such words the meaning, we may take it into our heads suits best with the sense, that we give as arbitrarily to the passage. This were only to make one blun<lb rend="hidden" type="hyphenInWord"/>der give sanction to another.</p>
+               <p>
+                  <pb n="35" facs="37"/>Now according to the former mode of explanation, multitudinous means as before observed, looking like a multitude, also ma<lb rend="hidden" type="hyphenInWord"/>nifold and various. Shakespeare calls the <hi>tongue</hi> multitudinous, meaning multifari<lb rend="hidden" type="hyphenInWord"/>ous, speaking many things or many lan<lb rend="hidden" type="hyphenInWord"/>guages. But neither in Shakespeare nor in any of his contemporary writers do we find multitudinous used in any sense that will justify the various suppositions that Mac<lb rend="hidden" type="hyphenInWord"/>beth here gives it to the sea, because as some say, the sea has many waves, or as others, because it has many bays, creeks and harbours, or because as others will have it, it contains shoals of herrings and mul<lb rend="hidden" type="hyphenInWord"/>titudes of mackrel.</p>
+               <p>Attending to the second mode of expla<lb rend="hidden" type="hyphenInWord"/>nation, we should enter into the sentiment and place ourselves in the situation of the speaker, assume his personage, and ask our<lb rend="hidden" type="hyphenInWord"/>selves what we should have said in the same Circumstances. The whole attention of Macbeth was engrossed with the sight of his bloody hands. His whole thoughts intent on the means of clearing them of that carnadine hue they were so deeply dyed with; so deep indeed, that he says all Neptune's ocean will not wash them clean; Nay rather these hands will incarnadine
+<pb n="36" facs="38"/>
+Neptune's seas. Is it reasonable to suppose, that, in this agitation of mind, Macbeth could advert to any other property of those seas than that which immediately related to the object before him? Would he call the sea multitudinous because it contained a multitude of fish, as if he were the busy<lb rend="hidden" type="hyphenInWord"/>brain'd projector of a British fishery? Im<lb rend="hidden" type="hyphenInWord"/>possible! It is for those reasons I continue still as firmly fixed in my opinion as the critic in his: to whom, however, being open to conviction, I shall be ready to give it up, if after having really considered and re-considered the point, he puts on his considering cap once again, and gives me a better reason for his opinion than I have given for mine.</p>
+               <p>To the critic of the Publick Ledger I am indebted for the misrepresentation of al<lb rend="hidden" type="hyphenInWord"/>most every thing he hath noticed; parti<lb rend="hidden" type="hyphenInWord"/>cularly for falsely charging me with adopt<lb rend="hidden" type="hyphenInWord"/>ing the meanings I explode, and altering the text ot Shakespeare to countenance explanations, which I deduce from that text's standing as it docs. These misrepre<lb rend="hidden" type="hyphenInWord"/>sentations are the more injurious as they subject me to unjust censure and expose me to unmerited ridicule. If they proceed,
+<pb n="37" facs="39"/>
+therefore, from the critic's having unfor<lb rend="hidden" type="hyphenInWord"/>tunately a treacherous memory and to his liberal propensity to do me, on all occasions, a good turn, I hope he will, for the future, speak truth and I am armed against his ma<lb rend="hidden" type="hyphenInWord"/>levolence. It is this writer who repeatedly informs the publick, that the ladies yawn, as he elegantly expresses it, at my lecture, for want of wit and musick. But, after such bad proofs as he has given of his ve<lb rend="hidden" type="hyphenInWord"/>racity, he will give me leave to doubt the fact; for, tho' this gentleman may require a jig or a pun to prevent his falling asleep, I have too good an opinion of my fair auditors to suppose they cannot be kept, two or three hours, awake, by a comment on Shakespeare, without the aid of a jest or the squeaking of a fiddle. Indeed I could not conceive that a critic could suppose my lectures calculated for such auditors as can be amused with the entertainment they now meet with, at the playhouses and the puppet-shews.</p>
+               <p>To the Public Advertiser, Gazetteer, and most of the evening papers I am obliged for their truth, their impartiality and their candour.</p>
+               <p>
+                  <pb n="38" facs="40"/>There is also a morning paper which has honoured me nearly as much by its abuse; but I have too much respect for my audi<lb rend="hidden" type="hyphenInWord"/>tors to notice any thing inserted in the Morning Post which, indiscriminately abusing every body, may be aptly enough said to have a tongue that utters no slan<lb rend="hidden" type="hyphenInWord"/>der.</p>
+               <p>Indeed I beg pardon of my auditors for engaging their attention so long on the mis<lb rend="hidden" type="hyphenInWord"/>takes of verbal criticks and the wilful mis<lb rend="hidden" type="hyphenInWord"/>representation, of mere word-catchers. The subject of to-night's lecture is of more im<lb rend="hidden" type="hyphenInWord"/>portance, and will therefore be more se<lb rend="hidden" type="hyphenInWord"/>rious than I propose to make the School of Shakespeare in general. If I should hap<lb rend="hidden" type="hyphenInWord"/>pen, however, to be too grave for my au<lb rend="hidden" type="hyphenInWord"/>ditors to night, I may make them amends another time, by more frequent flashes of Shakespeare's merriment. At the same time I must beg leave to observe, that as I intend (with a view to have this undertak<lb rend="hidden" type="hyphenInWord"/>ing more generally comprehended) to pub<lb rend="hidden" type="hyphenInWord"/>lish my Introductory Address and Reply to the Criticks in a printed pamphlet, I mean, with, the consent of my auditors, to recite them no more, not take any farther notice
+<pb n="39" facs="41"/>
+in this place of the news-paper remarks, as it would lead me into a field of altercation too wide to be comprized within the limits of my present plan. If my auditors, how<lb rend="hidden" type="hyphenInWord"/>ever, should have any questions to propose respecting the elucidation of Shakespeare, and will take the trouble to reduce them, to writing, I shall endeavour to give them, after due consideration, a satisfactory an<lb rend="hidden" type="hyphenInWord"/>swer.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="bythesameauthor">
+            <pb facs="42"/>
+            <head>BOOKS AND PAMPHLETS, BY W. KENRICK, LL. D.</head>
+            <list>
+               <item>Epistles to Lorenzo, philosophical and moral, 8vo. 4th edition, 4s <hi>Dilly.</hi>
+               </item>
+               <item>Eloisa, a Romance, translated from the French of J. J. Rousseau, 12mo. 4 vol. 12s <hi>Becket.</hi>
+               </item>
+               <item>Emilius, a new System of Education, translated from the same Author, 12mo. 4 vol. 12s <hi>Becket.</hi>
+               </item>
+               <item>Translations of Rousseau's Dramatic, Polemic and other Works, 12mo. 5 vol. 15s <hi>Becket.</hi>
+               </item>
+               <item>Rural Poems, translated from the German of Gesner, 8vo. 3s <hi>Becket.</hi>
+               </item>
+               <item>A Rhetorical Grammar and Dictionary of the English Language, 4to. 1l 1s <hi>Rivington.</hi>
+               </item>
+               <item>Poems, ludicrons, satirical and moral, 8vo. 4s <hi>Williams.</hi>
+               </item>
+               <item>A Satirical Review of Dr. Johnson's Shakespeare, 8vo. 4s. <hi>Paine.</hi>
+               </item>
+               <item>Falstaff's Wedding, a Comedy, as it was acted at the Theatre Royal in Drury-Lane, a new edition, 8vo. 1s <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>d <hi>Davis.</hi>
+               </item>
+               <item>The Widow'd Wife, a Comedy, as acted at the same Theatre, a new edition, 8vo. 1s 6d. <hi>Davies.</hi>
+               </item>
+               <item>An Account of the famous Wheel of Hesse-Cassel, in<lb rend="hidden" type="hyphenInWord"/>vented by Orffyreus, 4to. 1s <hi>Evans.</hi>
+               </item>
+               <item>
+                  <pb facs="43"/>Two Lectures on the perpetual Motion, <gap resp="#pdcc" extent="2 words" rend="content:〈◊◊〉">
+                     <desc>illegible</desc>
+                  </gap> by the Author, 4to. 5s <hi>Evans.</hi>
+               </item>
+               <item>Free Thoughts on Seduction, Adultery and Divorce, 8vo. 5s 3d <hi>Bell.</hi>
+               </item>
+               <item>A Letter to James Boswell, Esq. on the moral System of the Idler, 8vo. 1s 6d <hi>Fletcher.</hi>
+               </item>
+               <item>A Letter to David Garrick, Esq. on the non-perform<lb rend="hidden" type="hyphenInWord"/>ance of Falstaff's Wedding, &amp;c. second edition, 4to. 1s 6d <hi>Wheble.</hi>
+               </item>
+               <item>A poetical epistle to G. Colman, Esq. second edition, 4to. 1s <hi>Fletcher.</hi>
+               </item>
+               <item>The Duellist, a Comedy, as it was acted at the Theatre-Royal in Covent-Garden, the second edition, 8vo 1s 6d <hi>Evans.</hi>
+               </item>
+            </list>
+            <p>{inverted ⁂}The above may be had severally of their re<lb rend="hidden" type="hyphenInWord"/>spective Publishers, and of the Booksellers in general; or corrected Copies of most, particularly of the <hi>Rhetorical Grammar and Dictionary,</hi> by application to the AUTHOR.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

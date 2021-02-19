@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for publishing by subscription The man of the world, a comedy, in five acts; and, Love a la mode, a comedy, in two acts, written by Mr. Charles Macklin.:</title>
+            <title>Man of the world.</title>
+            <author>Macklin, Charles, 1697?-1797.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K027591.000</idno>
+            <idno type="docno">CW3315644967</idno>
+            <idno type="ecll">1017801400</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for publishing by subscription The man of the world, a comedy, in five acts; and, Love a la mode, a comedy, in two acts, written by Mr. Charles Macklin.:</title>
+                  <title>Man of the world.</title>
+                  <author>Macklin, Charles, 1697?-1797.</author>
+               </titleStmt>
+               <extent>[4]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London,</pubPlace>
+                  <date>1791]</date>
+                  <idno type="TCP">K027591.000</idno>
+                  <idno type="docno">CW3315644967</idno>
+                  <idno type="ecll">1017801400</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P.[1] dated: London, November 1791.</note>
+                  <note>Docket title: Proposals for publishing by subscription, The plays of Mr. Charles Macklin.</note>
+                  <note>Possibly the proposal for the 1793 edition of 'The man of the world'.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT14670.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>
+               <hi>PROPOSALS</hi> FOR PUBLISHING BY SUBSCRIPTION THE MAN OF THE WORLD, A COMEDY, IN FIVE ACTS; AND, LOVE A LA MODE, A COMEDY, IN TWO ACTS, WRITTEN BY MR. CHARLES MACKLIN.</p>
+            <p>DEDICATED, WITH PERMISSION, TO <hi>THE RIGHT HONOURABLE EARL CAMDEN.</hi>
+            </p>
+            <p>The Work to be printed under the Inspection of <hi>ARTHUR MURPHY, ESQ.</hi>
+            </p>
+            <p>
+               <hi>Who has undertaken (in the present Exigence) to be</hi> Mr. MACKLIN<hi>'s Editor.</hi>
+            </p>
+            <p>The Work will be elegantly printed <hi>in quarto,</hi> by <hi>JOHN BELL,</hi> of the <hi>British Library,</hi> Strand, on a <hi>Superfine Paper,</hi> with a <hi>Portrait</hi> of <hi>MR. MACKLIN,</hi> from an <hi>original Picture;</hi> and published in the course of the Winter; Price ONE GUINEA. The List of the Subscribers to be printed.</p>
+            <p>{inverted ⁂} SUBSCRIPTIONS to be received by Mr. BARLOW, Treasurer to <hi>Covent-Garden Theatre;</hi> and at the follow<lb rend="hidden" type="hyphenInWord"/>ing Bankers—Messrs. COUTTS and CO. in the <hi>Strand;</hi> Messrs. CROFTS and DEVAYNES, <hi>Pall-Mall;</hi> Messrs. BATSONS, STEVENSON, and CO. <hi>Lombard-street;</hi> and by Mr. LONGMAN, Bookseller, in <hi>Paternoster-Row.</hi>
+            </p>
+            <p>London, <hi>November,</hi> 1791.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>TO THE PUBLIC.</head>
+         <p>WHEN the reasons which have occasioned the necessity of the present plan, are shortly stated, the friends of Mr. MACKLIN are willing to persuade themselves, that proposals for a Subscription will not be unwelcome to the Public. Dr. JOHNSON observed, on a similar occasion, that,
+<q>"To assist industrious indigence, struggling with distress, and debilitated by age, is a display of virtue, and an acquisition of happiness and honour."</q>
+         </p>
+         <p>THE present address is an appeal to the humanity and generosity of a large and opulent community, in behalf of a Man, who has lived to the age of NINETY TWO, and of that long life has passed near SEVENTY YEARS, under the eye of the public, at all times diligent in his business, and now a worn-out Veteran in the service of the Drama.</p>
+         <p>BLESSED with uncommon vigour of constitution, Mr. MACKLIN hoped that his industry and indefatigable pains would have held him above want to the end of his life. But the decay of his memory has deprived him of all hopes of appearing again in that profession, which he always loved, and before that public, whom he honoured, for the generous encouragement, with which his exertions have been always distinguished.</p>
+         <p>IT is now near three years since he first <gap resp="#pdcc" extent="1 span" rend="content:〈…〉">
+               <desc>illegible</desc>
+            </gap> the middle of his part, on Covent Garden Stage, a sudden failure of <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+               <desc>illegible</desc>
+            </gap>. He has lived from that time in hopes of recovering his faculties; but his hopes have been too san<lb rend="hidden" type="hyphenInWord"/>guine, and he now feels with regret, that he can never again have the ho<lb rend="hidden" type="hyphenInWord"/>nour of presenting himself before a British Audience.</p>
+         <p>IT is for this reason, that his friends presume to make this application. The two pieces, on which the applause of numerous audiences has stamped a value, were never printed, and as Mr. MACKLIN's memory has so far de<lb rend="hidden" type="hyphenInWord"/>serted him, as to render those productions of no further use to him, it has been agreed, at a meeting of his friends, to offer them to the public by Sub<lb rend="hidden" type="hyphenInWord"/>scription.</p>
+         <p>
+            <pb facs="3"/>THE EDITOR has most cheerfully undertaken the office of superintending the press, for a disabled Performer, whom he has known during a number of years, and whom he always respected for his professional talents. He would take the liberty to add more, were he not restrained by Mr. MACKLIN, who says,
+<q>"That he has not lived an inattentive observer of the public mind, and therefore desires that his case, without further solicitation, may be left to the generosity of such, as are willing to relieve the languor of age, and the pains of disease, and indigence."</q>
+         </p>
+         <p>N. B. Dr. BROCKLESBY, JOHN PALMER, Esq. of the <hi>Post Office,</hi> and THOMAS LONGMAN, Esq. of Paternoster-Row, have undertaken, as TRUSTEES, to receive the amount of the Subscription, and to vest the same in such manner, as will carry into execution the intention of the Subscribers, for Mr. MACKLIN's Benefit.</p>
+      </body>
+      <back>
+         <div type="endtitle">
+            <pb facs="4"/>
+            <p>
+               <hi>PROPOSALS</hi> FOR PUBLISHING BY SUBSCRIPTION, <hi>THE PLAYS</hi> OF MR. CHARLES MACKLIN.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

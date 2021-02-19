@@ -1,0 +1,1323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of some of the most romantic parts of North Wales:</title>
+            <author>Cradock, Joseph, 1742-1826.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K029542.000</idno>
+            <idno type="docno">CW3302436473</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of some of the most romantic parts of North Wales:</title>
+                  <author>Cradock, Joseph, 1742-1826.</author>
+               </titleStmt>
+               <extent>iv,147,[1]p.,plates : map ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for T. Davies; and T. Cadell,</publisher>
+                  <date>1777.</date>
+                  <idno type="TCP">K029542.000</idno>
+                  <idno type="docno">CW3302436473</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Joseph Cradock.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT18894.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="map">
+            <pb facs="1"/>
+            <p>
+               <figure rend="block">
+                  <figDesc>map of North Wales</figDesc>
+                  <head>MAP of NORTH WALES</head>
+                  <p>J. Barber delin. et Sculp.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>AN ACCOUNT OF SOME OF THE MOST ROMANTIC PARTS OF NORTH WALES.</p>
+            <q>
+               <l>—Of Antres vast, and Desarts idle,</l>
+               <l>
+                  <gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                     <desc>illegible</desc>
+                  </gap>ough Quarries, Rocks, and Hills, whose Heads touch Heav'n,</l>
+               <l>
+                  <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> was my Hint to speak.</l>
+               <bibl>SHAKESPEARE.</bibl>
+            </q>
+            <p>LONDON, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>rinted for T. DAVIES, Russel-Street Covent-Garden; and T. CADELL, in the Strand. MDCCLXXVII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="3"/>
+            <head>TO Sir WATKIN WILLIAMS WYNNE, Bart.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>EVERY one will see the propriety of dedicating an Account of North Wales to You, who possess so consider<lb rend="hidden" type="hyphenInWord"/>able a part of that Country, and yet, Sir, this is not the motive of my Address;—it is from a
+<pb n="iv" facs="4"/>
+high regard to that public and private Character which has hitherto been an ornament to Society, and which I trust will continue to adorn the Age with those Virtues, of which your Ancestors were such emi<lb rend="hidden" type="hyphenInWord"/>nent Examples.</p>
+            <closer>
+               <signed>I have the Honour to be, with great respect, Sir, your obedient servant, JOSEPH CRADOCK.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="5"/>
+            <head>ARMS OF THE PRINCIPALITY.</head>
+            <pb facs="6"/>
+            <p>BRUTE gave to CAMBER his Third sonne, CAMBRIA with theise Armes Tres Leones Gradientes facies <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> ad terga uertentes in Campo Argent<gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                  <desc>illegible</desc>
+               </gap>. In Frenche, <hi rend="blackletterType">Is portoit d'Argent trois Inons passants regardantes de Genses,</hi> The which Armes the Kinges and Prynces of Wales and theire ofsprynge, used for a song tyme after, untill the Country was deuided into three distant Pryncypalytyes viz: <hi>North Wales South Wales</hi> and <hi>Powes Lande.</hi> And then they tooke seuerall Arme.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="7"/>
+            <p>
+               <figure rend="block">
+                  <figDesc>royal blazon or coat of arms of Wales</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure rend="block">
+                  <figDesc>royal blazon or coat of arms of North Wales</figDesc>
+                  <head>North Wales.</head>
+               </figure>
+               <figure rend="block">
+                  <figDesc>royal blazon or coat of arms of South Wales</figDesc>
+                  <head>South Wales.</head>
+               </figure>
+               <figure rend="block">
+                  <figDesc>royal blazon or coat of arms of Powes Land</figDesc>
+                  <head>Powes Land.</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <pb facs="8"/>
+         <head>AN ACCOUNT OF SOME OF THE MOST ROMANTIC PARTS OF NORTH WALES.</head>
+         <p>AS every one now who has either traversed a steep <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ountain, or crossed a small <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>annel, must write his Tour, it <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ould be almost unpardonable <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+               <desc>illegible</desc>
+            </gap> Me to be totally silent, who
+<pb n="2" facs="9"/>
+have visited the most uninhabite<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> regions of North Wales—wh<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> have seen lakes, rivers, sea<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> rocks, and precipices, at unmea¦surable distances, and who from observation and experience can in¦form the world, that high hill<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> are very difficult of access, an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the tops of them generally ver<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> cold.</p>
+         <p>But ancient Britain has a kin<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> of hereditary claim upon me, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> I have the honour to boast of m<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> origin from thence; and as th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="3" facs="10"/>
+name and exploits of my an<lb rend="hidden" type="hyphenInWord"/>cestors continually occur through the wild heroic pages of Welsh fable or history.</p>
+         <p>This journey was undertaken rather late in the autumn 1776; <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>he season proved remarkably favourable, neither rains not winds impeded my progress—<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>he air on the mountains was <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>ft rarified by the summer's heat, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>e sun shone out all the day <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Cader, and Snowdon had not
+<pb n="4" facs="11"/>
+begun to fortify himself agains<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> this almost winter approach.</p>
+         <p>I set out from Shrewsbury fo<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Welsh Poole,—the last eigh<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> miles afforded a most beautifu<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> prospect of a rich vale in Mon<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>¦gomeryshire. The Vales through out this county are remarkabl<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> pleasant; but they have bee<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> so frequently described, that <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+               <desc>illegible</desc>
+            </gap> is almost superfluous to observ<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> that they abound with corn, a<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> are luxuriant in pasturage.</p>
+         <p>
+            <pb n="5" facs="12"/>Welsh Poole is a place of some note—it is one of the five Boroughs in Montgomeryshire, which jointly send a member to Parliament. It has a good mar<lb rend="hidden" type="hyphenInWord"/>ket, but though the Severn is navigable within two miles of it, there is scarce ever any fish—even salmon is never under twelve pence a pound. It takes its name from a contemptible black pool, which is said to be unfathomable, and of which there is a prophecy, that it shall
+<pb n="6" facs="13"/>
+some time or other overflow and deluge the town. This prophecy is still believed in Wales.</p>
+         <p>About a mile from hence stands Powis castle, or <hi>Red</hi> castle, from the colour of the stones of which it is built. The situa<lb rend="hidden" type="hyphenInWord"/>tion of it is certainly very noble, but I cannot agree with Lord Lyttelton, that three thousand pounds would make it the most august place in the kingdom; there is much to be done in the mere approach, and at pre<lb rend="hidden" type="hyphenInWord"/>sent
+<pb n="7" facs="14"/>
+you are obliged to ask where the Severn runs. The ground is laid out in that formal style of gardening, that was brought in at the Revolu<lb rend="hidden" type="hyphenInWord"/>tion, and there will be much difficulty in altering it with propriety. A common Under<lb rend="hidden" type="hyphenInWord"/>taker in Taste, would imme<lb rend="hidden" type="hyphenInWord"/>diately convert the clipt hedges <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nd true-love-knots, into a gau<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>y and unmeaning shrubbery, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ut to decorate this place to <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>dvantage, the Genius of this
+<pb n="8" facs="15"/>
+place only must be consulted, <q rend="inline">"th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> 
+               <note place="bottom" n="*">Pope.</note> parts should every where b<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> connected with each other, an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> must likewise bear a referenc<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> to the whole."</q> On my retur<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> to Poole, I ordered a carriage t<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> convey me to Llanvair—this wa<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> to be my last stage on know<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> ground,—the road was perfectl<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> good, the people in general spok<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> English, and their civility was <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> remarkable, that the very turn¦pike man was grateful for th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="9" facs="16"/>
+toll. I was here most strongly recommended to a good house, about twelve miles distant, but found it only a miserable hut; I therefore pressed onwards as fast as possible, and after some difficulties arrived at Dynys-Mouthy.</p>
+         <p>This City (for Dynys is Welsh for City) is possessed of many and great advantages; there is no body-corporate to divide it into faction, there is not a single Office that can possibly be con<lb rend="hidden" type="hyphenInWord"/>tended
+<pb n="10" facs="17"/>
+for—the rent of houses will be the same at all seasons and even in August you are ne¦ver incommoded by the sun The river is not large, but it wil<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> never be encroached upon by the inhabitants; their sequestered walks will never be injured by any fresh Dealers in Taste,—in deed they have only one tree to cut down, an oak planted in th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> reign of Charles the Second; an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> I believe they have never hear<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> of any King since.</p>
+         <p>
+            <pb n="11" facs="18"/>As to Fashions, they are simi<lb rend="hidden" type="hyphenInWord"/>lar to those in Town—the head<lb rend="hidden" type="hyphenInWord"/>dress of the Females is very high, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nd in a morning they generally <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ear the Half Palonese<note place="bottom" n="†">Jackets and petticoats.</note>.</p>
+         <p>The Inns too, like the London <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nes, are dark and dirty, but <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ere is very little noise in them; <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>d as to provisions, the people <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> not attempt to make what na<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>e has not bestowed upon them. <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>hey gave me whatever they
+<pb n="12" facs="19"/>
+had, Bread, uncontaminated wit<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> spurious mixtures, and Milk, tha<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> was absolutely from the cow.</p>
+         <p>I did not see a Cathedral, no<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> heard of either bishop or palace<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> probably he might reside at <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> great distance, and have consigne<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> his flock over to a chapel of eas<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+         </p>
+         <p>There is no court of judica¦ture open here. This city is a<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> free from attornies as ancie<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> Thebes; indeed the two neve<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> failing sources of litigation, t<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Poor laws and the Game law
+<pb n="13" facs="20"/>
+are entirely unknown. There is not even a Quack; so that those whom liquor spares, generally die at a very advanced age.</p>
+         <p>The Theatre is held in great repute. I had the pleasure to be present at one play, which is here called an <hi>Anterlute,</hi> probably a corruption from our term Inter<lb rend="hidden" type="hyphenInWord"/>lude. The piece was said to have been written by a celebrated Mr. Evan something, who lived at Bala; but, from the <hi>actions, ges<lb rend="hidden" type="hyphenInWord"/>tures,</hi> and <hi>emblems,</hi> I conceived it
+<pb n="14" facs="21"/>
+to have been modelled from be<lb rend="hidden" type="hyphenInWord"/>fore Shakespeare's time. The plot was in part similar to a burletta, which has frequently been exhi<lb rend="hidden" type="hyphenInWord"/>bited in London, called La Serva Padrona, but the music was cer<lb rend="hidden" type="hyphenInWord"/>tainly <hi>not</hi> Pergolen. The or<lb rend="hidden" type="hyphenInWord"/>chestra, to be sure, was exceed<lb rend="hidden" type="hyphenInWord"/>ingly contracted; but we must reflect, that some of our best, as well as earliest dramas, were only accompanied by a Harp. The price of admittance to this ele<lb rend="hidden" type="hyphenInWord"/>gant entertainment, would have
+<pb n="15" facs="22"/>
+been termed by the Romans, De<lb rend="hidden" type="hyphenInWord"/>narius.</p>
+         <p>The road from Dynys Mouthy afforded but little amusement, and the first cast of Cader Idris greatly disappointed me; but I soon recollected, that as I was then on very high ground, it must have been from some other point of view that this mountain had rendered itself so remark<lb rend="hidden" type="hyphenInWord"/>able. In the course of this re<lb rend="hidden" type="hyphenInWord"/>flection, I was on a sudden de<lb rend="hidden" type="hyphenInWord"/>lighted with the country round
+<pb n="16" facs="23"/>
+Dolgelly,—woods, rocks, a ric<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> vale, a fine river, and, at that dis<lb rend="hidden" type="hyphenInWord"/>tance, the appearance of rathe<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> a decent town, surrounded wit<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> many gentlemen's seats,—these contrasted with the barrenness had just travelled through, al<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> joined to render the prospec<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> truly delicious. But how was <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> disgusted on my arrival at the in¦terior parts of this miserable place<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> there is no street in it; you pas<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> from dungeon to dungeon through a multiplicity of hog<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="17" facs="24"/>
+yards;—before I reached the inn <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> heard a cracked trumpet sound<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ng every where about, and im<lb rend="hidden" type="hyphenInWord"/>mediately concluded that I might <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ee, in the evening, another farce <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>r <hi>anterlute</hi>; but was informed it <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>as only intended to call the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ustices to the quarter-sessions. <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the inn there was nothing to <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>e obtained; so that as soon as <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>ssible I sent out for a Guide, <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>at I might retire to the moun<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="3 letters" rend="content:•••">
+               <desc>illegible</desc>
+            </gap>ns;—whilst I was in waiting, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nquired about the only toler<lb rend="hidden" type="hyphenInWord"/>able
+<pb n="18" facs="25"/>
+building I then saw, an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> was told it was for <hi>cock-match<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>
+            </hi> such as we had in England;—that they were just over, but th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> I might go immediately and <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> a famous man from London sh<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> 
+            <hi>tricks of slight of hand.</hi> I chie<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+               <desc>illegible</desc>
+            </gap> wished for some refreshme<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> having greatly suffered from <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>∣tigue and illness the preced<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> day; but as I was a stranger, people shewed me little or no¦vility, and on my enquiring horses, took every advantag<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="19" facs="26"/>
+my distress. I was now almost <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nclined to have bestowed upon <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>hem some rather ungracious epi<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>hets; but I considered, that as we <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>emed to be teaching them no<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>ing from England but <hi>cruelty</hi> 
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nd <hi>fraud,</hi> I ought rather to la<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ent the cause than insult the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ect of their brutality.</p>
+         <p>On the arrival of the Guide, I <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>t out immediately for Cader <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ris, and found the tract ex<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>edingly good, till I came to a <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>ominent part of the mountain,
+<pb n="20" facs="27"/>
+and here, I must acknowledg<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> my head was too giddy suff<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>¦ciently to admire the amazin<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> scene that was opening to m<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> view. At length, having gaine the summit, (the whole asce<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> being near three miles,) on<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> fine piece of level ground, I cou<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> with comfort survey the sea, t<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> Carnarvonshire shore, Snowd<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> without a cloud upon his to lakes, rivers, rocks, and precipi<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> which were every way spre<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> before me;—at the bottom <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="21" facs="28"/>
+the hill, on the opposite side, was a small Village, to which several were returning heavy loaden from Dolgelly market; this Vil<lb rend="hidden" type="hyphenInWord"/>lage is remarkable for nothing but the remains of a small castle, whose miserable situation could not secure it from the de<lb rend="hidden" type="hyphenInWord"/>predations of Cromwell's army. In the course of my survey of the Mountain, it seemed to take a thousand capricious forms, but the most wonderful part of it is <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>he tremendous peak, which over<lb rend="hidden" type="hyphenInWord"/>hangs
+<pb n="22" facs="29"/>
+the Lake of the <note place="bottom" n="*">The common people believe thes<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> three large craggs to have been cast out o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> the shoes of the giant Idris.</note> Thre<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Grains,—but here I shall for¦bear description, as a fine repre¦sentation of it, has been latel<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> executed, by the ingenious an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> accurate pencil of Mr. Wilson.—On my return I discovered, fai<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> out of any tract, on the steepes<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> part of the hill, a man gathering rock-moss to dye baizes red,—<q rend="inline">"dreadful trade!"</q> one coul<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="23" facs="30"/>
+only exclaim;—this excrescence is chiefly sold to Dublin—it af<lb rend="hidden" type="hyphenInWord"/>fords a most beautiful colour at first, and if mixed with proper ingredients and distilled, will, it is said, become permanent. Be<lb rend="hidden" type="hyphenInWord"/>ing very thirsty from heat and fatigue, I enquired for some goat's milk, but to no purpose; the Guide, however, informed me, that he could procure me, from a neighbouring cottage, a liquor, peculiar to that part of North Wales, which infinitely
+<pb n="24" facs="31"/>
+exceeded Stirom cyder—I tasted it, and found it was made of mountain-ash berries and crabs or sloes<note place="bottom" n="*">The following lines have since occur<lb rend="hidden" type="hyphenInWord"/>red to me:<q>
+                  <l>"Then she describes</l>
+                  <l>The Scythian winter, nor disdains to sing</l>
+                  <l>How under ground the rude Riphaean race</l>
+                  <l>Mimic brisk cyder with the brake's pro<lb rend="hidden" type="hyphenInWord"/>duct wild;</l>
+                  <l>Sloes pounded, hips, and servis' harshest juice."</l>
+                  <bibl>PHILIPS.</bibl>
+               </q>
+            </note>,—it should remain at least half a year in the vessel be<lb rend="hidden" type="hyphenInWord"/>fore it is bottled off, and if it were then kept to a proper age, it would not be altogether con<lb rend="hidden" type="hyphenInWord"/>temptible.
+<pb n="25" facs="32"/>
+The tediousness of my return to Dolgelly, was somewhat beguiled by the con<lb rend="hidden" type="hyphenInWord"/>sequential information of the Guide, and I must own he great<lb rend="hidden" type="hyphenInWord"/>ly entertained, and at the same time shocked me with the respect he paid me as an English gen<lb rend="hidden" type="hyphenInWord"/>tleman,—whenever he replied to Me, he thought it necessary to <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nterlard his answer with fre<lb rend="hidden" type="hyphenInWord"/>quent oaths, whereas I found when he spoke to my servant only, it was entirely in an un<lb rend="hidden" type="hyphenInWord"/>adorned
+<pb n="26" facs="33"/>
+style, without the least display of these sensible embel<lb rend="hidden" type="hyphenInWord"/>lishments.</p>
+         <p>The next morning being Sun<lb rend="hidden" type="hyphenInWord"/>day, I went to eight o'clock prayers here—the area of the church is spacious, and the pews neat—there is a coving roof of wood which is necessary to aid th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> voice, as the floor is only clay covered deep with rushes; th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> congregation was large, and th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> service was read with devotion and tolerable propriety.</p>
+         <p>
+            <pb n="27" facs="34"/>My stay was prolonged at Dolgelly, that the master of the Inn, who was absent on my first arrival, and who was justly re<lb rend="hidden" type="hyphenInWord"/>commended to me as an intel<lb rend="hidden" type="hyphenInWord"/>ligent Person, might attend me to see the three wonderful water<lb rend="hidden" type="hyphenInWord"/>falls in this neighbourhood—one of them is in so obscure a place, that the minister of an adjoining Parish, whom I after<lb rend="hidden" type="hyphenInWord"/>wards met with, had never till that time even heard of it:—about five miles on the road towards
+<pb n="28" facs="35"/>
+Tan y Bwlch, we turned on the left hand to see the first, which I take to be a part of the river Dery—this is not more than fifty feet in height, but you may afterwards trace it, for near a mile, through crags and trees, before it reaches its rocky bed at the bottom; the others, are falls of whole rivers, the Moth<lb rend="hidden" type="hyphenInWord"/>waye and the Cayne, over the tops of two rocky moun<lb rend="hidden" type="hyphenInWord"/>tains;—the former perhaps may not be above one hundred fee
+<pb n="29" facs="36"/>
+in height, but the latter is cer<lb rend="hidden" type="hyphenInWord"/>tainly at least an hundred yards—both of them are shaded with beautiful woods on the sides of hills, whose summits are in the clouds, and whose feet are white<lb rend="hidden" type="hyphenInWord"/>ned by the foam of these tre<lb rend="hidden" type="hyphenInWord"/>mendous cataracts.</p>
+         <p>Before we reached Tan y Bwlch, we stopped to look into a small church; where some clean<lb rend="hidden" type="hyphenInWord"/>ly villagers were assembled at evening prayers,—the women were by far the handsomest of
+<pb n="30" facs="37"/>
+any I saw in this country; the clergyman was reading the lesson concerning David and his Con<lb rend="hidden" type="hyphenInWord"/>cubines, and I could not help reflecting, that if these ignorant people should any way confound the Old with the New Law, they might here find some excuse for that Gallantry, which sacrifices the virtue of so many females in this neighbourhood: to prevent such a mistake, would it not be proper to have an exposition made of this chapter, and trans<lb rend="hidden" type="hyphenInWord"/>lated
+<pb n="31" facs="38"/>
+into Welsh,—I mean only, provided the learned labour could be confined within the narrow limits of five volumes in folio.</p>
+         <p>I was much struck with the situation of Mrs. Griffith's house at Tan y Bwlch,—at first fight it somewhat resembled Matlock Bath, but the hills in front are thrown to a fine distance, and behind the house they are co<lb rend="hidden" type="hyphenInWord"/>vered with wood;—through a very spacious valley the river Dryryd runs, and from the tops
+<pb n="32" facs="39"/>
+of the mountains are frequen<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> and not inconsiderable cataracts—indeed most of the romantic prospects of North Wales, taken separately, are infinitely superio<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> to those of Derbyshire; but where shall we find within the same distance, such amazing contras<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> as the high polish of Kedleston opposed to the bleak horrors of the Peak.</p>
+         <p>Mrs. Griffith is possessed of a considerable fortune,—she has an only daughter, to whom a
+<pb n="33" facs="40"/>
+sensible clergyman, who resides in the house, is tutor, and who, though a chaplain, is treated as independent. A lady, it is true, in such a country cannot be eve<lb rend="hidden" type="hyphenInWord"/>ry day interrupted with visitants, but Mrs. Griffith has generally a select party of friends,—these form a rational society, whereas in many places, a good neigh<lb rend="hidden" type="hyphenInWord"/>bourhood means little more than <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>eeping an inn at your own ex<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ence.</p>
+         <p>
+            <pb n="34" facs="41"/>At the distance of about three miles (the road most beautifully diversified) the scene changes on a sudden to some dark and naked precipices; at the bottom is a large rocky bason, which receive the Rhaidr-du, or Black Cataract as it is called,—this, I am con¦fident, is exactly similar to th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> spot where Hecate appointed he<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> sister-witches to assemble, an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> offer their choicest incantation<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> to complete the ruin of Macbet<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <q>
+               <pb n="35" facs="42"/>
+               <l>And at the pit of Acheron</l>
+               <l>Meet me i'th' morning; thither He</l>
+               <l>Shall come, to know his destiny.</l>
+            </q>
+         </p>
+         <p>The mistress of the little inn <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+               <desc>illegible</desc>
+            </gap> Tan y Bwlch, has lived many <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ears servant in considerable fa<lb rend="hidden" type="hyphenInWord"/>milies, and from her attentive <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ivility, has received great com<lb rend="hidden" type="hyphenInWord"/>mendations from the few Eng<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ishmen that have hitherto visit<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>d this country.—Her house is <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>his year much improved;—Lord <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>adnor, having staid a day or <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>wo there, has made her a pre<lb rend="hidden" type="hyphenInWord"/>sent
+<pb n="36" facs="43"/>
+of the fitting up of her parlour: two sash-windows add great chearfulness to the room and each grateful passenger rea¦dily joins with the landlady in celebrating the kindness of th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> public-spirited young nobleman</p>
+         <p>The road to Harlech afforde<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> great variety; there could scarc<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> be more within the compass of ten miles. For the first thre<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> we surveyed <q rend="inline">"the Happ<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Valley<note place="bottom" n="*">Vide Johnson's Raffelas.</note>,"</q> we then passed b<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="37" facs="44"/>
+a beautiful lake, and having gained the next mountain saw the Castle, situated on a high rock, which projects into the Irish sea. It must be confessed, however, that the last two miles were rather <q rend="inline">"a stair-case path;"</q> but I have frequently travelled for twenty miles together in the midland counties of England with more danger and difficulty. In Wales one has the pleasure of seeing that they are making daily improvements in roads; but in
+<pb n="38" facs="45"/>
+England the farmers are so rich that, by the aid of some petty attorney in the neighbourhood they can generally protect per¦verseness by knavery.</p>
+         <p>Harlech stands on the north-west side of the county of Merio¦neth; its houses are mean, and its inhabitants uncivilized. There is a good harbour for ships, bu<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> no ships for the harbour. It is remarkable only for its old de<lb rend="hidden" type="hyphenInWord"/>cayed castle, which was defend<lb rend="hidden" type="hyphenInWord"/>ed by a British nobleman against
+<pb n="39" facs="46"/>
+Edward the fourth, till an earl of Pembroke, after almost incredi<lb rend="hidden" type="hyphenInWord"/>ble difficulties, compelled it to surrender. It has been confi<lb rend="hidden" type="hyphenInWord"/>dently asserted that this castle was built before Edward the first's time, and that all he did was the making some additions, especial<lb rend="hidden" type="hyphenInWord"/>ly to the fortifications; but I should be rather inclined to think. that it was planned at least by Edward. A tradition goes, that the workmen, after they had got to a considerable height, were
+<pb n="40" facs="47"/>
+all taken off to build the castles of Aberystwith and Carnarvon; and indeed there are evident marks of a Separation.</p>
+         <p>An unpolished people, it is observed, have little or no curio<lb rend="hidden" type="hyphenInWord"/>sity,—I had seated myself by the fire-side in one of the houses at Harlech without the inhabitants expressing the least surprize at it; the Guide and attendants began to be rather clamorous for some refreshment, and the people at length brought them some oat<lb rend="hidden" type="hyphenInWord"/>meal
+<pb n="41" facs="48"/>
+bread, sour porter, and linking cheese. On my leaving he house, I believe I gave the mistress of it more than she ex<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ected, for she immediately re<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>alled me to share some cockles with her, that were stewing on <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>he hearth, and whilst I was <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>asting them, she super-added a <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ook of such native kindness <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nd good-will, as infinitely sur<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>assed all the artifices of refine<lb rend="hidden" type="hyphenInWord"/>ment.</p>
+         <p>
+            <pb n="42" facs="49"/>From Harlech a fresh guid<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> conducted me over the top o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the mountain, and I found a<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> entire good road on my retur<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> to Tan y Bwlch.</p>
+         <p>Leaving my little Inn the<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> with regret, I passed a drea<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> cloud-capt country, till I cam<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> to a road which, for near a mi<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> was cut through a barren roo<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> and finely preparative for t<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> scene that was to open up<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> me. On a sudden I came up<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="43" facs="50"/>
+Pont Aberglaslyn, the bridge that divides the counties of Merioneth and Carnarvon. It consists of only one wide stone arch, thrown over a considerable water-fall, from two perpendicular pre<lb rend="hidden" type="hyphenInWord"/>cipices; beyond it is a semicircle of rock, which forms a salmon-<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>eap, above which, in spawn<lb rend="hidden" type="hyphenInWord"/>ing time, the fish frequently at<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>empt to lodge themselves, at <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>he amazing height of five or in yards; they are frequently taught here in the season with
+<pb n="44" facs="51"/>
+nets, and sometimes with spea<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> that are barbed for the purpose but having passed the bridg<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> how shall I express my feelings—the dark tremendous prec<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>¦pices, the rapid river roarin<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> over disjointed rocks, blac<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> caverns, and issuing cataracts,—all serve to make this the noble specimen of the Finely Horri<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the eye can possibly behold,—the Poet has not described, n<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> the Painter pictured so gloom<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> a retreat,—'tis the last Approa<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="45" facs="52"/>
+to the mansion of Pluto through the regions of Despair.</p>
+         <p>Having staid too long in con<lb rend="hidden" type="hyphenInWord"/>templating this amazing pass, I posted as fast as possible over a rocky desert to gain some re<lb rend="hidden" type="hyphenInWord"/>freshment at Bethkelert; the blacksmith's house appearing the nearest, I alighted, and was able to obtain two eggs, which might here be considered as a most luxurious repast. At Tan y Bwlch I had been informed, that I should really meet with
+<pb n="46" facs="53"/>
+very decent accommodations at Bettus, and might with comfort take up my abode there for an evening. As I travelled, I re<lb rend="hidden" type="hyphenInWord"/>flected on Burnet's Description of a part of Carnarvonshire, that it was <q rend="inline">"the fragment of a de<lb rend="hidden" type="hyphenInWord"/>molished world,"</q> and on making some slight observation to the Guide of the dreariness that sur<lb rend="hidden" type="hyphenInWord"/>rounded me, <q rend="inline">"Aye, master, says he, this must have been an an<lb rend="hidden" type="hyphenInWord"/>cient country indeed, for you see it is worn out to the
+<pb n="47" facs="54"/>
+               <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ery stones,"</q> this remark how<lb rend="hidden" type="hyphenInWord"/>ever, is probably rather good <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>han new;—but we were now arrived at Bettus, and the Guide pointed to the house, where I was to get lodging and entertain<lb rend="hidden" type="hyphenInWord"/>ment;—the violent stench did not prevent my looking in,—the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>avages sat lapping their oatmeal <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nd milk, and the swine were <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ttendant at the table. In such <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> situation, only one question <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ould properly be asked, which was, how many miles to Car<lb rend="hidden" type="hyphenInWord"/>narvon?
+<pb n="48" facs="55"/>
+Finding the distanc<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> only six miles, I determine<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> to hazard being lost in th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> night, rather than to be su<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>¦focated in this nauseous dun¦geon. I must own I did her<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> expatiate a little on recommen¦dations, and said it was imposs<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>∣ble that the Guide, as well as th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> mistress of the Inn at Tan <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Bwlch, could be so intolerabl<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> mistaken; the man apologize with great frankness, that he di<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="49" facs="56"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ot think the house altogether <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>o bad, as my Honour would <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ave been sure to have gotten <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ome good ale;"—however, a<lb rend="hidden" type="hyphenInWord"/>midst all my vexation, I could <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ot help doubting, whether Man <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ink into a Savage at Bettus, or polished into an Ape at Paris, was altogether the more respect<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ble animal.</p>
+         <p>Within three miles of Car<lb rend="hidden" type="hyphenInWord"/>narvon I was agreeably surprised with a very fine road, and a new <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ridge, which will open a free
+<pb n="50" facs="57"/>
+communication with these unfre¦quented regions, and induce th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Curious to visit the Wonders o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the British Alps, in preference t<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the Mountains of Switzerland, o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the Glaciers of Savoy.—Mr. Ba<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>¦rington, who, to a consummat<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> knowledge in the formation o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Laws, adds Zeal and Propriety i<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the execution of them, has now indicted all the parishes betwee<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Carnarvon and Bethkelert; an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> indeed, unless men of great ran<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> or the justices of each distric<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="51" facs="58"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ill take upon them this office, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>at Bill, which was in many <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>rts so excellently framed by <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>r. Gilbert about two years ago, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ust become totally void and in<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>icacious;—I know that it will <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> immediately said, that any <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ivate gentleman has the same <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ans within his own power; <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>t what private gentleman, for <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> sake of a road, will live in <gap resp="#pdcc" extent="3 letters" rend="content:•••">
+               <desc>illegible</desc>
+            </gap>petual warfare with five or six <gap resp="#pdcc" extent="3 letters" rend="content:•••">
+               <desc>illegible</desc>
+            </gap>ishes around him?—Who, for <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+               <desc>illegible</desc>
+            </gap> convenience of rolling his
+<pb n="52" facs="59"/>
+carriage a quarter of an ho<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> sooner to some neighbouring m<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>¦ket-town, will endanger his pl<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>¦tations being cut down, or <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> cattle to be either maimed or <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>¦stroyed?</p>
+         <p>I passed my evening at a v<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> good inn at Carnarvon, and h<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>¦ing procured an intelligent Gu<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> returned early next morn<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+               <desc>illegible</desc>
+            </gap> through Bettus to the foo<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Snowdon.—Having left my h<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> at a small hut, and hired a m<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+               <desc>illegible</desc>
+            </gap>¦taineer to carry some cor<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="53" facs="60"/>
+            <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>d provisions, with a spiked <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>ck, but imprudently without <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ils in my shoes, about ten <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>clock I began to ascend the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ountain.—The two first miles <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ere rather boggy and disagree<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ble, but when the prospect open<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>d, I soon forgot all difficulties;—in the course of the two last I <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>assed by six precipices, which I <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>elieve were very formidable, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ut as I was near the brink, and <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>e wind very high, I did not <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>enture to examine too narrowly.
+<pb n="54" facs="61"/>
+—On the summit, which is a pla<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> about six yards in circumferen<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the air was perfectly mild and <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> rene, and I could with pleasu<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> contemplate the amazing m<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> that was unfolded to my view.—From hence may be distinct <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> seen, Wicklow Hills in Irelan<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the Isle of Man, Cumberland, La<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> cashire, Cheshire, Shropshire, a<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> part of Scotland;—all the cou<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>¦ties of North Wales, the Isle <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Anglesea;—rivers, plains, wood rocks, and mountains, six an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="55" facs="62"/>
+twenty lakes, and two seas;—it is doubted whether there is an<lb rend="hidden" type="hyphenInWord"/>other circular prospect so exten<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ive in any part of the terraqueous globe.—Who could take such a Survey, without perceiving his Spirits elevated in some propor<lb rend="hidden" type="hyphenInWord"/>tion to the Height?—Who could behold so bountiful a Display of Nature without Wonder and Ec<lb rend="hidden" type="hyphenInWord"/>stacy?—Who but must feel even a Degree of Pride from having gained an eminence, from which he could with ease overlook the
+<pb n="56" facs="63"/>
+Nest <note place="bottom" n="*">
+               <p>Moel Guidon, and Moel Happo<gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                     <desc>illegible</desc>
+                  </gap> two mountains near Snowdon, mention<gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                     <desc>illegible</desc>
+                  </gap> by Lord Lyttelton.</p>
+               <p>Vide Account of a Journey into Wal<gap resp="#oxf" extent="1+ letters" rend="content:•…">
+                     <desc>illegible</desc>
+                  </gap>
+               </p>
+            </note> of the Eagle, and the Ne<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> of the Hawk?</p>
+         <p>But as the level walks of Lif<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> are best suited to the generality <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Mankind, it became necessary t<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> consider that this was no sp<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> where I could properly make an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> lasting Abode, and that the Re¦turn would be attended with a least as much difficulty as th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Ascent.—Having descended
+<pb n="57" facs="64"/>
+mile or two, I did not think it amiss to enquire about an ex<lb rend="hidden" type="hyphenInWord"/>hausted Mine that I saw at a dist<lb rend="hidden" type="hyphenInWord"/>ance; and I could make this en<lb rend="hidden" type="hyphenInWord"/>quiry with the better grace, as the Guides had hitherto quite won<lb rend="hidden" type="hyphenInWord"/>dered at my prowess;—the Mine I was informed was only Copper; and happy was it for the Welsh that their Mines did not consist of choicer Metals;—had they been cursed with either Gold or Silver, Foreign Nations long since, in the name of the
+<pb n="58" facs="65"/>
+God of Peace, and under pretence of teaching them an immaculate Religion<note place="bottom" n="*">The Spaniards made the Gospel an Excuse for all the barbarities they com<lb rend="hidden" type="hyphenInWord"/>mitted in the conquest of Peru, and when they plundered the rich mines of Potosi, they frequently (says Las Casas) erected gibbets all over the country, and hung twelve poor wretches at a time, in honour of the twelve Apostles.</note>, had laid waste their country, and murdered its inha<lb rend="hidden" type="hyphenInWord"/>bitants.</p>
+         <p>At the Foot of Snowdon I turn<lb rend="hidden" type="hyphenInWord"/>ed about half a mile out of the way to see a Water-fall;—the
+<pb n="59" facs="66"/>
+Side-rock was exceedingly beau<lb rend="hidden" type="hyphenInWord"/>tiful, but the Cataract itself was rather contemptible, after the no<lb rend="hidden" type="hyphenInWord"/>ble ones I had seen in the neigh<lb rend="hidden" type="hyphenInWord"/>bourhood of Dolgelly.—As the Guides seemed to think a floating island, about two miles distant, was a most wonderful phaenome<lb rend="hidden" type="hyphenInWord"/>non, and related many singular and surprising tales concerning it, I indulged their credulity so far as to go and inspect it;—the Lake, as they called it, was some<lb rend="hidden" type="hyphenInWord"/>what bigger than a common
+<pb n="60" facs="67"/>
+duck-pond; and the Island was a knotty piece of Bog, which, after very heavy rains, might very possibly float in it.</p>
+         <p>On my return to Carnarvon I examined the Town and Castle.—The town was built by the com<lb rend="hidden" type="hyphenInWord"/>mand of Edward the First, out of the ruins of the ancient city of Segontium, that stood a little be<lb rend="hidden" type="hyphenInWord"/>low it;—it is situated between two rivers, and has a beautiful prospect of the Isle of Anglesea;—it was formerly of very great
+<pb n="61" facs="68"/>
+account when the Princes of Wales kept their Chancery and Exchequer Courts there.—On the west side of it stands the Castle, which was built to curb the Welsh moun<lb rend="hidden" type="hyphenInWord"/>taineers, and secure a passage to the opposite shore—In a part of it, called the Eagle Tower, you are shewn the remains of a chamber in which Edward the Second <note place="bottom" n="*">The Cradle of that weak, wicked, unfortunate prince is still preserved; it is now in the possession of a clergyman in Gloucestershire, to whom it descended from one of his ancestors, who attended the Prince in his infancy.</note> is
+<pb n="62" facs="69"/>
+said to have been born; about ten years after his birth it was besieged by the Welsh, but was afterwards repaired; and both the town and castle had divers Pri<lb rend="hidden" type="hyphenInWord"/>vileges confirmed to them by different Sovereigns, down to the reign of Elizabeth; during the last civil war they were held for King Charles, but were after<lb rend="hidden" type="hyphenInWord"/>wards surrendered on conditions to the Parliament. On viewing these spacious Ruins, I could
+<pb n="63" facs="70"/>
+only ruminate on the Changes they had undergone;—strange Reverse!—to think that those Walls, which heretofore resound<lb rend="hidden" type="hyphenInWord"/>ed with Acclamations on the Birth of the first English Prince of Wales, should now afford Shelter only to a few miserable Cottages, from the tempestuous Blasts of the Bristol channel!</p>
+         <p>I made several Excursions into the Isle of Anglesea, the well-known Seat of the Druids;—
+<pb n="64" facs="71"/>
+this may now be considered as Classical Ground; for though Mona is destroyed, and her Al<lb rend="hidden" type="hyphenInWord"/>tars abolished,—though Fires have consumed her Groves, and her Priests have perished by the Sword, yet, like the Phoenix, she rises more glorious from Decay; her Ashes have given Birth to the Caractacus of Mason, and the Fate of her Bards to the Inspiration of Gray.</p>
+         <p>
+            <pb n="65" facs="72"/>Nothing could be more de<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ightful than the Ride from Car<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>arvon to Bangor; to the right <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>and were Snowdon Hills, and to <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>he left the River Menai, or more <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>roperly speaking, the Strait be<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ween the Continent and the <gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>land of Anglesea; I had now <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ot into Day-light and the polite World again;—there had been a <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>iversion the night before at Car<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>arvon, and the road was covered <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ver with Carriages.</p>
+         <p>
+            <pb n="66" facs="73"/>Bangor lies at the north en<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> of the same Frith, or arm of th<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Sea, which is the passage to An¦glesea, where it has a Harbo<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> for Boats. It was once so lar<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> as to be called Bangor the Grea<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> and was defended with a powe<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>¦ful Castle, built by Hugh Earl <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Chester, which has long sin<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> been demolished. The Town <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> now of very little Note, except f<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> being the See of a Bishop; t<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> Palace is neat, but deplorab<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="67" facs="74"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ituated;—this is doubly morti<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ying in a Country where every <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>art of the neighbourhood is <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>icturesque and pleasing; his <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ordship however has the happi<lb rend="hidden" type="hyphenInWord"/>ness of being so much beloved in his Diocese, that it would have <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>een almost Treason there to have wished him a Removal.</p>
+         <p>Between Bangor and Conway I <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>assed over the famous Mountain <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>alled Penmaen Mawr—the road <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ust formerly have been very <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ightful, but a Wall is now built
+<pb n="68" facs="75"/>
+to the Sea side, to which it is said the City of Dublin very largely contributed;—to form this roa<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> it has already cost upwards o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> two thousand pounds, and it ca<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> be kept open only at a continua<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> expence, for vast Fragments o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Rock are frequently falling fort<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> fathom from above, which en¦tirely block it up, till they a<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> forced through the Parapet int<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the Sea, which lies perpendicu¦larly full as deep below.</p>
+         <p>
+            <pb n="69" facs="76"/>From hence the Country opens into a Plain, which extends as far as the River Conway, the eastern Limit of the County of Carnar<lb rend="hidden" type="hyphenInWord"/>von. It rises out of a Lake of the same name, and runs with a north-west Course, receiving in the short space of twelve miles more than as many Rivers, so that at Aberconway, where it discharges its waters into the Irish Sea, it is full a mile broad, and capable of bringing Ships of almost any Size up to the Town;
+<pb n="70" facs="77"/>
+at present Conway bears only some melancholy Marks of wha<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> it once was, and to what a wretch<lb rend="hidden" type="hyphenInWord"/>ed State, by a total Decay o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Trade, it is now reduced.</p>
+         <p>The Castle still remains one o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> the noblest Monuments of Anti<lb rend="hidden" type="hyphenInWord"/>quity; it is built in the sam<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Style with that of Carnarvon, bu<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> is far more regular. The Out<lb rend="hidden" type="hyphenInWord"/>side is the same as in the tim<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> of Edward the First, except on<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Tower, and that was not demo¦lished with either battering en¦gines
+<pb n="71" facs="78"/>
+or cannons, but by the peo<lb rend="hidden" type="hyphenInWord"/>ple of the place taking Stones from the foundation of it. Some Remains of the principal Rooms are still to be seen, the Dimensions of which have been accurately given by Lord Lyttelton, and an elegant View of them in Antiqui<lb rend="hidden" type="hyphenInWord"/>ties by Mr. Grose; but I had never seen the Outside of this most venerable Ruin to advantage had I not walked over some po<lb rend="hidden" type="hyphenInWord"/>lished Ground about a quarter of a mile from it, which I be<lb rend="hidden" type="hyphenInWord"/>lieve
+<pb n="72" facs="79"/>
+belongs to a Gentleman o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Conway;—there You see the Castl<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> finely sheltered by an Oak Wood—on one side <hi>the Chief of River,</hi> opening into the Irish Sea, and on the other the Mountains sur<lb rend="hidden" type="hyphenInWord"/>rounding Penmaen, with a distan<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Country most beautifully diver<lb rend="hidden" type="hyphenInWord"/>sified.—Art and Nature cannot combine to form a more various and more delicious Prospect.</p>
+         <p>I could not possibly leave this part of the Country without see<lb rend="hidden" type="hyphenInWord"/>ing the Vale of Llanryst, the
+<pb n="73" facs="80"/>
+Bridge built by Inigo Jones, and the Chapel supposed to have been planned by him, which con<lb rend="hidden" type="hyphenInWord"/>tains the rich monuments of the Guedir Family.—The Vale upon the whole I thought inferior to that I had seen in Montgomery<lb rend="hidden" type="hyphenInWord"/>shire, but the Bridge is certainly a very elegant Structure, and speaks itself to be the Work of a great Architect, most probably of Jones, for I incline to the opinion that Llanryst was the Place of his Nativity.</p>
+         <p>
+            <pb n="74" facs="81"/>The Chapel which adjoins the Parish Church, was erect<lb rend="hidden" type="hyphenInWord"/>ed by Sir Richard Wynne, one of the Grooms of the Bed<lb rend="hidden" type="hyphenInWord"/>chamber to Charles the First when Prince of Wales, and was chiefly made use of for the Alms-House in the neighbourhood, which was endowed by the Guedir Family. I took the Pains of copying the different Inscriptions in it, and as they are not contained in the History of that Family lately pub<lb rend="hidden" type="hyphenInWord"/>lished,
+<pb n="75" facs="82"/>
+they may not be unaccept<lb rend="hidden" type="hyphenInWord"/>able to the curious Antiquary.</p>
+         <q>"This Cappel was erected Anno Do<lb rend="hidden" type="hyphenInWord"/>mini 1633. By Sir Richard Wynne of Gwydir in the County of Carnavon Knight and Baronet, Treasurer to the High and Mighty Princess Henrietta Maria Queen of England, Daughter to King Henery the Fourth King of France, and Wife to our Soveraing King Charles. Where lieth Buried his Father S<hi rend="sup">r</hi> John Wynne of Gwydir in the County of Caernarvon Knight and Baronet, Son and Heyre to Maurice Wynne, Son and Heyre to John Wynne, Son and Heyre to Meredith, Which Three lye Buried in the Church of Dolwyddelan with Tombes over them. This Meredith Son and Heyre to Evan, Son and Heyre to Robert, Son and Heyre
+<pb n="76" facs="83"/>
+to Meredith, Son and Heyre to Howel, Son and Heyre to David, Son and Heyre to Griffith, Son and Heyre to Carradock, Son and Heyre to Thomas, Son and Heyre to Roderick Lord of Anglesey, Son to Owen Gwynedd Prince of Wales, and and younger to David Prince of Wales, who married Eme Plantagenet Sister to King Henery the Second. There suc<lb rend="hidden" type="hyphenInWord"/>ceeded this David Three Princes, His Nephew Leolinus Magnus, who married Jone Daughter to King John, Davil his Son, Nephew to King Henery the Third, and Leoline the Last Prince of Wales of that House and Line who lived in King Edward the First his time. S<hi rend="sup">r</hi> John Wynne married Sydney who lieth buried here, the Daughter of S<hi rend="sup">r</hi> William Gerrard Knight, Lord Chancellour of Ireland, by whom he had Issue S<hi rend="sup">r</hi> John Wynne who died att Lucca in Italy. S<hi rend="sup">r</hi> Richard
+<pb n="77" facs="84"/>
+Wynne now living, Thomas Wynne who Lieth here, Roger Wynne who Lieth here, William Wynne now living, Maurice Wynne now living, Ellis Wynne who lieth Buried att Whitford in the County of Flint, Henery Wynne now liveing, Roger Wynne who lieth here, and Two Daughters, Mary now living married to S<hi rend="sup">r</hi> Roger Mostyn in the County of Flint Knight, and Elizabeth now liveing mar<lb rend="hidden" type="hyphenInWord"/>ried to S<hi rend="sup">r</hi> John Bodvil in the County of Caernarvon Knight."</q>
+         <p>On the Floor are four Brass Plates, with Drawings of Figures upon each of them in the Dresses of the Times, one of Maria Mostyn, Wife of Roger Mostyn,
+<pb n="78" facs="85"/>
+another of Sir Owen Wynne, an<lb rend="hidden" type="hyphenInWord"/>other of Sir John Wynne, and a Fourth of Lady Sydney Wynne, Wife of Sir John Wynne. And in the Corner of the Chapel a Stone Coffin, which was remov<lb rend="hidden" type="hyphenInWord"/>ed from the Abbey of Conway, about two miles from hence, on which is the following Inscrip<lb rend="hidden" type="hyphenInWord"/>tion:
+<q>"This is the Coffin of Leolinus Mag<lb rend="hidden" type="hyphenInWord"/>nus Prince of Wales who was bu<lb rend="hidden" type="hyphenInWord"/>ried in the Abbey of Conway, and upon the Dissolution, remov'd from thence."</q>
+            <pb n="79" facs="86"/>
+On each Side are six carved Re<lb rend="hidden" type="hyphenInWord"/>cesses in the figure of Flower de Luces, which bear evident Marks of having contained Brass Plates, and two at the bottom of the Coffin.</p>
+         <p>There is now erected in the Church a Gallery of exquisite Workmanship, which was re<lb rend="hidden" type="hyphenInWord"/>moved likewise from the Abbey; and I was at the trouble of hav<lb rend="hidden" type="hyphenInWord"/>ing a large quantity of Rubbish taken away from under an old Staircase, that I might inspect a
+<pb n="80" facs="87"/>
+Stone Effigy, which is said to be of Hoel Coetmore, who sold the Guedir Estate to the Wynne Fa<lb rend="hidden" type="hyphenInWord"/>mily; the Word Gwedir is sup<lb rend="hidden" type="hyphenInWord"/>posed to signify Glass, and tha<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Family probably was the firs<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> who in these parts had a House with glazed Windows.</p>
+         <p>I ought to make some Apology for the foregoing heavy Articles but elaborate Inscriptions fre¦quently illustrate History, an<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> These will at least shew that Som<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="81" facs="88"/>
+of the Welsh were not totally re<lb rend="hidden" type="hyphenInWord"/>gardless of Pedigree.</p>
+         <p>I made diligent enquiry through all Carnarvonshire, and this part of Denbighshire, for the Glyder Mountain, which Gibson has particularly described, and which, from its singularity, (say the Authors of a Tour through Wales,) we more wished to have seen, than the Summits of either Plinlimmon or Snow<lb rend="hidden" type="hyphenInWord"/>don.</p>
+         <p>
+            <pb n="82" facs="89"/>
+            <q rend="inline">
+               <p>"On the utmost top of this Mountain, according to the Con<lb rend="hidden" type="hyphenInWord"/>tinuator of Camden, who saw it, is a prodigious pile of Stones, many of which are of the mag<lb rend="hidden" type="hyphenInWord"/>nitude of those at Stonehenge. They lie in such an irregular manner, crossing and supporting each other, that some people have imagined them to be the remains of a vast building; bu<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> Gibson more naturally suppose<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> them to be the skeleton or ruin
+<pb n="83" facs="90"/>
+of the Mountain; the weaker parts of which may have been worn away in a series of ages, by the rains and meltings of the Snow.</p>
+               <p>"On the west side of the same mountain, he speaks of a re<lb rend="hidden" type="hyphenInWord"/>markable precipice, adorned with numerous equidistant columns, formed to that shape by the al<lb rend="hidden" type="hyphenInWord"/>most continual rains, which this high rock, being exposed to the westerly sea wind, is subject to.</p>
+               <p>
+                  <pb n="84" facs="91"/>"Notwithstanding the situa<lb rend="hidden" type="hyphenInWord"/>tion of this mountain seems to be pointed out by the last line and though its Phoenomena ar<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> so peculiar, yet We (add the Au<lb rend="hidden" type="hyphenInWord"/>thors of the same Tour) wer<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> obliged to leave the Country without gaining the smalles<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> knowledge of it."</p>
+            </q>
+         </p>
+         <p>I was equally unfortunate i<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> not being able to see this Moun¦tain, but in crossing the wid<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> Ferry at Conway, I by acciden<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="85" facs="92"/>
+gained such Information, that I am confident any future Traveller may very readily satisfy his Cu<lb rend="hidden" type="hyphenInWord"/>riosity; an old Boatman there informed me, that he had fre<lb rend="hidden" type="hyphenInWord"/>quently seen it,—that in his younger days indeed it was some<lb rend="hidden" type="hyphenInWord"/>times termed the Glyder, but was now known only by the name of Wythwar,—that it was within a mile or two of a Village, called Clynog, and upon the Shore almost opposite to Carnar<lb rend="hidden" type="hyphenInWord"/>von.</p>
+         <p>
+            <pb n="86" facs="93"/>On my way to St. Asaph, I passed over the top of Penmaen Ross, a steep and formidable Mountain; this is by far the worst part of the road between Holyhead and Chester;—a nearer Path was some time since cut along the side of the sea cliff, but a Man and Horse had lately been killed, and by order of the Com<lb rend="hidden" type="hyphenInWord"/>missioners it is now entirely broken up.</p>
+         <p>The City of St. Asaph is called in British Llan Elwy, on account
+<pb n="87" facs="94"/>
+of its situation at the Conflux of the River Elwy with the Clwyd; and St. Asaph by the English, from its Patron Asaph, who in the year 560 erected a Bishop's See there. The Bishop of this Diocese has no entire County un<lb rend="hidden" type="hyphenInWord"/>der his Jurisdiction, but Parts only of the Counties of Flint, Denbigh, Montgomery, Merio<lb rend="hidden" type="hyphenInWord"/>neth, and Salop. The Cathedral is a mean Structure, and the Houses in general but ill built, St. Asaph however may boast that
+<pb n="88" facs="95"/>
+it stands in the delightful Vale of Clwyd, though by no means in the finest part of it.</p>
+         <p>About five miles from thence, near the road to Holywell, You have the best View I think of that fertile and delicious Vale;—it is of an oval shape, about 25 miles in length, and about eight miles wide in its broadest part; it lies open only to the Ocean, and to the clearing North Wind, being elsewhere guarded with high mountains, which towards
+<pb n="89" facs="96"/>
+the East especially are like Battle<lb rend="hidden" type="hyphenInWord"/>ments or Turrets, for by an ad<lb rend="hidden" type="hyphenInWord"/>mirable Contrivance of Nature, says Camden, the tops of these Mountains resemble the Turrets of Walls. Upon the whole however I think that there are other cultivated Scenes in North Wales equal, if not superior; in the Vale of Clwyd indeed You have the Lively and the Beauti<lb rend="hidden" type="hyphenInWord"/>ful, but in Montgomeryshire the Awful and Sublime.</p>
+         <p>
+            <pb n="90" facs="97"/>Holywell, and the History of its Virgin Saint, would require at least a Folio. I shall only say that I was truly sorry to find that blasphemous Papers should still be suffered to be publicly sold at the Spring there, which compare the ludicrous Legend of Winefrid with the most sacred Truths of the Gospel.</p>
+         <p>It was my Intention to have seen Winstay, Erthig, and Chirk Castle<note place="bottom" n="*">Sir Watkin Wynne's, Mr. Yorke's and Mr. Middleton's.</note>,
+<pb n="91" facs="98"/>
+and afterwards to have traced the River Dee to Bala, but I was unexpectedly called off from my Tour; I had the good fortune however to join Party with the Bishop of Kildare, whose easy Manners and refined Conversa<lb rend="hidden" type="hyphenInWord"/>tion left me no room to regret a Disappointment.</p>
+         <p>To the foregoing Account, which was in part printed off for the Use and Amusement of some select Friends only, I shall now add a few general Remarks on
+<pb n="92" facs="99"/>
+the History of the Country and the Manners of its Inhabitants.</p>
+         <p>The Origin of every Nation is necessarily obscure, and always lost in a pretended Antiquity. On the Authority of Bochart we may trace the Welsh from Japhet, the Son of Noah; according to Others, from Trojans and Phoe<lb rend="hidden" type="hyphenInWord"/>nicians, who were the Offspring of Gods; and one Writer I think has asserted that a True Briton is a Compound of all Nations under Heaven. That Britain
+<pb n="93" facs="100"/>
+however was peopled from Gaul 1000 years before Christ, appears very probable,—the arguments in favour of this opinion are de<lb rend="hidden" type="hyphenInWord"/>duced from the State of Popula<lb rend="hidden" type="hyphenInWord"/>tion on the Continent, and from the Progress of it in the Island it<lb rend="hidden" type="hyphenInWord"/>self. It has been well observed <note place="bottom" n="*">By Whitaker.</note> that Names descriptive of na<lb rend="hidden" type="hyphenInWord"/>tional Manners cannot be the original Appellations of any peo<lb rend="hidden" type="hyphenInWord"/>ple, they result from the inter<lb rend="hidden" type="hyphenInWord"/>course
+<pb n="94" facs="101"/>
+and experience of the States around them, on whose territories they have dared to en<lb rend="hidden" type="hyphenInWord"/>croach; the Appellation of Bri<lb rend="hidden" type="hyphenInWord"/>gantes, according to Strabo, came to signify a turbulent and plun<lb rend="hidden" type="hyphenInWord"/>dering race, and the Denomina<lb rend="hidden" type="hyphenInWord"/>tions of Celtae and Gael came to import, even amongst themselves, the Ferocious and the Stranger.</p>
+         <p>The Name of Cymri appears to have been the great hereditary Distinction of the Gauls upon the Continent, and to have been car<lb rend="hidden" type="hyphenInWord"/>ried
+<pb n="95" facs="102"/>
+with them into all their Con<lb rend="hidden" type="hyphenInWord"/>quests; it was not retained in our Island merely by the Natives of Wales, but was equally the Appellation of a Nation in the South-West of Somersetshire and the North-East of Cornwall.</p>
+         <p>The first Denomination of our Island was certainly Albion, a name given before the Country was inhabited; it was the Celtic Term for Heights or Eminences; the Alps some ages before the Days of Strabo were called Al<lb rend="hidden" type="hyphenInWord"/>bia,
+<pb n="96" facs="103"/>
+and in his time there remain<lb rend="hidden" type="hyphenInWord"/>ed two tribes on the Mountains that bore the Names of Albioeci, and Albienses.</p>
+         <p>The second Denomination was that of Britain, derived from a Celtic Word likewise signifying <hi>Divided,</hi> not <hi>Painted</hi>; this Etymo<lb rend="hidden" type="hyphenInWord"/>logy has lately been proved not to have been applied to the Re<lb rend="hidden" type="hyphenInWord"/>gion, but bestowed on the Inhabi<lb rend="hidden" type="hyphenInWord"/>ters; not previously borne on the Continent by the original Settlers of the Country, but assumed o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="97" facs="104"/>
+received at their first Removal into the Island.</p>
+         <p>The Title of Welsh seems to arise from the Word Wall or Gall, an appellation which the Britons frequently gave each other; nor will this Derivation appear forced if we add, that the Channel be<lb rend="hidden" type="hyphenInWord"/>twixt France and England was denominated Sinus Vallicus, or the Gallick Strait, so late as the eighth Century, and that the Dutch and Germans call the
+<pb n="98" facs="105"/>
+French by the Name of Walls and Walloons to this very Day.</p>
+         <p>The general Denomination of Wales was not imposed on the Country by the Saxons, but was the acknowledged Appellation of the Region as early as the sixth Century, if we may believe a Quotation from Taliessin, as cited by Dr. Davies.</p>
+         <p>Nor were some plain and cer<lb rend="hidden" type="hyphenInWord"/>tain Derivations of Names till of late only unknown to us,—we
+<pb n="99" facs="106"/>
+have not always had either just Ideas of British Manners or British Antiquities; this ample Field of History has been greatly laid open by an Individual<note place="bottom" n="*">Whitaker.</note>, and a <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ich Produce will continually <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>rise from the judicious Publica<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ions of a most respectable So<lb rend="hidden" type="hyphenInWord"/>
+            <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>iety<note place="bottom" n="†">Society of Antiquaries.</note>.</p>
+         <p>Our Knowledge of the Druids <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> still vague and unsatisfying, <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>nd must ever remain so, as they
+<pb n="100" facs="107"/>
+committed few things, if any, to Writing, though they were cer<lb rend="hidden" type="hyphenInWord"/>tainly not unacquainted with Let¦ters; for among the Maxims col¦lected by Gollet, there is one tha<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> forbids their Mysteries to be wri<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>¦ten, a Prohibition which coul<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> never have been given had Le<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>¦ters been entirely unknown; som<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> curious Particulars however ma<gap resp="#pdcc" extent="2 letters" rend="content:••">
+               <desc>illegible</desc>
+            </gap> at least be traced from Traditio<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> and others from Specimens <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> their Poetry that have been recit<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap> by the Natives. As Guardia<gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>
+            <pb n="101" facs="108"/>
+of what They called True Reli<lb rend="hidden" type="hyphenInWord"/>gion, they of course possessed the greatest authority among the peo<lb rend="hidden" type="hyphenInWord"/>ple; No Laws were instituted by the Princes without their Advice, no Plunder taken in War without their partaking of it. They held the Dissolution of the World by Fire and Water, they taught the Immortality, and some say the Transmigration of the Soul, a Doctrine borrowed from the Py<lb rend="hidden" type="hyphenInWord"/>thagoreans, though Clemens A<lb rend="hidden" type="hyphenInWord"/>lexandrinus expressly asserts that
+<pb n="102" facs="109"/>
+the Pythagoreans borrowed that Doctrine from them; in my own opinion they never believed the Transmigration of the Soul at all; and I found this opinion on some late Accounts of Gaulish Funerals, which certainly cor<lb rend="hidden" type="hyphenInWord"/>responded with the British ones, the Customs and Ceremonials of which were absolutely incompa<lb rend="hidden" type="hyphenInWord"/>tible with that Doctrine.</p>
+         <p>They sacrificed human Victims to propitiate the Gods; and pro<lb rend="hidden" type="hyphenInWord"/>phesied future Events from the
+<pb n="103" facs="110"/>
+falling of the Body, and the Man<lb rend="hidden" type="hyphenInWord"/>ner in which the Members were convulsed;—they believed there was a divine Mystery in Misleto, but took their first Distinction from the Oak, to which the Jews paid the same regard during their Idolatry, according to a Pas<lb rend="hidden" type="hyphenInWord"/>sage in Ezekiel, <q rend="inline">"under every thick <hi>Oak</hi> did they offer sweet Sa<lb rend="hidden" type="hyphenInWord"/>crifice to their Idols."</q> Once a, year They, with their Chief, an Arch-Druid, assembled at a fixed time and place to hear Causes,
+<pb n="104" facs="111"/>
+and determine all Disputes; where their decisive Court was held has never been determined, but most probably in Anglesea, as that Island was certainly their Metropolis. So great was the Power of the Druids, that not only the Property, but also the Lives of the People were entirely at their Disposal, and this Power continued absolute till the time of Tiberius;—it was afterwards suppressed by Claudius, under the fair Pretext of abolishing human
+<pb n="105" facs="112"/>
+sacrifices, but the Priests them<lb rend="hidden" type="hyphenInWord"/>selves, their Gods and their Al<lb rend="hidden" type="hyphenInWord"/>tars subsisted, though in obscurity, till the final Destruction of Paga<lb rend="hidden" type="hyphenInWord"/>nism.</p>
+         <p>The Manners of the People were naturally tinged with the Discipline of their Teachers; in proportion to their ignorance they were superstitious, and in proportion to their zeal they committed Cruelties and Fraud; I shall not raise Disgust by a recital of Barbarities, but rather refer my
+<pb n="106" facs="113"/>
+Readers to the Journals of mo<lb rend="hidden" type="hyphenInWord"/>dern Voyages, where they will find, that there is a Sameness in the primaeval State of every sa<lb rend="hidden" type="hyphenInWord"/>vage Nation: a few other Particu<lb rend="hidden" type="hyphenInWord"/>lars however may not be uninte<lb rend="hidden" type="hyphenInWord"/>resting. The Britons lived in Tribes or Clans, under the Aristo<lb rend="hidden" type="hyphenInWord"/>cratical rule of their several Lords; their Villages were a con<lb rend="hidden" type="hyphenInWord"/>fused Parcel of Huts placed at a small distance from each other, and, generally speaking, in the middle of a Wood, whereof the
+<pb n="107" facs="114"/>
+Avenues were defended with Trees, that were cut down to clear the ground.</p>
+         <p>Their Trade was very inconsi<lb rend="hidden" type="hyphenInWord"/>derable, notwithstanding the con<lb rend="hidden" type="hyphenInWord"/>venient situation of the Island for carrying on an extensive Com<lb rend="hidden" type="hyphenInWord"/>merce; Their vessels were very small, with their Keels and Ribs made of slight Timber, inter<lb rend="hidden" type="hyphenInWord"/>woven with Wicker, and covered with Hides, which shews that they never undertook long Voy<lb rend="hidden" type="hyphenInWord"/>ages, most probably never ven<lb rend="hidden" type="hyphenInWord"/>tured
+<pb n="108" facs="115"/>
+to Sea beyond the Coasts of Gaul.</p>
+         <p>The Britons were not so total<lb rend="hidden" type="hyphenInWord"/>ly destitute of Defence as has been imagined; the Island is of itself a Shield, and they certainly made use of the Battle-axe, as well as Military Chariot; these Chariots were drawn by Horses, and the Axle-trees were generally furnish<lb rend="hidden" type="hyphenInWord"/>ed with Scythes; but the People were not united under a well re<lb rend="hidden" type="hyphenInWord"/>gulated government, or they would always have continued
+<pb n="109" facs="116"/>
+formidable to their Enemies;—a number of petty Communities will never act in concert with each other; tho' History informs us that upon great and extraordi<lb rend="hidden" type="hyphenInWord"/>nary Dangers a Chief Commander was always chosen by common consent; but what State or Co<lb rend="hidden" type="hyphenInWord"/>lony will acquiesce even with the Leader themselves have chosen? and in the end, if unsuccessful, he must always fall a Sacrifice to those Miseries their own Incon<lb rend="hidden" type="hyphenInWord"/>sistencies alone have occasioned.</p>
+         <p>
+            <pb n="111" facs="117"/>When that part of Britain which comprehends the present Kingdom of England and Prin<lb rend="hidden" type="hyphenInWord"/>cipality of Wales, was divided into several petty Kingdoms, the Inhabitants were all distinguished by different names. The Prin<lb rend="hidden" type="hyphenInWord"/>cipality of Wales, formerly com<lb rend="hidden" type="hyphenInWord"/>prehending the whole Country beyond the Severn, was in the Roman times occupied by the Silures, the Dimetae, and Ordo<lb rend="hidden" type="hyphenInWord"/>vices; to these belonged not only the twelve Counties of Wales,
+<pb n="110" facs="118"/>
+but likewise the two others ly<lb rend="hidden" type="hyphenInWord"/>ing beyond the Severn, Hereford<lb rend="hidden" type="hyphenInWord"/>shire and Monmouthshire, which in the reign of Charles the Second were first reckoned amongst the English Counties.</p>
+         <p>The Country now known by the name of North Wales was in<lb rend="hidden" type="hyphenInWord"/>habited by the Ordovices only, who held out first against the Romans, and afterwards against the English, after the other Bri<lb rend="hidden" type="hyphenInWord"/>tons were subdued; for by the Romans they were not reduced
+<pb n="112" facs="119"/>
+till the time of Domitian, nor by the English till the Reign of Henry the First.</p>
+         <p>About forty-five years before the Christian Aera, Britain was first invaded by the Romans un<lb rend="hidden" type="hyphenInWord"/>der Julius Caesar,—afterwards by Claudius, and at length became a Province under the Roman em<lb rend="hidden" type="hyphenInWord"/>pire; it was governed by Lieute<lb rend="hidden" type="hyphenInWord"/>nants, or Deputies, sent from Rome, as Ireland is now by De<lb rend="hidden" type="hyphenInWord"/>puties from England; and con<lb rend="hidden" type="hyphenInWord"/>tinued thus under the Romans
+<pb n="113" facs="120"/>
+for upwards of 400 years; till that Empire being invaded by the Goths and Vandals, the Romans were forced not only to recall their own armies, but also to draw from hence the bravest of the Britons, for their assistance against those Barbarians.</p>
+         <p>The Country being left in a defenceless State, was invaded by the Scots, who were so rapacious, that the Britons sent over a miser<lb rend="hidden" type="hyphenInWord"/>able application for relief to Aetius, the Roman General, who
+<pb n="114" facs="121"/>
+by several famous Successes, for a time, had repelled the violence of the Gothick Arms, but receiving no hopes of any Succours from that General, the South Britons invited over the Saxons, who no sooner delivered them from their ancient Foes the Picts and Scots, than they strengthened their own Numbers, turned their Arms a<lb rend="hidden" type="hyphenInWord"/>gainst the Natives, and conquer<lb rend="hidden" type="hyphenInWord"/>ed them, some few excepted, who secured themselves in their Moun<lb rend="hidden" type="hyphenInWord"/>tains of Wales; whence their De<lb rend="hidden" type="hyphenInWord"/>scendants
+<pb n="115" facs="122"/>
+have always been distinguished by the Title of Ancient Britons.</p>
+         <p>During the Saxon Heptarchy <gap resp="#pdcc" extent="1 letter" rend="content:•">
+               <desc>illegible</desc>
+            </gap>ived the renowed Prince Arthur, whose Valour would have re<lb rend="hidden" type="hyphenInWord"/>trieved the miserable state of the Britons, had Valour only been wanting; his History has been so blended with Fable, that some have doubted the real existence of such a Person; but it seems ra<lb rend="hidden" type="hyphenInWord"/>ther hard because Stories have been invented concerning the Ac<lb rend="hidden" type="hyphenInWord"/>tions
+<pb n="116" facs="123"/>
+of his Life, that he should not be allowed to have lived at all; it is true that the Saxon An<lb rend="hidden" type="hyphenInWord"/>nals make no mention of this King, but it was not probable that the Saxons would be fond of recording Exploits, which re<lb rend="hidden" type="hyphenInWord"/>dounded only to their own dis<lb rend="hidden" type="hyphenInWord"/>credit; an ancient English Histo<lb rend="hidden" type="hyphenInWord"/>rian speaking of Cerdic, mentions his fighting several Battles with King Arthur; and William of Malmesbury owns, that though the Britons had vented innu<lb rend="hidden" type="hyphenInWord"/>merable
+<pb n="117" facs="124"/>
+Fables concerning this Prince, he certainly was a Hero worthy to be celebrated in True History. The Britons bewailed <q rend="inline">"their long lost Arthur"</q> for se<lb rend="hidden" type="hyphenInWord"/>veral Ages after his Death;—they believed he was still alive in Fairy Land, and that he would return once more to reign over them; nor was this notion rooted out till the reign of Henry the Second, about six hundred years after<lb rend="hidden" type="hyphenInWord"/>wards, when his Coffin was dug up at Glastenbury in Somerset<lb rend="hidden" type="hyphenInWord"/>shire,
+<pb n="118" facs="125"/>
+with the following Inscrip<lb rend="hidden" type="hyphenInWord"/>tion, <q rend="inline">"Here lies buried the re<lb rend="hidden" type="hyphenInWord"/>nowned King Arthur in the Island Avalonia."</q> The Exploits of this Warrior have not only been sung by Taliessin and other British Bards, but have been ce<lb rend="hidden" type="hyphenInWord"/>lebrated by one of the greatest of our English Poets; it seems by some Hints given by Spenser, that he intended a Poem whose title was to be expressly, King Ar<lb rend="hidden" type="hyphenInWord"/>thur;—Dryden tells us that he had some thoughts of making
+<pb n="119" facs="126"/>
+choice for the subject of an He<lb rend="hidden" type="hyphenInWord"/>roic Poem, King Arthur's Con<lb rend="hidden" type="hyphenInWord"/>quests over the Saxons; Milton, in a Latin Address to Mansus, has likewise intimated the same Intention.</p>
+         <p>Wales was anciently bounded by the Irish Seas, and by the Ri<lb rend="hidden" type="hyphenInWord"/>vers Severn and Dee, till the Saxons became Masters of all the level Countries over those Rivers; and till Offa, king of Mercia, made the celebrated Trench, which is still called by
+<pb n="120" facs="127"/>
+his Name. This Trench, which extended from North to South,—from the mouth of the River Dee to that of the Wye, has been thought to have been an Imita<lb rend="hidden" type="hyphenInWord"/>tion of the Ramparts, which were thrown up by Agricola, Adrian, and Severus, to guard the Romans against the Incursions of the Nor<lb rend="hidden" type="hyphenInWord"/>thern Barbarians; but from some Remains of it, as well as for se<lb rend="hidden" type="hyphenInWord"/>veral other Reasons, it seems more probable, that it was not in<lb rend="hidden" type="hyphenInWord"/>tended by Offa as a Fortification,
+<pb n="121" facs="128"/>
+but rather as a Boundary betwixt his Kingdom and the Cambrian Province.</p>
+         <p>When after many Events be<lb rend="hidden" type="hyphenInWord"/>tween the several Races of the Heptarchy, Ecbert became the sole King of England, as it was now distinguished from the Prin<lb rend="hidden" type="hyphenInWord"/>cipality of Wales, he possessed himself also of Mona, the Capi<lb rend="hidden" type="hyphenInWord"/>tal of the Cambrian Province; but the Saxons some time after<lb rend="hidden" type="hyphenInWord"/>wards being driven out of it, it was from them called Anglesea,
+<pb n="122" facs="129"/>
+Englishman's Island, a name which it has retained ever since.</p>
+         <p>In the year eight hundred and forty-three all Wales was united under the Dominion, of Roderic, surnamed the Great; who, by a testamentary Settlement, made a new Division between three Sons into three Districts, which were called Kingdoms, and distinguish<lb rend="hidden" type="hyphenInWord"/>ed by the Names of South Wales, Powis Land, and North Wales this Partition gave rise to many Wars, which caused the King<lb rend="hidden" type="hyphenInWord"/>dom
+<pb n="123" facs="130"/>
+of Powis Land to be por<lb rend="hidden" type="hyphenInWord"/>tioned among the Conquerors, and annexed partly to South Wales, and partly to North Wales, Divisions which subsist to this Day.</p>
+         <p>No sooner were the Saxons set<lb rend="hidden" type="hyphenInWord"/>tled under one Monarch, than the Danes began to trouble them, as they (the Saxons) had before done the Britons, till, after many In<lb rend="hidden" type="hyphenInWord"/>vasions, Edgar King of England set forth the first Navy, made Peace with the Danes, and allow<lb rend="hidden" type="hyphenInWord"/>ed
+<pb n="124" facs="131"/>
+them to live in his Dominions mixed with the English;—at this time we read of five Kings in Wales, who all did him Ho<lb rend="hidden" type="hyphenInWord"/>mage for their Country.</p>
+         <p>Notwithstanding many At<lb rend="hidden" type="hyphenInWord"/>tempts of the English, the Welsh enjoyed their own Laws, and lived under their own Princes, till in the year 1282 Llewellin lost both his Principality and Life; in the reign of Henry the Eighth Wales was incorporated and united with England; and
+<pb n="125" facs="132"/>
+by a Statute of the 27th of that Reign, all Laws and Liberties of England were to take place there; from which time the Welsh have approved themselves truly wor<lb rend="hidden" type="hyphenInWord"/>thy of their high Origin, loyal and dutiful to their King, and always zealous for the Welfare of the Community.</p>
+         <p>The Welsh Language is still the Gomerian or Old Celtic, the same that was once spoken throughout Europe, except that through length of time, and In<lb rend="hidden" type="hyphenInWord"/>termixture
+<pb n="126" facs="133"/>
+of the people with the Scythians and other nations, it has split into a variety of Dialects. No Tongue, either ancient or mo<lb rend="hidden" type="hyphenInWord"/>dern, I believe, bears greater Marks of antiquity; its strong resem<lb rend="hidden" type="hyphenInWord"/>blance to the Hebrew has been generally admitted, insomuch that one Author of great Learning has given a Specimen of a consider<lb rend="hidden" type="hyphenInWord"/>able number of Phrases out of the Old Testament, which are so alike in both, that they seem to have been originally the same. It is
+<pb n="127" facs="134"/>
+no uncommon Error to give the Name of Mother Tongue to those Languages, from which some known Idioms only are derived; the Hebrew has been considered as a Mother Tongue, but was evidently borrowed from the Phoenician; the Latin is called the Mother tongue to the Italian, the Spanish, and the French, but the Latin itself was derived from the Tuscan, and the Tuscan from the Celtic and the Greek. It will reasonably be asked, how the Go<lb rend="hidden" type="hyphenInWord"/>merians
+<pb n="128" facs="135"/>
+have preserved their Lan<lb rend="hidden" type="hyphenInWord"/>guage almost entire, whilst the Jews have suffered theirs to be corrupted, and blended with those of their Conquerors?—for this, many reasons may be assigned; the Former have not been so fre<lb rend="hidden" type="hyphenInWord"/>quently subdued, and they have always preserved a considerable Regard for what They conceived to be a Mother tongue; a regard greatly kept up perhaps by the Custom which the Lowest of the People had, of reciting their Ge<lb rend="hidden" type="hyphenInWord"/>nealogies.
+<pb n="129" facs="136"/>
+This ancient Lan<lb rend="hidden" type="hyphenInWord"/>guage is spoken the nearest to its original purity in the uncul<lb rend="hidden" type="hyphenInWord"/>tivated parts of North Wales, but the Welsh in general still retain so high a veneration for it, that I am confident they will never readily suffer the English to be entirely made use of in their Churches, or taught solely in their Schools.</p>
+         <p>Much has been said of those Druidical Remains, which by many Authors have been indis<lb rend="hidden" type="hyphenInWord"/>criminately
+<pb n="130" facs="137"/>
+called Carns, Car<lb rend="hidden" type="hyphenInWord"/>nedds, and Cromlechs; but of their original meaning, I shall venture the following Conjecture,—that by the word Carn, which signified a Rock, the Britons sim<lb rend="hidden" type="hyphenInWord"/>ply implied one large broad Stone, as a covering for a Grave<note place="bottom" n="*">The Word Carn was afterwards used in an ill sense, most probably when the Mode of Burial came to be changed on the Introduction of Christianity; ther<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Malefactors being thrown into holes nea<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> the Highways, and great quantities o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> Stones heaped upon them, it was no un¦common thing for a man to say to hi<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap> enemy; <hi>May a Carn be your Monument.</hi>
+            </note>;
+<pb n="131" facs="138"/>
+by a Carnedd, a heap of Stones thrown rudely together to com<lb rend="hidden" type="hyphenInWord"/>memorate an event; and by a Cromlech, an huge, broad, flat Stone raised high on other Stones, where the ancient Bri<lb rend="hidden" type="hyphenInWord"/>tons, like the Hebrews, made Sacrifices or paid religious Ado<lb rend="hidden" type="hyphenInWord"/>ration.</p>
+         <p>Those nice Distinctions that have been formed of the Druids, the Bards and the Vates, sub<lb rend="hidden" type="hyphenInWord"/>sisted only, I think, in particular Societies; the Druids in general
+<pb n="132" facs="139"/>
+composed and recited Hymns, as worship to their Deities; the Bards <note place="bottom" n="*">The Bards, who were inferior Druids, wore an ecclesiastical Ornament during the celebration of their Rites, called by the Latins Caputium, or Cu<lb rend="hidden" type="hyphenInWord"/>cullus, which is still retained in our Uni<lb rend="hidden" type="hyphenInWord"/>versities; the Gauls, who borrowed this custom from the British Druids, wore the Cucullus remarkably long, whence it ob<lb rend="hidden" type="hyphenInWord"/>tained, on its being made use of at Rome, the name of Bardo-Cucullus, or Bard's Hood. It was in allusion to the Shape of this Hood, that Martial feared lest a Sheet of his Book should be rolled up to put Pepper or Frankincense in: <q>Ne Thuris Piperisve sit Cucullus. <bibl>VID. NICHOLLS.</bibl>
+               </q>
+            </note> certainly composed
+<pb n="133" facs="140"/>
+Hymns likewise; but it was in the hour of Battle that their labours were chiefly celebrated, by singing the Exploits of de<lb rend="hidden" type="hyphenInWord"/>ceased Heroes; while the Vates were principally engaged in the Rites of Sacrifice, or the Arts of Divination.</p>
+         <p>The Welsh have always laid claim to the Discovery of Ame<lb rend="hidden" type="hyphenInWord"/>rica, in preference to the Great Co<lb rend="hidden" type="hyphenInWord"/>lumbus, but this claim has hither<lb rend="hidden" type="hyphenInWord"/>to been supported with little more than bare Conjecture; in the
+<pb n="134" facs="141"/>
+twelfth Century, according to Powell, there was a War in Wales for the Succession, upon the Death of Owen Guinneth; and a Bast<lb rend="hidden" type="hyphenInWord"/>ard having carried it from the lawful Heirs, one of the latter, called Madoc, put to Sea, and sailing west from Spain, disco<lb rend="hidden" type="hyphenInWord"/>vered a new world of wonderful Fertility;—to prove that a coun<lb rend="hidden" type="hyphenInWord"/>try was thus discovered, the Welsh have recourse to the Au<lb rend="hidden" type="hyphenInWord"/>thority of Meridith ap Rhees, who composed an Ode in honour
+<pb n="135" facs="142"/>
+Prince Madoc and his new-found Land; and that this Country was America they have alledged on the credit of Peter Martyr, that the Natives of Virginia celebrated the memory of one Madoc, as a great and ancient Hero; and al<lb rend="hidden" type="hyphenInWord"/>ways supposed their Ancestors to have come thither at first, from some very distant Countries on the other side the great Water, at the time that has been as<lb rend="hidden" type="hyphenInWord"/>serted, and from the same point of the Compass. The af<lb rend="hidden" type="hyphenInWord"/>finity
+<pb n="136" facs="143"/>
+of Language has since been frequently urged by modern Travellers, and Bishop Nicholson in particular, speaks confidently that the British makes a considerable part of several of the American Tongues; in an<lb rend="hidden" type="hyphenInWord"/>swer to these Assertions, the in<lb rend="hidden" type="hyphenInWord"/>genious Dr. Robertson has just now declared, that he conceives the skill of the Welsh in the twelfth Century, not to have been equal to such a Voyage; and that the instances given of
+<pb n="137" facs="144"/>
+the affinity of Language are so obscure and fanciful, that no conclusion can be drawn from them; to these remarks he adds, that if the Welsh towards the Close of the twelfth Century had settled in any part of America, some remains of the Christian doctrine must have been after<lb rend="hidden" type="hyphenInWord"/>wards found among their Des<lb rend="hidden" type="hyphenInWord"/>cendants, when they were dis<lb rend="hidden" type="hyphenInWord"/>covered three hundred years after their migration;—but here I must entirely disagree with the learned Author,—three hundred
+<pb n="138" facs="145"/>
+years cannot in this case be called a <q rend="inline">"short period;"</q>—one Century would probably have been suf<lb rend="hidden" type="hyphenInWord"/>cient to have obliterated every mark of a Religion, that had to combat with the prejudices of an unlettered people; that did not address itself immediately to their Interests, and through a Mode of Civilization, teach them at first only, as Warburton well expresses it, <note place="bottom" n="*">
+               <p>The Gospel, plain and simple as it is, and fitted in its nature for what it was ordained to effect, requires an intellect something above that of a Savage to ap<lb rend="hidden" type="hyphenInWord"/>prehend. Nor is it at all to the dishonour of our holy Faith, that such a one must be taught a previous lesson; and first of all instructed in <hi>the emollient Arts of Life.</hi>
+               </p>
+               <p>See the Bishop of Gloucester's Sermon on the Propagation of the Gospel.</p>
+            </note> the emollient Arts of Life.</p>
+         <p>
+            <pb n="139" facs="146"/>Christianity seems to have been introduced into Britain, as early as the first Century, but of this great Event our Accounts must necessarily be very imper<lb rend="hidden" type="hyphenInWord"/>fect, as the Saxons destroyed al<lb rend="hidden" type="hyphenInWord"/>most all the Writings in which it was recorded; Mona, we read, had certainly a School of Chris<lb rend="hidden" type="hyphenInWord"/>tian
+<pb n="140" facs="147"/>
+Learning many years before 182, when there was an Arch<lb rend="hidden" type="hyphenInWord"/>bishop of Caerleon, and Suffra<lb rend="hidden" type="hyphenInWord"/>gans under him; but the Clergy had no distinct Parishes either in Anglesea or any other part of the kingdom, till many years afterwards. About the year 600, Pope Gregory sent Austin the Monk to preach the Gospel in England to the Heathen Saxons, who was received by Ethelbert; and being admitted to explain the Doctrine and
+<pb n="141" facs="148"/>
+Mysteries of it, so well succeeded that he converted great numbers, and at length the King himself. Thus the Christian Religion came to be established in England under the Rites and Authority of the Romish Church, by which Austin was instituted Chief Bishop, and seated by the Saxon king at Canterbury; but his Jurisdiction, though admitted in all the Saxon Territories, was not received by the British Priests or People in Wales.—In the
+<pb n="142" facs="149"/>
+reign of Elizabeth the Bible and Common Prayer were first trans<lb rend="hidden" type="hyphenInWord"/>lated into the Welsh Tongue, and at that time the People are said to have adhered to the Ru<lb rend="hidden" type="hyphenInWord"/>brick and Constitution of the Church with a scrupulous exact<lb rend="hidden" type="hyphenInWord"/>ness; how far the Doctrines and Worship of Christianity may have deviated from their origi<lb rend="hidden" type="hyphenInWord"/>nal purity, or how far the Welsh may have been affected by the refined Tenets of their English Neighbours, I shall not presume
+<pb n="143" facs="150"/>
+to determine, at present I think there is every where much to be feared, from the Growth of Enthusiasm, the subtleties of In<lb rend="hidden" type="hyphenInWord"/>fidelity, and the Necessity, as well as Danger of Innovation.</p>
+         <p>Many Popish customs are still retained in Wales, particularly Offerings made to the Dead,—these Offerings must of course vary according to the Rank of the Persons deceased, as well as the Affection that is borne to their Memories; I was at a
+<pb n="144" facs="151"/>
+Pauper's Funeral where the Do<lb rend="hidden" type="hyphenInWord"/>nations amounted to half a Crown, and I met with a Clergyman afterwards who had once re<lb rend="hidden" type="hyphenInWord"/>ceived ninety Guineas.</p>
+         <p>Great complaints are made in many parts of this Country of the exorbitant Demands of Land<lb rend="hidden" type="hyphenInWord"/>lords, and that the Rent of Ground is now advanced much higher than it will bear;—such Complaints must of course be expected from the Sufferers, but I believe, they are here in
+<pb n="145" facs="152"/>
+some instances made with reason; the landlords on the contrary may urge perhaps, that they act with strict Justice, and that they have a Right at least to try the experiment; but it should be remembered that the Extreme of Right is Wrong, and there is a Tribute of Hu<lb rend="hidden" type="hyphenInWord"/>manity due from the Superior, that He should be always on a Certainty that he does not exact too much.</p>
+         <p>
+            <pb n="146" facs="153"/>National Characters should always be read with Exceptions; but if I must give my opinion of the Inhabitants of North Wales, I shall say, that the common people in general are civil and grateful, the Farmers rather slow and suspicious, a Few of the inferior 'Squires re<lb rend="hidden" type="hyphenInWord"/>tain somewhat of the sottish and the brutal, but among the higher Ranks, I have found, in the same proportion as in
+<pb n="147" facs="154"/>
+England, lettered Society, hospi<lb rend="hidden" type="hyphenInWord"/>table Reception, and refined Address.</p>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

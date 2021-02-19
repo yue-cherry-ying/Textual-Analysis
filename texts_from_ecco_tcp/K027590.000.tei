@@ -1,0 +1,730 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A whipping for the Welch parson: Being a comment on the Rev. Mr. Evan Lloyd's Epistle to David Garrick, Esq. By Scriblerius Flagellarius. To which is superadded the parson's text.</title>
+            <author>Kenrick, W. (William), 1725?-1779.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K027590.000</idno>
+            <idno type="docno">CW3323999320</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A whipping for the Welch parson: Being a comment on the Rev. Mr. Evan Lloyd's Epistle to David Garrick, Esq. By Scriblerius Flagellarius. To which is superadded the parson's text.</title>
+                  <author>Kenrick, W. (William), 1725?-1779.</author>
+               </titleStmt>
+               <extent>[4],23,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for T. Evans,</publisher>
+                  <date>1773.</date>
+                  <idno type="TCP">K027590.000</idno>
+                  <idno type="docno">CW3323999320</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Scriblerius Flagellarius = William Kenrick.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT14669.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>A WHIPPING FOR THE WELCH PARSON.</p>
+            <p>BEING A COMMENT ON THE REV. MR. EVAN LLOYD'S EPISTLE TO DAVID GARRICK, ESQ. BY SCRIBLERIUS FLAGELLARIUS.</p>
+            <p>TO WHICH IS SUPERADDED THE PARSON'S TEXT.</p>
+            <q>Vapula! Verbereum caput.
+<bibl>
+                  <hi>PLAUT.</hi> Asin. <hi>et</hi> Per.</bibl>
+            </q>
+            <p>LONDON: PRINTED FOR T. EVANS, IN PATER-NOSTER-ROW.</p>
+            <p>M.DCC.LXXIII.</p>
+         </div>
+         <div type="preface">
+            <pb facs="2"/>
+            <head>PREFACE.</head>
+            <p>IT is now full seven months since the following curious Epistle was advertised in the public papers, and its speedy publication pro<lb rend="hidden" type="hyphenInWord"/>mised. We were then told also, that the occasion of it was a late infamous attack on the character of the Gentleman to whom it is addressed.<note place="bottom" n="*">See Morning Chronicle of July 25, 1772.</note> The length of time which has since elapsed, and that Gentleman's giving up his own cause, naturally gave room to ima<lb rend="hidden" type="hyphenInWord"/>gine that the delivery of a mountain, so long in labor with a mouse, would be thought ridiculously superfluous. The ingenious author, however, of <hi>"The Powers of the Pen—The Curate—Methodist and Conversation, Price Two and Sixpence each."</hi> could not resist the powerful temptation of adding another <hi>two-shilling</hi> sprig to his for<lb rend="hidden" type="hyphenInWord"/>mer bays. Hence, after a truce declared, and the field of battle for<lb rend="hidden" type="hyphenInWord"/>saken, steps forth this reverend champion, to renew the fight, and slay the slain. Unhappily for him, the disturbance he has thus given their ashes, seems to have provoked their ghosts to seek an avenger in the person of that learned commentator Scriblerius Flagellarius; who makes no other apology for the <hi>insignificancy</hi> of his <hi>Comment,</hi> than the <hi>inanity</hi> of the <hi>Text;</hi> taking refuge under the old adage: <hi>Ex nihilo, nihil fit.</hi> Some apology, indeed, may seem necessary for supperadding a copy of the Parson's text whole and entire; and would be really so, were it the property of the publisher. But, as we find the original is printed on the author's own account, and he might suffer more in his reputation, by our printing only mutilated extracts of his performance, than he would in his pocket from our printing the whole, we thought ourselves bound in justice to pre<lb rend="hidden" type="hyphenInWord"/>fer his fame, as an author, to his profit, as a bookseller. At the same time we held it incumbent on us, in justice to the publick, to set a less price on the Text and Comment together, than he has done on the Text alone: because, admitting, as above, the inanity or no<lb rend="hidden" type="hyphenInWord"/>thingness of both, we know, as adepts in Algebra, that negative quan<lb rend="hidden" type="hyphenInWord"/>tities added together produce a sum so much the less in <hi>value</hi> as the <hi>co-efficients</hi> encrease in <hi>number.</hi> Modesty, however, having in<lb rend="hidden" type="hyphenInWord"/>duced us to value our Comment at but half the price of the Text, we have stated the value of both together at a fourth less; agreeable to calculation; 
+for − 2 <hi>x</hi> added to − <hi>x</hi> is = to − 3 <hi>x</hi> = to eighteen-pence. Q. E. D</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="3"/>
+            <head>A WHIPPING FOR THE WELCH PARSON.</head>
+            <head>THE PARSON'S TEXT.</head>
+            <head>EPISTLE TO DAVID GARRICK, ESQ.</head>
+            <lg>
+               <pb n="3" facs="5"/>
+               <l>WHEN from his dewy throne, and pensile bowers,</l>
+               <l>To the green <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>p of earth in genial show'rs,</l>
+               <l>Prolific Jov<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> 
+                  <gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>scends, all germens spring,</l>
+               <l>Blythe are the mountains, and the vallies sing;</l>
+               <l n="5">Benignant N<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                     <desc>illegible</desc>
+                  </gap>e smiles, and breathes perfume,</l>
+               <l>And all around <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> Paradise in bloom!</l>
+               <l>But 'tis on gen<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                     <desc>illegible</desc>
+                  </gap>l laws the God proceeds,</l>
+               <l>And, flow'rs first cherish'd, <hi>not forgets</hi> the Weeds,</l>
+               <l>While Sharon's roses purple o'er the land,</l>
+               <l n="10">The barren thistle feels his fost'ring hand.</l>
+            </lg>
+            <lg>
+               <l>In these enlighten'd days, not less benign</l>
+               <l>
+                  <hi>The Sun of Learning</hi> deigns on all to shine;</l>
+               <l>With generous warmth it nourishes the root</l>
+               <l>Of Genius, ripening into classic fruit;</l>
+               <l n="15">In wasteful bounty too its beams are spread</l>
+               <l>O'er the dry region of a dunce's head.</l>
+               <l>Those summer rays that nectar'd grapes produce,</l>
+               <l>Concoct the hemlock's deleterious juice;</l>
+               <l>So that bright sun, prime nourisher of wit,</l>
+               <l n="20">Which burns in Burke, in Littelton and Pitt,</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="6"/>
+               <l>Obliquely glances on the leaden pate</l>
+               <l>Of ev'ry babbling blockhead of the state.</l>
+            </lg>
+            <lg>
+               <l>Many and great the evils which have slow'd</l>
+               <l>From b<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>essings thus promiscuously bestow'd!</l>
+               <l n="25">Oft have we seen with grief the blushing rose</l>
+               <l>By pois'nous neighbours mildew'd as it blows;</l>
+               <l>As often genius in its vernal bloom,</l>
+               <l>From envy's blight receives untimely doom.</l>
+            </lg>
+            <lg>
+               <l>Among proverbial saws by wisdom seal'd,</l>
+               <l n="30">Which by truth's oracles have been reveal'd,</l>
+               <l>Be this recorded—for 'tis nature's law—</l>
+               <l>
+                  <hi>Fairness will foulness ever to it draw;</hi>
+               </l>
+               <l>While lust or envy urge, with equal joy,</l>
+               <l>The fiend to <hi>ravish</hi> beauty, or <hi>destroy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="7"/>
+               <l n="35">To find in this the depth of heaven's design,</l>
+               <l>For metaphysic heads be le<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>— not mine.</l>
+               <l>Essences, causes, substance, entity,</l>
+               <l>Be theirs—the beaten track of facts for me.</l>
+               <l>Let us, <hi>my</hi> ROSCIUS, freely let us rove</l>
+               <l n="40">Thro' Flora's gay parterre, or thro' the grove</l>
+               <l>Where 'midst her mellow clusters brooding's seen,</l>
+               <l>Pomona, fruitful mother, Autumn's queen;</l>
+               <l>Where'er the garden's winding leads our feet,</l>
+               <l>
+                  <hi>Proofs of my text</hi> on ev'ry plant we meet.</l>
+               <l n="45">Or shou'd we range to city, court, or vale,</l>
+               <l>No spot we find, where new examples fail.</l>
+            </lg>
+            <lg>
+               <l>Upon the fairest fruit banditties throng</l>
+               <l>
+                  <pb n="6" facs="8"/>Of wasps, who sing and riot while they wrong,</l>
+               <l>The downy peach, the bloom-suffused plumb</l>
+               <l n="50">Proclaim their wrongs with bleeding mouths tho' dumb;</l>
+               <l>The deep intrenchment on the luscious pear</l>
+               <l>Shews that some greedy spoiler has been there.</l>
+               <l>Attentive let us view this pearly rose</l>
+               <l>Its virgin beauties to the morn disclose;</l>
+               <l n="55">Its clasping foilage open'd to the light,</l>
+               <l>Green coated gnats, almost too small for sight,</l>
+               <l>Swarm myriads-thick, like motes in solar ray,</l>
+               <l>On embrio buds, and infant leaves to prey.</l>
+            </lg>
+            <lg>
+               <l>The world of letters more prepost'rous still,</l>
+               <l n="60">Is but one scene of good pursu'd by ill.</l>
+               <l>
+                  <pb n="7" facs="9"/>Dunces, like owls, can only bear the night,</l>
+               <l>No crime so great with them, as <hi>being bright.</hi>
+               </l>
+               <l>Genius and parts to dulness give offence,</l>
+               <l>And blockheads hunt them down in self-defence.</l>
+            </lg>
+            <lg>
+               <l n="65">When Junius, bright with all Apollo's rays,</l>
+               <l>Beams on the town a more than common blaze,</l>
+               <l>All <hi>Grub</hi>-Street's up in arms! its reptile breed</l>
+               <l>Of worms that spell, and some that almost read,</l>
+               <l>Among the laurels crawl which round him twine,</l>
+               <l n="70">And <hi>all</hi> their pow'rs to canker them combine;</l>
+               <l>But <hi>chief</hi> th' arch-critic caterpillar—He</l>
+               <l>So fam'd for pride, long words, and pedantry!</l>
+               <l>
+                  <pb n="8" facs="10"/>A thousand feet to move his vast weight strive,</l>
+               <l>A thousand feet! and half of them alive!</l>
+               <l n="75">But strive in vain! tho' on each foot the spur</l>
+               <l>Of <hi>Envy</hi> goads th' unwieldly worm to stir;</l>
+               <l>Too little all to speed him on his way,</l>
+               <l>Tho' all his hairs have stomach for the prey.</l>
+               <l>A <hi>pension</hi> now her golden charms displays,</l>
+               <l n="80">The Siren conquers, a<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap> 
+                  <hi>old Grub</hi> obeys.</l>
+               <l>A <hi>pension</hi> (and what cannot pensions do?)</l>
+               <l>Proclaim'd for him who shall this foe subdue,</l>
+               <l>Draws the long reptile forth the war to meet,</l>
+               <l>A task too mighty for a thousand feet!</l>
+               <l n="85">Onward he crawleth, like a gouty snail,</l>
+               <l>Cowards to fight, or felons to a jail.</l>
+               <l>
+                  <hi>"Vengeance is mine—th' Exchequer will repay,—</hi>
+               </l>
+               <l>"And Vengeance shall be surfeited to-day—</l>
+               <l>"<hi>My troop of feet</hi> shall wade thro' Junius' blood,</l>
+               <l n="90">"And N—triumphant stem the crimson flood."</l>
+               <l>—So vaunts <hi>old Grub</hi>—but all his menac'd harm</l>
+               <l>Ends in the nothing of a <hi>False Alarm.</hi>
+               </l>
+               <l>Th' illustrious foe he slavers with his bile,</l>
+               <l>But acts, poor worm! the Viper and the File.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="11"/>
+               <l n="95">When in the brilliant circle of St. James,</l>
+               <l>Amelia's beauties set the court in flames;</l>
+               <l>The Macaroni butterflies beset</l>
+               <l>This flow'r so fair, and wou'd without regret</l>
+               <l>Its whiteness blot, but Nature gave these things</l>
+               <l n="100">No pow'r to stain, except their mealy wings.</l>
+            </lg>
+            <lg>
+               <l>Say then, my ROSCIUS, while Apollo's hand</l>
+               <l>Around your temples twines a verdant band,</l>
+               <l>Wou'd you excepted be from Nature's law,</l>
+               <l>Retain your honours, and no envy draw?</l>
+               <l n="105">Wou'd you the muses should your genius clasp,</l>
+               <l>And shine Parnassus' pride without a wasp?</l>
+            </lg>
+            <lg>
+               <l>Can you, I know you cannot, think it fair,</l>
+               <l>To be Melpomene's, Thalia's heir;</l>
+               <l>To revel in the favours of the nine,</l>
+               <l n="110">And wear the wreathe, which they unite to twine,</l>
+               <l>
+                  <pb n="10" facs="12"/>From the coy maids be favor'd with a kiss,</l>
+               <l>Feel the warm raptures of Pierian bliss,</l>
+               <l>And yet forbid that <hi>Envy</hi>'s snakes should hiss;</l>
+               <l>While on a sea of glory thus you swim,</l>
+               <l n="115">And pleasure flows in tides that drown the brim,</l>
+               <l>Shall not the outcast floundering on the beach,</l>
+               <l>Malign those blessings which he cannot reach?</l>
+               <l>Conscience, good ROSCIUS,—Nature must prevail,</l>
+               <l>And 'tis the Wretch's privilege to rail.</l>
+            </lg>
+            <lg>
+               <l n="120">What is't to you, tho' spleen-struck bards prepare,</l>
+               <l>And for the worth that hurts them spread the snare?</l>
+               <l>Erom dungeons dark and deep their vipers call,</l>
+               <l>Warm at their heart and feed them with their gall;</l>
+               <l>Give the sweet creatures, like a foundling nurse,</l>
+               <l n="125">Envy's panado, and the pap of curse,</l>
+               <l>Till with recruited venom strong they feel,</l>
+               <l>Then turn them loose at your mercurial heel,</l>
+               <l>
+                  <pb n="11" facs="13"/>What is't to you?—You still may laugh and sing,</l>
+               <l>Despise the reptiles, and defy their sting.</l>
+               <l n="130">What tho' upon the temple's sacred walls,</l>
+               <l>Brothel obscenity each miscreant scrawls,</l>
+               <l>Can such blaspheming documents of sin,</l>
+               <l>Pollute the altar's purity within?</l>
+            </lg>
+            <lg>
+               <l>While envy's fever burns, the raving bard</l>
+               <l n="135">
+                  <hi>What</hi> or <hi>'gainst whom</hi> he writes pays no regard,</l>
+               <l>With venom'd heart he paints the vilest crime</l>
+               <l>In vilest words, and in the vilest rhime;</l>
+               <l>Delirious runs about the crowded streets,</l>
+               <l>And turns to <hi>Pasquin</hi>'s statue all he meets;</l>
+               <l n="140">His glass inverts each object that he sees,</l>
+               <l>Tears from their carth-bound roots the firmest trees,</l>
+               <l>The top to base converting—with a toss</l>
+               <l>St. Paul's it fixes on its golden cross;</l>
+               <l>Makes topsy-turvy tumblers upright tread,</l>
+               <l n="145">Bishops and Judges walk upon their head:</l>
+               <l>View'd thro' <hi>his glass,</hi> the eye of heav'n's not bright,</l>
+               <l>But from the glow-worm's tail should borrow light;</l>
+               <l>And if we judge by his reversing rule,</l>
+               <l>A blockhead <hi>Lowth,</hi> and <hi>Shipley</hi> is a fool;</l>
+               <l n="150">
+                  <hi>Shakespeare</hi> wants nature, learned
+<note n="*">The reader is desired to observe, that <hi>Dr. Samuel Johnson</hi> is not meant here—but <hi>Old Pen</hi>—as the author would hold himself inexcusable if he <hi>was</hi> capable of bringing the former into <hi>Shakespeare</hi>'s company, since the publication of his edition of that immortal bard.</note> 
+                  <hi>Johnson</hi> art,</l>
+               <l>
+                  <hi>Brutus</hi> and <hi>Wilkes</hi> a patriotic heart:</l>
+               <l>
+                  <pb n="12" facs="14"/>A driv'ling stammerer, no better, <hi>Pitt,</hi>
+               </l>
+               <l>And <hi>you</hi> to cry fresh oysters scarcely fit—</l>
+               <l>—At merit thus his giddy censures sly,</l>
+               <l n="155">Till in the flame of truth, like moths, they die.</l>
+            </lg>
+            <lg>
+               <l>Among the various blessings mortals know,</l>
+               <l>A worthy friend we place, and worthless foe;</l>
+               <l>No key a character more truly shews,</l>
+               <l>Than rolls authentic both of friends and foes.</l>
+               <l n="160">When with a pen that blunts the tooth of time,</l>
+               <l>And gives to merit everlasting prime,</l>
+               <l>Some future Plutarch, great high-priest of fame,</l>
+               <l>In her eternal dome inscribes thy name,</l>
+               <l>And decks it with such plentitude of praise,</l>
+               <l n="165">
+                  <hi>That thy</hi> shade almost bends beneath the bays,</l>
+               <l>Wou'd'st thou he shou'd a nettle 'mong them blend,</l>
+               <l>And damn thy same with—<hi>Bavius was his friend?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But let not anger, hasty judge, decree</l>
+               <l>That all he did was done in enmity;</l>
+               <l n="170">To candour's eye another look it wears,</l>
+               <l>
+                  <hi>Ill-blood</hi> perhaps, and not <hi>ill-will</hi> he bears;</l>
+               <l>
+                  <pb n="13" facs="15"/>His verse may be the <hi>strangury of wit,</hi>
+               </l>
+               <l>And when the rym'ster's in the burning fit,</l>
+               <l>'Tis writhing, straining, grunting, groan, and grin,</l>
+               <l n="175">Daemoniac symptoms of the fiend within;</l>
+               <l>Hard! after all his pangs and throes, to think</l>
+               <l>No drop of wit was voided in his ink!</l>
+               <l>Wit or no wit, he'll satires write and write,</l>
+               <l>Altho' he spoils this pretty maxim by't,</l>
+               <l n="180">"It's proper pow'r to hurt each creature feels,</l>
+               <l>"Bulls aim their horns, and asses lift their heels."</l>
+               <l>A simple truth in nature's earlier day,</l>
+               <l>And man, bird, beast, each prov'd it in his way;</l>
+               <l>
+                  <pb n="14" facs="16"/>Now the reverse may be as truly said,</l>
+               <l n="185">
+                  <hi>Bavius the ass</hi> assails US with <hi>his head,</hi>
+               </l>
+               <l>The length of ear that slouches from his skull,</l>
+               <l>For horns he takes, and <hi>butts like baited bull.</hi>
+               </l>
+               <l>Tho' all his <hi>fancied terrors</hi> shou'd be sped</l>
+               <l>With tenfold rage at thy devoted head,</l>
+               <l n="190">
+                  <hi>Envy</hi>'s career unheeded let him run—</l>
+               <l>—A pigmy's breath cannot blow out the sun—</l>
+            </lg>
+            <lg>
+               <l>Among the thousand gifts on men bestow'd</l>
+               <l>Tho' precious all, and worthy of a God,</l>
+               <l>Supremely gracious is the firm defence</l>
+               <l n="195">Of CONSCIOUSNESS, assign'd to INNOCENCE—</l>
+               <l>Secure in this impenetrable shield,</l>
+               <l>'Gainst the world's malice virtue takes the field.</l>
+               <l>Legions of dev'ls, with <hi>Satan</hi> at their head,</l>
+               <l>Or <hi>his Lieutenant Mendax</hi> in his stead,</l>
+               <l n="200">
+                  <pb n="15" facs="17"/>Their fiery darts may hurl with fruitless aim,</l>
+               <l>Upon her Aegis dies each pointed flame.</l>
+               <l>How firm this <hi>moral shield</hi> your bosom knew,</l>
+               <l>When <hi>slander</hi>'s <hi>quiver</hi> was discharged at <hi>you.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If on a master-work of genius bent,</l>
+               <l n="205">Nature her choicest qualities has lent,</l>
+               <l>'The body form'd of elements so wrought</l>
+               <l>As almost give the faculty of thought,</l>
+               <l>The soul with ev'ry touch of ev'ry mind,</l>
+               <l>Impress'd so true, HE is <hi>himself mankind:</hi>
+               </l>
+               <l n="210">When this accomplish'd legate's sent to teach</l>
+               <l>
+                  <hi>Our hearts to feel,</hi> what <hi>precept</hi> cannot reach,</l>
+               <l>While more distress than real suff'rings shew,</l>
+               <l>His feeling soul sustains from <hi>fabled woe,</hi>
+               </l>
+               <l>Should peevish Fate, grown envious of his fame,</l>
+               <l n="215">It's arrows point or at his life or name,</l>
+               <l>
+                  <pb n="16" facs="18"/>Where shall a <hi>medicine</hi> so rare be found,</l>
+               <l>Of pow'r to salve the rankling of the wound,</l>
+               <l>And soothe the heart, to bleed for others prone,</l>
+               <l>But bleeding now with sorrows of its own?</l>
+               <l n="220">Doubly nectareous should the verse distill,</l>
+               <l>In streams melodious each poetic rill</l>
+               <l>Shou'd num'rous flow, to give Lethaean rest</l>
+               <l>To the perturbed spirit in his breast;</l>
+               <l>But <hi>guilt</hi> can never into peace be sung,</l>
+               <l n="225">Tho' with <hi>Apollo's hair</hi> the lyre were strung—</l>
+               <l>While <hi>innocence</hi> not needs a balm like sin,</l>
+               <l>And <hi>you</hi> that <hi>conscious witness</hi> bear within!</l>
+            </lg>
+            <lg>
+               <l>Pleasant! to see how Envy's self-defeat</l>
+               <l>Turns into favour, what was done in hate!</l>
+               <l n="230">
+                  <pb n="17" facs="19"/>The nettles which she plants convert to bays,</l>
+               <l>For Envy's slander is "a kind of praise."</l>
+               <l>The <hi>Grubstreet laureate</hi> brands each honour'd name</l>
+               <l>With yours, and thus <hi>reviles</hi> you into <hi>fame.</hi>
+               </l>
+               <l>A <hi>fellow-feeling</hi> spares the dim and dark,</l>
+               <l n="235">And shining merit's the devoted mark,</l>
+               <l>At which he levels his envenom'd darts;</l>
+               <l>Shew him but "men of choice and rarest parts,</l>
+               <l>"That each particular of duty know,"</l>
+               <l>That each particular of duty <hi>do;</hi>
+               </l>
+               <l n="240">Who pillars to their country daily prove,</l>
+               <l>And as they best deserve, enjoy its love:</l>
+               <l>
+                  <note n="*">If the whole poem was not execrably dull, and offensively dirty, the reader would be desired to peruse the <hi>wretched lines,</hi> together with the <hi>injudicious</hi> and <hi>illiberal notes,</hi> in <hi>Love in the Suds,</hi> on those eminent barristers <hi>John Dunning</hi> and <hi>James Mansfield,</hi> Esqrs.</note>
+                  <note place="bottom" n="‡">COMMENT ON THE NOTE.] To save the reader the trouble and mortification of looking into a poem so <hi>execrably dull,</hi> we shall quote the very <hi>wretched lines</hi> and <hi>illiberal notes</hi> in question.</note>
+               </l>
+               <l>By <hi>Zoilus,</hi> throws the wretch into the spleen;</l>
+               <l>
+                  <pb n="18" facs="20"/>His talent at mistaking <hi>good</hi> for <hi>evil</hi>
+               </l>
+               <l n="245">In this a <hi>fool,</hi> in that discerns a <hi>dev'l.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="19" facs="21"/>
+               <l>Forgive the muse that <hi>labours to adorn</hi>
+               </l>
+               <l>Your head with roses, if she add a thorn,</l>
+               <l>If with a gentle hand one fault she chide,</l>
+               <l>One giant fault, which friendship cannot hide!</l>
+               <l n="250">
+                  <hi>Audacious Garrick!</hi> in these <hi>touchy times,</hi>
+               </l>
+               <l>Where airy dreams 'gainst majesty are crimes;</l>
+               <l>What more than <hi>Cromwell's fire</hi> cou'd thee impell,</l>
+               <l>'Gainst FLEET-DITCH' <hi>jus stercoreum</hi> to rebell?</l>
+               <l>That ancient kingdom still maintains its sway,</l>
+               <l n="255">And now is guarded by a <hi>covered way.</hi>
+               </l>
+               <l>
+                  <hi>Its monarch,</hi> seated on a throne of mud,</l>
+               <l>Tribute receives from the polluted flood;</l>
+               <l>From <hi>scavengers,</hi> his treas'ry lords he takes</l>
+               <l>Custom of common sew'rs, and toll of jakes;</l>
+               <l n="260">
+                  <pb n="20" facs="22"/>His claim to these <hi>his writings all</hi> declare,</l>
+               <l>And leave to <hi>Cloacine</hi> a second share.</l>
+               <l>When this <hi>beluted prince</hi> politely begs</l>
+               <l>Your kind acceptance of some <hi>rotten eggs,</hi>
+               </l>
+               <l>
+                  <hi>Filth of all sorts,</hi> and to improve their <hi>sweets,</hi>
+               </l>
+               <l n="265">Adds the rich sweepings of <hi>Gomorrah's streets;</hi>
+               </l>
+               <l>Shall thy fastidious spirit dare refuse,</l>
+               <l>And both the giver and the gift misuse?</l>
+               <l>His well-bred courtesy disdainful spurn,</l>
+               <l>And <hi>talk</hi> of <hi>pillory</hi> as the return?</l>
+               <l n="270">
+                  <pb n="21" facs="23"/>—Ungrateful Garrick!—<hi>But 'tis time to breathe,</hi>
+               </l>
+               <l>And ere more ink is shed, the quill to sheathe—</l>
+               <l>Soft ye—the <hi>muse</hi> must now (her <hi>letter</hi> penn'd)</l>
+               <l>Like <hi>other ladies</hi> with a <hi>postscript</hi> end;</l>
+               <l>Like <hi>other ladies</hi> place the <hi>bus'ness</hi> there,</l>
+               <l n="275">As stoutest soldiers fortify the <hi>rear.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="22" facs="24"/>
+               <head>POSTSCRIPT.</head>
+               <l>Once when the fire-ey'd regent of the day,</l>
+               <l>From <hi>Sirius</hi> shot to earth a fervid ray,</l>
+               <l>
+                  <pb n="23" facs="25"/>The puny fluttering insects of the shade,</l>
+               <l>Too weak to bear the radiant god display'd,</l>
+               <l n="280">A joint remonstrance buzz'd—and to the sky</l>
+               <l>Sent their <hi>high wills</hi> by the <hi>Recorder-fly;</hi>
+               </l>
+               <l>"Call forth thick clouds this fervour to abate,</l>
+               <l>"There's no enduring such transcendent <hi>heat.</hi>—</l>
+               <l>The pert demand of the remonstrant sly,</l>
+               <l n="285">Drew from the god a smile, and this reply—</l>
+               <l>"—Flutter your hour when to the <hi>west</hi> I'm gone,</l>
+               <l>"But pray, <hi>great Sir,</hi> excuse my shining on.—</l>
+            </lg>
+            <lg>
+               <l>So thou, bright son of Merit and of Fame,</l>
+               <l>Wh<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>le thy meridian darts its wonted flame,</l>
+               <l n="290">Scorching the eyes of <hi>literary gnats,</hi>
+               </l>
+               <l>Theatric beetles, and be-doctor'd bats,</l>
+               <l>Let these obscene dim children of the night,</l>
+               <l>Their malice club to execrate <hi>thy light,</hi>
+               </l>
+               <l>Regardless of the darklings, be it <hi>thine,</hi>
+               </l>
+               <l n="295">With undiminish'd lustre still to <hi>shine.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="commentary">
+            <pb facs="3"/>
+            <head>COMMENT.</head>
+            <p>The Author not having given us the argument of his Epistle, we shall begin the business of his Scholiast, by endeavouring to make it out as well as we can, for the convenience of the prosaic reader.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>ARGUMENT OF THE TEXT.</head>
+                     <p>As in the physical or natural world the sun cherishes alike both weeds and flowers, so in the world of letters the sun of learning shines alike, both on the scholar and the dunce, on the genius and the blockhead. [From the beginning to line 22.] Many and great are the evils which have fol<lb rend="hidden" type="hyphenInWord"/>lowed this promiscuous dispensation of natural and literary blessings. [l. 22 to 27.] According to the wisdom of ages, and the laws of nature, it is a received maxim, that opposites attract opposites; as FAIRNES; <hi>Foulness,</hi> and so forth. The depth of Heaven's design in this is left to be sounded by the metaphysicians. [l. 27—36.] Facts alone are abided by, and the wasps, worms and flies, that prey upon our peaches and pears, are shewn to be a natural evil, and a vile blunder in the system of Providence. [l. 36—38.] The world of <hi>letters</hi> is still more <hi>preposterous</hi> than that of <hi>nature;</hi> dunces and blockheads constantly hunting down men of parts and genius. [l. 58 to 64.] Thus that old Grub and ministerial pensioner, the author of the <hi>False Alarm</hi> [hight <hi>Dr. Sam. Johnson</hi>] endeavoured to hunt down the well-known JUNIUS. [l. 64—100.] And thus must thou, immortal <hi>Roscius,</hi> favoured by all the nine, expect to be hunted up and down. Nor canst thou repine, while revelling in the embraces of the <hi>coy</hi> maids, at being
+<pb n="2" facs="4"/>subject to the hissing of the snakes of Envy. [l. 100—134.] While Envy's fever burns, the raving bard, Bavius, with venomed heart, paints the vilest crime, in vilest words, in the vilest rhime; [that is the author of <hi>Leap-Frog,</hi> hight — <hi>Shirley,</hi> Esq.] tosses up St. Paul's, and sets it topsy-turvey on its golden cross. It is thus he turns every thing arsey-versey; even putting the all-seeing eye of Heaven into the blind eye of a glow-worm's tail. It is thus he makes Bishop Lowth a blockhead—Dan Shakespeare unnatural—Orator Pitt a stammerer, and thou, great Roscius, a toothess old oyster-woman! [l. 134—153.] Wouldst thou be pleased that, when a future Plutarch [probably meaning Parson W—s, author of as curious a prose Epistle to D. G. Esq.] shall usher thee into the temple of Fame, he should damn thy reputation, by placing Bavius [author of <hi>Leap-Frog</hi>] in the next niche, as thy friend? [l. 153—167.] And yet Candour will excuse even <hi>Bavius,</hi> upon coolly reflecting on the present strange topsey-turvey state of nature; for, though formerly bulls butted with their horns, and asses kicked with their heels; man, bird and beast each following the dictates of nature; it is now quite otherwise; Bavius, the ass, instead of lifting his heel, kicking us with his head. [l. 167—185.] Yet thou, immaculate Roscius, need'st fear nothing, not even a legion of devils, with their Captain Satan, or their Lieutenant-Captain Mendax, at their head, being possessed of conscious innocence and the impenetrable shield of VIRTUE. [l. 185—203.] Thou hast nothing to do but to listen to my <hi>numerous, melodious</hi> and <hi>nectareous</hi> verse; which flows to give Le<lb rend="hidden" type="hyphenInWord"/>thaean rest to that perturbed spirit in thy breast; which, secured by virtue and innocence, does nothing but laugh and sing; while guilt can never be lulled to rest, though by a Welch harp, strung with the harmonious locks of Apollo. [l. 203—227.] It is pleasant to see repulsed the feeble attacks of that Grubstreet-laureate, <hi>Zoilus,</hi> author of <hi>Love-in-the-Suds</hi> [hight Dr. <hi>Kenrick</hi>] monarch of Fleet-ditch, and Usurper of the throne of Cloacina; whose cleanly revenues he receives, like another Roman Empe<lb rend="hidden" type="hyphenInWord"/>ror, from the hands of scavengers. [227—275.]</p>
+                     <closer>
+                        <postscript>
+                           <head>POSTSCRIPT.</head>
+                           <p>Thou art the sun, to whom the fly was once sent ambassador, from the insects, who could not bear thy meridian glory. Thou scorchest the eyes of literary gnats, theatric beetles and be-doctor'd bats; darklings, obscene, dim children of the night, who club their malice to execrate thy light; being unable to shine, till thou art retired behind the scenes, in "Thetis' lap to rest." [l. 275 ad ult.]</p>
+                        </postscript>
+                     </closer>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="3" facs="5"/>Line 20. The <hi>curiosa felicitas,</hi> or happy choice of words, and chastity of metaphor, for which our reverend author is so eminently distinguished, begin already to manifest themselves.
+<q>
+                  <l>So that bright sun, prime <hi>nourisher</hi> of wit,</l>
+                  <l>Which <hi>burns</hi> in Burke, in Lyttelton and Pitt.</l>
+               </q> This is the first time, we believe, that the <hi>flaming brightness</hi> or <hi>burning heat</hi> of the sun, has been mistaken for that <hi>genial warmth</hi> by which it <hi>nou<lb rend="hidden" type="hyphenInWord"/>rishes</hi> either fruits or flowers.</p>
+            <p>It is with peculiar propriety also that our reverend bard has particula<lb rend="hidden" type="hyphenInWord"/>rized the great patriot Mr. Pitt, as one of those on whom the <hi>sun of learning</hi> has so beneficently shone. The profundity of this great patriot's erudition, indeed, appears to singular advantage in his literary produc<lb rend="hidden" type="hyphenInWord"/>tions; which, to use the just distinction of Lord Pomfret, are writ<lb rend="hidden" type="hyphenInWord"/>ten in the liberal style of a <hi>gentleman,</hi> and not with that grammatic propriety which betrays the vulgar pen of a literary mechanick.</p>
+            <p>
+               <pb n="4" facs="6"/>Line 24. What a pity! To be sure, it is a great evil that the sun shines alike on the wise and the foolish; "on the just and the unjust." It is to be hoped the next time our wise Parson gets into the pulpit, he will ex<lb rend="hidden" type="hyphenInWord"/>punge this blunder from the sacred text, and correct such a gross error in the laws of nature.</p>
+            <p>Line 34. In what book of Proverbs, or by what law of nature, the bard has made this discovery, we are at a loss to guess. Aristotle in his Ethics tells us, <hi>Semper similem ducit deus ad similem;</hi> and again, to use his own words, <gap rend="content:〈 in non-Latin alphabet 〉">
+                  <desc>foreign</desc>
+               </gap>. In the proverbial sayings of all ages and countries, we shall find also, that "<hi>like</hi> loves <hi>like.</hi>" "Birds of a feather flock together," &amp;c. <hi>Fairness</hi> and <hi>Foulness</hi> therefore are <hi>repulsive</hi> and not <hi>attractive;</hi> things homogeneous only attract<lb rend="hidden" type="hyphenInWord"/>ing each other; agreeably to the true system of the Newtonian philoso<lb rend="hidden" type="hyphenInWord"/>phy. The truth of the matter seems to be this: the Parson had some<lb rend="hidden" type="hyphenInWord"/>where read
+<q>
+                  <l>Envy will Merit as its shade pursue.</l>
+               </q>
+But then the poet adds
+<q>
+                  <l>It like a shadow proves the substance true.</l>
+               </q> Because there can be no shadow without a substance; but then our ingeni<lb rend="hidden" type="hyphenInWord"/>ous <hi>Master of Arts</hi> forgot that the <hi>shadow</hi> bears a resemblance to the <hi>sub<lb rend="hidden" type="hyphenInWord"/>stance</hi> and does not differ from it as <hi>foul</hi> doth from <hi>fair;</hi> as this divine poet, or rather <hi>poetical divine,</hi> has above so roundly asserted.</p>
+            <p>
+               <pb n="5" facs="7"/>Line 42. What elegance of imagery do we find in this description of Pomona, fruitful mother, Autumn's queen; represented here, as spreading her vegetable petticoats, the vine or the fig-leaf, to preserve her mellow clusters, from the depredation of those despe<lb rend="hidden" type="hyphenInWord"/>rate banditti the wasps, whom he satirizes so wittily and severely for their immoral and scandalous behaviour in being before-hand with him in the robbery of orchards.</p>
+            <p>Line 47. We should be glad to know, why our poet, on whom the <hi>sun of learning</hi> hath doubtless deigned to shine, as well as on Burke, Lyt<lb rend="hidden" type="hyphenInWord"/>telton and Pitt, hath here added the plural close, common to English words, to that of <hi>Banditti,</hi> as if its ending in <hi>s</hi> were necessary to make it plural. The singular of Banditti, in English, is <hi>Bandit,</hi> from the French, or <hi>Banditto,</hi> from the Italian. Thus Milton.
+<q>
+                  <l>No savage fierce <hi>Bandit,</hi> or mountaineer.</l>
+               </q>
+And Shakespeare,
+<q>
+                  <l>A Roman sworder, and <hi>Banditto</hi> slave.</l>
+               </q> But perhaps our learned Master of Arts might, by <hi>Banditties,</hi> mean a num<lb rend="hidden" type="hyphenInWord"/>ber of different companies, or ruffian bands of Banditti: but a band and a Bandit are different words. The author's ignorance, therefore, is obvious; the word <hi>Banditti</hi> being never used as a noun of multitude in the singular number, and therefore cannot be made plural, like <hi>band,</hi> or other English words, by the usual termination in <hi>s.</hi> What a pretty Master of Arts! Really, friend Evan, you should be sent to school again, to con your accidence.</p>
+            <p>
+               <pb n="6" facs="8"/>Line 48. For "Wasps, who <hi>sing"</hi>—we should certainly read "Wasps who <hi>sting.</hi> "—Of <hi>stinging</hi> wasps we have heard: but of <hi>singing</hi> wasps never. This we should have thought an errour of the press, but for the reason as<lb rend="hidden" type="hyphenInWord"/>signed in the next note.</p>
+            <p>Line 50. Our author seems to entertain a violent resentment, if not a rooted antipathy, against the whole <hi>ferae naturae.</hi> We should, however be glad to know by whom, according to his system of religion and morals, they were laid under any moral obligation, and to whom they are ac<lb rend="hidden" type="hyphenInWord"/>countable.
+<q>
+                  <l>The downy peach, the bloom-suffused plumb,</l>
+               </q>
+that <hi>bloom-suffused</hi> is a happy epithet!
+<q>
+                  <l>Proclaim their wrongs with bleeding mouths, tho' dumb.</l>
+               </q> From a dumb mouth must certainly proceed a silent proclamation; which must, of course, also, be just as curious as intelligible. Our poet seems, indeed, here to be as good a naturalist as he is a moralist and divine: but as we, <hi>Scriblerius Vapularius,</hi> are strangers to the physical sensation and moral sentiment of vegetables, we are at a loss to guess at his meaning, either re<lb rend="hidden" type="hyphenInWord"/>ligious, philosophical, or moral.</p>
+            <p>Line 60. What a happy discovery, and how worthy a protestant divine, that the system of Providence is a <hi>preposterous</hi> system! It is no wonder,
+<pb n="7" facs="9"/>if he found such absurdity prevail in the system of <hi>nature,</hi> that he should find more in a system of <hi>art.</hi>
+            </p>
+            <p>Line 62. This crime of <hi>being bright</hi> is certainly a very capital one, though it is not likely our author will ever be found guilty of it.</p>
+            <p>Line 64. By this rhyme of <hi>offence</hi> and <hi>defence,</hi> it seems as if our poet had entered into a league offensive and defensive against English versifica<lb rend="hidden" type="hyphenInWord"/>tion.</p>
+            <p>Line 68. We have heard of book-worms, natural and metaphorical, but they are such as <hi>devour</hi> books, instead of reading them. As to a <hi>spel<lb rend="hidden" type="hyphenInWord"/>ling</hi> worm, we never heard of such a reptile either in the natural or lite<lb rend="hidden" type="hyphenInWord"/>rary system. Our author's spelling worm appears also to be, at the same time, a mere garden grub, who cankers the laurels of the poet, while he is spelling his verses.</p>
+            <p>Line 72. The chief grub having, undergone its metamorphosis, is now become a caterpillar. We find, however, that his transformation is but partial; he being still famed for <hi>long words</hi> and <hi>pedantry.</hi> This is the first time we have known a <hi>caterpillar</hi> reproached with the use of the <hi>sesquipedàlia.</hi> Had our poet called Dr. Johnson, the person here alluded to, a caterpillar or grub-worm <hi>critic,</hi> the metaphor would have been pre<lb rend="hidden" type="hyphenInWord"/>served: but he cannot be at once a human hog and a hog-horse.</p>
+            <p>
+               <pb n="8" facs="10"/>Line 76. These thousand feet would be applicable enough to the critic, considered as a <hi>millepedes,</hi> or wood-louse, instead of a worm, or caterpillar; though it be whimsical to think an insect should carry spurs on its feet, to goad itself. As the text stands, however, our Master of Arts seems so learned a naturalist, as not to know a grub from an earwig.</p>
+            <p>Line 85. We shall leave the Doctors Cadogan, Hill, and Ingram, to decide whether snails can be afflicted with the gout or not; and if not to some future critic to discuss the propriety of this epithet. But we, must not omit to observe that, for want of grammatical construction, in these two lines,
+<q>
+                  <l>Onward he crawleth, like a gouty snail,</l>
+                  <l>Cowards to fight, or felons to a jail,</l>
+               </q> The last is downright nonsense; unless the poet meant to make sense of half of it, by saying he crawleth to fight cowards; for which, by the way, he does not seem to have occasion for a thousand feet.</p>
+            <p>
+               <pb n="9" facs="11"/>Line 95. We never heard that the Apostle, or any Saint of the name of <hi>James;</hi> kept his court, or was surrounded with a brilliant cir<lb rend="hidden" type="hyphenInWord"/>cle at his levee. Our poetical parson must certainly mean, therefore, the brilliant circle in the drawing-room or presence-chamber, at <hi>St. James's;</hi> so that the above lines, instead of running as above, should be corrected, and stand as under,
+<q>
+                  <l>When in the brilliant circle of St. James's</l>
+                  <l>Amelia's beauties set the court in <hi>flames's.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Line 100. Query, Doth the poet mean that Nature hath given but<lb rend="hidden" type="hyphenInWord"/>terflies power only to stain their mealy wings? or to stain any thing else <hi>with,</hi> or by means of, their mealy wings? If the former, he has written nonsense; if the latter, false grammar.</p>
+            <p>Line 106. The muses clasping the genius of Roscius, and his shining Parnassus' pride without a wasp, is something beautifully metaphorical, if it were but intelligible. It is pity that <hi>clasp</hi> and <hi>wasp</hi> are not the best of rhimes. <hi>Rasp</hi> or <hi>hasp</hi> would have mended the <hi>sound</hi> and could not have marred the <hi>sense.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="12"/>Line 112. This revelling in the savour of the nine, must be attended also with a singular kind of beatitude; especially if the maids are still so coy as to confine their savours to a simple kiss. And yet this, perhaps, is as much as he ought to wish for; since, though he might possibly be able to deflower, he could never satisfactorily enjoy them.</p>
+            <p>Line 115, Of Roscius's swimming on a sea of glory, one may form some idea, by seeing the buoy at the Nore ride over the waves, at all times of the tide; or to adapt more properly my simile to the sub<lb rend="hidden" type="hyphenInWord"/>ject, by seeing the float of a fishing-line dance upon the surface of the water, till some gudgeon bite at the hook. But what is to be understood by the tides of pleasure drowning the brim of the sea of glory, we must leave to the sagacity of happier scholiasts.</p>
+            <p>Line 119. We have frequently heard that <hi>losers</hi> have leave to rail; but why the loser is to be called a <hi>wretch,</hi> because the winner is a <hi>rascal,</hi> we do not comprehend. But perhaps the good Roscius can inform us why the author of Edward the <hi>Black Prince</hi> has reason to rail. Did that conscientious manager ever pick his pocket of five hundred pounds, in the same infamous manner as he did that of the author of <hi>Falstaff's Wedding?</hi>
+            </p>
+            <p>
+               <pb n="11" facs="13"/>Line 129. It would indeed be a wiser way than to run to hireling pleaders and pettifogging attorneys, to avenge his cause, by proceedings little better than the subornation of perjury.</p>
+            <p>Line 135. The raving bard here pointed at, seems to be the author of a scandalous copy of verses, entitled <hi>Leap-Frog,</hi> descriptive of that dirty game, published in the Public Ledger; the rhimes of which were certainly bad enough, and worse than any we have ever seen, except those of our au<lb rend="hidden" type="hyphenInWord"/>thor.</p>
+            <p>
+               <pb n="12" facs="14"/>Line 153. These are admirable lines and the comparison of Roscius to an oyster-woman, very applicable to the criticisms on that great actor's playing, published in the Gazeteer, before it became a vehicle to the puffs of the manager. The prosopopeia or personification of such censures is also very beautiful: it might have been mended, however, had the poet represented them as wasps, gnats, or hornets; unless by moths he meant to allude to their picking holes in the manager's coat.</p>
+            <p>Line 167. By no means. Let him not mention Bavius, but Maevius: not the irreverend author of the Black Prince, but the reverend au<lb rend="hidden" type="hyphenInWord"/>thor of the Powers of the Pen. <hi>Qui Bavium odit amet tua carmina Maevi.</hi> The friendship of so great a poet as our Maevius, must redound to the honour of Roscius to the latest posterity.</p>
+            <p>Line 171. This distinction between <hi>ill-blood</hi> ond <hi>ill-will</hi> is another in<lb rend="hidden" type="hyphenInWord"/>stance of our author's wonderful discoveries in physicks and morality; or rather of his dexterous use of that rhetorical trope, the metaphor. That
+<pb n="13" facs="15"/>bad <hi>blood</hi> should produce a strangury of <hi>wit,</hi> is a circumstance, we believe, only known to our author; unless by <hi>wit</hi> he means <hi>humour,</hi> and thinks all kinds of humour alike; in which case, to be sure, a cachectic habit, arising from the abuse of the non-naturals, may preduce a strangury of wit; with which master Evan, if he ever had any wit, seems to be unhappily affected. <hi>Facit indignatio versus</hi> is an old adage, and seems applicable to the hasty and turbulent ebullitions of <hi>ill blood.</hi> Our author's appear to be the effect of <hi>ill-will;</hi> cold blooded verses, that have neither the heat of anger, for their excuse on the one hand, nor the warmth of <hi>good-will,</hi> to recommend them on the other.</p>
+            <p>Line 177. The Powers of the pen are most happily exerted in this description of a costive poet, who
+<q>Strains from hard-bound brains a line a day.</q>
+            </p>
+            <p>His pangs and throes are also so feelingly expressed, that they demonstra<lb rend="hidden" type="hyphenInWord"/>tively prove the situation to be our author's own case; as indeed it is con<lb rend="hidden" type="hyphenInWord"/>firmed by the seven months labour of the present production—Instead of <hi>no</hi> drop <hi>of wit,</hi> we should read <hi>no</hi> bit <hi>of wit,</hi> &amp;c. for, supposing wit a fluid, be it ever so brilliant and pellucid, it would mix and be undiscoverable in the muddy medium of an author's ink-stand. Besides the <hi>bit</hi> and the <hi>wit</hi> are so pit pat to our author's knack at alliteration, that <hi>nostro periculo,</hi> we will venture to declare the printer must have made a blunder.</p>
+            <p>
+               <pb n="14" facs="16"/>Line 185. What wonder, when every thing both in the natural and moral world is confessedly turned topsy turvey! It is by no means more unnatural, or out of character, than to see a reverend divine kiss the backside of a stage-player!</p>
+            <p>Line 187. This <hi>butts like baited bull,</hi> is beautifully alliterative and idiomatical. It is a pity it puts us so much in mind of Quince and Bully Bottom; with the
+<q>
+                  <l>—blade the bloody blameful blade</l>
+                  <l>That bravely broached his boiling bloody breast.</l>
+               </q>
+            </p>
+            <p>Line 193. <hi>Bestow'd</hi> and <hi>God</hi> make another curious rhime. Indeed there is not a page in the Parson's text without one or two equally curious; wit<lb rend="hidden" type="hyphenInWord"/>ness <hi>skull</hi> and <hi>bull</hi> in the present; an excellent rhime!</p>
+            <p>Line 197. 'Gainst the world's malice virtue takes the field! What a flowing, <hi>numerous, melodious and nectareous</hi> line is this! It is to be equalled only by the mellifluous and elegant ease of the following;</p>
+            <q>Legions of dev'ls, with Satan at their head.</q>
+            <p>
+               <pb n="15" facs="17"/>Line 203. True: for which reason he flew, like the magnanimous Capt. Bobadil, to take satisfaction at law. The impenetrable buckler of <hi>conscious innocence</hi> was not proof, till lined with the tough parchment of the <hi>Crown Office.</hi> And yet conscious innocence did not chuse to trust its buff doublet, behind even this legal target, too far.</p>
+            <p>Line 209. That <hi>he,</hi> whoever <hi>he</hi> is, for the pronoun has no antecedent in the context; we say, that <hi>he</hi> is of the human species, cannot be admit<lb rend="hidden" type="hyphenInWord"/>ted; that he has a soul, or that his soul is impressed with either the vir<lb rend="hidden" type="hyphenInWord"/>tues or the vices of humanity, WE deny. That, by his happy talent at mi<lb rend="hidden" type="hyphenInWord"/>mickry, he takes them off most admirably cannot be disputed; but we know that mimickry is characteristic of an inferior kind of animals; so that we may justly say of this wonderful imitator of mankind, that superior mortals
+<q>
+                  <l>Admire such mimicry in human shape,</l>
+                  <l>And praise a Garrick as they praise an Ape.</l>
+               </q> That this animal has <hi>no soul,</hi> is notorious even to a proverb: and we hope our parson is not, like Parson Horne, so great an infidel as to think <hi>mankind</hi> have no souls.</p>
+            <p>Line 214. How is this!—What does our protestant Parson believe in FATE?—<hi>Peevish fate,</hi> dissatisfied with the choicest work of <hi>nature!</hi>—
+<pb n="16" facs="18"/>We were too precipitate in supposing him no atheist. The parson of Brentford is a novice to him in pagan mythology. But perhaps he will quibble, and say a <hi>fatalist</hi> is no atheist. Well, well, we won't dispute with him about words; let him no longer, like his brother patriot, disgrace his profession, but throw off his parson's gown, and we will set him down for a <hi>simple heathen.</hi>
+            </p>
+            <p>Line 223. That is the perturbed spirit, which, secure behind the Aegis or <hi>moral shield,</hi> of <hi>conscious innocence,</hi> could laugh and sing at the attack of Bavius; and defy whole legions of devils with General Satan, or even his Lieutenant (for he had seen Captains and Lieutenant Captains too) at their head. What an admirable anti-climax hath our poet borrowed from Tummas Appletree and Coster Pearmain!</p>
+            <p>Line 225. This idea of a Welch harp being strung with the carrotty locks of Apollo, is apparently too a borrowed thought; for who does not see that this device of Apollo's harmony lying in his hair, was suggested to him by Sampson's strength lying in those curling locks; of which Dalilah so perfidiously deprived him? Or, perhaps, our author, was thinking of his <hi>crowd,</hi> and the harmony, which a little rosin rubs into the hair of a fiddle-stick!</p>
+            <p>
+               <pb n="17" facs="19"/>Line 239. What a beautiful <hi>Epanalepsis</hi> is exhibited in these two lines! and with what a happy <hi>Homoiteleuton</hi> do they close! The <hi>know</hi> and <hi>do</hi> are besides most aptly allusive to the duty of the two barristers toward their old clients <hi>Doe</hi> and <hi>Roe;</hi> of whose names this lucky rhime so natu<lb rend="hidden" type="hyphenInWord"/>rally reminds us.</p>
+            <p>Line 241. The poet is not quite so happy here in the use of the me<lb rend="hidden" type="hyphenInWord"/>taphor. This distinguished pair of learned counsellors are represented as two pillars, the daily support of their country, and at the same time en<lb rend="hidden" type="hyphenInWord"/>joying its merited love. The image is precisely that of a drunken pa<lb rend="hidden" type="hyphenInWord"/>triot, tottering at the door of the Hercules'-pillars or two blue-posts; which he hugs most cordially, for fear of tumbling into the kennel. The satisfaction enjoyed by pillar or post, we leave to be explained by the archetypes of such proper emblems.</p>
+            <q>
+               <pb n="118" facs="20"/>
+               <l>Smooth-spoken Mansfield,<note n="†">Not the judge of that name, but the barrister, who is by no means a judge.</note> with his vacant face,</l>
+               <l>In softening accents first shall ope his case;</l>
+               <l>Which to defend, the want of Merlin's cunning</l>
+               <l>Shall be supplied by that of Grimbald Dunning.<note n="‡">See King Arthur, lately revived at Drury-Lane Theatre, and attend the pleadings in our courts of law and equity at Westminster, Guildhall, and Lincoln's-Inn.</note>
+               </l>
+            </q>
+            <p>It were difficult to exhibit a greater proof of stupidity than our Welch bard has done, in taking the above passages seriously. Is the one counsellor a fool because he is not a <hi>judge?</hi> Or the other a <hi>devil</hi> because he has got Grim<lb rend="hidden" type="hyphenInWord"/>bald's unfortunate phyz? And yet when the one sets up for <hi>wisdom</hi> and the other for <hi>beauty,</hi> a satirist need not be over and above splenetic, to call the one a booby and the other a devilish ugly fellow.</p>
+            <p>As a farther specimen of the wretched Iines contained in the above-men<lb rend="hidden" type="hyphenInWord"/>tioned execrably dull poem, the reader will please to take the following, which its author puts into the mouth of Roscius.</p>
+            <q>
+               <lg>
+                  <l>Curse on that K-NR-CK, soul of spleen and whim!</l>
+                  <l>What are my puffs, and what my gains to him?</l>
+                  <l>If poor and proud, can he of right complain</l>
+                  <l>That wealthier men and wittier are as vain;</l>
+                  <l>Why must he hint that I am past my prime,</l>
+                  <l>To blast my fading laurels ere their time?</l>
+                  <l>Death to my fame, and what, alas, is worse,</l>
+                  <l>'Tis death, damnation, to my craving purse;</l>
+                  <l>Capacious purse! by PLUTUS form'd to hold</l>
+                  <l>(The God of wealth) the devil and all of gold.</l>
+                  <l>Insatiate purse, that never yet ran o'er,</l>
+                  <l>But swallows all, and gapes, like hell for more.</l>
+               </lg>
+               <lg>
+                  <l>And yet, alas! how much the world will lye!</l>
+                  <l>They call me miser; but no miser I;</l>
+                  <l>He, brooding o'er his bags, delighted sits,</l>
+                  <l>And laughs to scorn the jests of envious wits;</l>
+                  <l>
+                     <pb n="19" facs="21"/>If fast his doors, he sets his heart at rest,</l>
+                  <l>And dotes with rapture on his iron chest;</l>
+                  <l>No galling paper-squibs his spirits teize,</l>
+                  <l>But ev'n the boys may hoot him if they please.</l>
+                  <l>He scorns the whistling of an empty name,</l>
+                  <l>While I am torn 'twixt avarice and fame;</l>
+                  <l>While I, so tremblingly alive all o'er,</l>
+                  <l>Still bleed and agonize at every pore;</l>
+                  <l>At ev'ry hiss am harrowed up with fear,</l>
+                  <l>And burst with choler at a critic's sneer.</l>
+                  <l>Rack'd by the gout and stone, and struck with age,</l>
+                  <l>Prudence and ease advise to quit the stage;</l>
+                  <l>But Fame still prompts▪ and pride can feel no pain;</l>
+                  <l>And Avarice bids me sell my soul for gain.</l>
+               </lg>
+            </q>
+            <p>Line 246. And hard labour it is too, Heaven knows: and what is still worse, it is likely, after all, to prove Labour-in-Vain!</p>
+            <p>Line 259. We shall not stand up for the cleanliness of <hi>Love in the Suds:</hi> the washing-tub, though a necessary implement to cleanliness, is itself a dirty subject, and we think the author did right, at any rate, to rid his hands of it. Should we recur, however, to the news-paper altercation it gave rise to, we shall find the Monarch of Drury-lane, even then, more deeply intrenched on his throne of mud, than his antagonist, the Monarch of Fleet-ditch.</p>
+            <p>
+               <pb n="20" facs="22"/>Since the abdication of the latter, also, the cleanly Roscius seems to have succeeded to his rival, and at present to possess the throne of both kingdoms; the publication before us being the <hi>third</hi> tributary pamphlet his mock majesty has since received from his literary scavengers; who keep still throwing dirt on the adversary, notwithstanding the proclama<lb rend="hidden" type="hyphenInWord"/>tion of a peace. To preserve the name of these stink-pots, would be do<lb rend="hidden" type="hyphenInWord"/>ing too much honour to the wretches employed in such dirty work; but lest their existence should be doubted, we shall just mention their titles and authors. 1st, The <hi>Kenrickad,</hi> by that literary trollop, Mrs. <hi>Brokes.</hi> 2d, The <hi>Recantation,</hi> &amp;c. by that filthy Yahoo, <hi>Paul Hiffernan.</hi> 3dly, Though last, not least of this goodly trïo, the present Epistle, by that forgiving and forgetting Christian Divine the Reverend <hi>Evan Lloyd,</hi> Master of Arts.</p>
+            <p>We cannot help thinking that these repeated attacks on the enemy, after having by agreement laid down his arms, would justify him in taking them up again. An authentic account of the rise progress, and accommo<lb rend="hidden" type="hyphenInWord"/>dation of the late dispute between Dr. K. and Mr. G. seems indeed necessa<lb rend="hidden" type="hyphenInWord"/>ry for the justification of both. For though the former hath fully excul<lb rend="hidden" type="hyphenInWord"/>pated both himself and the latter, respecting the odious insinuation, which various circumstances unluckily contributed to cast on him, he has left it still extremely apparent, that a manager of a theatre may not be ad<lb rend="hidden" type="hyphenInWord"/>dicted to a particular vice, and yet be notwithstanding a very great rascal.</p>
+            <p>Line 262. A <hi>beluted</hi> prince should rather seem one upon whom dirt is thrown, than one accused of throwing, dirt.</p>
+            <p>Line 269. It was indeed but mere <hi>talk;</hi> his threats and vapouring being equally impudent and impotent. So far, indeed, was the god of our
+<pb n="21" facs="23"/>parson's idolatry, Mr. G. from chusing to proceed in his ridiculous prose<lb rend="hidden" type="hyphenInWord"/>secution of the author of Love-in-the-Suds: whose poetical attack on him was merely laughable and ludicrous; that he thought proper to decline even the prosecution of the editor of <hi>Leap Frog,</hi> in which he had been ex<lb rend="hidden" type="hyphenInWord"/>plicitly and directly charged with what the former lampoon was mistakenly and falsely supposed to insinuate.</p>
+            <p>It is, on the whole, peculiarly modest in our Welch Parson, to reproach the author of Love-in-the-Suds for being a <hi>libeller;</hi> when he himself was not long since convicted in the court of King's-bench, and committed to the prison of that court, accordingly, for writing a libel; a libel too of the most uncharitable and infamous kind, in a man of his sacred function; being levelled at his neighbour, for exercising liberty of conscience in matters of religion and morality. It was on this occasion he obtained from <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> Mansfield the distinguishing appellation of THE WELCH PARSON.</p>
+            <p>Not that we mean, whatever his Lordship might do, to rouse the blood of Cadwallader, by casting any ungentlemanlike reflection on the country of Welch bards. At the same time, nevertheless, we have not the vanity to think we shall convict the present, of being the <hi>blockhead</hi> he really is, be<lb rend="hidden" type="hyphenInWord"/>fore a jury of his own countrymen. The <hi>amor patriae,</hi> which burns in the breast of every ancient Briton will effectually prevent it; as we are con<lb rend="hidden" type="hyphenInWord"/>vinced by a story, once told us by a Welch judge; who, after summing up the evidence, against one of our author's namesakes, accused of sheep-stealing, was answered pithily and pertinently by the foreman of the jury, as follows: <q>Your Lortship need not taak so much trouple, as we shall find the pris'ner not guilty; hur na<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>me is <hi>Lloyd,</hi> and there never was a <hi>Lloyd</hi> hang'd for sheep-taaking in our time, nor, py cot, ever shall, so long as we are 'pon the <hi>chury!</hi>
+               </q>
+            </p>
+            <p>
+               <pb n="22" facs="24"/>Line 277. Candour obliges us to do justice to our author, in answer to the impertinent censures of the <hi>Monthly</hi> and <hi>Critical</hi> reviews; the editors of which, will next month proceed to take him to task in the manner fol<lb rend="hidden" type="hyphenInWord"/>lowing: <q>What a wise-acre is this Welch bard, to suppose that the sun shoots its rays from <hi>Sirius,</hi> i. e. the dog-star, to the earth; when it is well known that Sirius is 27664 times farther from us than the sun, and that the fixed stars shine with their own, and not a borrowed light. Our poetical divine, though born and bred on the mountains of Wales, whence he might be supposed to have acquired a nearer acquaintance with the heavens, shews himself to be very ignorant of the science of astronomy. We would, therefore, recommend him to the perusal of Ptolomy, Tycho Brahe, Kepler, Ricciolus, Cassini, De la Hire, and above all, our learned countrymen Flamstead and Sir Isaac Newton.</q>
+            </p>
+            <p>With humble submission, however, to Goody Griffith and the Hodman<lb rend="hidden" type="hyphenInWord"/>dod, who may have read all the above authors (that is, the names of them, in Tom Davies's catalogue) our poet may know as much of astronomy as they do of criticism. It is true that by <hi>Sc<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>ra,</hi> as it was called by the Arabs, <gap rend="content:〈 in non-Latin alphabet 〉">
+                  <desc>foreign</desc>
+               </gap> by the Greeks, and <hi>Sirius</hi> among the Latins, is usually meant a star of the first magnitude in the mouth of <hi>Canis major.</hi> It is of this star, as the scholiasts tell us, that Virgil speaks, in the third book of his Aeneid, <hi>Steriles exurit Sirius agros;</hi> and Lucan, <hi>Sirius exerit ignes rabidos.</hi> Again, nothing is more common with our English poets, than to tell us, after the summer sol<lb rend="hidden" type="hyphenInWord"/>stice, that Sirius the dog-star rages. But notwithstanding all this, our au<lb rend="hidden" type="hyphenInWord"/>thor seems to have the advantage of the reviewers; for though the best au<lb rend="hidden" type="hyphenInWord"/>thors mean by Sirius, the dog-star, some of the worst (as we are told by He<lb rend="hidden" type="hyphenInWord"/>sychius the lexicographer, or Hesychius the monk, for having neither, I can<lb rend="hidden" type="hyphenInWord"/>not positively tell which) sometimes means by Sirius the <hi>Sun.</hi> Now, though our author seems to have betrayed a want of taste and discernment, in adopting the unclassical practice of the corrupt ages of Latinity, yet we say he should not be censured for reading bad Latin books, instead of good ones, by criticks, who never were capable of reading any at all, good, bad or in<lb rend="hidden" type="hyphenInWord"/>different.</p>
+            <p>
+               <pb n="23" facs="25"/>Line 290. By <hi>literary gnats,</hi> our author is supposed to mean those trou<lb rend="hidden" type="hyphenInWord"/>blesome scribblers, that so constantly annoy his friend Roscius in the Lon<lb rend="hidden" type="hyphenInWord"/>don and Whitehall evening posts, together with those in the few morning papers which are not under the management of the manager.</p>
+            <p>Line 291. By <hi>theatric beatles</hi> are supposed to be meant the proprietors and all the players of Covent-Garden theatre; together with those even of Drury-lane, who do not sacrifice to Moloch, and bow the knee to Baal. By <hi>be-doctor'd bats</hi> are evidently meant those two ignorant and illiterate blockheads Doctor Samuel Johnson and Doctor William Kenrick, not omitting perhaps even that mirrour of doctorship, <hi>Scriblerius Flagellarius</hi> ourself; inferior to nei<lb rend="hidden" type="hyphenInWord"/>ther Busbeius, Bentleius, Budeus, Ruaeus, nor any other flagellator, ancient or modern. We would therefore advise this truant divine to mend his man<lb rend="hidden" type="hyphenInWord"/>ners, restrain his petulance, and kiss the rod of our correction; lest he pro<lb rend="hidden" type="hyphenInWord"/>voke a heavier chastisement, and from hi present inanity, sink into still less than nothing, beneath the weight of our castigation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

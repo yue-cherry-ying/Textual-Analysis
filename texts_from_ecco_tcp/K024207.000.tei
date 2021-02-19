@@ -1,0 +1,508 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The man with two wives: or, wigs for ever! A dramatick fable; by F. G. Waldron. Set to musick by Mr. Sanderson. And first performed at the Royalty Theatre, Saturday, March 24th. 1798.</title>
+            <author>Waldron, F. G. (Francis Godolphin), 1744-1818.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024207.000</idno>
+            <idno type="docno">CW3316990784</idno>
+            <idno type="ecll">1192700100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The man with two wives: or, wigs for ever! A dramatick fable; by F. G. Waldron. Set to musick by Mr. Sanderson. And first performed at the Royalty Theatre, Saturday, March 24th. 1798.</title>
+                  <author>Waldron, F. G. (Francis Godolphin), 1744-1818.</author>
+               </titleStmt>
+               <extent>14,[2]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for the author, and sold by him; at the Royalty Theatre; and by H. D. Symonds,</publisher>
+                  <date>1798.</date>
+                  <idno type="TCP">K024207.000</idno>
+                  <idno type="docno">CW3316990784</idno>
+                  <idno type="ecll">1192700100</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse.</note>
+                  <note>With a final leaf containing a note.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT8577.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE MAN WITH TWO WIVES; Or, WIGS FOR EVER! A <hi>DRAMATICK FABLE;</hi> BY F. G. WALDRON.</p>
+            <p>SET TO MUSICK BY MR. SANDERSON.</p>
+            <p>AND FIRST PERFORMED AT THE <hi>ROYALTY THEATRE,</hi> SATURDAY, MARCH 24th. 1798.</p>
+            <q>
+               <l>Love in these labyrinths his slaves detains,</l>
+               <l>And mighty hearts are held in slender chains.</l>
+               <l>With hairy springes we the birds betray,</l>
+               <l>Slight lines of hair surprize the finny prey,</l>
+               <l>Fair tresses man's imperial race insnare,</l>
+               <l>And beauty draws us with a single hair.</l>
+               <bibl>POPE'S <hi>Rape of the Lock.</hi>
+               </bibl>
+            </q>
+            <p>LONDON: Printed for the Author, and sold by him at No. 4, Cross-Court, Bow-Street, Covent-Garden (where may be had all his other publications); at the Royalty Theatre; and by H. D. Symonds, Paternoster-Row.</p>
+            <p>1798.</p>
+            <p>PRICE SIX-PENCE. <hi>Entered at Stationers' Hall.</hi>
+            </p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="2"/>
+            <head>DRAMATIS PERSONAE.</head>
+            <list>
+               <item>Husband, Mr. WALLACK.</item>
+               <item>Old Wife, Mrs JEFFERIES,</item>
+               <item>Young Wife, Mrs. HARLOWE.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <pb facs="3"/>
+         <head>The Man with Two Wives; Or, Wigs for Ever! A DRAMATICK FABLE.</head>
+         <stage>Enter Husband.</stage>
+         <stage>SONG.</stage>
+         <sp>
+            <speaker>Husb.</speaker>
+            <lg>
+               <l>WAS ever man so plagued as I!</l>
+               <l>It almost makes me sob and cry;</l>
+               <l>Two wives I have, and can't please either,</l>
+               <l>With black and grey hairs can please neither:</l>
+               <l>One wishes that my hair were black;</l>
+               <l>Whilst t'other, but I fear, alack!</l>
+               <l>'Tis but pretence, prefers the grey:</l>
+               <l>To please both 'would I knew the way!</l>
+            </lg>
+            <lg>
+               <l>If I had only one wife, old;</l>
+               <l>Tho' she, perchance, might be a scold:</l>
+               <l>My grey hairs could not, sure, displease her;</l>
+               <l>Nor my infirmities much teaze her.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="4"/>
+               <l>Or, had I but one wife, tho' young;</l>
+               <l>And pert, and flippant were her tongue:</l>
+               <l>She, surely, would not find, good-lack!</l>
+               <l>Fault with my hairs for being black.</l>
+            </lg>
+            <lg>
+               <l>Was ever man &amp;c.</l>
+               <l>To please both 'would I knew the way!</l>
+            </lg>
+         </sp>
+         <stage>
+            <hi>Enter</hi> Old Wife</stage>
+         <stage>RECITATIVE Accompanied.</stage>
+         <sp>
+            <speaker>Old Wife.</speaker>
+            <lg>
+               <l>Where is my husband?—mine and Bett's—</l>
+               <l>That he's half her's, oft-times sorely frets;</l>
+               <l>But I'm his first wife, and the elder:</l>
+               <l>Tho' younger Ma'am has <hi>Hans in Kelder.</hi>
+               </l>
+               <l>Oh! here he is, and now I'll try</l>
+               <l>To make him throw his black hairs by.</l>
+            </lg>
+         </sp>
+         <stage>DUETT.</stage>
+         <sp>
+            <speaker>Husb.</speaker>
+            <lg>
+               <l>Ah ha! my old spousy! yet not the less dear;</l>
+               <l>How little I thought you to me were so near:</l>
+               <l>What news, my dear chuck! from the market or bath?</l>
+               <l>I must go there myself; I'm as thin as a lath!</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>Old Wife.</speaker>
+            <lg>
+               <l>To the bath you may go, but 'twill do you no good,</l>
+               <l>While that bush of black hair remains under your hood;</l>
+               <l>For health's sake let me that deformity crop;</l>
+               <l>You ne'er will be well till that lumber you lop!</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>Husb.</speaker>
+            <lg>
+               <l>Well, do as you please, my old spousy! pray do!</l>
+               <l>Your will is a law, that I still buckle to.</l>
+            </lg>
+         </sp>
+         <sp>
+            <pb n="7" facs="5"/>
+            <speaker>Old Wife.</speaker>
+            <lg>
+               <l>Come into next room then; and, if I have luck,</l>
+               <l>Each black from the grey hairs I'll presently pluck.</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>Both</speaker>
+            <l>Come into &amp;c.</l>
+         </sp>
+         <sp>
+            <speaker>Husb.</speaker>
+            <l>And if <hi>you—you'll</hi> &amp;c.</l>
+         </sp>
+         <stage>Exeunt.</stage>
+         <stage>
+            <hi>Enter</hi> Young Wife.</stage>
+         <stage>RECITATIVE ACCOMPANIED.</stage>
+         <sp>
+            <speaker>Yg. Wife</speaker>
+            <lg>
+               <l>What can have become of my husband, I wonder?</l>
+               <l>With his old wife, I guess; were he young—lightning! thunder!—</l>
+               <l>How I'd rattle his ears; nay his joints: all his senses!</l>
+               <l>But, since of a husband nought's left but pretences,</l>
+               <l>I'll cheer myself some way; be it only to teaze him:</l>
+               <l>For who can expect I should e'er wish to please him!</l>
+               <l>Not a grey hair I'll suffer upon his old pate,</l>
+               <l>But pluck them all out; or no more be his mate.</l>
+            </lg>
+         </sp>
+         <stage>SONG.</stage>
+         <lg>
+            <l>What folly, I wonder! induced me to wed</l>
+            <l>A grey-beard, who scarcely can crawl to his bed!</l>
+            <l>And I, young, gay, lively, and sightly!</l>
+            <l>Alas! silly I!</l>
+            <l>I almost could cry!</l>
+            <l>Sure I merit a husband more sprightly!</l>
+         </lg>
+         <lg>
+            <l>And yet, on reflection, it near makes me laugh;</l>
+            <l>Of him, tho' so old, I have only one half:</l>
+            <l>That's, sure, being stinted too tightly!</l>
+            <l>Conceited, dull log!</l>
+            <l>You mere household clog!</l>
+            <l>Two wives are not manag'd so lightly!</l>
+         </lg>
+         <stage>
+            <pb n="8" facs="6"/>
+            <hi>Enter</hi> Husband.</stage>
+         <stage>SONG.</stage>
+         <sp>
+            <speaker>Husb.</speaker>
+            <lg>
+               <l>Well, now I think I look as should</l>
+               <l>Each man that's past Life's middle;</l>
+               <l>For, black hairs, sure, no wise man would,</l>
+               <l>That can't dance to a fiddle.</l>
+            </lg>
+            <lg>
+               <l>Now I and my old spouse well match,</l>
+               <l>For she's grey as a badger;</l>
+               <l>But hold, should young Ma'am now me catch,</l>
+               <l>New pluck'd, how should I fadge her!</l>
+            </lg>
+         </sp>
+         <stage>RECITATIVE ACCOMPANIED.</stage>
+         <sp>
+            <speaker>Yg. Wife.</speaker>
+            <lg>
+               <l>Oh, here is the old boy! well, now for some fun;</l>
+               <l>My humour I'll follow, thus briskly begun.</l>
+               <l>Why, goodness! what's here? you lately were pye-bald;</l>
+               <l>But, your black hairs are gone; and now you are nigh-bald!</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>Hush.</speaker>
+            <lg>
+               <l>Dear, young wife, be gentle! I've lost all my black hairs,</l>
+               <l>I dare not tell how; and now I much lack hairs:</l>
+               <l>Have pity, then, Darling! upon poor old grey;</l>
+               <l>And to him of comfort a word or two say.</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>Yg. Wife</speaker>
+            <lg>
+               <l>To comfort my husband, as should ev'ry wife,</l>
+               <l>I always am ready, each hour of my life;</l>
+               <l>But, sure, my dear Hubby will do what he can</l>
+               <l>To prove himself loving, as though a young man:</l>
+               <l>Consign these grey hairs, then, unto my direction;</l>
+               <l>And, if you'll but, patient, endure the dissection;</l>
+               <l>In less than five minutes, I vow and declare,</l>
+               <l>Upon your smooth pate shan't be seen a grey hair!</l>
+            </lg>
+         </sp>
+         <stage>
+            <pb n="9" facs="7"/>SONG.</stage>
+         <lg>
+            <l>With a snip of my scissars,</l>
+            <l>Each white hair I'll mow;</l>
+            <l>Or a twitch of my tweezers,</l>
+            <l>No more shall they grow:</l>
+            <l>For who would be link'd to a grey-head?</l>
+            <l>As well in the grave one might lay head!</l>
+         </lg>
+         <lg>
+            <l>Not I, on my life!</l>
+            <l>I'll no longer be wife</l>
+            <l>To one who sepate's cover'd with snow;</l>
+            <l>Then quick let me mow it,</l>
+            <l>And no longer show it,</l>
+            <l>It shames me wherever I go:</l>
+            <l>Oh, who would be link'd to a grey-head!</l>
+         </lg>
+         <stage>DUETT.</stage>
+         <sp>
+            <speaker>Husb.</speaker>
+            <lg>
+               <l>What ever you please, love! so you be but happy;</l>
+               <l>I do as she wills, tho' I think I am sappy.</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>Young Wife.</speaker>
+            <lg>
+               <l>Do just as I please, love! and you will be happy:</l>
+               <l>To thwart a young wife would, you know, be quite sappy.</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>Both.</speaker>
+            <lg>
+               <l>Do just as I please, love! &amp;c.</l>
+               <l>What ever you please, love! &amp;c.</l>
+            </lg>
+         </sp>
+         <stage>Exeunt.</stage>
+         <stage>
+            <pb n="10" facs="8"/>
+            <hi>Enter, at the opposite side, the</hi> Old Wife.</stage>
+         <stage>SONG.</stage>
+         <sp>
+            <speaker>Old Wife.</speaker>
+            <lg>
+               <l>Well, now I'm contented; my husband and I</l>
+               <l>Look like one another, as pigs in a sty;</l>
+               <l>His grey hairs and mine now exactly agree,</l>
+               <l>And no more he'll prefer young Eliza to me:</l>
+               <l>Take example, ye old wives, and all of ye pull</l>
+               <l>Each black hair ye my find on your spouse's pied scull.</l>
+            </lg>
+            <lg>
+               <l>A pretty condition before I was in!</l>
+               <l>Why did I not sooner this practice begin?</l>
+               <l>Our heads the fame liv'ry now properly wear,</l>
+               <l>For on his white cranium there's not a black hair.</l>
+               <l>Take example, ye old wives, and all of ye pull</l>
+               <l>Each black hair ye may find on your spouse's pied scull.</l>
+            </lg>
+         </sp>
+         <stage>
+            <hi>Enter</hi> Husband and Young Wife.</stage>
+         <stage>RECITATIVE, Accompanied.</stage>
+         <sp>
+            <speaker>Husb.</speaker>
+            <l>Oh, dear! oh, dear! how cold's my head!</l>
+            <l>My night-cap fetch, I'll go to bed.</l>
+         </sp>
+         <sp>
+            <speaker>Old Wife.</speaker>
+            <l>Why, how now, husband! what's the matter?</l>
+         </sp>
+         <sp>
+            <speaker>Young Wife.</speaker>
+            <l>Why, how now, ma'am! why all this clatter?</l>
+            <l>Of all his black hairs you first stript him;</l>
+            <l>I only of his grey bereft him:</l>
+            <l>So between both, bald, meek, and mild,</l>
+            <l>He proves, "an old man's twice a child!"</l>
+         </sp>
+         <sp>
+            <pb n="11" facs="9"/>
+            <speaker>Husb.</speaker>
+            <l>Cease your taunting each at other;</l>
+            <l>Or at me; pray cease this pother!</l>
+            <l>And say how I may quick escape</l>
+            <l>The shame of this my bald-pate rape?</l>
+         </sp>
+         <stage>AIR.</stage>
+         <sp>
+            <speaker>Young Wife.</speaker>
+            <l>To Britain strait send, if you hence would look big,</l>
+            <l>For one of their scull-caps, I think, called a wig.</l>
+         </sp>
+         <sp>
+            <speaker>Old Wife.</speaker>
+            <l>To Britain pray send, if you hence would look big,</l>
+            <l>For one of their scull-caps, she says, call'd a wig.</l>
+         </sp>
+         <sp>
+            <speaker>Husb.</speaker>
+            <l>To Britain I'll send, that I hence may look big,</l>
+            <l>For one of their scull-caps, I know, call'd a wig.</l>
+         </sp>
+         <stage>SONG.</stage>
+         <sp>
+            <speaker>Husb</speaker>
+            <lg>
+               <l>The men only wore wigs; but now, with the ladies,</l>
+               <l>I've heard that the best of the wig-maker's trade is;</l>
+               <l>The red-hair'd turn black, and the grizzle grow flaxen:</l>
+               <l>The colour they change as they please of their caxon:</l>
+               <l>All ranks now appear in the new-fashion'd rig, there;</l>
+               <l>And no female's a beauty, who wears not a wig, there!</l>
+            </lg>
+            <lg>
+               <l>Then I'll think it no shame to conceal my bald pate, dears!</l>
+               <l>With curls that hung over some Blouzalind's great ears;</l>
+               <l>Since damsels of fifteen throw off, as they scorn'd 'em,</l>
+               <l>The beautiful locks with which Nature adorn'd 'em,</l>
+               <l>
+                  <pb n="12" facs="10"/>And frizzled wigs wear, as in public they dash on;</l>
+               <l>Pray, why should not old men, too, follow the fashion?</l>
+            </lg>
+            <lg>
+               <l>And, since in the valley of years I'm declining,</l>
+               <l>At what can't be help'd, in the stead of repining,</l>
+               <l>I'll sport each new whimsy; in pantaloons strut too;</l>
+               <l>To my throat a huge poultice I'll presently put too:</l>
+               <l>Whilst, with two such kind wives, if I've any luck, dears!</l>
+               <l>I think, when new wigg'd, I shall be quite a buck, dears!</l>
+            </lg>
+         </sp>
+         <stage>FINALE.</stage>
+         <sp>
+            <speaker>Old Wife</speaker>
+            <l>When your hand shall be in, my dear husband, pray send</l>
+            <l>For a wig, for me also; 'twill serve this good end:</l>
+            <l>That I shall no more be thought aged, alack!</l>
+            <l>And, instead of grey hairs, a wig get me coal-black.</l>
+         </sp>
+         <sp>
+            <speaker>Young Wife.</speaker>
+            <l>Same trouble will serve for three wigs as for two;</l>
+            <l>Let me, tho' I want it not, have a wig too:</l>
+            <l>My hair is quite flaxen; to what shall it change?</l>
+            <l>Why, a lovely brunette! which will not be so strange.</l>
+         </sp>
+         <sp>
+            <speaker>Husb.</speaker>
+            <l>Agreed, my dear wives! we will all three be wigg'd;</l>
+            <l>And in the new fashion compleatly soon rigg'd:</l>
+            <l>No colour of hair shall our union dissever;</l>
+            <l>And, in harmony, henceforth, we'll sing Wigs for Ever!</l>
+            <stage>CHORUS.</stage>
+            <l>No colour of hair shall our union dissever;</l>
+            <l>And, in harmony, henceforth, we'll sing Wigs for Ever</l>
+         </sp>
+      </body>
+      <back>
+         <div type="epilogue">
+            <pb n="13" facs="11"/>
+            <head>EPILOGUE-SONG,</head>
+            <sp>
+               <stage>By Mrs. HARLOWE.</stage>
+               <lg>
+                  <l>The Poet <hi>Spenser</hi> sweetly sang</l>
+                  <l>Of <hi>Rosalinda's</hi> charms;</l>
+                  <l>Her diamond eyes, her ruby lips,</l>
+                  <l>Her white and taper arms:</l>
+                  <l>When he described fly <hi>Cupid's</hi> web,</l>
+                  <l>Wove with her golden hair;</l>
+                  <l>All other Aethiops seem'd to Rose,</l>
+                  <l>She fairest of the fair!</l>
+               </lg>
+               <lg>
+                  <l>When <hi>Shakspeare</hi> drew the maid he lov'd,</l>
+                  <l>In rustic <hi>Phoebe</hi> veil'd;</l>
+                  <l>Her bugle eye-balls, cheek of cream,</l>
+                  <l>
+                     <hi>Anne Hathaway</hi> conceal'd:</l>
+                  <l>Arch <hi>Cupid's</hi> net in her was framed</l>
+                  <l>Of glossy, black silk hair;</l>
+                  <l>To him brunette was bright as gold,</l>
+                  <l>She fairest of the fair!</l>
+               </lg>
+               <lg>
+                  <l>But, had they all existed now,</l>
+                  <l>The males had felt sad shocks,</l>
+                  <l>Had <hi>Rosalinda's</hi> golden curls,</l>
+                  <l>
+                     <hi>Anne Hathaway's</hi> black locks,</l>
+                  <l>As 'twere by magick, sudden chang'd;</l>
+                  <l>Gold, black!—black, golden hair!—</l>
+                  <l>Would they have thought them monsters, or</l>
+                  <l>Each fairest of the fair?</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="12"/>
+                  <l>Mere monsters, doubtless, would have seem'd</l>
+                  <l>The changelings in their eyes;</l>
+                  <l>Nor, black or yellow turn'd the skin,</l>
+                  <l>Have caus'd more griev'd surprise!</l>
+                  <l>Be warn'd then, females! when you dress,</l>
+                  <l>Whate'er your toil or care,</l>
+                  <l>Forsake not stature! she will shew</l>
+                  <l>You fairest of the fair!</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="note">
+            <pb facs="13"/>
+            <p>N. B. The Epilogue being too long for performance, the third and fourth stanzas were compressed into the fol<lb rend="hidden" type="hyphenInWord"/>lowing one.</p>
+            <q>
+               <l>But, had they all existed now,</l>
+               <l>And <hi>Anna's</hi>
+                  <note place="bottom" n="*">
+                     <hi>Anna.</hi> The reader who has any curiosity about this maiden's christian name, whether <hi>Anne</hi> or <hi>Anna,</hi> is referred to Malone's "INQUIRY," 1796, p. 142 seq. Chalmers' "APOLOGY," 1797, p. 174 seq. and Waldron's "FREE REFLECTIONS", 1796, p. 10.</note> jetty locks</l>
+               <l>With <hi>Rosa's</hi> golden tresses chang'd,</l>
+               <l>The men had felt sad shocks!</l>
+               <l>Be warn'd then, females!—when you dress,</l>
+               <l>Whate'er your toil or care,</l>
+               <l>Forsake not Nature! she will shew</l>
+               <l>You fairest of the fair!</l>
+            </q>
+         </div>
+      </back>
+   </text>
+</TEI>

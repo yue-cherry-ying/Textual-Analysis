@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One thousand seven hundred and thirty eight. A dialogue something like Horace. By Mr. Pope:</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023171.000</idno>
+            <idno type="docno">CW3311930261</idno>
+            <idno type="ecll">0143500600</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One thousand seven hundred and thirty eight. A dialogue something like Horace. By Mr. Pope:</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>[4],10,[2]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for T. Cooper,</publisher>
+                  <date>[1738]</date>
+                  <idno type="TCP">K023171.000</idno>
+                  <idno type="docno">CW3311930261</idno>
+                  <idno type="ecll">0143500600</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reimpression of the impression with "(Price ONE SHILLING.)" on the titlepage; "(Price One Shilling)" on titlepage; sig. D under "her".</note>
+                  <note>With a half-title, and a final leaf of advertisements.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P933</note>
+                  <note>Griffith, 485</note>
+                  <note>English Short Title Catalog, ESTCT5720.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>ONE THOUSAND
+SEVEN HUNDRED
+AND
+THIRTY EIGHT.</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>ONE THOUSAND
+SEVEN HUNDRED
+AND
+THIRTY EIGHT.</p>
+            <p>A
+DIALOGUE
+Something like <hi>HORACE.</hi>
+            </p>
+            <p>By Mr. <hi>POPE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi>
+Printed for T. COOPER at the <hi>Globe</hi> in <hi>Pater<lb rend="hidden" type="hyphenInWord"/>noster-row.</hi>
+(Price One Shilling.)</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="3"/>
+         <head>ONE THOUSAND
+SEVEN HUNDRED
+AND
+THIRTY EIGHT.</head>
+         <head type="sub">DIALOGUE.</head>
+         <sp>
+            <speaker>A.</speaker>
+            <lg>
+               <l>
+                  <seg rend="decorInit">N</seg>OT twice a twelvemonth you appear in Print,</l>
+               <l>And when it comes, the Court see nothing in't.</l>
+               <l>You grow <hi>correct</hi> that once with Rapture
+writ,</l>
+               <l>And are, besides, too <hi>Moral</hi> for a Wit.</l>
+               <l n="5">Decay of Parts, alas! we all must feel—</l>
+               <l>Why now, this moment, don't I see you steal?</l>
+               <l>
+                  <pb n="2" facs="4"/>
+'Tis all from <hi>Horace:</hi> did not <hi>Horace</hi> say</l>
+               <l>"Lord <hi>Fanny</hi> spun a thousand lines a day?</l>
+               <l>And long before you, in much better metre,</l>
+               <l>"Laugh at those Fools who put their trust in <hi>Peter?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But <hi>Horace,</hi> Sir, was delicate, was nice;</l>
+               <l>
+                  <hi>Bubo</hi> observes, he lash'd no sort of <hi>Vice:</hi>
+               </l>
+               <l>
+                  <hi>Horace</hi> would say, <hi>Sir</hi> Billy <hi>serv'd the Crown,</hi>
+               </l>
+               <l>Blunt <hi>could do Bus'ness,</hi> H—ggins <hi>knew the Town,</hi>
+               </l>
+               <l n="15">Sir <hi>George</hi> of <hi>some slight Gallantries</hi> suspect,</l>
+               <l>In rev'rend <hi>S—n</hi> note a <hi>small Neglect,</hi>
+               </l>
+               <l>And own, the <hi>Spaniard</hi> did a <hi>waggish thing,</hi>
+               </l>
+               <l>Who cropt our Ears, and sent them to the King.</l>
+               <l>His sly, polite, insinuating stile</l>
+               <l>Could please at Court, and made AUGUSTUS smile:</l>
+               <l>An artful Manager, that crept between</l>
+               <l>His Friends and Shame, and was a kind of <hi>Screen.</hi>
+                  <note place="bottom" n="†">
+                     <l>Omne vafer vitium ridenti Flaccus amico</l>
+                     <l>Tangit, &amp; admissus circum praecordia ludit.</l>
+                  </note>
+               </l>
+               <l>
+                  <pb n="3" facs="5"/>
+But 'faith your very Friends will soon be sore;</l>
+               <l>
+                  <hi>Patriots</hi> there are, who wish you'd jest no more—</l>
+               <l n="25">And where's the Glory? 'twill be only thought</l>
+               <l>The Great man never offer'd you a Groat.</l>
+               <l>Go see Sir ROBERT—</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>B.</speaker>
+            <lg>
+               <l>See Sir ROBERT!—hum—</l>
+               <l>And never laugh—for all my life to come?</l>
+               <l>Seen him I have, but in his happier hour</l>
+               <l n="30">Of Social Pleasure, ill-exchang'd for Pow'r.</l>
+               <l>Would he oblige me? let me only find,</l>
+               <l>He thinks one Poet of no venal kind.</l>
+               <l>Come, come, at all I laugh He laughs, no doubt,</l>
+               <l>The only diff'rence is, I dare laugh out.</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>A.</speaker>
+            <lg>
+               <l>Why yes: with <hi>Scripture</hi> still you may be free;</l>
+               <l>A Horse-laugh, if you please, at <hi>Honesty;</hi>
+               </l>
+               <l>A Joke on JEKYL, or some odd <hi>Old Whig,</hi>
+               </l>
+               <l>Who never chang'd his Principle, or Wig:</l>
+               <l>
+                  <pb n="4" facs="6"/>
+A Patriot is a Fool in ev'ry age,</l>
+               <l n="40">Whom all Lord Chamberlains allow the Stage:</l>
+               <l>These nothing hurts; they keep their Fashion still,</l>
+               <l>And wear their strange old Virtue as they will.</l>
+            </lg>
+            <lg>
+               <l>If any ask you, "Who's the Man, so near</l>
+               <l>"His Prince, that writes in Verse, and has his Ear?</l>
+               <l n="45">Why answer LYTTELTON, and I'll engage</l>
+               <l>The worthy Youth shall ne'er be in a rage:</l>
+               <l>But were his Verses vile, his Whisper base,</l>
+               <l>You'd quickly find him in Lord <hi>Fanny</hi>'s case.</l>
+               <l>
+                  <hi>Aegysthus, Verres,</hi> hurt not honest FLEURY,</l>
+               <l n="50">But well may put some Statesmen in a fury.</l>
+            </lg>
+            <lg>
+               <l>Laugh then at any, but at Fools or Foes;</l>
+               <l>These you but anger, and you mend not those:</l>
+               <l>Laugh at your Friends, and if your Friends are sore,</l>
+               <l>So much the better, you may laugh the more.</l>
+               <l n="55">To Vice and Folly to confine the jest,</l>
+               <l>Sets half the World, God knows, against the rest;</l>
+               <l>
+                  <pb n="5" facs="7"/>
+Did not the Sneer of more impartial men</l>
+               <l>At Sense and Virtue, balance all agen.</l>
+               <l>Judicious Wits spread wide the Ridicule,</l>
+               <l n="60">And charitably comfort Knave and Fool.</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>B.</speaker>
+            <lg>
+               <l>Dear Sir, forgive the Prejudice of Youth:</l>
+               <l>Adieu Distinction, Satire, Warmth, and Truth!</l>
+               <l>Come harmless <hi>Characters</hi> that no one hit,</l>
+               <l>Come <hi>Henley</hi>'s Oratory, <hi>Osborn</hi>'s Wit!</l>
+               <l n="65">The Honey dropping from <hi>Ty—l</hi>'s tongue,</l>
+               <l>The Flow'rs of <hi>Bub—ton,</hi> the Flow of <hi>Y—ng!</hi>
+               </l>
+               <l>The gracious Dew of Pulpit Eloquence;</l>
+               <l>And all the well-whipt Cream of Courtly Sense,</l>
+               <l>That first was <hi>H—vy</hi>'s, <hi>F—</hi>'s next, and then</l>
+               <l n="70">The S—te's, and then <hi>H—vy</hi>'s once agen.</l>
+               <l>O come, that easy <hi>Ciceronian</hi> stile,</l>
+               <l>So <hi>Latin,</hi> yet so <hi>English</hi> all the while,</l>
+               <l>As, tho' the Pride of <hi>Middleton</hi> and <hi>Bland,</hi>
+               </l>
+               <l>All Boys may read, and Girls may understand!</l>
+               <l n="75">
+                  <pb n="6" facs="8"/>
+Then might I sing without the least Offence,</l>
+               <l>And all I sung should be the <hi>Nation</hi>'s <hi>Sense.</hi>
+               </l>
+               <l>So—Satire is no more—I feel it die—</l>
+               <l>No <hi>Gazeteer</hi> more innocent than I!</l>
+               <l>And let, a God's-name, ev'ry Fool and Knave</l>
+               <l n="80">Be grac'd thro' Life, and flatter'd in his Grave.</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>A.</speaker>
+            <lg>
+               <l>Why so? if Satire know its Time and Place,</l>
+               <l>You still may lash the Greatest—in Disgrace:</l>
+               <l>For Merit will by turns forsake them all;</l>
+               <l>Would you know when? exactly when they fall.</l>
+               <l n="85">But let all Satire in all Changes spare</l>
+               <l>Immortal <hi>S—k,</hi> and grave <hi>De—re!</hi>
+               </l>
+               <l>Silent and soft, as Saints remove to Heav'n,</l>
+               <l>All Tyes dissolv'd, and ev'ry Sin forgiv'n,</l>
+               <l>These, may some gentle, ministerial Wing</l>
+               <l n="90">Receive, and place for ever near a King!</l>
+               <l>There, where no Passion, Pride, or Shame transport,</l>
+               <l>Lull'd with the sweet <hi>Nepenthe</hi> of a Court;</l>
+               <l>
+                  <pb n="7" facs="9"/>
+There, where no Father's, Brother's, Friend's Disgrace</l>
+               <l>Once break their Rest, or stir them from their Place;</l>
+               <l n="95">But past the Sense of human Miseries,</l>
+               <l>All Tears are wip'd for ever from all Eyes;</l>
+               <l>No Cheek is known to blush, no Heart to throb,</l>
+               <l>Save when they lose a Question, or a Job.</l>
+            </lg>
+         </sp>
+         <sp>
+            <speaker>B.</speaker>
+            <lg>
+               <l>Good Heav'n forbid, that I shou'd blast their Glory,</l>
+               <l n="100">Who know how like Whig-Ministers to Tory,</l>
+               <l>And when three Sov'reigns dy'd, could scarce be vext,</l>
+               <l>Consid'ring what a Gracious Prince was next.</l>
+               <l>Have I in silent wonder seen such things</l>
+               <l>As Pride in Slaves, and Avarice in Kings,</l>
+               <l n="105">And at a Peer, or Peeress shall I fret,</l>
+               <l>Who starves a Mother, or forswears a Debt?</l>
+               <l>
+                  <hi>Virtue,</hi> I grant you, is an empty boast;</l>
+               <l>But shall the Dignity of <hi>Vice</hi> be lost?</l>
+               <l>Ye Gods! shall <hi>Cibber</hi>'s Son, without rebuke</l>
+               <l>Swear like a Lord? or <hi>Rich</hi> out-whore a Duke?</l>
+               <l>
+                  <pb n="8" facs="10"/>
+A Fav'rite's <hi>Porter</hi> with his Master vie,</l>
+               <l>Be brib'd as often, and as often lie?</l>
+               <l>Is it for <hi>W—rd</hi> or <hi>Peter</hi> (paltry Things!)</l>
+               <l>To pay their Debts or keep their Faith like Kings?</l>
+               <l>If<note place="bottom" n="*">Author of a Book intitled, The Oracles of Re<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>on.</note> 
+                  <hi>Blount</hi> destroy'd himself, he play'd the man,</l>
+               <l>And so may'st Thou, Illustrious <hi>Passeran!</hi>
+               </l>
+               <l>But shall a <hi>Printer,</hi> weary of his life,</l>
+               <l>Learn from their Books to hang himself and Wife?</l>
+               <l>This, this, my friend, I cannot, will not bear;</l>
+               <l n="120">Vice thus abus'd, demands a Nation's care;</l>
+               <l>This calls the Church to deprecate our Sin,</l>
+               <l>And hurls the Thunder of the Laws on <hi>Gin.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let humble <hi>Foster,</hi> if he will, excell</l>
+               <l>Ten Metropolitans in preaching well;</l>
+               <l n="125">A simple Quaker, or a Quaker's Wife,</l>
+               <l>Out-do <hi>L—d—ffe,</hi> in Doctrine—yea, in Life;</l>
+               <l>Let low-born ALLEN, with an aukward Shame,</l>
+               <l>Do good by stealth, and blush to find it Fame.</l>
+               <l>
+                  <pb n="9" facs="11"/>
+                  <hi>Virtue</hi> may chuse the high or low Degree,</l>
+               <l n="130">'Tis just alike to Virtue, and to me;</l>
+               <l>Dwell in a Monk, or light upon a King,</l>
+               <l>She's still the same, belov'd, contented thing.</l>
+               <l>
+                  <hi>Vice</hi> is undone, if she forgets her Birth,</l>
+               <l>And stoops from Angels to the Dregs of Earth:</l>
+               <l n="135">But 'tis the <hi>Fall</hi> degrades her to a Whore;</l>
+               <l>Let <hi>Greatness</hi> own her, and she's mean no more:</l>
+               <l>Her Birth, her Beauty, Crowds and Courts confess,</l>
+               <l>Chaste Matrons praise her, and grave Bishops bless:</l>
+               <l>In golden Chains the willing World she draws,</l>
+               <l n="140">And hers the Gospel is, and hers the Laws:</l>
+               <l>Mounts the Tribunal, lifts her scarlet head,</l>
+               <l>And sees pale Virtue carted in her stead!</l>
+               <l>Lo! at the Wheels of her Triumphal Car,</l>
+               <l>Old <hi>England</hi>'s Genius rough with many a Scar,</l>
+               <l n="145">Dragg'd in the Dust! his Arms hang idly round,</l>
+               <l>His Flag inverted trails along the ground!</l>
+               <l>Our Youth, all liv'ry'd o'er with foreign Gold,</l>
+               <l>Before her dance; behind her crawl the Old!</l>
+               <l>
+                  <pb n="10" facs="12"/>
+See thronging Millions to the Pagod run,</l>
+               <l n="150">And offer Country, Parent, Wife, or Son!</l>
+               <l>Hear her black Trumpet thro' the Land proclaim,</l>
+               <l>That "Not to be corrupted is the Shame."</l>
+               <l>In Soldier, Churchman, Patriot, Man in Pow'r,</l>
+               <l>'Tis Av'rice all, Ambition is no more!</l>
+               <l n="155">See, all our Nobles begging to be Slaves!</l>
+               <l>See, all our Fools aspiring to be Knaves!</l>
+               <l>The Wit of Cheats, the Courage of a Whore,</l>
+               <l>Are what ten thousand envy and adore.</l>
+               <l>All, all look up, with reverential Awe,</l>
+               <l>On Crimes that scape, or triumph o'er the Law:</l>
+               <l>While Truth, Worth, Wisdom, daily we decry—</l>
+               <l>"Nothing is Sacred now but Villany."</l>
+            </lg>
+            <lg>
+               <l>Yet may this Verse (if such a Verse remain)</l>
+               <l>Show there was one who held it in disdain.</l>
+            </lg>
+         </sp>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <pb facs="13"/>
+            <head>BOOKS lately Printed for T. COOPER.</head>
+            <p>1. The First Satire of the Second Book of <hi>Horace,</hi> In <hi>Dialogue</hi>
+between <hi>Alexander Pope</hi> of <hi>Twickenham in Com. Midd.</hi>
+               <abbr>Esq</abbr>; on the one Part, and his <hi>Learned Council</hi> on the
+Other.</p>
+            <p>2. Sober Advice from <hi>Horace,</hi> as delivered in his second Ser<lb rend="hidden" type="hyphenInWord"/>mon,
+Imitated in the <hi>manner of Mr.</hi> Pope. <hi>Textum Re<lb rend="hidden" type="hyphenInWord"/>censuit
+Ric. Bentleius,</hi> with Notes.</p>
+            <p>3. <hi>Horace</hi> his Epistle to AUGUSTUS, Imitated by <hi>Mr. Pope.</hi>
+            </p>
+            <p>4. The First Epistle of the First Book of <hi>Horace</hi> imitated.</p>
+            <p>5. The Sixth Epistle of the First Book of <hi>Horace</hi> imitated.</p>
+            <p>6. The Works of <hi>Alexander Pope,</hi> 
+               <abbr>Esq</abbr> Vol. 2. containing his
+Epistles and Satires.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

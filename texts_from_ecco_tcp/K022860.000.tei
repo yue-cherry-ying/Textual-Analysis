@@ -1,0 +1,1470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An enquiry into the danger and consequences of a war with the Dutch:</title>
+            <author>Defoe, Daniel, 1661?-1731.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K022860.000</idno>
+            <idno type="docno">CW3305531845</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An enquiry into the danger and consequences of a war with the Dutch:</title>
+                  <author>Defoe, Daniel, 1661?-1731.</author>
+               </titleStmt>
+               <extent>40p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J.Baker,</publisher>
+                  <date>1712.</date>
+                  <idno type="TCP">K022860.000</idno>
+                  <idno type="docno">CW3305531845</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Daniel Defoe.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Moore, 241</note>
+                  <note>Goldsmiths', 4952</note>
+                  <note>English Short Title Catalog, ESTCT5337.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>AN
+ENQUIRY
+Into the
+DANGER
+AND
+CONSEQUENCES
+OF A
+WAR
+With the
+<hi>DUTCH.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi>
+Printed for <hi>J. Baker,</hi> at the <hi>Black-Boy</hi>
+in <hi>Pater-Noster-Row.</hi> 1712.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="2"/>
+         <head>An ENQUIRY into the
+DANGER, <hi>&amp;c.</hi>
+         </head>
+         <p>I CANNOT say that I am of the Num<lb rend="hidden" type="hyphenInWord"/>ber
+of those, who wish, that if we have
+a War with the <hi>Dutch</hi> they may beat
+Us; because it has something in it so unnatu<lb rend="hidden" type="hyphenInWord"/>ral,
+for an <hi>Englishman</hi> or a <hi>Britain</hi> to rejoyce
+in the Destruction of his own Country, and
+in the Triumph of our Neighbours of any
+kind over Us, that he cannot see it without
+Horror and Aversion; yet I cannot but say,
+I wish <hi>those,</hi> who talk with so much Satisfa<lb rend="hidden" type="hyphenInWord"/>ction
+of a War with the <hi>Dutch,</hi> would look
+a little into the certain Consequences of such
+a War, whether Victory or Disadvantage on
+Our Side shall attend it.</p>
+         <p>I take a War with the <hi>Hollanders,</hi> to have
+this very unhappy Circumstance in it, That
+if we are beaten, it may be <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+               <desc>illegible</desc>
+            </gap> ruin imme<lb rend="hidden" type="hyphenInWord"/>diately,
+and if we conquer, it may be our
+ruin hereafter, so that in general, get or
+lose in the Field, we shall certainly lose in
+the War.</p>
+         <p>The immediate Loss of our Ships, of our
+Men, of our Trade, and the farther load<lb rend="hidden" type="hyphenInWord"/>ing
+this Nation, with a mighty and insup<lb rend="hidden" type="hyphenInWord"/>portable
+Expence, are the common Topicks
+<pb n="4" facs="3"/>
+of those who argue in the usual Methods a<lb rend="hidden" type="hyphenInWord"/>gainst
+this War; but though these are con<lb rend="hidden" type="hyphenInWord"/>siderable,
+and shall have something said to
+them in their Course; yet these are the least
+of the Evils, which if our Fore-sight is not
+clouded by the Power and Influence of Par<lb rend="hidden" type="hyphenInWord"/>ties
+found, may be by necessary and inevttable
+Consequences, to follow the entring at this
+time upon a War with the <hi>Dutch.</hi>
+         </p>
+         <p>The Situation of the <hi>Dutch,</hi> their Strength
+at Sea, their Possessions in the <hi>East</hi> and <hi>West-Indies,</hi>
+and their reigning Influence in the
+<hi>North</hi> and <hi>East</hi> Seas, are Reasons why we
+must expect uncommon Mischiefs should at<lb rend="hidden" type="hyphenInWord"/>tend
+our Trade in the beginning of such a
+War; this was always the Effect of a <hi>Dutch</hi>
+War, and it was remarkable, that in the
+last War with the <hi>Dutch</hi> we lost 2000 Sail of
+Ships great and small the first Year: No
+part of our Commerce is free from them or
+out of their reach: On the contrary, some
+of the best Parts of our Trade are in great
+Danger of being entirely lost to them, such
+as the <hi>East-India, African</hi> and <hi>East</hi> Country
+Trades in particular; it is apparent, if a
+due Enquiry were made, we should see small
+hope of continuing and preserving our In<lb rend="hidden" type="hyphenInWord"/>terest
+in them under a War with the <hi>Dutch;</hi>
+their Collonies of superiour Strength lying
+so near ours in the two First, and their Po<lb rend="hidden" type="hyphenInWord"/>tent
+Alliances in the latter, enabling them
+effectually to supplant Us.</p>
+         <p>The Disturbance they always upon these
+Occasions gave us in our <hi>Home Trade,</hi> and the
+impossibility of our carrying it on, but with
+<pb n="5" facs="4"/>
+manifest Disadvantage, is a strong Argument
+to open our Eyes in the Case of a <hi>Dutch</hi> War;
+there are other Parts which respect our
+Coal and Salt Trade, our Corn Trade, our
+<hi>Hull</hi> and <hi>Lynn</hi> Carriage, our Trade to <hi>Scot<lb rend="hidden" type="hyphenInWord"/>land,</hi>
+and our Fishing Trade: In all which,
+the Interruptions of Commerce by a <hi>Dutch</hi>
+War have been such, as have been felt by
+all our People.</p>
+         <p>The Gentlemen who are so fond of this
+War with the <hi>Dutch,</hi> have perhaps not yet
+examin'd the Trading Consequences of it,
+and as they are Landed Men, and fancy
+they are no way dependent upon Trade,
+they have forgotten, what so often, and by
+so many unanswerable Arguments has been
+proved to them, <hi>viz.</hi> That as Trade only
+was the Original Cause of the encreas'd Va<lb rend="hidden" type="hyphenInWord"/>lue
+of Lands, and the high Rents which
+now the Gentlemen receive; so the decay
+and ruin of Trade, must of course sink the
+Value of Land, lower the Rents, and re<lb rend="hidden" type="hyphenInWord"/>duce
+the Tenant, to an incapacity to sup<lb rend="hidden" type="hyphenInWord"/>port
+the Landlord; by which means, a War
+will of course affect the Landed-man as well
+as the Merchant: Wherefore the Landed
+Gentlemen are desired to give themselves the
+Trouble to enquire into the following Par<lb rend="hidden" type="hyphenInWord"/>ticulars,
+as they are likely to be affected by
+a War with the <hi>States General.</hi>
+         </p>
+         <p>
+            <hi>First,</hi> Whether the Landed Men about
+<hi>New Castle</hi> upon <hi>Tyne,</hi> will not be effected
+by the interruption of the Coal Trade? Whe<lb rend="hidden" type="hyphenInWord"/>ther
+when Coals are at 4 <hi>l.</hi> a Chaldron at
+<pb n="6" facs="5"/>
+            <hi>London,</hi> and on the Coasts, it will not con<lb rend="hidden" type="hyphenInWord"/>siderably
+lessen the Consumption? And
+whether in the last <hi>Dutch</hi> War the Quantity
+of Coals carry'd out were not lessen'd above
+50000 Chaldron in a Year?</p>
+         <p>
+            <hi>Secondly,</hi> Whether the Landed Men borde<lb rend="hidden" type="hyphenInWord"/>ing
+upon all the Coasts, from <hi>Hull</hi> in the
+<hi>North,</hi> to the River <hi>Thames,</hi> and on to the
+Coast of <hi>Kent</hi> and <hi>Sussex,</hi> will not be affe<lb rend="hidden" type="hyphenInWord"/>cted
+by the Stop put to the vast Exportation
+of Corn to <hi>Holland, &amp;c.</hi> the want of which
+Sale, must of necessity make the Price fall
+in <hi>England,</hi> by which the Tenant, not be<lb rend="hidden" type="hyphenInWord"/>ing
+able to get a Market for his Corn, is
+disabled to pay his Rent, or hold his Farm
+without an Abatement?</p>
+         <p>
+            <hi>Thirdly,</hi> Whether the Stop, put to the vast
+Exportation of our Woolen Manufactures to
+<hi>Holland,</hi> and which will be interrupted, if
+not prohibited by a War, will not ruin Mul<lb rend="hidden" type="hyphenInWord"/>titudes
+of our Manufacturers in the Coun<lb rend="hidden" type="hyphenInWord"/>try,
+leave the Poor without Employment,
+and prevent or greatly lessen, not the Con<lb rend="hidden" type="hyphenInWord"/>sumption
+of Wool only, but the General
+Consumption of Provisions, by which the
+Landed Men's Estates, must of course be re<lb rend="hidden" type="hyphenInWord"/>duced,
+and their Rents remain unpaid?</p>
+         <p>These Things, if it was imagin'd, any
+Man could object against them might be
+farther enlarg'd upon, and the particular
+Trades which would suffer in such an Inter<lb rend="hidden" type="hyphenInWord"/>ruption
+<pb n="7" facs="6"/>
+of Commerce, might be examined,
+where it would appear.</p>
+         <p>That the great Trade of Broad Cloath,
+Kersies, <hi>&amp;c.</hi> one of the greatest Branches of
+Trade in <hi>England,</hi> particularly at <hi>Leeds, Hu<lb rend="hidden" type="hyphenInWord"/>thersfield,
+Wakefield, Hallifax, Bradford, Roch<lb rend="hidden" type="hyphenInWord"/>dale,</hi>
+and the adjacent Parts, and where it is
+by modest Computation supposed, Four
+Hundred Thousand People are employ'd and
+maintained in the Woolen Manafacture,
+that this great Trade is principally main<lb rend="hidden" type="hyphenInWord"/>tained
+and supported by the Exportation to
+<hi>Holland.</hi>
+         </p>
+         <p>That the Stop to that Exportation, must
+of necessity encourage the <hi>Dutch,</hi> in the
+Making the same kind of Goods in their own
+Country, particularly at <hi>Leyden,</hi> where they
+have for some Years endeavour'd it, and are
+Daily improving.</p>
+         <p>That above Two Hundred Thousand
+Pound Value of the said Goods are Yearly
+exported to <hi>Holland.</hi>
+         </p>
+         <p>That the North-Riding of <hi>York-shire,</hi> Bi<lb rend="hidden" type="hyphenInWord"/>shoprick
+of <hi>Durham,</hi> and great part of <hi>Lan<lb rend="hidden" type="hyphenInWord"/>cashire,</hi>
+and <hi>Westmoreland</hi> are supported, by
+breeding and feeding Cattle, for the Con<lb rend="hidden" type="hyphenInWord"/>suption
+of the <hi>West Riding;</hi> and if the <hi>Dutch</hi>
+Trade receive such a Check, or Interrupti<lb rend="hidden" type="hyphenInWord"/>on,
+the Consequence is evident; the poor
+People will want Employ, which want of
+Employ is immediately felt, in the Con<lb rend="hidden" type="hyphenInWord"/>sumption
+of Provisions, and that again
+in the Rent of our Lands: And indeed it
+cannot be a little wonder'd at, to see the
+Landed Men in this Nation, value them<lb rend="hidden" type="hyphenInWord"/>selves
+<pb n="8" facs="7"/>
+so much, upon their running down
+our Trade, as if the Lands had no Depen<lb rend="hidden" type="hyphenInWord"/>dance
+upon Trade, or that Lands cou'd hold
+up their Value, if our Trade were decay'd:
+This Article of the <hi>Dutch</hi> Trade, will satisfy
+any reasonable Person, that it cannot be;
+I pray God, we do not too fatally try the
+Experiment at this time, nor is this the least
+Reason why I mention this Argument at this
+time, that our Landed-Men may learn to
+know what made them rich, and what may
+again reduce them to what they were some
+Ages ago.</p>
+         <p>It is true, Trade has given us no Land,
+<hi>Britain</hi> is no larger than it was before; but
+it is not unworthy our Thoughts, and may
+be proper to recommend it to these Gentle<lb rend="hidden" type="hyphenInWord"/>men
+to consider, That Trade has added a
+new Value to what we had before; the Rents
+of Lands are risen in time to such a Degree,
+that what was formerly worth 10 <hi>l. per Ann.</hi>
+is now worth 100 <hi>l. per Annum,</hi> and what has
+done this? What, but our Trade? Our Ge<lb rend="hidden" type="hyphenInWord"/>neral
+Commerce, which had it been more
+effectually covered, encouraged and under<lb rend="hidden" type="hyphenInWord"/>stood,
+would have been able to have done
+much more.</p>
+         <p>Come we next to speak to the <hi>Corn-Trade;</hi>
+this is more sensibly understood by those
+Gentlemen, whose Estates lye near the Sea,
+more particularly upon the Coasts of <hi>Lin<lb rend="hidden" type="hyphenInWord"/>colnshire,
+Yorkshire,</hi> and the several Countries
+which border upon the <hi>Humber,</hi> or on the
+Navigable Rivers, emptying themselves in<lb rend="hidden" type="hyphenInWord"/>to
+the <hi>Humber,</hi> as also upon the Coasts of
+<pb n="9" facs="8"/>
+            <hi>Norfolk,</hi> such as <hi>Yarmouth, Cromer, Clye, Wells,
+Burnham</hi> and <hi>Lynn,</hi> the Navigations of the
+River <hi>Ouse,</hi> and the Towns of <hi>Wisbich,</hi> and
+<hi>Spalding</hi> in the Isle of <hi>Ely;</hi> again, on the
+Coasts of <hi>Sussex, Essex,</hi> and <hi>Kent,</hi> all which
+Counties, find their Daily Advantages from
+the incredible Quantity of Corn every Year
+exported to <hi>Holland,</hi> without which Expor<lb rend="hidden" type="hyphenInWord"/>tation,
+it would be impossible for the Te<lb rend="hidden" type="hyphenInWord"/>nants
+in those Countries to vend the Corn
+they owe, and by Consequence, the Lands
+in those Counties, must either lye unma<lb rend="hidden" type="hyphenInWord"/>nur'o,
+or at least be laid down, and only em<lb rend="hidden" type="hyphenInWord"/>ploy'd
+in breeding of Cattle, a poor Trade
+and which is now left to the <hi>Northern</hi> and
+<hi>Western</hi> Parts of <hi>England,</hi> and to the <hi>Highlands</hi>
+of <hi>Scotland;</hi> the Consequence of which
+would be the lessening the Value of Land,
+sinking the Rents, and reducing the Estates
+of the Landed Men.</p>
+         <p>These would be some of the more imme<lb rend="hidden" type="hyphenInWord"/>diate
+Consequences of a War with the <hi>Dutch,</hi>
+and are mention'd here, because as Mankind
+are more apt to be sensible of that Mischief
+most, which touches them soonest; it can<lb rend="hidden" type="hyphenInWord"/>not
+but be very reasonable to expect, That
+these People, however at present unaffected
+with the Danger of a War with <hi>Holland,</hi>
+may think fit to change their Minds, when
+they examine more stricly into the thing,
+and shall find, that they will be immediate<lb rend="hidden" type="hyphenInWord"/>ly
+touch'd by it in the most sensible part.</p>
+         <p>There are several other immediate Cases,
+in which a War with <hi>Holland</hi> will affect us,
+in Matters of Trade, and which it having
+<pb n="10" facs="9"/>
+been so long ago, since we had such a War,
+our People are a little too apt to forget:
+But which if they please to recollect them<lb rend="hidden" type="hyphenInWord"/>selves,
+they will find, will more nearly
+touch them, than perhaps they are aware
+of, as especially the Price of Coals, touch'd
+at before, which will particularly affect the
+Inhabitants of this City and County's adja<lb rend="hidden" type="hyphenInWord"/>cent,
+where Three Pounds and Four Pounds
+a Chaldron have been accounted but a mo<lb rend="hidden" type="hyphenInWord"/>derate
+Price for Coals, and which is occa<lb rend="hidden" type="hyphenInWord"/>sion'd
+by the direct Situation of the <hi>Hollan<lb rend="hidden" type="hyphenInWord"/>ders,</hi>
+whose Ports immediately opening to
+the North Channel, the <hi>Colliers</hi> Ships are
+in ten Fold more danger from them, than
+they can be from the <hi>French</hi> Privateers, in
+Case of a War with <hi>France.</hi> It is needless to en<lb rend="hidden" type="hyphenInWord"/>large
+how many other Trades this will affect,
+how much dearer it will make all such Goods
+as are wrought by Fire, but especially how
+severely it will pinch the midling Families
+of our Tradesmen and the Poor, who have
+no Relief in Case of Cold Weather about
+this City, there being no Woods and Forrests
+as in the Country, to supply them with
+Fewel, and who are put to inexpressible
+Hardships in the Winter for want of Coal.</p>
+         <p>The Rates of <hi>Salt,</hi> another Necessary of
+Life, is a Thing deserves our Consideration
+in Case of Trade; the City of <hi>London,</hi> and
+all this Part of <hi>England,</hi> being supply'd with
+<hi>Salt</hi> from <hi>New Castle</hi> upon <hi>Tyne,</hi> from whence
+the Danger being so great, the Price of
+<hi>Salt</hi> was frequently in the late <hi>Dutch</hi> War,
+although no Tax was then upon it, at 4 <hi>d.</hi>
+            <pb n="11" facs="10"/>
+            <hi>per</hi> Pound, and may now possibly be double
+that Price.</p>
+         <p>These are Matters of Trade, and indeed
+are but a small part of what might be said
+upon that Subject, but however, may serve
+to shew, That a War with <hi>Holland</hi> can ne<lb rend="hidden" type="hyphenInWord"/>ver
+happen, without plunging us into many
+great Difficulties, such as will justify me in
+saying, That we ought never to engage in
+such a War, without such an absolute and un<lb rend="hidden" type="hyphenInWord"/>avoidable
+Necessity, as will abundantly make
+the bearing all these Inconveniences easy
+and rational to Us.</p>
+         <p>But alas! these are but the smaller Consi<lb rend="hidden" type="hyphenInWord"/>derations
+in this Case, and are mentioned here
+in order to make good the first part of
+the Argument, laid down in the beginning
+of this Work: The more fatal Consequences
+of a War with the <hi>Dutch,</hi> are such as respect
+the Politick Concerns of <hi>Europe,</hi> and are of
+infinite Value to Us: I shall examin them
+apart.</p>
+         <list>
+            <item>I It must be a War in Defence of <hi>Popery.</hi>
+            </item>
+            <item>II. It must be ruinous to the <hi>Protestant In<lb rend="hidden" type="hyphenInWord"/>terest.</hi>
+            </item>
+            <item>III. It must be Dangerous to the <hi>Hannover</hi>
+Succession.</item>
+            <item>IV. It must be fatal many ways to us, who are
+to be engag'd in it.</item>
+            <item>V. It must be a War against the general Incli<lb rend="hidden" type="hyphenInWord"/>nation
+of the People.</item>
+            <item>VI. It must be a War, in which the greatest
+Success will be a Loss to Us.</item>
+            <item>
+               <pb n="12" facs="11"/>
+VII. It must be a War, in which we are very
+likely to have the Disadvantage.</item>
+            <item>VIII. It must be a very bloody War, that will be
+far from being carry'd on in Jest, as the present
+War with <hi>France</hi> has been, especially at Sea.</item>
+         </list>
+         <p>I cannot promise to go thorow all these
+effectually, in the short Compass of this
+Tract: However, I shall begin, and speak<lb rend="hidden" type="hyphenInWord"/>ing
+more largely to those which are most
+necessary, I shall touch lightly the rest,
+and perhaps speak more effectually to them
+hereafter.</p>
+         <div n="1" type="section">
+            <head>I. It must be a War in Defence of Popery.</head>
+            <p>I know it has been argued on many Oc<lb rend="hidden" type="hyphenInWord"/>casions,
+That this War was not begun on
+account of <hi>Religion,</hi> it was the Argument the
+<hi>Papists</hi> and <hi>French</hi> Advocates strove to make
+use of all along, subtilly to engage the Zea<lb rend="hidden" type="hyphenInWord"/>lous
+People the more sincerely in their Quar<lb rend="hidden" type="hyphenInWord"/>rel,
+and stir them up to Blood and Destru<lb rend="hidden" type="hyphenInWord"/>ction:
+We find many Instances of this, in
+the Accounts of the last few Years, especi<lb rend="hidden" type="hyphenInWord"/>ally
+in the King of <hi>France</hi>'s Letter to the
+<hi>Pope,</hi> relating to the Duke of <hi>Savoy,</hi> who
+was then newly come over to the Confede<lb rend="hidden" type="hyphenInWord"/>rates,
+wherein he complains of his Royal
+Highness joining with <hi>Hereticks</hi> and the Ene<lb rend="hidden" type="hyphenInWord"/>mies
+of God's Church, meaning the <hi>Prussian</hi>
+and <hi>Saxe-Gotha</hi> Troops, whom he calls Ene<lb rend="hidden" type="hyphenInWord"/>mies
+to GOD and his Church, and which
+he says they impiously brought into <hi>Italy:</hi>
+But after all that has been said on that Head,
+<pb n="13" facs="12"/>
+tho' we are not now on the Foot of a Reli<lb rend="hidden" type="hyphenInWord"/>gious
+War, yet if we fight with the <hi>Dutch,</hi>
+we certainly fight against the Protestant Re<lb rend="hidden" type="hyphenInWord"/>ligion
+in Defence of Popery; perhaps it may
+not be immediately concern'd, but it is so in
+its visible Effects, and no Man can be so
+blind as not to see it. The Powers hereby
+protected are all Popish; Popish, even to
+Bigottry, especially the <hi>Spaniards.</hi> They
+have not only strengthened themselves
+against the Protestant Religion, but by the
+Destruction of the Protestants themselves,
+and that in the severest manner.</p>
+            <p>Let any Man but take a View of them
+separately <hi>in France;</hi> how has the <hi>French</hi> Go<lb rend="hidden" type="hyphenInWord"/>vernor
+expelled 400000 Protestants out of
+their Dominions, suffering all the Damages,
+which the loss of so many Subjects, and their
+moveable Estates, must of necessity be to a
+Nation, rather than not to root out the
+Protestant Religion; and indeed they have
+rooted it out of most part of the Nation,
+and one Age of Persecution more will most
+effectually do it. How have they since pur<lb rend="hidden" type="hyphenInWord"/>sued
+the poor Remains of the Protestant Re<lb rend="hidden" type="hyphenInWord"/>ligion,
+in the Mountains of the <hi>Cevennes,</hi> and
+put all that have fallen into their Hands to
+Death, by the cruellest Torments imagina<lb rend="hidden" type="hyphenInWord"/>ble?
+How have they lately done the same
+in the little Principallity of <hi>Orange,</hi> tho' in
+all probability they were to restore that
+Country upon a Peace? In <hi>Spain,</hi> how
+have we found the Aversions of the People,
+to our great Damage in the War there, while
+our Troops have been Maletreated by the
+<pb n="14" facs="13"/>
+               <hi>Spaniards</hi> and <hi>Porteguese,</hi> even while we came
+there to assist them, rejecting their own
+Deliverance, <hi>I speak of those well affected to
+King</hi> Charles III. only because the Assistance
+brought them was carry'd on by Heretick
+Forces, and that the Protestants were so
+odious to them, that they could not bear
+to be deliver'd by them. These are the
+People we must fight for, when ever we
+take up Arms against the <hi>Hollanders;</hi> for these
+the Blood of <hi>English</hi> Men and <hi>Britains</hi> is to
+be spilt, and the Wealth of a Protestant
+Nation exhausted, and that not only for
+the People of these Nations, but for their
+very Religion too; could we distinguish
+between the Men and their Principles, be<lb rend="hidden" type="hyphenInWord"/>tween
+the Interest of the Nations, and the
+Interest of their Religion, it were the bet<lb rend="hidden" type="hyphenInWord"/>ter
+to be born with: But our Case is ex<lb rend="hidden" type="hyphenInWord"/>tremly
+hard, for it is not so much the Na<lb rend="hidden" type="hyphenInWord"/>tional
+Interest, as the Religious Interest that
+eventually will be the Concern of the War,
+and we fight even for Popery it self:
+The Propagation of the Bigottry and Su<lb rend="hidden" type="hyphenInWord"/>perstition
+of those Nations being so twisted
+with their Power, that the latter never
+goes without the former, and they never
+did extend their Conquest and Dominions
+to any Place, where they have not esta<lb rend="hidden" type="hyphenInWord"/>blished
+their Idolatry and Superstition, nay,
+nor where they have not apply'd themselves
+to expunge and race out the very Name of
+the Protestant Religion, and the least Re<lb rend="hidden" type="hyphenInWord"/>mains
+of the Protestant Worship. This con<lb rend="hidden" type="hyphenInWord"/>firms
+the Head I am upon, that when ever
+<pb n="15" facs="14"/>
+the unhappy Hour shall come, that the
+Sword should be drawn in this Quarrel, it
+is drawn by the Nature and Consequence of
+the Thing, in Defence of POPERY;
+What Protestant then can think of this with<lb rend="hidden" type="hyphenInWord"/>out
+Horror? How ruinous must this be to
+the Protestant Interest! How destructive to
+the Safety of Religion, to the Freedom of
+Conscience, and to the Prosperity of the
+Churches abroad! <hi>Of which by it self;</hi> but
+particularly, how dreadful a Work must
+this be for Protestants to do? With what
+Face can any Man, who is a Professor of
+the Protestant Religion, draw his Sword in
+such a Quarrel? And which is still worse,
+how can any Protestant put his Hand to the
+contriving and bringing to pass such a War.
+I have no Hand in, or Eye towards, who is,
+or is not concern'd in the Measures that have
+a Tendency to this; some say one side are
+guilty of it, some the other, and both
+seem to agree that it will be a Consequence
+of what is now doing; but I am desirous
+faithfully to represent to both Sides, what
+the meaning of a War with <hi>Holland</hi> is, what
+it implies, and what Effects will necessarily
+follow, that both Parties may lay their
+Hands upon their Hearts, and reflect with
+Seriousness what they are about, when they
+draw their Swords against their Brethren.</p>
+         </div>
+         <div n="2" type="section">
+            <head>II. It must be ruinous to the Protestant Interest.</head>
+            <p>This is little more than the Reverse of the
+other as to the part of Religion, because
+<pb n="16" facs="15"/>
+the Defence of Popery must be the Ruin, or
+at least the Damage of the Protestant Reli<lb rend="hidden" type="hyphenInWord"/>gion;
+but I choose to call this the <hi>Protestant
+Interest,</hi> because tho' the Religious Interest
+depends upon it, and must follow the Fate
+of it upon all Occasions, yet the Civil and
+Politick Interest of the Protestants, is what
+I am now speaking of, and how far the
+present Case will affect it will soon appear:
+Nothing is more evident, than that the King<lb rend="hidden" type="hyphenInWord"/>doms
+of <hi>Great Britain</hi> and <hi>Ireland,</hi> in Con<lb rend="hidden" type="hyphenInWord"/>junction
+with the States General, are the
+main Strength of the Protestant Interest in
+the World. The Princes of <hi>Germany,</hi> with
+the Kings of <hi>Sweden</hi> and <hi>Denmark</hi> are consi<lb rend="hidden" type="hyphenInWord"/>derable,
+it is true, and not at all to be de<lb rend="hidden" type="hyphenInWord"/>spised;
+but alas! how long would all these,
+put together, be able to support the Prote<lb rend="hidden" type="hyphenInWord"/>stant
+Cause, or to defend themselves against
+the Power of <hi>French</hi> and <hi>German</hi> Popery!
+How soon would the Light of the Prote<lb rend="hidden" type="hyphenInWord"/>stant
+Religion in the World be extinguished,
+if the Popish Powers of <hi>Europe</hi> were com<lb rend="hidden" type="hyphenInWord"/>bin'd
+against those few Northern Provinces!
+But the Center of Protestant Strength lies
+in the joint Forces, Power and Wealth of
+the Two Maritime Potentates, <hi>Great Britain</hi>
+and <hi>Holland,</hi> their Forces by Land have alone
+been able to match the Popish Powers of
+<hi>Europe,</hi> and to look the King of <hi>France</hi> in the
+Face, and their United Force at Sea is ac<lb rend="hidden" type="hyphenInWord"/>knowledg'd
+to be superiour to all the known
+World, tho' all their Naval Strength was put
+together.</p>
+            <p>
+               <pb n="17" facs="16"/>
+Upon this Strength the Protestant Inte<lb rend="hidden" type="hyphenInWord"/>rest,
+speaking of second Causes entirely de<lb rend="hidden" type="hyphenInWord"/>pends,
+this makes the Protestants formi<lb rend="hidden" type="hyphenInWord"/>dable
+to the World; this alone has re<lb rend="hidden" type="hyphenInWord"/>strain'd
+the Popish Powers of the World
+from over-running them many Ages ago:
+Farther than this, it may not be unnecessary
+to reflect, what Blows the Protestant Inte<lb rend="hidden" type="hyphenInWord"/>rest
+has already received in these 20 or 30
+Years past, how much weaker it is by Con<lb rend="hidden" type="hyphenInWord"/>sequence
+than it was before, and thereby
+how unable to resist the Effects of new
+Enemies, if join'd together; much
+more, how little need there is to have
+yet deeper Wounds made in their Interest,
+than was before: These things are evident
+in the following Particulars.</p>
+            <list>
+               <item>1. The Extirpation of the Protestants of
+<hi>France.</hi>
+               </item>
+               <item>2. The Succession of the Roman Catho<lb rend="hidden" type="hyphenInWord"/>lick
+House of <hi>Newburgh</hi> to the <hi>Pala<lb rend="hidden" type="hyphenInWord"/>tinate.</hi>
+               </item>
+               <item>3. The going over of the Elector of <hi>Saxo<lb rend="hidden" type="hyphenInWord"/>ny</hi>
+to the Romish Church.</item>
+               <item>4. The weakening and oppressing the
+King of <hi>Sweden,</hi> and divesting the <hi>Swedes</hi>
+(who are Guarrantees of the Treaty of
+<hi>Westphalia</hi>) of their Dominions in the
+Empire.</item>
+               <item>5. The Danger of a Popish Successor to
+the Crowns of <hi>Great Britain</hi> and <hi>Ireland.</hi>
+               </item>
+            </list>
+            <p>In considering these Things, what Re<lb rend="hidden" type="hyphenInWord"/>flections
+must needs follow to any one, who
+<pb n="18" facs="17"/>
+with an impartial Eye, and a just Concern
+for the Protestant Interest, can look on the
+approaching Danger of a bloody War be<lb rend="hidden" type="hyphenInWord"/>tween
+<hi>Great Britain</hi> and the <hi>States General;</hi>
+what a mortal Wound this would be to the
+Protestant Interest, What a Breach it would
+make in the Protestant Strength, and how
+effectually it would expose the Protestant
+Cause to be over-run by the Arms and In<lb rend="hidden" type="hyphenInWord"/>terest
+of the Popish Princes, who we have
+always found ready to devour them.</p>
+            <p>Let those who want Examples to illustrate
+this, look back upon the Year 1672, when
+this Nation gull'd by the Arts and Politicks
+of Popish Councils, was drawn in to fight
+against the <hi>Dutch;</hi> How did it open a way
+to all those terrible Conquests, which the
+<hi>French</hi> King made upon the <hi>Dutch,</hi> by which
+he was within a Trifle of dissolving their
+State, and uniting them all to the Kingdom
+of <hi>France,</hi> and by which we had like at that
+time to have overwhelm'd the Protestant
+Religion in the World? And in a Word, by
+which this Nation also was at last brought
+to such a Desperate Point, that had not
+the Revolution fallen in to rescue us from
+the Danger, we had fallen into the Ballance
+of Power on the Popish Side, and had
+help'd to outweigh the Protestants, to their
+universal Destruction: This may serve to
+warn us all from falling into the like Blind<lb rend="hidden" type="hyphenInWord"/>ness
+of Measures, and nothing is more won<lb rend="hidden" type="hyphenInWord"/>derful,
+than to find our People so willing to
+run into it.</p>
+            <p>
+               <pb n="19" facs="18"/>
+What can our falling upon the <hi>Dutch</hi> at
+this time imply? What can the Effect of it
+be? Will it not be an immediate weakening
+of them in their Defence of the Protestant
+Religion, and a direct strengthing their Ene<lb rend="hidden" type="hyphenInWord"/>mies
+to destroy them? And will it not be
+an effectual weakening of us also, so as at
+last perhaps to render us both too weak to
+do that, tho' join'd together, which either
+of us are able to do now apart, in Defence
+of what is the mutual Interest of both?</p>
+            <p>Add to this how both Nations are al<lb rend="hidden" type="hyphenInWord"/>ready
+exhausted, and emptied by the long
+and continu'd Burthen of this heavy and ex<lb rend="hidden" type="hyphenInWord"/>pensive
+War, that as it has been these 22
+Years dreining us, it will require twice that
+time at least to restore and recover us: So
+that we are in a much worse Condition
+to waste one another farther; since it
+will of course so entirely expend our Strength
+and Capacity for our mutual Defence, that
+it must render both Sides an easie Prey to
+the Enemy, as is happily express'd by the
+Fable of the two small Birds, who having
+been long fighting together, the Eagle
+came and snatch'd away both.</p>
+            <p>Let every considering Protestant summon
+his Reason, and in the most affectionate man<lb rend="hidden" type="hyphenInWord"/>ner
+persuade the Nations, if it be possible,
+to avoid so dangerous a Step as this, which
+has a direct Tendency to destroy the Pro<lb rend="hidden" type="hyphenInWord"/>testant
+Interest in the World, and which
+cuts off the Hands that should defend it; let
+them consider how the Enemies of our Re<lb rend="hidden" type="hyphenInWord"/>ligion
+would rejoice; how they would pro<lb rend="hidden" type="hyphenInWord"/>mise
+<pb n="20" facs="19"/>
+themselves from these Divisions and
+Distractions among Protestants, that one
+time or other they should break in and de<lb rend="hidden" type="hyphenInWord"/>vour
+the whole Interest; let them remem<lb rend="hidden" type="hyphenInWord"/>ber
+that the like Strife among Christians,
+was the very thing that let <hi>Mahomet</hi> the
+Great into <hi>Europe,</hi> and gave leisure and op<lb rend="hidden" type="hyphenInWord"/>portunity
+to the Barbarians, to overthrow
+the Remains of the <hi>Grecian</hi> Empire, take
+<hi>Constantinople,</hi> and plant themselves and their
+<hi>Pagan</hi> Superstition on the Ruins of the flou<lb rend="hidden" type="hyphenInWord"/>rishing
+Christian Churehes: This was the
+time the famous City of <hi>Constantinople</hi> was
+taken, and the Emperor <hi>Constantine</hi> slain in it,
+after a long Siege by the <hi>Turks:</hi> Not one of
+the Christian Princes of <hi>Europe</hi> sending the
+least Help, or stirring one Foot to the As<lb rend="hidden" type="hyphenInWord"/>sistance
+of the Christian Emperor, who lost
+his Life in the Storm of the City; not that
+the Christian Powers of <hi>Europe</hi> were not
+able to have reliev'd the City, and to have
+driven the <hi>Turk</hi> out of <hi>Europe,</hi> but they were
+universally embroil'd in furious Wars against
+one another, <hi>France</hi> was just rescuing its self
+out of the Hands of the <hi>English,</hi> under the
+weak and divided Reign of <hi>Henry</hi> 6th; and
+<hi>Germany</hi> was embroil'd in Wars between the
+Emperor <hi>Fredrick</hi> and the Pope, by which
+Means every Hand was employ'd, and that
+Power which should have protected the Chri<lb rend="hidden" type="hyphenInWord"/>stian
+Interest was weaken'd to that Degree,
+that the Christians were in no Condition to
+oppose the victorious <hi>Turks,</hi> but let them
+quietly over-run a great part of <hi>Europe.</hi> I
+would have all those, who are desirous of
+<pb n="21" facs="20"/>
+engaging these two <hi>Protestant Nations,</hi> in a
+War one with another, read that melan<lb rend="hidden" type="hyphenInWord"/>choly
+Story, and consider how exactly this
+would be the Case, between <hi>Papists</hi> and
+<hi>Protestants:</hi> Let them consider, what De<lb rend="hidden" type="hyphenInWord"/>predations
+the <hi>Popish</hi> Powers of <hi>Europe</hi>
+would make on the <hi>Protestant</hi> Princes du<lb rend="hidden" type="hyphenInWord"/>ring
+such a time: Let them examin in
+what Posture we should be to protect the
+<hi>Protestant</hi> Interest, in Case of any Excursion
+of its <hi>Popish</hi> Enemies; how it would lessen
+the Figure the <hi>Protestants</hi> now make, weaken
+their Hands, render them Contemptible to
+their Enemies, and lay them open to the
+Attempts of those, who have been hitherto
+restrained only by fear, from devouring
+them.</p>
+            <p>3. Nor would Victory on either hand
+mend it, for the Protestant Interest being
+coucerned, but as one Body in the whole
+Quarrel would equally suffer, which Side
+soever obtained the Victory; and this leads
+me to the Third Head, <hi>viz.</hi>
+            </p>
+         </div>
+         <div n="3" type="section">
+            <head>III. It must be a War, in which the greatest
+Success will be a Loss to Us.</head>
+            <p>It will be to no purpose for any Side to
+boast of Victory in this War, since their very
+Conquest is their Loss, and they are just
+so much weaker in the <hi>Protestant Cause,</hi> as
+by their Conquest they have weaken'd their
+Brethren, since in their Common Interest
+they are but one Body, and have but one
+<pb n="22" facs="21"/>
+Strength, one Interest, and one Foundation
+upon which they stand; it is very unhappy
+that these things cannot pierce a little into
+our Thoughts, but that we are all intent at
+such a time as this, either on pushing on a
+War, or settling a particular Peace, and leaving
+the Views and Prospects of establishing <hi>Europe,</hi>
+we are turning our Eyes upon a Breach with
+our Protestant Allies; I do not desire to con<lb rend="hidden" type="hyphenInWord"/>cern
+the present Debates among Us about
+War and Peace in this Matter, I have no<lb rend="hidden" type="hyphenInWord"/>thing
+to do with who <hi>directly,</hi> or who <hi>con<lb rend="hidden" type="hyphenInWord"/>sequently</hi>
+push on a War with the <hi>Dutch,</hi> but
+directing my Speech to both Parties, I would
+faithfully represent to them, the Ruin and
+Distress that such a War would bring upon
+the <hi>Protestant Interest</hi> in general; how
+which Side soever get the better, <hi>Popery</hi>
+alone gains by the Victory; every Battle
+fought weakens the very Conqueror as <hi>Pro<lb rend="hidden" type="hyphenInWord"/>testant,</hi>
+as much as it does those that are
+beaten: This is what I would move them
+to do, that they may if possible find out
+some happy Medium, either on one Side or
+other; I do not undertake here to say what,
+but <hi>I say,</hi> some happy Medium, to prevent
+the giving up the <hi>Protestant Cause</hi> to be de<lb rend="hidden" type="hyphenInWord"/>voured
+by the <hi>Popish Tyrants</hi> of the World;
+that <hi>Protestants</hi> may not whet their Swords
+against one another, as they already do
+their Tongues in a Dreadful and Implaca<lb rend="hidden" type="hyphenInWord"/>ble
+manner; That they would remember
+every Drop of Blood they shed in this Quar<lb rend="hidden" type="hyphenInWord"/>rel,
+leaves them just so much the less to op<lb rend="hidden" type="hyphenInWord"/>pose
+against <hi>Popish</hi> Power, when that Day
+<pb n="23" facs="22"/>
+shall come, <hi>as undoubtedly it will,</hi> when the
+Fate of the whole <hi>Protestant Interest</hi> may be
+try'd by the Sword, and the Forces of all
+<hi>Europe</hi> shall be divided in a <hi>Religious War;</hi> I
+can compare this unhappy Case of a War,
+between <hi>Britain</hi> and <hi>Holland,</hi> to nothing so
+well, as to the War between the Children
+of <hi>Israel,</hi> against their Brethren of the Tribe
+of <hi>Benjamin.</hi>
+            </p>
+            <p>This is remarkable for the fury of it, as ap<lb rend="hidden" type="hyphenInWord"/>pears
+in the Tribes Swearing, binding one
+another by an Oath, or a great Oath as the
+Text hath it, That every Man that came
+not up to the Lord at <hi>Mizpeth,</hi> that is, to
+fight against <hi>Benjamin,</hi> should be put to
+Death; and another Oath they had also
+made, <hi>viz.</hi> That they would not any of
+them give their Daughters to a <hi>Benjamite.</hi>
+            </p>
+            <p>The Story is too well known to repeat
+the Particulars, the War was carry'd on with
+great Fury, and was very bloody, as such
+Wars always are; it was so bloody that
+they spared neither Age, Sex or Condition,
+no, nor the very Cattle; but burnt down
+all their Cities, and all that came to hand,
+<hi>Judg.</hi> 20. 48. So that the Tribe of <hi>Benjamin</hi>
+was entirely cut off, only Six Hundred Men
+being left alive of the whole Race: And
+what Joy had <hi>Israel</hi> of this Victory! they had
+no sooner done it, but see the Title or Con<lb rend="hidden" type="hyphenInWord"/>tents
+of the next Chapter. <hi>The People bewail
+the Desolation of Benjamin:</hi> vide Mr. <hi>Pool</hi>'s An<lb rend="hidden" type="hyphenInWord"/>notations
+and Contents, on <hi>Judges</hi> xxi.</p>
+            <p>
+               <pb n="24" facs="23"/>
+Next see the manner of their bewailing it.</p>
+            <p>
+               <hi>And the People came to the House of God, and a<lb rend="hidden" type="hyphenInWord"/>bode
+there till even before God, and lift up their
+voices, and wept sore: And said, O LORD
+God of Israel, why is this come to pass in Israel,
+that there shonld be to day one Tribe lacking in
+Israel? And it came to pass, on the morrow, that
+the People rose early, and built there an Altar,
+and offered Burnt Offerings, and Peace Offerings.</hi>
+            </p>
+            <p>And again, <hi>v.</hi> 6. <hi>And the Children of Israel
+repented them for Benjamin their Brother, and
+said, There is one tribe cut off from Israel this
+Day.</hi>
+            </p>
+            <p>See here the mournful Satisfaction of Vi<lb rend="hidden" type="hyphenInWord"/>ctory
+over our Friends! what is the English
+of it but this, <hi>There is one Tribe cut off from Is<lb rend="hidden" type="hyphenInWord"/>rael?</hi>
+That is, should <hi>we now</hi> be invaded by the
+<hi>Heathen,</hi> by the <hi>Canaanites,</hi> the <hi>Philistines</hi> or
+the <hi>Midianites,</hi> or any of the Barbarous Na<lb rend="hidden" type="hyphenInWord"/>tions;
+there is one Tribe less, to help de<lb rend="hidden" type="hyphenInWord"/>fend
+the Borders of <hi>Israel:</hi> Our Brethren of
+<hi>Benjamin</hi> are cut off, and we are left naked
+on that Side, we are just so much the weaker
+by our Victory.</p>
+            <p>How exactly does this answer to the
+Case before us? Should either Side prevail,
+should we beat, should we conquer the <hi>Dutch,</hi>
+should the Heathen (<hi>French</hi>) fall in upon
+them, and over-run them entirely, <hi>as in</hi> 1672
+<hi>they had almost done, by our infatuated Assistance,</hi>
+what would be our Joy in this Conquests?
+Should we not reflect on our selves after it,
+and <hi>repent our selves for Benjamin?</hi> Should we
+not say, <hi>why is this come to pass among</hi> Prote<lb rend="hidden" type="hyphenInWord"/>stants,
+<hi>that a Tribe or Nation of</hi> Protestants <hi>is</hi>
+               <pb n="25" facs="24"/>
+               <hi>now lacking in Israel?</hi> Should we not lament
+for <hi>Benjamin,</hi> that a Tribe was cut off from
+the <hi>Protestant</hi> Strength?</p>
+            <p>On the other Hand, should this War fall
+heavy on Us, and though Ruin is what we
+pretend not to fear, yet might it not so
+weaken us, as to expose us an easy Prey to
+the <hi>Pretender</hi> and his Party, which would
+be the worst sort of Ruin; would not the
+<hi>Dutch</hi> themselves, and the whole Body of
+the Protestants of <hi>Europe, Bewail the Desolati<lb rend="hidden" type="hyphenInWord"/>on
+of Benjamin,</hi> and repent them for having
+lost a Tribe from the <hi>Protestant Israel?</hi>
+            </p>
+            <p>Let all those, as well of one Side or other,
+who are either hasty for, or indifferent in
+the Case of a War with the <hi>Dutch,</hi> look into
+these Things, and consider seriously what
+they are doing; consider the Consequence
+of a War, in which, whether conquering
+or conquered, the Interest of the Protestant
+Religion suffers, and the Strength of the
+Protestant Powers is weakned, and we shall
+all have Cause to bewail the Desolation of
+our Brethren.</p>
+         </div>
+         <div n="4" type="section">
+            <head>IV. This War will be dangerous to the Protestant
+Succession.</head>
+            <p>By the Protestant Succession, I suppose
+all Men will understand me, to mean the
+Succession of the House of <hi>Hannover</hi> to the
+Crowns of <hi>Great Britain</hi> and <hi>Ireland,</hi> after
+the Demise of Her Present Majesty QUEEN
+<hi>ANNE,</hi> and I have good Reason, from the
+Iniquity of the Times, <hi>wherein Jacobite Di<lb rend="hidden" type="hyphenInWord"/>stinctions</hi>
+               <pb n="26" facs="25"/>
+               <hi>are very subtle and many,</hi> to make this
+Explanation. Now let any Man but seriously
+examine the Consequences of a War, with
+the Guarrantees of that Succession, and what
+will he infer, but that however intentio<lb rend="hidden" type="hyphenInWord"/>nally
+it may not be so, yet effectually and
+eventually, it will be a War against the <hi>Suc<lb rend="hidden" type="hyphenInWord"/>cession</hi>
+it self; not that I enter here into the
+Case, whether the Guarrantee of the <hi>Dutch</hi>
+were necessary, as was thought by way of
+Treaty: Let that be as it will, this is cer<lb rend="hidden" type="hyphenInWord"/>tain,
+That the <hi>Dutch</hi> as a Protestant State,
+Ally'd in Interest to both, <hi>viz.</hi> to the House
+of <hi>Hannover</hi> and to the <hi>British</hi> Nation, and
+their own Safety, absolutely requiring, that
+this Nation should never come into <hi>Popish</hi>
+Hands, are an undoubted Natural Security
+to the Protestant Succession, and unless their
+Power be broken by such a War as this,
+must be supposed always to be ready by a
+natural Consequence, to assist and support
+the said Succession, and all the Friends of
+it, with all their Might; they can do no other,
+if they are not like us infatuated and blind
+to their own Safety and Interest; nor is this
+the least part of our Security against the
+<hi>Pretender,</hi> and all the <hi>Jacobite</hi> Enemies of the
+said Protestant Succession, especially those
+of them who are Abroad.</p>
+            <p>Those then who propagate, whether o<lb rend="hidden" type="hyphenInWord"/>penly
+or clandestinely, a Breach between
+the Two Nations, are so far real Enemies to
+the <hi>Hannover</hi> Succession, let their Views and
+Designs, Measures or Pretences be what
+they will, such, while they cry out Zealously
+<pb n="27" facs="26"/>
+for the Protestant Succession, would do well
+to tell Us, how shall the Elector of <hi>Hanno<lb rend="hidden" type="hyphenInWord"/>ver</hi>
+support his Right? How shall he come
+over hither with Forces and Armies in case
+of a contending <hi>Pretender,</hi> who may be pri<lb rend="hidden" type="hyphenInWord"/>vately
+convey'd hither before him? How
+shall he recover the Possession, or come to
+the Assistance of his Friends and their Inte<lb rend="hidden" type="hyphenInWord"/>rest,
+who may be oppress'd by a <hi>Jacobite</hi>
+Faction; if the <hi>Dutch</hi> are ruin'd, and their
+Naval Strength broken by that very Nati<lb rend="hidden" type="hyphenInWord"/>tion
+they should come to save?</p>
+            <p>A War with <hi>Holland,</hi> would in many re<lb rend="hidden" type="hyphenInWord"/>spects
+therefore be a War against the Prote<lb rend="hidden" type="hyphenInWord"/>stant
+Succession, as well as against the Pro<lb rend="hidden" type="hyphenInWord"/>testant
+Religion; nay some who have exa<lb rend="hidden" type="hyphenInWord"/>min'd
+that Affair very nicely, affirm with
+me, That there is indeed <hi>no other real Danger</hi>
+of the <hi>Hannover</hi> Succession, but the ruining
+the <hi>Dutch,</hi> for that whatever the Artifice of
+Parties may bring to pass, and however the
+<hi>High flying</hi> and <hi>Jacobite</hi> Party in League
+with <hi>France,</hi> and other <hi>Popish</hi> Powers, may
+form a Conjunction of Interest, so as to erect
+the Pretender; nay, tho' they were to set
+him upon the Throne, yet that there will al<lb rend="hidden" type="hyphenInWord"/>ways
+be such a Body, of the best, the wisest,
+and the most considerable People of this Na<lb rend="hidden" type="hyphenInWord"/>tion,
+steady to the Interest of the House of
+<hi>Hannover,</hi> and firm to the Solemn Abjuration
+they have made of the <hi>Pretender,</hi> that on
+the first appearance of the Protestant Suc<lb rend="hidden" type="hyphenInWord"/>cessor,
+with any reasonable Force to sup<lb rend="hidden" type="hyphenInWord"/>port
+them, they would show themselves able
+to overthrow all their Enemies, and restore
+<pb n="28" facs="27"/>
+the Nation to the Right Establish'd Succes<lb rend="hidden" type="hyphenInWord"/>sor,
+in spight of all the Opposition, that the
+Enemies of the Protestant Interest could
+make: But if the <hi>Dutch</hi> before this should
+be oppressed by a War, and their Naval
+Strength and Power broken by us, in vain
+we may stretch out our Hands to the Succes<lb rend="hidden" type="hyphenInWord"/>sor
+for help, who cannot without a Fleet
+yield us that Assistance, or do himself that
+Justice, which otherwise he is very well able
+to do, so that fighting against the <hi>Dutch,</hi> is
+cutting off the Right-hand of the Successi<lb rend="hidden" type="hyphenInWord"/>on:
+On the other hand, should the Forces
+of <hi>Britain</hi> be broken or weaken'd in this
+War against the <hi>Dutch,</hi> still so much the less
+able we shall be to resist the Efforts of the
+<hi>Pretender,</hi> whether he comes back't by a <hi>French</hi>
+or a <hi>Spanish</hi> Power, or depending upon the
+Interest of his <hi>Jacobite</hi> Friends and Faction
+at Home; a Nation exhausted, impoverish'd,
+and tyr'd out with War, cannot be in so good
+a Condition to resist an Invader, nor so
+warmly inclin'd to engage in a new War,
+against Tyranny and Oppression, as while
+we are whole and in Condition; so that
+which way soever we take this War, and
+which way soever the Success of a <hi>Dutch</hi>
+War shall fall, it will be Dangerous if not
+Fatal to the Protestant Succession of the
+House of <hi>Hannover.</hi>
+            </p>
+         </div>
+         <div n="5" type="section">
+            <head>V. It must be a War fatal many ways to Us,
+who are engag'd in it.</head>
+            <p>
+               <pb n="29" facs="28"/>
+This, besides what relates as before to
+the Protestant Interest, and the <hi>Hannover</hi>
+Succession, will be consider'd, as it respects
+our Commerce, our publick Credit, our ex<lb rend="hidden" type="hyphenInWord"/>hausted
+Circumstances, and our general Ci<lb rend="hidden" type="hyphenInWord"/>vil
+Interest; what relates to Commerce, has
+been touch'd at already, and I may only
+add this, that as our Trade in general
+is already prodigiously sunk, by the long
+Interruption of 22 Years War; the Damage
+of which will not in some Ages, <hi>if Ever,</hi> be
+wholly repair'd; So a War with <hi>Holland</hi> at
+this time, would give such a Blow to that
+Part which remains, that in general our
+whole Trade would be overwhelmed in Dif<lb rend="hidden" type="hyphenInWord"/>ficulties
+and Confusions inextricable; the
+Employment of the Poor, by the Stop and
+Interruption of Commerce in the present
+Wars, has in several Parts of <hi>England</hi> been
+quite stopt, in others they are taken off of the
+Manufactures they were originally bred to. So
+that whole Towns remain now Destitute of
+so much as the appearance of those Ma<lb rend="hidden" type="hyphenInWord"/>nufactures
+they were formerly wholly ta<lb rend="hidden" type="hyphenInWord"/>ken
+up with; our Colonies Abroad, by the
+stop of the Consumption and Exportation of
+their Produce, occasion'd by the War, are
+oblig'd to leave Planting, as in <hi>Virginia</hi> in
+particular, and apply themselves to Manu<lb rend="hidden" type="hyphenInWord"/>factures,
+by which in a few Years the sup<lb rend="hidden" type="hyphenInWord"/>ply
+of Woollen Manufactures, which usual<lb rend="hidden" type="hyphenInWord"/>ly
+was sent from hence, will be effectually
+stopp'd. All these and many more will be
+encreased by a War with the <hi>Dutch,</hi> to whom,
+including <hi>Hamburgh,</hi> at this time, we ex<lb rend="hidden" type="hyphenInWord"/>port
+<pb n="30" facs="29"/>
+more of our Woolen, Manufactures than
+to all Parts of the World besides, tho' put
+together.</p>
+            <p>What then shall be the Condition of our
+People, when as before the Export of our
+Broad Cloth, Kersies, Serges and Stuffs, of
+which the <hi>Dutch</hi> now receive such great
+Quantities shall be stop'd, and when the
+poor People, who now live upon those Em<lb rend="hidden" type="hyphenInWord"/>ployments,
+shall be destitute of Work, and
+be left to seek their Bread? Let those
+People that think a War with <hi>Holland</hi> of no
+Consequence, consider of some Equivalent
+for this, and of opening some Trade for
+the vent of our Manufactures, which shall
+sufficiently supply the Poor with Labour,
+and raise Money effectually to pay them.</p>
+            <p>If these Things were consider'd, we should
+be more cautious, as well of coveting to
+make a War with the <hi>Dutch,</hi> as of pleasing
+our selves with the Hopes that the <hi>Dutch</hi>
+will force us to it.</p>
+            <p>I shall not touch at the Consequences,
+which some have already spoken to, in case
+the <hi>Dutch</hi> and the <hi>Emperor,</hi> pushing on the
+War without Us, should reduce <hi>France,</hi> and
+and recover <hi>Spain,</hi> not only without any As<lb rend="hidden" type="hyphenInWord"/>sistance
+from Us, but even against our Will,
+the many ways this may be fatal to Us, are
+better thought of in private, than made pub<lb rend="hidden" type="hyphenInWord"/>lick,
+and it is hoped the Prudence of our Al<lb rend="hidden" type="hyphenInWord"/>lies
+may avoid pushing us to those Extreme<lb rend="hidden" type="hyphenInWord"/>ties:
+But I cannot omit mentioning again,
+tho' spoken to before, how evidently such a
+War would open a Door to <hi>the Pretender,</hi> and
+<pb n="31" facs="30"/>
+expose these Nations, as a Prey to the <hi>Jaco<lb rend="hidden" type="hyphenInWord"/>bite</hi>
+Interest, as well at Home as Abroad; for
+as some Men hope, so I cannot but see, that
+in case of a War with the <hi>Dutch,</hi> the At<lb rend="hidden" type="hyphenInWord"/>tempts
+of the <hi>Jacobite Party</hi> will be inevita<lb rend="hidden" type="hyphenInWord"/>ble;
+nor can they be so blind to their own
+Interest, as not to know it; and this is the
+true Reason, that you cannot converse at
+this Time with a <hi>Jacobite,</hi> but you discover
+his most Passionate Desire of a War with the
+<hi>Dutch;</hi> all their Emissaries are busie, Ex<lb rend="hidden" type="hyphenInWord"/>claiming
+against the <hi>Dutch,</hi> and Exasperating
+our People against the <hi>Dutch,</hi> and if the <hi>States-General</hi>
+do stand out against the <hi>British</hi> Mea<lb rend="hidden" type="hyphenInWord"/>sures,
+or take any Step that seems a little dis<lb rend="hidden" type="hyphenInWord"/>obliging,
+these Men, far from doing Justice
+on either Hand, set all their Emissaries at
+Work, to aggravate it, and make it appear
+worse than really it is: On the other Hand,
+the same Party in <hi>Holland</hi> act the very other
+Extreme, and there they exclaim against the
+<hi>British</hi> Measures, tell the <hi>Dutch</hi> they are Mal<lb rend="hidden" type="hyphenInWord"/>treated,
+that the <hi>British</hi> Parliament has used
+them barbarously; That the <hi>British</hi> Ministry
+impose upon them, and cram the Peace down
+their Throats, and the like: The Reason is
+evident, they seek nothing but a Breach, be<lb rend="hidden" type="hyphenInWord"/>cause
+they see clearly that a War is the only
+Step that can make way for their Interest,
+and open a Door to the Pretender.</p>
+         </div>
+         <div n="6" type="section">
+            <head>VI. It must be a War against the General Incli<lb rend="hidden" type="hyphenInWord"/>nation
+of the People.</head>
+            <p>
+               <pb n="32" facs="31"/>
+This seems to want no Proof, even the
+Queen herself and the Ministry, however it
+may seem, are averse to it, and the Measures ta<lb rend="hidden" type="hyphenInWord"/>ken
+with the <hi>Dutch,</hi> however Calculated to
+carry on the Peace with the <hi>French,</hi> have
+plainly discover'd, that it is not the Inclination
+of the Ministry to break with the <hi>Dutch</hi> if
+they can avoid it; they cannot but see, that
+it will be <hi>Ruinous to our Trade,</hi> and that the
+<hi>Burthens</hi> must be intollerable that must follow,
+especially our present Impoverish'd Circum<lb rend="hidden" type="hyphenInWord"/>stances
+consider'd: Nor can it be Reasona<lb rend="hidden" type="hyphenInWord"/>ble,
+that the Ministry, who give the Ex<lb rend="hidden" type="hyphenInWord"/>hausted
+Condition of the Nation, as the best
+and first Reason for making a Peace with
+<hi>France,</hi> should at the same Time be so re<lb rend="hidden" type="hyphenInWord"/>gardless
+of that exhausted Condition of the
+Nation, as to lead them into a War with
+<hi>Holland;</hi> this would be to deny what they
+had alledg'd before, and Contradict what
+was the main Argument given, for Convin<lb rend="hidden" type="hyphenInWord"/>cing
+us of the Necessity of former Measures,
+<hi>viz.</hi> That the Nation was Reduced, Exhau<lb rend="hidden" type="hyphenInWord"/>sted,
+Impoverish'd, and the like, and that
+some Ages were requir'd to restore our Cir<lb rend="hidden" type="hyphenInWord"/>cumstances,
+and this was acknowledg'd in
+many Cases to be true; but the People
+will, of course think themselves banter'd and
+jested with in all that, if we think fit now
+to run into another War, which may be e<lb rend="hidden" type="hyphenInWord"/>very
+way as fatal and as chargeable as the
+other.</p>
+            <p>As to the Inclination of the common Peo<lb rend="hidden" type="hyphenInWord"/>ple,
+that has many Ways been try'd, the
+Aversions that formerly were in our People
+<pb n="33" facs="32"/>
+against a <hi>Dutch</hi> War, were too well known
+to those who observ'd it, <hi>viz.</hi> with what
+Backwardness they Engag'd! with what Re<lb rend="hidden" type="hyphenInWord"/>luctance
+they Listed! how the poor Seamen
+were dragg'd into the Service, like a Bear
+to the Stake! It would be too long to enter
+upon the Reasons and Considerations which
+moved this Aversion, the Thing speaks itself;
+they have been long our Friends and Con<lb rend="hidden" type="hyphenInWord"/>federates,
+have often Assisted, Relieved, De<lb rend="hidden" type="hyphenInWord"/>liver'd
+Us in our Embroiled Circumstances,
+and we cannot without Reluctance, desire
+to fight against a People whom we have so
+often acted in Conjunction with: We have
+look'd upon them as our Friends, as our Bre<lb rend="hidden" type="hyphenInWord"/>thren,
+in the late War, and it must be with
+Regret, that our People should rejoyce in
+contrary Extremes, and sheath their Swords
+in the Bowels of those, who they shook
+Hands with before.</p>
+            <p>Trade, our mutual Converse in Business,
+and the long Interwoven Interests of the
+two Nations, cannot but Contribute to this
+Inclination; and the Damage we shall feel,
+and that immediately too, will assist to form
+the Aversions which are in our Minds against
+the War, and make our People abhorr the
+Thoughts of it; but I need not insist upon
+this, which every Man knows to be Fact,
+and can trace the Original of; I come now
+to consider the two last Articles, <hi>viz.</hi>
+            </p>
+         </div>
+         <div n="7" type="section">
+            <pb n="34" facs="33"/>
+            <head>VII. That it will be a War, in which we are
+very likely to have the Disadvantage.</head>
+            <p>Not that I am of the Opinion that the
+<hi>Dutch</hi> will beat Us, as some People talk, and
+yet farther from pleasing myself with the
+Hopes of it, as some pretend we do; but if,
+as before, we shall be Losers, even by the
+Success we may pretend to have in it, what
+then must be the want of that Success, if such
+a Case also should happen? Let those who
+calmly Examin Things at all, look back on
+the Stop of Trade, Loss of Shipping, Ruin
+of Merchants, want of Employ for our Peo<lb rend="hidden" type="hyphenInWord"/>ple;
+mention'd before in this Tract, and judge
+for themselves, as to the Advantages to Us;
+but if we should have the worst of it at Sea
+also, as no Man can Answer for the uncer<lb rend="hidden" type="hyphenInWord"/>tain
+Events of War; if our Navy should be
+Defeated, our Ships, which are our Strength,
+receive any fatal Blow, which we are not
+sure of the Disadvantages which will follow
+to us, are such, as I shall, in hopes they will
+never happen, conceal for the present.</p>
+            <p>
+               <hi>Lastly,</hi> No more shall I think to terrifie any
+from a War with the <hi>Dutch,</hi> by telling them
+it will not be a War to be Trifled with; that
+the <hi>English</hi> and <hi>Dutch</hi> when they used to meet
+at Sea, do not use to make a Jest of it; fight<lb rend="hidden" type="hyphenInWord"/>ing
+with the <hi>Dutch</hi> has always had a diffe<lb rend="hidden" type="hyphenInWord"/>rence
+in it from fighting with other Nations:
+These fight at a distance, and lie and pelt one
+another, while they are a quarter of a Mile
+or half a Mile off, or pour in their small
+<pb n="35" facs="34"/>
+Shot upon one another, to pick off their
+Men; but when the <hi>English</hi> and <hi>Dutch</hi> for<lb rend="hidden" type="hyphenInWord"/>merly
+used to meet, three Sea fights have been
+fought with near 80 Sail of a side in one
+Summer, the great 3 Deck Ships of 100 Guns
+each, sink and burn by one another's Side,
+and the Squadrons lie Yard-Arm and Yard-Arm,
+pouring in their Cross-Bar, Double
+Head and Round, and tearing one another
+with that dreadful Fury, that nothing on
+Earth can be spoken of, to describe those
+Sea fights by; let those who remember the
+last <hi>Holland</hi> Wars, tell us, whether the hot<lb rend="hidden" type="hyphenInWord"/>test
+Action we have had at Sea during this
+War, can be compar'd to the Way of fighting
+between Us and the <hi>Dutch?</hi> And there is no
+Question to be made but the like must follow
+again, if a New War begin; This seems evi<lb rend="hidden" type="hyphenInWord"/>dent,
+that the Animosity between the Nati<lb rend="hidden" type="hyphenInWord"/>ons,
+is like to be as great as ever, and per<lb rend="hidden" type="hyphenInWord"/>haps
+greater; and the War, if such a mise<lb rend="hidden" type="hyphenInWord"/>rable
+Event should follow, will be Prosecu<lb rend="hidden" type="hyphenInWord"/>ted
+with the greatest Fury that any War e<lb rend="hidden" type="hyphenInWord"/>ver
+was between Us.</p>
+            <p>Having thus laid down the Consequences
+of such a War, it cannot be thought that
+any one in these Nations, who is a Friend
+to the Protestant Succession, to the Prote<lb rend="hidden" type="hyphenInWord"/>stant
+Religion, to the general Interest of
+the Protestant Powers, to Trade, to the Poor,
+or indeed to themselves, can desire to have
+these two Protestant Nations engag'd with
+one another, especially at such a Time as
+this. It is an invidious Task to go about here
+to make Enquiry who are, or are not desi<lb rend="hidden" type="hyphenInWord"/>rous
+of this War? Or who among us may,
+<pb n="36" facs="35"/>
+by pushing on their separate Schemes, bring
+it to pass by the Consequence of these
+Schemes, whether involuntarily or other<lb rend="hidden" type="hyphenInWord"/>wise,
+it is too evident where this lies, to
+need an Enquiry, but as I have made this
+Piece hitherto independent, and look nei<lb rend="hidden" type="hyphenInWord"/>ther
+way, as to Parties, so it seems not at
+all needful: The Advice is to both, or all
+our Parties, that they would consider very
+well what they are doing, what Interest
+they are carrying on; whose alone will be
+the Advantage; to whom will be the Joy
+of such a War: For if these are our Dan<lb rend="hidden" type="hyphenInWord"/>gers,
+and if all these Disadvantages threaten
+us by a War with the <hi>Dutch,</hi> it cannot be,
+but that a Proportion of Gain and Advan<lb rend="hidden" type="hyphenInWord"/>tage
+will accrue to the Enemy, for what is
+our Loss, must on the other Hand be their
+Advantage.</p>
+            <p>I know, and easily foresee many Things
+will be objected here, and it may be neces<lb rend="hidden" type="hyphenInWord"/>sary
+to speak to them all in their Order,
+tho' our Space at the end of this Work is
+too short, to say all that might be spoken—The
+Objections are such as these, <hi>viz.</hi> Tho'
+it be true, that the Consequences of a War
+with <hi>Holland,</hi> are, as you have said, yet
+what must be done? We are not to let the
+<hi>Dutch</hi> insult us, because it is our Disadvan<lb rend="hidden" type="hyphenInWord"/>tage
+so many ways to have War. That if
+the <hi>Dutch</hi> reject the Measures proposed for
+their Advantage, and Ours too, and car<lb rend="hidden" type="hyphenInWord"/>ry
+Things on to an extravagant Height,
+THEY force the War and not WE: That
+by doing what is incompatible with our
+<pb n="37" facs="36"/>
+Interest, they in Effect declare the War; so
+that it is They make War with the QUEEN,
+not the QUEEN with Them: That the
+<hi>Dutch</hi> are acted by a Faction from hence,
+who prompt and persuade them to stand
+out, and put them in hopes, that their do<lb rend="hidden" type="hyphenInWord"/>ing
+so, may bring Things to a new Turn
+here, and put a new Face upon our Affairs,
+and that all these Things push the present
+Ministry upon the necessity of taking the
+Measures they now pursue, to preserve the
+present Government; and if the <hi>Dutch</hi> join
+with a Party here, who oppose Her Ma<lb rend="hidden" type="hyphenInWord"/>jesty's
+just Measures, they bring the War
+upon themselves, and that Party here are the
+Cause, and ought to bear the Blame of the
+War, and of all the Inconveniences and Da<lb rend="hidden" type="hyphenInWord"/>mages
+that may follow.</p>
+            <p>It is not my Work here to argue for or
+against the Parties, as I said before, I am
+rather for giving all the Latitude to the
+Objectors on either Hand, and therefore I
+willingly, for Arguments-sake, allow all
+the Objection; but without entring into the
+Merit of the Case on the one Side, or the
+Other, the Consequences of the War, not
+the Necessity of it, is the present Argument
+before us.</p>
+            <p>If there is a necessity for a War with the
+<hi>Dutch,</hi> I am sorry for that unhappy Circum<lb rend="hidden" type="hyphenInWord"/>stance;
+but without entring into a Dispute of
+the Fact, my Draught of the Consequences
+lies as a Caution to all Parties to consider,
+with the utmost Seriousness, what that Ne<lb rend="hidden" type="hyphenInWord"/>cessity
+is, and if possible to remove those
+<pb n="38" facs="37"/>
+Causes, which bring that Necessity on; for
+if the Effects of a <hi>Dutch</hi> War are as before, we
+ought to be very well satisfy'd, that our Rea<lb rend="hidden" type="hyphenInWord"/>sons
+for it are of sufficient Weight to ballance
+all the Evils that follow; and if on a due
+Enquiry it should be found that these Neces<lb rend="hidden" type="hyphenInWord"/>sities
+are of our own making, and that we
+maliciously on both Sides push one another
+on to the Extremities, which in their own
+nature procure this Mischief. The Excuse
+of its being necessary will dwindle away
+into, and plainly discover, a wicked Plot to
+bring this War upon the Nation, even
+for the sake of those very Mischiefs that
+so necessarily attend it.</p>
+            <p>As to letting the <hi>Dutch</hi> insult us, and put<lb rend="hidden" type="hyphenInWord"/>ting
+the Cause of the War wholly upon
+them; if this were true, or should appear,
+all that has been said will lye against the
+<hi>Dutch,</hi> and not against Us, and were I to
+write this in <hi>Holland,</hi> I would perhaps be
+able to shew the <hi>Dutch,</hi> how many ways a
+War with <hi>Britain</hi> may be fatal and dange<lb rend="hidden" type="hyphenInWord"/>rous
+to them, as well as to us Us: Many of
+the Arguments before-mention'd, hold good
+on their Side, as well as Ours. The <hi>Hanno<lb rend="hidden" type="hyphenInWord"/>ver</hi>
+Succession is, tho' something more re<lb rend="hidden" type="hyphenInWord"/>motely,
+as much their Concern as Ours;
+the Protestant Interest ought to lie as near
+their Hearts as ours. The Interruptions of
+Commerce, the Loss of Ships, Trade and
+Goods; These are Things they will bear
+their share of, no Question with us: If
+they gain by the War; if they Beat us,
+they will have as much Cause to mourn for
+<pb n="39" facs="38"/>
+their Victory as We for our Loss; and as
+the Author of the <hi>Review</hi> says very well,
+<q rend="inline">"The whole War is but the same thing
+as a Man cutting off his Left Hand with
+his Right."</q>
+            </p>
+            <p>The Advice is to them therefore, <hi>equally
+as to us,</hi> tho' not quite with the same Con<lb rend="hidden" type="hyphenInWord"/>cern;
+they ought to study all the Methods
+possible to avoid this Breach; they ought to
+consider and duly weigh the General Prote<lb rend="hidden" type="hyphenInWord"/>stant
+Interest, and rather abate in some of their
+Demands for Peace-sake, and to avoid the
+threatning Danger: In short, both Nations,
+and every Party or Faction in both Nations,
+ought to consider well what they are doing,
+and to what a desperate Condition the Pro<lb rend="hidden" type="hyphenInWord"/>testant
+Interest will be reduced, and nothing
+but such unavoidable necessity as will justify
+them before God and Man, ought to be
+allow'd as a Reason for this War.</p>
+            <p>I might descend here to other Particu<lb rend="hidden" type="hyphenInWord"/>lars,
+but as they seem to lead more directly
+into our present Party Disputes, which
+in this Tract, I purpose not to meddle
+with, I omit them, and choose to let this
+Animadversion respect every Side, that
+if possible it may be useful to them all; and
+may bring all Parties seriously to apply
+themselves, if possible, to heal this Breach
+now while it is young, and before the
+Wound festers, before it comes up to an In<lb rend="hidden" type="hyphenInWord"/>flamation
+and Mortification, when all the
+Endeavours will but encrease the Misery,
+and be ineffectual to the Cure.</p>
+            <p>
+               <pb n="40" facs="39"/>
+It is our present Misfortune, that our
+People on both Sides seem not to see into
+the Mischiefs of the present Case, the
+Willingness on one Hand, and the Uncon<lb rend="hidden" type="hyphenInWord"/>cernedness
+at the Consequences on the other,
+which unhappily appear among our People
+with respect to a War with <hi>Holland</hi> are very
+surprizing, and it seems to me to signify, that
+neither of the Parties have duly weigh'd the
+thing: These Sheets are written, that they
+may not want a Light to see by in this Case,
+nor plead Ignorance of the Effects, when
+they may have brought them upon us too
+late.</p>
+            <p>As to those who profess it their Design to
+overthrow the present Settlement of this
+Nation, I mean the Enemies of the <hi>Revolu<lb rend="hidden" type="hyphenInWord"/>tion,</hi>
+the Friends of the <hi>Pretender,</hi> the favou<lb rend="hidden" type="hyphenInWord"/>rers
+of <hi>Popery</hi> and <hi>Tyranny;</hi> these Sheets are
+not written for their Conviction, I do not
+so much reproach them with desiring a
+War with the <hi>Dutch,</hi> because it seems the
+only way to bring all their Desires to pass.</p>
+            <p>But this may be drawn from thence as a
+most direct Consequence, <hi>viz.</hi> That the pre<lb rend="hidden" type="hyphenInWord"/>sent
+Popular Cry against the <hi>Dutch</hi> is a sad
+Token of the Growth and Encrease of
+<hi>Jacobitism</hi> among Us, and of the growing
+Interest of the <hi>Pretender.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAG.</hi> 11. <hi>The General Heads,</hi> III. and VI. <hi>being
+transposed; The Reader is desired to take Notice there<lb rend="hidden" type="hyphenInWord"/>of,
+and read the one for the other.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The end of oppression: being a dialogue between an old mechanic and a young one. Concerning the establishment of the rights of man.</title>
+            <author>Spence, Thomas, 1750-1814.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K022849.000</idno>
+            <idno type="docno">CW3305070478</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The end of oppression: being a dialogue between an old mechanic and a young one. Concerning the establishment of the rights of man.</title>
+                  <author>Spence, Thomas, 1750-1814.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Second edition.</edition>
+               </editionStmt>
+               <extent>12p. ; 12⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for the author, and sold by T. Spence,</publisher>
+                  <date>[1795]</date>
+                  <idno type="TCP">K022849.000</idno>
+                  <idno type="docno">CW3305070478</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Thomas Spence.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT5300.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE END OF OPPRESSION; BEING A <hi>DIALOGUE</hi> BETWEEN AN OLD MECHANIC AND A YOUNG ONE. Concerning the Establishment of THE RIGHTS OF MAN.</p>
+            <p>SECOND EDITION.</p>
+            <p>
+               <hi>LONDON:</hi> PRINTED FOR THE AUTHOR, AND SOLD BY T. SPENCE, NO. 8, LITTLE TURN<lb rend="hidden" type="hyphenInWord"/>STILE, HIGH HOLBORN; PATRIOTIC BOOKSEL<lb rend="hidden" type="hyphenInWord"/>LER AND PUBLISHER OF PIOS' MEAT.</p>
+            <p>[<gap resp="#pdcc" extent="1 span" rend="content:〈…〉">
+                  <desc>illegible</desc>
+               </gap>]</p>
+            <p>
+               <hi>(PRICE ONE PENNY.)</hi>
+            </p>
+         </div>
+         <div type="publishersadvertisement">
+            <pb facs="2"/>
+            <p>PIGS' MEAT: THE HONEY OR ESSENCE OF POLITICS, IS now finished in Seventy-two Penny Num<lb rend="hidden" type="hyphenInWord"/>bers, making Three Volumes; Price in Boards 2s. each.</p>
+            <p>☞ This is the only Book that in a direct Manner teaches the real, honest, and pure RIGHTS OF MAN: and that shews an easy and practicable way to enjoy them.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="3"/>
+            <head>THE END OF OPPRESSION.</head>
+            <sp>
+               <speaker>Young Man.</speaker>
+               <p>I HEAR there is another RIGHTS OF MAN by <hi>Spence,</hi> that goes far<lb rend="hidden" type="hyphenInWord"/>ther than <hi>Paine's.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Old M.</speaker>
+               <p>Yet it goes no farther than it ought.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>I understand it suffers <hi>no</hi> private Property in Land, but gives it all to the Parishes.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>In so doing it does right, the earth was not made for Individuals.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>But people of all conditions have been so accustomed to think that the completion of all earthly felicity consists in the possession of Landed Propriety, that it is not likely they will generally be brought to give up the da<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>ling hopes of one time or other possessing a snug Estate.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>It is true, if there were no injustice at<lb rend="hidden" type="hyphenInWord"/>tending the state of a Landlord, it is the most de<lb rend="hidden" type="hyphenInWord"/>sirable and enviable state in the world, even infinitely more so than that of a King, or any Placeman or Pensioner whatsoever.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>It is indeed. Every body knows that well. For the Landlord is entirely supreme, inde<lb rend="hidden" type="hyphenInWord"/>pendent, and arbitrary, in his own Domains, hence the title <hi>Lord,</hi> and nothing binds him but his <hi>own</hi> Leases, which he for his <hi>own</hi> interest grants. He
+<pb n="4" facs="4"/>is in <hi>no</hi> danger of losing his revenues, for he pays himself in a most haughty and lordly manner, with<lb rend="hidden" type="hyphenInWord"/>out process, and without hardly condescending to ask. And when his rents are brought to him on the very hour they are due, his Dignity will not permit him to be thankful.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>Why, I find you are at least half a Spen<lb rend="hidden" type="hyphenInWord"/>sonian: You understand something of the nature of the enemy: and I dare say we shall not differ much in opinion.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>I have heard, read, and seen enough of their oppressions to make me wish them at an end, if possible.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>Whether it be possible we shall see by and by. But for the reasons beforementioned, unless it be necessary that there should be in a State Free<lb rend="hidden" type="hyphenInWord"/>men and Slaves, <hi>lordly</hi> Men, and <hi>mean</hi> Men, Land<lb rend="hidden" type="hyphenInWord"/>lords cannot be suffered.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>But most people believe it would be unjust to deprive Landed Men of their Property, as many of them have purchased their Estates.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>Landed Property always was originally acquired, either by conquest or encroachment on the common Property of Mankind. And as those public Robbers did never shew any degree of conscience or moderation in their usurpations, it cannot be ex<lb rend="hidden" type="hyphenInWord"/>pected that the multitudes thus disinherited and enslaved for ages, should in the day of reclamation, through an effeminate and foolish tenderness, ne<lb rend="hidden" type="hyphenInWord"/>glect the precious opportunity of recovering at once the <hi>whole</hi> of their Rights.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>But I am speaking of the seeming hard<lb rend="hidden" type="hyphenInWord"/>ships of depriving modern Purchasers of their Pro<lb rend="hidden" type="hyphenInWord"/>perty.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>Those modern Purchasers are not ignorant of the manner in which Landed Property was ori<lb rend="hidden" type="hyphenInWord"/>ginally obtained, neither are they sorry for it, nor for any other imposition by which they can get
+<pb n="5" facs="5"/>Revenue. And every one knows that buying stolen Goods is as bad as stealing.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>You are entirely right. The conduct of our rich Men is not such as to create much respect for their Property. The whole of their study is to create Monopolies and to raise Rents and Revenues; and, like the Grave, their endless cry is, Give! Give!</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>And what was originally obtained by the Sword, they determine to detain by the Sword. Are not they and their Minions now in Arms under the name of Yeomanry, Volunteers &amp;c.? And what means the inveterate War commenced by the Aris<lb rend="hidden" type="hyphenInWord"/>tocracy of the World against France? They know that Mankind once enlightened will not brook their lordliness, nor be content with their Rights by piece-meal; therefore they exert every nerve to prevent light from spreading, and the union of the People.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>Indeed there cannot be any thing said for them. They exhibit to us too plainly all the pro<lb rend="hidden" type="hyphenInWord"/>perties and practices of Robbers. Plunder, spoil and contributions they will at all events have though their ill-gotten Lands should swim with blood; fully declaring themselves the true Heirs and Succes<lb rend="hidden" type="hyphenInWord"/>sors of the ancient Nimrods from whom they hold.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>Then let all Men say, Spence has done right in rooting up such a combination of Spoilers, and setting the world free from all exactions, im<lb rend="hidden" type="hyphenInWord"/>posts, and abuses, at once and for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>It is amazing that Paine and the other Democrats should level all their Artillery at Kings, without striking like Spence at this root of every abuse and of every grievance.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>The reason is evident: They have no chance of being Kings; but many of them are al<lb rend="hidden" type="hyphenInWord"/>ready, and the rest foolishly and wickedly hope to be sometime or other Landlords, lesser or greater.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="6"/>
+               <speaker>Y. M.</speaker>
+               <p>But do you think Mankind will ever en<lb rend="hidden" type="hyphenInWord"/>joy any tolerable degree of Liberty and Felicity, by having a Reform in Parliament, if Landlords be still suffered to remain?</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>You should first ask if the Landed Interest will let you have a reform, which they will take care to prevent. For a Convention or Parliament of the People would be at eternal War with the Aristocracy. But granting they should so far for<lb rend="hidden" type="hyphenInWord"/>get their interest, they would soon recollect their mistake, and set about their true interest again, which is to counteract every species of public good. And full well are they furnished with every requi<lb rend="hidden" type="hyphenInWord"/>site for the diabolical Work. The perpetual influx of wealth by their Rents without toil or study, leaves them at full Liberty and Leisure to plot, and supplies them also with the means of fighting suc<lb rend="hidden" type="hyphenInWord"/>cessfully against the interests of the working part of the Community, and turn their labours to their own advantage.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>Yes, it is natural to expect that whether in the legislature or out of it, their whole study will be, under every kind of Government, to en<lb rend="hidden" type="hyphenInWord"/>crease the prices of what their Estates produce, that their rents may rise. What shall we then account such a body of People, whose interests are only their own, and so opposite to all others, but a pub<lb rend="hidden" type="hyphenInWord"/>lic Enemy, a Banditti that must always be watched and sometimes resisted.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>There you are wrong with your watch<lb rend="hidden" type="hyphenInWord"/>ing and resisting. Who is to watch and resist? Must not all the rest of the world do something for their Bread? And are they not disarmed by the Game Laws, awed by the Military, and by Monopolies, State Tricks, Rents and Taxes reduced to continual Drudgery and Starvation? How many days do you think such a brood of Beggars could maintain them<lb rend="hidden" type="hyphenInWord"/>selves in a state of Insurrection against their Op<lb rend="hidden" type="hyphenInWord"/>pressors?
+<pb n="7" facs="7"/>They must away to their work again. The cries of their famished Families break up their Campaigns before they are well begun, and they must again return to the yoke, like other starved animals, for mere subsistence.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>O hopeless state of Mankind!</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>No, it is not yet hopeless, though the ene<lb rend="hidden" type="hyphenInWord"/>my, like a numerous Army, be garrisoned and quartered every where among us, and have all the strong Holds, all the Arms, and every advantage that triumphant and cruel Invaders could wish for, yet will a true and universal knowledge of Spence's plain and simple System overturn them, and sweep all their Greatness and Lordliness away in one Day, and leave the world in perpetual and perfect Peace:</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>Some seem to apprehend the mismanage<lb rend="hidden" type="hyphenInWord"/>ment of the Parish Revenues, and so discourage People from thinking of that System.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>That is the natural work of the Enemy, and must be expected. But it does not become Demo<lb rend="hidden" type="hyphenInWord"/>crats to doubt concerning it. For if Men cannot manage the Revenues and affairs of a Parish, what must they do with a State? It is almost as absurd to answer such quibbles as to make them. How strange that Men will turn the world upside down to get the management of a Nation, and yet pretend to despair concerning a Parish!!! It is too bad. The villainy is too barefaced, I am weary with combatting the vile sophistry of Scoundrels that are Oppressors, and of Scoundrels that would be Oppressors. But in Spence's Pigs' Meat, you will find the Parish System represented in such a variety of ways, and so plainly evidencing to every Reader, the easy and practicable transition from this scene of Oppression and Woe, to perfect Freedom and Felicity, that I must refer you to that incomparable Work for complete satisfaction on the Subject.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="8"/>
+               <speaker>Y. M.</speaker>
+               <p>I thank you. I will take the first oppor<lb rend="hidden" type="hyphenInWord"/>tunity of perusing that excellent Book. But in the mean time, for the sake of conversation, let us sup<lb rend="hidden" type="hyphenInWord"/>pose that a whole Nation no matter whether Ame<lb rend="hidden" type="hyphenInWord"/>rica, France, Holland, or any other, but as to En<lb rend="hidden" type="hyphenInWord"/>gland, it is entirely out of the Question, were fully convinced of the excellence of this System, and universally wishing its establishment, I should be glad to know the most easy method of doing so, and with least bloodshed.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>In a Country so prepared, let us suppose a few Thousands of hearty determined Fellows well armed and appointed with Officers, and having a Committee of honest, from, and intelligent Men to act as a provisionary Government, and to direct their Actions to the proper Object. If this Com<lb rend="hidden" type="hyphenInWord"/>mittee published a Manifesto or Proclamation, di<lb rend="hidden" type="hyphenInWord"/>recting the People in every Parish to take, on receipt thereof, immediate possession of the whole Landed Property within their district, appointing a Com<lb rend="hidden" type="hyphenInWord"/>mittee to take charge of the same, in the name and for the use of the Inhabitants; and that every Landholder should immediately, on pain of Con<lb rend="hidden" type="hyphenInWord"/>fiscation and Imprisonment, deliver to the said pa<lb rend="hidden" type="hyphenInWord"/>rochial Committee, all Writings and Documents relating to their Estates, that they might immedi<lb rend="hidden" type="hyphenInWord"/>ately be burnt; and that they should likewise dis<lb rend="hidden" type="hyphenInWord"/>gorge at the same time into the Hands of the said Committee, the last payments received from their tenants, in order to create a parochial Fund for im<lb rend="hidden" type="hyphenInWord"/>mediate use, without calling upon the exhausted People. If this Proclamation was generally attended to, the business was settled at once; but if the Aristocracy arose to contend the matter, let the People be firm and desperate, destroying them Root and Branch, and strengthening their Hands by the rich Confiscations, Thus the War would be carried on at the expence of the wealthy enemy; and the
+<pb n="9" facs="9"/>Soldiers of Liberty beside the hope of sharing in he future felicity of the country, being well paid, would be steady and bold. And wherever the Lands were taken possession of by the People, (which by all means should be as early accomplish<lb rend="hidden" type="hyphenInWord"/>ed as possible) the grand resource of the Aristocracy, the Rents, would be cut off, which would soon re<lb rend="hidden" type="hyphenInWord"/>duce them to Reason, and they would become as harmless as other men.</p>
+            </sp>
+            <sp>
+               <speaker>Y. M.</speaker>
+               <p>If People could but thus become honest and wise enough to cut off at once the resources of the enemy, they might soon get rid of Oppression. But it is a pity they do not perceive the immediate and inexpressible blessings that would infallably result from such a Revolution.</p>
+            </sp>
+            <sp>
+               <speaker>O. M.</speaker>
+               <p>The good Effects of such a change, would be more exhilirating and reviving to the hunger-bitten and despairing Children of Oppression, than a be<lb rend="hidden" type="hyphenInWord"/>nign and sudden Spring to the frost-bitten Earth, after a long and severe Winter. Only think of the many millions of Rents that are now paid to those self-created Nephews of God Almighty, the Land<lb rend="hidden" type="hyphenInWord"/>ed Interest, which is literally paid for nothing but to create Masters.—I say only think of all this Mo<lb rend="hidden" type="hyphenInWord"/>ney, circulating among the People, and there pro<lb rend="hidden" type="hyphenInWord"/>moting Industry and Happiness, and all the arts and callings useful in Society; would not the change be unspeakable? This would neither be a barren Revolution of mere unproductive Rights, such as many contend for, nor yet a glut of sudden and temporary Wealth as if acquired by conquest; but a continual flow of permanent Wealth established by a System of Truth and Justice, and guaranteed by the interest of every Man, Woman, and Child in the Nation. The Government also of such a People could no longer be oppressive. The demo<lb rend="hidden" type="hyphenInWord"/>cratic Parishes would take care how they suffered their Money to be lavished away upon State spe<lb rend="hidden" type="hyphenInWord"/>culations.
+<pb n="10" facs="10"/>And their Senators, who could not be Men of landed Property, would be found to be much more honest and true to the services of their Constituents than our now-a-days so much boasted Gentlemen of independent Fortunes.</p>
+               <p>When a People create Landlords, they create a numerous host of hereditary Tyrants and Oppres<lb rend="hidden" type="hyphenInWord"/>sors, who not content with their Lordly Revenues of Rents, seize also upon the Government, and parcel it out among themselves, and take as enor<lb rend="hidden" type="hyphenInWord"/>mous salaries for the Places they occupy therein, as if they were poor Men; so that the Rents which the foolish People foolishly pay, they pay for no<lb rend="hidden" type="hyphenInWord"/>thing, and the poor dull Ass the Public, become thus loaded, as it were, with two pair of Panyers. So then, whoever will be so silly good-natured and over-generous as to pay Rents to a set of Individuals, must not be surprized, if their Masters by all ways and means and pretences should keep them to it, and give Scope sufficient to their liberal propensi<lb rend="hidden" type="hyphenInWord"/>ties.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="song">
+            <pb n="11" facs="11"/>
+            <head>
+               <hi>A</hi> SONG, <hi>to be Sung at the End of Oppression, or the Commencement of the political Milennium, when there shall be neither Lords nor Landlords, but God and Man will be all in all.</hi>
+            </head>
+            <head type="sub">FIRST PRINTED IN THE YEAR 1782.</head>
+            <opener>Tune, <hi>"God save the King."</hi>
+            </opener>
+            <lg n="1">
+               <head>1.</head>
+               <l>HARK! how the Trumpet's sound
+<note place="bottom" n="*">See Leviticus, Chap, 25.</note>
+               </l>
+               <l>Proclaims the Land around</l>
+               <l>The Jubilee!</l>
+               <l>Tells all the poor oppress'd,</l>
+               <l>No more they shall be cess'd,</l>
+               <l>Nor Landlords more molest</l>
+               <l>Their Property.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Rents t' ourselves now we pay,</l>
+               <l>Dreading no Quarter Day,</l>
+               <l>Fraught with distress.</l>
+               <l>Welcome that day draws near,</l>
+               <l>For then our Rents we share
+<note place="bottom" n="†">Though the Inhabitants in every▪ District or Parish in the world (except in England) have an undoubted right to divide the <hi>whole</hi> of the Rents equally among them, and suffer the State and all public affairs to be supported by Taxes as usual; yet from the numerous evils and restraints attending Revenue Laws, and the number of Collectors, Informers, &amp;c. appendant on the same, it is supposed, they would rather pre<lb rend="hidden" type="hyphenInWord"/>fer, That after the whole amount of the rents are collected in a Parish from every person, according to the full value of the Premises which they occupy, so much per Pound, according to Act of Parliament, should be set apart for support of the State instead of all Taxes: that another sum should next be de<lb rend="hidden" type="hyphenInWord"/>ducted for support of the Parish establishment, in<lb rend="hidden" type="hyphenInWord"/>stead of Tolls, Tythes, Rates, Cesses, &amp;c. and that after these important matters were provided for, the remainder of the Money should be equally di<lb rend="hidden" type="hyphenInWord"/>vided among all the settled Inhabitants, whether Poor or Rich,</note>
+               </l>
+               <l>Earth's rightful Lords we are</l>
+               <l>Ordain'd for this.</l>
+            </lg>
+            <lg n="3">
+               <pb n="12" facs="12"/>
+               <head>3.</head>
+               <l>How hath th' oppressor ceas'd,
+<note place="bottom" n="‡">Isaiah, Chap. 14.</note>
+               </l>
+               <l>And all the world releas'd</l>
+               <l>From Misery!</l>
+               <l>The Fir-trees all rejoice,</l>
+               <l>And Cedars lift their voice,</l>
+               <l>Ceas'd now the <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>E<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>ERS'' noise,</l>
+               <l>Long rais'd by thee.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>The Sceptre now is broke,</l>
+               <l>Which with continual stroke</l>
+               <l>The Nations smote!</l>
+               <l>Hell from beneath doth rise,</l>
+               <l>To meet thy lofty Eyes,</l>
+               <l>From the most pompous size,</l>
+               <l>How brought to nought!</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Since then this Jubilee</l>
+               <l>Sets all at Liberty,</l>
+               <l>Let us be glad.</l>
+               <l>Behold each Man return</l>
+               <l>To his Right and his own,</l>
+               <l>No more like Doves to mourn</l>
+               <l>By Landlords sad!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

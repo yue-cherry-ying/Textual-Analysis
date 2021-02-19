@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Independence: an ode. By the late T. Smollet, M.D:</title>
+            <title>Ode to independence</title>
+            <author>Smollett, Tobias George, 1721-1771.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K022474.000</idno>
+            <idno type="docno">CW3310228831</idno>
+            <idno type="ecll">0143201300</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Independence: an ode. By the late T. Smollet, M.D:</title>
+                  <title>Ode to independence</title>
+                  <author>Smollett, Tobias George, 1721-1771.</author>
+               </titleStmt>
+               <extent>18,[2]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Murray,</publisher>
+                  <date>1774.</date>
+                  <idno type="TCP">K022474.000</idno>
+                  <idno type="docno">CW3310228831</idno>
+                  <idno type="ecll">0143201300</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title and a final advertisement leaf.</note>
+                  <note>Sig.B at foot of 'Advertisements'; a variant omits this.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT4600.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>INDEPENDENCE: AN ODE.</p>
+            <p>[Price Sixpence.]</p>
+         </div>
+         <div type="copyrightnotice">
+            <pb facs="2"/>
+            <p>Entered in the Hall Book of the COMPANY of STATIONERS.</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="3"/>
+            <p>INDEPENDENCE: AN ODE.</p>
+            <p>By the Late T. SMOLLET, M. D.</p>
+            <p>LONDON: Printed for J. MURRAY, at No. 32, Fleet-Street. MDCCLXXIV.</p>
+         </div>
+         <div type="notice">
+            <pb facs="4"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THAT this Poem is authentic we have the best Authority: That it has high Merit no one will doubt, who has the smallest Pretension to Taste. It has all the Enthusiasm and poetic Colouring which suit the Ode; and it breathes a Spirit of Liberty that would not have disgraced a Citizen of Sparta, or of Rome.</p>
+         </div>
+         <div type="inscription">
+            <pb facs="5"/>
+            <head>AN INSCRIPTION To the Memory of the late Dr. TOBIAS SMOLLET.</head>
+            <opener>This Inscription was communicated to the Editor by a Gentleman, who transcribed it from the Monument which it adorns near Leghorn. It is written by Dr. ARMSTRONG, the Author of the beautiful Poem on HEALTH.</opener>
+            <l>Hic ossa conduntur</l>
+            <l>Tobiae Smollet, Scoti;</l>
+            <l>Qui, prosapia generosa et antiqua natus,</l>
+            <l>Priscae virtutis exemplar emicuit;</l>
+            <l>Aspectu ingenuo,</l>
+            <l>Corpore valido,</l>
+            <l>Pectore animoso,</l>
+            <l>Indole apprime benigna,</l>
+            <l>Et fere supra facultates munifica,</l>
+            <l>Insignis.</l>
+            <l>Ingenio feraci, faceto, versatili,</l>
+            <l>Omnigenae fere doctrinae mire capaci,</l>
+            <l>Varia fabularum dulcedine</l>
+            <l>Vitam moresque hominum,</l>
+            <l>Ubertate summa ludens, depinxit.</l>
+            <l>Adverso, interim, nefas! tali tantoque alumno,</l>
+            <l>Nisi quo satyrae opipare supplebat,</l>
+            <l>Seculo impio, ignavo, fatuo,</l>
+            <l>Quo musae vix nisi nothae</l>
+            <l>Mecaenatulis Britannicis</l>
+            <l>Fovebantur.</l>
+            <l>In memoriam</l>
+            <l>Optimi et amabilis omnino viri,</l>
+            <l>Permultis amicis desiderati,</l>
+            <l>Hocce marmor,</l>
+            <l>Dilectissima simul et amantissima conjux</l>
+            <l>L. M.</l>
+            <l>Sacravit.</l>
+         </div>
+      </front>
+      <body>
+         <pb facs="6"/>
+         <head>INDEPENDENCE: AN ODE.</head>
+         <lg>
+            <head>STROPHE.</head>
+            <l>THY Spirit, INDEPENDENCE, let me share!</l>
+            <l>Lord of the Lion-Heart and Eagle-Eye,</l>
+            <l>Thy Steps I follow with my Bosom bare,</l>
+            <l>Nor heed the Storm that howls along the Sky.</l>
+            <l>Deep in the frozen Regions of the North,</l>
+            <l>A Goddess violated brought thee forth,</l>
+            <l>
+               <pb n="8" facs="7"/>
+Immortal LIBERTY, whose look sublime</l>
+            <l>Hath blanch'd the Tyrant's Cheek in every varying Clime.</l>
+            <l>What Time the iron-hearted Gaul</l>
+            <l>With frantic Superstition for his Guide,</l>
+            <l>Armed with the Dagger and the Pall,</l>
+            <l>The Sons of Woden to the Field defy'd:</l>
+            <l>The ruthless Hag, by Weser's flood,</l>
+            <l>In Heaven's Name urg'd the infernal Blow;</l>
+            <l>And red the Stream began to flow:</l>
+            <l>The vanquish'd were baptiz'd with Blood<note place="bottom" n="†">
+                  <hi>Baptiz'd with Blood</hi>—] Charlemagne obliged Four Thousand Saxon Prisoners to embrace the Christian Religion, and immediately after they were baptized, ordered their Throats to be cut. Their Prince Vitikind fled for Shelter to Gotrick King of Denmark.</note>!</l>
+         </lg>
+         <lg>
+            <pb n="9" facs="8"/>
+            <head>ANTISTROPHE.</head>
+            <l>The Saxon Prince in Horror fled</l>
+            <l>From Altars stain'd with human Gore;</l>
+            <l>And Liberty his routed Legions led</l>
+            <l>In Safety to the bleak Norwegian Shore.</l>
+            <l>There in a Cave asleep she lay,</l>
+            <l>Lull'd by the hoarse-resounding Main;</l>
+            <l>When a bold Savage past that Way,</l>
+            <l>Impell'd by Destiny, his Name <hi>Disdain.</hi>
+            </l>
+            <l>Of ample Front the portly Chief appear'd:</l>
+            <l>The hunted Bear supplied a shaggy Vest;</l>
+            <l>The drifted Snow hung on his yellow Beard;</l>
+            <l>And his broad Shoulders brav'd the furious Blast.</l>
+            <l>
+               <pb n="10" facs="9"/>
+He stopt; he gazed; his Bosom glow'd,</l>
+            <l>And deeply felt th' Impression of her Charms:</l>
+            <l>He seiz'd the Advantage Fate allow'd;</l>
+            <l>And straight compress'd her in his vigorous Arms.</l>
+         </lg>
+         <lg>
+            <head>STROPHE.</head>
+            <l>The Curlieu screamed; the Tritons blew</l>
+            <l>Their Shells to celebrate the ravish'd Rite;</l>
+            <l>Old Time exulted as he flew:</l>
+            <l>And INDEPENDENCE saw the Light.</l>
+            <l>The Light he saw in Albion's happy Plains,</l>
+            <l>Where under Cover of a flowering Thorn,</l>
+            <l>While Philomel renew'd her warbled Strains,</l>
+            <l>Th' auspicious Fruit of stol'n Embrace was born.</l>
+            <l>
+               <pb n="11" facs="10"/>
+The Mountain Dryads seiz'd with Joy,</l>
+            <l>The smiling Infant to their Charge consign'd;</l>
+            <l>The Doric Muse caress'd the favourite Boy;</l>
+            <l>The Hermit <hi>Wisdom</hi> stor'd his opening Mind.</l>
+            <l>As rolling Years matur'd his Age,</l>
+            <l>He flourish'd bold and sinewy as his Sire;</l>
+            <l>While the mild Passions in his Breast assuage</l>
+            <l>The fiercer Flames of his maternal Fire.</l>
+         </lg>
+         <lg>
+            <head>ANTISTROPHE.</head>
+            <l>Accomplish'd thus, he wing'd his Way,</l>
+            <l>And zealous rov'd from Pole to Pole,</l>
+            <l>The Rolls of Right eternal to display,</l>
+            <l>And warm with Patriot Thoughts the aspiring Soul.</l>
+            <l>
+               <pb n="12" facs="11"/>
+On desart Isles<note place="bottom" n="*">
+                  <hi>On desart Isles</hi>—] Although Venice was built a considerable Time before the Aera here assigned for the Birth of INDEPENDENCE, the Republic had not yet attained to any great Degree of Power and Splendor.</note> 'twas he that rais'd</l>
+            <l>Those Spires that gild the Adriatic Wave,</l>
+            <l>Where Tyranny beheld amaz'd</l>
+            <l>Fair Freedom's Temple, where he mark'd her Grave.</l>
+            <l>He steel'd the blunt Batavian's Arms</l>
+            <l>To burst the Iberian's double Chain<note place="bottom" n="†">
+                  <hi>To burst the Iberian's double Chain.</hi>] The Low Countries were not only oppressed by grievous Taxations, but likewise threatened with the Establishment of the Inquisition, when the Seven Provinces revolted, and shook off the Yoke of Spain.</note>;</l>
+            <l>And Cities rear'd, and planted Farms,</l>
+            <l>Won from the Skirts of Neptune's wide Domain.</l>
+            <l>
+               <pb n="13" facs="12"/>
+He, with the generous Rustics, sate</l>
+            <l>On Uri's Rocks in close Divan<note place="bottom" n="*">
+                  <hi>On Uri's Rocks</hi>—] Alluding to the known Story of William Tell and his Associates, the Fathers and Founders of the Confederacy of the Swiss Cantons.</note>;</l>
+            <l>And wing'd that Arrow sure as Fate,</l>
+            <l>Which ascertain'd the sacred Rights of Man.</l>
+         </lg>
+         <lg>
+            <head>STROPHE.</head>
+            <l>Arabia's scorching Sands he crost<note place="bottom" n="†">
+                  <hi>Arabia's scorching Sands</hi>—] The Arabs, rather than resign their Independency, have often abandoned their Habitations, and encoun<lb rend="hidden" type="hyphenInWord"/>tered all the Horrors of the Desart.</note>,</l>
+            <l>Where blasted Nature pants supine,</l>
+            <l>Conductor of her Tribes adust,</l>
+            <l>To Freedom's adamantine Shrine;</l>
+            <l>
+               <pb n="14" facs="13"/>
+And many a Tartar Hord forlorn, aghast<note place="bottom" n="*">
+                  <hi>And many a Tartar Hord</hi>—] From the Tyranny of Jenghis-Khan, Timur-Bec, and other eastern Conquerors, whole Tribes of Tartars were used to fly into the remoter Wastes of Cathay, where no Army could follow them.</note>,</l>
+            <l>He snatch'd from under fell Oppression's Wing;</l>
+            <l>And taught, amidst the dreary Waste,</l>
+            <l>Th' all-chearing Hymns of Liberty to sing.</l>
+            <l>He Virtue finds, like precious Ore,</l>
+            <l>Diffus'd through every baser Mould;</l>
+            <l>Even now he stands on Calvi's rocky Shore,</l>
+            <l>And turns the Dross of Corsica to Gold<note place="bottom" n="†">
+                  <hi>And turns the Dross of Corsica</hi>—] The noble Stand made by Paschal Paoli and his Associates against the Usurpation of the French King, must endear them to all the Sons of Liberty and Indepen<lb rend="hidden" type="hyphenInWord"/>dence.</note>.</l>
+            <l>
+               <pb n="15" facs="14"/>
+He, Guardian Genius, taught my Youth</l>
+            <l>Pomp's tinsel Livery to despise:</l>
+            <l>My Lips, by him chastis'd to Truth,</l>
+            <l>Ne'er paid that Homage which the Heart denies.</l>
+         </lg>
+         <lg>
+            <head>ANTISTROPHE.</head>
+            <l>Those sculptur'd Halls my Feet shall never tread,</l>
+            <l>Where varnish'd Vice and Vanity combin'd,</l>
+            <l>To dazzle and seduce, their Banners spread,</l>
+            <l>And forge vile Shackles for the free-born Mind.</l>
+            <l>Where Insolence his wrinkled Front uprears;</l>
+            <l>And all the Flowers of spurious Fancy blow;</l>
+            <l>And Title his ill-woven Chaplet wears,</l>
+            <l>Full often wreath'd around the Miscreant's Brow:</l>
+            <l>
+               <pb n="16" facs="15"/>
+Wherever dimpling Falshood, pert and vain,</l>
+            <l>Presents her Cup of stale Profession's Froth;</l>
+            <l>And pale Disease, with all his bloated Train,</l>
+            <l>Torments the Sons of Gluttony and Sloth.</l>
+         </lg>
+         <lg>
+            <head>STROPHE.</head>
+            <l>In Fortune's Car behold that Minion ride,</l>
+            <l>With either India's glittering Spoils opprest:</l>
+            <l>So moves the Sumpter-Mule, in harness'd Pride,</l>
+            <l>That bears the Treasure which he cannot taste.</l>
+            <l>For him let venal Bards disgrace the Bay;</l>
+            <l>And hireling Minstrels wake the tinkling String;</l>
+            <l>Her sensual Snares let faithless Pleasure lay;</l>
+            <l>And all her gingling Bells fantastic Folly ring:</l>
+            <l>
+               <pb n="17" facs="16"/>
+Disquiet, Doubt, and Dread shall intervene;</l>
+            <l>And Nature, still to all her Feelings just,</l>
+            <l>In Vengeance hang a damp on every Scene,</l>
+            <l>Shook from the baleful Pinions of Disgust.</l>
+         </lg>
+         <lg>
+            <head>ANTISTROPHE.</head>
+            <l>Nature I'll court in her sequester'd Haunts,</l>
+            <l>By Mountain, Meadow, Streamlet, Grove, or Cell,</l>
+            <l>Where the pois'd Lark his Evening Ditty chaunts,</l>
+            <l>And Health, and Peace, and Contemplation dwell.</l>
+            <l>There, Study shall with Solitude recline;</l>
+            <l>And Friendship pledge me to his Fellow-Swains;</l>
+            <l>And Toil and Temperance sedately twine</l>
+            <l>The slender chord that fluttering Life sustains:</l>
+            <l>
+               <pb n="18" facs="17"/>
+And fearless Poverty shall guard the Door;</l>
+            <l>And Taste unspoil'd the frugal Table spread;</l>
+            <l>And Industry supply the humble Store;</l>
+            <l>And Sleep unbrib'd his Dews refreshing shed:</l>
+            <l>White-mantl'd Innocence, etherial Spright,</l>
+            <l>Shall chace far off the Goblins of the Night:</l>
+            <l>And INDEPENDENCE o'er the Day preside;</l>
+            <l>Propitious Power! my Patron and my Pride.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <pb facs="18"/>
+            <head>BOOKS printed for J. MURRAY, No. 32, FLEET-STREET, LONDON.</head>
+            <list>
+               <item>1. ARMINE and ELVIRA; a Legendary Tale, in Two Parts. By Mr. CARTWRIGHT. Fifth Edition. Price 2<hi>s.</hi>
+               </item>
+               <item>2. ORIGINAL POEMS, from a Manuscript written in the Time of Oliver Cromwell. Price 1<hi>s.</hi> 6<hi>d.</hi>
+               </item>
+               <item>3. The EPIGONIAD: A Poem in Nine Books. To which is added a Dream in the Manner of Spencer. By WILLIAM WILKIE, D. D. 12mo. Price 3<hi>s.</hi> bound.</item>
+               <item>4. A DISCOURSE upon Public Oeconomy and Commerce. By the celebrated Marquis <hi>Caesan Baccaria,</hi> Author of the Treatise on Crimes and Punishments. Price 1<hi>s.</hi> 6<hi>d.</hi>
+               </item>
+               <item>5. The TOILET of FLORA: Or, A Collection of the most simple and approved Methods of preparing Baths, Essences, Pomatums, Powders, sweet-scented Waters, and Opiates, for preserving and whitening the Teeth, &amp;c. for the Use of the Ladies. Price 3<hi>s.</hi> bound.</item>
+               <item>
+                  <pb facs="19"/>
+6. A SKETCH of the Secret History of Europe, since the Peace of Paris; with Observations on the present critical State of Great Britain. Price 1<hi>s.</hi>
+               </item>
+               <item>7. An ESSAY on the Advantages of a polite Education, joined with a learned one. Price 1<hi>s.</hi> 6<hi>d.</hi>
+               </item>
+               <item>8. The NUNNERY for COQUETS: A Novel. Price 3<hi>s.</hi> 6<hi>d.</hi>
+               </item>
+               <item>9. The CASTLE of OTRANTO: A Gothic Story. By Mr. <hi>H. Walpole.</hi> 8vo. Price 3<hi>s.</hi> 6<hi>d.</hi>
+               </item>
+               <item>10. A DISSERTATION on the Rise, Union, and Power, the Progressions, Separations, and Corruptions of Poetry and Music. To which is prefixed, The Cure of Saul, a sacred Ode, written by Dr. <hi>Browne.</hi> The Second Edition, in Quarto. Price 8<hi>s.</hi> in Boards.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

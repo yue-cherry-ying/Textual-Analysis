@@ -1,0 +1,561 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The conference: A poem. By C. Churchill.</title>
+            <author>Churchill, Charles, 1731-1764.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020954.000</idno>
+            <idno type="docno">CW3314903974</idno>
+            <idno type="ecll">0568403500</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The conference: A poem. By C. Churchill.</title>
+                  <author>Churchill, Charles, 1731-1764.</author>
+               </titleStmt>
+               <extent>[4],19,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for G. Kearsly; J. Coote; W. Flexney; C. Henderson; J. Gardiner; and J. Almon,</publisher>
+                  <date>1763.</date>
+                  <idno type="TCP">K020954.000</idno>
+                  <idno type="docno">CW3314903974</idno>
+                  <idno type="ecll">0568403500</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT1702.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE CONFERENCE. A POEM. BY C. CHURCHILL.</p>
+            <p>LONDON: Printed for G. KEARSLY, opposite St. Martin's Church, Ludgate-Street; J. COOTE, in Pater-noster-Row; W. FLEXNEY, near Gray's-Inn Gate, Holborn; C. HENDERSON, at the Royal-Exchange; J. GARDINER, in Charles-Street, Westminster; and J. ALMON, in Piccadilly. MDCCLXIII.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>THE CONFERENCE.</head>
+         <lg>
+            <l>GRACE said in form, which Sceptics must agree,</l>
+            <l>When they are told that Grace was said by Me;</l>
+            <l>The Servants gone, to break the scurvy jest</l>
+            <l>On the proud Landlord, and his thread-bare guest;</l>
+            <l>The King gone round, my Lady too withdrawn,</l>
+            <l>My Lord, in usual taste, began to yawn,</l>
+            <l>And lolling backward in his Elbow-chair,</l>
+            <l>With an insipid kind of stupid stare,</l>
+            <l>
+               <pb n="2" facs="3"/>Picking his teeth, twirling his seals about —</l>
+            <l>CHURCHILL, You have a Poem coming out.</l>
+            <l>You've my best wishes; but I really fear</l>
+            <l>Your Muse in general is too severe,</l>
+            <l>Her Spirit seems her int'rest to oppose,</l>
+            <l>And, where She makes one friend, makes twenty foes.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>C.</hi> Your Lordship's fears are just, I feel their force,</l>
+            <l>But only feel it as thing of course.</l>
+            <l>The Man, whose hardy Spirit shall engage</l>
+            <l>To lash the vices of a guilty age,</l>
+            <l>At his first setting forward ought to know,</l>
+            <l>That ev'ry rogue he meets must be his foe,</l>
+            <l>That the rude breath of Satire will provoke</l>
+            <l>Many who feel, and more who fear the stroke.</l>
+            <l>But shall the partial rage of selfish men</l>
+            <l>From stubborn Justice wrench the righteous pen,</l>
+            <l>Or shall I not my settled course pursue,</l>
+            <l>Because my foes, are foes to Virtue too?</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>L.</hi> What is this boasted Virtue, taught in Schools,</l>
+            <l>And idly drawn from antiquated rules?</l>
+            <l>What is her Use? point out one wholesome end?</l>
+            <l>Will She hurt foes, or can She make a Friend?</l>
+            <l>
+               <pb n="3" facs="4"/>When from long fasts fierce appetites arise,</l>
+            <l>Can this same Virtue stifle Nature's cries?</l>
+            <l>Can She the pittance of a meal afford,</l>
+            <l>Or bid thee welcome to one great Man's board?</l>
+            <l>When Northern winds the rough December arm</l>
+            <l>With frost and snow, can Virtue keep thee warm?</l>
+            <l>Canst Thou dismiss the hard unfeeling Dun</l>
+            <l>Barely by saying, Thou art Virtue's Son?</l>
+            <l>Or by base blund'ring Statesmen sent to jail,</l>
+            <l>Will MANSFIELD take this Virtue for thy bail?</l>
+            <l>Believe it not, the Name is in disgrace,</l>
+            <l>Virtue and TEMPLE now are out of place.</l>
+         </lg>
+         <lg>
+            <l>Quit then this Meteor, whose delusive ray</l>
+            <l>From wealth and honour leads thee far astray.</l>
+            <l>True Virtue means, let Reason use her eyes,</l>
+            <l>Nothing with Fools, and Int'rest with the Wise.</l>
+            <l>Would'st Thou be great, her patronage disclaim,</l>
+            <l>Nor madly triumph in so mean a name:</l>
+            <l>Let nobler wreaths thy happy brows adorn,</l>
+            <l>And leave to Virtue poverty and scorn.</l>
+            <l>Let Prudence be thy guide; who doth not know</l>
+            <l>How seldom Prudence can with Virtue go?</l>
+            <l>
+               <pb n="4" facs="5"/>To be Successful try thy utmost force,</l>
+            <l>And Virtue follows as a thing of course.</l>
+         </lg>
+         <lg>
+            <l>HIRCO, who knows not HIRCO, stains the bed</l>
+            <l>Of that kind Master who first gave him bread,</l>
+            <l>Scatters the seeds of discord thro' the land,</l>
+            <l>Breaks ev'ry public, ev'ry private band,</l>
+            <l>Beholds with joy a trusting friend undone,</l>
+            <l>Betrays a Brother, and would cheat a Son:</l>
+            <l>What mortal in his senses can endure</l>
+            <l>The name of HIRCO, for the wretch is poor?</l>
+            <l>"Let him hang, drown, starve, on a dunghill rot,</l>
+            <l>"By all detested live, and die forgot;</l>
+            <l>"Let him, a poor return, in ev'ry breath</l>
+            <l>"Feel all death's pains, yet be whole years in death,"</l>
+            <l>Is now the gen'ral cry we all pursue;</l>
+            <l>Let FORTUNE change, and PRUDENCE changes too,</l>
+            <l>Supple and pliant a new system feels,</l>
+            <l>Throws up her Cap, and spaniels at his heels,</l>
+            <l>Long live Great HIRCO, cries, by int'rest taught,</l>
+            <l>And let his foes, tho' I prove one, be nought.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>C.</hi> Peace to such Men, if such Men can have peace,</l>
+            <l>Let their Possessions, let their State increase,</l>
+            <l>
+               <pb n="5" facs="6"/>Let their base services in Courts strike root,</l>
+            <l>And in the season bring forth golden fruit,</l>
+            <l>I envy not; let those who have the will,</l>
+            <l>And, with so little Spirit, so much skill,</l>
+            <l>With such vile instruments their fortunes carve;</l>
+            <l>Rogues may grow fat, an Honest man dares starve.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>L.</hi> These stale conceits thrown off, let us advance</l>
+            <l>For once to real life, and quit Romance.</l>
+            <l>Starve! pretty talking! but I fain would view</l>
+            <l>That man, that honest man would do it too.</l>
+            <l>Hence to Yon Mountain which outbraves the sky,</l>
+            <l>And dart from pole to pole thy strengthen'd eye,</l>
+            <l>Thro' all that space You shall not view one man,</l>
+            <l>Not one, who dares to act on such a plan.</l>
+            <l>Cowards in calms will say, what in a storm</l>
+            <l>The Brave will tremble at, and not perform.</l>
+            <l>Thine be the Proof, and, spite of all You've said,</l>
+            <l>You'd give Your Honour for a crust of bread.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>C.</hi> What Proof might do, what Hunger might effect,</l>
+            <l>What famish'd Nature, looking with neglect</l>
+            <l>On all She once held dear, what Fear, at strife</l>
+            <l>With fainting Virtue for the means of life,</l>
+            <l>
+               <pb n="6" facs="7"/>Might make this coward flesh, in love with breath,</l>
+            <l>Shudd'ring at pain, and shrinking back from death,</l>
+            <l>In treason to my soul, descend to bear,</l>
+            <l>Trusting to Fate, I neither know, nor care,</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>Once,</hi> at this hour those wounds afresh I feel,</l>
+            <l>Which nor Prosperity nor Time can heal,</l>
+            <l>Those wounds, which Fate severely hath decreed,</l>
+            <l>Mention'd or thought of, must for ever bleed,</l>
+            <l>Those wounds, which humbled all that pride of Man,</l>
+            <l>Which brings such mighty aid to Virtue's plan;</l>
+            <l>
+               <hi>Once,</hi> aw'd by Fortune's most oppressive frown,</l>
+            <l>By legal rapine to the earth bow'd down,</l>
+            <l>My Credit at last gasp, my State undone,</l>
+            <l>Trembling to meet the shock I could not shun,</l>
+            <l>Virtue gave ground, and blank despair prevail'd;</l>
+            <l>Sinking beneath the storm, my Spirits fail'd,</l>
+            <l>Like PETER's Faith, 'till One, a Friend indeed,</l>
+            <l>May all distress find such in time of need,</l>
+            <l>One kind good Man, in act, in word, in thought,</l>
+            <l>By Virtue guided, and by Wisdom taught,</l>
+            <l>Image of him whom Christians should adore,</l>
+            <l>Stretch'd forth his hand, and brought me safe to shore.</l>
+         </lg>
+         <lg>
+            <pb n="7" facs="8"/>
+            <l>
+               <hi>Since,</hi> by good fortune into notice rais'd,</l>
+            <l>And for some little merit largely prais'd,</l>
+            <l>Indulg'd in swerving from Prudential rules,</l>
+            <l>Hated by Rogues, and not belov'd by Fools,</l>
+            <l>Plac'd above want, shall abject thirst of wealth</l>
+            <l>So fiercely war 'gainst my Soul's dearest health,</l>
+            <l>That, as a boon, I should base shackles crave,</l>
+            <l>And, born to Freedom, make myself a slave;</l>
+            <l>That I should in the train of those appear,</l>
+            <l>Whom Honour cannot love, nor Manhood fear?</l>
+         </lg>
+         <lg>
+            <l>That I no longer skulk from street to street,</l>
+            <l>Afraid least Duns assail, and Bailiffs meet;</l>
+            <l>That I from place to place this carcase bear,</l>
+            <l>Walk forth at large, and wander free as air;</l>
+            <l>That I no longer dread the aukward friend,</l>
+            <l>Whose very obligations must offend,</l>
+            <l>Nor, all too froward, with impatience burn</l>
+            <l>At suff'ring favours which I can't return;</l>
+            <l>That, from dependance and from pride secure,</l>
+            <l>I am not plac'd so high to scorn the poor,</l>
+            <l>Nor yet so low, that I my Lord should fear,</l>
+            <l>Or hesitate to give him sneer for sneer;</l>
+            <l>
+               <pb n="8" facs="9"/>That, whilst sage Prudence my pursuits confirms,</l>
+            <l>I can enjoy the world on equal terms;</l>
+            <l>That, kind to others, to myself most true,</l>
+            <l>Feeling no want, I comfort those who do,</l>
+            <l>And with the will have pow'r to aid distress;</l>
+            <l>These, and what other blessings I possess,</l>
+            <l>From the indulgence of the PUBLIC rise;</l>
+            <l>All private Patronage my Soul defies.</l>
+            <l>By Candour more inclin'd to save, than damn,</l>
+            <l>A gen'rous PUBLIC made me what I Am.</l>
+            <l>All that I have, They gave; just Mem'ry bears,</l>
+            <l>The grateful stamp, and what I am is Theirs.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>L.</hi> To feign a red-hot zeal for freedom's cause,</l>
+            <l>To mouthe aloud for liberties and laws,</l>
+            <l>For Public good to bellow all abroad,</l>
+            <l>Serves well the purposes of private fraud.</l>
+            <l>Prudence, by Public good intends her own;</l>
+            <l>If You mean otherwise, You stand alone.</l>
+            <l>What do we mean by Country and by Court,</l>
+            <l>What is it to Oppose, what to Support?</l>
+            <l>Mere words of course, and what is more absurd</l>
+            <l>Than to pay homage to an empty word!</l>
+            <l>
+               <pb n="9" facs="10"/>MAJORS and MINORS differ but in name,</l>
+            <l>Patriots and Ministers are much the same;</l>
+            <l>The only diff'rence, after all their rout,</l>
+            <l>Is that the One is <hi>in,</hi> the Other <hi>out.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>Explore the dark recesses of the mind,</l>
+            <l>In the Soul's honest volume read mankind,</l>
+            <l>And own, in wise and simple, great and small,</l>
+            <l>The same grand leading Principle in All.</l>
+            <l>Whate'er we talk of wisdom to the wise,</l>
+            <l>Of goodness to the good, of public ties</l>
+            <l>Which to our country link, of private bands</l>
+            <l>Which claim most dear attention at our hands,</l>
+            <l>For Parent and for Child, for Wife and Friend,</l>
+            <l>Our first great Mover, and our last great End,</l>
+            <l>Is One, and, by whatever name we call</l>
+            <l>The ruling Tyrant, SELF is All in All.</l>
+            <l>This, which unwilling Faction shall admit,</l>
+            <l>Guided in diff'rent ways a BUTE and PITT,</l>
+            <l>Made Tyrants break, made Kings observe the law,</l>
+            <l>And gave the world a STUART and NASSAU.</l>
+         </lg>
+         <lg>
+            <l>Hath Nature (strange and wild conceit of Pride)</l>
+            <l>Distinguish'd thee from all her sons beside?</l>
+            <l>
+               <pb n="10" facs="11"/>Doth Virtue in thy bosom brighter glow,</l>
+            <l>Or from a Spring more pure doth Action flow?</l>
+            <l>Is not thy Soul bound with those very chains</l>
+            <l>Which shackle us, or is that SELF, which reigns</l>
+            <l>O'er Kings and Beggars, which in all we see</l>
+            <l>Most strong and sov'reign, only weak in Thee?</l>
+            <l>Fond man, believe it not; Experience tells</l>
+            <l>'Tis not thy Virtue, but thy Pride rebels.</l>
+            <l>Think, and for once lay by thy lawless pen;</l>
+            <l>Think, and confess thyself like other men;</l>
+            <l>Think but one hour, and, to thy Conscience led</l>
+            <l>By Reason's hand, bow down and hang thy head;</l>
+            <l>Think on thy private life, recal thy Youth,</l>
+            <l>View thyself now, and own with strictest truth,</l>
+            <l>That SELF hath drawn Thee from fair Virtue's way</l>
+            <l>Farther than Folly would have dar'd to stray,</l>
+            <l>And that the talents lib'ral Nature gave</l>
+            <l>To make thee free, have made thee more a slave.</l>
+         </lg>
+         <lg>
+            <l>Quit then, in prudence quit, that idle train</l>
+            <l>Of toys, which have so long abus'd thy brain,</l>
+            <l>And captive led thy pow'rs; with boundless will</l>
+            <l>Let SELF maintain her state and empire still,</l>
+            <l>
+               <pb n="11" facs="12"/>But let her, with more worthy objects caught,</l>
+            <l>Strain all the faculties and force of thought</l>
+            <l>To things of higher daring; let her range</l>
+            <l>Thro' better pastures, and learn how to change;</l>
+            <l>Let her, no longer to weak faction tied,</l>
+            <l>Wisely revolt, and join our stronger side.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>C.</hi> Ah! what, my Lord, hath private life to do</l>
+            <l>With things of public Nature? why to view</l>
+            <l>Would You thus cruelly those scenes unfold,</l>
+            <l>Which, without pain and horror to behold,</l>
+            <l>Must speak me something more, or less than man;</l>
+            <l>Which Friends may pardon, but I never can?</l>
+            <l>Look back! a Thought which borders on despair,</l>
+            <l>Which human Nature must, yet cannot bear.</l>
+            <l>'Tis not the babbling of a busy world,</l>
+            <l>Where Praise and Censure are at random hurl'd,</l>
+            <l>Which can the meanest of my thoughts controul,</l>
+            <l>Or shake one settled purpose of my Soul.</l>
+            <l>Free and at large might their wild curses roam,</l>
+            <l>If All, if All alas! were well at home.</l>
+            <l>No—'tis the tale which angry Conscience tells,</l>
+            <l>When She with more than tragic horror swells</l>
+            <l>
+               <pb n="12" facs="13"/>Each circumstance of guilt; when stern, but true,</l>
+            <l>She brings bad actions forth into review;</l>
+            <l>And, like the dread hand-writing on the wall,</l>
+            <l>Bids late Remorse awake at Reason's call,</l>
+            <l>Arm'd at all points bids Scorpion Vengeance pass,</l>
+            <l>And to the mind holds up Reflexion's glass,</l>
+            <l>The mind, which starting, heaves the heart-felt groan,</l>
+            <l>And hates that form She knows to be her own.</l>
+         </lg>
+         <lg>
+            <l>Enough of this—let private sorrows rest—</l>
+            <l>As to the Public I dare stand the test;</l>
+            <l>Dare proudly boast, I feel no wish above</l>
+            <l>The good of ENGLAND, and my Country's love.</l>
+            <l>Stranger to Party-rage, by Reason's voice,</l>
+            <l>Unerring guide, directed in my choice,</l>
+            <l>Not all the tyrant pow'rs of earth combin'd,</l>
+            <l>No, nor of hell, shall make me change my mind.</l>
+            <l>What! herd with men my honest soul disdains,</l>
+            <l>Men who, with servile zeal, are forging chains</l>
+            <l>For Freedom's neck, and lend a helping hand,</l>
+            <l>To spread destruction o'er my native land.</l>
+            <l>What! shall I not, e'en to my latest breath,</l>
+            <l>In the full face of danger and of death,</l>
+            <l>
+               <pb n="13" facs="14"/>Exert that little strength which Nature gave,</l>
+            <l>And boldy stem, or perish in the wave?</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>L.</hi> When I look backward for some fifty years,</l>
+            <l>And see Protesting Patriots turn'd to Peers;</l>
+            <l>Hear men, most loose, for decency declaim,</l>
+            <l>And talk of Character, without a name;</l>
+            <l>See Infidels assert the cause of God,</l>
+            <l>And meek Divines wield persecution's rod;</l>
+            <l>See men transform'd to brutes, and brutes to men,</l>
+            <l>See WHITEHEAD take a place, RALPH change his pen,</l>
+            <l>I mock the zeal, and deem the Men in sport,</l>
+            <l>Who rail at Ministers, and curse a Court.</l>
+            <l>Thee, haughty as Thou art, and proud in rime,</l>
+            <l>Shall some Preferment, offer'd at a time</l>
+            <l>When Virtue sleeps, some Sacrifice to Pride,</l>
+            <l>Or some fair Victim, move to change thy side.</l>
+            <l>Thee shall these eyes behold, to health restor'd,</l>
+            <l>Using, as Prudence bids, bold Satire's sword,</l>
+            <l>Galling thy present friends, and praising those,</l>
+            <l>Whom now thy frenzy holds thy greatest foes.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>C.</hi> May I, (can worse disgrace on manhood fall?)</l>
+            <l>Be born a WHITEHEAD, and baptiz'd a PAUL;</l>
+            <l>
+               <pb n="14" facs="15"/>May I (tho' to his service deeply tied</l>
+            <l>By sacred oaths, and now by will allied)</l>
+            <l>With false feign'd zeal an injur'd God defend,</l>
+            <l>And use his name for some base private end;</l>
+            <l>May I (that thought bids double horrors roll</l>
+            <l>O'er my sick Spirits, and unmans my soul)</l>
+            <l>Ruin the Virtue which I held most dear,</l>
+            <l>And still must hold; may I, thro' abject fear,</l>
+            <l>Betray my Friend; may to succeeding times,</l>
+            <l>Engrav'd on plates of Adamant, my crimes</l>
+            <l>Stand blazing forth, whilst mark'd with envious blot,</l>
+            <l>Each little act of Virtue is forgot;</l>
+            <l>Of all those evils which, to stamp men curs'd,</l>
+            <l>Hell keeps in store for vengeance, may the worst</l>
+            <l>Light on my head, and in my day of woe,</l>
+            <l>To make the cup of bitterness o'erflow,</l>
+            <l>May I be scorn'd by ev'ry man of worth,</l>
+            <l>Wander, like Cain, a vagabond on earth,</l>
+            <l>Bearing about a Hell in my own mind,</l>
+            <l>Or be to SCOTLAND for my life confin'd,</l>
+            <l>If I am one amongst the many known,</l>
+            <l>Whom SHELBURNE fled, and CALCRAFT blush'd to own.</l>
+            <l>
+               <pb n="15" facs="16"/>
+               <hi>L.</hi> Do you reflect what men you make your foes?</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>C.</hi> I do, and that's the reason I oppose.</l>
+            <l>Friends I have made, whom Envy must commend,</l>
+            <l>But not one foe, whom I would wish a friend.</l>
+            <l>What if ten thousand BUTES and FOXES bawl,</l>
+            <l>One WILKES hath made a large amends for all.</l>
+         </lg>
+         <lg>
+            <l>'Tis not the Title, whether handed down</l>
+            <l>From age to age, or flowing from the crown</l>
+            <l>In copious streams on recent men, who came</l>
+            <l>From stems unknown, and sires without a name;</l>
+            <l>'Tis not the STAR, which our great EDWARD gave</l>
+            <l>To mark the virtuous, and reward the brave,</l>
+            <l>Blazing without, whilst a base heart within</l>
+            <l>Is rotten to the core with filth and sin;</l>
+            <l>'Tis not the tinsel grandeur, taught to wait,</l>
+            <l>At custom's call, to mark a fool of State</l>
+            <l>From fools of lesser note, that Soul can awe</l>
+            <l>Whose Pride is Reason, whose Defence is Law.</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>L.</hi> Suppose (a Thing scarce possible in Art,</l>
+            <l>Were it thy Cue to play a common Part;)</l>
+            <l>
+               <pb n="16" facs="17"/>Suppose thy Writings so well fenc'd in Law,</l>
+            <l>That N—— cannot find, nor make a Flaw,</l>
+            <l>Hast thou not heard, that 'mongst our antient Tribes</l>
+            <l>By Party warpt, or lull'd asleep by Bribes,</l>
+            <l>Or trembling at the Ruffian Hand of Force,</l>
+            <l>Law hath suspended stood, or chang'd its Course?</l>
+            <l>Art Thou assur'd, that, for Destruction ripe,</l>
+            <l>Thou mayst not smart beneath the self-same Gripe?</l>
+            <l>What Sanction hast Thou, frantic in thy Rimes,</l>
+            <l>Thy Life, thy Freedom to secure?</l>
+         </lg>
+         <lg>
+            <l>
+               <hi>C.</hi> The Times.</l>
+            <l>'Tis not on Law, a System great and good,</l>
+            <l>By Wisdom penn'd, and bought by noblest Blood,</l>
+            <l>My Faith relies: By wicked Men and vain,</l>
+            <l>Law, once abus'd, may be abus'd again.—</l>
+            <l>No, on our great Law-giver I depend,</l>
+            <l>Who knows and guides them to their proper End;</l>
+            <l>Whose Royalty of Nature blazes out</l>
+            <l>So fierce, 'twere Sin to entertain a doubt—</l>
+            <l>Did Tyrant STUARTS now the Laws dispense</l>
+            <l>(Blest be the hour and hand which sent them hence)</l>
+            <l>For something, or for nothing, for a Word,</l>
+            <l>Or Thought, I might be doom'd to Death, <hi>unheard.</hi>
+            </l>
+            <l>
+               <pb n="17" facs="18"/>Life we might all resign to lawless Pow'r,</l>
+            <l>Nor think it worth the purchase of an hour;</l>
+            <l>But Envy ne'er shall fix so foul a stain</l>
+            <l>On the fair annals of a BRUNSWICK's reign.</l>
+         </lg>
+         <lg>
+            <l>If, Slave to Party, to Revenge, or Pride,</l>
+            <l>If, by frail human Error drawn aside,</l>
+            <l>I break the Law, strict rigour let Her wear;</l>
+            <l>'Tis Her's to punish, and 'tis mine to bear,</l>
+            <l>Nor, by the voice of Justice doom'd to death,</l>
+            <l>Would I ask mercy with my latest breath.</l>
+            <l>But, anxious only for my Country's good,</l>
+            <l>In which my King's, of course, is understood;</l>
+            <l>Form'd on a plan with some few Patriot friends,</l>
+            <l>Whilst by just means I aim at noblest ends,</l>
+            <l>My Spirits cannot sink; tho' from the tomb</l>
+            <l>Stern JEFFRIES should be plac'd in MANSFIELD's room,</l>
+            <l>Tho' he should bring, his base designs to aid,</l>
+            <l>Some <hi>black Attorney,</hi> for his purpose made,</l>
+            <l>And shove, whilst Decency and Law retreat,</l>
+            <l>The modest NORTON from his Maiden seat,</l>
+            <l>Tho' Both, in ill Confed'rates, should agree,</l>
+            <l>In damned league, to torture Law and Me,</l>
+            <l>
+               <pb n="18" facs="19"/>Whilst GEORGE is King, I cannot fear endure;</l>
+            <l>Not to be guilty, is to be secure.</l>
+         </lg>
+         <lg>
+            <l>But when in after-times (be far remov'd</l>
+            <l>That day) our Monarch, glorious and belov'd,</l>
+            <l>Sleeps with his Fathers, should imperious Fate</l>
+            <l>In vengeance with fresh STUARTS curse our state;</l>
+            <l>Should They, o'erleaping ev'ry fence of Law,</l>
+            <l>Butcher the brave to keep tame fools in awe;</l>
+            <l>Should They, by brutal and oppressive force,</l>
+            <l>Divert sweet Justice from her even course;</l>
+            <l>Should They, of ev'ry other means bereft,</l>
+            <l>Make my right-hand a witness 'gainst my left;</l>
+            <l>Should They, abroad by Inquisitions taught,</l>
+            <l>Search out my Soul, and damn me for a thought,</l>
+            <l>Still would I keep my course, still speak, still write,</l>
+            <l>Till Death had plung'd me in the shades of Night.</l>
+         </lg>
+         <lg>
+            <l>Thou GOD of <hi>Truth,</hi> Thou great, all-searching Eye,</l>
+            <l>To whom our Thoughts, our Spirits open lie,</l>
+            <l>Grant me thy strength, and in that needful hour,</l>
+            <l>(Should it e'er come) when Law submits to Pow'r,</l>
+            <l>With firm resolves my steady bosom steel,</l>
+            <l>Bravely to suffer, tho' I deeply feel.</l>
+         </lg>
+         <lg>
+            <pb n="19" facs="20"/>
+            <l>Let Me, as hitherto, still draw my breath,</l>
+            <l>In love with life, but not in fear of death,</l>
+            <l>And, if Oppression brings me to the grave,</l>
+            <l>And marks him dead, She ne'er shall mark a slave,</l>
+            <l>Let no unworthy marks of grief be heard,</l>
+            <l>No wild laments, not one unseemly word;</l>
+            <l>Let sober triumphs wait upon my bier,</l>
+            <l>I won't forgive that Friend who drops one tear.</l>
+            <l>Whether He's ravish'd in life's early morn,</l>
+            <l>Or, in old age, drops like an ear of corn,</l>
+            <l>Full ripe He falls, on Nature's noblest plan,</l>
+            <l>Who lives to Reason, and who dies a Man.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Duke upon duke: an excellent new play-house ballad. Set to musick by Mr. Holdecombe.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023024.000</idno>
+            <idno type="docno">CW3313448874</idno>
+            <idno type="ecll">0590300900</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Duke upon duke: an excellent new play-house ballad. Set to musick by Mr. Holdecombe.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>[2],4p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for A. Moor, and sold by the booksellers,</publisher>
+                  <date>1723.</date>
+                  <idno type="TCP">K023024.000</idno>
+                  <idno type="docno">CW3313448874</idno>
+                  <idno type="ecll">0590300900</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A "good part" of this ballad is ascribed to Pope by Spence on Pope's authority.</note>
+                  <note>Typeset music at head of p. 1.</note>
+                  <note>A satire on the quarrel between Nicholas Lechmere and Sir John Guise.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, D507</note>
+                  <note>English Short Title Catalog, ESTCT5536.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>
+               <hi>DUKE</hi> upon <hi>DUKE,</hi> An Excellent New <hi>PLAY-HOUSE</hi> BALLAD.</p>
+            <p>Set to <hi>Musick</hi> by Mr. <hi>HOLDECOMBE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A. MOOR</hi> near St. <hi>Paul</hi>'s Church, and Sold by the Booksellers. 1723. (Price Three Pence.)</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>
+            <hi>DUKE</hi> upon <hi>DUKE,</hi> &amp;c.</head>
+         <p>
+            <gap rend="content:〈♫〉">
+               <desc>music</desc>
+            </gap>TO Lordings Proud I tune my SONG Who feast in Bow'r or Hall; <gap rend="content:〈♫〉">
+               <desc>music</desc>
+            </gap> 
+            <gap rend="content:〈♫〉">
+               <desc>music</desc>
+            </gap>Tho' Dukes they be, Yet Dukes shall see, that Pride will have a<gap rend="content:〈♫〉">
+               <desc>music</desc>
+            </gap> 
+            <gap rend="content:〈♫〉">
+               <desc>music</desc>
+            </gap>Fall, that Pride will have a Fall. <gap rend="content:〈♫〉">
+               <desc>music</desc>
+            </gap> 
+            <gap rend="content:〈♫〉">
+               <desc>music</desc>
+            </gap>
+            <gap rend="content:〈♫〉">
+               <desc>music</desc>
+            </gap>
+         </p>
+         <lg>
+            <head>I.</head>
+            <l>TO Lordings Proud I tune my Song,</l>
+            <l>Who Feast in Bow'r or Hall;</l>
+            <l>Tho' Dukes they be, yet Dukes shall see</l>
+            <l>
+               <hi>That Pride will have a fall.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>II.</head>
+            <l>Now that this same it is Right Sooth,</l>
+            <l>Full plainly doth appear;</l>
+            <l>From what befel <hi>JOHN</hi> DUKE OF <hi>GUISE,</hi>
+            </l>
+            <l>And <hi>NIC of</hi> LANCASTERE.</l>
+         </lg>
+         <lg>
+            <pb n="2" facs="3"/>
+            <head>III.</head>
+            <l>When <hi>Richard Coeur de Lyon</hi> Reign'd,</l>
+            <l>(which means a <hi>Lyon's Heart</hi>)</l>
+            <l>Like him his Barons rag'd and roar'd,</l>
+            <l>Each play'd a Lyon's Part.</l>
+         </lg>
+         <lg>
+            <head>IV.</head>
+            <l>A Word and Blow was then enough,</l>
+            <l>Such Honour did them Prick,</l>
+            <l>If you but turn'd your Cheek, a Cuff,</l>
+            <l>And if your A<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>e, a Kick.</l>
+         </lg>
+         <lg>
+            <head>V.</head>
+            <l>Look in their Face, they tweak'd your Nose,</l>
+            <l>At every turn fell to't;</l>
+            <l>Come near, they trode upon your Toes;</l>
+            <l>They fought from Head to Foot.</l>
+         </lg>
+         <lg>
+            <head>VI.</head>
+            <l>Of these the <hi>Duke</hi> of <hi>Lancastere</hi>
+            </l>
+            <l>Stood Paramount in Pride;</l>
+            <l>He kick'd and cuff'd, and tweak'd and trode</l>
+            <l>His Foes and <hi>Friends</hi> beside.</l>
+         </lg>
+         <lg>
+            <head>VII.</head>
+            <l>Firm on his Front his Beaver sate,</l>
+            <l>So broad it hid his Chin;</l>
+            <l>For why, he thought no Man his Mate,</l>
+            <l>And fear'd to Tan his Skin.</l>
+         </lg>
+         <lg>
+            <head>VIII.</head>
+            <l>With <hi>Spanish</hi> Wool he dy'd his Cheek,</l>
+            <l>With Essence oyl'd his Hair;</l>
+            <l>No vixen Civet Cat more Sweet,</l>
+            <l>Nor more could Scratch and Tear.</l>
+         </lg>
+         <lg>
+            <head>IX.</head>
+            <l>
+               <hi>Right Tall</hi> he made himself to show,</l>
+            <l>Tho' made <hi>full short</hi> by G<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>d;</l>
+            <l>And when <hi>all other</hi> Dukes did <hi>Bow,</hi>
+            </l>
+            <l>
+               <hi>This Duke</hi> did only <hi>Nod.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>X.</head>
+            <l>Yet Courteous, Blith and Debonaire,</l>
+            <l>To <hi>GUISE's</hi> DUKE was he;</l>
+            <l>Never was such a Loving Pair,</l>
+            <l>Why did they disagree?</l>
+         </lg>
+         <lg>
+            <head>XI.</head>
+            <l>Oh! thus it was, he lov'd him dear,</l>
+            <l>And cast how to requite him;</l>
+            <l>And having no Friend left but This,</l>
+            <l>He deem'd it meet to <hi>fight him.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XII.</head>
+            <l>Forthwith he drench'd his desperate Quill,</l>
+            <l>And thus he did Indite,</l>
+            <l>
+               <hi>This Eve at Wisk</hi> OUR SELF <hi>will Play,</hi>
+            </l>
+            <l>
+               <hi>Sir</hi> Duke, <hi>Be here to Night.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XIII.</head>
+            <l>
+               <hi>Ah no! ah no!</hi> the Guileless <hi>GUISE,</hi>
+            </l>
+            <l>Demurely did reply;</l>
+            <l>
+               <hi>I cannot Go, nor yet can Stand,</hi>
+            </l>
+            <l>
+               <hi>So sore the Gout have I.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XIV.</head>
+            <l>The DUKE in Wrath call'd for his Steeds,</l>
+            <l>And fiercely drove them on;</l>
+            <l>Lord! Lord! how rattled then thy Stones,</l>
+            <l>O <hi>Kingly Kensington!</hi>
+            </l>
+         </lg>
+         <lg>
+            <pb n="3" facs="4"/>
+            <head>XV.</head>
+            <l>All in a Trice on <hi>GUISE</hi> he rush'd,</l>
+            <l>Thrust out his Lady Dear;</l>
+            <l>He tweak'd his Nose, trod on his Toes,</l>
+            <l>And smote him on the Ear.</l>
+         </lg>
+         <lg>
+            <head>XVI.</head>
+            <l>But mark! how midst of Victory</l>
+            <l>Fate shews an <hi>Old Dog-Trick;</hi>
+            </l>
+            <l>Up leap'd DUKE <hi>JOHN</hi> and knock'd him down,</l>
+            <l>And so down fell DUKE <hi>NIC.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XVII.</head>
+            <l>Alass, Oh <hi>NIC!</hi> Oh <hi>NIC,</hi> alass!</l>
+            <l>Right did thy Gossip call thee,</l>
+            <l>As who should say, <hi>Alass the Day</hi>
+            </l>
+            <l>
+               <hi>When JOHN</hi> of <hi>GUISE shall maul thee.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XVIII.</head>
+            <l>For on thee did he clap his Chair,</l>
+            <l>And on that Chair did sit?</l>
+            <l>And look'd as if he meant therein</l>
+            <l>To do <hi>what was not fit.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XIX.</head>
+            <l>Up didst thou look, Oh woful DUKE,</l>
+            <l>Thy Mouth yet durst not ope,</l>
+            <l>
+               <hi>Certes,</hi> for Fear of finding there</l>
+            <l>A T<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>d instead of Trope.</l>
+         </lg>
+         <lg>
+            <head>XX.</head>
+            <l>" <hi>Lye there thou Caitiff vile, quoth GUISE,</hi>
+            </l>
+            <l>" <hi>No</hi> Sheet <hi>is here to save thee,</hi>
+            </l>
+            <l>" <hi>The Casememt it is shut likewise,</hi>
+            </l>
+            <l>" <hi>Beneath my Feet I have thee.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XXI.</head>
+            <l>" <hi>If thou hast ought to say, now speak,</hi>
+            </l>
+            <l>Then <hi>Lancaster</hi> did cry,</l>
+            <l>" Knowest thou not ME, not yet thy self,</l>
+            <l>" Who Thou, and WHO AM I?</l>
+         </lg>
+         <lg>
+            <head>XXII.</head>
+            <l>" Know'st Thou not ME, who God be prais'd,</l>
+            <l>" have bawl'd and quarell'd more</l>
+            <l>" Than all the Line of <hi>Lancaster</hi>
+            </l>
+            <l>" That battled heretofore?</l>
+         </lg>
+         <lg>
+            <head>XXIII.</head>
+            <l>" In Senates fam'd for many a Speech,</l>
+            <l>" And what some Awe must give Ye,</l>
+            <l>" Tho' laid thus low beneath thy Breech,</l>
+            <l>" Still of the Council Privy.</l>
+         </lg>
+         <lg>
+            <head>XXIV.</head>
+            <l>" Still of the Dutchy Chancellor,</l>
+            <l>" <hi>Durante</hi> Life I have it,</l>
+            <l>" And turn (as now thou dost on me)</l>
+            <l>" My A<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>e on those that gave it.</l>
+         </lg>
+         <lg>
+            <head>XXV.</head>
+            <l>But now the Servants they rush'd in,</l>
+            <l>And DUKE <hi>NIC</hi> up leap'd He,</l>
+            <l>
+               <hi>I will not cope against such Odds,</hi>
+            </l>
+            <l>But <hi>GUISE, I'll fight with Thee.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XXVI.</head>
+            <l>
+               <hi>To Morrow with Thee will I fight</hi>
+            </l>
+            <l>
+               <hi>Under the Greenwood Tree;</hi>
+            </l>
+            <l>No, not to Morrow, but to Night,</l>
+            <l>
+               <hi>Quoth GUISE,</hi> I'll fight with Thee.</l>
+         </lg>
+         <lg>
+            <pb n="4" facs="5"/>
+            <head>XXVII.</head>
+            <l>And now the Sun declining low,</l>
+            <l>Bestreak'd with Blood the Skies,</l>
+            <l>When with his Sword at Saddle Bow</l>
+            <l>Rode forth the Valiant <hi>GUISE.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XXVIII.</head>
+            <l>Full gently praunc'd he on the Lawn,</l>
+            <l>Oft rowl'd his Eye around,</l>
+            <l>And from his Sirrup stretch'd to find</l>
+            <l>
+               <hi>Who was not to be found.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XXIX.</head>
+            <l>Long brandish'd he his Blade in Air,</l>
+            <l>Long look'd the Field all o're,</l>
+            <l>At length he spy'd the merry Men brown,</l>
+            <l>And eke the Coach and Four.</l>
+         </lg>
+         <lg>
+            <head>XXX.</head>
+            <l>From out the Boot bold <hi>NICHOLAS</hi>
+            </l>
+            <l>Did wave his Hand so white,</l>
+            <l>As pointing out the gloomy Glade</l>
+            <l>Whereat he meant to fight.</l>
+         </lg>
+         <lg>
+            <head>XXXI.</head>
+            <l>All in that dreadful Hour so calm</l>
+            <l>Was <hi>Lancaster</hi> to see,</l>
+            <l>As if he meant to take the Air,</l>
+            <l>Or only take a Fee.</l>
+         </lg>
+         <lg>
+            <head>XXXII.</head>
+            <l>And so he did, for to <hi>New Court</hi>
+            </l>
+            <l>His trowling Wheels they run;</l>
+            <l>Not that he shunn'd the doubtful Strife,</l>
+            <l>
+               <hi>But Business must be done.</hi>
+            </l>
+         </lg>
+         <lg>
+            <head>XXXIII.</head>
+            <l>Back in the dark, by <hi>Brompton</hi> Park,</l>
+            <l>He turn'd up thro' the Gore,</l>
+            <l>So slunk to <hi>Campden</hi> House so high,</l>
+            <l>All in his Coach and four.</l>
+         </lg>
+         <lg>
+            <head>XXXIV.</head>
+            <l>Mean while the <hi>GUISE</hi> did fret and fume,</l>
+            <l>A Sight it was to see,</l>
+            <l>Benumm'd beneath the Evening Dew,</l>
+            <l>Under the Greenwood Tree.</l>
+         </lg>
+         <lg>
+            <head>XXXV.</head>
+            <l>Then wet and weary home he far'd,</l>
+            <l>Sore mutt'ring all the Way,</l>
+            <l>
+               <hi>The Day I meet NIC</hi> he shall rue</l>
+            <l>The Cudgel of that Day.</l>
+         </lg>
+         <lg>
+            <head>XXXVI.</head>
+            <l>Mean time on every pissing Post</l>
+            <l>Paste me this Recreant's Name,</l>
+            <l>So that each Pisser-by shall read,</l>
+            <l>And piss against the same.</l>
+         </lg>
+         <lg>
+            <head>XXXVII.</head>
+            <l>Now God preserve our GRACIOUS KING,</l>
+            <l>And grant his Nobles all</l>
+            <l>May learn this Lesson from <hi>Duke Nic,</hi>
+            </l>
+            <l>That <gap resp="#oxf" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>Pride will have a Fall.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

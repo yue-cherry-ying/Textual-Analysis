@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true account of a horrid and barbarous revenge by poison: on the body of Mr. Edmund Curll, bookseller; with a faithful copy of his last will and testament. Publish'd by an eye witness.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023137.000</idno>
+            <idno type="docno">CW3303357028</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true account of a horrid and barbarous revenge by poison: on the body of Mr. Edmund Curll, bookseller; with a faithful copy of his last will and testament. Publish'd by an eye witness.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>6p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London] :</pubPlace>
+                  <publisher>Sold by J. Roberts, J. Morphew, R. Burleigh, J. Baker, and S. Popping,</publisher>
+                  <date>[1716]</date>
+                  <idno type="TCP">K023137.000</idno>
+                  <idno type="docno">CW3303357028</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An eye witness = Alexander Pope.</note>
+                  <note>Horizontal chain lines.</note>
+                  <note>See also: 'A further account of the most deplorable condition of Mr. Edmund Curll'.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Griffith, 52</note>
+                  <note>English Short Title Catalog, ESTCT5674.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>A FULL and TRUE
+ACCOUNT
+OF A
+Horrid and Barbarous
+REVENGE by POISON, On the Body of
+Mr. <hi>EDMUND CURLL,</hi> Bookseller; With a faithful Copy of his
+Last WILL and TESTAMENT.</p>
+            <p>Publish'd by an Eye Witness.</p>
+            <lg>
+               <l>So when <hi>Curll</hi>'s Stomach the strong Drench o'ercame,</l>
+               <l>(Infus'd in Vengeance of insulted Fame)</l>
+               <l>Th' Avenger sees, with a delighted Eye,</l>
+               <l>His long Jaws open, and his Colour fly;</l>
+               <l>And while his Guts the keen Emeticks urge,</l>
+               <l>Smiles on the Vomit, and enjoys the Purge.</l>
+            </lg>
+            <p>Sold by <hi>J. Roberts, J. Morphew, R. Burleigh, J. Baker,</hi> and <hi>S. Pop<lb rend="hidden" type="hyphenInWord"/>ping.</hi>
+Price Three Pence.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="2" facs="2"/>
+         <head>A Full and True
+ACCOUNT
+Of a Horrid and Barbarous
+REVENGE by POISON, On the Body of Mr. <hi>Edm. Curll,</hi> &amp;c.</head>
+         <p>HISTORY furnishes us with Examples of many Satyrical
+Authors who have fallen Sacrifices to Revenge, but not
+of any Booksellers that I know of, except the unfortunate
+Subject of the following Papers; I mean Mr. <hi>Edmund
+Curll,</hi> at the <hi>Bible</hi> and <hi>Dial</hi> in <hi>Fleetstreet,</hi> who was Yesterday
+poison'd by Mr. <hi>Pope,</hi> after having liv'd many Years an Instance of the
+mild Temper of the <hi>British</hi> Nation.</p>
+         <p>Every Body knows that the said Mr. <hi>Edmund Curll,</hi> on Monday the
+26th Instant, publish'd a Satyrical Piece, entituled <hi>Court Poems,</hi> in the
+Preface whereof they were attributed to a <hi>Lady of Quality,</hi> Mr. <hi>Pope,</hi>
+or Mr. <hi>Gay</hi>; by which indiscreet Method, though he had escaped one
+Revenge, there were still two behind in reserve.</p>
+         <p>Now on the Wednesday ensuing, between the Hours of 10 and 11,
+Mr. <hi>Lintott,</hi> a neighb'ring Bookseller, desir'd a Conference with Mr.
+<hi>Curll</hi> about settling the <hi>Title Page</hi> of <hi>Wiquefort</hi>'s <hi>Ambassador,</hi> inviting him
+at the same Time to take a Whet together. Mr. <hi>Pope,</hi> (who is not
+the only Instance how Persons of bright Parts may be carry'd away
+by the Instigations of the Devil) found Means to convey himself into
+the same Room, under pretence of Business with Mr. <hi>Lintott,</hi> who it
+<pb n="3" facs="3"/>
+seems is the Printer of his <hi>Homer.</hi> This Gentleman with a seeming
+Coolness, reprimanded Mr. <hi>Curll</hi> for wrongfully ascribing to him the a<lb rend="hidden" type="hyphenInWord"/>foresaid
+Poems: He excused himself, by declaring that one of his Au<lb rend="hidden" type="hyphenInWord"/>thors
+(Mr. <hi>Oldmixon</hi> by Name) gave the Copies to the Press, and
+wrote the <hi>Preface.</hi> Upon this Mr. <hi>Pope</hi> (being to all appearance re<lb rend="hidden" type="hyphenInWord"/>concil'd)
+very civilly drank a Glass of Sack to Mr. <hi>Curll,</hi> which he as
+civilly pledged; and tho' the Liquor in Colour and Taste differ'd not
+from common Sack, yet was it plain by the Pangs this unhappy Stationer
+felt soon after, that some poisonous Drug had been secretly infused
+therein.</p>
+         <p>About Eleven a Clock he went home, where his Wife observing his
+Colour chang'd, said, <hi>Are you not Sick, my Dear?</hi> He reply'd, <hi>Bloody
+Sick</hi>; and incontinently fell a vomiting and straining in an uncommon
+and unnatural Manner, the Contents of his vomiting being as Green as
+Grass. His Wife had been just reading a Book of her Husband's print<lb rend="hidden" type="hyphenInWord"/>ing,
+concerning <hi>Jane Wenham,</hi> the famous Witch of <hi>Hartford,</hi> and her
+Mind misgave her that he was bewitch'd; but he soon let her know
+that he suspected <hi>Poison,</hi> and recounted to her, between the Inter<lb rend="hidden" type="hyphenInWord"/>vals
+of his Yawnings and Reachings, every Circumstance of his In<lb rend="hidden" type="hyphenInWord"/>terview
+with Mr. <hi>Pope.</hi>
+         </p>
+         <p>Mr. <hi>Lintott</hi> in the mean Time coming in, was extremely afright<lb rend="hidden" type="hyphenInWord"/>ed
+at the sudden Alteration he observed in him: <hi>Brother</hi> Curll, says he,
+<hi>I fear you have got the vomiting Distemper, which (I have heard) kills
+in half an Hour. This comes from your not following my Advice, to
+drink old Hock as I do, and abstain from Sack.</hi> Mr. <hi>Curll</hi> reply'd, in
+a moving Tone, <hi>Your Author's Sack I fear has done my Business.
+Z<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>ds,</hi> says Mr. <hi>Lintott, My Author!—Why did not you drink
+old Hock?</hi> Notwithstanding which rough Remonstrance, he did in the
+most friendly Manner press him to take warm Water; but Mr.
+<hi>Curll</hi> did with great Obstinacy refuse it; which made Mr. <hi>Lintott</hi>
+infer, that he chose to die, as thinking to recover greater Da<lb rend="hidden" type="hyphenInWord"/>mages.</p>
+         <p>All this Time the Symptoms encreas'd violently, with acute Pains
+in the lower Belly. <hi>Brother</hi> Lintott, says he, <hi>I perceive my last Hour
+approaching, do me the friendly Office to call my Partner, Mr.</hi> Pember<lb rend="hidden" type="hyphenInWord"/>ton,
+<hi>that we may settle our Worldly Affairs.</hi> Mr. <hi>Lintott,</hi> like a kind
+Neighbour, was hastening out of the Room, while Mr. <hi>Curll</hi> rav'd
+aloud in this Manner, <hi>If I survive this, I will be revenged on</hi> Tonson<hi>,
+it was he first detected me as the Printer of these Poems, and I will re<lb rend="hidden" type="hyphenInWord"/>print
+these very Poems in his Name.</hi> His Wife admonish'd him not to
+think of Revenge, but to take care of his Stock and his Soul: And
+in the same Instant, Mr. <hi>Lintott</hi> (whose Goodness can never be e<lb rend="hidden" type="hyphenInWord"/>nough
+applauded) return'd with Mr. <hi>Pemberton.</hi> After some Tears
+jointly shed by these Humane Booksellers, Mr. <hi>Curll,</hi> being (as he
+said) in his perfect Senses though in great bodily Pain, immedi<lb rend="hidden" type="hyphenInWord"/>ately
+proceeded to make a verbal Will (Mrs. <hi>Curll</hi> having first
+put on his Night Cap) in the following Manner.</p>
+         <q>
+            <pb n="4" facs="4"/>
+            <p>GENTLEMEN, in the first Place, I do sincerely pray Forgive<lb rend="hidden" type="hyphenInWord"/>ness
+for those indirect Methods I have pursued in inventing
+new Titles to old Books, putting Authors Names to Things they ne<lb rend="hidden" type="hyphenInWord"/>ver
+saw, publishing private Quarrels for publick Entertainment;
+all which, I hope will be pardoned, as being done to get an honest
+livelihood.</p>
+            <p>I do also heartily beg Pardon of all Persons of Honour, Lords
+Spiritual and Temporal, Gentry, Burgesses, and Commonalty, to
+whose Abuse I have any, or every way, contributed by my Publicati<lb rend="hidden" type="hyphenInWord"/>ons.
+Particularly, I hope it will be considered, that if I have vilify'd
+his Grace the Duke of <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>gh,</hi> I have likewise aspers'd the late
+Duke of <hi>O<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d</hi>; if I have abused the honourable Mr. <hi>W<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>le,</hi>
+I have also libell'd the late Lord <hi>B<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>ke</hi>; so that I have pre<lb rend="hidden" type="hyphenInWord"/>serv'd
+that Equality and Impartiality which becomes an honest Man
+in Times of Faction and Division.</p>
+            <p>I call my Conscience to Witness, that many of these Things which may
+seem malicious, were done out of Charity; I having made it wholly my
+Business to print for poor disconsolate Authors, whom all other Booksellers
+refuse: Only God bless Sir <hi>Richard Bl<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>re</hi>; you know he takes no
+Copy Money.</p>
+            <p>The Book of the <hi>Conduct</hi> of the <hi>Earl of N<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>m,</hi> is yet unpublish<lb rend="hidden" type="hyphenInWord"/>ed;
+as you are to have the Profit of it, Mr. <hi>Pemberton,</hi> you are to run
+the Risque of the Resentments of all that Noble Family. Indeed I cau<lb rend="hidden" type="hyphenInWord"/>sed
+the Author to assert several Things in it as Facts, which are only
+idle Stories of the Town; because I thought it would make the Book
+sell. Do you pay the Author for Copy Money, and the Printer and
+Publisher. I heartily beg God's, and my L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>d <hi>N<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>m</hi>'s Pardon;
+but all Trades must live.</p>
+            <p>The second Collection of Poems, which I groundlesly called Mr.
+<hi>Prior</hi>'s, will sell for Nothing, and hath not yet paid the Charge of the
+Advertisements, which I was obliged to publish against him: There<lb rend="hidden" type="hyphenInWord"/>fore
+you may as well suppress the Edition, and beg that Gentleman's
+Pardon in the Name of a dying Christian.</p>
+            <p>The <hi>French Cato,</hi> with the Criticism, showing how superior it is to
+Mr. <hi>Addison</hi>'s, (which I wickedly inscribed to Madam <hi>Dacier</hi>) may be
+suppress'd at a reasonable Rate, being damnably translated.</p>
+            <p>I protest I have no Animosity to Mr. <hi>Rowe,</hi> having printed Part of his
+<hi>Callipaedia,</hi> and an incorrect Edition of his Poems without his Leave, in
+Quarto. Mr. <hi>Gildon</hi>'s <hi>Rehearsal</hi>; or <hi>Bays the Younger,</hi> did more harm to
+me than to Mr. <hi>Rowe</hi>; though upon the Faith of an honest Man, I paid
+him double for abusing both him and Mr. <hi>Pope.</hi>
+            </p>
+            <p>Heaven pardon me for publishing the <hi>Trials of Sodomy</hi> in an <hi>Elzevir</hi>
+Letter; but I humbly hope, my printing Sir <hi>Richard Bl<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>re</hi>'s Essays
+will attone for them. I beg that you will take what remains of these
+last, which is near the whole Impression, (Presents excepted) and let
+<pb n="5" facs="5"/>
+my poor Widow have in Exchange the sole Propriety of the Copy of
+Madam <hi>Mascranny.</hi>
+            </p>
+         </q>
+         <p>Here Mr. <hi>Pemberton</hi> interrupted, and would by no Means consent to this
+Article, about which some Dispute might have arisen, unbecoming a dying
+Person, if Mr. <hi>Lintott</hi> had not interposed, and Mr. <hi>Curll</hi> vomited.</p>
+         <p>What this poor unfortunate Man spoke afterwards, was so indistinct, and in
+such broken Accents, (being perpetually interrupted by Vomitings) that the
+Reader is intreated to excuse the Confusion and Imperfection of this Ac<lb rend="hidden" type="hyphenInWord"/>count.</p>
+         <q>
+            <p>Dear Mr. <hi>Pemberton,</hi> I beg you to beware of the Indictment at
+<hi>Hicks's-Hall,</hi> for publishing <hi>Rochester</hi>'s bawdy Poems; that Copy will,
+otherwise be my best Legacy to my dear Wife, and helpless Child.</p>
+         </q>
+         <p>
+            <hi>The Case of Impotence</hi> was my best Support all the last long Vacation.</p>
+         <p>In this last Paragraph Mr. <hi>Curll</hi>'s Voice grew more free, for his Vomitings
+abated upon his Dejections, and he spoke what follows from his Close-stole.</p>
+         <q>
+            <p>For the Copies of Noblemen's and Bishop's <hi>Last Wills and Testaments,</hi>
+I solemnly declare I printed them not with any Purpose of Defamation;
+but meerly as I thought those Copies lawfully purchased from <hi>Doctors
+Commons,</hi> at <hi>One Shilling</hi> a Piece. Our Trade in Wills turning to small
+Account, we may divide them blindfold.</p>
+            <p>For Mr. <hi>Manwaring</hi>'s <hi>Life,</hi> I ask Mrs. <hi>Old<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d</hi>'s Pardon: Neither
+<hi>His,</hi> nor my Lord <hi>Halifax</hi>'s Lives, though they were of great Service
+to their Country, were of any to me: But I was resolved, since I could
+not print their Works while they liv'd, to print their Lives after they
+were dead.</p>
+         </q>
+         <p>While he was speaking these Words, Mr. <hi>Oldmixon</hi> enter'd. <hi>Ah!
+Mr.</hi> Oldmixon (said poor Mr. <hi>Curll</hi>) <hi>to what a Condition have your Works
+reduced me! I die a Martyr to that unlucky Preface. However, in these my
+last Moments, I will be just to all Men; you shall have your Third Share of
+the</hi> Court Poems<hi>, as was stipulated. When I am dead, where will you find
+another Bookseller? Your</hi> Protestant Packet <hi>might have supported you, had
+you writ a little less scurrilously, There is a mean in all things.</hi>
+         </p>
+         <p>Then turning to Mr. <hi>Pemberton,</hi> he told him, he had several <hi>Taking
+Title Pages</hi> that only wanted Treatises to be wrote to them, and earnest<lb rend="hidden" type="hyphenInWord"/>ly
+entreated, that when they were writ, his Heirs might have some
+Share of the Profit of them.</p>
+         <p>After he had said this he fell into horrible Gripings, upon which Mr.
+<hi>Lintott</hi> advis'd him to repeat the Lord's Prayer. He desir'd his Wife to
+step into the Shop for a Common-Prayer-Book, and read it by the Help
+of a Candle, without Hesitation. He clos'd the Book, fetch'd a Groan,
+and recommended to Mrs. <hi>Curll</hi> to give Forty Shillings to the Poor of
+the Parish of St. <hi>Dunstan</hi>'s, and a Week's Wages Advance to each of his
+<pb n="6" facs="6"/>
+Gentlemen Authors, with some small Gratuity in particular to Mrs.
+<hi>Centlivre.</hi>
+         </p>
+         <p>The poor Man continued for some Hours with all his disconsolate
+Family about him in Tears, expecting his final Dissolution; when of
+a sudden he was surprizingly relieved by a plentiful foetid Stool, which
+obliged them all to retire out of the Room. Notwithstanding, it is
+judged by Sir <hi>Richard Bl<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                  <desc>blank</desc>
+               </gap>e,</hi> that the Poyson is still latent in his
+Body, and will infallibly destroy him by slow Degrees, in less than a
+Month. It is to be hoped the other Enemies of this wretched Statio<lb rend="hidden" type="hyphenInWord"/>ner,
+will not further pursue their Revenge, or shorten this small Peri<lb rend="hidden" type="hyphenInWord"/>od
+of his miserable Life.</p>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The late tryal and conviction of Count Tariff:</title>
+            <author>Addison, Joseph, 1672-1719.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K028766.000</idno>
+            <idno type="docno">CW3305215365</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The late tryal and conviction of Count Tariff:</title>
+                  <author>Addison, Joseph, 1672-1719.</author>
+               </titleStmt>
+               <extent>[4],17,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for A. Baldwin,</publisher>
+                  <date>1713.</date>
+                  <idno type="TCP">K028766.000</idno>
+                  <idno type="docno">CW3305215365</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Joseph Addison.</note>
+                  <note>Half-title: 'Tryal of Count Tariff.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Hanson, 1841</note>
+                  <note>Goldsmiths', 4995</note>
+                  <note>English Short Title Catalog, ESTCT17775.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>The LATE TRYAL AND CONVICTION OF Count <hi>TARIFF.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A. Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> MDCCXIII. Price Three pence.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="1" facs="2"/>
+         <head>THE LATE <hi>Tryal</hi> and <hi>Conviction</hi> OF Count <hi>TARIFF.</hi>
+         </head>
+         <p>THE whole Nation is at pre<lb rend="hidden" type="hyphenInWord"/>sent very inquisitive after the Proceedings in the Cause of Goodman <hi>Fact,</hi> Plaintiff, and Count <hi>Tariff,</hi> Defendant; as it was Tried on the 17th of <hi>June,</hi> in the Thirteenth Year of Her Majesty's Reign, and in the Year of the Lord 1713. I
+<pb n="1" facs="3"/>
+            <gap resp="#oxf" extent="1 page" rend="content:〈1 page duplicate〉">
+               <desc>duplicate</desc>
+            </gap>
+            <pb n="2" facs="4"/>
+shall therefore give my Countrymen a short and faithful Account of that whole Matter. And in order to it, must in the first Place premise some Particulars relating to the Person and Character of the said Plaintiff Good<lb rend="hidden" type="hyphenInWord"/>man <hi>Fact.</hi>
+         </p>
+         <p>Goodman <hi>Fact</hi> is allowed by eve<lb rend="hidden" type="hyphenInWord"/>ry Body to be a plain-spoken Per<lb rend="hidden" type="hyphenInWord"/>son, and a Man of very few Words. Tropes and Figures are his Aversion. He affirms every Thing roundly, without any Art, Rhetorick, or Cir<lb rend="hidden" type="hyphenInWord"/>cumlocution. He is a declared Ene<lb rend="hidden" type="hyphenInWord"/>my to all Kinds of Ceremony and Complaisance. He flatters no Body. Yet so great is his natural Eloquence, that he cuts down the finest Orator, and destroys the best-contrived Argu<lb rend="hidden" type="hyphenInWord"/>ment, as soon as ever he gets himself to be heard. He never applies to the Passions or Prejudices of his Au<lb rend="hidden" type="hyphenInWord"/>dience: When they listen with At<lb rend="hidden" type="hyphenInWord"/>tention
+<pb n="3" facs="5"/>
+and honest Minds, he never fails of carrying his Point. He ap<lb rend="hidden" type="hyphenInWord"/>pear'd in a Suit of <hi>English</hi> Broad-Cloath, very Plain, but Rich. Every thing he wore was substantial, honest, home-spun Ware. His Cane indeed came from the <hi>East-Indies,</hi> and two or three little Superfluities from <hi>Turkey,</hi> and other Parts. It is said that he encouraged himself with a Bottle of Neat <hi>Port,</hi> before he ap<lb rend="hidden" type="hyphenInWord"/>pear'd at the Tryal. He was Huz<lb rend="hidden" type="hyphenInWord"/>za'd into the Court by several Thou<lb rend="hidden" type="hyphenInWord"/>sands of <hi>Weavers, Clothiers, Fullers, Dyers, Packers, Calenders, Setters, Silk-men, Spinners, Dressers, Whit<lb rend="hidden" type="hyphenInWord"/>sters, Winders, Mercers, Throwsters, Sugar-Bakers, Distillers, Drapers, Hosiers, Planters, Merchants,</hi> and <hi>Fishermen;</hi> who all unanimously de<lb rend="hidden" type="hyphenInWord"/>clared that they cou'd not live above Two Months longer, if their Friend <hi>Fact</hi> did not gain his Cause.</p>
+         <p>
+            <pb n="4" facs="6"/>
+Every Body was over-joy'd to hear that the Good Man was come to Town. He no sooner made his Ap<lb rend="hidden" type="hyphenInWord"/>pearance in Court, but several of his Friends fell a weeping at the Sight of him: For indeed he had not been seen there some Years before.</p>
+         <p>The Charge he exhibited against Count <hi>Tariff</hi> was drawn up in the following Articles.</p>
+         <p n="1">1. That the said Count had given in false and fraudulent Reports in the Name of the Plaintiff.</p>
+         <p n="2">2. That the said Count had tam<lb rend="hidden" type="hyphenInWord"/>per'd with the said Plaintiff, and made Use of many indirect Me<lb rend="hidden" type="hyphenInWord"/>thods to bring him over to his Party.</p>
+         <p n="3">
+            <pb n="5" facs="7"/>
+3. That the said Count had wil<lb rend="hidden" type="hyphenInWord"/>fully and knowingly traduced the said Plaintiff, having misrepresented him in many cunningly-devised Speeches, as a Person in the <hi>French</hi> In<lb rend="hidden" type="hyphenInWord"/>terest.</p>
+         <p n="4">4. That the said Count had aver<lb rend="hidden" type="hyphenInWord"/>red in the Presence of above Five hundred Persons, that he had heard the Plaintiff speak in Derogation of the <hi>Portuguese, Spaniards, Italians, Hollanders,</hi> and others; who were the Persons whom the said Plaintiff had always favoured in his Dis<lb rend="hidden" type="hyphenInWord"/>course, and whom he should always continue to Favour.</p>
+         <p n="5">5. That the said Count had given a very disadvantageous Relation of Three Great Farms, which had long flourished under the Care and Su<lb rend="hidden" type="hyphenInWord"/>perintendency of the Plaintiff.</p>
+         <p n="6">
+            <pb n="6" facs="8"/>
+6. That he would have obliged the Owners of the said Farms to buy up many Commodities which grew upon their own Lands. That he would have taken away the Labour from the Tenants, and put it into the Hands of Strangers. That he wou'd have lessen'd and destroy'd the Produce of the said Farms.</p>
+         <p>That by these and many other wicked Devices he wou'd have star<lb rend="hidden" type="hyphenInWord"/>ved many honest Day-Labourers; have impoverish'd the Owner, and have fill'd his Farms with Beggars, &amp;c.</p>
+         <p n="7">7. That the said Count had either Sunk or Mislaid several Books, Pa<lb rend="hidden" type="hyphenInWord"/>pers, and Receipts, by which the Plaintiff might sooner have found Means to vindicate himself from
+<pb n="7" facs="9"/>
+such Calumnies, Aspersions, and Mis<lb rend="hidden" type="hyphenInWord"/>representations.</p>
+         <p>In all these Particulars Goodman <hi>Fact</hi> was very Short but Pithy: For as I said before, he was a plain home-spun Man. His Yea was Yea, and his Nay, Nay. He had further so much of the Quaker in him, that he never swore, but his Affirmation was as Valid as another's Oath.</p>
+         <p>It was observed that Count <hi>Ta<lb rend="hidden" type="hyphenInWord"/>riff</hi> endeavour'd to brow-beat the Plaintiff all the while he was speak<lb rend="hidden" type="hyphenInWord"/>ing: But though he was not so Im<lb rend="hidden" type="hyphenInWord"/>pudent as the Count, he was every whit as Sturdy; and when it came to the Count's Turn to speak, Old <hi>Fact</hi> so stared him in the Face, after his plain, down-right Way, that the Count was very often struck Dumb,
+<pb n="8" facs="10"/>
+and forced to hold his Tongue, in the middle of his Discourse.</p>
+         <p>More Witnesses appeared on this Occasion to attest Goodman <hi>Fact</hi>'s Veracity than ever were seen in a Court of Justice. His Cause was pleaded by the Ablest Men in the Kingdom; among whom was a Gen<lb rend="hidden" type="hyphenInWord"/>tleman of <hi>Suffolk</hi> who did him Signal Service.</p>
+         <p>Count <hi>Tariff</hi> appeared just the Reverse of Goodman <hi>Fact.</hi> He was dress'd in a Fine Brocade Wastcoat, curiously Embroider'd with Flower-de-Luces. He wore also a broad-brimm'd Hat, a Shoul<lb rend="hidden" type="hyphenInWord"/>der-Knot, and a Pair of Silver<lb rend="hidden" type="hyphenInWord"/>clock'd Stockins. His Speeches were accompanied with much Ge<lb rend="hidden" type="hyphenInWord"/>sture and Grimace. He abounded in empty Phrases, superficial Flou<lb rend="hidden" type="hyphenInWord"/>rishes,
+<pb n="9" facs="11"/>
+violent Assertions, and fee<lb rend="hidden" type="hyphenInWord"/>ble Proofs. To be brief, he had all the <hi>French</hi> Assurance, Cun<lb rend="hidden" type="hyphenInWord"/>ning, and Volubility of Tongue; and wou'd most certainly have carried his Cause, had he dealt with any one Antagonist in the World besides Goodman <hi>Fact.</hi>
+         </p>
+         <p>The Count being call'd upon to Answer to the Charge which had been made against him, did it after a Manner peculiar to the Family of the <hi>Tariffs,</hi> viz. by Railing and calling Names.</p>
+         <p>He in the First Place accused his Adversary of <hi>Scandalum magnatum,</hi> and of speaking against his Superi<lb rend="hidden" type="hyphenInWord"/>ors with Sauciness and Contempt. As the Plain Good Man was not of a Make to have any Friends at Court, he was a little startled at this Accu<lb rend="hidden" type="hyphenInWord"/>sation, till at length he made it ap<lb rend="hidden" type="hyphenInWord"/>pear,
+<pb n="10" facs="12"/>
+that it was impossible for any of his Family to be either Saucy or Cringing; for that their Character was above all others in the World, to do what was required of them by the Court, that is, TO SPEAK THE TRUTH AND NOTHING BUT THE TRUTH.</p>
+         <p>The Count in the next Place assu<lb rend="hidden" type="hyphenInWord"/>red the Court, that his Antagonist has taken upon him a wrong Name, ha<lb rend="hidden" type="hyphenInWord"/>ving curtail'd it of Two or Three Letters; for that in Reality his Name was not FACT but FACTION. The Count was so pleased with this Con<lb rend="hidden" type="hyphenInWord"/>ceit, that for an Hour together he re<lb rend="hidden" type="hyphenInWord"/>peated it in every Sentence; calling his Antagonist's Assertions, the Re<lb rend="hidden" type="hyphenInWord"/>ports of Faction; his Friends, the Sons of Faction; the Testimonies of his Witnesses, the Dictates of Faction: Nay, with such a Degree of Impu<lb rend="hidden" type="hyphenInWord"/>dence did he push this Matter, that
+<pb n="11" facs="13"/>
+when he heard the Cries of above a Million of People begging for their Bread, He termed the Prayers and Importunities of such a starving Mul<lb rend="hidden" type="hyphenInWord"/>titude the CLAMOURS OF FACTION.</p>
+         <p>As soon as the Count was driven out of this Device, he affirmed round<lb rend="hidden" type="hyphenInWord"/>ly in the Court that FACT was not an <hi>Englishman</hi> by Birth, but that he was of <hi>Dutch</hi> Extraction, and born in <hi>Holland.</hi> In consequence of this Assertion he began to rally the poor Plaintiff, under the Title of MYN HEER VAN FACT; which took pret<lb rend="hidden" type="hyphenInWord"/>ty well with the Simpletons of his Party, but the Men of Sense did not think the Jest worth all their Lands and Tenements.</p>
+         <p>When the Count had finished his Speech, he desired leave to call in his Witnesses, which was granted: When
+<pb n="12" facs="14"/>
+immediately there came to the Bar a Man with a Hat drawn over his Eyes in such a manner that it was impossi<lb rend="hidden" type="hyphenInWord"/>ble to see his Face. He spoke in the Spirit, nay in the very Language of the Count, repeated his Arguments, and confirmed his Assertions. Being ask'd his Name? He said the World called him MERCATOR: But as for his true Name, his Age, his Lineage, his Religion, his Place of Abode, they were Particulars, which for cer<lb rend="hidden" type="hyphenInWord"/>tain Reasons he was obliged to con<lb rend="hidden" type="hyphenInWord"/>ceal. The Court found him such a False, Shuffling, Prevaricating Ras<lb rend="hidden" type="hyphenInWord"/>cal, that they set him aside as a Person unqualify'd to give his Te<lb rend="hidden" type="hyphenInWord"/>stimony in a Court of Justice; advi<lb rend="hidden" type="hyphenInWord"/>sing him at the same time, as he tender'd his Ears, to forbear utter<lb rend="hidden" type="hyphenInWord"/>ing such notorious Falshoods as he had then Published. The Witness however persisted in his Contumacy, telling them he was very sorry to
+<pb n="13" facs="15"/>
+find, that notwithstanding what he had said, they were resolved to be as arrant Fools as all their Forefathers had been for a Hundred Years be<lb rend="hidden" type="hyphenInWord"/>fore them.</p>
+         <p>There came up another Witness, who spoke much to the Reputation of Count <hi>Tariff.</hi> This was a Tall, Black, Blustering Person, dressed in a <hi>Spanish</hi> Habit, with a Plume of Feathers on his Head, a <hi>Golillio</hi> about his Neck, and a long <hi>Toledo</hi> sticking out by his Side: His Gar<lb rend="hidden" type="hyphenInWord"/>ments were so cover'd with Tinsel and Spangles, that at a distance he seem'd to be made up of Silver and Gold. He call'd himself DON ASSIENTO, and mentioned seve<lb rend="hidden" type="hyphenInWord"/>ral Nations that had sought his Friendship; but declared that he had been gained over by the Count; and that he was come into these Parts
+<pb n="14" facs="16"/>
+to enrich every one that heard him. The Court was at first very well pleased with his Figure, and the Promises he made them; but upon Examination found him a True <hi>Spa<lb rend="hidden" type="hyphenInWord"/>niard:</hi> Nothing but Show and Beg<lb rend="hidden" type="hyphenInWord"/>gary. For it was fully proved, that notwithstanding the Boasts and Ap<lb rend="hidden" type="hyphenInWord"/>pearance which he made, he was not worth a Groat: Nay, that upon cast<lb rend="hidden" type="hyphenInWord"/>ing up his Annual Expences, with the Debts and Incumbrances which lay upon his Estate, he was worse than Nothing.</p>
+         <p>There appear'd another Witness in favour of the Count, who spoke with so much Violence and Warmth, that the Court begun to listen to him ve<lb rend="hidden" type="hyphenInWord"/>ry attentively; till upon hearing his Name they found he was a notorious Knight of the Post, being kept in Pay, to give his Testimony on all
+<pb n="15" facs="17"/>
+Occasions where it was wanted. This was the EXAMINER; A Person who had abused almost every Man in <hi>England,</hi> that deserved well of his Country. He called Goodman <hi>Fact</hi> a Lyar, a Seditious Person, a Tray<lb rend="hidden" type="hyphenInWord"/>tor, and a Rebel; and indeed so much incens'd the Honest Man, that he would certainly have knock'd him down if he could have come at him. It was allowed by every Body, that so foul-mouth'd a Witness never ap<lb rend="hidden" type="hyphenInWord"/>peared in any Cause. Seeing several Persons of great Eminence, who had maintained the Cause of Goodman <hi>Fact,</hi> he called them Ideots, Block<lb rend="hidden" type="hyphenInWord"/>heads, Villains, Knaves, Infidels, Atheists, Apostates, Fiends, and De<lb rend="hidden" type="hyphenInWord"/>vils: Never did Man show so much Eloquence in Ribaldry. The Court was at length so justly provok'd with this Fellow's Behaviour, who spared no Age, nor Sex, nor Profession, which had shown any Friendship or
+<pb n="16" facs="18"/>
+Inclination for the Plaintiff, that se<lb rend="hidden" type="hyphenInWord"/>veral began to Whisper to one a<lb rend="hidden" type="hyphenInWord"/>nother, it was high time to bring him to Punishment. But the Wit<lb rend="hidden" type="hyphenInWord"/>ness over-hearing the Word <hi>Pillory</hi> repeated twice or thrice, slunk away privately, and hid himself among the People.</p>
+         <p>After a full Hearing on both Sides, Count <hi>Tariff</hi> was Cast, and Goodman <hi>Fact</hi> got his Cause; but the Court sitting late, did not think it fit at that time to give him Costs, or indeed, to enter into that Mat<lb rend="hidden" type="hyphenInWord"/>ter. The Honest Man immediate<lb rend="hidden" type="hyphenInWord"/>ly retired, after having assured his Friends, That at any time when the Count shou'd appear on the like Occasion, he would undertake their Defence, and come to their Assi<lb rend="hidden" type="hyphenInWord"/>stance, if they would be at the Pains to find him out.</p>
+         <p>
+            <pb n="17" facs="19"/>
+It is incredible, how general a Joy Goodman <hi>Fact</hi>'s Success crea<lb rend="hidden" type="hyphenInWord"/>ted in the City of <hi>London;</hi> there was nothing to be seen or heard the next Day, but shaking of Hands, Congratulations, Reflections on the Danger they had escap'd; and Gra<lb rend="hidden" type="hyphenInWord"/>titude to those who had delivered them from it.</p>
+         <p>The Night concluded with Balls, Bonfires, Ringing of Bells, and the like Publick Demonstrations of Joy.</p>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,914 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A clue to the comedy of the Non-juror: With some hints of consequence relating to that play. In a letter to N. Rowe, Esq; ...</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023017.000</idno>
+            <idno type="docno">CW3313180836</idno>
+            <idno type="ecll">0537100200</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A clue to the comedy of the Non-juror: With some hints of consequence relating to that play. In a letter to N. Rowe, Esq; ...</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>25,[3]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for E. Curll,</publisher>
+                  <date>1718.</date>
+                  <idno type="TCP">K023017.000</idno>
+                  <idno type="docno">CW3313180836</idno>
+                  <idno type="ecll">0537100200</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Alexander Pope.</note>
+                  <note>'A letter to Mr. Rowe .. ' - With a final leaf of advertisements.</note>
+                  <note>Catchword p.17: the; p.8, line 6 from bottom: "in the Hind and Panther".</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Griffith, Add.90a</note>
+                  <note>English Short Title Catalog, ESTCT5525.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>A
+LETTER
+TO
+Mr. <hi>ROWE</hi>
+Concerning the
+NON-JUROR.</p>
+            <p>(Price Six-pence.)</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>A
+CLUE
+To the COMEDY of the
+Non-Juror.</p>
+            <p>WITH SOME
+Hints of Consequence
+Relating to that
+PLAY.</p>
+            <p>IN A
+LETTER
+TO
+<hi>N. ROWE,</hi> 
+               <abbr>Esq</abbr>
+Poet Laureat to His Majesty.</p>
+            <q>
+               <l>Quo Musa tendis? desine pervicax</l>
+               <l>Referre Sermones Deorum—</l>
+               <bibl>Hor.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi>
+Printed for <hi>E. Curll,</hi> in <hi>Fleet-street.</hi> 1718.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="5" facs="3"/>
+            <head>A CLUE to the
+COMEDY
+OF THE
+NON-JUROR,
+With some Hints of Consequence
+relating to that PLAY.</head>
+            <opener>
+               <salute>Dear Mr. <hi>Rowe,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Entirely agree with
+you, That there has
+not of late appear'd
+in Publick, a more
+<hi>exquisite Piece of Sa<lb rend="hidden" type="hyphenInWord"/>tire,</hi>
+than the Come<lb rend="hidden" type="hyphenInWord"/>dy
+call'd the <hi>Non-juror;</hi>
+or that better deserv'd the
+<pb n="6" facs="4"/>
+Distinction that was shown it, not
+only by your Self, as His Majesty's
+Laureat, but by all the Loyal Party in
+general. I also agree with you, that
+perhaps there never was a Piece of fine
+<hi>Drama-Theological Satire,</hi> the true Scope
+of which has been less understood. I
+am at a Loss which to admire most,
+the noble, free Spirit of our Friend the
+Author; the insensibility of those whom
+the Satire is <hi>really Aim'd at,</hi> or the igno<lb rend="hidden" type="hyphenInWord"/>rant
+Rage of those <hi>dissaffected Jacobite
+Wretches</hi> who cry out when they are not
+hurt. You were pleas'd to desire me,
+when we met last, to put upon Paper
+the few Hints I dropt to you in Con<lb rend="hidden" type="hyphenInWord"/>versation
+upon this Subject, and which,
+I doubt not, are sufficient to make any
+unprejudic'd Rēader of your and my
+Opinion; namely,</p>
+            <p>That Dissaffection to the Govern<lb rend="hidden" type="hyphenInWord"/>ment
+is the smallest Immorality which
+is pointed at by this Play; and which
+indeed is only introduced to hide a far
+<hi>deeper Design,</hi> and far <hi>more useful Satire.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="5"/>
+In order to set this in it's true Light,
+I will but barely <hi>point</hi> at the several Fi<lb rend="hidden" type="hyphenInWord"/>gures
+of the Comedy, and make some
+short Remarks upon their Attitudes,
+without the Ill-manners of naming any
+particular Person, but leaving the free
+and impartial Reader to draw his own
+Inferences. Two general Observations
+only, are necessary to be premised, be<lb rend="hidden" type="hyphenInWord"/>cause
+every common Judge is not so
+sensible of them, as we who have been
+Writers all our Lives.</p>
+            <p>The <hi>First</hi> is, That when we <hi>Rebuke
+our Superiours,</hi> the Fable ought to be so
+coucn'd, as to make the Criminal give
+Judgment against himself before he is
+aware: (an Art as ancient at least as the
+Days of <hi>Nathan)</hi> But if the Scene of
+Action be laid in a Subject not only
+quite <hi>foreign,</hi> but seemingly <hi>opposite</hi> to
+the principal Aim of the Satire, the
+Address will be still the more refined;
+because by this Method the Author in<lb rend="hidden" type="hyphenInWord"/>troduceth
+<hi>Facts</hi> and <hi>Personages</hi> which the
+guilty will be sure to Condemn; not
+only from <hi>natural Equity,</hi> but <hi>natural
+<pb n="8" facs="6"/>
+Aversion.</hi> Thus, for Example, To en<lb rend="hidden" type="hyphenInWord"/>gage
+a <hi>Tory</hi> to condemn a Piece of Ini<lb rend="hidden" type="hyphenInWord"/>quity
+in the Abstract, one need only lay
+the Scene among <hi>Whigs,</hi> and so on the
+contrary. And <hi>Secondly,</hi> I would put
+the Reader in mind that in Fables of
+this Nature, it is usual to represent <hi>whole
+Parties of Men by single Personages.</hi>
+            </p>
+            <p>This premised, let us observe the
+principal Figure thar presents it self to
+our View; I mean Dr. <hi>Wolf;</hi> whose
+Character answers to <hi>Moliere</hi>'s <hi>Tartuffe,</hi>
+who is known to have represented a
+<hi>certain puritanical Bishop in France.</hi>
+            </p>
+            <p>We next are to take Notice, That
+<hi>Wolf</hi> in the Stile of <hi>Ecclesiastical Allegory</hi>
+constantly signifies the <hi>Presbyterian Party:</hi>
+You know it is thus in the <hi>Hind</hi> and
+<hi>Panther,</hi> and most other Pieces of Con<lb rend="hidden" type="hyphenInWord"/>troversial
+Divinity or Poetry. So Dr.
+<hi>Wolf</hi> is a <hi>Presbyterian.</hi>
+            </p>
+            <p>
+               <hi>Dr.</hi> Wolf <hi>expects for his Services in</hi>
+Betraying the Church, <hi>great</hi> Ecclesiasti<lb rend="hidden" type="hyphenInWord"/>cal
+<pb n="9" facs="7"/>
+Preferment, <hi>(as Sir</hi> John <hi>ex<lb rend="hidden" type="hyphenInWord"/>presseth
+it)</hi>
+               <note n="1" place="marg">Nonju<lb rend="hidden" type="hyphenInWord"/>ror, pag. 18.</note> an Office for Life,
+which, on whatsoever Pretence of
+Misbehaviour, no Civil Government
+can deprive him of. <hi>This is Ironi<lb rend="hidden" type="hyphenInWord"/>cally
+represented afterwards by the</hi>
+See of Thetford. <hi>So, in short,
+Dr.</hi> Wolf <hi>is a Bishop.</hi>
+            </p>
+            <p>This <hi>Presbyterian</hi> Bishop has
+wrote something about the <hi>Case of
+Schism;</hi> and the <hi>Colonel</hi> tells his
+Father, <hi>That he</hi>
+               <note n="2" place="marg">pag. 3.</note> 
+               <hi>has read enough
+of him in the</hi> Daily Courant.
+What Bishop has publish'd in the
+<hi>Daily Courant,</hi> is <hi>lippis et tonsoribus
+notum.</hi>
+            </p>
+            <p>This Bishop protests great Zeal
+for the <hi>Church,</hi> at the same Time
+that he is betraying it: On which
+the <hi>Colonel</hi> tells Sir <hi>John, Tho'</hi>
+               <note n="3" place="marg">pag. 3.</note>
+               <hi>I have always honour'd your Concern
+<pb n="10" facs="8"/>
+for the Church, I little thought it
+was for a Church that is Establish'd
+no where.</hi> (i. e.) <hi>No visible Church.</hi>
+            </p>
+            <p>This Bishop is mark'd with
+another strong Characteristick,
+managing a Dispute with <hi>Heartly</hi>
+about <hi>the Nature of Prayer.</hi> That
+it ought not to be <hi>Tedious;</hi>
+               <note n="4" place="marg">pag. 13.</note>
+               <hi>outward Expression not so absolutely
+necessary, since Heaven knew the
+true Intention of the Heart.</hi>
+               <note n="*" place="marg">pag. 12.</note> And
+then he talks of his own <hi>Manual
+of Devotions.</hi>
+            </p>
+            <p>This Bishop also pretends a
+mighty Regard to <hi>tender Conscien<lb rend="hidden" type="hyphenInWord"/>ces.</hi>
+He tell's <hi>Heartly,</hi> That we
+<note n="5" place="marg">pag. 13.</note>
+               <hi>ought to allure them to what is
+Good by the gentlest, easiest Means
+we can,</hi> nor give the least colour
+of Offence to tender Consciences.</p>
+            <p>
+               <pb n="11" facs="9"/>
+               <hi>The</hi> Colonel <hi>here urges the</hi> Con<lb rend="hidden" type="hyphenInWord"/>stitution
+<hi>against him, and the force
+of the Laws; and desires him to
+explain himself; to which this
+Bishop Answers</hi>
+               <note n="6" place="marg">pag. 13</note>
+               <hi>Sir,</hi> I shall not
+explain my Self: But make your best
+of what I've said—But Power
+perhaps may change it's Hands, and
+you e're long as little dare to speak
+your mind, as I do; <hi>viz.</hi> That there
+may come a Time when this Consti<lb rend="hidden" type="hyphenInWord"/>tution
+you talk so much of, may be
+overturned.</p>
+            <p>Sir <hi>John</hi> is fully satisfy'd that
+the <hi>Doctor</hi> is all this while a<note n="7" place="marg">pag. 18.</note>
+               <hi>true stanch Member of the</hi> English
+<hi>Catholick Church;</hi> mark, that is,
+such a Church as <hi>comprehends all
+Sects and Parties whatsoever.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="10"/>
+But lest these Lines shou'd not
+be strong enough, the Author
+gives the finishing Stroke.</p>
+            <p>This Bishop is at last disco<lb rend="hidden" type="hyphenInWord"/>ver'd
+to be a <hi>Jesuit</hi> in Disguise,
+By whom? By one of his <hi>School-Boys</hi>
+in whom he had distilled.
+some of his <hi>Jesuitical Principles</hi>
+And most remarkable it is what
+the <hi>Colonel</hi> says on this Occasion.
+That<note n="8" place="marg">pag. 47.</note>
+               <hi>Charles</hi> begs <hi>he will not
+insist upon the Discovery, 'till his
+Circumstances will allow it:</hi> Almost
+in the very Stile of some <hi>Letters</hi>
+that passed, upon a parallel Oc<lb rend="hidden" type="hyphenInWord"/>casion,
+between a <hi>Master of a
+School,</hi> and a <hi>Reverend Doctor.</hi>
+            </p>
+            <p>At last <hi>Substantial Affadavits</hi>
+are produced, to prove Dr. <hi>Wolf</hi>
+to have been Educated a <hi>Jesuit;</hi>
+by which (as it is usual in Alle<lb rend="hidden" type="hyphenInWord"/>gorical
+Writers) <hi>the close Conjun<lb rend="hidden" type="hyphenInWord"/>ction
+<pb n="13" facs="11"/>
+of a Reverend</hi> Prelate <hi>and a
+certain</hi> Jesuit, is most injuriously
+and scandalously insinuated.</p>
+            <p>So here is a <hi>Prelate</hi> and a <hi>Jesuit</hi>
+and his <hi>Gang,</hi> got into the Family
+of Sir <hi>John!</hi> Let us next see
+what they are to do there. Why,
+they contrive the <hi>Ruin</hi> of his Fa<lb rend="hidden" type="hyphenInWord"/>mily,
+and the <hi>disinheriting</hi> and
+<hi>expulsion</hi> of his <hi>Children</hi> with so
+great an Assurance of Success, that
+the <hi>Doctor</hi> talks of Sir <hi>John</hi> in
+this manner:<note n="9" place="marg">pag. 68.</note>
+               <hi>Poor Man! he
+knows not his own Weakness; he is
+moulded into any Shape, if you but
+gently stroke his Humour. I intend
+to Morrow, to perswade him 'tis for
+the Interest of our Cause it should be
+so; and then I have him sure.</hi> Poor
+Sir <hi>John</hi> indeed!</p>
+            <p>
+               <pb n="14" facs="12"/>
+I must here put you in mind
+of my second Observation, that
+by the single Person of Dr. <hi>Wolf,</hi>
+without any forced Construction,
+may be understood a whole Sett
+or Party of Men. To proceed
+then,</p>
+            <p>The Play Opens with a Dis<lb rend="hidden" type="hyphenInWord"/>pute
+between Sir <hi>John</hi> and his
+<hi>Daughter,</hi> about the Formality of
+<hi>Christening,</hi> and Sir <hi>John</hi> is at it
+again, <hi>(pag</hi> 63) being extremely
+rejoyced that <hi>Heartly</hi> is <hi>Christ'ned</hi>
+according to the <hi>Right Form.</hi>
+There is also mention made of
+<hi>Searching the Register,</hi> &amp;c.</p>
+            <p>
+               <hi>Next we see Dr.</hi> Wolf <hi>insulting
+Sir</hi> John'<hi>s</hi> Son <hi>and</hi> Daughter; <hi>he
+breaks into the</hi> Daughter's <hi>Bed<lb rend="hidden" type="hyphenInWord"/>chamber
+before she is quite</hi> Up;
+<hi>and when</hi> she resents it, <hi>he tell's
+her</hi>
+               <note n="10" place="marg">pag. 15.</note> Compose your Transport,
+<pb n="15" facs="13"/>
+Madam: I came by your <hi>Father's
+Desire;</hi> for what I have done,
+Madam, I had your <hi>Father's Au<lb rend="hidden" type="hyphenInWord"/>thority,</hi>
+and shall leave him to an<lb rend="hidden" type="hyphenInWord"/>swer
+you. <hi>The</hi> Daughter <hi>replies,</hi>
+               <note n="11" place="marg">Ibid.</note>It is false, he gave you no
+Authority to insult me: What is it
+you presume upon? your Function!
+does that exempt you from the Man<lb rend="hidden" type="hyphenInWord"/>ners
+of a Gentleman?</p>
+            <p>At last his foul Behaviour pro<lb rend="hidden" type="hyphenInWord"/>vokes
+the <hi>Son</hi> to that degree, that
+he call's him<note n="12" place="marg">pag. 14.</note> 
+               <hi>Villain,</hi> and
+<hi>Rascal.</hi>
+            </p>
+            <p>
+               <hi>Sir</hi> John <hi>is nettled at this; he
+tells his</hi> Son <hi>and</hi> Daughter,<note n="13" place="marg">pag. 44.</note>
+I see your Aim: Your Malice on
+your own vile Head: To me it
+but the more endears him: Either
+submit and <hi>ask his Pardon</hi> for this
+Wrong,—or this Instant <hi>leave
+<pb n="16" facs="14"/>
+my Sight,</hi> my <hi>House,</hi> my <hi>Family</hi>
+for ever.</p>
+            <p>
+               <hi>The</hi> Son <hi>answers,</hi>
+               <note n="14" place="marg">pag. 45.</note> Tho' I
+would hazard Life to save you from
+the Ruin he misleads you to, could
+Die to Reconcile my Duty to your
+Favour; yet on the Terms that Vil<lb rend="hidden" type="hyphenInWord"/>lain
+offers, 'tis Merit to refuse it.
+I Glory in the Disgrace your Errors
+give me.</p>
+            <p>In short, Sir <hi>John</hi>'s Attachment
+to Dr. <hi>Wolf</hi> was so great, that
+there appear'd but small Hopes of
+ever opening Sir <hi>John</hi>'s Eyes:
+And remarkable is the Lamenta<lb rend="hidden" type="hyphenInWord"/>tion
+of the <hi>Son</hi> upon that Occa<lb rend="hidden" type="hyphenInWord"/>sion;<note n="15" place="marg">pag. 16.</note>
+               <hi>What horrid Hands is
+this poor Family fall'n into? How
+little is my Father like himself, by
+Nature Open, Just, and Generous?
+but this vile Hypocrite drives his
+weak Passions like the Wind; and I
+<pb n="17" facs="15"/>
+foresee, at last, will dash him on his
+Ruin.</hi>
+            </p>
+            <p>When Dr. <hi>Wolf</hi> had wrought
+up the Passion of Sir <hi>John</hi> to this
+degree, as to turn his <hi>Children out
+of Doors;</hi> then he interposeth his
+good Offices, and proposeth a
+<hi>Reconciliation.</hi>
+            </p>
+            <p>I beg the Reader to observe
+the <hi>Terms</hi> of it. <hi>That his Child
+should be at the sole Disposal of Dr.</hi>
+Wolf, and do nothing without
+<hi>his Consent.</hi>
+            </p>
+            <p>It must here be observ'd that
+the Daughter had a Fortune of <hi>her
+own, independent on the Father,</hi> upon
+which she seems to value her Self.
+<note n="17" place="marg">pag. 5.</note>
+               <hi>Have not I</hi> 5000l. <hi>in my own
+hands? have not I had the full Swing
+of my own Airs and humours these
+four years?</hi> Mark the precise
+time But she is put in mind by
+<pb n="18" facs="16"/>
+the <hi>Son,</hi> that tho' the Father
+could not <hi>deprive her of her Fortune,
+he might abridge</hi> her Equipage; in
+these words<note n="18" place="marg">Ibid.</note>
+               <hi>however a Father's
+Consent might have clapt a pair of
+horses more to your Coach.</hi>
+            </p>
+            <p>But at last he applauds her re<lb rend="hidden" type="hyphenInWord"/>solution,
+and tells her she <hi>speaks
+with the Spirit of a free-born English<lb rend="hidden" type="hyphenInWord"/>man.</hi>
+            </p>
+            <p>Mark now the modesty of
+Dr. <hi>Wolf;</hi> he proposes, as the
+Lowest and <hi>last condition, that she
+should resign the half of this indepen<lb rend="hidden" type="hyphenInWord"/>dent
+fortune</hi>
+               <note n="19" place="marg">pag. 54.</note>
+               <hi>Is not two thousand
+pounds worth two Thousand pounds?</hi>
+Is not <hi>half</hi> better than <hi>nothing?</hi>
+            </p>
+            <p>
+               <pb n="19" facs="17"/>
+Observe next, (good Mr.
+<hi>Rowe)</hi> how Dr. <hi>Wolf</hi> endea<lb rend="hidden" type="hyphenInWord"/>vours
+to debauch Lady <hi>Woodvill,</hi>
+and make her Subservient to his
+Villainous designs: This Lady
+is described as having a great As<lb rend="hidden" type="hyphenInWord"/>cendant
+over Sir <hi>John's</hi> Spirit that
+<hi>She keeps no Assemblys;</hi> that she
+had been <hi>Poor</hi> and <hi>Beautiful,</hi> while
+Sir <hi>John</hi> was <hi>Rich</hi> and <hi>Amourous.</hi>
+This Lady proves honest and
+trusty; and contributes, in the
+conclusion, to the discovery of
+the wicked purposes of Dr.
+<hi>Wolf.</hi>
+            </p>
+            <p>Pray take notice too of a very
+odd Episode that seem to contri<lb rend="hidden" type="hyphenInWord"/>bute
+very little to the main
+Action. That is Dr. <hi>Wolf</hi>'s en<lb rend="hidden" type="hyphenInWord"/>deavouring
+to Bring Sir <hi>John</hi> in<lb rend="hidden" type="hyphenInWord"/>to
+a <hi>Scheme</hi> of <hi>Church Comprehensi<lb rend="hidden" type="hyphenInWord"/>on;</hi>
+Referring again to his <hi>Case of
+Schism,</hi> he tells Sir <hi>John</hi> that<note n="20" place="marg">pag. 25</note>
+               <pb n="20" facs="18"/>
+               <hi>differences are not so material as
+some would represent them. Ah!
+could we be brought to a Temper,
+a great many seeming Contradictions
+might be reconciled.</hi> I allow this is a
+<hi>Comprehension</hi> of a different kind;
+but I beg leave to remind you
+and my Readers of my first obser<lb rend="hidden" type="hyphenInWord"/>vation,
+that the <hi>Circumstances of a
+Fable</hi> do not determine the <hi>Satire.</hi>
+But you, Sir, who are intimate
+with Mr. <hi>Cibber</hi> may examine and
+know the Truth of this.</p>
+            <p>Nothing is so plain as the
+Catastrophe; when Dr. <hi>Wolf</hi>
+thought himself sure of his Blow,
+and had brought Sir <hi>John</hi> to be<lb rend="hidden" type="hyphenInWord"/>lieve
+that his<note n="21" place="marg">pag. 24.</note>
+               <hi>hot brain'd</hi> Son
+(as he calls him) had a Design to
+get his Estate; he instantly makes
+Sir <hi>John</hi> resolve to repay it in kind
+by disinheriting him.</p>
+            <p>
+               <pb n="21" facs="19"/>
+But at last, there arises a
+misfortune from a Corner where
+the <hi>Doctor</hi> least suspected it.
+Some of his own Party, whom
+he thought inviolably attach'd to
+his interests, discover his wicked
+purposes. This Sett of Men is
+represented by <hi>Charles</hi> an ingeni<lb rend="hidden" type="hyphenInWord"/>ous
+Gentleman, a Servant of Sir
+<hi>John</hi>'s, a man of Business, a good
+<hi>Greek</hi> and <hi>Latin</hi> Scholar &amp;c.
+This <hi>Charles</hi> (it seems) highly
+obliged by the Generous treat<lb rend="hidden" type="hyphenInWord"/>ment
+of the <hi>Son</hi> and enamour'd
+of the good Qualities of the
+<hi>Daughter,</hi> both reveals, and pre<lb rend="hidden" type="hyphenInWord"/>vents
+the whole <hi>mystery of Iniquity:</hi>
+Upon which Dr. <hi>Wolf</hi> seeing his
+project dissappointed vents his
+Rage upon this honest Gentleman;
+and attempts his Life.</p>
+            <p>
+               <pb n="22" facs="20"/>
+Lastly, Mr. <hi>Cibber</hi> (to obviate
+all possibility of mistaking his
+meaning) upon the winding up
+of the whole design, breaks on a
+sudden into an open discourse of
+<hi>Politicks;</hi> talks of <hi>embroiling the
+Nation,</hi> and <hi>ending Publick disputes</hi>
+and calls upon King <hi>George,</hi> with
+abundance more good <hi>Morality</hi>
+very well worth observing.</p>
+            <p>Thus, Sir, according to your
+desire, I have given a short Sketch
+of the <hi>Fable</hi> and <hi>Characters</hi> of this
+Play; just enough to enable some
+person of greater <hi>Sagacity</hi> to find
+out who are meant by every par<lb rend="hidden" type="hyphenInWord"/>ticular
+Personage of the <hi>Drama.</hi>
+I am sure I would not presume
+so much as to guess.</p>
+            <p>
+               <pb n="23" facs="21"/>
+But one Thing I must observe,
+which I remember we both took
+particular notice of: It is, that
+the Author tho' questionless a great
+master of Stile puts <hi>bad English</hi> into
+the mouths of most of his Per<lb rend="hidden" type="hyphenInWord"/>sonages:
+So that indeed scarce any
+of e'm talk at all like <hi>English Folks;</hi>
+but perpetually make use of an
+uncorrect, <hi>Foreign, Jargon.</hi> What
+his drift is in this I cannot ima<lb rend="hidden" type="hyphenInWord"/>gine;
+but the Instances of it are
+obvious to every Reader; and
+numerous <hi>in every Page.</hi>
+            </p>
+            <closer>I am,
+Dear Mr. <hi>Rowe,</hi>
+Your, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="24" facs="22"/>
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>Part of an</hi> EPILOGUE, <hi>Written
+by</hi> N. Rowe, <hi>
+                  <abbr>Esas;q</abbr> to a Play
+call'd,</hi> The Cruel Gift: <hi>Or,</hi>
+The Royal Resentment; <hi>a</hi>
+TRAGEDY.<note n="*" place="marg">Printed for <hi>E. Curll.</hi> Price 1 <hi>s.</hi>
+               </note>
+            </p>
+            <p>THE former Part of this
+<hi>EPILOGUE</hi> turns u<lb rend="hidden" type="hyphenInWord"/>pon
+the Plot of the Play, the
+latter Part is as follows, <hi>viz,</hi>
+            </p>
+            <p>How many Worthy Gentlemen of
+(late,</p>
+            <p>Swore to be true to <hi>Mother-Church</hi>
+and State;</p>
+            <p>When their <hi>False Hearts</hi> were se<lb rend="hidden" type="hyphenInWord"/>cretly
+maintaining</p>
+            <p>You trim King <hi>PEPIN</hi> at <hi>Avignon</hi>
+Reigning?</p>
+            <p>
+               <pb n="25" facs="23"/>
+               <hi>Shame on the canting Crew of</hi> Soul
+Insurers,</p>
+            <p>That <hi>Tyburn-Tribe</hi> of <hi>Speech-Making
+Non-Jurors.</hi>
+            </p>
+            <p>Who in new fangled Terms, old
+Truths explaining,</p>
+            <p>Teach honest <hi>English-men,</hi> damn'd
+<hi>Double Meaning.</hi>
+            </p>
+            <p>The great <hi>Loyalty</hi> express'd
+in these Lines, is so appa<lb rend="hidden" type="hyphenInWord"/>rent,
+as not to stand in need
+of the least Comment.</p>
+            <p>The Conclusion of this <hi>Epilogue</hi>
+being the Character of an illu<lb rend="hidden" type="hyphenInWord"/>strious
+<hi>PERSONAGE,</hi> I re<lb rend="hidden" type="hyphenInWord"/>
+               <gap resp="#oxf" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>er
+the Reader to the Play above<lb rend="hidden" type="hyphenInWord"/>mention'd
+for the Satisfaction of
+his Curiosity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <pb facs="24"/>
+            <head>BOOKS lately Printed for E. CURL.</head>
+            <p>1. THE <hi>Resurrection.</hi> A Poem. Written by
+the Right Honourable Mr. Secretary
+<hi>Addison.</hi> Pr. 6 <hi>d.</hi>
+            </p>
+            <p>II. Mr. <hi>Addison</hi>'s Travels thro' <hi>Italy.</hi> Extracted,
+with Observations by <hi>Monsieur Le Clerc.</hi>
+Pr. 1 <hi>s.</hi>
+            </p>
+            <p>III. The <hi>Knowledge of Medals:</hi> Or, Instructions
+for those who apply themselves to the Study
+of Medals both Ancient and Modern. With
+an Essay concerning <hi>the Error in Distributing
+Modern Medals.</hi> By Mr. <hi>Addison.</hi> Pr. 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>IV. The <hi>Artful Wife,</hi> a new Comedy Pr. 1 <hi>s.</hi>
+            </p>
+            <p>V. The Poetical Works of <hi>Nicholas Rowe,</hi> 
+               <abbr>Esas;q</abbr>
+Pr. 4 <hi>s.</hi>
+            </p>
+            <p>VI. <hi>Esther</hi> Queen of <hi>Persia.</hi> A Poem in Four
+Books. By Mr. <hi>Henley.</hi> Pr. 1 <hi>s</hi> 6 <hi>d.</hi>
+            </p>
+            <p>VII. <hi>Boileau</hi>'s Lutrin: and his Art of Poetry.
+Adorn'd with Cuts. Pr. 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>VIII. The Poetical Works of the late Earl of
+<hi>Halifax.</hi> To which is prefix'd his Lordship's
+Life, including the History of his Times,
+and a Character of his Writings, by Mr.
+<hi>Addison.</hi> Pr. 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>IX. Letters, Poems, and Tales, Amorous, Sa<lb rend="hidden" type="hyphenInWord"/>tyrical
+and Gallant, which pass'd between
+Dr. <hi>Swift,</hi> Mrs. <hi>Long,</hi> the Lady <hi>Mary Cham<lb rend="hidden" type="hyphenInWord"/>bers,</hi>
+Lady <hi>Betty Cromwell,</hi> Sir <hi>William Wyvil,</hi>
+               <pb facs="25"/>
+Col. <hi>Codrington,</hi> and other Persons of Distin¦ction.
+Pr. 2 <hi>s.</hi>
+            </p>
+            <p>X. Mr. <hi>Dennis</hi>'s Remarks upon Mr. <hi>Pope</hi>'s
+Translation of <hi>Homer.</hi> Pr. 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>XI. The <hi>Confederates.</hi> A Farce. By Mr. <hi>Joseph
+Gay.</hi> Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XII. The <hi>Hoop-Petticoat:</hi> An Heroi-Comical
+Poem. By Mr. <hi>Joseph Gay,</hi> Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XIII. The <hi>Art of Dress.</hi> An Heroi-Comical
+Poem. Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XIV. The <hi>Rape of the Smock.</hi> An Heroi-Comi<lb rend="hidden" type="hyphenInWord"/>cal
+Poem.</p>
+            <p>XV. Mr. <hi>Pomsret</hi>'s Poems Pr. 2 <hi>s.</hi>
+            </p>
+            <p>XVI. Mr. <hi>Young</hi>'s Poem on the <hi>Last Day.</hi> The
+Third Edition corrected throughout, and ve<lb rend="hidden" type="hyphenInWord"/>ry
+much improv'd Adorn'd with three
+curious Cuts. 120. Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XVII. The History of the Lady <hi>Jane Gray.</hi>
+A Poem in two Books. By Mr. <hi>Young.</hi> A<lb rend="hidden" type="hyphenInWord"/>dorn'd
+with Cuts. 8o. Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XVIII. <hi>Mac-Dermot:</hi> Or, <hi>The Irish Fortune-Hunter.</hi>
+A Poem in Six Cantos. Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XIX. <hi>Pope</hi>'s Miscellany, &amp;c. in Two Parts,
+Compleat. Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XX. The <hi>Rape of the Bucket:</hi> An Heroi Comical
+Poem 8o. Pr. 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>XXI. A <hi>Second</hi> Collection of <hi>Poems.</hi> By
+<hi>Matthew Prior,</hi> 
+               <abbr>Esas;q</abbr> 8o. Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XXII. Mr. <hi>Philip</hi>'s Poems. Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XXIII. Mr. <hi>Reynardson</hi>'s Poems. Pr. 1 <hi>s.</hi>
+            </p>
+            <p>XXIV. Mr. <hi>Sewell</hi>'s Poems. Pr. 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <div type="part">
+               <head>Just Publish'd,</head>
+               <p>
+                  <hi>Eunuchism display'd.</hi> Describing all the diffe<lb rend="hidden" type="hyphenInWord"/>rent
+Sorts of Eunuchs; the Esteem they have
+met with in the World, and how they came to
+be made so. Wherein principally is examin'd,
+Whether they are capable of Marriage, and if
+they ought to be suffer'd to enter into that
+<pb facs="26"/>
+State. The whole confirm'd by the Authority
+of Civil, Canon, and Common Law, and illu<lb rend="hidden" type="hyphenInWord"/>strated
+with many remarkable Cases by way of
+Precedent. Also Comparison between Signi<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>r
+<hi>Nicolini</hi> and the Three celebrated Eunuchs now
+at <hi>Rome,</hi> viz. <hi>P<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>squa<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>ini, Pau<gap resp="#oxf" extent="2 letters" rend="content:••">
+                        <desc>illegible</desc>
+                     </gap>c<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>io,</hi> and <hi>
+                     <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap>
+                  </hi>
+(or <hi>
+                     <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap>):</hi> With several Observations on
+Modern Eunuchs. Occasion'd by a young La<lb rend="hidden" type="hyphenInWord"/>dy's
+falling in Love with <hi>Nicolini,</hi> who sung in
+the O<gap resp="#oxf" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>ra at the <hi>
+                     <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap>,</hi> and to whom she
+had like to have been varried. Written by a
+Person of Honour. Price 3 <hi>s.</hi>
+               </p>
+               <p>The Cases of Impotency and Divote, containing I. The late
+famous Tryal at <hi>Paris</hi> between the M<gap resp="#oxf" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>quis <hi>de <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap>
+                  </hi> and his
+Lady, Mademoiselle <hi>de Mesiran<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>y;</hi> who after three Years Marriage
+commenced a Sui<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> against him for Impotency. The Pleading at
+large on both sides. The Interrogatories concerning the Co<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>j<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>∣gal
+Secrets during their C<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>habitation, and the Reports of the King's
+Physicians and Surgeons appointed to search them. II. That re<lb rend="hidden" type="hyphenInWord"/>markable
+Tryal between the Earl of <hi>
+                     <gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>ssex</hi> and <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> Lady <hi>Howard,</hi>
+who after eight Years marriage, comm<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>n<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>ed a Suit against <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap>
+for <hi>Impotency;</hi> The Intrigue between her and the E<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>rl of <hi>Somer<lb rend="hidden" type="hyphenInWord"/>set,</hi>
+who after the Divorce married her. III The Case of <hi>John
+Bury</hi> Esquity, who was divorced for want of Testicles, IV. The
+Earl of <hi>C<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>stlehav<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>n</hi>'s Tryal before his Pee<gap resp="#oxf" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>, for <hi>Sodomy</hi> and a <hi>Rape</hi>
+V. The whole Proceedings befo<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>e the House of Lords, between
+the Duke of <hi>N<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>rfolk</hi> and his Dutchess, with a Detection of the
+whole Intrigue between her Grace and Sir <hi>J<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>hn German,</hi> with the
+learned Speeche<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>s made upon this Oc<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>asi<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>n by <hi>S. Thomas Powys<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>
+                  </hi>
+Sir <hi>Nathan Wright. Sir Edward <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap>
+                  </hi> Sir <hi>Samurl D<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>dd,</hi> Dr.
+<hi>Oldys</hi> Dr. <hi>Pi<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>f<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>ld, &amp;c.</hi> VI <gap resp="#oxf" extent="1 span" rend="content:〈…〉">
+                     <desc>illegible</desc>
+                  </gap> of <hi>Northampton</hi>'s C<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>se VII
+The Earl of <hi>Macclesfield,</hi> Case VIII. The Lord <hi>Ross</hi>'s C<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>se. IX..
+The Case of the Dutchess of <hi>Cl<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>viland,</hi> and B<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>au <hi>Fielding,</hi>
+with the whole Proceedings between them in <hi>Doctors Com<lb rend="hidden" type="hyphenInWord"/>mons,</hi>
+and Sir <hi>John Cook</hi>'s DefinitIve Sentence at large <gap resp="#oxf" extent="1 span" rend="content:〈…〉">
+                     <desc>illegible</desc>
+                  </gap>
+this remarkable Tryal; also, Memoirs of Mr. <hi>Fielding</hi>'s <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap>,
+a Collection of his Love Letters, a full Account of his <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap>,
+for Fifty Years, Characters of his Mistresses, and a true Co<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>y of
+his last Will and Testaments, with h<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>s <gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>ffigies when he <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> the
+prime of his Beauty, curiously engraven <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap>. Sir <hi>Godfrey <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap>
+                  </hi>
+Original Painting. X. The Case of <hi>J<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>h<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap> D<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>rmer?</hi> Esq, <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap>
+a Copy of the <hi>Declaration</hi> against <hi>T<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>m: Jones</hi> his Footman, and
+the proceedings thereon. XI The case of Sir <hi>George Down<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>ng,</hi>
+and Mrs. <hi>Eorr<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>fler,</hi> who, in Fourteen Years time never consuma<gap resp="#oxf" extent="3 letters" rend="content:•••">
+                     <desc>illegible</desc>
+                  </gap>
+their Marriage; the Resolution of the Lords on ther joyns Peti<lb rend="hidden" type="hyphenInWord"/>tion,
+and a plea, offer'd in their Behalf. With many <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> Pre<lb rend="hidden" type="hyphenInWord"/>cedents
+of the like Nature, all in Five neat Pocket Volume<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>
+Price 12 <hi>
+                     <gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>.</hi> 6 d</p>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>

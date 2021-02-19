@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The abuses of conscience: set forth in a sermon, preached in the Cathedral church of St. Peter's, York, ... on Sunday, July 29, 1750. By Laurence Sterne, A.M. ...</title>
+            <author>Sterne, Laurence, 1713-1768.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K027659.000</idno>
+            <idno type="docno">CW3321271469</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The abuses of conscience: set forth in a sermon, preached in the Cathedral church of St. Peter's, York, ... on Sunday, July 29, 1750. By Laurence Sterne, A.M. ...</title>
+                  <author>Sterne, Laurence, 1713-1768.</author>
+               </titleStmt>
+               <extent>[2],iii,[1],26p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>York :</pubPlace>
+                  <publisher>printed by Cæsar Ward: for John Hildyard,</publisher>
+                  <date>1750.</date>
+                  <idno type="TCP">K027659.000</idno>
+                  <idno type="docno">CW3321271469</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT14745.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>The Abuses of CONSCIENCE: SET FORTH IN A SERMON, PREACHED IN THE CATHEDRAL CHURCH OF St. PETER's, YORK, AT THE SUMMER ASSIZES, BEFORE THE Hon. Mr. Baron CLIVE, AND THE Hon. Mr. Baron SMYTHE, On SUNDAY, July 29, 1750.</p>
+            <p>By LAURENCE STERNE, A.M. Prebendary of the said Church.</p>
+            <p>Published at the Request of the High Sheriff and Grand Jury.</p>
+            <p>
+               <hi>YORK:</hi> Printed by CAESAR WARD: or JOHN HILDYARD, in <hi>Stonegate,</hi> 1750. [Price SIX-PENCE.]</p>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <head>TO Sir WILLIAM PENNYMAN, Bart High Sheriff of the County of YORK,</head>
+            <head type="sub">AND TO Sir Edmund Anderson, of Kild<lb rend="hidden" type="hyphenInWord"/>wick-Percy, Bart. Ralph Pen<lb rend="hidden" type="hyphenInWord"/>nyman, of Beverly; Montagu Brook, of Skelton; Thomas Norcliffe, of Langton; John Hutton, of Marske; William Turner, of Clints; Thomas Fawkes, of Farnley; Richard Langley, of Wykeham-Ab<lb rend="hidden" type="hyphenInWord"/>bey; George Montgomery Metham, of North-Cave; Tin<lb rend="hidden" type="hyphenInWord"/>dal Thompson, of Settering<lb rend="hidden" type="hyphenInWord"/>ton; Thomas Robinson, of
+<pb n="2" facs="3"/>
+Beckhouse; Edmund Charles Blomberg, of Kirkby-Misper<lb rend="hidden" type="hyphenInWord"/>ton; Francis Best, of Beverly; Thomas Bradshaw, of Hems<lb rend="hidden" type="hyphenInWord"/>worth; Roger Beckwith, of Handall-Abbey; William Sut<lb rend="hidden" type="hyphenInWord"/>ton, of Carleton; Peter Con<lb rend="hidden" type="hyphenInWord"/>set, of Brawith; George Ive<lb rend="hidden" type="hyphenInWord"/>son, of Bilton; Richard Daw<lb rend="hidden" type="hyphenInWord"/>son, of Poppleton; William Meeke, of Wighill-Park; John Taylor, of Foulforth; Charles Cottrell, of Scarborough; and Ralph Lutton, of Knapton, Esquires.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>I Thank you for the great Compli<lb rend="hidden" type="hyphenInWord"/>ment pass'd on this Sermon, by your unanimous Request to have it sent to the Press; which I have done, without
+<pb n="3" facs="4"/>
+sending any Apology along with it for <gap resp="#oxf" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>ts Unfitness to appear in Public;—Ex<lb rend="hidden" type="hyphenInWord"/>
+               <gap resp="#oxf" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>uses of this Kind being generally so well known, both as to Substance and Form, that it is altogether unnecessary to copy them.</p>
+            <p>I will therefore only beg your favour<lb rend="hidden" type="hyphenInWord"/>able Acceptance of it; and to believe, That tho' my chief View in complying with your Desire, was the Hopes of doing Good, by contributing something to the Interests of Religion and Morality; yet it is no small Pleasure which I re<lb rend="hidden" type="hyphenInWord"/>ceive at the same Time, from the Op<lb rend="hidden" type="hyphenInWord"/>portunity it gives me of declaring how great an Honour and Esteem I have for so many Gentlemen of Worth and Cha<lb rend="hidden" type="hyphenInWord"/>racter. I am,</p>
+            <closer>
+               <signed>Your most humble And most obedient Servant, L. STERNE.</signed>
+            </closer>
+            <pb n="2" facs="5"/>
+            <gap resp="#oxf" extent="1 page" rend="content:〈1 page duplicate〉">
+               <desc>duplicate</desc>
+            </gap>
+            <pb n="3" facs="6"/>
+            <gap resp="#oxf" extent="1 page" rend="content:〈1 page duplicate〉">
+               <desc>duplicate</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <pb facs="7"/>
+         <epigraph>
+            <q>
+               <bibl>HEBREWS xiii. 18.</bibl> —For we trust we have a good Conscience,—</q>
+         </epigraph>
+         <p>
+            <seg rend="decorInit">T</seg>RUST!—Trust we have a good Conscience!—Surely, you will say, if there is any Thing in this Life which a Man may depend upon, and to the Knowledge of which he is capable of arriving upon the most indisputable Evidence, it must be this very Thing,—Whether he has a good Conscience, or no.</p>
+         <p>If a Man thinks at all, he cannot well be a Stranger to the true State of this Account;—He must be privy to his own Thoughts and Desires;—He must
+<pb n="2" facs="8"/>
+remember his past Pursuits, and know certainly the true Springs and Motives, which, in general, have govern'd the Actions of his Life.</p>
+         <p>In other Matters we may be deceiv'd by false Appearances; and, as the Wise Man complains, <hi>Hardly do we guess aright at the Things that are upon the Earth, and with Labour do we find the Things that are before us:—</hi>But here the Mind has all the Evidence and Facts within herself:—Is conscious of the Web she has wove:—Knows its Texture and Fineness, and the exact Share which every Passion has had in working upon the several Designs, which Virtue or Vice has plann'd before her.</p>
+         <p>Now,—as Conscience is nothing else but the Knowledge which the Mind has within itself of this; and the Judg<lb rend="hidden" type="hyphenInWord"/>ment, either of Approbation or Censure, which it unavoidably makes upon the successive Actions of our Lives,—'tis plain, you will say, from the very
+<pb n="3" facs="9"/>
+Terms of the Proposition, Whenever this inward Testimony goes against a Man, and he stands self-accused,—that he must necessarily be a <hi>guilty Man.</hi> And, on the contrary, When the Report is favourable on his Side, and his Heart condemns him not,—that it is not a Matter of <hi>Trust,</hi> as the Apostle intimates, but a Matter of Certainty and Fact, that the <hi>Consci<lb rend="hidden" type="hyphenInWord"/>ence</hi> is <hi>good,</hi> and that the <hi>Man</hi> must be <hi>good</hi> also.</p>
+         <p>At first Sight, this may seem to be a true State of the Case; and I make no Doubt but the Knowledge of Right and Wrong is so truly impress'd upon the Mind of Man; that, did no such Thing ever happen, as that the Conscience of a Man, by long Habits of Sin, might (as the Scripture assures us, it may) in<lb rend="hidden" type="hyphenInWord"/>sensibly become hard; and, like some tenderer Parts of his Body, by much Stress, and continual hard Usage, lose, by Degrees, that nice Sense and Perception with which God and Nature endowed it.—Did this never happen:—Or
+<pb n="4" facs="10"/>
+was it certain that Self-Love could ne<lb rend="hidden" type="hyphenInWord"/>ver hang the least Bias upon the Judg<lb rend="hidden" type="hyphenInWord"/>ment:—Or that the Little Interests below could rise up and perplex the Fa<lb rend="hidden" type="hyphenInWord"/>culties of our upper Regions, and en<lb rend="hidden" type="hyphenInWord"/>compass him about with Clouds and thick Darkness:—Could no such Thing as Favour and Affection enter this sacred Court:—Did WIT dis<lb rend="hidden" type="hyphenInWord"/>dain to take a Bribe in it, or was a<lb rend="hidden" type="hyphenInWord"/>shamed to shew its Face as an Advocate for an unwarrantable Enjoyment:—Or, lastly, were we assured that INTE<lb rend="hidden" type="hyphenInWord"/>REST stood always unconcern'd whilst the Cause was hearing,—and that PAS<lb rend="hidden" type="hyphenInWord"/>SION never got into the Judgment Seat, and pronounced Sentence in the Stead of Reason, which is supposed al<lb rend="hidden" type="hyphenInWord"/>ways to preside and determine upon the Case:—Was this truly so, as the Ob<lb rend="hidden" type="hyphenInWord"/>jection must suppose, no Doubt, then, the Religious and Moral State of a Man would be exactly what He himself e<lb rend="hidden" type="hyphenInWord"/>steemed it; and the Guilt or Innocence of every Man's Life could be known, in general, by no better Measure, than
+<pb n="5" facs="11"/>
+the Degrees of his own Approbation or Censure.</p>
+         <p>I own, in one Case, whenever a Man's Conscience does accuse him (as it seldom errs on that Side) that he is Guilty; and, unless in melancholy and hypochondriac Cases, we may safely pronounce upon, that there is always sufficient Grounds for the Accusation.</p>
+         <p>But, the Converse of the Proposition will not hold true,—namely, That wherever there is Guilt, the Conscience must accuse; and, if it does not, that a Man is therefore Innocent.—This is not Fact:—So that the common Consola<lb rend="hidden" type="hyphenInWord"/>tion which some good Christian or other is hourly administring to himself,—That he thanks God, his Mind does not mis<lb rend="hidden" type="hyphenInWord"/>give him; and that, consequently, he has a good Conscience, because he has a quiet one.—As current as the Inference is, and as infallible as the Rule appears at first Sight, yet, when you look nearer to it, and try the Truth of this Rule
+<pb n="6" facs="12"/>
+upon plain Facts, you find it liable to so much Error, from a false Application of it:—The Principle on which it goes so often perverted:—The whole Force of it lost, and sometimes so vilely cast away, that it is painful to produce the common Examples from human Life, which confirm this Account.</p>
+         <p>A Man shall be vicious and utterly debauched in his Principles; exception<lb rend="hidden" type="hyphenInWord"/>able in his Conduct to the World; shall live shameless,—in the open Commis<lb rend="hidden" type="hyphenInWord"/>sion of a Sin which no Reason or Pre<lb rend="hidden" type="hyphenInWord"/>tence can justify;—a Sin, by which, contrary to all the Workings of Hu<lb rend="hidden" type="hyphenInWord"/>manity within, he shall ruin for ever the deluded Partner of his Guilt;—rob her of her best Dowry;—and not only cover her own Head with Disho<lb rend="hidden" type="hyphenInWord"/>nour, but involve a whole virtuous Family in Shame and Sorrow for her Sake. Surely,—you'll think, Con<lb rend="hidden" type="hyphenInWord"/>science must lead such a Man a trouble<lb rend="hidden" type="hyphenInWord"/>some Life:—He can have no Rest Night or Day from its Reproaches.</p>
+         <p>
+            <pb n="7" facs="13"/>
+Alas! Conscience had something else to do all this Time than break in upon him: As <hi>Elijah</hi> reproached the God <hi>Baal,</hi> this <hi>Domestic God,</hi> was either <hi>talking, or pursuing, or was in a Jour<lb rend="hidden" type="hyphenInWord"/>ney, or, peradventure, he slept and could not be awoke.</hi> Perhaps he was gone out in Company, with HONOUR, to fight a Duel;—to pay off some Debt at Play;—or dirty Annuity the Bargain of his Lust.—Perhaps, Consci<lb rend="hidden" type="hyphenInWord"/>ence all this Time was engaged at home, talking aloud against petty Larceny, and executing Vengeance upon such pu<lb rend="hidden" type="hyphenInWord"/>ny Crimes as his Fortune and Rank, in Life, secured him against all Temptation of committing:—So that he lives as merrily,—sleeps as soundly in his Bed;—and, at the last, meets Death with as much Unconcernedness,—perhaps, much more so than a much better Man.</p>
+         <p>Another is sordid, unmerciful;—A strait-hearted, selfish Wretch, inca<lb rend="hidden" type="hyphenInWord"/>pable either of private Friendships, or
+<pb n="8" facs="14"/>
+public Spirit.—Take Notice how he passes by the Widow and Orphan in their Distress; and sees all the Miseries incident to human Life without a Sigh or a Prayer.—Shall not Conscience rise up and sting him on such Occasions? No.—Thank God, there is no Occasion. <q rend="inline">'I pay every Man his own,—I have no Fornication to answer to my Consci<lb rend="hidden" type="hyphenInWord"/>ence, no faithless Vows or Promises to make up, I have debauch'd no Man's Wife or Child.—Thank God I am not as other Men, Adulterers, Unjust, or even as this Libertine who stands before me.'</q>
+         </p>
+         <p>A Third is crafty and designing in his Nature.—View his whole Life,—'Tis nothing else but a cunning Con<lb rend="hidden" type="hyphenInWord"/>texture of dark Arts and unequitable Subterfuges basely to defeat the true Intent of all Laws, plain Dealing and the safe Enjoyment of our several Pro<lb rend="hidden" type="hyphenInWord"/>perties.—You will see such a one, working out a Frame of little Designs upon the Ignorance and Perplexities of the poor and needy Man.—Shall raise
+<pb n="9" facs="15"/>
+a Fortune upon the Inexperience of a Youth,—or the unsuspecting Temper of his Friend, who would have trusted him with his Life. When old Age comes on, and Repentance calls him to look back upon this black Account, and state it over again with his Con<lb rend="hidden" type="hyphenInWord"/>science.—Conscience looks into the <hi>Statutes at Large,—</hi>finds perhaps no <hi>express Law</hi> broken by what he has done;—perceives no Penalty or For<lb rend="hidden" type="hyphenInWord"/>feiture incurr'd;—sees no Scourge wa<lb rend="hidden" type="hyphenInWord"/>ving over his Head,—or Prison open<lb rend="hidden" type="hyphenInWord"/>ing its Gate upon him.—What is there to affright his Conscience?—Conscience has got safely entrench'd behind the Let<lb rend="hidden" type="hyphenInWord"/>ter of the Law, sits there invulnerable, fortified with <hi>Cases</hi> and <hi>Reports</hi> so strongly on all Sides,—that 'tis not Preaching can dispossess it of its Hold.</p>
+         <p>Another shall want even this Re<lb rend="hidden" type="hyphenInWord"/>fuge,—shall break thro' all this Cere<lb rend="hidden" type="hyphenInWord"/>mony of slow Chicane; scorns the doubt<lb rend="hidden" type="hyphenInWord"/>ful Workings of secret Plots and cau<lb rend="hidden" type="hyphenInWord"/>tious Trains to bring about his Pur<lb rend="hidden" type="hyphenInWord"/>pose.—See
+<pb n="10" facs="16"/>
+the bare-fac'd Villain how he cheats, lyes, perjures, robs, murders,—Horrid! But indeed much better was not to be expected in this Case.—The poor Man was in the dark!—His Priest had got the keeping of his Conscience,—and all he had let him know of it was, That he must believe in the <hi>Pope;</hi>—Go to Mass;—Cross himself;—tell his Beads;—be a good Catholic; and that this in all Conscience was enough to carry him to Heaven. What?—If he perjures?—Why,—He had a mental Reservation in it. But if he is so wicked and abandoned a Wretch as you represent him,—If he robs, or murders, will not Conscience on every such Act, receive a Wound it<lb rend="hidden" type="hyphenInWord"/>self?—Ay,—But the Man has carried it to Confession, the Wound digests there, and will do well enough,—and in a short Time be quite healed up by Absolution.</p>
+         <p>O <hi>Popery!</hi> What hast thou to an<lb rend="hidden" type="hyphenInWord"/>swer for?—when not content with the
+<pb n="11" facs="17"/>
+too many natural and fatal Ways thro' which the Heart is every Day thus treacherous to itself above all Things—Thou hast wilfully set open this wide Gate of Deceit before the Face of this unwary <hi>Traveller,</hi>—too apt, God knows, to go astray of himself,—and confidently speak Peace to his Soul, when there is no Peace.</p>
+         <p>Of this the common Instances, which I have drawn out of Life, are too noto<lb rend="hidden" type="hyphenInWord"/>rious to require much Evidence. If any Man doubts the Reality of them, or thinks it impossible for Man to be such a Bubble to himself,—I must re<lb rend="hidden" type="hyphenInWord"/>fer him a Moment to his Reflections, and shall then venture to trust the Appeal with his own Heart. Let him consider in how different a Degree of Detestati<lb rend="hidden" type="hyphenInWord"/>on, Numbers of wicked Actions stand <hi>there,</hi> tho' equally bad and vicious in their own Natures—He will soon find that such of them as strong Inclination or Custom have prompted him to com<lb rend="hidden" type="hyphenInWord"/>mit, are generally dress'd out and pain<lb rend="hidden" type="hyphenInWord"/>ted
+<pb n="12" facs="18"/>
+with all the false Beauties which a soft and flattering Hand can give them; and that the others, to which he feels no Propensity, appear, at once, naked and deformed, surrounded with all the true Circumstances of Folly and Disho<lb rend="hidden" type="hyphenInWord"/>nour.</p>
+         <p>When <hi>David</hi> surprized <hi>Saul</hi> sleeping in the Cave, and cut off the Skirt of his Robe,—we read, his Heart smote him for what he had done.—But, in the Matter of <hi>Uriah,</hi> where a faithful and gallant Servant, whom he ought to have lov'd and honour'd, fell to make Way for his Lust; where <hi>Conscience</hi> had so much greater Reason to take the A<lb rend="hidden" type="hyphenInWord"/>larm,—his Heart smote him not.—A whole Year had almost passed from the first Commission of that Crime—to the Time <hi>Nathan</hi> was sent to reprove him; and we read not once of the least Sor<lb rend="hidden" type="hyphenInWord"/>row or Compunction of Heart, which he testified during all that Time, for what he had done.</p>
+         <p>
+            <pb n="13" facs="19"/>
+Thus Conscience, this once able Mo<lb rend="hidden" type="hyphenInWord"/>nitor,—placed on high as a Judge with<lb rend="hidden" type="hyphenInWord"/>in us—and intended, by our Maker, as a just and equitable one too,—by an un<lb rend="hidden" type="hyphenInWord"/>happy Train of Causes and Impediments,—takes often such imperfect Cognizance of what passes,—does its Office so negli<lb rend="hidden" type="hyphenInWord"/>gently,—sometimes so corruptly, that it is not to be trusted alone: And there<lb rend="hidden" type="hyphenInWord"/>fore, we find, there is a Necessity, an ab<lb rend="hidden" type="hyphenInWord"/>solute Necessity, of joining another Prin<lb rend="hidden" type="hyphenInWord"/>ciple with it, to aid, if not govern, its Determinations.</p>
+         <p>So that if you would form a just Judgment of what is of infinite Impor<lb rend="hidden" type="hyphenInWord"/>tance to you not to be misled in; name<lb rend="hidden" type="hyphenInWord"/>ly, in what Degree of real Merit you stand, either as an honest Man,—an use<lb rend="hidden" type="hyphenInWord"/>ful Citizen,—a faithful Subject to your King,—or a good Servant to your God,—call in RELIGION and MORALITY.—Look—What is written in the Law of God?—How readest thou?—Consult calm Reason, and the unchangeable O<lb rend="hidden" type="hyphenInWord"/>bligations
+<pb n="14" facs="20"/>
+of Justice and Truth,—What say they?</p>
+         <p>Let Conscience determine the Matter upon these Reports,—and then, if <hi>thy Heart condemn thee not,—</hi>which is the Case the Apostle supposes,—the Rule will be infallible,—<hi>Thou wilt have Con<lb rend="hidden" type="hyphenInWord"/>fidence towards God;</hi>—that is, have just Grounds to believe the Judgment thou hast past upon thyself, <hi>is</hi> the Judg<lb rend="hidden" type="hyphenInWord"/>ment of God; and nothing else but an Anticipation of that righteous Sentence, which will be pronounced, hereafter, upon thee by that BEING, before whom thou art finally to give an Account of thy Actions.</p>
+         <p>
+            <hi>Blessed is the Man,</hi> indeed then, as the Author of the Book of <hi>Ecclesiasti<lb rend="hidden" type="hyphenInWord"/>cus</hi> expresses it, <hi>Who is not pricked with the Multitude of his Sins.—Blessed is the Man whose Heart hath not condem<lb rend="hidden" type="hyphenInWord"/>ned him, and who is not fallen from his Hope in the Lord. Whether he be rich,</hi> continues he, <hi>or whether he be</hi>
+            <pb n="15" facs="21"/>
+            <hi>poor,—if he have a good Heart</hi> (a Heart thus guided and inform'd)—<hi>He shall at all Times rejoice in a chearful Countenance.</hi>—<hi>His Mind shall tell him more than seven Watchmen that sit above upon a Tower on high.</hi>—In the darkest Doubts it shall conduct him safer than a thousand Casuists, and give the State he lives in a better Secu<lb rend="hidden" type="hyphenInWord"/>rity for his Behaviour, than all the Clauses and Restrictions put together, which the Wisdom of the Legislature is forced to multiply,—forced I say, as Things stand; human Laws being not a Matter of original Choice, but of pure Necessity, brought in to fence against the mischievous Effects of those Con<lb rend="hidden" type="hyphenInWord"/>sciences, which are no Law unto them<lb rend="hidden" type="hyphenInWord"/>selves: Wisely intending by the many Provisions made, That in all such cor<lb rend="hidden" type="hyphenInWord"/>rupt or misguided Cases, where Prin<lb rend="hidden" type="hyphenInWord"/>ciple and the Checks of Conscience will not make us upright,—to supply their Force, and by the Terrors of Jails and Halters oblige us to it.</p>
+         <p>
+            <pb n="16" facs="22"/>
+To have the Fear of God before our Eyes; and, in our mutual Dealings with each other, to govern our Actions by the eternal Measures of Right and Wrong:—The first of these will comprehend the Duties of Religion: The second those of Morality; which are so inse<lb rend="hidden" type="hyphenInWord"/>parably connected together, that you cannot divide these two <hi>Tables,</hi> even in Imagination (tho' the Attempt is of<lb rend="hidden" type="hyphenInWord"/>ten made in Practice) without breaking and mutually destroying them both.</p>
+         <p>I said the Attempt is often made;—and so it is;—there being nothing more common than to see a Man, who has no Sense at all of Religion,—and indeed has <hi>so much</hi> of Honesty, as to pretend to none; who would yet take it as the bitterest Affront, should you but hint at a Suspicion of his Moral Character,—or imagine he was not conscientiously just, and scrupulous to the uttermost Mite.</p>
+         <p>
+            <pb n="17" facs="23"/>
+When there is some Appearance that it is so,—tho' one is not willing even to suspect the Appearance of so great a Virtue, as moral Honesty;—yet, were we to look into the Grounds of it in the present Case, I am persuaded we should find little Reason to envy such a Man the Honour of his Motive.</p>
+         <p>Let him declaim as pompously as he can on the Subject, it will be found at last to rest upon no better Foundation than either his Interest, his Pride, his Ease; or some such little and changeable Passion, as will give us but small De<lb rend="hidden" type="hyphenInWord"/>pendence upon his Actions in Matters of great Stress.</p>
+         <p>Give me Leave to illustrate this by an Example.</p>
+         <p>I know the Banker I deal with, or the Physician I usually call in, to be neither of them Men of much Religion: I hear them make a Jest of it every
+<pb n="18" facs="24"/>
+Day, and treat all its Sanctions with so much Scorn and Contempt, as to put the Matter past Doubt. Well,—notwith<lb rend="hidden" type="hyphenInWord"/>standing this, I put my Fortune into the Hands of the one,—and, what is dear<lb rend="hidden" type="hyphenInWord"/>er still to me, I trust my Life to the honest Skill of the other.—Now let me examine what is my Reason for this great Confidence.—Why,—in the first Place, I believe there is no Proba<lb rend="hidden" type="hyphenInWord"/>bility that either of them will employ the Power, I put into their Hands, to my Disadvantage. I consider that Honesty serves the Purposes of this Life.—I know their Success in the World de<lb rend="hidden" type="hyphenInWord"/>pends upon the Fairness of their Cha<lb rend="hidden" type="hyphenInWord"/>racters;—that they cannot hurt me without hurting themselves more.</p>
+         <p>But put it otherwise, namely, that Interest lay for once on the other Side.—That a Case should happen wherein the one, without Stain to his Reputa<lb rend="hidden" type="hyphenInWord"/>tion, could secrete my Fortune, and leave me naked in the World;—Or
+<pb n="19" facs="25"/>
+that the Other could send me out of it, and enjoy an Estate by my Death, with<lb rend="hidden" type="hyphenInWord"/>out Dishonour to himself or his Art.—In this Case what Hold have I of either of them?—Religion, the strongest of all Motives, is out of the Question.—Inte<lb rend="hidden" type="hyphenInWord"/>rest, the next most powerful Motive in this World, is strongly against me.—I have nothing left to cast into the Scale to ballance this Temptation.—I must lay at the Mercy of Honour,—or some such capricious Principle.—Strait Se<lb rend="hidden" type="hyphenInWord"/>curity! for two of my best and most valuable Blessings,—my Property and my Life!</p>
+         <p>As therefore we can have no Depen<lb rend="hidden" type="hyphenInWord"/>dence upon Morality without Religion;—so, on the other Hand, there is no<lb rend="hidden" type="hyphenInWord"/>thing better to be expected from Reli<lb rend="hidden" type="hyphenInWord"/>gion without Morality; nor can any Man be suppos'd to discharge his Du<lb rend="hidden" type="hyphenInWord"/>ties to God, (whatever fair Appearances he may hang out, that he does so) if he does not pay as conscientious a Re<lb rend="hidden" type="hyphenInWord"/>gard
+<pb n="20" facs="26"/>
+to the Duties, which he owes his Fellow-Creature.</p>
+         <p>This is a Point capable in itself of strict Demonstration.—Nevertheless, 'tis no Rarity to see a Man whose real moral Merit stands very low, who yet entertains the highest Notion of himself, in the Light of a devout and religious Man. He shall not only be covetous, revengeful, implacable,—but even wan<lb rend="hidden" type="hyphenInWord"/>ting in Points of common Honesty.—Yet because he talks loud against the Infidelity of the Age,—is zealous for some Points of Religion,—goes twice a Day to Church,—attends the Sacra<lb rend="hidden" type="hyphenInWord"/>ments,—and amuses himself with a few Instrumental Duties of Religion,—shall cheat his Conscience into a Judgment that for this he is a religious Man, and has discharged faithfully his Duty to God: And you will find, that such a Man, thro' Force of this Delusion, gene<lb rend="hidden" type="hyphenInWord"/>rally looks down with Spiritual Pride upon every other Man who has less
+<pb n="21" facs="27"/>
+Affectation of Piety, tho', perhaps, ten Times more moral Honesty than him<lb rend="hidden" type="hyphenInWord"/>self.</p>
+         <p>
+            <hi>This is likewise a sore Evil under the Sun;</hi> and I believe there is no one mistaken Principle which, for its Time, has wrought more serious Mischiefs. For a general Proof of this,—examine the History of the <hi>Romish</hi> Church.—See what Scenes of Cruelty, Murders, Rapines, Bloodshed, have all been sanctified by a Religion not strictly go<lb rend="hidden" type="hyphenInWord"/>verned by Morality.</p>
+         <p>In how many Kingdoms of the World, has the crusading Sword of this misguided Saint-Errant spared neither Age, or Merit, or Sex, or Condition.—And, as he fought under the Banners of a Religion, which set him loose from Justice and Humanity,—he shew<lb rend="hidden" type="hyphenInWord"/>ed none,—mercilessly trampled upon both, heard neither the Cries of the Unfortunate, nor pitied their Distresses.</p>
+         <p>
+            <pb n="22" facs="28"/>
+If the Testimony of past Centuries in this Matter is not sufficient,—consi<lb rend="hidden" type="hyphenInWord"/>der at this Instant, how the Votaries of that Religion are every Day think<lb rend="hidden" type="hyphenInWord"/>ing to do Service and Honour to God, by Actions which are a Dishonour and Scandal to themselves.</p>
+         <p>To be convinced of this, go with me for a Moment into the Prisons of the In<lb rend="hidden" type="hyphenInWord"/>quisition.—Behold <hi>Religion</hi> with Mer<lb rend="hidden" type="hyphenInWord"/>cy and Justice chain'd down under her Feet,—there sitting ghastly upon a black Tribunal, propp'd up with Racks and Instruments of Torment.—Hark!—What a piteous Groan!—See the me<lb rend="hidden" type="hyphenInWord"/>lancholy Wretch who utter'd it, just brought forth to undergo the Anguish of a Mock-Trial, and endure the ut<lb rend="hidden" type="hyphenInWord"/>most Pains that a studied System of <hi>religious Cruelty</hi> has been able to invent. Behold this helpless Victim delivered up to his Tormentors. His Body so wasted with Sorrow and long Confine<lb rend="hidden" type="hyphenInWord"/>ment, you'll see every Nerve and
+<pb n="23" facs="29"/>
+Muscle as it suffers.—Observe the last Movement of that horrid Engine.—What Convulsions it has thrown him into.—Consider the Nature of the Posture in which he now lies stretch'd.—What exquisite Torture he endures by it.—'Tis all Nature can bear.—Good God! See how it keeps his weary Soul hanging upon his trembling Lips, willing to take its Leave,—but cruelly not suffer'd to depart. Behold the unhappy Wretch led back to his Cell,—dragg'd out of it again to meet the Flames,—and the Insults in his last Agonies, which this Principle—This Principle that there <hi>can</hi> be Religion without Morality, has prepared for him.</p>
+         <p>The surest Way to try the Merit of any disputed Notion,—is to trace down the Consequences such a Notion has produced, and compare them with the <hi>Spirit</hi> of Christianity.—'Tis the short and decisive Rule, which our Saviour
+<pb n="24" facs="30"/>
+has left for these and such like Cases,—and is worth a thousand Arguments.<hi>—By their Fruits,</hi> says he, <hi>ye shall know them.</hi>
+         </p>
+         <p>Thus Religion and Morality, like fast Friends and natural Allies, can never be set at Variance, without the mutual Ruin and Dishonour of them both;—and whoever goes about this unfriendly Of<lb rend="hidden" type="hyphenInWord"/>fice, is no Well-wisher to either;—and whatever he pretends, he deceives his own Heart, and, I fear, his Morality as well as his Religion will be vain.</p>
+         <p>I will add no farther to the Length of this Discourse, than by two or three short and independent Rules, deducible from what has been said.</p>
+         <p>1<hi>st.</hi> Whenever a Man talks loudly against Religion, always suspect that it is not his Reason but his Passions which have got the Better of his Creed.
+<pb n="25" facs="31"/>
+—A <hi>bad Life</hi> and a <hi>good Belief</hi> are dis<lb rend="hidden" type="hyphenInWord"/>agreeable and troublesome Neighbours, and where they separate, depend upon it, 'tis for no other Cause but Quietness Sake.</p>
+         <p>2<hi>dly.</hi> When a Man thus represented, tells you in any particular Instance, that such a Thing goes <hi>against</hi> his Con<lb rend="hidden" type="hyphenInWord"/>science,—always believe he means ex<lb rend="hidden" type="hyphenInWord"/>actly the same Thing as when he tells you such a Thing goes against his Sto<lb rend="hidden" type="hyphenInWord"/>mach,—a present Want of Appetite being generally the true se of both.</p>
+         <p>In a Word,—trust the Man in no<lb rend="hidden" type="hyphenInWord"/>thing—who has not a Conscience in every Thing.</p>
+         <p>And in your own Case remember this plain Distinction, a Mistake, in which, has ruin'd Thousands.—That your Conscience is not a Law;—no,—God and Reason made the Law, and has placed Conscience within you to deter<lb rend="hidden" type="hyphenInWord"/>mine,—not like an <hi>Asiatic Cadi,</hi> ac<lb rend="hidden" type="hyphenInWord"/>cording
+<pb n="26" facs="32"/>
+to the Ebbs and Flows of his own Passions:—But like a <hi>British Judge</hi> in this Land of Liberty, who makes no new Law,—but faithfully declares that glorious Law which he finds already written.</p>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <p>By <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> same AUTHOR, The Case of <hi>Elijah</hi> and the Widow of <hi>Zerephath,</hi> consider'd: A CHARITYSERMON, Preach'd on Good Friday, April 17, 1747. For the Support of Two Charity-Schools in <hi>York.</hi> Printed for JOHN HILDYARD. Price 6d.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

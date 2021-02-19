@@ -1,0 +1,2186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The captive of Spilburg in two acts: as performed at the Theatre Royal, Drury Lane, altered from the favourite French drama called Le souterrain, with a preface by the translator. The music by Dussek.</title>
+            <author>Hoare, Prince, 1755-1834.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K029768.000</idno>
+            <idno type="docno">CW3310835800</idno>
+            <idno type="ecll">0049501800</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The captive of Spilburg in two acts: as performed at the Theatre Royal, Drury Lane, altered from the favourite French drama called Le souterrain, with a preface by the translator. The music by Dussek.</title>
+                  <author>Hoare, Prince, 1755-1834.</author>
+               </titleStmt>
+               <extent>x,47[i.e.46]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for Machell Stace, and J. Hatchard,</publisher>
+                  <date>1799.</date>
+                  <idno type="TCP">K029768.000</idno>
+                  <idno type="docno">CW3310835800</idno>
+                  <idno type="ecll">0049501800</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translated and adapted by Prince Hoare from 'Camille, ou le souterrain' by J. B. Marsollier des Vivetières.</note>
+                  <note>With a half-title. -P.46 mispaginated 47.</note>
+                  <note>Variant: the final speech on p.27, which was duplicated at the top of p.28, has been removed.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT19924.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>THE CAPTIVE OF SPILBURG, IN TWO ACTS.</p>
+            <p>[Price One Shilling and Sixpence.]</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>THE CAPTIVE OF SPILBURG <hi>IN TWO ACTS,</hi> AS PERFORMED AT THE THEATRE ROYAL, DRURY LANE, ALTERED FROM THE FAVOURITE FRENCH DRAMA CALLED <hi>LE SOUTERRAIN,</hi> WITH A PREFACE BY THE TRANSLATOR. <hi>The MUSIC by DUSSEK.</hi>
+            </p>
+            <p>INCONCUSSA FIDES.</p>
+            <p>
+               <hi>LONDON:</hi> PRINTED FOR MACHELL STACE, PRINCES STREET, LEICESTER SQUARE, AND J. HATCHARD, PICCADILLY. 1799.</p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="3"/>
+            <head>DRAMATIS PERSONAE.</head>
+            <list>
+               <head>MEN.</head>
+               <item>
+                  <hi>Korowitz, a Bohemian Nobleman</hi> Mr. Barrymore.</item>
+               <item>
+                  <hi>Canzemar, his Nephew</hi> Mr. Kelly.</item>
+               <item>
+                  <hi>Kourakin, in the service of Korowitz</hi> Mr. Bannister, Jun.</item>
+               <item>
+                  <hi>Mousic-Mirhoff, Servant to Canzemar</hi> Mr. Suett.</item>
+               <item>
+                  <hi>Liebstoff, Servant to Korowitz</hi> Mr. Caulfield.</item>
+               <item>
+                  <hi>Iwan, Son to Korowitz</hi> Miss Benson.</item>
+               <item>
+                  <hi>Officers of the Emperor's Guards</hi> Mr. Maddocks.</item>
+               <item>
+                  <hi>Officers of the Emperor's Guards</hi> Mr. Trueman.</item>
+               <item>
+                  <hi>Tachstein Soldier</hi>
+               </item>
+               <item>
+                  <hi>Kargad Soldier</hi>
+               </item>
+            </list>
+            <list>
+               <head>WOMEN.</head>
+               <item>
+                  <hi>Eugenia, Wife to Korowitz</hi> Mrs. Crouch.</item>
+               <item>
+                  <hi>Moola, a Peasant of Spilburg</hi> Mrs. Bland.</item>
+               <item>
+                  <hi>First Bohemian Dancer,</hi> Signora Bossi del Caro.</item>
+               <item>
+                  <hi>Soldiers, Peasants, Servants, &amp;c. &amp;c.</hi>
+               </item>
+            </list>
+            <p>SCENE. The Castle of Spilburg in Bohemia.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="4"/>
+            <p>TO THE LORD VISCOUNT NEWARK, BARON PIERREPONT, OF HOLME PIERREPONT, IN THE COUNTY OF NOTTINGHAM: L. L. D. <hi>This small Tribute of Respect and Friendship Is offered, and,</hi> With His Lordship's Permission, <hi>Inscribed, By the Translater.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="5"/>
+            <head>PREFACE.</head>
+            <p>THOSE who are conversant in the French Drama, will readily perceive that the <hi>Captive of Spilburg</hi> is little else than a translation of <hi>Le Souter<lb rend="hidden" type="hyphenInWord"/>rain.</hi> In adapting it to the English stage, endeavours have been used to select the most striking and in<lb rend="hidden" type="hyphenInWord"/>teresting features of the Original. The principal Alteration consists in the Airs, which, when new Mu<lb rend="hidden" type="hyphenInWord"/>sic is to be composed, it is seldom of any advan<lb rend="hidden" type="hyphenInWord"/>tage to translate.</p>
+            <p>Much censure has of late been cast on the neg<lb rend="hidden" type="hyphenInWord"/>ligence of those who write <hi>words</hi> for Musical Com<lb rend="hidden" type="hyphenInWord"/>positions. —That some remissness should creep in upon a laborious task, where the utmost diligence
+<pb n="viii" facs="6"/>can attain little praise, will be no subject of sur<lb rend="hidden" type="hyphenInWord"/>prize to any one accoustomed to habits of ap<lb rend="hidden" type="hyphenInWord"/>plication: but that indulgence may fairly be ex<lb rend="hidden" type="hyphenInWord"/>tended to writers of this description may be infer<lb rend="hidden" type="hyphenInWord"/>red from the apology made by the great Dryden for himself on this subject. In speaking of the diffi<lb rend="hidden" type="hyphenInWord"/>culties of our language, in musical composition, he says <q>it consists too much of monosyllables, and those too most commonly clogg'd with consonants, for which reason, (he adds) I am often forced to coin new words, revive some that are antiquated, and botch others, as if I had not served out my time in Poetry, but was bound 'Prentice to some Doggrel Rhimer, who makes songs to tunes and sings them for a livelihood. 'Tis true I have not been often put to this drudgery; but, <hi>where I have, the words sufficiently shew, that I was then a slave to the composition,</hi> which I will never be again.</q> In fact the diligent writer of words to be adapted to Music goes to work with fewer materials than any other, with a vocabulary <hi>disfurnished</hi> of at least one third of his language.
+<pb n="ix" facs="7"/>All close sounds, all words ending in mutes, all in which many consonants are perceptible to the ear; are unfavourable to, and some times incompatible with his purpose. What embarrassment this re<lb rend="hidden" type="hyphenInWord"/>striction produces, and how greatly it impedes the efforts of a writer, <hi>Experiment</hi> will best ascertain.</p>
+            <p>Unfortunately for this species of writing, it is likewise liable to censure from the errors of others as well as of the writer. The Music of every suc<lb rend="hidden" type="hyphenInWord"/>cessful Dramatic Production is immediately pub<lb rend="hidden" type="hyphenInWord"/>lished, and words are annexed to it, which, from the frequent inaccuracy (in that point) of the Cop<lb rend="hidden" type="hyphenInWord"/>per Plate Engraver, are <hi>very falsely said to be writ<lb rend="hidden" type="hyphenInWord"/>ten</hi> by the Author of the Piece. But this the judi<lb rend="hidden" type="hyphenInWord"/>cious observer will easily discriminate.</p>
+            <p>The Translator of the present Drama is as fully aware as the most splenetic critic can be, that pro<lb rend="hidden" type="hyphenInWord"/>ductions of this kind are of no great importance to the retired reader. They are however the food of the Stage; and a really comprehensive and can<lb rend="hidden" type="hyphenInWord"/>did
+<pb n="x" facs="8"/>mind will not estimate their merits merely by the scale of Literature, but will recollect that the Theatre demands action, that the best written plays <hi>may</hi> be the most unfit for representation, and that without this consideration the most accurate judge of books will be a very inadequate censor of dra<lb rend="hidden" type="hyphenInWord"/>matic writings.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="9"/>
+         <head>THE CAPTIVE OF SPILBURG.</head>
+         <div n="1" type="act">
+            <head>ACT I.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>Landskip of mountains covered with snow; in the front tall firs or pines, and on the side the extre<lb rend="hidden" type="hyphenInWord"/>mity of an ancient castle, from the door of which steps descend to the stage; the sky cloudy and the scene dark.</stage>
+               <stage>
+                  <hi>Enter</hi> CANZEMAR <hi>and</hi> MOUSIC.</stage>
+               <stage>DUET.</stage>
+               <l>HUSH'D in a stilly silence round,</l>
+               <l>All nature breathless seems to lie;</l>
+               <l>Save where, athwart the gloom profound,</l>
+               <l>The flick'ring vapours scare the eye.</l>
+               <sp>
+                  <pb n="2" facs="10"/>
+                  <speaker>Can.</speaker>
+                  <l>Coragio! Mousic!—follow!—hark!</l>
+                  <l>I voices hear.</l>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Owls in the dark.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Hush! listen! some one whispers near.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>A bat; I felt him brush my ear.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Onward, onward—prithee, faster—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Draw your rapier, noble master!</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>What! when nothing's here to fight?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <l>That <hi>nothing</hi> gives me most affright</l>
+                  <l>When 'tis night.</l>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Whither will this forest lead?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Master, take heed!</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>All is ruin'd here, and bare.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Master beware!</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Something touches at my head—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Oh, lud! we're dead.</p>
+               </sp>
+               <sp>
+                  <speaker>Canz.</speaker>
+                  <l>Shades of night, so fond to cover</l>
+                  <l>Projects of the vent'rous lover—</l>
+                  <l>Gently courted, now to me,</l>
+                  <l>Shades of night, propitious be!</l>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <l>If fairies or goblins should catch us!</l>
+                  <l>Or devils come hi<lb rend="hidden" type="hyphenInWord"/>ther to fetch us!</l>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <l>Good master, beware! in the deed of the night,</l>
+                  <l>Each <hi>nothing</hi> I meet puts me all in a fright.</l>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>What's yonder?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Oh, comfort! a man with a light.</p>
+               </sp>
+               <sp>
+                  <speaker>Both.</speaker>
+                  <l>Hope; like to yonder sparkling light,</l>
+                  <l>That cheers the lonely dwelling,</l>
+                  <l>Wakes in my heart her visions bright,</l>
+                  <l>All anxious fears dispelling.</l>
+               </sp>
+               <stage>
+                  <pb n="3" facs="11"/>
+CANZEMAR <hi>and</hi> MOUSIC <hi>go up the steps into the house; the clouds clear away and discover the moon at full and reflected in the water.</hi>
+               </stage>
+               <stage>
+                  <hi>Enter</hi> TACHSTEIN <hi>and</hi> KARGAD.</stage>
+               <sp>
+                  <speaker>K.</speaker>
+                  <p>How say'st thou, Tachstein, is not the night piercing cold?</p>
+               </sp>
+               <sp>
+                  <speaker>T.</speaker>
+                  <p>Aye, marry is it—Where is our Captain?</p>
+               </sp>
+               <sp>
+                  <speaker>K.</speaker>
+                  <p>Studying his occupations yonder.</p>
+               </sp>
+               <sp>
+                  <speaker>T.</speaker>
+                  <p>What, in the alehouse?</p>
+               </sp>
+               <sp>
+                  <speaker>K.</speaker>
+                  <p>Alehouse or inn—the village affords no better. Drinking is every where the noblest employment of a soldier; for what makes a brave soldier? contempt of danger. And what inspires contempt of danger? Why, drinking.</p>
+               </sp>
+               <sp>
+                  <speaker>T.</speaker>
+                  <p>I do not much value the bravery of a man in his cups.</p>
+               </sp>
+               <sp>
+                  <speaker>K.</speaker>
+                  <p>Hold thy peace, Tachstein, thou art ig<lb rend="hidden" type="hyphenInWord"/>norant; thou abusest speech, when thou say'st a man is in his cups, forsooth, as tho' the wine swallowed the man, and not the man the wine. Never say a man is in liquor; 'tis a foolish phrase; he is not in the liquor, but the liquor in him. Were some men in the liquor they drink, God help us!—they might be drown'd.</p>
+               </sp>
+               <sp>
+                  <speaker>T.</speaker>
+                  <p>If the <hi>man</hi> be not drown'd in liquor, his <hi>understanding</hi> is.</p>
+               </sp>
+               <sp>
+                  <speaker>K.</speaker>
+                  <p>Nay, how can wine drown the under<lb rend="hidden" type="hyphenInWord"/>standing,
+<pb n="4" facs="12"/>when, it is notorious that wine makes the brain <hi>swim?</hi> I say thou art ignorant. But come along, for we may have perilous service to perform to night.</p>
+               </sp>
+               <stage>
+                  <hi>Exit.</hi> TACH. <hi>and</hi> KARG.</stage>
+            </div>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>Inside of the Castle; a great Hall.</stage>
+               <stage>
+                  <hi>Enter</hi> CANZEMAR, MOUSIC, <hi>and</hi> KOURAKIN <hi>(with a taper in his hand.)</hi>
+               </stage>
+               <sp>
+                  <speaker>Kou. (With kindness)</speaker>
+                  <p>Lost your way, you say, in returning to Prague, and your horses unable to proceed! Hem! the snow falls apace, and the night is far advanced: <stage>(lifts up the taper and sur<lb rend="hidden" type="hyphenInWord"/>veys them attentively).</stage> 
+                     <hi>You</hi> look like an honest man <stage>(to Canzemar),</stage> and <hi>you</hi> 
+                     <stage>(to Mousic)</stage> hem?—</p>
+                  <stage>(doubting.</stage>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>I answer for <hi>him.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Aye? why, then I believe, in spite of the savage customs of the house, I must give you shelter.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(frightened)</stage>
+                  <p>what did you say, Sir? the savage—</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>We have traversed much ground in this castle, it must be of immense size.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>It <hi>was,</hi> but one half of it is tumbled down.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Aye, but the half that remains—</p>
+               </sp>
+               <sp>
+                  <pb n="5" facs="13"/>
+                  <speaker>Kou.</speaker>
+                  <p>Promises every hour to follow the other half.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Pray Sir, what may this place be?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>It was formerly an old convent, but long since deserted. There is nothing here now but long galleries, huge halls, dreadful subterra<lb rend="hidden" type="hyphenInWord"/>neous vaults, and—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Oh lord! what?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>You don't mind a ghost or two, do you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Ghosts?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Aye, we have them here by dozens; I believe I saw one or two here the other night my self.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(his teeth chattering with fear)</stage>
+                  <p>pray how long have you lived here?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>To reckon by the almanack, <hi>one</hi> year— to reckon by my feelings—<hi>ten.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>You are probably the—</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Gardener I was hired to be, but there being no longer any garden, I was placed within doors to direct the ceremonies of the house; but when no ceremony was observed here, I was made Steward to take care of the household fur<lb rend="hidden" type="hyphenInWord"/>niture; but there being little or no furniture, I was made Clerk to inspect the accoutns; but as there were no accounts to be kept, they made me Bailiff to collect the rents; but as there were no rents to collect—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>What did you do then?</p>
+               </sp>
+               <sp>
+                  <pb n="6" facs="14"/>
+                  <speaker>Kou.</speaker>
+                  <p>Then I came down to be Door-porter; but as no one ever comes to the door—</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>What is your present employment?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Making love. I find that makes the time pass rather quicker.</p>
+               </sp>
+               <sp>
+                  <speaker>Can. and Mou.</speaker>
+                  <p>Love in this place?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Just the place for it, and, to say the truth, it is my way in all places.</p>
+               </sp>
+               <stage>AIR.</stage>
+               <sp>
+                  <speaker>Kourakin.</speaker>
+                  <lg>
+                     <l>I've lov'd so many a maiden fair,</l>
+                     <l>Of names that so much vary,</l>
+                     <l>I scarcely know which caus'd my care,</l>
+                     <l>Or Fanny, Bess, or Mary;</l>
+                     <l>But happy I! for not a thing</l>
+                     <l>Can meet me so contrary,</l>
+                     <l>That will not make me think and sing</l>
+                     <l>Of Fanny, Bess, or Mary!</l>
+                     <l>With a heigho! heigho!</l>
+                  </lg>
+                  <lg>
+                     <l>I always was, from boy to man,</l>
+                     <l>Well pleas'd to toy with any—</l>
+                     <l>Now if a lady flap her fan,</l>
+                     <l>Why—straight I think on Fanny.</l>
+                     <l>Dear Fanny I remember yet,</l>
+                     <l>No lass so smart and pretty—</l>
+                     <l>But if you offer me a bet,</l>
+                     <l>Why—then I think on Betty.</l>
+                     <l>With a heigho! heigho!</l>
+                  </lg>
+                  <lg>
+                     <pb n="7" facs="15"/>
+                     <l>Then Betty she is all my theme,</l>
+                     <l>So round, so plump, and jolly;</l>
+                     <l>But if I hear a Parrot scream—</l>
+                     <l>It makes me think on Polly.</l>
+                     <l>Thus happy I! while scarce a thing</l>
+                     <l>Can meet me so contrary,</l>
+                     <l>That will not make me think and sing</l>
+                     <l>Of Fanny, Bess, or Mary.</l>
+                     <l>With a heigho! heigho!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>You seem to have a merry heart. Pray will you introduce my master to the lord of this castle?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Impossible.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Just to speak with him.—</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>He never speaks to any body; he has spoken to me only once since he came here, and that is a week ago.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Who is he, pray?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>I never heard.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Where does he come from?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>He never disclosed.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>What's his condition?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>That's a secret—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>What name does he go by?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>"Your Honour," to his face, and be<lb rend="hidden" type="hyphenInWord"/>hind his back "the Bear"</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(pulling <hi>CAN.</hi> by the sleeve)</stage>
+                  <p>Sir—Sir—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>What does he do in this lonely place?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Frets, and sighs, stalks to and fro, and
+<pb n="8" facs="16"/>talks to himself. I should be discharged if he did but hear that I had let a stranger in at the cas<lb rend="hidden" type="hyphenInWord"/>tle gate.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>If it had been possible to find shelter any where else, you should not have run that risk.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Did not you see the little inn in the forest?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>An inn!</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>That wretched hovel, Sir, where we attempted to procure a lodging among those armed men; but <stage>(<hi>to</hi> KOU.)</stage> it was crammed full of such ill looking—</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Oh you must not trust to looks here-abouts, the best looking here are the worst at heart.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Indeed! to my mind <hi>you</hi> are the best looking man we have seen to night: If you should turn out—</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Hush! hush!</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> LIEBSTOFF.</stage>
+               <stage>(<hi>Coarsely accoutred, with a rough and fierce aspect)</hi>
+               </stage>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Ha! Liebstoff? well! is my master come in?</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <stage>(very gruffly)</stage>
+                  <p>yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>And where is he?</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <p>Gone to the grated chamber.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Did he speak, when he came in?</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <p>Yes—</p>
+               </sp>
+               <sp>
+                  <pb n="9" facs="17"/>
+                  <speaker>Kou.</speaker>
+                  <p>Ah! what did he say?</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <p>Get out. What are you doing here? Begone!</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Did he say all that to you? He must be in a remarkable sweet temper to be so conversa<lb rend="hidden" type="hyphenInWord"/>ble. Alone, I suppose, as usual?</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <p>No he brought a child in with him.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>A child!</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>He is going to eat him, I suppose</p>
+                  <stage>(with fear)</stage>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <stage>(angrily to Mousic)</stage>
+                  <p>Psha! a stout man in a black mask led him hither, <stage>(MOUSIC <hi>frightened</hi>)</stage> and I heard him say to my master—Yes, my lord, he is on the road to Prague, —on which my lord—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Knock'd him down, I conclude.</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <p>Peace! my lord smiled.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Smiled? something strange is going to happen.</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <p>You wait here for him, do you?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>I'm ready whenever the great gong strikes, as usual.</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <stage>(taking Kou. aside)</stage>
+                  <p>Who are these men?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>They are two of my cousins, come to my wedding.</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <p>Well thought of; the wedding is to be to morrow, is not it? You are welcome, gentle<lb rend="hidden" type="hyphenInWord"/>men: i'll just carry my master his poniard and pis<lb rend="hidden" type="hyphenInWord"/>tols
+<pb n="10" facs="18"/>and then for a dance! Kourakin, we'll be mortal merry.</p>
+               </sp>
+               <stage>
+                  <hi>(Exit</hi> LIEBSTOFF</stage>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Pray who is that mortal merry gentle<lb rend="hidden" type="hyphenInWord"/>man?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>That is the upper footman.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>A pretty figure for his place! and pray is that the livery of the castle?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Why, as beauty's no recommendation here, and your rueful visages are most in request, their clothes are made to set them off to advan<lb rend="hidden" type="hyphenInWord"/>tage, as you see.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Yes, I perceive it.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>If my master should chance to spy you, don't forget that you are my cousins, and to mor<lb rend="hidden" type="hyphenInWord"/>row at break of day,—Hush! I thought I heard— No it is only my little bride Moolina coming this way. You'll see what a nice, pretty, little— <stage>
+                        <hi>Enter</hi> MOOLA.</stage> Moola, I have something particular to say to you. You must know that—</p>
+                  <stage>
+                     <hi>(the gong strikes, and</hi> KOURAKIN <hi>runs off)</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>So; he is the <hi>running</hi> Footman, I sup<lb rend="hidden" type="hyphenInWord"/>pose. What is the meaning of that noise?—</p>
+               </sp>
+               <sp>
+                  <speaker>Mool.</speaker>
+                  <p>Tis the gong. I'll tell you what it means.</p>
+               </sp>
+               <stage>
+                  <pb n="11" facs="19"/>
+TRIO. <hi>Canzemar, Mousic and Moola.</hi>
+               </stage>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <l>Of the gong, of the gong sirs, I'll tell you the meaning,</l>
+                  <l>Its meaning by day, and its meaning by night,</l>
+                  <l>But if it call me, sirs, while I am explaining,</l>
+                  <l>Away, in an instant, I go like a sprite.</l>
+                  <l>In the morn, when my master first strikes on the gong,</l>
+                  <l>One—bome—its for <hi>silence,</hi> we all think that wrong.</l>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>What! silence the women?</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <l>We all think it wrong.</l>
+                  <l>When his dinner is serv'd, a loud thundering blow</l>
+                  <l>Sends every one out of his sight in a minute,</l>
+                  <l>And at night, when to bed he commands us to go,</l>
+                  <l>Dingy dongy, ding dongy—</l>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(yawns)</stage>
+                  <p>There is conjuring in it.</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <l>From the gong thus we learn all our master's behests,</l>
+                  <l>To wake, or to sleep—</l>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(aside)</stage>
+                  <p>Or to murder the guests!</p>
+                  <stage>(gong)</stage>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>Hark! hark! there's good tidings;</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Pray what may they be?</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>His supper's now ready, and after sup we.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(aside)</stage>
+                  <p>For the last time in this world!</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>How pleasant we'll be! <stage>(gong)</stage> Hark!—good b'ye.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Can.</hi> and <hi>Mou.</hi>
+                  </speaker>
+                  <p>Whither now?</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>I must go, no delaying—</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Can.</hi> and <hi>Mou.</hi>
+                  </speaker>
+                  <p>Nay, a moment—</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>I dare not—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Go on, you were saying—</p>
+                  <stage>(gong)</stage>
+               </sp>
+               <sp>
+                  <pb n="12" facs="20"/>
+                  <speaker>
+                     <hi>Moo. Can.</hi> and <hi>Mou.</hi>
+                  </speaker>
+                  <l>
+                     <list>
+                        <item>No, no, you</item>
+                        <item>Aye, aye, we</item>
+                     </list>
+hear the wrong sounds,</l>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <l>I dare not freak or tarry;</l>
+                  <l>'Tis fortunate no gong sounds,</l>
+                  <l>When we're inclined to marry.</l>
+               </sp>
+               <stage>MOOL. <hi>runs out.</hi>
+               </stage>
+               <stage>(a short silence)</stage>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Pray, Sir, give me leave to ask you a question.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>What is it, Mousic?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Don't you think this is a horrible ugly place?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Yes truely, ugly enough.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>A devilish cut-throat place?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Certainly it has the air of one.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Upon my word you're very comforting, Sir; what do you propose to do till day break?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Read, to divert my thoughts. let me see that book.</p>
+               </sp>
+               <stage>(MOUSIC <hi>brings a book which lay on a table.</hi> CANZEMAR <hi>opens it.</hi>)</stage>
+               <stage>
+                  <hi>Reads</hi> "Thoughts on death."</stage>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Oh lord! they mean to prepare us for it: yes, yes, we shall be punished now for all your mad pranks, for your running away with that beautiful lady, whose lise you saved from the rob<lb rend="hidden" type="hyphenInWord"/>bers,
+<pb n="13" facs="21"/>
+                     <gap resp="#pdcc" extent="1 line" rend="content:〈1 line〉">
+                        <desc>illegible</desc>
+                     </gap> thought you was carrying her <gap resp="#pdcc" extent="1 span" rend="content:〈…〉">
+                        <desc>illegible</desc>
+                     </gap> Do you forget that, Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Can</speaker>
+                  <p>Would I could forget it!</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>B<gap resp="#pdcc" extent="3 letters" rend="content:•••">
+                        <desc>illegible</desc>
+                     </gap>des that, you have murder on your head.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Murder?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Yes, did not you shoot one of the ruf<lb rend="hidden" type="hyphenInWord"/>fians?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>No, <hi>you</hi> killed him, Mousic.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Oh lord! lord! It must have been a very random shot, for you know as well as I, that I run away as fast as my legs could carry me.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>And is this all my crime?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>No no, there's worse than that, did not the poor lady tell you she was married (though in private and bound not to disclose her husband's name), and did not you nevertheless consine her for several days in your house, till you found you could not prevail on her to be be your mistress?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>And then did not I carry her back to Prague, Sirrah?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Where you set her adrift without know<lb rend="hidden" type="hyphenInWord"/>ing whither she was going.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Those were terms of her own making, to which I acceded on condition of her never re<lb rend="hidden" type="hyphenInWord"/>vealing to any mortal what had pass'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Aye, I remember you made her take a terrible solemn oath about it. That was a
+<pb n="14" facs="22"/>proof there was no good in what you had done, or you would not have been so afraid of owning it.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>My vanity was mortified at her resist<lb rend="hidden" type="hyphenInWord"/>ance, and suggested to me that method of con<lb rend="hidden" type="hyphenInWord"/>cealing a folly, which now causes the remorse of my life.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Oh! does it so? then this is the mo<lb rend="hidden" type="hyphenInWord"/>ment for repentance; for my part it has quite re<lb rend="hidden" type="hyphenInWord"/>formed <hi>me.</hi> I'll never speak to a woman again as long as I live. Oh lord!—what did I see there? something all in white.—</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Why, 'tis Moolina coming back to us.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Aye! I thought 'twas a ghost at least, a nice, little, lively—eh! hist! Moolina! Moolina!</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>What! you won't speak to a woman! you are reformed!</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>To a <hi>strange</hi> woman, I mean, Sir. I have seen Moolina, you know, before; besides, in good resolutions one should not be too hasty.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> MOOLINA.</stage>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>Kourakin has sent me to you, to beg that you will not grow impatient: he'll come back to you presently.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Don't let him trouble himself about that, pretty Moolina. If you will stay with us, we don't want Kourakin to come back at all. So
+<pb n="15" facs="23"/>you're going to be married to him, are you, pretty Moolina?</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>Oh dear! the wedding was to have been a week ago, but my master came home unex<lb rend="hidden" type="hyphenInWord"/>pectedly, and we were forced to stay till he gave consent.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Your master!—a nice little bride, is not she, Sir? and what did your master say?</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>Say! ha! ha! ha! he never says any thing; he only made a sign.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>What; do you never get a word from him?</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>Never; its always either <stage>(nods)</stage> or <stage>(shakes her head)</stage> or</p>
+                  <stage>(makes a sign with her hand as ordering any one to go away)</stage>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>And so, which of all these signs did he make to you about your wedding?</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <stage>(nods)</stage>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Oh that happy dog Kourakin! But are not you afraid, Moolina, to venture on a master for life?</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>So I tell the men, but I have no design to be taken at my word—</p>
+               </sp>
+               <stage>AIR.</stage>
+               <sp>
+                  <speaker>Moola.</speaker>
+                  <lg>
+                     <l>When the shepherds ask my hand, Sir,</l>
+                     <l>Little heed I of their pain;</l>
+                     <l>With a curtsey I make answer—</l>
+                     <l>Thank'ye, Sir—but call again—</l>
+                     <l>
+                        <pb n="16" facs="24"/>
+For I have vow'd to wear the willow,</l>
+                     <l>Willow, willow;</l>
+                     <l>Thank'ye Sir, I'll wear the willow,</l>
+                     <l>Willow, willow.</l>
+                  </lg>
+                  <lg>
+                     <l>But when feigning's o'er, believe me,</l>
+                     <l>Hand and heart I'll give my swain;</l>
+                     <l>And, if false he should deceive me,</l>
+                     <l>Try my Fortune o'er again:</l>
+                     <l>I have no heart to wear the willow,</l>
+                     <l>Willow, willow;</l>
+                     <l>Thank'ye Sir, I'll wear no willow</l>
+                     <l>Willow, willow.</l>
+                  </lg>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> KOURAKIN <hi>(hastily)</hi>
+               </stage>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Get away, get away! my master has made signs that he's coming. What shall we do with our strangers? we must hide them. Stand you before them, Moolina, oh! I wish you were a little taller; there! there! hush! hush! that way!</p>
+               </sp>
+               <stage>
+                  <hi>(they all pass through a small door that stands open and</hi> KOURAKIN <hi>remains on the watch)</hi>
+               </stage>
+               <stage>
+                  <hi>Enter</hi> KOROWITZ, <hi>his hair in disorder, with a disturbed aspect. Three servants, uncouthly drest, carry an arm chair, a writing desk and a chande<lb rend="hidden" type="hyphenInWord"/>lier with several lights. During the whole of this action a symphony is play'd.</hi>
+               </stage>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>What, the devil! is he coming to settle
+<pb n="17" facs="25"/>here? if he sees me, and orders me out, we are all discover'd.
+<stage>
+                        <hi>Symphony continued.</hi> KOROWITZ <hi>makes signs to the Servants to quit the room. The musick as much as possible represents his agitated state of mind; he opens the desk, begins to write a letter, tears it and rises.</hi>
+                     </stage>
+No, I cannot bear to look upon a name so fatal to my repose <stage>(takes a miniature from his bosom, looks at it, presses it to his heart)</stage> Eugenia! the conflict overpowers me!</p>
+               </sp>
+               <stage>Exit.</stage>
+               <stage>KOURAKIN, MOOLA, CANZEMAR <hi>and</hi> MOUSIC <hi>return on tiptoe.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>If that is the longest speech he ever makes, I don't wonder you cannot tell us any more about him.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Well! and where is he going now?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>It is believ'd he goes into the apartment of a young woman confined in this castle, whom nobody ever saw, and who died in consequence of ill treatment from a certain steward.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>And what is become of that steward?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>He also died about a week ago, and that is the reason my master came hither.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(alarmed)</stage>
+                  <p>Does every body die then, that comes into the castle?</p>
+               </sp>
+               <sp>
+                  <pb n="18" facs="26"/>
+                  <speaker>Kou.</speaker>
+                  <p>Generally speaking?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Have you never had the curiosity to fol<lb rend="hidden" type="hyphenInWord"/>low him?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>No; he makes use of a trifling precau<lb rend="hidden" type="hyphenInWord"/>tion to prevent me.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>What's that?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>A brace of loaded pistols, which he car<lb rend="hidden" type="hyphenInWord"/>ries about him to answer impertinent questions.</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <p>Come, away! Where are you going to carry the gentlemen, Kourakin?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>There is no other hiding place than that little passage under the stair case, level with the court yard.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Aye <hi>in</hi> the court yard, I suppose.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Why, I confess 'tis not much out of it, but it will keep you in a dry skin, and I will come and fetch you as soon as our little dance begins</p>
+                  <stage>(gong sounds)</stage>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Moo.</hi> and <hi>Kou.</hi>
+                  </speaker>
+                  <p>Away! away!</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>He has not seen us, and—</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>He is a madman, Sir, don't expose your life. If he sees you, 'tis not your being my cousins can keep you here. There <stage>
+                        <hi>(leads</hi> CANZEMAR <hi>and</hi> MOUSIC <hi>to a door on the other side of the scene)</hi>
+                     </stage> go down those steps—a little lower—that's right.</p>
+               </sp>
+               <stage>CANZEMAR <hi>and</hi> MOUSIC <hi>go in at the door.</hi> KOURAKIN <hi>and</hi> MOOLA <hi>run off.</hi>
+               </stage>
+               <stage>
+                  <pb n="19" facs="27"/>
+KOROWITZ <hi>returns. (The symphony is repeated.)</hi>
+               </stage>
+               <sp>
+                  <p>Will then my bosom still pant, when I approach this place! underneath this spot breathes the wretched Eugenia—myself only conscious of the se<lb rend="hidden" type="hyphenInWord"/>cret. Guilty, yet most adored of women, how il! hast thou repaid my affection! from thy lowly station I lifted thee to my own, I loved thee with tenderness unequalled, unabating. Could'st thou be faithless to me! <stage>(<hi>pause</hi>)</stage> Yet do I pity thee, unhappy victim! shut from the light of heaven! dead to thy friends, to every joy of life! and yet living! Alas! thou little think'st thy wretched husbands is now so near thee, or how gladly, even at the price of his own blood, he would purchase the belief of thy innocence! I shud<lb rend="hidden" type="hyphenInWord"/>der to open this secret entrance, by my contrivance concealed from every eye <stage>(<hi>opens a spring door, and discovers behind it, a dark staircase leading down to a dungeon</hi>)</stage> Barbarian that I am! have I doomed her to this horrid dungeon! Yes; 'twas my voice pronounced the cruel sentence: <stage>(<hi>appears to be going down but turns back suddenly</hi>)</stage> 'Twas to offended honor that I sacrificed her. No, I'll not go down, lest, sosten'd by the fight of her misery, my heart betray me to a weakness.</p>
+               </sp>
+               <stage>AIR. EUGENIA <hi>(from the dungeon)</hi> KOROWITZ <hi>listens with great emotion.</hi>
+               </stage>
+               <l>Oh, cheering hope! Oh, faithful guide!</l>
+               <l>Thou too art gone, the captive cried,</l>
+               <l>Then fainting stoop'd to earth, and died.</l>
+               <sp>
+                  <pb n="20" facs="28"/>
+                  <speaker>Kor.</speaker>
+                  <p>That voice disarms me. Shall I then ven<lb rend="hidden" type="hyphenInWord"/>ture to look on her? no! let me not forget that she refuses to speak the name of him who bore her from my cowardly servants in triumph, who de<lb rend="hidden" type="hyphenInWord"/>tained her thee long weeks, and extorted from her, as she says, an oath never to reveal his name. She loves him—Hell is in that thought; she shall speak his name or never more behold the light. At midnight her son shall descend with me. If that fail, I must seek a new guardian of this dun<lb rend="hidden" type="hyphenInWord"/>geon. I am inclined to trust Kourakin, but I must be wary. <stage>(<hi>knocking without</hi>)</stage> Who presumes to knock <stage>(<hi>aloud and sternly</hi>)</stage> who knocks?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>'Tis me, Sir, saving your presnce, and with all possible submission, and not desiring to come in if your Honor does not please to choose it.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor. (much agitated shuts the spring which dis<lb rend="hidden" type="hyphenInWord"/>closed the entrance of the dungeon and opens the door of the room)</speaker>
+                  <p>come in—</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> KOURAKIN.</stage>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>What the devil can he be doing here so long? Surely this cannot be the room that—</p>
+                  <stage>(<hi>looks anxiously round</hi>)</stage>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <stage>(sternly)</stage>
+                  <p>Kourakin.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <stage>(frightened)</stage>
+                  <p>you honour!</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>No! I'll first make proof of her affection
+<pb n="21" facs="29"/>to her child</p>
+                  <stage>(<hi>makes a sign to Kourakin to leave the room</hi>)</stage>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>I ask pardon, your honour, I have a slight favour to beg of your honour.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>What is it?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Your honour knows, I am to be married to morrow.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>What then?</p>
+                  <stage>(<hi>impatiently</hi>)</stage>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>You were so good to give Moolina and me leave to keep our wedding in the castle.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Well!</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Well, your honor, and so I came to tell you that this hall being the most distant from your apartment, we had made choice of it for our little hop, that we might not disturb you.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>This hall!</p>
+                  <stage>(with agitation)</stage>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <stage>(frightened)</stage>
+                  <p>Why, as your honour knows, the castle is not in the best repair all over. This room seems the most secure, and the best for our hop, because they say there are vaults under it. Is it true, Sir? <stage>(KOROWITZ <hi>starts</hi>)</stage> So, Sir, with your leave, it shall be here. <stage>(KOROWITZ <hi>appears thoughtful, and affected; during his si<lb rend="hidden" type="hyphenInWord"/>lence</hi> KOURAKIN <hi>seeing his countenance more mild, ventures nearer to him)</hi>
+                     </stage> Won't my master be pleased to honor with his presence the hap<lb rend="hidden" type="hyphenInWord"/>piest day of Kourakin's life? I am sure your ho<lb rend="hidden" type="hyphenInWord"/>nor has a good heart at bottom; I know, though you seem so stern, you do not mean to be ill-na<lb rend="hidden" type="hyphenInWord"/>tured
+<pb n="22" facs="30"/>to any one, and if, to divert your melan<lb rend="hidden" type="hyphenInWord"/>choly, you were to take a pretty little wife too, such an one as—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <stage>(with a half stifled voice)</stage>
+                  <p>a wife!</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Such an one as I could recommend, your honour, might be as happy as I am—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <stage>(unable to restrain his emotion)</stage>
+                  <p>Happy! oh!</p>
+               </sp>
+               <stage>Exit hastily.</stage>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <stage>(looking after him with surprize)</stage>
+                  <p>well said, Bear! What an incomprehensible animal it is! the first civil word he hears, he takes fright and runs away.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> MOOLINA.</stage>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Well, Moolina, I have obtained by mas<lb rend="hidden" type="hyphenInWord"/>ter's leave for a dance, but it must not be here. Oh; if you had seen his face when I mentioned it! <stage>
+                        <hi>(imitates the gestures and countenance of</hi> KOROWITZ)</stage> so we will now return to our friends, and be as merry as merry hearts can make us.</p>
+               </sp>
+               <stage>DUET. KOURAKIN <hi>and</hi> MOOLA.</stage>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <l>When you and I, love, married are,</l>
+                  <l>And hearts and hands entwine;</l>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <l>Oh, how we'll make the neighbours stare,</l>
+                  <l>So smart! so gay! so fine!</l>
+               </sp>
+               <sp>
+                  <pb n="23" facs="31"/>
+                  <speaker>Moo.</speaker>
+                  <l>When song and carol sweetly found,</l>
+                  <l>We'll bear away the bell:</l>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <l>And when we dance a merry round,</l>
+                  <l>There's none shall dance so well.</l>
+               </sp>
+               <sp>
+                  <speaker>Both.</speaker>
+                  <p>When you and I, love, married are, &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <l>The lads are always teazing me,</l>
+                  <l>And strive my heart to win;</l>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <l>Let other girls their sweethearts be,</l>
+                  <l>And thine be Kourakin!</l>
+               </sp>
+               <sp>
+                  <speaker>Moo.</speaker>
+                  <l>The lasses all, whene'er you call,</l>
+                  <l>Look round with smiling eyne;</l>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <l>But marry they with whom they may,</l>
+                  <l>Moulina shall be mine.</l>
+               </sp>
+               <sp>
+                  <speaker>Both.</speaker>
+                  <p>When you and I, love, &amp;c.</p>
+               </sp>
+               <stage>
+                  <hi>Exit</hi> KOU. <hi>and</hi> MOOLA.</stage>
+               <stage>Scene changes to another part of the castle, where the peasants of the village are assembled in honor of Kourakin's intended wedding.</stage>
+               <stage>DANCE OF PEASANTS.</stage>
+               <sp>
+                  <speaker>CHORUS.</speaker>
+                  <l>Come, neighbours, to the hall!</l>
+                  <l>Come, come, come, come along!</l>
+                  <l>'Tis the bridegroom doth call,</l>
+                  <l>Strike up the cheerful song!</l>
+                  <l>Tripping, tripping o'er the ground,</l>
+                  <l>Lightly, neatly,</l>
+                  <l>Gaily, featly,</l>
+                  <l>Dance a merry, merry round!</l>
+                  <l>
+                     <pb n="24" facs="32"/>
+Bring along the flowing bowl,</l>
+                  <l>And right jolly we will be;</l>
+                  <l>Let us welcome mirth and glee,</l>
+                  <l>And our catches blithely troll!</l>
+                  <l>Tripping, tripping o'er the ground,</l>
+                  <l>Lightly, neatly,</l>
+                  <l>Gaily, fealty,</l>
+                  <l>Dance a merry, merry round!</l>
+               </sp>
+               <stage>
+                  <hi>Kourakin, Moola and Mousic enter, and take their places at a table prepared for them, during the continuance of the Festival, which consists of va<lb rend="hidden" type="hyphenInWord"/>rious Dances,</hi> &amp;c. &amp;c.</stage>
+            </div>
+            <trailer>END OF ACT I.</trailer>
+         </div>
+         <div n="2" type="act">
+            <pb facs="33"/>
+            <head>
+               <note place="bottom" n="*">A short scene was added in representation at the open<lb rend="hidden" type="hyphenInWord"/>ing of the 2d act, for the purpose of introducing an air sung by Mrs. Bland. The air only is here printed.
+<stage>AIR.</stage>
+                  <sp>
+                     <speaker>MOOLA.</speaker>
+                     <lg>
+                        <l>IN poor ones ne'er let envy rise,</l>
+                        <l>Or love of wealth allure,</l>
+                        <l>Since wealth can close no wakeful eyes,</l>
+                        <l>No wounds of sorrow cure.</l>
+                        <l>A conscience pure still let me keep,</l>
+                        <l>To make my slumbers light,</l>
+                        <l>And when I lay me down to sleep,</l>
+                        <l>Bid ev'ry care <hi>good night!</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Contentment, like the tranquil dove,</l>
+                        <l>Rests on my couch at eve.</l>
+                        <l>Nor shall, when near me sleeps my love,</l>
+                        <l>My humble pillow leave:</l>
+                        <l>For there we'll let no discord creep,</l>
+                        <l>To break our slumbers light,</l>
+                        <l>But, when we lay us down to sleep,</l>
+                        <l>Wish from the heart <hi>good night.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+               </note>ACT II.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>Apartment in the Castle dimly lighted.</stage>
+               <stage>
+                  <hi>Enter</hi> CANZEMAR <hi>and</hi> MOUSIC. <hi>Mousic has a Portmanteau in his hands, and keeps always close to Canzemar thro' excess of fear.</hi>
+               </stage>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>To sleep, is impossible in the place they assign'd us.</p>
+               </sp>
+               <sp>
+                  <pb n="26" facs="34"/>
+                  <speaker>Mou.</speaker>
+                  <p>Oh!—such a wind! such beds! and those cursed doors at my back and shoulders!</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Look if there be not some way out at the end of the gallery.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>No, Sir, there is none.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>How do you know? go and see—Why don't you go?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Dear Sir, you don't consider; I—</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Do as I order you.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Don't press me so much, pray don't; If any harm should befal you, while I am gone, I never could forgive myself.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <stage>(laughing).</stage>
+                  <p>Shall we stay here then?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Yes, let us stay here.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Fetch me that arm chair.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>A—an—arm chair; <stage>(not daring to move, or to look round)</stage>. I don't see any, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>There, down yonder—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(going a step or two, returns)</stage>
+                  <p>If you would but be so good, Sir, just to shew it me.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>I perceive I must fetch it myself; <stage>
+                        <hi>(brings
+<pb n="27" facs="35"/>forward a chair, and sits down)</hi>
+                     </stage>. I shall seat my<lb rend="hidden" type="hyphenInWord"/>self here, and try to sleep.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>And I, here, <stage>(places himself on the ground close to his master, making a pillow of the port<lb rend="hidden" type="hyphenInWord"/>manteau).</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Silence then—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>I'll be as still as a mouse. <stage>(Mousic lies down on the portmanteau, to sleep. A noise in the gallery. He puts his ear to the ground to listen, then starts up in a fright).</stage> Sir! Sir! I am certain of it; I heard it.—</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>What an insufferable coward! <stage>(rising)</stage> Heard, what?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>There, below, a great way off. It <hi>is</hi> one, Sir; it is a ghost, an apparition! The stew<lb rend="hidden" type="hyphenInWord"/>ard or the young lady!—Don't you see a dark lanthorn, and a man with two pistols? they are coming to murder us!</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>My sword! quick; fetch it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mon.</speaker>
+                  <p>I shall never be able to find it. I see two men now coming with two dark—</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Psha! fool! It is Kourakin.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>My fear makes me see double—Don't they—I mean, does not <hi>be</hi> beckon to us?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>To you I think he beckons—he has per<lb rend="hidden" type="hyphenInWord"/>haps a better bed to shew us.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Then, if you please, I'll go to him.</p>
+               </sp>
+               <sp>
+                  <pb n="28" facs="36"/>
+                  <speaker>Can.</speaker>
+                  <p>Do so—but be sure you are ready for de<lb rend="hidden" type="hyphenInWord"/>parture in the morning.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Oh, never fear—the thoughts of ghosts will keep me on the watch.</p>
+               </sp>
+               <stage>
+                  <hi>Exit.</hi> MOUSIC.</stage>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Kourakin will be happy with the object of his wishes!—a blessing, to which my heart must be a stranger.</p>
+               </sp>
+               <stage>AIR.</stage>
+               <sp>
+                  <speaker>CANZEMAR.</speaker>
+                  <l>Oh, cruel Fortune! busy thou</l>
+                  <l>To mock the constant heart;</l>
+                  <l>To bind the cold, the joyless vow,</l>
+                  <l>And plighted love to part!</l>
+               </sp>
+               <stage>
+                  <hi>Exit</hi> CANZEMAR.</stage>
+            </div>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>The Hall in the Castle, with the concealed door of the Souterrain.</stage>
+               <stage>
+                  <hi>Enter</hi> KOROWITZ—<hi>(a brace of pistols in his belt)— leading in</hi> IWAN, <hi>whose eyes are bandaged.</hi>
+               </stage>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>Where are we going, Father?</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Are you frighten'd?</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>I should be, if I was not with you— but I am not afraid now, because I know you are here too.</p>
+               </sp>
+               <sp>
+                  <pb n="29" facs="37"/>
+                  <speaker>Kor.</speaker>
+                  <p>Your courage pleases me—but you must be something more than brave—</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>What must I be, Father?</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Discreet beyond thy years.</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>I'll do all I can to please you.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>And secret as the grave.—I must disclose to you a circumstance, on which a father's happi<lb rend="hidden" type="hyphenInWord"/>ness, nay, a father's life depends.</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>And did you think I would ever tell <hi>that</hi> again, Pappa?—Oh fie!</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>The boy reproves me—You are very young—</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>Not too young to love you dearly—</p>
+               </sp>
+               <stage>KOR. <hi>touches the spring of the concealed door, which opens and discovers the iron grate of the Dungeon. He raises the grate, then leads the boy towards it, and unites the bandage of his eyes.</hi>
+               </stage>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Go down those steps, and bring me a basket which you will find there.—</p>
+               </sp>
+               <stage>IWAN <hi>goes down a few steps of the Dungeon, and re<lb rend="hidden" type="hyphenInWord"/>turns with a basket.</hi>
+               </stage>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <stage>(taking up the basket, starts)</stage>
+                  <p>How! the basket of yesterday's provisions un<lb rend="hidden" type="hyphenInWord"/>touch'd! <stage>(IWAN <hi>goes down again unperceived by</hi>
+                        <pb n="30" facs="38"/>KOROWITZ)</stage> Hapless woman! can she design to terminate life by these means! the idea chills my blood—If I thought a ray of hope might con<lb rend="hidden" type="hyphenInWord"/>tribute to—</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <stage>(returns)</stage>
+                  <p>Oh Father, What do you think I have seen?</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Speak—quickly—</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>A poor woman, down in that dark place—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <stage>(affected)</stage>
+                  <p>Boy, it is thy mother.</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>My mother! you told me some time ago that she was dead—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>To the world perhaps she is.</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>Will you kill her then?</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <stage>(with great emotion of tenderness)</stage>
+                  <p>Kill her! She is the very idol of my soul. Did she perceive thee just now?</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>No, I am sure, not—for she was fast asleep on the ground.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Asleep! asleep! <stage>(shudders)</stage> It must be as I suspect—Her blood lie on my head!</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <stage>(frightened)</stage>
+                  <p>What did you say, Fa<lb rend="hidden" type="hyphenInWord"/>ther?</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <stage>(angrily)</stage>
+                  <p>Begone—here—remain here till I come to you— <stage>(leads the child to an inner door, and shuts him within it).</stage> If she be dead, I will have no witness of the fatal end of my severity— <stage>(he approaches the steps)</stage> Eugenia! <stage>(louder)</stage>
+                     <pb n="31" facs="39"/>Eugenia!— <stage>(listens anxiously—a pause—during which be expresses great agitation)</stage> Eugenia!</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <stage>(from the Dungeon)</stage>
+                  <p>Who calls Eugenia?</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>She lives! Ascend.</p>
+               </sp>
+               <stage>(<hi>Eugenia ascends the steps of the Dungeon, and comes out: She appears pale and faint</hi>)</stage>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>Korowitz!—I had lost the hope ever to look on you again. Comes my husband hither as my deliverer or my judge?</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Perhaps as both—if you are prepared to confess your crime—</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>These caverns are the witness of my sus<lb rend="hidden" type="hyphenInWord"/>fering—Heaven of my innocence.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Thy innocence! Thou art resolved then—to the safety of a paramour thou wilt sacri<lb rend="hidden" type="hyphenInWord"/>fice thy husband and <hi>thy son</hi>—</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>My son! <stage>(violently agitated)</stage> Since I have been buried here, I have never heard him named by any voice but mine—Oh tell me, Koro<lb rend="hidden" type="hyphenInWord"/>witz, for pity tell me if he lives and prospers—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>He lives and weeps for thee—When I first brought thee hither, I caused a report to be spread of thy death—</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <stage>(starts)</stage>
+                  <p>And shall I never see my boy again! Cruel Korowitz! Hast thou separated us for ever!</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Hear me, Eugenia! this is the last hour— mark me, the last—which must irrevocably decide
+<pb n="32" facs="40"/>my will: If thou wouldst wish to see thy son again—</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>Oh spare me! If thou bid me hope to see my boy again, be careful thou dost not de<lb rend="hidden" type="hyphenInWord"/>ceive me!</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>I do not deceive thee, but remember the confession, which must, if you wish me to bring him to thee.——</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>Bring him to me—If I wish it!—Oh, canst thou ask that question of a mother?</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Beware, Eugenia! Remember the con<lb rend="hidden" type="hyphenInWord"/>ditions.</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>Let me look upon my son!</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>This is to promise compliance.</p>
+               </sp>
+               <stage>(KOROWITZ <hi>goes to the door and leads out</hi> IWAN, EUGENIA <hi>runs eagerly to him</hi>)</stage>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>My boy! my boy! my long lost boy!</p>
+                  <stage>(<hi>embraces him</hi>).</stage>
+               </sp>
+               <stage>(KOROWITZ <hi>advances, takes</hi> IWAN'S <hi>hand, and turns to</hi> EUGENIA).</stage>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Eugenia!</p>
+                  <stage>(looking at her with severity)</stage>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>I understand you—Yet, ere I loose the bond of an oath registered in heaven, pledge me thy word, that my confession shall not involve—</p>
+               </sp>
+               <sp>
+                  <pb n="33" facs="41"/>
+                  <speaker>Kor.</speaker>
+                  <p>I make no terms—confess instantly, or you lose your son again—</p>
+               </sp>
+               <stage>(A great noise heard without)</stage>
+               <stage>(CANZEMAR <hi>without</hi>) KOROWITZ!</stage>
+               <stage>(KOROWITZ <hi>and</hi> EUGENIA <hi>both start</hi>)</stage>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Whose voice was that?</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <stage>(without)</stage>
+                  <p>Sir, Sir,—here are armed men at the gate.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Withdraw, or death awaits thee.—
+<stage>(<hi>observing Eugenia advancing, stops her</hi>)</stage> At thy peril raise thy voice—</p>
+               </sp>
+               <sp>
+                  <speaker>Lie.</speaker>
+                  <stage>(without)</stage>
+                  <p>They have orders from the Em<lb rend="hidden" type="hyphenInWord"/>peror, and insist on admittance—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Arm all my people—I come—Eugenia, return to the cavern—Iwan follow me.</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <stage>(clasping her child)</stage>
+                  <p>We will not part a second time.</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>'Twill be for ever.</p>
+               </sp>
+               <stage>(KOROWITZ <hi>stoops to seize the boy's hand, who clings to</hi> EUGENIA).</stage>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>Oh, let me go! I will stay with my mother.</p>
+               </sp>
+               <sp>
+                  <pb n="34" facs="42"/>
+                  <speaker>Lie.</speaker>
+                  <stage>(without)</stage>
+                  <p>My lord! my lord! open the door—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Be it so then. <stage>(to Iwan)</stage> go down with her— <stage>(Eugenia and Iwan go to the steps)</stage>— but tremble, lest this grate should never open on ye more.</p>
+                  <stage>(they go down; Korowitz closes the iron grate, replaces the spring, and hastens to open the other door, at which enter Canzemar, Liebstoff, &amp;c. &amp;c.</stage>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Korowitz! my honour'd uncle! is it thus we meet again!</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Canzemar! What is this disturbance? how came you into this castle?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Travelling to—but this is no time for ex<lb rend="hidden" type="hyphenInWord"/>planation— you are accused of crimes—there are orders for your arrest—if you are guilty, sly in<lb rend="hidden" type="hyphenInWord"/>stantly— <stage>(<hi>Korowitz disturbed</hi>)</stage> If you are innocent, appear and vindicate your<lb rend="hidden" type="hyphenInWord"/>self.—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Vindicate myself!</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>They talk of some secret marriage—a lady of the name of Eugenia—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Go on—of what am I accused?</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Her sudden death is imputed to you— within these few days her child too is missing— her family have brought their accusation before the Emperor, who commands you immediately to appear—Come to Prague—three days will suf<lb rend="hidden" type="hyphenInWord"/>fice—</p>
+               </sp>
+               <sp>
+                  <pb n="35" facs="43"/>
+                  <speaker>Kor.</speaker>
+                  <stage>(with evident anxiety)</stage>
+                  <p>Three days! and no creature—miserable, hopeless sufferers! Canzemar, observe me well: 'tis in your power to render me the most signal service.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Command me in what you please, but quickly—the Emperor's officers—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>True;—know then, that, in a Souter<lb rend="hidden" type="hyphenInWord"/>rain of this Castle, I devote to my just resentment a victim—</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>A victim! can it be she, who—</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Make no enquiries: accept the sacred trust; let food,—conveyed by none but yourself, be constantly supplied, sufficient to support an unhappy woman, and a still more helpless be<lb rend="hidden" type="hyphenInWord"/>ing, dear to my heart—underneath this hall—an iron grating—Heavens! they come!</p>
+               </sp>
+               <stage>[<hi>Guards enter as he is speaking, and drive back the servants who opposed them. An officer advances to</hi> KOROWITZ, <hi>and delivers to him the orders for his arrest.</hi>]</stage>
+               <stage>March of Soldiers.</stage>
+               <stage>CHORUS. <hi>Officer,</hi> KOROWITZ, CANZEMAR, <hi>Sol<lb rend="hidden" type="hyphenInWord"/>diers, &amp;c.</hi>
+               </stage>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Where wrongs oppress, or helpless sorrows cry,</l>
+                  <l>Imperial Justice darts her sleepless eye;</l>
+                  <l>And, 'midst the murky shades of low'ring night,</l>
+                  <l>Tracks, undeceiv'd, the murd'rers secret flight.</l>
+               </sp>
+               <sp>
+                  <pb n="36" facs="44"/>
+                  <speaker>Off.</speaker>
+                  <p>Order! Arms!</p>
+               </sp>
+               <sp>
+                  <speaker>Canz.</speaker>
+                  <l>Ring out th' alarm!</l>
+                  <l>Bid ev'ry faithful vassal arm!</l>
+                  <stage>(KOROWITZ <hi>shews the orders of arrest to</hi> CANZEMAR)</stage>
+                  <stage>(Canz. reads)</stage>
+                  <q>
+                     <l>Our Sov'reign's mandate at your hands</l>
+                     <l>The Baron Korowitz demands.</l>
+                  </q>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Behold him!</p>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <p>Hence with us away!</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>I yield!</p>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <p>He yields, and all obey.</p>
+               </sp>
+               <sp>
+                  <speaker>Canz.</speaker>
+                  <p>Yet grant a few moments! Oh, grant to <stage>(to Off.)</stage> my pray'r, At parting, one friendly farewell! <stage>(to Kor.)</stage> Now speak, what your pleasure— <stage>(to Off.)</stage> to yield we prepare; <stage>(to Kor.)</stage> Your purpose these moments may tell.</p>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <p>Away with this tristing! our orders are clear:</p>
+               </sp>
+               <sp>
+                  <speaker>Canz.</speaker>
+                  <p>Yet speak!</p>
+                  <stage>(to Kor. Korowitz appears violently agitated, but refuses to speak to Canzemar.)</stage>
+               </sp>
+               <sp>
+                  <speaker>Off.</speaker>
+                  <p>Come away! we are loiterers here.</p>
+               </sp>
+               <sp>
+                  <speaker>Canz.</speaker>
+                  <l>How wildly in his mien confest,</l>
+                  <l>The stormy passions tear his breast!</l>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Away! this instant! hence, away!</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <l>He yields—he yields—and all obey—</l>
+                  <l>Away, this instant! hence, away!</l>
+               </sp>
+               <stage>(KOROWITZ <hi>is led off guarded by the soldiers—</hi> CANZEMAR <hi>&amp;c. go out on the other side.</hi>
+               </stage>
+            </div>
+            <div n="3" type="scene">
+               <pb n="37" facs="45"/>
+               <head>SCENE III.</head>
+               <stage>A ruinous part of the Castle.</stage>
+               <stage>
+                  <note place="bottom" n="*">Objections having been made to parts of this scene, the whole was omitted on the 2nd night of performance.—As much as is here printed, is retained, not in vain desiance of criticism, but on account of its obvious tendency, in the latter part, to explain the progress of the Drama.</note>
+                  <hi>Enter</hi> KOURAKIN <hi>with a candle in his hand, and</hi> MOUSIC <hi>with a bottle—both drunk.</hi>
+               </stage>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Come, comrade—now we have taken a sober glass together, we'll go back to my bride—a pretty, elegant—genteel girl—just— just—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Just fit for you—</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>That's the very thing I was just going to say—here—do you take the candle, and I'll take your arm <stage>(leaning on him)</stage> and show you the way.</p>
+                  <stage>(gives Mousic the candle)</stage>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Kourakin, do you think this road safe?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Safe! what the devil ails it? is it not the road from the cellar to the hall? I warrant me, I travel to the cellar often enough in the day to judge whether the road be safe or not—</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>Aye, but—look up at that roof—</p>
+                  <stage>(<hi>lists the candle towards the roof</hi>)</stage>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Why, what is the matter with the roof?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>It rocks so—backward and forward—</p>
+               </sp>
+               <sp>
+                  <pb n="38" facs="46"/>
+                  <speaker>Kou.</speaker>
+                  <p>Poh,—pho!—rocks indeed! faith, I think it <hi>does</hi> rock a little—but you said it rocks back<lb rend="hidden" type="hyphenInWord"/>ward and forward—now I think it rocks sideways.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>You know you told us this evening that the other half was tumbling.— <stage>(<hi>he drops the bottle</hi>)</stage> oh lord! there is some of it dropt now at my foot.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <stage>(looking first with fear, but, seeing the bottle, laughs)</stage>
+                  <p>Ha! ha! why, Mousic—in sober sad<lb rend="hidden" type="hyphenInWord"/>ness, I believe you have a <hi>drop</hi> in your head— that's the bottle, fool—it's a mercy you did not break it and spill the liquor.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>No fear of that—we saw the liquor clear out, before we left the cellar—</p>
+               </sp>
+               <stage>(Stoops to pick up the bottle and lets the candle fall—it goes out)</stage>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(trembling)</stage>
+                  <p>Kourakin!</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>What's the matter?</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>The candle's gone out—if there should be robbers here! I'm horribly afraid—</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Never mind the robbers—the only thing <hi>I</hi> am afraid of, is—that you are tipsy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <stage>(angrily)</stage>
+                  <p>No such thing—I'm as so<lb rend="hidden" type="hyphenInWord"/>ber as you are—hey day! what's all this?</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> CANZEMAR <hi>and</hi> OTHERS <hi>with lights.</hi>
+               </stage>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>What are you doing here, Sirrah!</p>
+                  <stage>(to Mousic)</stage>
+               </sp>
+               <sp>
+                  <pb n="39" facs="47"/>
+                  <speaker>Mou.</speaker>
+                  <p>Sir—I—honest Kourakin and I—</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Are both drunk, I see.</p>
+               </sp>
+               <sp>
+                  <speaker>Mou.</speaker>
+                  <p>No Sir, only a little overcome with fear, that's all.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Answer me, Kourakin; what knowledge have you of vaults under these apartments, where a woman and child are inhumanly buried?</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>A woman and child buried!—I know of only one vault under these rooms, and there's neither woman or child buried in that.—to be sure, Mousic and I have just left a few dead men there—</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>How!</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>All — all natural subjects of Bo<lb rend="hidden" type="hyphenInWord"/>hemia.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Blockhead!—we'll dig up the whole castle rather than forego our search.</p>
+               </sp>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>With all my heart—the sooner it tum<lb rend="hidden" type="hyphenInWord"/>bles the better—only keep clear of the wine-cel<lb rend="hidden" type="hyphenInWord"/>lar—don't let the air in there to spoil the wine.</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>Follow us, sirrah!</p>
+               </sp>
+               <stage>(<hi>Exit</hi> CANZEMAR, <hi>&amp;c.</hi>)</stage>
+               <sp>
+                  <speaker>Kou.</speaker>
+                  <p>Come—come, Mousic—we'll follow to<lb rend="hidden" type="hyphenInWord"/>gether, and you shall go first—I don't know how it is to-day—every thing in my head goes round like a catharine-wheel.</p>
+               </sp>
+               <stage>(<hi>Exeunt</hi> MOUSIC <hi>and</hi> KOURAKIN <hi>arm in arm</hi>)</stage>
+            </div>
+            <div n="4" type="scene">
+               <pb n="40" facs="48"/>
+               <head>SCENE IV.</head>
+               <stage>A Forest.</stage>
+               <stage>
+                  <hi>Enter</hi> KOROWITZ, <hi>his sword drawn, and as if fly<lb rend="hidden" type="hyphenInWord"/>ing from pursuit.</hi>
+               </stage>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>This way alone remained—I have escaped my guards, and will return to pre<lb rend="hidden" type="hyphenInWord"/>serve the life of Eugenia. <stage>(looks out at the side)</stage> Yonder they come—they track me—if they seize me once again—</p>
+                  <stage>(<hi>runs out</hi>)</stage>
+               </sp>
+            </div>
+            <div type="scene">
+               <head>SCENE <hi>the last.</hi>
+               </head>
+               <stage>
+                  <hi>The upper part of the stage represents ruins of the castle and open ground covered with snow;—the snow continues to fall. The lower part exhibits the inside of the Souterrain, in which</hi> EUGENIA <hi>and</hi> IWAN <hi>are confined. In the vault of the dungeon appears the iron grating, from which steps descend into the ca<lb rend="hidden" type="hyphenInWord"/>vern —a lamp hangs from the roof.</hi>—</stage>
+               <stage>EUGENIA <hi>is discovered within the dungeon seated by</hi> IWAN, <hi>who lies on a mean couch asleep.</hi>
+               </stage>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <stage>(rises)</stage>
+                  <p>The last threat of Korowitz will be accomplish'd—the accustom'd hour is past, and no one opens the dungeon to convey my scanty food—
+<pb n="41" facs="49"/>
+                     <stage>(listens)</stage> surely those were distant voices— <stage>(attempts to cross to the place whence she thought the sound came, but is too faint—listens again)</stage>—my exhausted strength prevented me from calling for aid—I hear them no more— <stage>(looks with tenderness at her child)</stage> Heaven will not abandon that little innocent—he was not restored to me only to die in my arms.—</p>
+                  <stage>AIR.</stage>
+                  <lg>
+                     <l>Dwell, gentle sleep, on <hi>Iwan's</hi> eyes,</l>
+                     <l>That witness not a mother's woes:</l>
+                     <l>Nor let him mark my heaving sighs,</l>
+                     <l>Nor view my grief, that silent flows!</l>
+                  </lg>
+                  <lg>
+                     <l>I'll not bedew that glowing cheek</l>
+                     <l>With tears, that fall, dear boy, for thee,</l>
+                     <l>Left, falling, they thy slumbers break,</l>
+                     <l>And teach thee how to weep for me.</l>
+                  </lg>
+               </sp>
+               <stage>(IWAN <hi>wakes and rises from the couch</hi>)</stage>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>Do you never see the day light here?</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <stage>—(sighs)</stage>
+                  <p>Never—</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <p>But I don't wish to see it without you— you said they sometimes brought you food at these steps—</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>None has been brought to-night. <stage>(alarm'd)</stage> didst thou complain my child?</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <stage>(apparently faint and ill)</stage>
+                  <p>No, mother— Iam very well—quite well—indeed—</p>
+               </sp>
+               <sp>
+                  <pb n="42" facs="50"/>
+                  <speaker>Eug.</speaker>
+                  <p>Thou flatterest me—thy icy hands— dearest child, the want of air, of nourishment—</p>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <stage>(running into her arms)</stage>
+                  <p>You do not sus<lb rend="hidden" type="hyphenInWord"/>fer less than I do: why should I not be as patient as you are?</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>I am inured to the dampness of this cavern, but thy tender age— <stage>(<hi>lifting her hands to to heaven</hi>)</stage> Oh heaven!</p>
+                  <stage>(<hi>tries to warm his hards by breathing on them</hi>)</stage>
+               </sp>
+               <sp>
+                  <speaker>Iwan.</speaker>
+                  <stage>(in a weak voice)</stage>
+                  <p>I am strong enough yet—I can yet—</p>
+                  <stage>(<hi>his voice entirely fails</hi>)</stage>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>He faints! and no help! my son! Iwan! <stage>(<hi>she tries to recover him</hi>)</stage>— <stage>(<hi>expresses joy</hi>)</stage> he clasps my hand—oh no, he is dying!—I now feel I am a mother, and repent. <stage>(<hi>a flash of light appears amongst the rocks</hi>)</stage> what glimmering light is that? nothing so bright has ever visited these caves— <stage>(<hi>the light of torches is discovered possing near the sum<lb rend="hidden" type="hyphenInWord"/>mit of the Souterain</hi>)</stage> My child! look up! they are coming hither to preserve us—you shall not die—here is food— <stage>(IWAN <hi>lifts up his head, but is unable to support himself</hi>)</stage> all, all is over— <stage>(<hi>the lamp goes out</hi>)</stage> the light extinguished too!—Koro<lb rend="hidden" type="hyphenInWord"/>witz—Help! Help!—alas no help is near—no hope remains—embrace me, my sweet child! press me in thy arms—we will die thus together—</p>
+                  <stage>(they remain folded in each other's arms)</stage>
+               </sp>
+               <stage>
+                  <pb n="43" facs="51"/>
+SYMPHONY. <hi>Men with torches and pickaxes are seen above the Souterrain, digging and breaking up the vault: large stones fall and at length—the opening of the Souterrain falls in. Eugenia is frightened, shrieks, but thinks only of saving her boy from danger: the workmen above, satisfied with their success, proceed no farther amongst the ruins.</hi>—CANZEMAR <hi>leaps down and runs to</hi> EUCENIA—EUGENIA <hi>faints on the body of her child</hi>—CANZEMAR <hi>expresses mixed concern and surprize at seeing her.</hi>
+               </stage>
+               <stage>During the action above described, is sung the fol<lb rend="hidden" type="hyphenInWord"/>lowing</stage>
+               <stage>AIR AND CHORUS.</stage>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <l>What sounds are those? above, around,</l>
+                  <l>Increasing niurmurs shake the ground.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <stage>(without and at a distance)</stage>
+                  <p>Eugenia!</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <l>Listen! Whence that sound?</l>
+                  <l>— 'Twas but the shrill resounding shore,</l>
+                  <l>Or haply, but the sullen roar</l>
+                  <l>Of hollow wintry wind.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <stage>(more distinctly heard)</stage>
+                  <p>Eugenia!</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <l>Listen, Iwan! hear!</l>
+                  <l>Was't not a voice that met my ear,</l>
+                  <l>Sweet voice of human kind?</l>
+                  <l>
+                     <pb n="44" facs="52"/>
+—'Twas but some houseless bird, that flies,</l>
+                  <l>Amid the menace of the skies,</l>
+                  <l>To seek these caverns drear;—</l>
+                  <l>'Twas but the lightning, flashing bright</l>
+                  <l>Athwart the lonely gloom of night;—</l>
+                  <l>No human aid is near!</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <stage>(aloud and in sight)</stage>
+                  <p>Eugenia!</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <p>Here!</p>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>She's found! She's found!</l>
+                  <l>Our labours with success are crown'd!</l>
+               </sp>
+               <sp>
+                  <speaker>Canz.</speaker>
+                  <l>Eugenia! lift thy heart to joy!</l>
+                  <l>Safety's at hand.</l>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <l>Oh! save my boy!</l>
+                  <stage>(she kneels)</stage>
+                  <l>Oh, pow'r supreme, my child desend!</l>
+                  <l>Oh! hear a mother's pray'r!</l>
+                  <l>Let him to light, to life ascend,</l>
+                  <l>Beneath thy guardian care!</l>
+               </sp>
+               <sp>
+                  <speaker>Canz. and Chor.</speaker>
+                  <l>She's found!—She's found! Our sorrow ends!</l>
+                  <l>Eugenia, lift thy heart to joy!</l>
+                  <l>Behold! around thee all are friends,</l>
+                  <l>Who guard thy life; who save thy boy!</l>
+               </sp>
+               <stage>KOROWITZ <hi>appears on the upper part of the ruins, as flying from the guard (who pur<lb rend="hidden" type="hyphenInWord"/>sue him) and defending himself with his sword against them—</hi>
+               </stage>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <p>Away—Away! tho' guilty, her life shall be preserv'd— <stage>
+                        <hi>(he leaps down into the cavern and runs to</hi> EUGENIA, <hi>who, still fainting, is now sup<lb rend="hidden" type="hyphenInWord"/>ported
+<pb n="45" facs="53"/>by</hi> CANZEMAR).</stage> Heavens! what do I see!</p>
+               </sp>
+               <sp>
+                  <speaker>Can.</speaker>
+                  <p>The innocent victim of thy severity. In <hi>me</hi> behold the unhappy cause of thy suspicions— <stage>(KOROWITZ <hi>turns towards</hi> CANZEMAR <hi>in great rage)</hi>
+                     </stage> The secrecy of thy union may best plead in excuse of my offence—thy wife was spotless as the snow of heaven! but see! she revives!</p>
+               </sp>
+               <sp>
+                  <speaker>Kor.</speaker>
+                  <stage>(kneels and clasps <hi>EUCENIA</hi> in his arms)</stage>
+                  <p>Eugenia! look up, thou injur'd sufferer!</p>
+               </sp>
+               <sp>
+                  <speaker>Eug.</speaker>
+                  <stage>(lifting her eyes and hands towards him)</stage>
+                  <p>My husband!</p>
+               </sp>
+               <stage>(KOROWITZ <hi>raises</hi> EUGENIA <hi>from the ground, while others appear to administer relief to</hi> IWAN, <hi>who is afterwards embraced tenderly by his parents.)</hi>
+               </stage>
+               <stage>FINAL CHORUS.</stage>
+               <sp>
+                  <l>Hope, thy genia! ray we feel,</l>
+                  <l>Charming ev'ry care to rest:</l>
+                  <l>Lo! returning pleasures steal</l>
+                  <l>Gently o'er her heaving breast!</l>
+                  <l>Loudly now let transport swell!</l>
+                  <l>Notes of joy our rapture tell!</l>
+                  <l>While the vaulted caves around</l>
+                  <l>Echo back the welcome sound.</l>
+               </sp>
+               <sp>
+                  <pb n="47" facs="54"/>
+                  <speaker>Eug.</speaker>
+                  <l>Bright those eyes with mercy beam!</l>
+                  <l>Once again I clasp my boy!</l>
+                  <l>Cease, my soul, thy se rsul dream;</l>
+                  <l>Waken to the voice of joy!</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus</speaker>
+                  <l>While the vaulted caves around</l>
+                  <l>Echo back the welcome sound!</l>
+               </sp>
+               <stage>The curtain falls.</stage>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

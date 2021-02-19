@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to Mr. Secretary Dundas. In answer to his speech on the late proclamation. By Thomas Paine:</title>
+            <title>Letter to Mr. Henry Dundas</title>
+            <author>Paine, Thomas, 1737-1809.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023264.000</idno>
+            <idno type="docno">cw3304134774</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to Mr. Secretary Dundas. In answer to his speech on the late proclamation. By Thomas Paine:</title>
+                  <title>Letter to Mr. Henry Dundas</title>
+                  <author>Paine, Thomas, 1737-1809.</author>
+               </titleStmt>
+               <extent>24p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for J. Parsons,</publisher>
+                  <date>1792.</date>
+                  <idno type="TCP">K023264.000</idno>
+                  <idno type="docno">cw3304134774</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copies of this edition are found with either press figure 3 or 5 on p.15.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT5848.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>A LETTER TO Mr. SECRETARY DUNDAS.</p>
+            <p>IN ANSWER TO <hi>HIS SPEECH</hi> ON THE LATE PROCLAMATION.</p>
+            <p>BY THOMAS PAINE.</p>
+            <p>LONDON: PRINTED FOR J. PARSONS, No. 21, PATER-NOSTER ROW.</p>
+            <p>1792.</p>
+            <p>PRICE SIX-PENCE.</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>TO Mr. SECRETARY DUNDAS.</head>
+         <opener>
+            <salute>SIR,</salute>
+            <dateline>
+               <hi>London,</hi> 
+               <date>
+                  <hi>June</hi> 6, 1792.</date>
+            </dateline>
+         </opener>
+         <p>AS you opened the debate in the House of Com<lb rend="hidden" type="hyphenInWord"/>mons, May 25th, on the Proclamation for suppressing Publications, which that Proclamation (without naming any) calls wicked and seditious, and as you applied those opprobious epithets to the works entitled "RIGHTS OF MAN," I think it unnecessary to offer any other reason for addressing this Letter to you.</p>
+         <p>I begin, then, at once, by declaring that I do not believe there are to be found in the writings of any author, ancient or modern, on the subject of Government, a spirit of greater benignity, and a stronger inculcation of moral principles than in
+<pb n="4" facs="3"/>those which I have published. They come, Sir, from a man, who, by having lived in different countries, and under different systems of Govern<lb rend="hidden" type="hyphenInWord"/>ment, and who, being intimate in the construc<lb rend="hidden" type="hyphenInWord"/>tion of them, is a better judge of the subject than it is possible that you, from the want of those op<lb rend="hidden" type="hyphenInWord"/>portunities, can be:—And, besides this, they come from an heart that knows not how to beguile.</p>
+         <p>I will further say, that when that moment ar<lb rend="hidden" type="hyphenInWord"/>rives in which the best consolation that shall be left will be that of looking back on some past actions, more virtuous, more meritorious, than the rest, I shall then with happiness remember, among other things, I have written the RIGHTS OF MAN.— As to what Proclamations, or Prosecutions, or Place-men, or place-expectants—those who pos<lb rend="hidden" type="hyphenInWord"/>sess, or those who are gaping for office, may say or them, it will not alter their character, either with the world or with me.</p>
+         <p>Having, Sir, made this declaration, I shall pro<lb rend="hidden" type="hyphenInWord"/>ceed to remark, not particularly upon your own Speech on that occasion, but on any other Speech to which your Motion on that day gave rise; and I shall begin with that of Mr. ADAM.</p>
+         <p>This Gentleman accuses me of <hi>not</hi> having done the very thing that <hi>I have done,</hi> and which, he says, if I <hi>had</hi> done, he should not have accused me.</p>
+         <p>Mr. ADAM, in his Speech, (see the Morning Chronicle of May 26,) says, <q>That he had well
+<pb n="5" facs="4"/>considered the subject of Constitutional Publi<lb rend="hidden" type="hyphenInWord"/>cations, and was by no means ready to say (but the contrary) that books of science upon Go<lb rend="hidden" type="hyphenInWord"/>vernment, though recommending a doctrine or system different from the form of our Constitu<lb rend="hidden" type="hyphenInWord"/>tion, (meaning that of England) were fit objects of prosecution; that if he did, he must condemn (which he meant not to do) HARRINGTON for his Oceana, SIR THOMAS MORE for his Eu<lb rend="hidden" type="hyphenInWord"/>topia, and HUME for his idea of a perfect Com<lb rend="hidden" type="hyphenInWord"/>mon-wealth. But, (continued Mr. Adam,) the Publication of Mr. PAINE was very different; for it reviled what was <hi>most sacred</hi> in the Con<lb rend="hidden" type="hyphenInWord"/>stitution, destroyed every principle of subordi<lb rend="hidden" type="hyphenInWord"/>nation, and <hi>established nothing in their room.</hi>
+            </q>
+         </p>
+         <p>I readily perceive that Mr. ADAM had not read the <hi>Second</hi> Part of the <hi>Rights of Man,</hi> and I am put under the necessity, either of submitting to an er<lb rend="hidden" type="hyphenInWord"/>roneous charge, or of justifying myself against it; and I certainly shall prefer the latter.—If, then, I shall prove to Mr. ADAM, that, in my reasoning upon Systems of Government in the Second Part of <hi>Rights of Man,</hi> I have shewn as clearly, I think, as words can convey ideas, a certain system of Go<lb rend="hidden" type="hyphenInWord"/>vernment; and that not existing in theory only, but already in full and established practice, and systematically and practically free from all the vices and defects of the English Government, and capa<lb rend="hidden" type="hyphenInWord"/>ble of producing more happiness to the People,
+<pb n="6" facs="5"/>and that also with an eightieth part of the Taxes, which the present System of English Government consumes; I hope he will do me the justice when he next goes to the House, to get up and confess he had been mistaken in saying, that I had <hi>esta<lb rend="hidden" type="hyphenInWord"/>blished nothing, and that I had destroyed every princi<lb rend="hidden" type="hyphenInWord"/>ple of subordination.</hi> Having thus opened the case, I now come to the point.</p>
+         <p>In the Second Part of RIGHTS OF MAN, I have distinguished Government into two classes or systems; the one the hereditary system; the other the representative system.</p>
+         <p>In the First Part of <hi>Rights of Man,</hi> I have en<lb rend="hidden" type="hyphenInWord"/>deavoured to shew, and I challenge any man to refute it, that there does not exist a right to esta<lb rend="hidden" type="hyphenInWord"/>blish Hereditary Government; or, in other words, Hereditary Governors; because Hereditary Go<lb rend="hidden" type="hyphenInWord"/>vernment always means a Government yet to come, and the case always is, that the People who are to live afterwards, have always the same right to chuse a Government for themselves, as the peo<lb rend="hidden" type="hyphenInWord"/>had who lived before them.</p>
+         <p>In the Second Part of <hi>Rights of Man,</hi> I have not repeated those arguments, because they are irrefutable; but have confined myself to shew the defects of what is called Hereditary Government, or Hereditary Succession; that it must, from the nature of it, throw Government into the hands of men totally unworthy of it, from want of prin<lb rend="hidden" type="hyphenInWord"/>ciple,
+<pb n="7" facs="6"/>or unfitted for it from want of capacity.— James the IId is recorded as an instance of the first of these cases; and instances are to be found almost all over Europe to prove the truth of the latter.</p>
+         <p>To shew the absurdity of the Hereditary System still more strongly, I will now put the following case:—Take any fifty men promiscuously, and it will be very extraordinary, if out of that number, one man should be found, whose principles and talents taken together, (for some might have prin<lb rend="hidden" type="hyphenInWord"/>ciples, and others have talents) would render him a person truly fitted to fill any very extraordinary office of National Trust. If, then, such a fitness of character could not be expected to be found in more than one person out of fifty, it would happen but once in a thousand years to the eldest son of any one family, admitting each, on an average, to hold the office twenty years. Mr. Adam talks of something in the Constitution which he calls <hi>most sacred;</hi> but I hope he does not mean hereditary succession, a thing which appears to me a violation of every order of nature, and of common sense.</p>
+         <p>When I look into History and see the multitudes of men, otherwise virtuous, who have died, and their families been ruined, in defence of knaves and fools, and which they would not have done, had they reasoned at all upon the system; I do not know a greater good that an individual can render to mankind, than to endeavour to
+<pb n="8" facs="7"/>break the chains of political superstition. Those chains are now dissolving fast, and proclamations and prosecutions will serve but to hasten that dis<lb rend="hidden" type="hyphenInWord"/>solution.</p>
+         <p>Having thus spoken of the Hereditary System as a bad system, and subject to every possible defect; I now come to the Representative System; and this Mr. ADAM will find stated in the Second Part of Rights of Man, not only as the best, but as the only <hi>Theory</hi> of Government under which the li<lb rend="hidden" type="hyphenInWord"/>berties of a people can be permanently secure.</p>
+         <p>But it is needless now to talk of mere Theory, since there is already a Government in full prac<lb rend="hidden" type="hyphenInWord"/>tice, established upon that Theory, or in other words, upon the Rights of Man, and has been so for almost twenty years. Mr. Pitt, in a speech of his some short time since, said, <q>That there never did, and never could exist a Government esta<lb rend="hidden" type="hyphenInWord"/>blished upon those Rights, and that if it began at noon, it would end at night.</q> Mr. Pitt is not yet arrived to the degree of a school-boy in this species of knowledge. His practice has been con<lb rend="hidden" type="hyphenInWord"/>fined to the means of <hi>extorting revenue,</hi> and his boast has been—<hi>how much?</hi> Whereas the boast of the System of Government that I am speaking of, is not how much, but how little.</p>
+         <p>The System of Government purely representa<lb rend="hidden" type="hyphenInWord"/>tive, unmixed with any thing of hereditary non<lb rend="hidden" type="hyphenInWord"/>sense, began in America. I will now compare the
+<pb n="9" facs="8"/>effects of that system of Government with the sys<lb rend="hidden" type="hyphenInWord"/>tem of Government in England, both during, and since the close of the war.</p>
+         <p>So powerful is the Representative System; first, by combining and consolidating all the parts of a country together, however great the extent; and secondly, by admitting of none but men properly qualified into the Government, or dismissing them if they prove to be otherwise, that America was enabled thereby totally to defeat and overthrow all the schemes and projects of the Hereditary Govern<lb rend="hidden" type="hyphenInWord"/>ment of England against her. As the establish<lb rend="hidden" type="hyphenInWord"/>ment of the Revolution and Independence of America is a proof of this fact, it is needless to enlarge upon it.</p>
+         <p>I now come to the comparative effect of the two Systems <hi>since</hi> the close of the war, and I request Mr. Adam to attend to it.</p>
+         <p>America had internally sustained the ravage of upwards of seven years of war, which England had not. England sustained only the expence of the war; whereas America sustained, not only the expence, but the destruction of property committed by <hi>both</hi> armies. Not a house was built during that period, and many thousands were destroyed. The farms and plantations along the coast of the Coun<lb rend="hidden" type="hyphenInWord"/>try, for more than a thousand miles, were laid waste. Her commerce was annihilated. Her ships were either taken or had rotted within her own
+<pb n="10" facs="9"/>harbour. The credit of her funds had fallen up<lb rend="hidden" type="hyphenInWord"/>wards of ninety per cent. that is, an original hundred pounds would not sell for ten pounds. In fine, she was apparently put back an hundred years when the war closed; which was not the case with England.</p>
+         <p>But such was the event, that the same Repre<lb rend="hidden" type="hyphenInWord"/>sentative System of Government, though since better organized, which enabled her to conquer, enabled her also to recover; and she now presents a more flourishing condition, and a more happy and harmonized society under that system of Go<lb rend="hidden" type="hyphenInWord"/>vernment, than any country in the world can boast under any other. Her towns are rebuilt, much better than before; her farms and plantations are in higher improvement than ever; her com<lb rend="hidden" type="hyphenInWord"/>merce is spread over the world, and her funds have risen from less than ten pounds the hundred to up<lb rend="hidden" type="hyphenInWord"/>wards of one hundred and twenty. Mr. Pitt, and his colleagues, talk of the things that have happen<lb rend="hidden" type="hyphenInWord"/>ed in his boyish Administration, without knowing what greater things have happened elsewhere, and under other systems of Government.</p>
+         <p>I next come to state the expence of the two systems, as they now stand in each of the countries; but it may first be proper to observe, that Go<lb rend="hidden" type="hyphenInWord"/>vernment in America is what it ought to be, a mat<lb rend="hidden" type="hyphenInWord"/>ter of honour and trust, and not made a trade of for the purpose of lucre.</p>
+         <p>
+            <pb n="11" facs="10"/>The whole amount of the nett taxes in England (exclusive of the expence of collection, of draw<lb rend="hidden" type="hyphenInWord"/>backs, of seizures and condemnations, of fines and penalties, of fees of office, of litigations and in<lb rend="hidden" type="hyphenInWord"/>formers, which are some of the blessed means of enforcing them) is, seventeen millions. Of this sum, about nine millions go for the payment of the interest of the National Debt, and the re<lb rend="hidden" type="hyphenInWord"/>mainder, being about eight millions, is for the cur<lb rend="hidden" type="hyphenInWord"/>rent annual expences. Thus much for one side of the case. I now come to the other.</p>
+         <p>The expence of all the several departments of the general Representative Government of the United States of America, extending over a space of country nearly ten times larger than England, is two hundred and ninety-four thousand, five hundred and fifty-eight dollars, which, at 4s. 6d. per dollar, is 66,275l. 11s. sterling, and is thus apportioned.</p>
+         <p>
+            <table>
+               <row>
+                  <cell role="label" cols="3">
+                     <hi>Expence of the Executive Department.</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell> </cell>
+                  <cell role="label">l.</cell>
+                  <cell role="label">s.</cell>
+               </row>
+               <row>
+                  <cell>The Office of the Presidency, at which the President receives nothing for himself</cell>
+                  <cell>5,625</cell>
+                  <cell>0</cell>
+               </row>
+               <row>
+                  <cell>Vice President</cell>
+                  <cell>1,125</cell>
+                  <cell>0</cell>
+               </row>
+               <row>
+                  <cell>Chief Justice</cell>
+                  <cell>900</cell>
+                  <cell>0</cell>
+               </row>
+               <row>
+                  <cell>Five associate Justices</cell>
+                  <cell>3,937</cell>
+                  <cell>10</cell>
+               </row>
+               <row>
+                  <cell>Nineteen Judges of Districts and Attorney General</cell>
+                  <cell>6,873</cell>
+                  <cell>15</cell>
+               </row>
+               <row>
+                  <cell role="label" cols="3">
+                     <hi>Legislative Department.</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Members of Congress at six dollars (1l. 7s.) per day their Secretaries, Clerks, Chaplains, Messengers, Door-keepers, &amp;c.</cell>
+                  <cell>25,515</cell>
+                  <cell>0</cell>
+               </row>
+               <pb n="12" facs="11"/>
+               <row>
+                  <cell role="label" cols="3">
+                     <hi>Treasury Department.</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Secretary, Assistant, Comptroller, Auditor, Trea<lb rend="hidden" type="hyphenInWord"/>surer, Register, and Loan-Office-Keeper, in each State, together with all necessary Clerks, Office-Keepers, &amp;c.</cell>
+                  <cell>12,825</cell>
+                  <cell>0</cell>
+               </row>
+               <row>
+                  <cell role="label" cols="3">
+                     <hi>Department of State, including Foreign Affairs.</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Secretary, Clerks, &amp;c. &amp;c.</cell>
+                  <cell>1,406</cell>
+                  <cell>5</cell>
+               </row>
+               <row>
+                  <cell role="label" cols="3">
+                     <hi>Department of War.</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Secretary, Clerks, Paymasters, Commissioner, &amp;c.</cell>
+                  <cell>1,462</cell>
+                  <cell>10</cell>
+               </row>
+               <row>
+                  <cell role="label" cols="3">
+                     <hi>Commissioners for settling Old Accounts.</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell>The whole Board, Clerks, &amp;c.</cell>
+                  <cell>2,598</cell>
+                  <cell>15</cell>
+               </row>
+               <row>
+                  <cell role="label" cols="3">
+                     <hi>Incidental and Contingent Expences.</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell>For Fire-wood, Stationary, Printing, &amp;c.</cell>
+                  <cell>4,006</cell>
+                  <cell>16</cell>
+               </row>
+               <row>
+                  <cell>Total</cell>
+                  <cell>66,275</cell>
+                  <cell>11</cell>
+               </row>
+            </table>
+         </p>
+         <p>On account of the incursions of the Indians on the back settlements, Congress is, at this time, ob<lb rend="hidden" type="hyphenInWord"/>liged to keep six thousand militia in pay, in addi<lb rend="hidden" type="hyphenInWord"/>tion to a regiment of foot, and a battalion of ar<lb rend="hidden" type="hyphenInWord"/>tillery, which it always keeps; and this increases the expence of the War Department to 390,000 dollars, which is 87,795l. sterling, but when Peace shall be concluded with the Indians, the greatest part of this expence will cease, and the total amount of the expence of Government, including that of the army, will not amount to one hundred
+<pb n="13" facs="12"/>thousand pounds sterling, which, as has been al<lb rend="hidden" type="hyphenInWord"/>ready stated, is but an eightieth part of the expences of the English Government.</p>
+         <p>I request Mr. Adam and Mr. Dundas, and all those who are talking of Constitutions, and bles<lb rend="hidden" type="hyphenInWord"/>sings, and Kings, and Lords, and the Lord knows what, to look at this statement. Here is a form and system of Government, that is better orga<lb rend="hidden" type="hyphenInWord"/>nized and better administered than any Govern<lb rend="hidden" type="hyphenInWord"/>ment in the world, and that for less than one hun<lb rend="hidden" type="hyphenInWord"/>dred thousand pounds per annum, and yet every Member of Congress receives, as a compensation for his time and attendance on public business, one pound seven shillings per day, which is at the rate of nearly five hundred pounds a year.</p>
+         <p>This is a Government that has nothing to fear. It needs no proclamations to deter people from writing and reading. It needs no political super<lb rend="hidden" type="hyphenInWord"/>stition to support it. It was by encouraging discus<lb rend="hidden" type="hyphenInWord"/>sion, and rendering the press free upon all subjects of Government, that the principles of Government became understood in America, and the people are now enjoying the present blessings under it. You hear of no riots, tumults, and disorders in that country; because there exists no cause to pro<lb rend="hidden" type="hyphenInWord"/>duce them. Those things are never the effect of Freedom, but of restraint, oppression, and exces<lb rend="hidden" type="hyphenInWord"/>sive taxation.</p>
+         <p>In America there is not that class of poor and
+<pb n="14" facs="13"/>wretched people that are so numerously dispersed all over England, and who are to be told by a Proclamation, that they are happy; and this is in a great measure to be accounted for, not by the difference of Proclamations, but by the difference of Governments and the difference of Taxes be<lb rend="hidden" type="hyphenInWord"/>tween that country and this. What the labouring people of that country earn they apply to their own use, and to the education of their children, and do not pay it away in Taxes as fast as they earn it, to support Court extravagance, and a long enormous list of Place-men and Pensioners; and besides this, they have learned the manly doctrine of reverenc<lb rend="hidden" type="hyphenInWord"/>ing themselves, and consequently of respecting each other; and they laugh at those imaginary be<lb rend="hidden" type="hyphenInWord"/>ings called Kings and Lords, and all the fraudulent trumpery of Courts.</p>
+         <p>When Place-men and Pensioners, or those who expect to be such, are lavish in praise of a Govern<lb rend="hidden" type="hyphenInWord"/>ment, it is not a sign of its being a good one. The pension list alone, in England, (see Sir John Sin<lb rend="hidden" type="hyphenInWord"/>clair's History of the Revenue, page 6 of the Ap<lb rend="hidden" type="hyphenInWord"/>pendix,) is One Hundred and Seven Thousand Four Hundred and Four Pounds, <hi>which is more than the expences of the whole Government of America amount to.</hi> And I am now more convinced than before, that the offer that was made to me of a Thousand Pounds, for the copy-right of the Se<lb rend="hidden" type="hyphenInWord"/>cond Part of the <hi>Rights of Man,</hi> together with the
+<pb n="15" facs="14"/>remaining copy-right of the First Part, was to have effected, by a quick suppression, what is now at<lb rend="hidden" type="hyphenInWord"/>tempted to be done by a Prosecution. The con<lb rend="hidden" type="hyphenInWord"/>nection which the person who made that offer has with the King's Printing Office, may furnish part of the means of enquiring into this affair, when the Ministry should please to bring their Prosecution to issue. But to return to my subject—</p>
+         <p>I have said, in the Second Part of <hi>Rights of Man,</hi> and I repeat it here, that the service of any man, whether called King, President, Senator, Legis<lb rend="hidden" type="hyphenInWord"/>lator, or any thing else, cannot be worth more to any country, in the regular routine of office, than Ten Thousand Pounds per annum. We have a better man in America, and more of a Gentleman than any King I ever knew of, who does not occa<lb rend="hidden" type="hyphenInWord"/>sion even half that expence; for, though the salary is fixed at Five Thousand Six hundred and Twen<lb rend="hidden" type="hyphenInWord"/>ty-Five Pounds, he does not accept it, and it is only the incidental expences that are paid out of it. The name by which a man is called is, of itself, but an empty thing. It is worth and character alone which can render him valuable, for without these, Kings, and Lords, and Presidents, are but jingling names.</p>
+         <p>But without troubling myself about Constitutions of Government, I have shewn, in the Second Part of <hi>Rights of Man,</hi> that an alliance may be formed between England, France, and America, and that
+<pb n="16" facs="15"/>the expences of Government in England may be put back to one million and an half, viz.
+<table>
+               <row>
+                  <cell>Civil expence of Government,</cell>
+                  <cell>£. 500,000</cell>
+               </row>
+               <row>
+                  <cell>Army,</cell>
+                  <cell>500,000</cell>
+               </row>
+               <row>
+                  <cell>Navy,</cell>
+                  <cell>500,000</cell>
+               </row>
+               <row>
+                  <cell> </cell>
+                  <cell>1,500,000</cell>
+               </row>
+            </table>
+And even this sum is fifteen times greater than the expences of Government are in America; and it is also greater than the whole peace establishment of England amounted to about an hundred years ago. So much has the weight and oppression of Taxes encreased since the Revolution, and especially since the year 1714.</p>
+         <p>To shew that the sum of 500,000l. is sufficient to defray all the civil expences of Government, I have, in that work, annexed the following estimate for any country of the same extent as England:</p>
+         <p>In the first place, three hundred Representatives, fairly elected, are sufficient for all the purposes to which Legislation can apply, and preferable to a larger number.</p>
+         <p>If then an allowance, at the rate of five hun<lb rend="hidden" type="hyphenInWord"/>dred pounds per ann. be made for every Represen<lb rend="hidden" type="hyphenInWord"/>tative, deducting for non-attendance the expence, if the whole number attended six months each year, would be — 75,000</p>
+         <p>
+            <pb n="17" facs="16"/>The Official Departments could not possibly exceed the following number with the salaries annexed, viz.</p>
+         <p>
+            <table>
+               <row>
+                  <cell>Three Offices, at</cell>
+                  <cell>10,000l. each,</cell>
+                  <cell>30,000</cell>
+               </row>
+               <row>
+                  <cell>Ten ditto, at</cell>
+                  <cell>5,000l. each,</cell>
+                  <cell>50,000</cell>
+               </row>
+               <row>
+                  <cell>Twenty ditto, at</cell>
+                  <cell>2,000l. each,</cell>
+                  <cell>40,000</cell>
+               </row>
+               <row>
+                  <cell>Forty ditto, at</cell>
+                  <cell>1,000l. each,</cell>
+                  <cell>40,000</cell>
+               </row>
+               <row>
+                  <cell>Two hundred ditto, at</cell>
+                  <cell>500l. each,</cell>
+                  <cell>100,000</cell>
+               </row>
+               <row>
+                  <cell>Three hundred ditto, at</cell>
+                  <cell>200l. each,</cell>
+                  <cell>60,000</cell>
+               </row>
+               <row>
+                  <cell>Five hundred ditto, at</cell>
+                  <cell>100l. each,</cell>
+                  <cell>50,000</cell>
+               </row>
+               <row>
+                  <cell>Seven hundred ditto, at</cell>
+                  <cell>75l. each,</cell>
+                  <cell>52,500</cell>
+               </row>
+               <row>
+                  <cell> </cell>
+                  <cell> </cell>
+                  <cell>£. 497,500</cell>
+               </row>
+            </table>
+         </p>
+         <p>If a Nation chose, it might deduct four per cent from all the offices, and make one of twenty thousand pounds per annum, and stile the person who should fill it, King, or Majesty, or Madjesty, or give him any other title.</p>
+         <p>Taking, however, this sum of one million and an half, as an abundant supply for all the expences of Government under any form whatever, there will remain a surplus of nearly six million and a half out of the present Taxes, after paying the in<lb rend="hidden" type="hyphenInWord"/>terest of the National Debt; and I have shewn in the Second Part of <hi>Rights of Man,</hi> what appears to me, the best mode of applying the surplus money; for I am now speaking of expences and savings, and not of systems of Government.</p>
+         <p>I have in the first place, estimated the poor-rates at two millions annually, and shewn that the first effectual step would be to abolish the poor-rates
+<pb n="18" facs="17"/>entirely, (which would be a saving of two millions to the house-keepers,) and to remit four millions out of the surplus taxes to the poor to be paid to them in money in proportion to the number of children in each family, and the number of aged persons.</p>
+         <p>I have estimated the number of persons of both sexes in England of fifty years of age and upwards at 420,000, and have taken one-third of this num<lb rend="hidden" type="hyphenInWord"/>ber, viz. 140,000, to be poor people.</p>
+         <p>To save long calculations, I have taken 70,000 of them to be upwards of fifty years of age and under sixty, and the other to be sixty years and upwards; and to allow six pounds per ann. to the former class, and ten pounds per ann. to the latter. The expence of which will be,
+<table>
+               <row>
+                  <cell>Seventy thousand persons at 6l. per ann.</cell>
+                  <cell>420,000</cell>
+               </row>
+               <row>
+                  <cell>Seventy thousand persons at 10l. per ann.</cell>
+                  <cell>700,000</cell>
+               </row>
+               <row>
+                  <cell> </cell>
+                  <cell>£. 1,120,000</cell>
+               </row>
+            </table>
+There will then remain of the four millions 2,880,000l. I have stated two different methods of appropriating this money. The one is to pay it in proportion to the number of children in each family, at the rate of three or four pounds per ann. for each child; the other is, to apportion it ac<lb rend="hidden" type="hyphenInWord"/>cording to the expence of living in different coun<lb rend="hidden" type="hyphenInWord"/>ties; but in either of these cases it would, together with the allowance to be made to the aged, com<lb rend="hidden" type="hyphenInWord"/>pletely
+<pb n="19" facs="18"/>take off taxes from one-third of all the families in England, besides relieving all the other families from the burthen of poor-rates.</p>
+         <p>The whole number of families in England, lot<lb rend="hidden" type="hyphenInWord"/>ting five souls to each family, is one million four hundred thousand, of which I take one third, viz. 466,666 to be poor families who now pay four million of taxes, and that the poorest pays at least four guineas a year; and that the other thirteen millions are paid by the other two-thirds. The plan, therefore, as stated in the work is, first, to remit or repay, as is already stated, this sum of four millions to the poor, because it is impossible to separate them from the others in the present mode of collecting taxes on articles of consump<lb rend="hidden" type="hyphenInWord"/>tion; and, secondly, to abolish the poor-rates, the house and window light tax, and to change the Commutation Tax into a progressive Tax on large estates, the particulars of all which are set forth in the work, and to which I desire Mr. ADAM to refer for particulars. I shall here con<lb rend="hidden" type="hyphenInWord"/>tent myself with saying, that to a town of the population of Manchester, it will make a dif<lb rend="hidden" type="hyphenInWord"/>ference in its favour, compared with the present state of things, of upwards of fifty thousand pounds annually, and so in proportion to all other places throughout the nation. This certainly is of more consequence, than that the same sums should be collected to be afterwards spent by riotous and
+<pb n="20" facs="19"/>profligate courtiers, and in nightly revels at the Star and Garter Tavern, Pall Mall.</p>
+         <p>I will conclude this part of my letter with an extract from the Second Part of <hi>Rights of Man,</hi> which Mr. Dundas (a man rolling in luxury at the expence of the nation) has branded with the epithet of "wicked."</p>
+         <p>
+            <q>By the operation of this plan, the poor laws, those instruments of civil torture, will be su<lb rend="hidden" type="hyphenInWord"/>perseded, and the wasteful expence of litigation prevented. The hearts of the humane will not be shocked by ragged and hungry children, and persons of seventy and eighty years of age begging for bread. The dying poor will not be dragged from place to place, to breathe their last, as a reprisal of parish upon parish. Wi<lb rend="hidden" type="hyphenInWord"/>dows will have a maintenance for their chil<lb rend="hidden" type="hyphenInWord"/>dren, and not be carted away, on the death of their husbands, like culprits and criminals, and children will no longer be considered as increas<lb rend="hidden" type="hyphenInWord"/>ing the distresses of their parents. The haunts of the wretched will be known, because it will be to their advantage, and the number of petty crimes, the offspring of poverty and distress, will be lessened. The poor, as well as the rich, will then be interested in the support of Government, and the cause and apprehension of riots and tumults will cease.—Ye who sit in ease, and solace yourselves in plenty, and such
+<pb n="21" facs="20"/>there are in Turkey and Russia as well as in England, and who say to yourselves, <hi>are we not well off?</hi> have ye thought of these things? When ye do, ye will cease to speak and feel for yourselves alone.</q>—Rights of Man, Part II. page 136.</p>
+         <p>After this remission of four millions be made, and the poor Rates and House and Window-light Tax be abolished, and the Commutation Tax changed, there will still remain nearly one million and an half of surplus Taxes; and as by an alli<lb rend="hidden" type="hyphenInWord"/>ance between England, France, and America, armies and navies will, in a great measure, be rendered unnecessary; and as men who have either been brought up in, or long habited to, those lines of life, are still citizens of a nation in com<lb rend="hidden" type="hyphenInWord"/>mon with the rest, and have a right to participate in all plans of National benefit, it is stated in that work (Rights of Man, part II.) to apply annually 507,000l. out of the surplus taxes to this purpose in the following manner:
+<table>
+               <row>
+                  <cell>To fifteen thousand disbanded soldiers, 3s. per week each (clear of deductions) during life</cell>
+                  <cell>117,000</cell>
+               </row>
+               <row>
+                  <cell>Additional pay to the remaining soldiers, per ann.</cell>
+                  <cell>19,500</cell>
+               </row>
+               <row>
+                  <cell>To the officers of the disbanded corps, during life, the same sum of</cell>
+                  <cell>117,000</cell>
+               </row>
+               <row>
+                  <cell>To fifteen thousand disbanded sailors, 3s. per week, during life</cell>
+                  <cell>117,000</cell>
+               </row>
+               <row>
+                  <cell>Additional pay to the remaining sailors</cell>
+                  <cell>19,500</cell>
+               </row>
+               <row>
+                  <cell>To the officers of the disbanded part of the Na<lb rend="hidden" type="hyphenInWord"/>vy, during life</cell>
+                  <cell>117,000</cell>
+               </row>
+               <row>
+                  <cell> </cell>
+                  <cell>
+                     <hi>L.</hi> 507,000</cell>
+               </row>
+            </table>
+         </p>
+         <p>
+            <pb n="22" facs="21"/>The limits to which it is proper to confine this Letter, will not admit of my entering into further particulars. I address it to Mr. Dundas because he took the lead in the debate, and he wishes, I suppose, to appear conspicuous; but the purport of it is to justify myself from the charge which Mr. Adam has made.</p>
+         <p>This Gentleman, as has been observed in the beginning of this Letter, considers the writings of Harrington, Moore, and Hume, as justifiable and legal Publications, because they reasoned by comparison, though, in so doing, they shewed plans and systems of Government, not only different from, but preferable to, that of England; and he accuses me of endeavouring to confuse, instead of producing a system in the room of that which I have reasoned against; whereas the fact is, that I have not only reasoned by comparison of the Representative system against the Hereditary system, but I have gone further; for I have pro<lb rend="hidden" type="hyphenInWord"/>duced an instance of a Government established en<lb rend="hidden" type="hyphenInWord"/>tirely on the Representative system, under which much greater happiness is enjoyed, much fewer Tax<lb rend="hidden" type="hyphenInWord"/>es required, and much higher credit is established, than under the system of Government in England. The funds in England have risen since the war only from 54l. to 97l. and they have been down, since the Proclamation, to 87l. whereas the Funds in America rose in the mean time from 10l. to 120l.</p>
+         <p>
+            <pb n="23" facs="22"/>His charge against me "of destroying every principle of subordination," is equally as ground<lb rend="hidden" type="hyphenInWord"/>less, which even a single paragraph from the work will prove, and which I shall here quote:</p>
+         <p>
+            <q>Formerly, when divisions arose respecting Governments, recourse was had to the sword, and a civil war ensued. That savage custom is exploded by the new system, and <hi>recourse is had to a National Convention.</hi> Discussion, and the general will, arbitrates the question, and to this private opinion yields with a good grace, and <hi>order is preserved uninterrupted.</hi>—</q> Rights of Man, Part II. p. 173.</p>
+         <p>That two different charges should be brought at the same time, the one by a Member of the Legislature for <hi>not</hi> doing a certain thing, and the other by the Attorney General for <hi>doing</hi> it, is a strange jumble of contradictions. I have now justified myself, or the work rather, against the first, by stating the case in this letter, and the justification of the other will be undertaken in its proper place. But in any case the work will go on.</p>
+         <p>I shall now conclude this Letter, with saying, that the only objection I found against the plan, and principles contained in the Second Part of <hi>Rights of Man</hi> when I had written the book, was, that they would beneficially interest at least ninety-nine persons out of every hundred throughout the nation, and therefore would not leave sufficient
+<pb n="24" facs="23"/>room for men to act from the direct and disin<lb rend="hidden" type="hyphenInWord"/>terested principle of honour; but the prosecution now commenced has fortunately removed that ob<lb rend="hidden" type="hyphenInWord"/>jection, and the approvers and protectors of that work now feel the immediate impulse of honour, added to that of National Interest.</p>
+         <closer>
+            <signed>I am, Mr. Dundas, Not your obedient humble Servant, But the contrary, THOMAS PAINE.</signed>
+         </closer>
+         <trailer>
+            <hi>Copied from the Paper entitled "THE ARGUS," June</hi> 9.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lodoiska: an opera, in three acts, perfomed, for the first time, by His Majesty's Servants, at the Theatre Royal, Drury-Lane, on Monday, June 9th. 1794. Written by J. P. Kemble. ...</title>
+            <author>Kemble, John Philip, 1757-1823.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024381.000</idno>
+            <idno type="docno">CW3306892644</idno>
+            <idno type="ecll"/>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lodoiska: an opera, in three acts, perfomed, for the first time, by His Majesty's Servants, at the Theatre Royal, Drury-Lane, on Monday, June 9th. 1794. Written by J. P. Kemble. ...</title>
+                  <author>Kemble, John Philip, 1757-1823.</author>
+               </titleStmt>
+               <extent>58p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for G. G. and J. Robinson,</publisher>
+                  <date>[1794]</date>
+                  <idno type="TCP">K024381.000</idno>
+                  <idno type="docno">CW3306892644</idno>
+                  <idno type="ecll"/>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT9105.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>LODOISKA; AN OPERA, IN THREE ACTS, PERFORMED, FOR THE FIRST TIME, BY <hi>HIS MAJESTY'S SERVANTS,</hi> AT THE THEATRE ROYAL, DRURY-LANE, <hi>On MONDAY, JUNE 9th.</hi> 1794.</p>
+            <p>WRITTEN BY J. P. KEMLLE.</p>
+            <p>The MUSIC composed, and selected from CHERUBINI, KREUTZER, AND ANDREOZZI, BY Mr. STORACE.</p>
+            <p>LONDON: PRINTED FOR G. G. AND J. ROBINSON, PATERNOSTER-ROW.</p>
+            <p>PRICE ONE SHILLING AND SIXPENCE.</p>
+         </div>
+         <div type="credits">
+            <pb facs="2"/>
+            <list>
+               <item>
+                  <hi>ACT I.</hi> The <hi>Scene</hi> is painted by Mr. GREENWOOD, and his Assistants.</item>
+               <item>
+                  <hi>ACT II.</hi> The <hi>Scene</hi> is painted by Mr. MALTON, and Messrs. LUPINO and DEMARIA, his Assistants.</item>
+               <item>
+                  <hi>ACT III.</hi> The <hi>Scenes</hi> are painted by Mr. GREENWOOD; and the <hi>Machinery</hi> is invented by Mr. CABANEL.</item>
+            </list>
+            <p>The <hi>Dresses</hi> and <hi>Decorations</hi> are designed and executed by Mr. JOHNSTONE, and Miss REIN.</p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="3"/>
+            <head>THE CHARACTERS ARE,</head>
+            <list>
+               <head>POLANDERS.</head>
+               <item>
+                  <label>Prince Lupauski,</label> Mr. AICKIN,</item>
+               <item>
+                  <label>Count Floreski,</label> Mr. KELLY,</item>
+               <item>
+                  <label>Baron Lovinski,</label> Mr. PALMER,</item>
+               <item>
+                  <label>Varbel,</label> Mr. SUETT,</item>
+               <item>
+                  <label>Adolphus,</label> Mr. CAULFIELD,</item>
+               <item>
+                  <label>Gustavus,</label> Mr. TRUEMAN,</item>
+               <item>
+                  <label>Sebastian,</label> Mr. FAIRBROTHER,</item>
+               <item>
+                  <label>Michael,</label> Mr. BLAND,</item>
+               <item>
+                  <label>Casimir,</label> Mr. BENSON,</item>
+               <item>
+                  <label>Stanislaus,</label> Mr. WEBB,</item>
+               <item>
+                  <label>1 Page,</label> Master WELSH,</item>
+               <item>
+                  <label>2 Page,</label> Master GREGSON.</item>
+               <item>
+                  <label>Princess Lodoiska,</label> Mrs. CROUCH.</item>
+            </list>
+            <list>
+               <head>CAPTIVES.</head>
+               <item>Mrs. Bland,</item>
+               <item>Miss De Camp,</item>
+               <item>Miss Miller,</item>
+               <item>Miss Leak,</item>
+               <item>Miss Arne,</item>
+               <item>Miss Redhead,</item>
+               <item>Mrs. Bramwell,</item>
+               <item>Miss Granger,</item>
+               <item>Miss Wrighten,</item>
+               <item>Miss C. Wrighten,</item>
+               <item>Miss Menage,</item>
+               <item>Miss Stageldoir,</item>
+               <item>Miss Chatterley,</item>
+               <item>Miss Gawdry,</item>
+               <item>Mrs. Butler,</item>
+               <item>Mrs. Boimason,</item>
+               <item>Miss Davies,</item>
+               <item>&amp;c. &amp;c.</item>
+            </list>
+            <p>GUARDS and ATTENDANTS.</p>
+            <list>
+               <head>TARTARS.</head>
+               <item>
+                  <label>Kera Khan,</label> Mr. BARRYMORE,</item>
+               <item>
+                  <label>Ithorak,</label> Mr. DIGNUM,</item>
+               <item>
+                  <label>Khor,</label> Mr. SEDGWICK,</item>
+               <item>
+                  <label>Japhis,</label> Mr. BANNISTER,</item>
+               <item>
+                  <label>Kajah,</label> Mr. C. KEMBLE,</item>
+               <item>
+                  <label>Tamuri,</label> Mr. BANKS,</item>
+               <item>
+                  <label>Camazin,</label> Mr. BOIMAISON.</item>
+            </list>
+            <list>
+               <head>The HORDE.</head>
+               <item>Mr. Cooke,</item>
+               <item>Mr. Danby,</item>
+               <item>Mr. Lyons,</item>
+               <item>Mr. Maddocks,</item>
+               <item>Mr. Phillimore,</item>
+               <item>Mr. Welsh,</item>
+               <item>Mr. Dorion,</item>
+               <item>Mr. Dorion,</item>
+               <item>Jun. Mr. Evans,</item>
+               <item>Mr. Hamoir,</item>
+               <item>Mr. Bourke,</item>
+               <item>Mr. G. D'Egville,</item>
+               <item>Mr. Butler,</item>
+               <item>Mr. Whitmill,</item>
+               <item>Mr. Nicholini,</item>
+               <item>Mr. Keys, &amp;c, &amp;c, &amp;c.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <pb facs="4"/>
+         <head>LODOISKA.</head>
+         <div n="1" type="act">
+            <head>ACT I. OVERTURE.</head>
+            <stage>The Act begins towards sun-set; the Scene lies upon the borders of Poland, and represents a moated castle in the Forest of Ostropol.</stage>
+            <stage>CHORUS of TARTARS.</stage>
+            <sp>
+               <speaker>ITHORAK—KHOR.</speaker>
+               <l>Let's advance; we see no danger,</l>
+               <l>All around is hush as night.</l>
+            </sp>
+            <sp>
+               <speaker>JAPHIS and other TARTARS.</speaker>
+               <l>To each heart pale fear's a stranger,</l>
+               <l>Honour bids us to the fight.</l>
+            </sp>
+            <sp>
+               <speaker>KERA KHAN, KAJAH, TAMURI, CAMAZIN, and The rest of the TARTARS.</speaker>
+               <stage>CHORUS—HORDE.</stage>
+               <l>Kera Khan, whene'er you head us,</l>
+               <l>Dauntless to the charge we go;</l>
+               <l>Gallant chief, then instant lead us</l>
+               <l>On to conquest, and our foe.</l>
+            </sp>
+            <sp>
+               <pb n="6" facs="5"/>
+               <speaker>Kera Khan.</speaker>
+               <p>Here, my friends, here stands the castle of Lovinski.—This cruel Polander is the scourge of his own little territory, and a devouring plague to our Tartar tribes; but the hour of retri<lb rend="hidden" type="hyphenInWord"/>bution is at hand.—We are too few to storm it now; to-morrow's dawn—I lose time.—Attend; line all the outlets of the forest, and seize on every passenger you meet with; but, I command you, spare the lives of those who fall into your hands.—Remem<lb rend="hidden" type="hyphenInWord"/>ber, my brave comrades, the innocent should ne<lb rend="hidden" type="hyphenInWord"/>ver suffer for the guilty, nor must we purchase our revenge at the price of justice and humanity.— To your posts;—begone.</p>
+               <stage>[<hi>Exeunt all the Tartars, except</hi> Kera Khan <hi>and</hi> Ithorak.]</stage>
+               <p>The day declines apace; much is to be done before morning.—No stragglers to give information!—no watch upon the towers!—the ramparts naked!—Is this fear or de<lb rend="hidden" type="hyphenInWord"/>sign?—No matter which.—Come, let us examine farther the situation of this devoted fortress.</p>
+            </sp>
+            <stage>Exeunt</stage>
+            <stage>Enter COUNT FLORESKI.</stage>
+            <sp>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <head>AIR.</head>
+                        <l>Lodoiska, wide over the world</l>
+                        <l>I'll roam, till I find thee, my Fair;</l>
+                        <l>Thy charms shall banish</l>
+                        <l>Cold despair:</l>
+                        <l>Love's torch shall illume</l>
+                        <l>The desert's thick gloom,</l>
+                        <l>And guide with cheering ray</l>
+                        <l>Thy pilgrim's doubtful way.</l>
+                        <l>
+                           <pb n="7" facs="6"/>
+But, alas!</l>
+                        <l>Should cruel destiny ordain,</l>
+                        <l>That our true love</l>
+                        <l>Must hapless prove,</l>
+                        <l>And we are ne'er to meet again;</l>
+                        <l>It's malice I'll defy,</l>
+                        <l>And for my Lodoiska die.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <stage>Enter VARBEL, with a Portmantua.</stage>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Vastly well, Sir, vastly well; you seem in tip top spirits; sing away, sing away. I told you I saw the Portmantua fall; but the Tartars have gallop'd clear off with the poor beasts; I thought them as safe grazing there, as if they had been in our own stables.—Well, we have miss'd the road to the village, and here we are, wand'ring on foot, in the heart of the forest of Ostropol.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>It was your fault, that they discovered the horses.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Yes, and it was my fault too, that they did not discover us.—A house!—then all my fears are over. I thought we should never have found an end to this black wood; and, to tell you the truth, I had made up my mind to the comfortable pros<lb rend="hidden" type="hyphenInWord"/>pect of passing the night in the arms of one of the bears that were howling about us.—Won't you go in, Sir?—though I see nobody there to open the door to us.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I shall gain no intelligence in this seques<lb rend="hidden" type="hyphenInWord"/>tered corner. I don't know what to do.</p>
+            </sp>
+            <sp>
+               <pb facs="7"/>
+               <speaker>Varbel.</speaker>
+               <p>I know what you should not have done; you shouldn't have giv'n your vote to a candidate, who was oppos'd by your mistress's proud father.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Not given it?—Called to the election o<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> a king, honour exacted the performance of my promise; my friend obtain'd the crown of Poland; I discharged my duty to my country; and we should hold every sacrifice cheap, to maintain a good man on a throne.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Very true, Sir; but, all of a sudden, you seem to forget, that, for that very reason, prince Lupauski has discharged himself of his promise to give you his daughter Lodoiska.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Cruel father! Why so mysteriously con<lb rend="hidden" type="hyphenInWord"/>ceal the place of her retreat?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>But, dear Sir, consider, she can't be con<lb rend="hidden" type="hyphenInWord"/>ceal'd for ever. Now wou'dn't it be more natural to get back to Warsaw as fast as we can, and wait there, 'till her father sends for the princess home again? It must happen sooner or later. That's certainly the best way ; and, for my part, I won't budge a step further for all the Lodoiskas in Christendom.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Is this your regard, your fidelity? Come on this moment, or—</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Sir, recollect, we have fasted all day: I can't live upon love, if you can; I am almost starv'd, and I must eat.—I did not fetch the port<lb rend="hidden" type="hyphenInWord"/>mantean for nothing.—I can't stir.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Wretch! you are for ever embittering
+<pb n="9" facs="8"/>my griefs with your upbraidings!—Why wou'd you follow me?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Why?—why wou'd I follow you? Why, because my heart got the better of my head, and made me resolve, in spite of common sense, to ac<lb rend="hidden" type="hyphenInWord"/>company your search, that I might carry half the load of your griefs for you.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Forgive me, my true fellow.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Come, don't be melancholy; I won't eat, if you don't like it.—I must try to divert him, —It's I that have most cause to be out of spirits; every thing going on so smooth with the old prince, the happy morning fix'd with the young princess; —there was I practising how to behave myself, as master of the ceremonies, among the musicians, singers, dancers, lords and ladies, on your wedding day.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <head>SONG</head>
+                        <lg n="1">
+                           <head>I.</head>
+                           <l>Hark! hark! the music—</l>
+                           <l>Oh! charming dinning!</l>
+                           <l>The guests are seated,</l>
+                           <l>They're all beginning</l>
+                           <l>With the dancing fiddle,</l>
+                           <l>Shrill-squeaking hautboy,</l>
+                           <l>The tinkling harp too,</l>
+                           <l>Soft am'rous slute, sir,</l>
+                           <l>The lively trumpet,</l>
+                           <l>The drum so angry,</l>
+                           <l>
+                              <pb n="10" facs="9"/>
+The bells so merry,</l>
+                           <l>The buzzing cymbal,</l>
+                           <l>The grumbling basso—</l>
+                           <l>And these delights I've lost</l>
+                           <l>By your wedding's being crost.</l>
+                        </lg>
+                        <lg n="2">
+                           <head>II.</head>
+                           <l>Look, look around, sir,</l>
+                           <l>The grave ones bridle,</l>
+                           <l>The youths all noddle,</l>
+                           <l>The maidens sidle</l>
+                           <l>To the dancing fiddle,</l>
+                           <l>Shrill-squeaking hautboy,</l>
+                           <l>The tinkling harp too,</l>
+                           <l>Soft am'rous flute, sir,</l>
+                           <l>And lively trumpet,</l>
+                           <l>The drum so angry,</l>
+                           <l>The bells so merry,</l>
+                           <l>The buzzing cymbal,</l>
+                           <l>And grumbling basso—</l>
+                           <l>Oh, wouldn't it vex one to miss</l>
+                           <l>Such a ravishing concert as this!</l>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>My dear Varbel, we have lately pick'd up some information; search with me but one day longer,—</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Heavens and Earth!—but where will you search for her?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Here, every where, in every corner of the earth.—Oh, Lodoiska! Lodoiska!</p>
+            </sp>
+            <stage>
+               <pb n="11" facs="10"/>
+Enter KERA KHAN, and ITHORAK.</stage>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>As I hope to be sav'd, Sir, there are a couple of Tartars.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>With all my heart.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>With all your heart! Egad, that's very pretty talking.—Now, I suppose, if you don't cut their throats, they'll cut ours.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Dare you fight, Varbel?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I can't tell, I never tried.—But you're a good master, and I'll stand by you to the last gasp.</p>
+            </sp>
+            <sp>
+               <speaker>Ithorak.</speaker>
+               <p>From the castle, doubtless.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>And shall give us information.</p>
+            </sp>
+            <stage>Ithorak draws a Pistol, which Kera Khan strikes out of his hand.</stage>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>QUARTETTO.</head>
+                     <sp>
+                        <speaker>KERA KHAN—ITHORAK.</speaker>
+                        <l>Yield your arms on noble quarter;</l>
+                        <l>Yield; resistance is in vain.</l>
+                     </sp>
+                     <sp>
+                        <speaker>FLORESKI—VARBEL.</speaker>
+                        <l>No; first win them, haughty Tartar;</l>
+                        <l>Base surrender we disdain.</l>
+                     </sp>
+                     <sp>
+                        <speaker>KERA KHAN—ITHORAK.</speaker>
+                        <l>Yield, &amp;c.</l>
+                     </sp>
+                     <sp>
+                        <speaker>FLORESKI—VARBEL.</speaker>
+                        <l>No, &amp;c.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>[They engage. Varbel drives Ithorak before him; Kera Khan is disarm'd; Varbel returns with Ithorak's sword.]</stage>
+            <sp>
+               <pb n="12" facs="11"/>
+               <speaker>Kera Khan.</speaker>
+               <p>Thou art brave, and should'st be gene<lb rend="hidden" type="hyphenInWord"/>rous; I ask my life; I should have spar'd thine.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Don't believe him; there are millions of them about: He is only laying a trap to catch you at disadvantage.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan</speaker>
+               <p>Liar!—</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Hold! I trust to your faith.</p>
+               <stage>[Gives him his sword.]</stage>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Young man, my obligations to thee shall live in my heart.</p>
+               <stage>[A tumultuous noise of Tartars is heard.]</stage>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>There, there, I told you so; I knew you'd throw us into the hands of these Tartars again, and I can't go on fighting all night.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>These Tartars are at my command.</p>
+               <stage>Enter all the Tartars, headed by ITHORAK, KHOR, JAPHIS, KAJAH, TAMURI, and CAMAZIN.</stage>
+               <p>Halt! halt! respect these strangers; they are under my protection.</p>
+            </sp>
+            <sp>
+               <speaker>Ithorak.</speaker>
+               <p>Protection! Kill the slaves.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Ha! do you growl cur?</p>
+               <stage>[Throws Ithorak to the ground.]</stage>
+            </sp>
+            <sp>
+               <speaker>Ithorak.</speaker>
+               <p>Mercy! mercy!</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Arise; and let the mercy I extend teach thee to feel for others.—Put up. [<hi>the Tartars all shcathe their swords.</hi>] You spar'd my life, I
+<pb n="13" facs="12"/>have preserv'd yours. Give me your esteem, and let this embrace confirm us friends.</p>
+               <stage>[Kera Khan and Count, Varbel and Ithorak, embrace.]</stage>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>For ever.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Tell me, do you belong to the castle? Came you from it when we attack'd you?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>No; we are utter strangers here.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>What is your name?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I am the count Floreski.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>What is thy name?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I can't say, that I have acquir'd any very great name yet, Sir.—I am the lowly, but faithful, 'Squire of this unhappy young gentleman.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Unhappy, say'it thou? What can I do for thee?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Nothing can relieve my woes, till I find her, for whom alone I live.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>O, love is thy complaint; that's a pain that never disturbs us Tartars; though we love pretty women heartily too,—and have plenty of them.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>You never saw my Lodoiska.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Shall we conduct you on your way to her?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Alas! I know not where to find her.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>What, wand'ring though these de<lb rend="hidden" type="hyphenInWord"/>sarts after her, without knowing where she is to be found? Are there no other women in the world?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Egad, that's a very sensible question.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>No, none for me.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="13"/>
+               <speaker>Kera Khan.</speaker>
+               <p>Why then we Tartars love wo<lb rend="hidden" type="hyphenInWord"/>men better than you do; for we are fond of all we meet with.—Can I in any way alleviate thy grief?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Impossible!</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>We'll talk no more on't then; if I cannot comfort, my curiosity shall not afflict, thee.— I must be gone.—Once more remember, these strangers are our friends.</p>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>QUARTETTO</hi> and <hi>CHORUS.</hi>
+                     </head>
+                     <sp>
+                        <speaker>KERA KHAN, ITHORAK, KHOR, JAFHIS.</speaker>
+                        <lg>
+                           <l>We swear, and all our hordes around us,</l>
+                           <l>By the swift arrow and the bow,</l>
+                           <l>Tho' countless perils should surround us,</l>
+                           <l>Who injures them becomes our foe.</l>
+                        </lg>
+                     </sp>
+                     <sp>
+                        <speaker>FLORESKI.</speaker>
+                        <l>Accept our thanks, illustrious chief,</l>
+                        <l>Thy faith and courage well we know,</l>
+                        <l>And, if it could admit relief,</l>
+                        <l>Such friends might soothe Floreski's woe.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORUS—HORDE.</speaker>
+                        <l>We swear, and all our hordes around us,</l>
+                        <l>By the swift arrow and the bow,</l>
+                        <l>Tho' countless perils should surround us,</l>
+                        <l>Who injures them becomes our foe.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Before we part, Floreski, I wou'd yet farther deserve your regard; think not the thirst of plunder drew Kera Khan into these can<lb rend="hidden" type="hyphenInWord"/>tons;
+<pb n="15" facs="14"/>the baron Lovinski, whose castle you be<lb rend="hidden" type="hyphenInWord"/>hold,—</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Lovinski?</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>—Soon shall he feel my vengeance. I was examining the place; and, to prevent fur<lb rend="hidden" type="hyphenInWord"/>prise, had charg'd my followers to disarm, and se<lb rend="hidden" type="hyphenInWord"/>cure, all passengers.—Knock at his gates; he will not surely refuse a shelter to his countrymen; tell him you have been attack'd by the Tartars, by Kera Khan—he knows my name.—As I cannot answer for all our parties that are abroad to night, I advise you to beg a lodging under his roof; but remember to fly far from it early in the morning; —early in the morning;—remember that.—Give me your hand:—Adieu, my gallant friend!— Think sometimes of Kera Khan, and, if ever you want his help, you shall see how he will serve you. —March!—</p>
+               <stage>Exeunt Kera Khan and Tartars.</stage>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Egad, these Tartars are fine fellows!</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>And, for that reason, you were going to chop off the head of their leader.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>The heat of the battle ran away with me; a man has not his courage always at com<lb rend="hidden" type="hyphenInWord"/>mand.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Lovinski!—I think he's a dependant of Lodoiska's father.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Is he? he'll be no friend of your's then; don't think of lodging here.—Do, fir, let's take a mouthful, and then pack up and return.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Again return!—but do you as you will.</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="15"/>
+               <speaker>Varbel.</speaker>
+               <stage>(Taking victuals out of the portmanteau)</stage>
+               <p>Come, my dear master;—look, under their old grated window, there's a snug hospitable porch for us. (<hi>Sits down in the niche.</hi>) They can't see us here. (<hi>Eating</hi>) Are you hungry?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>No, not I.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I am very—that little tilting bout with the Tartar has so sharpen'd my stomach, that I cou'd eat—'gad, I believe I cou'd eat the Tartar him<lb rend="hidden" type="hyphenInWord"/>self.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>An adventure of a strange nature!</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Don't let it surprise you too much; I dare say, it is not the last we shall light upon; we are in a fine train for adventures.—Sir, your good health! [<hi>A large stone falls from the tower.</hi>] Holla! here's an adventure already, of a nature to crack a man's crown.—Are they throwing the stones of the tower at me?—I may as well leave table.—'Much oblig'd to you; but I'm not us'd to deserts at my dinner, and always thought wall-fruit particu<lb rend="hidden" type="hyphenInWord"/>larly unwholesome.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Silence!—don't I see a hand moving there? Stand still, Varbel.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Not I, indeed; if you wish to have an old house about yours ears, I don't. [<hi>Another stone falls from the lower, with a paper fastened to it.</hi>)</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>A second! what can this mean?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I'll tell you; it means, that the good people here aren't fond of company who are not invited; and this is civilly to give us notice, that,
+<pb n="17" facs="16"/>if we don't decamp in a moment, we shall have the rest of the castle to carry away on our shoul<lb rend="hidden" type="hyphenInWord"/>ders.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>(<hi>Taking up the first stone.</hi>) What do I see? writing!—Varbel—read, read, what is scratch'd here.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>(<hi>Reading.</hi>) "Oh, Floreski!—It is Floreski." —Are you sure there are no witches in this wood?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Who can know me in this solitude?— Ha! give me the other.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>(<hi>Giving the 2d. stone.</hi>) Ha! here's a paper.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>(<hi>Snatches the paper, and reads.</hi>) "Inform my father, that Lovinski has abus'd his confidence, and confines his Lodoiska in this—" (<hi>Drops the note.</hi>) Oh, Varbel! she is immur'd in that hor<lb rend="hidden" type="hyphenInWord"/>rible tower.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Poor lady!—What a damn'd rogue that fellow must be!</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>My Lodoiska! my life! my soul! I will release, or die for thee.—Varbel!</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>My lord.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Where is my friend? Where is my Kera Khan?—call him;—now, now, I demand his help. —I rave, I rave—alas! he's far away.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Ay, so most friends are, when you want 'em.</p>
+            </sp>
+            <q>
+               <pb n="18" facs="17"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>TRIO.</head>
+                     <stage>LODOISKA, COUNT, and VARBEL,</stage>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>Floreski!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>'Tis her voice—O, blessed day!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Var.</speaker>
+                        <l>Hush! where we are consider, pray.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>Fly, fly, this instant, ere my guards appear: No power can save thee, if they find thee here.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>Oh, I've a thousand things to say!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Var.</speaker>
+                        <l>Another time, sir;—let's away.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>Ah, yet a little moment stay.— Dearest friend,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>I attend,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Var.</speaker>
+                        <l>Make an end,—or I'll begone.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>At midnight,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>At midnight,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>At midnight,—well, well go on.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>You may send,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>I may send,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>He may send,—so, listen now.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>What you write,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>What I write,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>What you write,—but tell us how.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>Tie it to,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>Tie it to,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>Tie it to,—to what, I pray?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>This ribband,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>What ribband?—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>A ribband!—ay, that's the way.</l>
+                     </sp>
+                     <sp>
+                        <pb n="19" facs="18"/>
+                        <speaker>Lodo.</speaker>
+                        <l>Given by you,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>Given to you,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>Given by you,—see, see it there.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>Which my hand,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>Which thy hand,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>Which her hand,—'tis good, I swear.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>Shall let drop,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>Will let drop,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>Will let drop,—why sure we dream.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>At that hour,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>At that hour,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>At that hour,—a charming scheme!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>From the top,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>From the top,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>From the top,—now I can tell.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Lodo.</speaker>
+                        <l>Of the tow'r,—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Count.</speaker>
+                        <l>O, Varbel!—</l>
+                     </sp>
+                     <sp>
+                        <speaker>Varb.</speaker>
+                        <l>Yes;—I see it very well.</l>
+                     </sp>
+                     <sp>
+                        <speaker>LODOISKA.</speaker>
+                        <l>Ere we part, let me remind you,</l>
+                        <l>Caution now must guide your love;</l>
+                        <l>Should the tyrant's ruffians find you,</l>
+                        <l>'Twould your certain ruin prove.</l>
+                     </sp>
+                     <sp>
+                        <speaker>COUNT.</speaker>
+                        <l>Can I go? and have I found thee,</l>
+                        <l>Added torments but to prove?</l>
+                        <l>Let the tyrant's slaves surround me—</l>
+                        <l>What is death to hopeless love!</l>
+                     </sp>
+                     <sp>
+                        <pb n="20" facs="19"/>
+                        <speaker>VARBEL.</speaker>
+                        <l>Come away; let her advise you,</l>
+                        <l>Hear the voice of anxious love;</l>
+                        <l>If the tyrant's guard espies you,</l>
+                        <l>'Twill our certain ruin prove.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>She's gone, she's gone!—Treacherous Lovinski, dearly shalt thou atone this horrid sacri<lb rend="hidden" type="hyphenInWord"/>lege!—Come, let us instantly confront the mon<lb rend="hidden" type="hyphenInWord"/>ster.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Mercy on us! Sir, if you appear before him in this emotion, he'll discover you in a mo<lb rend="hidden" type="hyphenInWord"/>ment, and hang us both up for scare-crows on the beams of his draw-bridge.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>You are in the right—I have thought better; I'll be calm.—Lovinski knows me not.— Go, take the bugle, and sound boldly.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Sound the bugle?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Sound, I say!</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I'll do it with all the breath I have in my body.</p>
+               <stage>[Sounds the bugle-horn, a trumpet answers, and a Page appears upon the ramparts.]</stage>
+            </sp>
+            <sp>
+               <speaker>Page.</speaker>
+               <p>Speak your degree, and what your errand, that ask admittance here?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Gentle our breeding, and to the baron Lovinski is our greeting. (<hi>Trumpet sounds, and exit Page.</hi>) At length, perhaps, I shall behold her; yet may not this attempt hazard her precious safe<lb rend="hidden" type="hyphenInWord"/>ty? (<hi>The araw-bridge is lower'd</hi>) Hark!—The se<lb rend="hidden" type="hyphenInWord"/>cret is known only to her father, and this traitor;
+<pb n="21" facs="20"/>—let me be wary.—Now observe;—your part is only to confirm my story.—Be bold!</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Depend on me.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>They come.</p>
+               <stage>(Varbel picks up Lodoiska's note.)</stage>
+            </sp>
+            <stage>MARCH. Baron LOVINSKI, ADOLPHUS, GUSTAVUS, MICHAEL, SE<lb rend="hidden" type="hyphenInWord"/>BASTIAN, CASIMIR, STANISLAUS, Two Pages, Guards and Attendants, pass over the draw-bridge from the castle.</stage>
+            <stage>The Baron signs to Schastian and Casimir, who take their swords from the Count and Varbel.</stage>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Ah, coward guilt!</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>There's an end of our fighting, however.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Approach.—Who are you?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Speak I before the baron Lovinski?</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Thou dost.—What are you?—and whence came you at this late hour?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>We come from prince Lupauski; some Tartars, whom we escap'd by miracle, plunder'd us of our horses on the way, and made us much fear we shou'd not have reach'd your castle this right.—Kera Khan—</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>That robber, who coops us within our walls!—But to your business.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>We have strict orders from our prince not to communicate, but with yourself in private.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Retire! (<hi>Guards retire.</hi>) Adolphus!—
+<stage>(Count seems unwilling to speak before Adolphus.)</stage> I conceal nothing from him.—Now, where are your master's letters to me?</p>
+            </sp>
+            <sp>
+               <pb n="22" facs="21"/>
+               <speaker>Count.</speaker>
+               <p>Letters, my Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>He seems confounded.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>You forget; we told you, Sir, the Tar<lb rend="hidden" type="hyphenInWord"/>tars plundered us of our horses; and, I assure you, they did not leave our baggage behind them.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Know'st thou aught of their contents?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>O, yes, my Lord; the prince, appre<lb rend="hidden" type="hyphenInWord"/>hensive, perhaps, of our falling among the robbers in these woods, told us, that they contain'd en<lb rend="hidden" type="hyphenInWord"/>quiries after his daughter Lodoiska.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Lodoiska!—Has he then divulg'd the place of her retreat?—Tell me, where is Lupauski now?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Being on his progress to assemble the confederates, I cannot tell precisely where he is; but, I know, his letters likewise said, that you might soon expect him here.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Here, see him here, say'st thou?</p>
+            </sp>
+            <stage>(Whispers Adolphus.)</stage>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Do you observe his looks?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Yes, and they frighten me out of my wits.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>It shall be so.—I am sorry to send your master such unwelcome news; but you will tell him, that Lodoiska is not here.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Not here?</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Not here.—Do you mark his emotion?— To oblige the prince, I undertook, against my will, to guard her in this castle from the Count
+<pb n="23" facs="22"/>Floreski:—but it is now four days since she made her escape from me.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Four days!—Lying dog!</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>She is by this time, I suppose, in the arms of her beloved Floreski; if, which I fear was impossible, she escap'd the Tartars, that beset the Forest.—Go, bear my answer to your master.— Begone.</p>
+            </sp>
+            <stage>Talks with Adolphus.</stage>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Ah, good my Lord, will you dismiss us at this late hour? We are exhausted with fatigue and hunger; vouchsafe us the shelter of your roof this night, and to-morrow by day break we will depart.</p>
+            </sp>
+            <sp>
+               <speaker>Adolphus.</speaker>
+               <p>And yet, refusing to admit his mes<lb rend="hidden" type="hyphenInWord"/>sengers may raise suspicion in Lupauski.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>True, true.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Will you my Lord?—can you bar your gates to us?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Yes, we are likely to have the sky for our tester to-night.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>It is too late to dismiss you this evening; promise not to exchange a syllable with any of my people, and you shall stay here to-night; in the morning I will prepare a letter to the prince, which you must deliver with the utmost speed; for it is of moment.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>You shall be obey'd.—We have succeed<lb rend="hidden" type="hyphenInWord"/>ed; perhaps I may yet rescue her, Varbel; perhaps—</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>How now! what's that he says?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>He says, that we are lucky fellows to be
+<pb n="24" facs="23"/>rescu'd from the danger of passing the night among the wolves and Tartars in the Forest; and so I think we are.—We shall be found out, if you don't take better care.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Where shall we lodge these men?</p>
+            </sp>
+            <sp>
+               <speaker>Adolphus.</speaker>
+               <p>In the low room by the north postern.</p>
+            </sp>
+            <sp>
+               <speaker>Baron</speaker>
+               <p>It is remote; see to the bars and bolts.— Remember your promise, and keep it faithfully. Follow.</p>
+            </sp>
+            <stage>Exeunt Baron, and attendants into the castle.</stage>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>FINALE.</head>
+                     <stage>ADOLPHUS, GUSTAVUS, COUNT, VARBEL. <hi>POLISH GUARDS.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>ADOLPHUS—GUSTAVUS.</speaker>
+                        <l>Follow me; but take good care</l>
+                        <l>Not to practise here deceit;</l>
+                        <l>If you should, by heav'n, I swear,</l>
+                        <l>Instant death you surely meet.</l>
+                     </sp>
+                     <sp>
+                        <speaker>COUNT.</speaker>
+                        <l>Let us on; but take good care</l>
+                        <l>Well to colour our deceit;—</l>
+                        <l>For my love, by heav'n, I swear,</l>
+                        <l>Instant death I'd gladly meet.</l>
+                     </sp>
+                     <sp>
+                        <speaker>VARBEL.</speaker>
+                        <l>Well, go on; and never sear</l>
+                        <l>But I colour the deceit;</l>
+                        <l>
+                           <pb n="25" facs="24"/>
+For, by heav'n and earth, I swear,</l>
+                        <l>Death I should be loth to meet.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORUS of POLISH GUARDS.</speaker>
+                        <l>Follow us; but take good care</l>
+                        <l>Not to practise here deceit;</l>
+                        <l>If you should, by heav'n, we swear,</l>
+                        <l>Instant death you surely meet.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>Exeunt into the Castle.</stage>
+            <trailer>END OF THE FIRST ACT.</trailer>
+         </div>
+         <div n="2" type="act">
+            <pb n="26" facs="25"/>
+            <head>ACT II.</head>
+            <stage>The Act begins on the point of day-break; and the scene represents Lodoiska's Tower, upon a high Terrace, within the castle.</stage>
+            <stage>OVERTURE.</stage>
+            <stage>Enter LODOISKA from the Tower, with the Ribband in her Fland.</stage>
+            <sp>
+               <speaker>Lodoiska.</speaker>
+               <p>The night is almost pass'd, and day stands ready to dawn upon the mountains.—Oh, Floreski, in vain I have watch'd for thy expected letter!—My heart sinks in me with the sear of having betray'd thee into the hands of Lovinski. I knew thy faithful love, I knew thy impetuous valour.—Why did I reveal myself?—Yet will I hope,—Kind hope, thou only friend that visitest the unhappy, dwell with me still, and calm the crowd<lb rend="hidden" type="hyphenInWord"/>ing terrors that oppress me!</p>
+               <q>
+                  <pb n="27" facs="26"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <head>AIR.</head>
+                        <lg n="1">
+                           <head>I.</head>
+                           <l>Ye streams, that round my prison creep,</l>
+                           <l>If on your mossy banks you see</l>
+                           <l>My gallant lover stand and weep,</l>
+                           <l>Oh, murmur this command from me;—</l>
+                           <l>Thy mistress bids thee haste away,</l>
+                           <l>And shun the broad-ey'd, watchful, day.</l>
+                        </lg>
+                        <lg n="2">
+                           <head>II.</head>
+                           <l>Ye gales, that love with me to sigh,</l>
+                           <l>If in your breezy slight you see</l>
+                           <l>My dear Floreski ling'ring nigh,</l>
+                           <l>Oh, whisper this command from me;—</l>
+                           <l>Thy mistress bids thee haste away,</l>
+                           <l>And shun the broad-ey'd, watchful, day.</l>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Hark! yes I hear a noise—Let me retire to my sad prison, till I again can breathe the freshness of the air in solitude; for every object here is odious to me.</p>
+            </sp>
+            <stage>Exit into the Tower, leaving the Ribband on the rails of the ttrraee.</stage>
+            <stage>Enter COUNT FLORESKI from an inner Court.</stage>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>No, no where, to be found through all courts!—My love, my life, and must I lose thee? Day breaks apace.—I must go back, or be discover'd.—Ha! another querter!— I will explore thee, be the consequences what they may.</p>
+            </sp>
+            <stage>Exit through a vaulted passage.</stage>
+            <stage>
+               <pb n="28" facs="27"/>
+Enter VARBEL, from a distant Casemate.</stage>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Sir! Sir!—hist, hist.—Have you found her? Why don't you speak to one now?—He's not here.—I thought I heard him this moment too. So, I have lost my master in the dark, and now, if any of the gentlemen of this humane family happen to stumble upon me, my poor dear life's not worth a minute's purchase.—He's poring about after his Lodoiska; the deuse a bit does he think of me.—Though our window was double and treble barr'd, and barricado'd, he burst away the bolts with a snap of his finger; and, I believe, like Mr. What d'ye call him, he'd have burst the gates of Hell to come at his mistress.—I can't con<lb rend="hidden" type="hyphenInWord"/>ceive what's the matter with me to night; I see Spectres and Phantoms before me at every turn.— If a man cou'd administer courage to himself when he wanted it, I'd take a good dose of it now; and yet, I dare say, some people wou'd be much more fright<lb rend="hidden" type="hyphenInWord"/>en'd than I am.—Mercy on us! what's that?</p>
+            </sp>
+            <stage>Re-enter the COUNT.</stage>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>My search is all in vain.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Oh! is it nothing but you, Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Varbel? Why did not you wait in the room, as I order'd you?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I don't know how it is; but, to tell you the truth, Sir, I'm lately grown a little afraid of keeping my own company.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>His fears will ruin me at last.—Afraid?— You, who fought so bravely against the Tartars?</p>
+            </sp>
+            <sp>
+               <pb n="29" facs="28"/>
+               <speaker>Varbel.</speaker>
+               <p>I tell you what; I'll fight the Devil himself by day light; but a ghost in the dark is quite another thing.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Must all my hazards then prove fruitless?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Yes, we have pass'd the night here to very little purpose; and without any supper too;— they forgot that part of the ceremony;—And, now I think on't, I believe, that's what makes me so nervous.—Hunger will tame the courage of a lion.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>To know that she is here, and not to see her!</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Do, let's go back, and try if we can hinder their seeing, that we have broke out of the dog-hole they lock'd us in.—Consider, he'll be coming to you with his letter presently.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Am I deceiv'd? That ribband!—This, this is, perhaps, the very tower.—Now be propi<lb rend="hidden" type="hyphenInWord"/>tious, Heav'n!—My love! my Lodoiska!—</p>
+            </sp>
+            <stage>A drum beats the reveille.</stage>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Here they are, as I hope to be sav'd.— It's all over with us.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>No, no; run back to our room a mo<lb rend="hidden" type="hyphenInWord"/>ment.</p>
+            </sp>
+            <stage>Enter SEBASTIAN, STANISLAUS, MICHAEL and CASIMIR, at the Head of the Baron's Guards.</stage>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>They're coming at that side.—Oh! a plague o' this caterwauling!</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Here, here; till they are gone.</p>
+            </sp>
+            <stage>[Gustavus passes along the Terrace into Lodoiska's Tower.]</stage>
+            <stage>[The Count and Varbelretire into a Recess under the Terrace.]</stage>
+            <stage>
+               <pb n="30" facs="29"/>
+Enter the BARON, and ADOLPHUS, with a Letter.</stage>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>(<hi>To Sebastian and guards</hi>) Stay there; and, on your lives, be silent.—Is the letter to Lupauski ready?</p>
+            </sp>
+            <sp>
+               <speaker>Adol.</speaker>
+               <p>I have it.</p>
+            </sp>
+            <stage>Gives the letter to the Baron, who reads it.</stage>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>The Baron himself.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Now we are in a hopeful condition!</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Is Gustavus gone upon my stratagem to persuade the Princess of Floreski's death?</p>
+            </sp>
+            <sp>
+               <speaker>Adol.</speaker>
+               <p>I saw him enter the Tower this moment.— And now, let me again entreat you to retire to rest; they have just beat the Reveille; 'tis high morning; and for these two nights you have not tasted sleep.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>I tell thee, my anxiety, my doubts, my fears, have drawn me hither; nor will I stir, 'till the result of this last effort pronounce me blest, or curst for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Adol.</speaker>
+               <p>But, Sir,—</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Oh! my Friend, you know my fatal passion—The scorn she treats me with, my bar<lb rend="hidden" type="hyphenInWord"/>barity to her, my ingratitude to her father, my hope, and my despair, drive me to madness.— There is no rest for me.—</p>
+            </sp>
+            <sp>
+               <speaker>Adol.</speaker>
+               <p>But good my Lord, instead of treating her with so much rigour, why not demand her frankly of her father? His high regard for you,—</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Is nothing but the insolence of obligation; name it not.—His family has given sovereigns to
+<pb n="31" facs="30"/>Poland; he would reject with scorn the offers of an humble Baron.—You know the pride, the unrelenting obstinacy, of this old man;—he wou'd indignantly withdraw her from my castle, and I— insupportable!—shou'd never, never see her more!</p>
+            </sp>
+            <sp>
+               <speaker>Adol.</speaker>
+               <p>Yet soon you must expect him to recall her.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Recall her!—No.—I have set loose my love and my ambition; they have hurried me be<lb rend="hidden" type="hyphenInWord"/>yond the power of retreat, and now she shall be mine, if force, or fraud, or any means can win her. —Soft,—she appears.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Then she is here!</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Hush!</p>
+            </sp>
+            <stage>Enter LODOISKA from the Tower, following GUSTAVUS, who, repassing the Terrace, is met by the BARON and ADOLPHUS, anxious to hear how the Princess had received his Message.</stage>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Dead! Kill'd by the Tartars!—No, no, Lovinski is the assassin—Oh! my love, 'twas I, 'twas I betray'd thee into his power.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <head>ROMANCE.</head>
+                        <l>Adieu, my Floreski, for ever,</l>
+                        <l>And welcome the follows I prove!—</l>
+                        <l>Why, sate, still delight'st thou to sever</l>
+                        <l>The bosoms united by love?—</l>
+                        <l>Clos'd is that eye,</l>
+                        <l>Mute is the tongue,</l>
+                        <l>
+                           <pb n="32" facs="31"/>
+On which my soul</l>
+                        <l>Enraptur'd hung!—</l>
+                        <l>He's gone, he's dead,—and I remain</l>
+                        <l>To sigh, and weep,—alas! in vain.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>She thinks me murder'd.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>And so we shall be in a minute, if you don't hold your tongue.</p>
+            </sp>
+            <stage>Symphony.—The Baron, Gustavus &amp; Adolphus, advance.</stage>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Thou hast discharg'd it well.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Yet this may be some new device of Lovinski's.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <head>ROMANCE.</head>
+                        <l>Clos'd is that eye,</l>
+                        <l>Mute is the tongue,</l>
+                        <l>On which my soul</l>
+                        <l>Enraptur'd hung!—</l>
+                        <l>He's gone, he's dead, and I remain</l>
+                        <l>To sigh, and weep, alas! in vain.</l>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>ROMANCE—QUINTETTO.</head>
+                     <stage>LODOISKA, COUNT, VARBEL, ADOLPHUS, GUSTAVUS.</stage>
+                     <sp>
+                        <speaker>LODOISKA.</speaker>
+                        <l>If I may trust</l>
+                        <l>This faithful heart,</l>
+                        <l>We soon shall meet</l>
+                        <l>No more to part;</l>
+                        <l>
+                           <pb n="33" facs="32"/>
+He's gone, nor shall I long remain,</l>
+                        <l>To sigh, and weep,—alas! in vain.</l>
+                     </sp>
+                     <sp>
+                        <speaker>COUNT.</speaker>
+                        <l>If I may trust</l>
+                        <l>This faithful heart,</l>
+                        <l>We soon shall meet</l>
+                        <l>No more to part;</l>
+                        <l>Oh, must I then conceal'd remain,</l>
+                        <l>And know thou weep'st my loss in vain!</l>
+                     </sp>
+                     <sp>
+                        <speaker>VARBEL.</speaker>
+                        <l>If I may trust</l>
+                        <l>My boding heart,</l>
+                        <l>Too soon your 'squire</l>
+                        <l>And you will part;</l>
+                        <l>Your mistress then must here remain,</l>
+                        <l>To sigh, and weep our loss in vain.</l>
+                     </sp>
+                     <sp>
+                        <speaker>ADOLPHUS—GUSTAVUS.</speaker>
+                        <l>Would he but trust</l>
+                        <l>My duteous heart,</l>
+                        <l>en should he know</l>
+                        <l>The honest part</l>
+                        <l>
+                           <pb n="34" facs="33"/>
+I'd take his mistress to obtain,</l>
+                        <l>Nor let him sigh, and love, in vain.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>The Baron, hearing voices in the recess, sends Sebas<lb rend="hidden" type="hyphenInWord"/>tian to take Lodoiska away, then leads his guard round through the vanited passage, and, while Sebastian hur<lb rend="hidden" type="hyphenInWord"/>ries the princess into the tower, surprizes the Count and Varbel.</stage>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>One word, and you are dead.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Villains! Cowards!</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>One word, and we are dead.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>The meslengers!—Then 'tis impossible to blind Lupauski. How have you dar'd, vile spies, to built the doors that held you?—Who told you the princess was in that tower?—But you shall <gap resp="#pdcc" extent="1 span" rend="content:〈…〉">
+                     <desc>illegible</desc>
+                  </gap> her face.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>There, I thought it would come to this <gap resp="#pdcc" extent="1 span" rend="content:〈…〉">
+                     <desc>illegible</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Before her face!—Then I am blest in<lb rend="hidden" type="hyphenInWord"/>deed; I shall once more behold her.—Come, why deed thou pause?—Summon thy executioners, pre<lb rend="hidden" type="hyphenInWord"/>pue the rack, and thou shalt see me spring to my glorious death, proud as impatient martyrs on their road to heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Sir, you forget me; I've travell'd with you very contentedly so far; but I'm not prepared to take the journey you talk of at present.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <stage>(To Gustavus and Adolphus.)</stage>
+               <p>Such fortitude suits ill with his condition; something whispers me they are not what they say;—I'll prove them to
+<pb n="35" facs="34"/>the quick.—One way you yet may save yourselves, and Lodoiska.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Pray, sir, what's that?</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Say, truly, whence did you learn that she was still in my castle? Speak, I say, or Lodoiska's life—</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <stage>(Offering him her note.)</stage>
+               <p>Give him her let<lb rend="hidden" type="hyphenInWord"/>ter; give him her letter.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <stage>(Snatching it.)</stage>
+               <p>Slave!</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>It's the way to save us all.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>You are right.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Seek not to deceive, but answer instant<lb rend="hidden" type="hyphenInWord"/>ly, or—</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I learnt it from herself.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Herself!—Have you then seen her?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>No, no, upon my honour.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <stage>(Giving the note.)</stage>
+               <p>She dropt it from her tower last night.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <stage>(Reads.)</stage>
+               <p>"Let my father know that Lo<lb rend="hidden" type="hyphenInWord"/>vinski has abus'd his considence, and consines his Lodoiska in this tower, till she consent to give him her hand.—My guard will return in a moment,—fly."—Curse on my imprudence!—But they have not yet seen her.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>You find, my lord, we scorn to deceive you.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>'Tis well you do;—your companion's sudden warmth gave me ill thoughts of you.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Ah! poor fellow! He can't help it; she was a very kind lady to him.—I am always telling
+<pb n="36" facs="35"/>you of your flying into such passions, you foolish— <stage>(<hi>Strikes him.</hi>)</stage> I beg your pardon, fir; kick me whenever you like.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>I see, notwithstanding his firmness, they are but servants, inflam'd by zeal and affection for their mistress;—they shall serve my design.—I have promis'd you life,—</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Yes, sir.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>I add one only condition; see you dis<lb rend="hidden" type="hyphenInWord"/>charge it to the point; your fate and mine depends on it.—I have assur'd the princess that Floreski is dead; my intelligence appears to be suspected; but she can doubt no longer, if once she hears it confirm'd by you in person:—This you must in<lb rend="hidden" type="hyphenInWord"/>stantly perform in my presence, or by my—</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Don't look so frightful, sir, and we'll do whatever you please.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Sir, I obey.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Enough.—Bring Lodoiska hither.</p>
+            </sp>
+            <stage>(<hi>Exit Sebasian into the tower.</hi>)</stage>
+            <sp>
+               <p>
+                  <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap> 
+                  <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap>erving me, you save yourselves;—retire; I shall call for you at your time to appear before her.—Gustavus, instruct them in your lesson.</p>
+            </sp>
+            <stage>(Exeunt Custavus, the Count, and Varbel).</stage>
+            <stage>Enter LODOISKA and SEEASTIAN from the Tower.</stage>
+            <sp>
+               <p>I triumph.—The princess (women sometimes for<lb rend="hidden" type="hyphenInWord"/>get the ashes of a buried lover) when once con<lb rend="hidden" type="hyphenInWord"/>vine'd my hated rival is no more, may be persuad<lb rend="hidden" type="hyphenInWord"/>ed—Oh, transporting thought!—The obedient
+<pb n="37" facs="36"/>priest is ready.—Once mine, let prince Lupau<lb rend="hidden" type="hyphenInWord"/>ski come; let him be told how I have won his daughter, and all his wide possessions; let him resent, she will forgive, and plead for me. How beautiful she is!—What still in tears? 'Tis in your power, madam, to bid your own afflictions cease, only by pitying mine.—Ah! why that scorn<lb rend="hidden" type="hyphenInWord"/>ful frown?—What, will you never, never break this cruel and disdainful silence?</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Is my fate too resolv'd upon?</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>On thee depends my every hope of hap<lb rend="hidden" type="hyphenInWord"/>piness.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Happiness!—To what happiness can that unfeeling heart pretend? By what authority do you confine me here? My fond father committed me to your duty, not to your custody; he delivered me to a friend, not to a goaler.—You have taken from me the poor women that serv'd me; if I con<lb rend="hidden" type="hyphenInWord"/>verse, you must be my companion; and if I wish to live,—as still I do, for thee, Floreski!—'tis from that barb'rous hand I must accept my sustenance.—Have you a parent's power with me?—or a husband's right?—That you shall never have;—no,—never—and 'tis only once more to assure you of my fix'd abhorrence, that I now break my dis<lb rend="hidden" type="hyphenInWord"/>dainful silence for the last time.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>'Tis plain, she disbelieves—The doubts you have of count Floreski's death, madam, cause this insensibility to all I suffer; 'tis time they were at once remov'd.—Know then, two of your father's
+<pb n="38" facs="37"/>servants, who last night pass'd the forest, are at hand to—</p>
+            </sp>
+            <stage>(Exit Adolphus.)</stage>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Last night! The forest!—It is true then. Oh, my Floreski!</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Advance.—No, be assur'd, proud fair one, those eyes shall never see Floreski more.—Ad<lb rend="hidden" type="hyphenInWord"/>vance, I say.—Behold.</p>
+            </sp>
+            <stage>Enter the Count, VARBEL, GUSTAVUS, and ADOLPHUS.</stage>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Hold, heart, a little while!—Floreski!—</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Is no more, madam;—We last night found him in the wood, kill'd by the Tartars, as we guess.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I shall discover all.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Madam, you know these men.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>I do; I do; and every doubt of my Flo<lb rend="hidden" type="hyphenInWord"/>reski's death at last is ended.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>She bears the shock more firmly than I expected.—If my—</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Spare me, my lord—The surprize, the emotion, the —</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Floreski, madam, —</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Pronounce his hated name no more.—Oh Lodoiska, when I reflect on what my jealous apprehensions have made you suffer, have I not cause to hate him? Pardon, pardon those severi<lb rend="hidden" type="hyphenInWord"/>ties my heart always disavow'd, and which, be<lb rend="hidden" type="hyphenInWord"/>lieve me, have been inflicted more upon myself, than you.</p>
+            </sp>
+            <sp>
+               <pb n="39" facs="38"/>
+               <speaker>Lodo.</speaker>
+               <p>Vain man!—Think you your meaning hid to me?—Come, dare for once to speak a truth; it is not love, 'tis your ambition seeks the heiress of the prince Lupauski.—For shame! For shame!</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Insulted!—I'll bear no more.—Hence, idle scruples!—Go, call the priest—Haste, fly.</p>
+            </sp>
+            <stage>(Exit Adolphus.)</stage>
+            <sp>
+               <p>This moment makes you mine.—And you, tell her this instant 'tis her father's will; or I revoke the promis'd life I gave you.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Tell her, tell her any thing.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Oh, my father, where are you now?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I will protect, or die for you.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Relent, proud fair;—the priest is here—Hark! hark!—he comes, he comes.</p>
+            </sp>
+            <stage>Enter ADOLPHUS.</stage>
+            <sp>
+               <speaker>Adol.</speaker>
+               <p>My lord, the prince Lupausei is arriv'd.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Arriv'd?</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Good heaven!—</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I am discover'd then, and all is lost.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Here's another adventure!</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Speak, tell me,—has he a numerous train?</p>
+            </sp>
+            <sp>
+               <speaker>Adol.</speaker>
+               <p>But two attendants.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Then let him come!—I live again.</p>
+            </sp>
+            <sp>
+               <speaker>Prince Lupauski.</speaker>
+               <stage>(Without)</stage>
+               <p>Where, where is she?</p>
+            </sp>
+            <stage>Enter Prince LUPAUSKI.</stage>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Oh, sir!
+<stage>(<hi>Knceling</hi>)</stage>
+               </p>
+            </sp>
+            <sp>
+               <pb n="40" facs="39"/>
+               <speaker>Prince.</speaker>
+               <stage>(Raising &amp; embracing her)</stage>
+               <p>My child! My Lodoiska!—Blessings, blessings on thee!—My friend, I cou'd not hope at parting to meet you again so soon; but the confederates are already—What do I see?—Am I deceiv'd?—The count Floreski here?</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>There,—now the murder's out.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Floreski!—This slave, is he the count Floreski?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Yes,—himself.—</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>How has he gain'd admittance to—</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>By a cowardly, mean artifice;—he pre<lb rend="hidden" type="hyphenInWord"/>tended himself one of your servants, sent with—</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>What cou'd I do, disarm'd, against thee and thy banditti?—The artifice thou would'st re<lb rend="hidden" type="hyphenInWord"/>proach me with was bold and honourable; to op<lb rend="hidden" type="hyphenInWord"/>pose stratagem to persidy, and cruelty, like thine, is acting according to the laws of justice, and vin<lb rend="hidden" type="hyphenInWord"/>dicating those of humanity.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>What's that he says? To persidy and cruelty like thine? My friend,—</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Now comes his turn, I hope.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Oh! my father, you would not think what I have suffer'd since you saw me.—That friend has forc'd my faithful servants from about me; that friend has insulted my unprotected situa<lb rend="hidden" type="hyphenInWord"/>tion with his detested offers;—that friend has bar<lb rend="hidden" type="hyphenInWord"/>barously imprison'd me,—</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>My daughter!</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>To extort from me my consent to a
+<pb n="41" facs="40"/>union, I wou'd gladly die ten thousand deaths to avoid.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>Cou'd you thus violate the laws of hos<lb rend="hidden" type="hyphenInWord"/>pitality? Cou'd you so far forget the bounties I have shower'd upon you?—My heart repos'd it<lb rend="hidden" type="hyphenInWord"/>self on yours; seeking a tender refuge for my child, I gave her to your care, as into a holy sanc<lb rend="hidden" type="hyphenInWord"/>tuary; you receiv'd from me the strongest proof of love a friend cou'd give; be a father for one instant, and judge whether I cou'd have consided to you a trust more dear, more sacred.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Upon my soul, he's a fine spokon old gentleman.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Must I then lose her?</p>
+            </sp>
+            <stage>(Gives directions to his officers.)</stage>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>What, thou!—My vassal!—thou!—Let's begone.—I'll take such vengeance on his treachery, that—Follow me, my daughter; let's quit for ever this mansion of ingratitude.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>The sooner the better. What a lucky escape!</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Guards.—Not so fast.</p>
+            </sp>
+            <stage>(Officers seize the Prince, Lodoiska, Floreski &amp; Varbel.)</stage>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>What the devil's the matter now?</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>This castle is your prison;—away, con<lb rend="hidden" type="hyphenInWord"/>fine them, as I order'd you.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Gentlemen! friends! only hear me!</p>
+            </sp>
+            <stage>(Two guards bear off Varbel.)</stage>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>What do'st thou mean?</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Never to part with her.—Away, away.</p>
+            </sp>
+            <sp>
+               <pb n="42" facs="41"/>
+               <speaker>Prince.</speaker>
+               <p>Oh, my poor daughter!</p>
+            </sp>
+            <stage>(<hi>Exit guarded.</hi>)</stage>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>My father!—My Floreski!</p>
+            </sp>
+            <stage>(<hi>The Baron bears off Lodoiska.</hi>)</stage>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>My love! My love!</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <head>AIR.</head>
+                        <lg>
+                           <l>Descend, some warring angel,</l>
+                           <l>In lightning to my aid,</l>
+                           <l>To blast the savage tyrant,</l>
+                           <l>And right an injur'd maid!</l>
+                           <l>Subdued by fate, to you I kneel;</l>
+                           <l>You look like men, like men should feel.—</l>
+                           <l>Fool! not to know,</l>
+                           <l>They laugh at woe.—</l>
+                           <l>Descend, some warring angel,</l>
+                           <l>In lightning to my aid,</l>
+                           <l>To blast the savage tyrant,</l>
+                           <l>And right an injur'd maid!</l>
+                           <l>Let my Lodoiska's charms</l>
+                           <l>In your hearts compassion move;</l>
+                           <l>Soldiers, consecrate your arms</l>
+                           <l>At the shrine of faithful love.</l>
+                           <l>Descend, some warring angel,</l>
+                           <l>In lightning to my aid,</l>
+                           <l>To blast the savage tyrant,</l>
+                           <l>And right an injur'd maid!</l>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <stage>(<hi>Exit guarded.</hi>)</stage>
+            <trailer>END OF THE SECOND ACT.</trailer>
+         </div>
+         <div n="3" type="act">
+            <pb n="43" facs="42"/>
+            <head>ACT III.</head>
+            <stage>OVERTURE.</stage>
+            <stage>The act begins early in the morning; and the scene represents a hall and gallery in the castle.</stage>
+            <stage>Enter Two Pages, Baron LOVINSKI, ADOLPHUS, GUSTA<lb rend="hidden" type="hyphenInWord"/>VUS, CASIMIR, SEBASTIAN, STANISLAUS, and MICHAEL, from a subterraneous passage.</stage>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>'Tis all in vain; I cannot shake 'em.—Curse on their obstinacy!—Love sires Floreski's breast, and rage the father's; careless alike of menaces and soothing, each braves me to my worst.—Death and perdition! Let the worst fall on 'em. Is all prepared for instant execution?</p>
+            </sp>
+            <sp>
+               <speaker>Adol.</speaker>
+               <p>It is, my lord.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Still would I have thee mine, O Lodo<lb rend="hidden" type="hyphenInWord"/>iska! consenting, unconstrain'd;—but, whilst my rival lives, that hope's impossible.—Ha! tell me, where is the forward fool, that waited on Floreski?</p>
+            </sp>
+            <sp>
+               <speaker>Adol.</speaker>
+               <p>Confin'd, as you commanded.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Haste, bring him to me.</p>
+               <stage>(<hi>Exeunt Adol<lb rend="hidden" type="hyphenInWord"/>phus and Gustavus through the gallery.</hi>)</stage>
+               <p>I may, per<lb rend="hidden" type="hyphenInWord"/>haps,
+<pb n="44" facs="43"/>persuade this wretch to think his own life more precious than his lord's.—If I fail here,—I shudder at the thought of my own purposes.—Love, hatred, jealousy, ambition, scorn and fury rack my distracted brain, and rend my heart in pieces.—Would I were dead myself!</p>
+               <stage>(<hi>Throws him<lb rend="hidden" type="hyphenInWord"/>self into a chair.</hi>)</stage>
+               <p>Pr'ythee, good boy, sing me tha<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> gentle strain, yon lady lov'd; your pretty melody may calm the ragings of the fiend within me.</p>
+            </sp>
+            <sp>
+               <speaker>Ist. Page.</speaker>
+               <p>I'm sorry, sir, to see you so unhappy.</p>
+            </sp>
+            <sp>
+               <speaker>Baron,</speaker>
+               <p>Sing, sing.</p>
+            </sp>
+            <sp>
+               <speaker>FIRST PAGE.</speaker>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <head>AIR.</head>
+                        <lg n="1">
+                           <head>I.</head>
+                           <l>SWEET bird, that cheer'st the heavy hours</l>
+                           <l>Of winter's dreary reign,</l>
+                           <l>O, still exert thy tuneful pow'rs,</l>
+                           <l>And pour the vocal strain!</l>
+                        </lg>
+                        <lg n="2">
+                           <head>II.</head>
+                           <l>Go not to seek a scanty fare</l>
+                           <l>From nature's frozen hand,</l>
+                           <l>Whilst I, with gratitude, prepare</l>
+                           <l>The food thy wants demand.</l>
+                        </lg>
+                        <lg n="3">
+                           <head>III.</head>
+                           <l>Domestic bird, with me remain,</l>
+                           <l>Until next verdant spring</l>
+                           <l>Again shall bring the woodland train,</l>
+                           <l>Their grateful tribute bring.</l>
+                        </lg>
+                        <lg n="4">
+                           <pb n="45" facs="44"/>
+                           <head>IV.</head>
+                           <l>Sweet Robin, then thou may'st explore</l>
+                           <l>And join the feather'd throng,</l>
+                           <l>And ev'ry vocal bush shall pour</l>
+                           <l>The energy of song.</l>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Well sung, my boy; I thank your pains, though fruitless.—</p>
+            </sp>
+            <stage>Enter ADOLPHUS, VARBEL, &amp; GUSTAVUS, from the gallery.</stage>
+            <p>He's coming.—Leave me awhile.</p>
+            <stage>(<hi>Exeunt Pages, Sebastian, Casimir, Stanislaus, and Michael.</hi>)</stage>
+            <p>Threats will do much, gold more, with base-born poverty; both shall be tried.</p>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Ay, this is something like now;—now I'll talk to you;—this it is to fall amongst men, as it were, something like men.—Gentlemen, you have bound me for ever by letting me loose, and my legs ache to prove their sense of your kindness by scraping their leave, and giving you no farther trouble about 'em.</p>
+               <stage>(<hi>Seeing the Baron.</hi>)</stage>
+               <p>The man<lb rend="hidden" type="hyphenInWord"/>tiger to swallow me up for his breakfast.—</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>You serve Floreski.—Why do you trem<lb rend="hidden" type="hyphenInWord"/>ble?—You have nothing to fear.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>No, I know, sir;—but I've had a damp lodging, and I think it's rather chilly this morn<lb rend="hidden" type="hyphenInWord"/>ing.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>In one word, your master is to die,—now, instantly.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I'm very sorry for it.</p>
+            </sp>
+            <sp>
+               <pb n="46" facs="45"/>
+               <speaker>Baron.</speaker>
+               <p>I have observ'd your fidelity, your affec<lb rend="hidden" type="hyphenInWord"/>tion to him.—I'll take you into my service; I love your virtue, and would reward it.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I'm afraid I should make but a bad ser<lb rend="hidden" type="hyphenInWord"/>vant to you; you had better turn me out o'doors at once, I think—I had rather—Do, sir;—and let my virtue be its own reward.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>No fooling.—Your romantick lord seems ambitious of dying in this cause, that he may live lamented in the history of faithful and unfortunate lovers; you, perhaps, aspire to imitate him.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I can't say, that I do.—Ambition's a great thing with great folks, I believe; but, for my own poor part, I solemnly assure you, I had rather live three days in this world, bad as it is, than a thousand years in the best history that will ever be written.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>I take you at your word;—there's a poor earnest of my future bounty.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>A purse!—What's this for?</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Follow, and, as we go, I will instruct you in a short tale, that at once rids me of Floreski, and gives you life and fortune.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>My lord, I'm in peril, and poor;—and I value life and fortune as much as another man; but, I hope, I shall never think 'em worth buying at the price of false witness against my master.</p>
+            </sp>
+            <stage>(Throws down the Purse.)</stage>
+            <sp>
+               <pb n="47" facs="46"/>
+               <speaker>Baron.</speaker>
+               <p>Ha!—do you trifle, slave? Nay, then I must—</p>
+            </sp>
+            <stage>(Gives orders to Adolphus.)</stage>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>What's he going to do now?—I wish I was fighting the Tartars again, with all my heart!</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Him, her, the prince,—all, all,—here, now, before my eyes.</p>
+               <stage>(<hi>Exit Adolphus.</hi>)</stage>
+               <p>The father and the daughter shall behold him, as the blow falls, and from his doom be taught to dread their own.—For thee, vile reptile,—</p>
+            </sp>
+            <stage>(Flourish of drums and trumpets, with clashing of swords, and shouts of "Victory, victory! Kera Khan.")</stage>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>They're come, they're come—Here is an adventure!</p>
+            </sp>
+            <stage>Enter SEBASTIAN, MRCHAEL, CASIMIR, STANISLAUS, ADOLPHUS, Soldiers and Standard-Bearer.</stage>
+            <sp>
+               <speaker>Baron,</speaker>
+               <p>The matter?</p>
+            </sp>
+            <sp>
+               <speaker>Casimir.</speaker>
+               <p>The Tartars are within the walls; the Eastern towers are blazing; flame and the sword rage round; the soldiers fly; haste, or we perish all.</p>
+            </sp>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Sound, sound to arms.—</p>
+               <stage>(<hi>Exeunt Stani<lb rend="hidden" type="hyphenInWord"/>slaus and two soldiers.</hi>)</stage>
+               <p>Rally 'em in the North court, and man the ramparts; there we'll stand it out;—fly, haste, I follow.</p>
+               <stage>(<hi>Exeunt Adolphus and four soldiers.</hi>)</stage>
+               <p>Bring me my arms.</p>
+               <stage>(<hi>Exeunt Michael, Gustavus, and Casimir.</hi>)</stage>
+               <p>Bear off that slave, till I have time to torture him.</p>
+            </sp>
+            <sp>
+               <pb n="48" facs="47"/>
+               <speaker>Varbel.</speaker>
+               <p>A respite, a respite!—I shall love a Tartar as long as I live.</p>
+            </sp>
+            <stage>(Exeunt Varbel, Sebastian, and two soldiers.)</stage>
+            <sp>
+               <speaker>Baron.</speaker>
+               <p>Away, away with him!—Whither am I going?</p>
+               <stage>(<hi>Enter Gustavus, Michael, and Casimir, with the Baron's helmet, shield, and battle-axe.</hi>)</stage>
+               <p>What's Lodoiska now? Lost, lost to me for ever! The hel<gap resp="#pdcc" extent="2 letters" rend="content:••">
+                     <desc>illegible</desc>
+                  </gap>ess prize of some fierce lawless savage.—Horrible thought!</p>
+               <stage>(Martial Symphony—The Baron seizes his helmet.)</stage>
+               <p>Where is her father?—My friend, my benefactor?—All bleeding, mangled, murder'd.—Frightful image!—</p>
+               <stage>(Martial Symphony—The Baron braces on his shield.)</stage>
+               <p>Hark! my soul's beat down, down to the very ground.</p>
+               <stage>(Martial Symphony—The Baron snatches his battle-axe.)</stage>
+               <p>The tempest swells—Floreski too, perhaps, directs the storm, thundering and fierce in arms. That burning thought has rouzed me.—Out, out, and on 'em.—No word, but fight, till death, or con<lb rend="hidden" type="hyphenInWord"/>quest, end our plagues for ever.</p>
+            </sp>
+            <stage>(Exeunt Baron, Officers, and Guards.)</stage>
+            <stage>The doors of the Hall are burst open, when <hi>Ithorak, Khor, Japhis, Camazin, Kajah, Tamuri,</hi> and a crowd of Tartars rush in, some louded with booty, and others bear<lb rend="hidden" type="hyphenInWord"/>ing off the women they have met with in the castle.</stage>
+            <q>
+               <pb n="49" facs="48"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>CHORUS. OF TARTARS and CAPTIVES.</head>
+                     <sp>
+                        <speaker>CAPTIVES.</speaker>
+                        <l>Have pity on us, pray!</l>
+                     </sp>
+                     <sp>
+                        <speaker>TARTARS.</speaker>
+                        <l>Come, sweet lasses, come away;</l>
+                        <l>With us the live-long day</l>
+                        <l>You'll waste in am'rous play.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CAPTIVES.</speaker>
+                        <l>No; we'll perish faithful martyrs</l>
+                        <l>To our husbands, and our sires.</l>
+                     </sp>
+                     <sp>
+                        <speaker>TARTARS.</speaker>
+                        <l>Ha!—no, no; we gallant Tartars</l>
+                        <l>Are only cruel then,</l>
+                        <l>When we contend with men;</l>
+                        <l>But lovely woman kindles gentler sires.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CAPTIVES.</speaker>
+                        <l>Ah, yet restore us to our kindred dear!</l>
+                     </sp>
+                     <sp>
+                        <speaker>TARTARS.</speaker>
+                        <l>Psha! you nothing have to <gap resp="#pdcc" extent="1 letter" rend="content:•">
+                              <desc>illegible</desc>
+                           </gap>ear;—</l>
+                        <l>You must away,</l>
+                        <l>No more delay.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>(The women are borne off, other Tartars remain.)</stage>
+            <sp>
+               <pb n="50" facs="49"/>
+               <speaker>Kajah.</speaker>
+               <p>At last we are masters of the castle.—It has cost us some trouble too; the fellows fought like mad-men.—Have you disarm'd, and clapt them into the dungeons, where we found so many of our countrymen?</p>
+            </sp>
+            <sp>
+               <speaker>Japhis.</speaker>
+               <p>Our comrades are at it now, break<lb rend="hidden" type="hyphenInWord"/>ing open and locking up.—But can any body tell why Kera Khan so strictly charg'd us to take Lovinski alive?</p>
+            </sp>
+            <sp>
+               <speaker>Khor.</speaker>
+               <p>I hope the other party have him fast by this time—Do you think he'll ever forget the death of his father?</p>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>Never, never.—</p>
+            </sp>
+            <sp>
+               <speaker>Ithorak.</speaker>
+               <p>Come, my boys, now away to our plun<lb rend="hidden" type="hyphenInWord"/>der, and divide faithfully.—You know what share must be reserv'd for Kera Khan.</p>
+            </sp>
+            <sp>
+               <speaker>Kajah.</speaker>
+               <p>Yes, yes, we know the booty he loves best.</p>
+            </sp>
+            <sp>
+               <speaker>Japhis.</speaker>
+               <p>Ay, ay, give him the women, he'll give us the gold.</p>
+            </sp>
+            <sp>
+               <speaker>Elor.</speaker>
+               <p>And the wine too.</p>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>SONG and CHORUS.</head>
+                     <stage>KHOR, JAPHIS, ITHORAK and HORDE.</stage>
+                     <sp>
+                        <speaker>KHOR.</speaker>
+                        <l>When the darken'd midnight sky</l>
+                        <l>Howls with wild tempertuous cry,</l>
+                        <l>Then requit the Tartar plain,</l>
+                        <l>Death and terror in our train—</l>
+                        <l>
+                           <pb n="51" facs="50"/>
+Where the sweeping vengeance drives,</l>
+                        <l>Hopeless man in horror flies;</l>
+                        <l>Worlds of wealth, and worlds of wives,</l>
+                        <l>Are the hardy TARTARS' PRIZE.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORUS—HORDE.</speaker>
+                        <l>Worlds of wealth, and worlds of wives,</l>
+                        <l>Are the hardy TARTARS' PRIZE.</l>
+                     </sp>
+                     <sp>
+                        <speaker>JAPHIS.</speaker>
+                        <l>As the meteors course the sky,</l>
+                        <l>Gleaming swords flash round the throng,</l>
+                        <l>And, as thro' the gloom they fly,</l>
+                        <l>Light th' embattled host along;</l>
+                        <l>Firm and close we lead our band</l>
+                        <l>Where the fertile region lies,</l>
+                        <l>Then, dispersing, sweep the land</l>
+                        <l>Destin'd for THE TARTARS' PRIZE.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORUS—HORDE.</speaker>
+                        <l>Worlds of wealth, and worlds of wives,</l>
+                        <l>Are the hardy TARTARS' PRIZE.</l>
+                     </sp>
+                     <sp>
+                        <speaker>ITHORAK.</speaker>
+                        <l>Tho' we deem the world our prey,</l>
+                        <l>Loya<gap resp="#pdcc" extent="1 letter" rend="content:•">
+                              <desc>illegible</desc>
+                           </gap> 
+                           <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                              <desc>illegible</desc>
+                           </gap>, martial truth,</l>
+                        <l>When our swords have won their way,</l>
+                        <l>
+                           <gap resp="#pdcc" extent="1 span" rend="content:〈…〉">
+                              <desc>illegible</desc>
+                           </gap> Tartar youth;</l>
+                        <l>Choice of spoil, as first in fight,</l>
+                        <l>With <gap resp="#pdcc" extent="1 word" rend="content:〈◊〉">
+                              <desc>illegible</desc>
+                           </gap> gallant chieftain lies,</l>
+                        <l>Then, till Honour have her right,</l>
+                        <l>Sacred be the TARTARS' PRIZE.</l>
+                     </sp>
+                     <sp>
+                        <pb n="52" facs="51"/>
+                        <speaker>CHORUS.—HORDE.</speaker>
+                        <l>Worlds of wealth, and worlds of wives,</l>
+                        <l>Are the hardy TARTARS' PRIZE.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Japhis.</speaker>
+                        <p>Well said, well said, he's a noble cap<lb rend="hidden" type="hyphenInWord"/>tain, and shall have all the booty, if he pleases.—</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+            <stage>Flourish and Shouts.</stage>
+            <stage>Enter KERA KHAN, and Tartars.</stage>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Hola! Lovinski is secured.—Why stand you idle here?</p>
+            </sp>
+            <sp>
+               <speaker>Japhis.</speaker>
+               <p>Because you station'd us in this wing till farther orders.—We should be glad enough to be busy.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Away then, finish your work; spike all the cannon, toss the brands round, blow up the foundation of this russian's den, and tell my father's spirit he's reveng'd.—To work—I'll take this quarter.</p>
+            </sp>
+            <stage>Excunt Tartars, others remain.</stage>
+            <stage>Enter LODOISKA, and Prince LUPAUSKI.</stage>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Ha!</p>
+            </sp>
+            <sp>
+               <speaker>Lodoiska.</speaker>
+               <p>O, save us, save us,—snatch me from the power of Lovinski.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>Tartars! Great Heaven, to what are we reserv'd?</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Compose yourself, my lovely girl;
+<pb n="53" facs="52"/>dismiss your terrors.—This is a prize!—Here's my share of the booty.</p>
+            </sp>
+            <sp>
+               <speaker>Japhis.</speaker>
+               <p>I thought so.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>Since we are fallen into these hands, my child, we must submit to death, or slavery.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Slavery, death, any thing, is Heaven to Lovinski.— Oh, if you are men, spare my dear Father, spare a Polish youth,—</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Bright beauty of the world, only pronounce your wishes, and command us.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Generous conquerors!—Vouchsafe then to give this young man freedom, to set my father and myself upon our road to Warsaw, and—</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>For your Father, and the youth you speak of, they have free leave to choose their path;—</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Oh, Sir!</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>But you, victorious captive, you must go with me.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Heavens and Earth!</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>Thee! follow thee, Tartar!</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Old man, I am providing for her happiness.—Fine women never complain of us Tartars; when once she knows us, she'll never wish to leave us—I have no time to lose—Come, be quick, bear her away.</p>
+            </sp>
+            <stage>
+               <pb n="54" facs="53"/>
+Enter COUNT FLORESKI, breaking from the Polish Officers.</stage>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Off, slaves, or I will dash you piecemeal.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Floreski!</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Oh! valiant Tartar, do we meet again?</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>My friend!—Why do I find you here, spite of the caution I last night gave you?— Your life might have paid the forfeit of your rash<lb rend="hidden" type="hyphenInWord"/>ness.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>That villain Lovinski seiz'd, and de<lb rend="hidden" type="hyphenInWord"/>tain'd us;—But could I, could I, have lest my Lodoiska?</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>What, she you were wildly wander<lb rend="hidden" type="hyphenInWord"/>ing after?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Here,—this, this is my love, my dearest Lodoiska.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <stage>(Drawing his Scymetar.)</stage>
+               <p>Hold— What's to be done?—Your love? your Lodoiska? She's mine, mine by a conqueror's right.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>A conqueror's right!</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>By a conqueror's right;—and I exert it thus.—Take her, she's your's.—You gave me life once, I have sav'd yours a second time.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Complete thy work; obtain for me the consent of her Father,—</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Father!—Haven't I resign'd my right to you.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <stage>(To Lupauski)</stage>
+               <p>O, Sir, make not sidelity
+<pb n="55" facs="54"/>to his Prince a crime in him; think what he has suffer'd for me; think what we owe him here; re<lb rend="hidden" type="hyphenInWord"/>member the promise you once gave him;—</p>
+            </sp>
+            <stage>Alarum.</stage>
+            <stage>Enter KAJAH, TAMURI, CAMAZIN, and Tartars.</stage>
+            <sp>
+               <speaker>Kajah.</speaker>
+               <p>To arms, to arms.—Lovinski's rescued, the castle's blazing, they've seiz'd the ramparts, he's at their head.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Well, we must conquer him again then, that's all.—Follow me.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Now for revenge and Lodoiska!—Give me a sword, a sword.—</p>
+            </sp>
+            <stage>Enter VARBEL.</stage>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>Holla! and me another—My dun<lb rend="hidden" type="hyphenInWord"/>geon's as hot as a furnace. Give me a sword; I'd as lies be kill'd in a battle, as stay there to be roasted alive.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>During the combat, we'll place this lovely creature in safety with her father in yonder tower.</p>
+            </sp>
+            <sp>
+               <speaker>Varbel.</speaker>
+               <p>I wish you'd place me along with 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>I scorn to owe thee any thing.</p>
+            </sp>
+            <sp>
+               <speaker>Kera Khan.</speaker>
+               <p>Obstinate man!—We'll save you then against your will.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Will you expose her life?</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>My child! My child!</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>Come, come, my father.—</p>
+            </sp>
+            <stage>
+               <pb n="56" facs="55"/>
+Shouts, Drams, Trumpets, and Cannon.</stage>
+            <p>AN ENGAGEMENT COMMENCES BETWEEN THE POLANDERS and the TARTARS;</p>
+            <p>The Tartars having stormed the Castle, which they fire in various places, the battlements and towers fall in the midst of loud explosions.</p>
+            <p>LUPAUSKI and LODOISKA</p>
+            <p>Are discover'd in a blazing tower;</p>
+            <p>
+               <hi>FLORESKI</hi> rushes through the flames, and rescues them.</p>
+            <p>During this action</p>
+            <p>LOVINSKI and KERA KHAN</p>
+            <p>meet hand to hand, and, after a desperate conflict, the Baron is killed.</p>
+            <stage>The Tartars are victorious—Loud shouts of victory.</stage>
+            <sp>
+               <pb n="57" facs="56"/>
+               <speaker>Kera Khan.</speaker>
+               <p>Since these are safe, and my injuries fully aveng'd by Lovinski's fall, I pardon his de<lb rend="hidden" type="hyphenInWord"/>luded followers.—Set your captives at liberty;— This shall be to all a day of triumph and joy.</p>
+            </sp>
+            <sp>
+               <speaker>Lodo.</speaker>
+               <p>And now, my father,—</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>Your request upbraids me, my daughter. —Come hither, Count.—The only proof I now ask of your obedience is to love him truly— Take her, Floreski; you have indeed deserv'd her.</p>
+            </sp>
+            <stage>Enter CAPTIVES, POLANDERS, &amp;c.</stage>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>FINALE.</head>
+                     <stage>LODOISKA, COUNT, and All the Characters.</stage>
+                     <sp>
+                        <speaker>LODOISKA.</speaker>
+                        <l>O, happy hour! what bliss I feel!</l>
+                        <l>A parent does my choice approve,</l>
+                        <l>And deigns to put the sacred seal</l>
+                        <l>Of duty to an act of love.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORUS.</speaker>
+                        <l>Huzza! rejoice!—let cheerful strains resound,</l>
+                        <l>And echo swell the pealing carol round,</l>
+                        <l>Till the wide world a mighty chorus raise</l>
+                        <l>To valour's triumph, and to beauty's praise.</l>
+                     </sp>
+                     <sp>
+                        <pb n="58" facs="57"/>
+                        <speaker>COUNT.</speaker>
+                        <l>My joys in thee, my life, were poor,</l>
+                        <l>My gratitude to you but weak,</l>
+                        <l>If language had an equal pow'r</l>
+                        <l>The transports of my soul to speak.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORUS.</speaker>
+                        <l>Huzza! rejoice!—let cheerful strains resound,</l>
+                        <l>And echo swell the pealing carol round,</l>
+                        <l>Till the wide world a mighty chorus raise</l>
+                        <l>To valour's triumph, and to beauty's praise.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

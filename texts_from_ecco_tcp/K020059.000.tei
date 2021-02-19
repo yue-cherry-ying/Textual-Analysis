@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth and falshood: a tale:</title>
+            <author>Francklin, Thomas, 1721-1784.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K020059.000</idno>
+            <idno type="docno">CW3311074753</idno>
+            <idno type="ecll">0146501600</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth and falshood: a tale:</title>
+                  <author>Francklin, Thomas, 1721-1784.</author>
+               </titleStmt>
+               <extent>[2],6p ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for M. Cooper,</publisher>
+                  <date>1755.</date>
+                  <idno type="TCP">K020059.000</idno>
+                  <idno type="docno">CW3311074753</idno>
+                  <idno type="ecll">0146501600</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>MS. note on titlepage of the L copy identifies author as Mr. Franklyn Gr. Pr, which possibly may be Rev. Thomas Francklin.</note>
+                  <note>A defence in verse of Gertrude, second wife of John 4th Duke of Bedford.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT409.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>TRUTH and FALSHOOD: A TALE.</p>
+            <q>
+               <l>Be thou as chaste as Ice, as pure as Snow,</l>
+               <l>Thou shalt not escape Calumny.</l>
+               <bibl>HAMLET.</bibl>
+            </q>
+            <p>LONDON: Printed for M. COOPER, in <hi>Pater-Noster-Row.</hi>
+            </p>
+            <p>M.DCC.LV.</p>
+            <p>[Price SIXPENCE.]</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>TRUTH and FALSHOOD: A TALE.</head>
+         <lg>
+            <l>IT chanc'd, one crouded levee day,</l>
+            <l>That TRUTH, who seldom loves to stray,</l>
+            <l>Wander'd, so authors grave report,</l>
+            <l>Along the park, and strol'd to court.</l>
+            <l>That very day mal a propos,</l>
+            <l>But things sometimes will happen so,</l>
+            <l>Her rival FALSHOOD thither came,</l>
+            <l>Who little thought to meet the dame;</l>
+            <l>Together there they press'd along,</l>
+            <l>And mingled in the motley throng,</l>
+            <l>There, as they never cou'd agree,</l>
+            <l>They jostled for precedency;</l>
+            <l>Quarrel'd like other female foes,</l>
+            <l>While bitt'rest taunts alternate rose.</l>
+            <l>"Madam, quoth FALSHOOD, why so rude▪</l>
+            <l>"I wonder you will here intrude;</l>
+            <l>"It wou'd be look'd on full as well,</l>
+            <l>"If you wou'd keep within your cell;</l>
+            <l>
+               <pb n="2" facs="3"/>
+For surely a more aukward mien</l>
+            <l>"Or simpler look was never seen;</l>
+            <l>"Henceforth retire, unhappy maid,</l>
+            <l>"Thy influence lost, thy pow'r decay'd,</l>
+            <l>"Thy triumphs o'er, thy pride suppress'd,</l>
+            <l>"Ev'n thy religion grown a jest;</l>
+            <l>"Dispute not for precedency,</l>
+            <l>"But yield to fashion and to me.</l>
+         </lg>
+         <lg>
+            <l>THUS as she spoke they chanc'd to spy</l>
+            <l>The graceful B—D passing by:</l>
+            <l>TRUTH view'd her fav'rite with delight;</l>
+            <l>She saw and kindled at the sight:</l>
+            <l>"Now slave (she cry'd) thy taunts forbear</l>
+            <l>"Behold my pow'r, my influence there;</l>
+            <l>"Hear ev'ry tongue in her commend</l>
+            <l>"The sister, daughter, mistress, friend,</l>
+            <l>"The mother kind, the tender wife,</l>
+            <l>"All that can soften human life;</l>
+            <l>"Above thy poor delusive wiles,</l>
+            <l>"She scorns thy arts, and hates thy smiles.</l>
+            <l>"Prepare to conquer or to yield;</l>
+            <l>"For now I dare thee to the field.</l>
+            <l>"Try all thy shifts, thy subtle lies,</l>
+            <l>"All that thy malice can devise;</l>
+            <l>"If thou canst taint her spotless fame,</l>
+            <l>"Or cast a shade o'er B—D's name;</l>
+            <l>"Henceforth remember I agree</l>
+            <l>"To be thy slave and follow thee.</l>
+         </lg>
+         <lg>
+            <pb n="3" facs="4"/>
+            <l>THUS spake fair TRUTH, with conscious pride;</l>
+            <l>Indignant FALSHOOD thus reply'd;</l>
+         </lg>
+         <lg>
+            <l>"THE danger's great, the task is hard,</l>
+            <l>"But conquest is my sure reward.</l>
+            <l>"If I can get my tale believ'd,</l>
+            <l>"And thou confess the world deceiv'd,</l>
+            <l>"Henceforth, remember, thou agree</l>
+            <l>"To be my slave and follow me.</l>
+         </lg>
+         <lg>
+            <l>THIS said, away the goddess flew,</l>
+            <l>And summon'd all th' infernal crew;</l>
+            <l>ENVY, with looks of deadliest hate,</l>
+            <l>And RANCOUR eager for debate,</l>
+            <l>ILL-NATURE curst, SUSPICION sly,</l>
+            <l>And gaping fond CREDULITY,</l>
+            <l>And CALUMNY with iron lungs,</l>
+            <l>And SLANDER with a thousand tongues.</l>
+            <l>"Now, my illustrious friends, (she cry'd,)</l>
+            <l>"Your zeal and loyalty be try'd;</l>
+            <l>"Now let your ardent love be seen,</l>
+            <l>"To serve your mistress and your queen;</l>
+            <l>"Forge me a bold and impious tale,</l>
+            <l>"O'er truth and virtue to prevail;</l>
+            <l>"To please the mischief-loving mind,</l>
+            <l>"And sooth the malice of mankind;</l>
+            <l>"To shew your all-subduing art,</l>
+            <l>"And leave a sting in B—D's heart.</l>
+         </lg>
+         <lg>
+            <pb n="4" facs="5"/>
+            <l>SHE spake; and lo! at her command</l>
+            <l>The VICES all, a faithful band;</l>
+            <l>Each to his impious task assign'd,</l>
+            <l>In dreadful amity combin'd.</l>
+            <l>B—D <hi>is false,</hi> SUSPICION cry'd;</l>
+            <l>B—D <hi>is false,</hi> the crowd reply'd;</l>
+            <l>Quick ran the tale in whispers round,</l>
+            <l>And babbling eccho caught the sound;</l>
+            <l>The world was glad to be deceived,</l>
+            <l>And many doubted, more believ'd;</l>
+            <l>Pronounc'd the crime already known,</l>
+            <l>In hopes 'twou'd mitigate their own.</l>
+            <l>The sage PRUDERIA shook her head;</l>
+            <l>"'Twas strange! 'twas passing strange indeed!</l>
+            <l>"But we are women, women all,</l>
+            <l>"And like our grandam EVE must fall.</l>
+         </lg>
+         <lg>
+            <l>FLIRTILLA vow'd "'twas something odd</l>
+            <l>"A truth so bold should steal abroad;</l>
+            <l>"She never lov'd those virtuous wives,</l>
+            <l>"Who lead such tame domestic lives;</l>
+            <l>"And always fear'd some darling sin,</l>
+            <l>"Some guilty passion lurk'd within.</l>
+         </lg>
+         <lg>
+            <l>Thus CALUMNY each tongue inspir'd;</l>
+            <l>THUS SLANDER ev'ry bosom fir'd;</l>
+            <l>Ingenious MALICE play'd her part,</l>
+            <l>The poison ran through ev'ry heart,</l>
+            <l>
+               <pb n="5" facs="6"/>
+And sold to infamy and shame</l>
+            <l>The noblest and the fairest name.</l>
+         </lg>
+         <lg>
+            <l>FALSHOOD triumphant left the town,</l>
+            <l>And pleased to W—b—n hasted down.</l>
+            <l>She met the vanquish'd goddess there</l>
+            <l>Retir'd to sooth the injur<gap resp="#oxf" extent="1 letter" rend="content:•">
+                  <desc>illegible</desc>
+               </gap>d fair,</l>
+            <l>And with a smile insulting said;</l>
+            <l>"Now wilt thou yield, presumptuous maid?</l>
+            <l>"Thy conq'ror now, thy mistress see,</l>
+            <l>"Arise, my slave, and follow me.</l>
+         </lg>
+         <lg>
+            <l>"I come, (fair TRUTH with scorn reply'd)</l>
+            <l>"To damp thy hopes, and check thy pride,</l>
+            <l>"Go to that vile detested seat,</l>
+            <l>"Where malice, pride, and folly meet;</l>
+            <l>"But let no more thy rashness dare</l>
+            <l>"To blast the good, or wound the fair;</l>
+            <l>"For know, I mean to meet thee there.</l>
+            <l>"What will thy little arts avail,</l>
+            <l>"When TRUTH shall come to thwart thy tale?</l>
+            <l>"Soon will thy triumphs then be o'er,</l>
+            <l>"Thy vain delusions please no more;</l>
+            <l>"Brighten'd by thee her spotless mind,</l>
+            <l>"As the pure gold by fire refin'd,</l>
+            <l>"Shall with superior lustre shine,</l>
+            <l>"And all her virtues more divine;</l>
+            <l>
+               <pb n="6" facs="7"/>
+"B—D shall press her to his arms,</l>
+            <l>"And smile at her exalted charms;</l>
+            <l>"Thy pious purpose shall commend,</l>
+            <l>"And thank thee as his warmest friend.</l>
+         </lg>
+         <lg>
+            <l>"BUT to be just, I own thy pow'r,</l>
+            <l>"And from this great important hour</l>
+            <l>"My duty I shall better know,</l>
+            <l>"And learn instruction from a foe.</l>
+            <l>"Henceforth I'll borrow arms of thee,</l>
+            <l>"Thy zeal and active industry;</l>
+            <l>"Cautious thy steps I will attend,</l>
+            <l>"My injur'd vot'ries to defend;</l>
+            <l>"To bring a balm for virtue's aid,</l>
+            <l>"And heal the wounds which thou hast made;</l>
+            <l>"To brush thy cobweb arts away,</l>
+            <l>"Dispel the cloud, and gild the day;</l>
+            <l>"I'll serve, to set my fav'rites free,</l>
+            <l>"And <hi>follow</hi> but to <hi>conquer</hi> thee.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

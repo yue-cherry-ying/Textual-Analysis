@@ -1,0 +1,643 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Youth. A poem: By Hall Hartson, Esq.</title>
+            <author>Hartson, Hall, d. 1773.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K022096.000</idno>
+            <idno type="docno">CW3312997197</idno>
+            <idno type="ecll">0146300100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Youth. A poem: By Hall Hartson, Esq.</title>
+                  <author>Hartson, Hall, d. 1773.</author>
+               </titleStmt>
+               <extent>[4],24p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for W. Griffin,</publisher>
+                  <date>1773.</date>
+                  <idno type="TCP">K022096.000</idno>
+                  <idno type="docno">CW3312997197</idno>
+                  <idno type="ecll">0146300100</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT3969.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>YOUTH.</p>
+            <p>[Price <hi>2s.]</hi>
+            </p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>
+               <hi>YOUTH.</hi>
+            </p>
+            <p>
+               <hi>A POEM.</hi>
+            </p>
+            <p>
+               <hi>BY HALL HARTSON, ESQ.</hi>
+            </p>
+            <p>
+               <figure rend="block">
+                  <l>From violet beds▪ and wreathed bowers</l>
+                  <l>Advance the Graces and the smiling Hours,</l>
+                  <l>With yonder So<gap resp="#apex" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap> of Hope to sport and play,</l>
+                  <l>And crown the revels of his flowery May.</l>
+               </figure>
+            </p>
+            <p>
+               <hi>LONDON: Printed for W. GRIFFIN, in Catharine-Street, Strand.</hi>
+            </p>
+            <p>
+               <hi>MDCCLXXIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <pb facs="3"/>
+         <head>YOUTH.</head>
+         <lg>
+            <l>SWEET youth, sweet smiling nymph, divinely fair,</l>
+            <l>Source of all joy, and foe to every care;</l>
+            <l>With whom full many a summer's sunny morn,</l>
+            <l>While yet the dew drop glittered on the thorn,</l>
+            <l>I've sought the cliff, or in the flowery vale</l>
+            <l>Imbibed the fragrance of the evening gale;</l>
+            <l>Fair fugitive, whose eye of heavenly blue,</l>
+            <l>And rosy cheek no longer bless my view,</l>
+            <l>Whose loved idea, which can never fly,</l>
+            <l>Wakes the fond wish, and heaves the fruitless sigh,</l>
+            <l>Thy sweet remembrance now the song inspire,</l>
+            <l>And touch the lover with a poet's fire.</l>
+         </lg>
+         <lg>
+            <pb n="2" facs="4"/>
+            <l>What brighter genius, what distinguished name</l>
+            <l>Shall lend its lustre to the pleasing theme?</l>
+            <l>Lives there a man that with superiour art</l>
+            <l>Sounds all the deep recesses of the heart;</l>
+            <l>Calls up the genial hopes, the chilling fears;</l>
+            <l>Now shakes with laughter, now dissolves to tears;</l>
+            <l>Who, Proteus like, at pleasure shifts the scene,</l>
+            <l>Or old, or young, impassioned, or serene?</l>
+            <l>Still faithful to his aim, if such there be,</l>
+            <l>Blest child of Nature, Garrick, thou art he.</l>
+            <l>Come then, a while forego the thronged applause,</l>
+            <l>Which never-erring judgment justly draws,</l>
+            <l>And with the light, the gay descriptive muse,</l>
+            <l>While pleased her airy travel she pursues,</l>
+            <l>Recall the happy scene which once was ours,</l>
+            <l>The smiles, the graces, and the jocund hours,</l>
+            <l>With whom we frolicked in our early day,</l>
+            <l>When pleasure filled her cup without allay.</l>
+         </lg>
+         <lg>
+            <l>From every quarter of earth's peopled sphere,</l>
+            <l>See, at the Muse's call, what crowds appear,</l>
+            <l>
+               <pb n="3" facs="5"/>
+Eager alike to run life's little span,</l>
+            <l>The gay, the reckless progeny of man.</l>
+            <l>Ah, happy race! far happier than they know,</l>
+            <l>Light as the summer breeze, first bid to blow,</l>
+            <l>Unceasing as the busy tribes on wing,</l>
+            <l>That roam the blossoms, and despoil the spring,</l>
+            <l>Along the verge of that fair seeming hill,</l>
+            <l>Where life ascends, and Hebe sports at will,</l>
+            <l>They move, nor mark upon the neighbouring heights</l>
+            <l>What envious eyes o'erlook their young delights,</l>
+            <l>Suspicion, Rumour with uncertain stare,</l>
+            <l>And farther up the fiend sharp visaged Care;</l>
+            <l>Blest ignorance! to partial views confined;</l>
+            <l>Where sight wou'd injure, who wou'd not be blind?</l>
+            <l>Young is the sense, enjoyment in it's spring,</l>
+            <l>Hope yet unbroken, fancy on the wing;</l>
+            <l>The jest, the easy laugh, the wanton wile,</l>
+            <l>And antick trick which mocks with harmless guile,</l>
+            <l>These are the sweets their youthful morn bestows,</l>
+            <l>The bloomy flush of health, and sound repose:</l>
+            <l>
+               <pb n="4" facs="6"/>
+Thrice happy, whom no greater cares employ</l>
+            <l>Than for to morrow's sure returning joy.</l>
+         </lg>
+         <lg>
+            <l>Yet have they ills, for man to ills is heir,</l>
+            <l>And youth, as well as age, has got it's share;</l>
+            <l>The interdicted wish, the harsh command,</l>
+            <l>The terrours of Correction's rigid hand;</l>
+            <l>Mishaps, the chance of light unthinking years,</l>
+            <l>Pale surfeit, that oft wakes a mother's fears:</l>
+            <l>Discord beside inflames with little rage,</l>
+            <l>For Discord has her part on every stage;</l>
+            <l>But here she walks not in her tragick form,</l>
+            <l>As easy raised, as easy laid the storm.</l>
+            <l>Oh how unlike the wasteful ire that rends</l>
+            <l>The labouring breast when riper age contends!</l>
+            <l>Turn ye ambitious, at whose unblest call,</l>
+            <l>War wakes his terrours, and whole nations fall;</l>
+            <l>Ye whom the curse of civil rage impels,</l>
+            <l>When parricide, not war, the tumult swells,</l>
+            <l>As o'er Britannia's much afflicted land</l>
+            <l>The fiend hath often waved her horrid brand,</l>
+         </lg>
+         <lg>
+            <pb n="5" facs="7"/>
+            <l>Turn, turn, nor in this youthful school despise</l>
+            <l>To catch the virtues of the simply wise.</l>
+            <l>Here no ambition mocks it's fruitless toils,</l>
+            <l>No hero weeps repentant o'er his spoils,</l>
+            <l>Nor frowning shade of warriour lost in fight</l>
+            <l>Breaks the soft slumbers of the peaceful night:</l>
+            <l>Light as the clouds that drop the vernal showers</l>
+            <l>To ope the buds, and cheer the rising flowers,</l>
+            <l>Their quarrels pass, and smiling peace returns,</l>
+            <l>And a new friendship in each bosom burns.</l>
+         </lg>
+         <lg>
+            <l>Too much of discord; glad the wandering muse</l>
+            <l>The peaceful and more pleasing toil renews,</l>
+            <l>To mark yon tribe, where o'er the mossy ground</l>
+            <l>They fly, pursue, and leap, or run, or bound,</l>
+            <l>As buoyant spirits prompt them, all intent;</l>
+            <l>As swallows, whom chill winter long hath pent,</l>
+            <l>Now issuing forth upon the warmer beam,</l>
+            <l>Wave the smooth pool, or skim the murmuring stream;</l>
+            <l>Now here, now there their airy sports they ply,</l>
+            <l>And many a playful circle cleaves the sky.</l>
+         </lg>
+         <lg>
+            <pb n="6" facs="8"/>
+            <l>Still as the eye wide wanders o'er the green,</l>
+            <l>New aims, new objects, crowd the changeful scene.</l>
+            <l>Here rise the mimick works of war like hands,</l>
+            <l>There in mock fight engage the marshaled bands;</l>
+            <l>Here too the painted galley meets the view,</l>
+            <l>Along the shores exult the admiring crew,</l>
+            <l>While o'er the lake it spreads it's silken sails,</l>
+            <l>And all it's streamers feel the rising gales.</l>
+            <l>Nor frown ye wise, if wisdom deign to hear,</l>
+            <l>Because such artless trifles meet the ear;</l>
+            <l>The rose so loved must bud before it bloom,</l>
+            <l>And yonder oak, that spreads so wide a gloom,</l>
+            <l>Beneath whose arms the flocks and herds repose,</l>
+            <l>His full-grown honours to an acorn owes.</l>
+            <l>In this fair field are sown the seeds of fame,</l>
+            <l>In each young bosom lives it's native flame,</l>
+            <l>Which through these trifles breaks with early ray,</l>
+            <l>These but the dawnings of their brighter day.</l>
+            <l>In peaceful councils this shall gain renown,</l>
+            <l>For that Bellona wreaths the war like crown;</l>
+            <l>
+               <pb n="7" facs="9"/>
+He too, who gave his galley to the breeze,</l>
+            <l>One day may hold the empire of the seas;</l>
+            <l>And now, even now elate with fancied power,</l>
+            <l>Enjoys the glories of the future hour.</l>
+         </lg>
+         <lg>
+            <l>Thus roll the months and years, a golden round,</l>
+            <l>With peace their nights, their days with pleasure crowned;</l>
+            <l>Nature mean time, industrious to fulfil</l>
+            <l>The dictates of her mighty Master's will,</l>
+            <l>The well-beloved task incessant plies,</l>
+            <l>And sees the work in fair proportion rise;</l>
+            <l>Acts with new vigour on the conscious soul,</l>
+            <l>Each part enlarges, and informs the whole.</l>
+            <l>As when the stream first issues from it's source,</l>
+            <l>A gentle brook it murmurs without force,</l>
+            <l>Plays through the pebbles, and with silver maze▪</l>
+            <l>By many a flower and bending willow strays,</l>
+            <l>Till with fresh tributary stores supplied</l>
+            <l>It pours into the main a copious tide;</l>
+            <l>Thus swells the stream of life; while evermore▪</l>
+            <l>Impatient youth regards the wider shore,</l>
+            <l>
+               <pb n="8" facs="10"/>
+Where man's adventurous bark with sails unfurled</l>
+            <l>First tries the deep, and launches on the world.</l>
+         </lg>
+         <lg>
+            <l>Passed is the dawn, the boyish hours are fled,</l>
+            <l>And lo the stripling rears his radiant head,</l>
+            <l>With front erect and brightly beaming eye,</l>
+            <l>Fresh as the star which gilds the evening sky.</l>
+            <l>As the young plant, the favourite of some fair,</l>
+            <l>Her early solace, and her later care,</l>
+            <l>Uprising soft, with living verdure crowned,</l>
+            <l>Puts forth it's blooms, and spreads it's fragrance round;</l>
+            <l>Flushed with the gift of health, sweet rosy hue,</l>
+            <l>Thus breaks the riper stripling on the view;</l>
+            <l>In all the pride of youth he stands displayed,</l>
+            <l>Nor dreams that beauty blossoms but to fade.</l>
+            <l>Blest season! brightest in life's varied year,</l>
+            <l>Too soon, alas! thy verdures disappear;</l>
+            <l>Too soon thy roses wither in the wind,</l>
+            <l>And leave the sharp unsightly thorn behind.</l>
+            <l>Mean time from violet beds and wreathed bowers</l>
+            <l>Advance the graces and the smiling hours,</l>
+            <l>
+               <pb n="9" facs="11"/>
+With yonder son of hope to sport and play,</l>
+            <l>And crown the revels of his flowery May.</l>
+            <l>No more of artless words, which on the tongue</l>
+            <l>With untaught lisp e'er while imperfect hung;</l>
+            <l>Proud of his opening reason, nor less vain</l>
+            <l>Of stature that o'er-tops the younger train,</l>
+            <l>He glances on them with averted eye,</l>
+            <l>Admires himself, and walks superiour by.</l>
+         </lg>
+         <lg>
+            <l>Now glows the bosom with more potent fires,</l>
+            <l>Teems with new projects, throbs with new desires;</l>
+            <l>Robuster sports the stripling youth employ,</l>
+            <l>And all his soul is up for manly joy.</l>
+            <l>Now to the well-replenished fields he hies,</l>
+            <l>Sometimes the plain, sometimes the wood-land tries,</l>
+            <l>Where haunts the partridge, or the timorous hare,</l>
+            <l>And where the lapwing beats the sounding air;</l>
+            <l>O'er hill, o'er dale, by lake, or river toils,</l>
+            <l>And late returns, exulting in his spoils:</l>
+            <l>The cheerful glass, the lengthened tale succeeds,</l>
+            <l>And all the game again in fancy bleeds.</l>
+            <l>
+               <pb n="10" facs="12"/>
+Sweet are the slumbers that from toils arise,</l>
+            <l>More sweet the bliss which innocence supplies;</l>
+            <l>Light from his couch and well refreshed he springs</l>
+            <l>What time the lark the lively summons sings;</l>
+            <l>New joys invite him forth, the dewy morn,</l>
+            <l>The hound wide opening to the high-toned horn,</l>
+            <l>The stag unharboured, and the madding throng</l>
+            <l>With furious emulation borne along;</l>
+            <l>O'er the swift steed Actaeon like he bends,</l>
+            <l>And with the masters of the chase contends.</l>
+         </lg>
+         <lg>
+            <l>Thus speeds the morn; now sits the sun on high,</l>
+            <l>And a fierce lustre breaks thro' all the sky;</l>
+            <l>Parched are the flowers and blossoms, all around</l>
+            <l>The panting flocks lie scattered o'er the ground,</l>
+            <l>And from the reach of Phoebus' sultry fires</l>
+            <l>Imbowered the visionary muse retires.</l>
+            <l>Not thus the glowing youth; he on the shore,</l>
+            <l>Where breezy waters spread their grateful store,</l>
+            <l>Forthwith disrobes, and in the midway flood</l>
+            <l>Allays the tumult of his boiling blood.</l>
+            <l>
+               <pb n="11" facs="13"/>
+Too daring thou, thus fond the deep to brave,</l>
+            <l>Be taught the dangers of the insidious wave;</l>
+            <l>It chills, relaxes, deadly cramps assail;</l>
+            <l>Ah what shall then thy boasted art avail,</l>
+            <l>When with exhausted limbs thou strivest in vain</l>
+            <l>To reach the shores thou never shalt regain?</l>
+            <l>Such was Ambrosio's, such Endymion's doom,</l>
+            <l>Oh early lost in youth's ethereal bloom!</l>
+            <l>Twin brothers they, the only lov'd remains</l>
+            <l>Of many sons that payed a mother's pains.</l>
+            <l>I'll-fated dame! to early sorrows bred,</l>
+            <l>The wretched mourner of a widowed bed,</l>
+            <l>Whose lord the chance of battle snatched away</l>
+            <l>E'er yet the double off-spring saw the day:</l>
+            <l>But now the blooming pair her hopes renew,</l>
+            <l>In these she seems again her lord to view;</l>
+            <l>Their filial piety, their rising years</l>
+            <l>Sooth all her losses, and assuage her tears.</l>
+            <l>'Twas on a day, the feverish heat to cool,</l>
+            <l>They sought the windings of the well known pool,</l>
+            <l>
+               <pb n="12" facs="14"/>
+Along whose margin flowers were thickly spread,</l>
+            <l>And many a poplar reared it's graceful head.</l>
+            <l>Like two fair swans elate in youthful pride</l>
+            <l>They breast the waves, and roll the deep aside;</l>
+            <l>They sport, they toss, now vanish, now appear,</l>
+            <l>Fate overlooks them with malignant leer.</l>
+            <l>Ambrosio now the safer shore had gained,</l>
+            <l>Endymion still within the flood remained;</l>
+            <l>Full oft the former chid his long delay,</l>
+            <l>In vain, Death challenges the destined prey:</l>
+            <l>Chill torture now had seized on all his frame,</l>
+            <l>Ambrosio saw, he heard the fearful scream;</l>
+            <l>What doubts, what thrilling woes the youth surprize!</l>
+            <l>What boding horrours in his bosom rise!</l>
+            <l>Swift to relieve into the deep he drove;</l>
+            <l>Oh sad requital of fraternal love!</l>
+            <l>Exhausted, faint, Endymion round him clings,</l>
+            <l>And marrs the generous aid his friendship brings.</l>
+            <l>Vain are all efforts, in the embrace he holds,</l>
+            <l>Fate ratifies the indissoluble folds;</l>
+            <l>
+               <pb n="13" facs="15"/>
+Nor can or youth find grace, or beauty save</l>
+            <l>The tender victims from a watry grave;</l>
+            <l>At once they sink, and once again they rise,</l>
+            <l>The deep at length ingulfs the precious prize.</l>
+            <l>Hail hapless pair! ye names for ever dear,</l>
+            <l>Whose sad remembrance draws the painful tear,</l>
+            <l>Loved youths, companions of my brighter days,</l>
+            <l>These mournful rites the song of friendship pays;</l>
+            <l>So may the song survive when I decay,</l>
+            <l>Nor die like you, the blossom of a day.</l>
+         </lg>
+         <lg>
+            <l>But see, the sun declines, a fresher breeze</l>
+            <l>Breathes on the flowers, and rustles thro' the trees:</l>
+            <l>Far in the vale, where calm retirement dwells</l>
+            <l>Mid solitary rocks, and moss-grown cells,</l>
+            <l>O'erhung with shade, that breaks the evening beam,</l>
+            <l>Now plies the youthful angler on the stream;</l>
+            <l>Marks the crisped waters with attentive eye,</l>
+            <l>And cautious flings the well dissembled fly.</l>
+            <l>Meantime his toils are soothed with various sounds,</l>
+            <l>The mingled musick of the rural grounds,</l>
+            <l>
+               <pb n="14" facs="16"/>
+The thrush's mellow note, the lark's more shrill,</l>
+            <l>The woodman's echo from the neighbouring hill,</l>
+            <l>While oft the cuckow from the steepy wood</l>
+            <l>Cheers the soft murmurs of the nether flood.</l>
+            <l>Thrice happy youth, to whom is given such joy!</l>
+            <l>Thrice happy, whom such guiltless sports employ!</l>
+            <l>Such were the dear delights that once were mine,</l>
+            <l>And such the scenes, loved Erne, which still are thine.</l>
+            <l>Fairest of floods! with whom my youthful day</l>
+            <l>Smooth like thyself stole unperceived away;</l>
+            <l>Blest days! when near thy ample wave I ranged,</l>
+            <l>To all the busy cares of life estranged;</l>
+            <l>When up the breezy hill each morn I flew,</l>
+            <l>And airy youth gave rapture to the view,</l>
+            <l>The sunny mead, the love-inviting bower,</l>
+            <l>The rush-clad hamlet, and the ruined tower,</l>
+            <l>Thy numerous isles, with waving verdure crowned,</l>
+            <l>And azure hills, the landscape's distant bound.</l>
+         </lg>
+         <lg>
+            <l>But turn we now where other prospects rise,</l>
+            <l>Proud structured domes, that shade the lessening skies,</l>
+            <l>
+               <pb n="15" facs="17"/>
+The city's splendour and the motley throng,</l>
+            <l>By business, or by pleasure urged along;</l>
+            <l>The scene we vary, not the purposed aim,</l>
+            <l>For nature in all places is the same:</l>
+            <l>The rustick, and the citizen we see</l>
+            <l>In manners differ, but in soul agree;</l>
+            <l>They love, they hate, to wrath alike give way,</l>
+            <l>And hopes, and fears by turns their bosoms sway;</l>
+            <l>Alike the passions live in every mind,</l>
+            <l>And spread their empire over human kind.</l>
+            <l>But here within the city's ample round,</l>
+            <l>Where opulence, and men, and arts abound,</l>
+            <l>All shoots more forward, nature earlier blooms,</l>
+            <l>And sooner youth the port of man assumes;</l>
+            <l>Superiour in each polished art appears,</l>
+            <l>And thinks, and talks, and acts beyond his years.</l>
+            <l>Here then amid this fruitful scene of things,</l>
+            <l>The pride of riches, and the pomp of kings,</l>
+            <l>Let's mark his motions as the soul expands,</l>
+            <l>And on the verge of manhood nature stands.</l>
+         </lg>
+         <lg>
+            <pb n="16" facs="18"/>
+            <l>Till now unnoted, or but dimly seen</l>
+            <l>While the first spring revealed it's fainter green,</l>
+            <l>Come forth the passions, nor come forth in vain,</l>
+            <l>An ever wakeful, and imperious train,</l>
+            <l>Swift agents, full of Heaven's ethereal fires,</l>
+            <l>Whose magick touch to instant act inspires;</l>
+            <l>A giant host they approach with fearless van,</l>
+            <l>Mount up, and take the little fort of man;</l>
+            <l>Pride, envy, hatred, wrath with fiery glare,</l>
+            <l>And fell revenge, that knows not how to spare;</l>
+            <l>A numerous throng which follow without names,</l>
+            <l>Toss their fierce brands, and spread the works in flames.</l>
+            <l>Thus when the darts of sultry Sirius fly,</l>
+            <l>And sudden horrours oft involve the sky,</l>
+            <l>From the dark riven cloud the thunder rolls,</l>
+            <l>And frequent flashes wrap the blazing poles;</l>
+            <l>At once the loosened winds impetuous sweep,</l>
+            <l>Roar through the forest, and upheave the deep,</l>
+            <l>Weak to resist the reeling bark gives way,</l>
+            <l>Rolls with the billows, and admits their sway;</l>
+            <l>
+               <pb n="17" facs="19"/>
+Such the mixed tumult now that inly swells,</l>
+            <l>And such the force of passions which impels.</l>
+         </lg>
+         <lg>
+            <l>But this outrageous phalanx to control,</l>
+            <l>Their heat to temper, and to sooth the soul,</l>
+            <l>In sweeter notes Love sounds his soft alarms,</l>
+            <l>And Beauty stands revealed in all her charms;</l>
+            <l>Awed by her look their terrours they resign,</l>
+            <l>Compose their rage, and own the form divine.</l>
+            <l>What hopes, what fears, what mixed emotions rise!</l>
+            <l>What pleasing anguish now the bosom tries!</l>
+            <l>Blest raptures! never to be twice enjoyed,</l>
+            <l>When all is novel, and the sense uncloyed,</l>
+            <l>E'er blooming youth, unconscious of alloy,</l>
+            <l>Has proved the fallacy of human joy.</l>
+         </lg>
+         <lg>
+            <l>With love, and earlier oft than love, desire</l>
+            <l>Wakes in the soul, a loose ungoverned fire,</l>
+            <l>That quick thro' all the vital frame obtains,</l>
+            <l>Flames in the heart, and revels in the veins;</l>
+            <l>
+               <pb n="18" facs="20"/>
+Dethrones fair wisdom, and assaults the shrine</l>
+            <l>Where dwell the virtues, and the graces shine.</l>
+            <l>Soft is the voice, persuasive are the smiles</l>
+            <l>With which the mercenary fair beguiles:</l>
+            <l>How bright the dome that wooes the passing eye!</l>
+            <l>How sweet the odours which around it fly!</l>
+            <l>Airs too, Eolian airs salute the ear,</l>
+            <l>And happiness, and heaven itself seems near—</l>
+            <l>Turn generous youth, nor let the love-tuned lay</l>
+            <l>Of Thais lure thy heedless steps astray,</l>
+            <l>Fly, fly the sorceress, fly her tainted charms,</l>
+            <l>Remorse, disease, and death are in her arms.</l>
+         </lg>
+         <lg>
+            <l>But other powers, should wily Thais fail,</l>
+            <l>More fatal oft the youthful sense assail.</l>
+            <l>Gay blooming, fresh with never fading green,</l>
+            <l>Here Bacchus opes the jocund nightly scene,</l>
+            <l>Through the glad circle breaths his social fires,</l>
+            <l>Cheers with false hopes, and fills with vain desires.</l>
+            <l>Quick flies the jest, with laughter loud repayed,</l>
+            <l>And many a chorus echoes through the shade;</l>
+            <l>
+               <pb n="19" facs="21"/>
+Till flushed, and pregnant with the purple god,</l>
+            <l>As when of old the potent mystick rod,</l>
+            <l>Waved high in air, with frenzy fired the throng,</l>
+            <l>And the loud I'o swelled the barbarous song,</l>
+            <l>At once they rouse, at once their shouts ascend,</l>
+            <l>And war and tumult o'er the town impend.</l>
+            <l>Unhappy wanderer! doomed to certain woes,</l>
+            <l>Whose steps these sons of Belial now oppose;</l>
+            <l>Thrice hapless he, the youth whose fairer fame</l>
+            <l>Such wild excesses soil with early shame!</l>
+            <l>In some lewd quarrel, haply not his own,</l>
+            <l>This fatal night his force is overthrown;</l>
+            <l>Struck with base fears his false associates fly,</l>
+            <l>And leave him in the inglorious cause to die.</l>
+            <l>Ah what avail him now the joys of wine,</l>
+            <l>His social merits, and his form divine?</l>
+            <l>Sealed are those lips, for ever mute that tongue</l>
+            <l>On which this morn such sweet persuasion hung;</l>
+            <l>The smiles, the graces, every charm is fled,</l>
+            <l>And mortal paleness settles in their stead.</l>
+            <l>
+               <pb n="20" facs="22"/>
+In vain for him the fond expectant sire</l>
+            <l>Counts the slow clock, and cheers the slumbering fire;</l>
+            <l>In vain the anxious matron mounts on high,</l>
+            <l>Looke forth, and often heaves the boding sigh,</l>
+            <l>Far from her aid a bleeding corse he lies,</l>
+            <l>And never more shall bless a parent's eyes.</l>
+         </lg>
+         <lg>
+            <l>Thus here while various ills from Bacchus flow,</l>
+            <l>Mark well the close approach of yonder foe;</l>
+            <l>Dark son of stratagem, who lives by spoils,</l>
+            <l>Works in the shade, and nightly spreads his toils.</l>
+            <l>Detested monster! whom no tears can bend,</l>
+            <l>At war with all, to all a seeming friend;</l>
+            <l>Who quotes the maxims of the truly wise,</l>
+            <l>And feigns to damn the very art he plies;</l>
+            <l>Who hugs him in the spoil his frauds have won,</l>
+            <l>And turns to laughter those he has undone.</l>
+            <l>See how to yonder Youth he winds his way,</l>
+            <l>Calls up his wiles, and meditates the prey:</l>
+            <l>Short is the strife with such unequal foes,</l>
+            <l>At every game a wealthy manor goes;</l>
+            <l>
+               <pb n="21" facs="23"/>
+Flocks, herds, and fields are lost beyond recall,</l>
+            <l>And one finesse deprives the youth of all.</l>
+            <l>What shall he do? An hopeless wretch he stands,</l>
+            <l>No longer now the lord of many lands;</l>
+            <l>Unhoused, unpitied, forced to beg for bread,</l>
+            <l>Perhaps from those his former fortunes fed,</l>
+            <l>Or in the caverns of a jail to lie,</l>
+            <l>There mourn his folly, and by famine die.</l>
+         </lg>
+         <lg>
+            <l>These are the changes nature now unfolds,</l>
+            <l>And thus her favourite son his progress holds;</l>
+            <l>Here range the virtues, there the vices stand,</l>
+            <l>He weighs their worth, but with unequal hand;</l>
+            <l>Warped in his choice the balance he suspends,</l>
+            <l>And spite of odds the vicious scale descends.</l>
+            <l>Now Vanity her playful part assumes,</l>
+            <l>And tricks him out in all her gayest plumes;</l>
+            <l>South, East, and West are sought with curious care,</l>
+            <l>And Boreas wafts the fluttering youth a share.</l>
+            <l>For him the inventive artist hourly plies,</l>
+            <l>Views every flower, and blends the varied dyes:</l>
+            <l>
+               <pb n="22" facs="24"/>
+He raves of fashions, gives the important rule</l>
+            <l>Which guides the mode of every mimick fool;</l>
+            <l>Smiles, simpers, tosses his fantastick head,</l>
+            <l>And strikes in thought each hapless fair one dead.</l>
+            <l>Turn to the insect, youth, that art so vain,</l>
+            <l>Then, if thou can'st, thy folly still maintain;</l>
+            <l>Dressed by the summer sun from earth he springs,</l>
+            <l>Opes his gay downs, and spreads his gold-drop'd wings,</l>
+            <l>Turns every beauty to the sunny ray,</l>
+            <l>And winnows with soft wing his easy way,</l>
+            <l>Till from the North a sudden blast arise,</l>
+            <l>Down drops the painted flutterer, and dies:</l>
+            <l>Even such the frail condition, such the span</l>
+            <l>Which circumscribes the little race of man,</l>
+            <l>Offspring of earth, that blooms but to decay,</l>
+            <l>The gaudy, glittering insect of a day.</l>
+         </lg>
+         <lg>
+            <l>Behold him now adrift, without a guide,</l>
+            <l>Borne down where pleasure rolls her rapid tide;</l>
+            <l>Erroneous flood, that wide it's wave expands,</l>
+            <l>And in it's progress views a thousand lands;</l>
+            <l>
+               <pb n="23" facs="25"/>
+A thousand springs their copious urns supply</l>
+            <l>Swell the rich stream, and pour temptation by.</l>
+            <l>What stir, what bustle, what a mighty throng</l>
+            <l>Press to the shores, or urge the deep along!</l>
+            <l>Nor youth alone, all ages, all degrees,</l>
+            <l>Female, and male the eye of fancy sees:</l>
+            <l>For who from Pleasure yet e'er turned the eye,</l>
+            <l>Despised the Fair, and passed her beauties by?</l>
+            <l>Deluding sorceress! stored with every art</l>
+            <l>To warp the judgment, and ensnare the heart.</l>
+            <l>By thee seduced the warriour doffs his arms,</l>
+            <l>And sells his laurels for thy softer charms;</l>
+            <l>The merchant too, caught by thy wily train,</l>
+            <l>Foregoes the rich, the golden hour of gain:</l>
+            <l>Thee the fond youth his brighter genius styles,</l>
+            <l>Hangs on thy looks, and lives but in thy smiles;</l>
+            <l>Blest youth indeed, if in her smiles sincere</l>
+            <l>His mistress were as constant as she's fair.</l>
+            <l>Ah much misjudging, to the future blind,</l>
+            <l>Who thinks that pleasure always will be kind;</l>
+            <l>
+               <pb n="24" facs="26"/>
+Then when she sooths, when most her charms delight,</l>
+            <l>Even then she meditates dishonest flight,</l>
+            <l>Bids her false breast with well-feigned raptures heave,</l>
+            <l>And plays the fond one only to deceive.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

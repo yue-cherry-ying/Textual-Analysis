@@ -1,0 +1,2348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liberty-Hall: or, a test of good fellowship. A comic opera, in two acts. As it is performed with the greatest applause at the Theatre-Royal in Drury-Lane.</title>
+            <author>Dibdin, Charles, 1745-1814.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K024330.000</idno>
+            <idno type="docno">CW3315373401</idno>
+            <idno type="ecll">0947900900</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Liberty-Hall: or, a test of good fellowship. A comic opera, in two acts. As it is performed with the greatest applause at the Theatre-Royal in Drury-Lane.</title>
+                  <author>Dibdin, Charles, 1745-1814.</author>
+               </titleStmt>
+               <extent>38p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for the author, and sold by G. Kearsley,</publisher>
+                  <date>1785.</date>
+                  <idno type="TCP">K024330.000</idno>
+                  <idno type="docno">CW3315373401</idno>
+                  <idno type="ecll">0947900900</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Charles Dibdin.</note>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT9039.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>LBERTY-HALL: OR, <hi>A Test of Good Fellowship.</hi>
+            </p>
+            <p>[Price ONE SHILLING.]</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>LIBERTY-HALL: OR, <hi>A Test of Good Fellowship.</hi> A COMIC
+OPERA, IN TWO ACTS. AS IT IS PERFORMED WITH THE GREATEST APPLAUSE AT THE
+<hi>THEATRE-ROYAL</hi> IN DRURY-LANE.</p>
+            <p>LONDON: Printed for the AUTHOR, and sold by G. KEARSLEY, at No.
+46, in FLEET-STREET. M.DCC.LXXXV.</p>
+         </div>
+         <div type="dramatispersonae">
+            <pb facs="3"/>
+            <head>DRAMATIS PERSONAE.</head>
+            <list>
+               <label>Sir Ephraim Rupee,</label>
+               <item>Mr. SUET.</item>
+               <label>Lord Lofty,</label>
+               <item>Mr. STAUNTON.</item>
+               <label>Rupee,</label>
+               <item>Mr. BARRYMORE</item>
+               <label>English,</label>
+               <item>Mr. BANNISTER.</item>
+               <label>Fidgit,</label>
+               <item>Mr. R. PALMER.</item>
+               <label>Ap Hugh,</label>
+               <item>Mr. DODD.</item>
+               <label>Nettle,</label>
+               <item>Mr. FAWCETT.</item>
+               <label>Seabright,</label>
+               <item>Mr. WRIGHTEN.</item>
+            </list>
+            <list>
+               <label>Aurelia,</label>
+               <item>Miss GEORGE.</item>
+               <label>Lucy,</label>
+               <item>Miss PHILLIPS.</item>
+               <label>Patience,</label>
+               <item>Mrs. WILSON.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="4"/>LIBERTY-HALL, <hi>&amp;c.</hi>
+         </head>
+         <div n="1" type="act">
+            <head>ACT I.</head>
+            <div type="scene">
+               <stage>SCENE, A Lawn before a large handsome House, pretty
+forward, and rather on one Side is fixed a Mar<lb rend="hidden" type="hyphenInWord"/>quee, where young <hi>Rupee,
+Fidget, Nettle, Ap Hugh,</hi> and <hi>Patience</hi> are at Breakfast,
+Servants waiting.</stage>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <sp>
+                              <speaker>CHORUS.</speaker>
+                              <l>LIGHT and tripping as you tread,</l>
+                              <l>With printless steps along the mead,</l>
+                              <l>With air ingenuous, open, free,</l>
+                              <l>Hither come, sweet Liberty!</l>
+                              <l>Health waits thee in thy blest domain,</l>
+                              <l>Come, and hold thy jocund reign!</l>
+                           </sp>
+                           <sp>
+                              <speaker>Pat.</speaker>
+                              <l>Here's the true seat of Liberty;</l>
+                              <l>We sit, sing, chat, and sip our tea,</l>
+                              <l>Discuss the modish topics round,</l>
+                              <l>While jest, and jibe, and joke abound;</l>
+                              <l>Abusing, as it serves our ends,</l>
+                              <l>The state, the weather, and our friends.</l>
+                           </sp>
+                           <sp>
+                              <speaker>Cho.</speaker>
+                              <l>Then light and tripping, &amp;c.</l>
+                           </sp>
+                           <sp>
+                              <pb n="8" facs="5"/>
+                              <speaker>Rup.</speaker>
+                              <l>Britons well read in freedom's lore,</l>
+                              <l>Say all they know and ten times more;</l>
+                              <l>Coblers teach kings—and where's the crime?</l>
+                              <l>Let beards wag freely—truths sublime,</l>
+                              <l>Fall sometimes from the coarsest tongue,</l>
+                              <l>As order out of Chaos sprung.</l>
+                           </sp>
+                           <sp>
+                              <speaker>Cho.</speaker>
+                              <l>Then light and tripping, &amp;c.</l>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Serv.</speaker>
+                  <p>Letters for your honour.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Have I leave?
+ <stage>[reads]</stage> from India—Sir—hum—hum—my trusty Bengal factor gives me lively hopes, that many
+ months will not elapse before I embrace a beloved sister I have not
+ seen since her infancy—here is her own letter,
+ hum—hum—Aurelia.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>Well, Rupee—hey—how is it?—is your father
+ really dead, and is the fortune equal to your expecta<lb rend="hidden" type="hyphenInWord"/>tions?</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Oh! the old gentleman's as peaceable as an embalmed Egyptian;
+ and as to the fortune, 'tis beyond my hopes.</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>I am sorry for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Sorry, Nettle!—why so?</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Why! because it will be all thrown away upon such flies as
+ Fidget here.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>You would have no objection, I suppose, to his throwing it
+ away upon wasps like yourself—don't be so envious, Nettle.</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>I envious, Sir!</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>Envious—Aye, as a lady's monkey of her lov<lb rend="hidden" type="hyphenInWord"/>er's
+ caresses.</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>You only think so because I am not like you, a
+ possessor of no pleasures but what are distant or impos<lb rend="hidden" type="hyphenInWord"/>sible,
+ a stupid, senseless, anticipater of enjoyment.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>Well, and what then! I appeal to Rupee, if there is any harm in
+ such a character.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>None in the world—I think you the most ac<lb rend="hidden" type="hyphenInWord"/>commodating
+ little creature alive; and for pinning a lady's tucker, catching a poney, being
+ bound for a thousand pounds, or stropping a razor, I don't think there's
+ your fellow in the county.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>I knew Rupee would praise me.</p>
+               </sp>
+               <sp>
+                  <pb n="9" facs="6"/>
+                  <speaker>Net.</speaker>
+                  <p>And you really think a flexibility of temper a pusillanimity
+ of soul, a placid, insipid, damned unfeeling serenity?</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Oh! the most despicable thing in nature; why a man might as
+ well be a piece of informed freestone.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>I have heard, and audited, and peen wit<lb rend="hidden" type="hyphenInWord"/>ness, look you, of
+ your tisputes and tifferences, and as I am confinced and persuaded you are
+ fery good friends in the mane, I to tesire and peseech you to shake
+ hands.</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>You are a pretty accommodater of differences! a Welchman full of
+ pride, petulance, and pedigree, hot as a leek, and amorous as a goat.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Why, look you, Mr. Nettle, it is petter to be proud of a good
+ heart than a malicious one; it is petter to be exasperated at receiving a
+ wrong than toing one; and as to hur peticree, if hur happens to be more
+ honorably tesoended than those who enfy hur, it is the fault of hur
+ ancestors and not hurself.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Well said, Ap Hugh.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>Ay, and truly said too. I have heard him talk with pleasure
+ a hundred times of his Judors and his Llwel<lb rend="hidden" type="hyphenInWord"/>lins, and his Walladers and his
+ Gummeries; and as to being amorous, who would not excuse it, when there is
+ such a temptation as this?—to be sure, as to reputation, we won't
+ say much about that; but what then? there are many demure ones with better
+ characters and worse sentiments.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh,</speaker>
+                  <p>It is a ferry just, and a ferry generous re<lb rend="hidden" type="hyphenInWord"/>mark, look you.
+ Oh! 'tis an angel, a fallen one to be sure; put when her peholds hur poor Ap
+ Hugh, pecomes plind to hur errors and pack slidings, look you, and can see
+ nothing put hur charms and fifacities—</p>
+               </sp>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <l>Were patience kind to me,</l>
+                           <l>Oh he de nos!</l>
+                           <l>Far plyther than a coat I'd be,</l>
+                           <l>Oh he de nos!</l>
+                           <l>Leap, skip and pound would poor Ap Hugh,</l>
+                           <l>And capriole and caper too,</l>
+                           <l>And frisk and jump and dance, look you,</l>
+                           <l>Oh he de nos!</l>
+                           <l>
+                              <pb n="10" facs="7"/>But patience very cruel is,</l>
+                           <l>Oh he de nos!</l>
+                           <l>With jibes, cheers, and mockeries,</l>
+                           <l>Oh he de nos!</l>
+                           <l>Which makes to sigh and sob, Ap Hugh,</l>
+                           <l>And whining his sad fortune rue,</l>
+                           <l>And crieve and croan and crunt, look you,</l>
+                           <l>Oh he de nos!</l>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <head>SCENE II.</head>
+               <stage>Rupee, English.</stage>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Thus have I an extempore Comedy in my house, nature not only
+ supplying me with matter but scenes and decorations, and here comes a
+ principal cha<lb rend="hidden" type="hyphenInWord"/>racter, an Englishman, who traces his origin from the Saxon
+ Heptarchy, prodigal of pleasure as Henry the 5th with his mad associates,
+ and estimable as that exemplary prince after he had renounced his
+ extravagancies. Ha! English, the honour of a visit from you is as kind as
+ it is unexpected.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Why, faith, 'tis a satisfaction I should give my<lb rend="hidden" type="hyphenInWord"/>self
+ oftner, but our pursuits are different, and why should we meet to
+ disagree?—I am bound by a singular though indulgent father—</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>I know it—his dying injunctions were, that you should
+ never see London, that you should dine four times a year with the vestry,
+ hang a stag's horns in your hall, brew your own October, and roast an ox at
+ Christ<lb rend="hidden" type="hyphenInWord"/>mas. Mine, I thank him, enjoin'd me no such con<lb rend="hidden" type="hyphenInWord"/>duct—he went
+ abroad—accumulated a large fortune—died—and left me to
+ spend it.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>With which you purchase pleasure at the expence of
+ happiness—last night, for example.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Oh! I am with you; but what mighty harm! a nobleman's carriage
+ breaks down in a quagmire, occa<lb rend="hidden" type="hyphenInWord"/>sioned by the late floods, and I invite my
+ lord and his suite to my house.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Yes, and a stage-coach, in about a quarter of an hour after
+ breaks down in the same quagmire, in which are a venerable old man and his
+ lovely daughter, whose appear<lb rend="hidden" type="hyphenInWord"/>ance being less splendid than my lord's,
+ they are left to shift for themselves.</p>
+               </sp>
+               <sp>
+                  <pb n="11" facs="8"/>
+                  <speaker>Rup.</speaker>
+                  <p>Oh! they are safe at Seabright's, my steward.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>No thanks to you—I saw them there this
+ morn<lb rend="hidden" type="hyphenInWord"/>ing—they are lately arrived from India, and their busi<lb rend="hidden" type="hyphenInWord"/>ness it
+ seems no less concerns you than themselves.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>And they have chosen you, I suppose, for their
+ advocate—their cause will have weight in such able hands. Will you
+ dine here? Believe me, I long to cultivate the closest intimacy with
+ you.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Try the test, which life is the most rational, and I accept,
+ this gage of friendship—I'll dine with you, and you and your friends
+ shall sup with me, and if before we part, you do not confess my conduct
+ to be more reasonable than your's, I'll change my ground and be<lb rend="hidden" type="hyphenInWord"/>come as
+ errant a votary of dissipation as you or the mad<lb rend="hidden" type="hyphenInWord"/>dest of your
+ adherents.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>A match—when am I to see this Indian queen?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Presently—Ah! Rupee—I wish I could plead as
+ successfully the cause of another.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Whom?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Lucy—Seabright's charming daughter.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>What would you say of her, Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>That she is miserable, and you have made her so; that you
+ have stolen her heart, and I fear her honor.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>That's very well faith, I did not expect this—what!
+ man—are not you and I young, high-blooded? will you make me believe,
+ while your companions have been beating the bushes of a morning, you have
+ never stolen away to the arms of some cherry-cheeked farmer's daughter?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Sir, I am incapable of the crime you insinuate; a true
+ English sportsman holds his tenants comfort and security as inviolate
+ as his own. The chase ought to be for the destruction of beasts of prey
+ and the extermination of vermin.</p>
+               </sp>
+               <sp>
+                  <pb n="12" facs="9"/>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <lg>
+                              <lg>
+                                 <l>When faintly gleams the doubtful day,</l>
+                                 <l>Ere yet the dew-drops on the thorn</l>
+                                 <l>Borrow a lustre from the ray</l>
+                                 <l>That tips with gold the dancing corn,</l>
+                                 <l>Health bids awake and homage pay,</l>
+                                 <l>To him who gave another morn.</l>
+                              </lg>
+                              <lg>
+                                 <l>And well with strength his nerves to brace,</l>
+                                 <l>Urges the sportsman to the chase.</l>
+                              </lg>
+                           </lg>
+                           <lg n="2">
+                              <head>II.</head>
+                              <lg>
+                                 <l>"<note place="bottom" n="*">The lines marked with
+ inverted commas are to be omitted in the repre<lb rend="hidden" type="hyphenInWord"/>sentation</note>Do we pursue
+ the timid hare,</l>
+                                 <l>"As trembling o'er the lawn she bounds?</l>
+                                 <l>"Still of her safety have we care,</l>
+                                 <l>"While seeming death her steps surrounds,</l>
+                                 <l>"We the defenceless creature spare,</l>
+                                 <l>"And instant stop the well taught hounds.</l>
+                              </lg>
+                              <lg>
+                                 <l>"For cruelty should ne'er disgrace</l>
+                                 <l>"The well earn'd pleasure of the chase.</l>
+                              </lg>
+                           </lg>
+                           <lg n="3">
+                              <head>III.</head>
+                              <lg>
+                                 <l>Return'd with shaggy spoils well stor'd</l>
+                                 <l>To our convivial joys at night,</l>
+                                 <l>We toast, and first our country's lord,</l>
+                                 <l>Anxious who most shall do him right;</l>
+                                 <l>The fair next crowns the social board,</l>
+                                 <l>Britons should love as well as fight,</l>
+                              </lg>
+                           </lg>
+                           <lg>
+                              <l>For he who slights the tender race,</l>
+                              <l>Is held unworthy of the chase.</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <div n="3" type="scene">
+               <pb n="13" facs="10"/>
+               <head>SCENE III.</head>
+               <stage>
+                  <hi>Seabright's</hi> house, <hi>Sir Ephraim</hi> and
+<hi>Seabright.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Why I never heard of such a devil of an ex<lb rend="hidden" type="hyphenInWord"/>travagant villain
+ in my life.</p>
+               </sp>
+               <sp>
+                  <speaker>Sea.</speaker>
+                  <p>Indeed, Sir Ephraim, his excesses are without end.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Well well, we must endeavour to cure them; he believes me to
+ be dead, and his sister in India, he has forgot her of course; and as for
+ me, I have nothing to do but keep aloof till our plot is wrought to its height;
+ but what gives me the greatest pleasure in this business is, that the
+ son of my old friend Hengist English will join our designs against my
+ son. I remember his father and I talked of him and my Aurelia when they were
+ little ones; I should not be sorry to revive the idea.</p>
+               </sp>
+               <sp>
+                  <speaker>Sea.</speaker>
+                  <p>You could not choose a worthier son-in-law; he is the idol
+ of the county.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Well, well, we'll make my boy the idol of the county too. We,
+ starched old fellows, Seabright, don't give latitude enough to the fiery
+ feelings, and tow<lb rend="hidden" type="hyphenInWord"/>ering spirits of a mettled young dog like him; consider
+ his princely fortune, his elegant connections.</p>
+               </sp>
+               <sp>
+                  <speaker>Sea.</speaker>
+                  <p>These, Sir, are so many mirrors for mens ac<lb rend="hidden" type="hyphenInWord"/>tions, which
+ will reflect nothing as a beauty, but what has a tendency to honour.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>And I hope there are a great many such ten<lb rend="hidden" type="hyphenInWord"/>dencies in my
+ Ephraim; what has he done? accuse him of something; has he neglected to
+ relieve indigent me<lb rend="hidden" type="hyphenInWord"/>rit? has he pitifully sold his principles for the
+ smiles of power? has he seduced the wife or daughter of his friend?</p>
+               </sp>
+               <sp>
+                  <speaker>Sea.</speaker>
+                  <p>Daughter of his friend, Sir!</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Ay—I'd never forgive that.</p>
+               </sp>
+               <sp>
+                  <speaker>Sea.</speaker>
+                  <p>Sir, it's very hard—</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>'Tis very severe judging; but if you know any thing, speak
+ out.</p>
+               </sp>
+               <sp>
+                  <speaker>Sea.</speaker>
+                  <p>What a question! Miss Aurelia Sir—good heaven!</p>
+                  <stage>[goes off.</stage>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <pb n="14" facs="11"/>
+               <head>SCENE IV.</head>
+               <stage>—<hi>Aurelia, Lucy.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Oh! Aurelia! well but, Seabright—how, gone!—he has
+ left me very abruptly methinks—afraid of offending I
+ suppose—that's nonsense; he might have said what he
+ pleased.</p>
+               </sp>
+               <stage>
+                  <hi>Aurelia</hi> comes on, followed by two or three
+<hi>Lascars,</hi> one car<lb rend="hidden" type="hyphenInWord"/>rying a monkey, another a maccaw,
+<hi>&amp;c.</hi>
+               </stage>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <lg>
+                              <l>Here I am</l>
+                              <l>With my ching wham wham,</l>
+                              <l>Gay splendid and dazzling pronounce me,</l>
+                              <l>While chang whang whang,</l>
+                              <l>As their citrons they twang,</l>
+                              <l>My slaves and attendants announce me.</l>
+                           </lg>
+                           <lg>
+                              <l>Lascars with their tymbals,</l>
+                              <l>Go thrum thrum thrum,</l>
+                              <l>And give the alarm by their drumming;</l>
+                              <l>While females, their cymbals</l>
+                              <l>Go strum strum strum,</l>
+                              <l>Proclaiming her title that's coming. Here I am,
+<hi>&amp;c.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <l>At length the mutes</l>
+                              <l>With their dulcet flutes,</l>
+                              <l>So sweetly join the cymbals strum,</l>
+                              <l>And qualify the tymbals thrum;</l>
+                              <l>'Till having stunn'd the listening ears</l>
+                              <l>With whing, chang chang,</l>
+                              <l>And ching whang whang,</l>
+                              <l>At length the motley train appears. Here I am,
+<hi>&amp;c.</hi>
+                              </l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="15" facs="12"/>
+                  <speaker>Sir Eph.</speaker>
+                  <p>You are in fine spirits this morning, Aurelia; you'll never
+ forget the sprightly wildness of the east; I wish I could see your
+ companion half so merry.</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Oh lord, Sir, you'll get nothing from her but sighs.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>I have observed it, and if I mistake not, di<lb rend="hidden" type="hyphenInWord"/>vined the
+ cause too; 'twas a wicked Sylvan to steal so tender a heart—hey!
+ Lucy,—well well, don't blush, but come tell me, daughters judge more
+ charitably of young fellows than fathers, what do you think of my son?</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>Think of him, Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Ay, ay, is he not an elegant, fine young fellow?</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>I believe there is no doubt of that, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>And now as to his vices and follies, as they are called.</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>Dear Sir, how should I?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>I beg your pardon, you young girls make shrewd remarks—I
+ have had hints.</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>Hints, Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Ay, hints; in short, do you believe him capable of a
+ premeditated dishonourable action?</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>Oh!
+ <stage>(cries)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>She's crying ready to break her heart, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Hey-day, what's all this?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>My dear Lucy, an't you well?</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>I beg your pardon, ma'am, I am lately so low-spirited, and
+ so little fit for company.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Why really, Lucy, this is very unaccountable. I have noticed a
+ sort of coolness between you and your father, but it looked rather like
+ unhappiness than anger; let me intercede. You know, Lucy, you are my
+ god-daughter, and should consider me as a second father; come, come, be
+ chearful.</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>Sir, I am obliged to you for your advice, but the best
+ precepts are thrown away upon an impractica<lb rend="hidden" type="hyphenInWord"/>ble subject; you add to my griefs
+ by bringing them to my recollection, but when the thorn of affliction rankles
+ in the heart, busy remembrance may irritate, but con<lb rend="hidden" type="hyphenInWord"/>not extract it.</p>
+               </sp>
+               <sp>
+                  <pb n="16" facs="13"/>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <lg>
+                              <l>Who to my wounds a balm advises,</l>
+                              <l>But little knows what I endure;</l>
+                              <l>The patient's pain to torture rises</l>
+                              <l>When medicine's try'd and fails to cure.</l>
+                           </lg>
+                           <lg>
+                              <l>What can the wisest council teach me,</l>
+                              <l>But sad remembrance of my grief?</l>
+                              <l>Alas! your kindness cannot reach me,</l>
+                              <l>It gives but words—I ask relief.</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <div n="5" type="scene">
+               <head>SCENE V.</head>
+               <stage>—<hi>Sir Ephraim, Aurelia.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Old Seabright surely gets crabbed and pee<lb rend="hidden" type="hyphenInWord"/>vish; how can this
+ poor girl have offended him?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>My dear papa, that's not her grief.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>What is then?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>One I fancy you would not be very fond of curing.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>What do you mean?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>I mean that after so much anxiety for a beloved son, you
+ would hardly consent that he should throw him<lb rend="hidden" type="hyphenInWord"/>self away upon your
+ steward's daughter.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Phoo, phoo—nonsense—impossible!</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Then, my dear Sir, you have no observation, didn't you
+ perceive her sensible confusion whenever you spoke of him? didn't she
+ sigh, faulter, tremble, and hesitate, and then burst out a crying?</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Yes, 'tis very true; her father too was ter<lb rend="hidden" type="hyphenInWord"/>ribly shocked.</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>And I should not wonder if it was a scheme be<lb rend="hidden" type="hyphenInWord"/>tween
+ them—As to the lady she is so soft and sentimental!</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>And so was the papa; he had his tenden<lb rend="hidden" type="hyphenInWord"/>cies, and his mirrors,
+ and his afflictions; we must think of this.</p>
+               </sp>
+            </div>
+            <div n="6" type="scene">
+               <pb n="17" facs="14"/>
+               <head>SCENE VI.</head>
+               <stage>—<hi>Sir Ephraim, Aurelia, English.</hi>
+               </stage>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Sir Ephraim you must disappear from hence as fast as can,
+ unless you wish your son to see you, for here he comes in full
+ sail.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>In full sail indeed! why zounds, he and his company look like
+ a troop of Bacchanals—Ah! I'll make one in their pious orgies before
+ long.</p>
+               </sp>
+            </div>
+            <div n="7" type="scene">
+               <head>SCENE VII.</head>
+               <stage>English, Aurelia, Rupee.</stage>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p> 
+                     <stage>[Speaking behind.]</stage> Fidget, shew his lordship
+ the avenue leading to the Park, and I'll wait for you here.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Rupee, I have the pleasure to introduce to you a fair
+ supplicant, whose story you will find singular and interesting: you
+ are also concern'd in it.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>How so?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>I'll tell you, sir—My father acquir'd a consi<lb rend="hidden" type="hyphenInWord"/>derable
+ fortune, which my brother squanders away in loose and idle
+ pleasures—In his affairs your's are closely involved, the wealth of
+ both having sprung from the same source.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Very likely: I have extensive India connections—His
+ name, pray?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>You will hear it from my father, sir; at present I require
+ your speedy interference in this business, left it come too late.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Why too late?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>His excessive dissipation and blind partiality for
+ disreputable and worthless objects may leave him without the means of
+ assisting me or himself.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>A sad fellow, this same brother of your's, ma'am!</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>One would think she was describing you, Rupee.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Oh yes! I dare say I shall get just such another
+ sermon from my sister when she arrives.—What, he is incorrigible,
+ is he, ma'am?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>As much so as vanity, affluence, and intercourse with knaves
+ and flatterers can make him; besides, I fear we shall be too late on
+ another account.</p>
+               </sp>
+               <sp>
+                  <pb n="18" facs="15"/>
+                  <speaker>Rup.</speaker>
+                  <p>Ay, what's that?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>There was a rumor, as I came over, that your title to your
+ fortune is very equivocal.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Indeed.
+ <stage>[With indifference.]</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Nay, I have seen a gentleman who means to lay claim to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Faith, Rupee, this seems to be a serious business.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Not at all—We Nabobs, according to rumor, hold our
+ fortunes at the pleasure of the public; but while we keep unaccounted
+ thousands for sops to an enquiring Cerberus, he may growl, but in the end
+ he'll be sure to fawn, and let us pass.</p>
+               </sp>
+            </div>
+            <div n="8" type="scene">
+               <head>SCENE VIII.</head>
+               <stage>Rupee, English, Aurelia, Lord Lofty.</stage>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>Upon my consequence, 'tis a shame you should have this
+ trio so long to yourselves—by my dis<lb rend="hidden" type="hyphenInWord"/>tinction, she is a lovely
+ creature—Rupee.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>My lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>This girl's come to you about disagreeable business.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>She is, my lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>I am in love with her; I'll take her off your hands.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>A gallant proposal.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>O lord! tis nothing at all for me: I always catch them on the
+ wing—at first sight—ha—pop down they come.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Bravo!</p>
+               </sp>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>But perhaps ma'am, I can't tempt you—youth, a fine
+ figure, talents, white teeth, an earldom, and fifty thousand a year won't be
+ worth your acceptance—Hey, Rupee?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Sir, shall I beg you'll see me to my father?</p>
+               </sp>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>By my title, it must not be—my dear ma'am, it will kill
+ me; stretch me, by my condition I shall ex<lb rend="hidden" type="hyphenInWord"/>pire with grief.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Don't be uneasy, my lord, you'll see the lady again.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>Hartshorn to my fainting fancy, or may I die a plebeian,
+ you'll leave hope with me at least, ma'am.</p>
+               </sp>
+               <sp>
+                  <pb n="19" facs="16"/>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <sp>
+                              <speaker>Aur.</speaker>
+                              <lg>
+                                 <l>Ne'er yet did lover</l>
+                                 <l>Hope discover,</l>
+                                 <l>'Till won by sighs and wishes tender;</l>
+                                 <l>To reward him,</l>
+                                 <l>We accord him</l>
+                                 <l>That presage of our hearts surrender.</l>
+                              </lg>
+                              <lg>
+                                 <l>Hope's the reward of faithful hearts,</l>
+                                 <l>Herald of every joy propitious,</l>
+                                 <l>The course on which the lover starts,</l>
+                                 <l>Eager to reach that goal he wishes.</l>
+                              </lg>
+                              <lg>
+                                 <l>When you a lover's title prove,</l>
+                                 <l>So kind, so true—well pleas'd to greet
+ you,</l>
+                                 <l>This hope, the harbinger of love,</l>
+                                 <l>With winning smiles shall haste to meet
+ you.</l>
+                              </lg>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <div n="9" type="scene">
+               <head>SCENE IX,</head>
+               <stage>
+                  <hi>Lord Lofty, Rupee, Nettle, Fidget, Hairbrain,</hi> other
+Company, and <hi>English,</hi> who returns after having gone off with
+<hi>Aurelia.</hi>
+               </stage>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>An angel! or may I die without heirs.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p> 
+                     <stage>(coming on)</stage> Upon my soul, Nettle, you use his
+ lo<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>dship very scurvily; what can
+ be more noble than to be, as I may say, the sun of generosity to the
+ world of science?</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Or rather the moon, for 'tis but a borrowed light.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>No, 'tis you are the moon, for all the light you give is by
+ reflection.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Well said, Fidget.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>Oh, let Nettle alone, I know him of old; his head is like the
+ Denaides with their sieves, always overflowing and always empty.</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Something like your taste then, my Lord—how often have
+ I seen you sit with rapture to see a fellow mincing along like a figure
+ cut out in spermaceti, per<lb rend="hidden" type="hyphenInWord"/>sonating <pb n="20" facs="17"/> Julius Caesar,
+ or Marc Antony, and giving command to an army, or laws to an empire, in the
+ tone of a bullfinch or a child's three-penny whistle.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Faith, Nettle, I so far join you in this last re<lb rend="hidden" type="hyphenInWord"/>mark, that
+ I would rather hear my friend English sing the old plaintive song of Jack
+ Ratling in his manner, than the finest warbling the Hay-Market can afford
+ us.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>Perhaps the gentleman will favour us with it.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>With great pleasure, my Lord.</p>
+               </sp>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <lg>
+                              <lg>
+                                 <l>Jack Ratlin was the ablest seaman,</l>
+                                 <l>None like him could hand, reef and steer;</l>
+                                 <l>No dangerous toil but he'd encounter,</l>
+                                 <l>With skill, and in contempt of fear.</l>
+                              </lg>
+                              <lg>
+                                 <l>In fight a lion; the battle ended,</l>
+                                 <l>Meek as the bleating lamb he'd prove;</l>
+                                 <l>Thus Jack had manners, courage, merit—</l>
+                                 <l>Yet did he sigh—and all for love.</l>
+                              </lg>
+                           </lg>
+                           <lg n="2">
+                              <head>II.</head>
+                              <lg>
+                                 <l>The song, the jest, the flowing
+ liquor—</l>
+                                 <l>For none of these had Jack regard;</l>
+                                 <l>He, while his messmates were carousing,</l>
+                                 <l>High sitting on the pendant yard,</l>
+                              </lg>
+                              <lg>
+                                 <l>Would think upon his fair one's beauties,</l>
+                                 <l>Swear never from such charms to rove;</l>
+                                 <l>That truly he'd adore them living,</l>
+                                 <l>And dying—sigh—to end his love.</l>
+                              </lg>
+                           </lg>
+                           <lg n="3">
+                              <head>III.</head>
+                              <lg>
+                                 <l>The same express the crew commanded</l>
+                                 <l>Once more to view their native land,</l>
+                                 <l>Among the rest brought Jack some
+ tidings—</l>
+                                 <l>Would it had been his love's fair hand!</l>
+                              </lg>
+                              <lg>
+                                 <l>Oh fate!—her death defac'd the letter,</l>
+                                 <l>Instant his pulse forgot to move;</l>
+                                 <l>With quiv'ring lips and eyes uplifted,</l>
+                                 <l>He heav'd a sigh—and dy'd for love.</l>
+                              </lg>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="21" facs="18"/>
+                  <speaker>All.</speaker>
+                  <p>Bravo!</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Ay, ay, while you have such goods as these, you need not go
+ to foreign markets.</p>
+               </sp>
+               <sp>
+                  <speaker>Hair.</speaker>
+                  <p>Rupee, yonder comes Ap Hugh: we have been teazing him to death,
+ till the poor Welshman's like a horse in the pillars, he neither stands
+ nor goes.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Here he comes, what shall we say to him?</p>
+               </sp>
+               <sp>
+                  <speaker>Hair.</speaker>
+                  <p>The comicalest notion alive; let us send him to
+ Coventry.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Well thought of; will you join him, my lord?</p>
+               </sp>
+               <sp>
+                  <speaker>Lord L.</speaker>
+                  <p>Oh, I'll be as errant a school-boy as the best of you.</p>
+               </sp>
+            </div>
+            <div n="10" type="scene">
+               <head>SCEN X.</head>
+               <stage>—To them, <hi>Ap Hugh.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Saaf you saaf you, coot people—I be<lb rend="hidden" type="hyphenInWord"/>lieve I have some
+ favours and obligations, and first of all, Mr. Nettle, what is the
+ reason—</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Goats and monkeys.
+ <stage>(turning away from him.)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Yes, it is ferry pretty monkeys you are inteed, and it is ferry
+ pretty chipes and cheres, but I counsel and warn you. Ah! Mr. English, I
+ pray you—</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p> 
+                     <stage>(looking him full in the face)</stage> Oh he de nos.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh</speaker>
+                  <p>Odds my cholers and my passions, is hur to be be played a
+ pass and moreover a scurvy trick? but all is one—Mr. Rupee, I too
+ tesire—</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p> 
+                     <stage>(speaking to Lord Lofty)</stage> you say very true, my
+ lord, the passions of Welchmen are like mad bleak, they swim upon the
+ surface, but nothing can sink them to the level of reason.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>A mad pleak! is hur a fish, or a bleak or a trout? if hur is a
+ trout, I can tell you, you do not go the way to tickle her. My deer Patience, I
+ too be<lb rend="hidden" type="hyphenInWord"/>seech you.</p>
+               </sp>
+               <sp>
+                  <speaker>Pat.</speaker>
+                  <p>Mr. Rupee, don't you remember one Ap Hugh we had with us?</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Yes, he fell in love with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Hair.</speaker>
+                  <p>Yes poor fellow, I first slighted him, and he first went
+ mad and then hanged himself.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Hur believes hur shall co mad inteed.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>I cannot bear to see him so unhappy; they have sent you to
+ Coventry, Ap Hugh—'twas all Nettle's doings.</p>
+               </sp>
+               <sp>
+                  <pb n="22" facs="19"/>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>I do not tout it, and if I was to sent him to the tiffels and
+ belzebubs he would be only among his relations.</p>
+               </sp>
+               <sp>
+                  <speaker>Serv.</speaker>
+                  <p>Sir, dinner's served.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Come, gentlemen, first for the dinner, and then for the
+ Burgundy.</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>Bravo!</p>
+               </sp>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>CHORUS.</head>
+                           <lg>
+                              <lg>
+                                 <l>What if my pleasures fools condemn,</l>
+                                 <l>Because I am not dull like them,</l>
+                                 <l>Because no minute I let pass</l>
+                                 <l>Unmarked by a convivial glass?</l>
+                              </lg>
+                              <lg>
+                                 <l>Or else returned from strife and noise,</l>
+                                 <l>I tempt the fair to softer joys;</l>
+                                 <l>A mortal with a soul divine,</l>
+                                 <l>Alternate crown'd with love and wine.</l>
+                              </lg>
+                           </lg>
+                           <lg n="2">
+                              <head>II.</head>
+                              <lg>
+                                 <l>These shall on earth my being share,</l>
+                                 <l>And when I'm gone, if in my heir</l>
+                                 <l>My spirit live, let him not mourn,</l>
+                                 <l>But see emboss'd upon my urn:</l>
+                              </lg>
+                              <lg>
+                                 <l>Bacchus and Venus in a wreath,</l>
+                                 <l>With this inscription underneath:</l>
+                                 <l>"This mortal had a soul divine,</l>
+                                 <l>"Alternate crown'd with love and wine."</l>
+                              </lg>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <trailer>END OF THE FIRST ACT.</trailer>
+         </div>
+         <div n="2" type="act">
+            <pb n="23" facs="20"/>
+            <head>ACT II.</head>
+            <div n="1" type="scene">
+               <head>SCENE I.</head>
+               <stage>—A Shrubbery.</stage>
+               <stage>Patience, English.</stage>
+               <sp>
+                  <speaker>Pat.</speaker>
+                  <p>ENGLISH seems to have got hold of this business pretty
+ well—I remember old Ratsbane was the lawyer fellow, well enough; and if
+ he really has joc<lb rend="hidden" type="hyphenInWord"/>key'd Rupee, so much the better for Lucy.</p>
+               </sp>
+               <sp>
+                  <speaker>Png.</speaker>
+                  <p>Well, Hairbrain, do you think we shall be a match for
+ Rupee?</p>
+               </sp>
+               <sp>
+                  <speaker>Pat.</speaker>
+                  <p>What, about Lucy—ay, ay?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Well I am glad to find you are so confident of
+ success.</p>
+               </sp>
+               <sp>
+                  <speaker>Pat.</speaker>
+                  <p>Confident! come—to speak in your sporting
+ way—I'll bett you five hundred to fifty, that if that young filly is but
+ guided by me, tho' he jockey'd her across the flat, and run away from the
+ ditch, she catches him at the turn of the lands, and wins the race in a
+ canter.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Thou art a generous girl.</p>
+               </sp>
+               <sp>
+                  <speaker>Pat.</speaker>
+                  <p>Why as to that, I was accessary to Lucy's mis<lb rend="hidden" type="hyphenInWord"/>fortunes;
+ and I should give but a bad sample of my promis'd Reformation, if I did not
+ assist to get her out of them—besides this is not half the
+ mischief on foot—there's a pretty deep stake to play with my lord;
+ he has <pb n="24" facs="21"/> his plots too—there are more folks to be
+ ruin'd, I can tell you, if matters could be brought to bear; but no,
+ no—that won't do—there's misery enough in the world without his
+ assistance.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>You have some excellent sentiments: 'tis a pity you could
+ not be brought to a little reformation.</p>
+               </sp>
+               <sp>
+                  <speaker>Pat.</speaker>
+                  <p>Why, to tell you the truth, I am not without hope that when Ap
+ Hugh finds I rigidly pursue the re<lb rend="hidden" type="hyphenInWord"/>form I have planned, he may be wrought on
+ to make, in the language of the world, an honest woman; and then, should
+ fortune bless me with a daughter, the care of her morals should be an
+ atonement for the neglect of mine.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Nobly resolv'd!</p>
+               </sp>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <sp>
+                              <speaker>—LUCY.</speaker>
+                              <lg>
+                                 <l>Oh transports beyond measure!</l>
+                                 <l>Oh exstacy of pleasure!</l>
+                                 <l>What unknown joys possess me!</l>
+                                 <l>The world will now confess me</l>
+                                 <l>That honor'd, happy thing, a wife.</l>
+                              </lg>
+                              <lg>
+                                 <l>Should unexpected crosses</l>
+                                 <l>Misfortunes breed and losses,</l>
+                                 <l>My husband's cares to soften,</l>
+                                 <l>I'll tenderly and often</l>
+                                 <l>With kisses banish every strife.</l>
+                              </lg>
+                              <lg>
+                                 <l>Thus I'll discharge so duly,</l>
+                                 <l>So constantly, so truly,</l>
+                                 <l>So well my duty's promise;</l>
+                                 <l>That, pain and care far from us,</l>
+                                 <l>Sweet shall be our cup of life.</l>
+                              </lg>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <pb n="25" facs="22"/>
+               <head>SCENE II.</head>
+               <stage>—ENGLISH, AURELIA.</stage>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>My dear Aurelia, a thousand impertinent things have
+ maliciously prevented me from paying my devoirs to you; however, 'twill not
+ be difficult to woo you; we are both children of nature.</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Ay, but where's my oriental splendor, that lan<lb rend="hidden" type="hyphenInWord"/>guid
+ happiness, that sickening delight, which, from its excess of luxury, was
+ at once both pleasure and satiety?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>In these arms what Nabob can boast so extensive an
+ empire as my heart; or slave, so perfect an obedience to your
+ will?—Then for amusement, I'll turn you out a deer shall keep his
+ hunters at bay like the subtil pard; and if you wish to lounge in litters
+ and palanquins, I have ploughmen as agile as Lascars, and horses as
+ strong as elephants.</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Charming!—you are not a bit like an Indian
+ galant—I'll describe one to you—He comes out with an anticipated
+ consumption, holds a timorous command, escapes assassination by
+ miracle, gets hated abroad, cen<lb rend="hidden" type="hyphenInWord"/>sured at home—marries, and dies of a
+ catalogue of un<lb rend="hidden" type="hyphenInWord"/>titled diseases.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>What a description!—thank fortune, then who reserved
+ me for you.</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Upon my word—I don't know that I shall marry you.
+ Apropos—now I think of it, I am offended with you—how came you to
+ conceal all this fine busi<lb rend="hidden" type="hyphenInWord"/>ness of Miss Lucy from me?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>I! my dear Aurelia?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Oh! no not you, you know nothing of her in<lb rend="hidden" type="hyphenInWord"/>tention to cheat my
+ brother, first of his senses and then of his fortune; but I would have
+ you, for your own sake, take care how you tamper in this business, for in
+ my mind, he who abets the brother's folly can have but little regard for the
+ sister's happiness.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>But, Aurelia—</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Nay, it is the same thing to me; it shall be either peace or
+ war, India or English—say but the word.</p>
+               </sp>
+               <sp>
+                  <pb n="26" facs="23"/>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <lg>
+                              <l>Prepar'd each army in its way,</l>
+                              <l>Would you hostilities should cease,</l>
+                              <l>Do you the olive branch display;</l>
+                              <l>I'll smoke the calimut of peace.</l>
+                           </lg>
+                           <lg>
+                              <l>But if in arms we must be found,</l>
+                              <l>Haste to the field and let us see</l>
+                              <l>If your trumpet or my war-hoop's sound,</l>
+                              <l>Can loudest cry—to victory.</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <div n="3" type="scene">
+               <head>SCENE III.</head>
+               <stage>English, Lucy.</stage>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>So so, now must I make an enemy of either my mistress or
+ my honor—to affront the latter might be to lose both, and as our
+ mistresses are often offended and pleased they know not why, I'll e'en
+ keep my ho<lb rend="hidden" type="hyphenInWord"/>nor, which I am sure will never be out of humour with me, unless
+ I deserve it.</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>I beg your pardon, I thought Miss Rupee had been here.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>She is this instant gone, and in a perfect pet, I can tell
+ you, at my entering the lists as your champion.</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>How, Sir?—I don't understand you.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>My dear Lucy, I wou'd be cautious of offend<lb rend="hidden" type="hyphenInWord"/>ing your gentless
+ and delicacy, but 'tis necessary I should speak out—In a word, I
+ have consulted your father on the subject of Rupee's treachery towards you,
+ who, but for my persuasions, would have carried his resentment to a
+ length more becoming the honest feelings of a man then the wary prudence of a
+ peasant—I appeased him however, and am, I think, now by the help of
+ one of Rupee's engines, on the eve of such a discovery as must be of
+ service to us.</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>I fear, Sir, you know not what you under<lb rend="hidden" type="hyphenInWord"/>take.</p>
+               </sp>
+               <sp>
+                  <pb n="27" facs="24"/>
+                  <speaker>Eng.</speaker>
+                  <p>Yes, yes, I do—take courage, Lucy—you'll be happier,
+ and then in the words of my favourite song, you shall pardon the treason
+ for the sake of the traitor.</p>
+               </sp>
+               <sp>
+                  <speaker>Lucy.</speaker>
+                  <p>Ah! that song—how often have I sung it and wept!</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Then sing it now, and rejoice that the disagree<lb rend="hidden" type="hyphenInWord"/>able part of
+ it is past, and all that's pleasurable in it to come.</p>
+               </sp>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <sp>
+                              <speaker>—LUCY.</speaker>
+                              <lg>
+                                 <lg>
+                                    <l>When faries are lighted by night's silver
+ queen,</l>
+                                    <l>And feast in the meadow, or dance on the
+ green,</l>
+                                    <l>My Lumkin aside lays his plough and his
+ flail</l>
+                                    <l>By yon oak to sit near me, and tell his fond
+ tale.</l>
+                                 </lg>
+                                 <lg>
+                                    <l>And tho' I'm assur'd the same vows were
+ believ'd</l>
+                                    <l>By Patty and Ruth he forsook and deceiv'd,</l>
+                                    <l>Yet so sweet are his words, and like truth
+ so appear,</l>
+                                    <l>I pardon the treason, the traytor's so
+ near.</l>
+                                 </lg>
+                              </lg>
+                              <lg n="2">
+                                 <head>II.</head>
+                                 <lg>
+                                    <l>I saw the straw bonnet he bought at the
+ fair,</l>
+                                    <l>The rose-colour'd ribbons to deck Jenny's
+ hair,</l>
+                                    <l>The shoe-tyes of Bridget, and, still worse
+ than this,</l>
+                                    <l>The gloves he gave Peggy for stealing a
+ kiss.</l>
+                                 </lg>
+                                 <lg>
+                                    <l>All these did I see, and with heart-rending
+ pain,</l>
+                                    <l>Swore to part; yet I know when I see him
+ again,</l>
+                                    <l>His words and his looks will like truth so
+ appear,</l>
+                                    <l>I shall pardon the treason, the traytor's so
+ dear.</l>
+                                 </lg>
+                              </lg>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <pb n="28" facs="25"/>
+               <head>SCENE III.</head>
+               <stage>English, Rupee.</stage>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>English—If I had not the greatest regard for you I
+ should laugh in your face.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Indeed!—'tis lucky then your friendship shields me
+ from your ridicule. Why so much mirth, pray?</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Nothing—Your fine Indian adventurer has con<lb rend="hidden" type="hyphenInWord"/>sented to an
+ elopement with my lord, that's all.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>For shame, Mr. Rupee! the lady in question is a woman of
+ honor.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>I tell you she is an errant town bite, and but that the title
+ and fortune of his lordship are more splendid than your's, she would have
+ tricked you as compleatly as she means to gull him.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>I cannot bear it, Mr. Rupee—you know not who you
+ abuse—but I will not reproach you, you'll endure enough before you
+ sleep, your Liberty-Hall is convulsed to the very center, Sir; it totters
+ over your head.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Indeed! and did your woman of honour tell you that too?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Both her and her father—he who has a better right here
+ than you have.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Oh! oh! oh! I shall never have done laugh<lb rend="hidden" type="hyphenInWord"/>ing—her
+ father!</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Yes, Sir, before many hours are over your head, you will
+ confess yourself a dependant on his very bounty.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Why zounds, man, I possess my fortune by my father's
+ will.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>I know it—but there was one material circum<lb rend="hidden" type="hyphenInWord"/>stance
+ omitted, which alone could give you a title to it.—he forgot to die.
+ <stage>(aside)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>So they have told you, and I dare say, under the influence of
+ your oriental empress, you believe it.—However, to snatch you at
+ once from your infatuation, I am going to lend Lord Lofty my coach, and five
+ thou<lb rend="hidden" type="hyphenInWord"/>sand pounds, to accelerate his project.</p>
+               </sp>
+            </div>
+            <div n="5" type="scene">
+               <pb n="29" facs="26"/>
+               <head>SCENE V.</head>
+               <stage>—<hi>English, Patience, Nettle, Fidget, Ap
+Hugh.</hi>
+               </stage>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Lend him five thousand pounds! that must be
+ prevented—but what does he mean by an elopement?—oh! I see
+ it—Hairbrain's deep stake, I'll bett a thou<lb rend="hidden" type="hyphenInWord"/>sand.</p>
+               </sp>
+               <sp>
+                  <speaker>Hair.</speaker>
+                  <p>And I'll go your halves—I have made an ap<lb rend="hidden" type="hyphenInWord"/>pointment in the
+ Indian gentlewoman's name, where his Lordship may kick his heels long enough
+ to no pur<lb rend="hidden" type="hyphenInWord"/>pose.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Excellent!—well, what success?</p>
+               </sp>
+               <sp>
+                  <speaker>Hair.</speaker>
+                  <p>What with the old pettifogger, all bank; as good a licence as
+ ever started from Doctors Commons.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>And he'll come.</p>
+               </sp>
+               <sp>
+                  <speaker>Hair.</speaker>
+                  <p>Who? the lawyer! why he's to get something by it, is not
+ he?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Now for Rupee's probation—'twill be severe, but 'tis
+ necessary; he must smart to be cured—thank Heaven his affairs are
+ retrievable—a spendthrift in his career is like the racer on which he
+ betts his money,</p>
+               </sp>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <lg>
+                              <lg>
+                                 <l>See the course throng'd with gazers, the sports
+ are begun,</l>
+                                 <l>The confusion but hear! I'll bett
+ you—done—done;</l>
+                                 <l>Ten thousand strange murmurs resound far and
+ near,</l>
+                                 <l>Lords, hawkers and jockies assail the tir'd
+ ear.</l>
+                              </lg>
+                              <lg>
+                                 <l>While, with neck like a rainbow, erecting his
+ crest,</l>
+                                 <l>Pamper'd, prancing and pleas'd—his head
+ touching his breast,</l>
+                                 <l>Scarcely snuffing the air, he's so proud and
+ elate,</l>
+                                 <l>The high mettl'd racer—first starts for
+ the plate.</l>
+                              </lg>
+                           </lg>
+                           <lg n="2">
+                              <pb n="30" facs="27"/>
+                              <head>II.</head>
+                              <lg>
+                                 <l>
+                                    <note place="bottom" n="*">The second and third
+ Stanzas omitted in the Representation.</note>Now reynard's turn'd out, and
+ o'er hedge and ditch rush,</l>
+                                 <l>Hounds, horses, and huntsmen all hard at his
+ brush;</l>
+                                 <l>They run him at length, and they have him at
+ bay,</l>
+                                 <l>And by scent and by view, cheat a long tedious
+ way.</l>
+                              </lg>
+                              <lg>
+                                 <l>While alike born for sports of the field or the
+ course,</l>
+                                 <l>Always sure to come thorough a staunch and fleet
+ horse;</l>
+                                 <l>When fairly run down, the fox yields up his
+ breath;</l>
+                                 <l>The high mettled racer—is in at the death.</l>
+                              </lg>
+                           </lg>
+                           <lg n="3">
+                              <head>III.</head>
+                              <lg>
+                                 <l>Grown aged, us'd up, and turn'd out of the
+ stud,</l>
+                                 <l>Lame, spavin'd and windgall'd, but yet with some
+ blood;</l>
+                                 <l>While knowing postilions his pedigree trace,</l>
+                                 <l>Tell his dam won the sweepstakes, his father
+ that race.</l>
+                              </lg>
+                              <lg>
+                                 <l>And what matches he run to the ostlers count
+ o'er,</l>
+                                 <l>As they loiter their time at some hedge
+ ale-house door;</l>
+                                 <l>While the harness sore galls, and the spurs
+ his sides goad,</l>
+                                 <l>The high-mettled racer's—a hack on the
+ road.</l>
+                              </lg>
+                           </lg>
+                           <lg n="4">
+                              <head>IV.</head>
+                              <lg>
+                                 <l>Till at last, having labour'd, drudg'd early and
+ late,</l>
+                                 <l>Bow'd down by degrees, he bends on to his fate;</l>
+                                 <l>Blind, old, lean, and feeble, he tugs round a
+ mill,</l>
+                                 <l>Or draws sand, till the sand of his hour-glass
+ stands still.</l>
+                              </lg>
+                              <lg>
+                                 <l>And now, cold and lifeless, expos'd to the
+ view,</l>
+                                 <l>In the very same cart which he yesterday
+ drew;</l>
+                                 <l>While a pitying crowd his sad relicks
+ surrounds,</l>
+                                 <l>The high-mettled racer—is sold to the
+ hounds.</l>
+                              </lg>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="31" facs="28"/>
+                  <speaker>Net.</speaker>
+                  <p> 
+                     <stage>(coming on)</stage> Coxcombs and ideots!</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>What's the matter, Nettle?</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Why there's that fool Ap Hugh drunk with ex<lb rend="hidden" type="hyphenInWord"/>tacy; because this
+ pretty lady has given him some encou<lb rend="hidden" type="hyphenInWord"/>ragement, he is sputtering, singing,
+ and ejaculating his transports in broken Welsh—here he comes.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Kif her a crate deal of burgundy, and kif her luff, and kif her
+ sweet kisses look you—oh! it is her pretty Patience.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>So Ap Hugh, how art lad?</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Hur is not Ap Hugh, hur is a Cod and a Jupiter, and moreover a
+ happy mortal to poot look you; oh! her could sing matricals like a dying
+ swan, and hur could caper as high as a plue mountain—oh! it is hur
+ pretty Patience.</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>How the ideot's taken with this wench!</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>It is not so crate a wench as you are a coxcombe, Mr. Nettle,
+ and Mr. thistle, and Mr. prior; you are an adder, and a fiper, and a snake;
+ for you have a sting in your mouth, and you carry poison in your worts, put
+ hur will make you eat your worts, poison and all.</p>
+               </sp>
+               <sp>
+                  <speaker>Pat.</speaker>
+                  <p>Pacify him.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>Oh yes, I'll pacify him—come, Ap Hugh, don't be in a
+ passion.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Hur is not in a passion, hur is in love—Oh! it is
+ pretty to be in love.</p>
+                  <l>
+                     <hi>When by hur side hur sits and sings,</hi>
+                  </l>
+                  <l>
+                     <hi>And cupids with their fluttring wings.—</hi>
+                     <stage>(sings)</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Better put him to bed.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Oh! I pray you let her be put to ped—where is hur
+ Patience? it is ferry pretty to be put to ped, <hi>when by hur side,
+ and</hi>— <stage>(sings)</stage> Is it not a pretty Patience, my little
+ Fitchet?</p>
+               </sp>
+               <sp>
+                  <pb n="32" facs="29"/>
+                  <speaker>Fid.</speaker>
+                  <p>Oh! she has the carnation of Titian, and the softness of
+ Carlo Dolce.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Oh! it is ferry tolce, and it is sweet, and it is exstatic,
+ and it is angels and cherubims, and hea<lb rend="hidden" type="hyphenInWord"/>vens, and paradice;
+ <stage>(seeing <hi>Patience</hi>)</stage> Oh! there is hur
+ Patience.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>Why you don't love her.</p>
+               </sp>
+               <sp>
+                  <speaker>Ap Hugh.</speaker>
+                  <p>Not luff her!</p>
+               </sp>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <lg>
+                              <lg>
+                                 <l>Do salmons love a lucid stream?</l>
+                                 <l>Do thirsty sheep love fountains?</l>
+                                 <l>Do Druids love a doleful theme?</l>
+                                 <l>Or goats the craggy mountains?</l>
+                              </lg>
+                              <lg>
+                                 <l>If it be true these things are so,</l>
+                                 <l>As truly she's my lovey,</l>
+                                 <l>And os wit I yng carie I</l>
+                                 <l>Rwy fi dwyn dy garie di</l>
+                                 <l>As—Ein dai tree pedwar pimp
+ chweck—go</l>
+                                 <l>The bells of Aberdovey.</l>
+                              </lg>
+                           </lg>
+                           <lg n="2">
+                              <head>II.</head>
+                              <lg>
+                                 <l>Do keffels love a whisp of hay?</l>
+                                 <l>Do sprightly kids love prancing?</l>
+                                 <l>Do curates crowdies love to play?</l>
+                                 <l>Or peasants morice-dancing?</l>
+                              </lg>
+                              <lg>
+                                 <l>If it be true, <hi>&amp;c.</hi>
+                                 </l>
+                              </lg>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <stage>
+                  <pb n="33" facs="30"/>Re-enter <hi>Nettle,</hi> to
+<hi>Fidget.</hi>
+               </stage>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Was there ever such a house?—full of confu<lb rend="hidden" type="hyphenInWord"/>sion and
+ extravagance!—just as I prophesied, the fel<lb rend="hidden" type="hyphenInWord"/>low's ruined.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>Who, poor Rupee?</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Finished, done up.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>I pity him from my very soul.</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>'Tis more than I do—a dissipated, low-born,
+ purse-proud—</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>He is gone to Sir Edward English's; let us fol<lb rend="hidden" type="hyphenInWord"/>low
+ him—we should all unite to comfort the poor fellow.</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Yes, yes, I'll comfort him with a good whole<lb rend="hidden" type="hyphenInWord"/>some lecture; an
+ upstart, pitiful— <stage>(going)</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>Poor, good-natured, honest, worthy—</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p> 
+                     <stage>(pushing <hi>Fidget</hi> before him)</stage> Get along
+ with your stupid pity.</p>
+               </sp>
+            </div>
+            <div n="7" type="scene">
+               <head>SCENE VII.</head>
+               <stage>—A Gothic hall.</stage>
+               <stage>
+                  <hi>Rupee</hi> speaking to a servant—afterwards
+<hi>English.</hi>
+               </stage>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Very well, Sir; I'll wait for your master here—There is
+ a noble, bold honour, in the actions of English, which I vainly endeavour to
+ imitate—that I love Lucy, is true—that I have seduced her, I
+ blush, and confess—but I hate to be forced into any thing—we
+ shall see what's to be done.—So, English, where are the mighty
+ perils I was threatened with? every thing here wears an air of tranquillity,
+ and the place announces itself by the title you have given it—the
+ Mansion of Content.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Mr. Rupee, be assur'd, the task I have under<lb rend="hidden" type="hyphenInWord"/>taken is an
+ unwilling one; but it proceeds from the purest esteem—I shall touch
+ you home, but you ought to thank me—he who has the courage to wring his
+ friend's heart, merits more from him, than he who flat<lb rend="hidden" type="hyphenInWord"/>ters his vanity.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Well, this is shaking hands before we go to fifty-cuffs, at
+ least—come, come, perhaps I am not so <pb n="34" facs="31"/> bad as you
+ imagine—I was thinking how to do Lucy justice as you came in.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Suppose it should not be in your power, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>What do you mean?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Suppose one of those marriages which were so many decoys
+ to seduction, and all which you thought counterfeit, should prove real.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Come, come, no false alarms.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>The alarm is too just—you are married.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Death, and Hell!—married!</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Your confidential friend, Mr. Ratsbane, has tricked you into a
+ marriage, not with a view of serving the lady, or you; but himself.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Infamous rascal!—I'll sacrifice him to appease that
+ justice he has so often violated.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Patience—the lady and the credentials are within; all that
+ troubles me at present, is the situation of poor Lucy.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Oh! villain!—till this moment I never look'd upon my
+ enormities otherwise than as youthful folly, and pardonable vivacity.</p>
+               </sp>
+            </div>
+            <div n="8" type="scene">
+               <head>SCENE VIII.</head>
+               <stage>—<hi>Lucy, English, Rupee.</hi>
+               </stage>
+               <sp>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <sp>
+                              <speaker>—LUCY.</speaker>
+                              <lg>
+                                 <l>Hear me, unkind and cruel, hear me,</l>
+                                 <l>In pity to the griefs I feel!</l>
+                                 <l>Or smiling turn and kindly cheer me,</l>
+                                 <l>Or here will I for ever kneel.</l>
+                              </lg>
+                              <lg>
+                                 <l>'Twixt life and death the soul to fetter,</l>
+                                 <l>Ah! who can bear't? My sentence speak:</l>
+                                 <l>Than love, bear it unblest 'twere better;</l>
+                                 <l>The woe-worn heart at once should break.</l>
+                              </lg>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="35" facs="32"/>
+                  <speaker>Rup.</speaker>
+                  <p>Was ever man so compleatly the object of his own contempt? By
+ one cursed contrivance of an insi<lb rend="hidden" type="hyphenInWord"/>dious knave, I am not only involved in a
+ marriage with some wretch I despise; but prevented from redressing a
+ beautiful creature I adore.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>I am happy to find these are your feelings; for this is the
+ very object to whom you are really married.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Come to my arms, possess my love, and partake my
+ fortune!</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>You have no fortune to give her, Rupee.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Nay, English, no more trials; you have car<lb rend="hidden" type="hyphenInWord"/>ried your point
+ handsomely.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>I wish they were but trials.</p>
+               </sp>
+               <stage>Enter <hi>Nettle, Fidget</hi> following.</stage>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Your servant, Mr. Rupee; 'tis all up with you, I find.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p> 
+                     <stage>[Coming on.]</stage> Where's Rupee? Oh lord! there's the
+ devil to pay at the house yonder—ten or twelve swarthy ill-looking
+ scoundrels are in possession—and our poor,
+ dear—Liberty-Hall is put under an arrest.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>This is a very comical jest, gentlemen; but if you have any
+ regard for your bones, you'll cary it no farther.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>Poor fellow, how he looks? How do you do, Rupee?—upon my
+ soul, I pity you.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Pity from thee!—thou worm, thou nothing!</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>Come, come, Mr. Rupee, be humble and know yourself.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>And are you to teach me, snarling mastiff? I'll go and know
+ the truth of all this. What villain can be hardy enough to pretend a claim to
+ my fortune?</p>
+               </sp>
+            </div>
+            <div n="9" type="scene">
+               <pb n="36" facs="33"/>
+               <head>SCENE IX.</head>
+               <stage>To them <hi>Sir Ephraim</hi> and <hi>Seabright.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>What do you think of me, you dog?</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>My father, thank heaven!</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>And well you may for putting a project in my head to shew you
+ the use of riches before you came to the possession of them.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>I do from my soul, sir—Your attention to my welfare
+ sets my unworthiness before me in such a light—</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Well, well, profit by the reflection, for fear I should take
+ it in my head to die in good earnest.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Far, far, be that day—No, sir, live, and let me merit
+ your forgiveness.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Why I believe there are hopes of your re<lb rend="hidden" type="hyphenInWord"/>formation since this
+ last conduct to Lucy.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>How, sir! do you approve?</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Why this surpasses my hopes! I thought nothing could have
+ moved you on that subject.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Not while there appeared to be a design on my fortune: but as
+ it is, it is your affair—mine, the cause of every honest man.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>But in the midst of all this, where's my sister!</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Who, the Indian adventurer? Gone off with my lord, to be
+ sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>A truce, a truce, I beseech you—I confess my<lb rend="hidden" type="hyphenInWord"/>self
+ conquered, and call for quarter.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>And I give it you: My lord is safe, and to<lb rend="hidden" type="hyphenInWord"/>morrow we'll
+ request his repayment of the five thousand pounds.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>But my sister.</p>
+               </sp>
+            </div>
+            <div type="scene">
+               <pb n="37" facs="34"/>
+               <head>SCENE the last.</head>
+               <stage>—To them <hi>Aurelia.</hi>
+               </stage>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>I am here, and happy in this proof of my dear brother's
+ affections.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>My dear Aurelia!</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Well, ma'am, have you nothing to say to me?</p>
+               </sp>
+               <sp>
+                  <speaker>Aur.</speaker>
+                  <p>Yes: you have been very good, and I'll requite your kindness
+ in any way that you shall ask and my fa<lb rend="hidden" type="hyphenInWord"/>ther approve.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>That's generous!</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>How's this? signing and sealing without the lawyer! 'tis too
+ late for him or the parson to-night; but that's no reason we should not
+ have the fiddles.</p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>What, the fiddles! oh, I'll go and fetch 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Net.</speaker>
+                  <p>And I'll get away from such a set of fools and madmen.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Well, Ephraim, you have escap'd a pretty tumble.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>Oh, sir, I am giddy when I think of the pre<lb rend="hidden" type="hyphenInWord"/>cipice.</p>
+               </sp>
+               <sp>
+                  <speaker>Eng.</speaker>
+                  <p>Never was such a providential intervention; where must your
+ career have finished? when in four and twenty hours you have shut your two
+ dearest relations out of your house to make room for a stranger, to whom
+ you have lent your service, your coach, and your money, to seduce your own
+ sister.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Eph.</speaker>
+                  <p>Because, forsooth, this stranger happened to be a lord,
+ and those are the hopeful idols you have wor<lb rend="hidden" type="hyphenInWord"/>shipped in your temple of
+ Liberty.</p>
+               </sp>
+               <sp>
+                  <speaker>Rup.</speaker>
+                  <p>I resign it with pleasure, Sir—This day has convinced
+ me, that freedom is no longer the gift of Hea<lb rend="hidden" type="hyphenInWord"/>ven, when it degenerates into
+ licentiousness, and that a work began in the Temple of Liberty is best
+ sanctified when finished in the mansion of content.</p>
+               </sp>
+               <sp>
+                  <pb n="38" facs="35"/>
+                  <p> 
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <head>AIR.</head>
+                           <sp>
+                              <speaker>Lucy.</speaker>
+                              <l>No longer slow-consuming care</l>
+                              <l>And grief by turns devour me:</l>
+                              <l>My heart's grown light, I tread on air,</l>
+                              <l>Delicious joys o'erpow'r me.</l>
+                           </sp>
+                           <sp>
+                              <speaker>Cho.</speaker>
+                              <l>No low'ring clouds shall overwhelm</l>
+                              <l>Henceforth our hopes on folly's sea;</l>
+                              <l>For wary prudence takes the helm,</l>
+                              <l>To guide the bark of Liberty.</l>
+                           </sp>
+                           <sp>
+                              <speaker>Eng.</speaker>
+                              <l>Increasing blessings may ye prove!</l>
+                              <l>For nobly hast thou won her;</l>
+                              <l>They only pay the price of love</l>
+                              <l>Who purchase it with honor.</l>
+                           </sp>
+                           <sp>
+                              <speaker>Cho.</speaker>
+                              <l>No low'ring, &amp;c.</l>
+                           </sp>
+                           <sp>
+                              <speaker>Aur.</speaker>
+                              <l>Like this good creature, prithee say,</l>
+                              <l>Was ever such another?</l>
+                              <l>Oh, that the sister's love could pay</l>
+                              <l>Thy friendship to the brother!</l>
+                           </sp>
+                        </body>
+                     </floatingText>
+                  </p>
+               </sp>
+            </div>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,646 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sober advice from Horace: to the young gentlemen about town. As deliver'd in his second sermon. Imitated in the manner of Mr. Pope. Together with the original text, as restored by the Rev'd. R. Bentley ... And some remarks on the version.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023192.000</idno>
+            <idno type="docno">CW3311149665</idno>
+            <idno type="ecll">0246800200</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sober advice from Horace: to the young gentlemen about town. As deliver'd in his second sermon. Imitated in the manner of Mr. Pope. Together with the original text, as restored by the Rev'd. R. Bentley ... And some remarks on the version.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+                  <author>Horace.</author>
+               </titleStmt>
+               <extent>[3],10,10,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for T. Boreman; sold by the booksellers of London and Westminster,</publisher>
+                  <date>[1734]</date>
+                  <idno type="TCP">K023192.000</idno>
+                  <idno type="docno">CW3311149665</idno>
+                  <idno type="ecll">0246800200</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Alexander Pope.</note>
+                  <note>Parallel Latin and English texts; duplicate pagination.</note>
+                  <note>P.5, line 3 reads "amiss".</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P968</note>
+                  <note>Griffith, 347</note>
+                  <note>English Short Title Catalog, ESTCT5748.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>SOBER ADVICE FROM HORACE, TO THE Young GENTLEMEN about Town.</p>
+            <p>As deliver'd in his SECOND SERMON.</p>
+            <p>Imitated in the Manner of Mr. <hi>POPE.</hi>
+            </p>
+            <p>Together with the ORIGINAL TEXT, as <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                  <desc>illegible</desc>
+               </gap> by the Rev<hi rend="sup">d.</hi> R. BENTLEY, Doctor of Divinity. And some Remarks on the VERSION.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>T. Boreman,</hi> at the Cock on <hi>Ludgate-Hill;</hi> and sold by the Booksellers of <hi>London</hi> and <hi>Westminster.</hi> [Price One Shilling.]</p>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <head>TO <hi>ALEXANDER POPE,</hi> 
+               <abbr>Esq</abbr>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have so great a Trust in your Indulgence toward me, as to believe you cannot but Patronize this Imitation, so much in your own Manner, and whose Birth I may truly say is owing to you. In that Confidence, I would not suppress the Criticisms made upon it by the <hi>Reverend Doctor,</hi> the rather, since he has promised to <hi>mend the Faults</hi> in the next Edition, with the same Goodness he has practised to <hi>Milton.</hi> I hope you will believe that while I express my Regard for you, it is only out of Modesty I conceal my Name; since, tho' perhaps, I may not profess myself your Admirer so much as some others, I cannot but be, with as much inward Respect, Good-will, and Zeal as any Man,</p>
+            <closer>
+               <salute>Dear Sir,</salute>
+               <signed>Your most Affectionate AND Faithful Servant.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="Latin" type="version">
+            <pb facs="3"/>
+            <head>Q. HORATII FLACCI</head>
+            <head type="sub">SERMO II. L. I.</head>
+            <head type="sub">TEXTUM <hi>Recensuit</hi> V. R. RICARDUS BENTLEIUS, S.T.P. <note place="bottom">[NOTAE BENTLEIANAE.] <hi>Imitated.</hi> Why Imitated? Why not translated? <hi>Odi Imitatores!</hi> A Metaphrast had not turned <hi>Tigellius,</hi> and <hi>Fusidius, Malchinus</hi> and <hi>Gargonius</hi> (for I say <hi>Malchinus,</hi> not <hi>Malthinus,</hi> and <hi>Gargonius,</hi> not <hi>Gorgonius</hi>) into so many LADIES. <hi>Benignus, hic, hunc,</hi> &amp;c. all of the Masculine Gender: Every School-boy knows more than our Imitator.</note>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>Mbubajarum collegia, pharmacopolae,</l>
+               <l>Mendici, mimae, balatrones; hoc genus omne</l>
+               <l>Maestum ac sollicitum est cantoris morte Tigelli:</l>
+               <l>Quippe <hi>Benignus</hi> erat—</l>
+               <l>—Contra hic, ne prodigus esse</l>
+               <l>Dicatur, metuens, inopi dare nolit amico,</l>
+               <l>Frigus quo duramque famem depellere possit.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="4"/>
+               <l>Hunc si perconteris, avi cur atque parentis</l>
+               <l>Praeclaram ingrata seringat malus ingluvie rem,</l>
+               <l>Omnia conductis coemens obsonia nummis:</l>
+               <l>"Sordidus, atque animi quod parvi nolit haberi,"</l>
+               <l>Respondet. laudatur ab his, culpatur ab illis.</l>
+            </lg>
+            <lg>
+               <l>Fufidius vappae famam timet ac nebulonis,</l>
+               <l>Dives agris, dives positis in fenore nummis.</l>
+               <l>Quinas hic capiti mercedes exsecat; atque</l>
+               <l>Quanto perditior quisque est, tanto acrius urguet.</l>
+               <l>Nomina sectatur, modo sumta veste virili</l>
+               <l>Sub patribus duris, tironum. Maxime, quis non,</l>
+               <l>Juppiter, exclamat, simul atque audivit? "At in se</l>
+               <l>"Pro quaestu sumtum facit hic". Vix credere possis</l>
+               <l>Quam sibi non sit amicus: ita ut <hi>Pater</hi> ille, Terenti</l>
+               <l>Fabula quem miserum <hi>gnato</hi> vixisse <hi>fugato</hi>
+               </l>
+               <l>Inducit, non se pejus cruciaverit atque hic.</l>
+            </lg>
+            <lg>
+               <l>Si quis nunc quaerat, Quo res haec pertinet? Illuc:</l>
+               <l>
+                  <hi>Dum vitant stulti vitia, in contraria currunt.</hi>
+               </l>
+               <l>
+                  <pb n="3" facs="7"/>Malchinus tunicis demissis ambulat: est qui</l>
+               <l>
+                  <hi>Inguen</hi> ad <hi>obscaenum</hi> subductis usque facetus:</l>
+               <l>Pastillos Rufillus olet, Gargonius hircum.</l>
+               <l>Nil medium est. sunt qui nolint tetigisse, nisi illas,</l>
+               <l>Quarum subsuta talos tegat instita veste:</l>
+               <l>Contra alius nullam, nisi olente in <hi>fornice</hi> stantem.</l>
+            </lg>
+            <lg>
+               <l>Quidam <hi>notus homo</hi> cum exiret fornice; "Macte</l>
+               <l>"Virtute esto, inquit sententia dia Catonis,</l>
+               <l>"Nam simul ac venas inflavit tetra libido,</l>
+               <l>"Huc juvenes aequum est descendere, non alienas</l>
+               <l>"Permolere uxores.—</l>
+            </lg>
+            <lg>
+               <l>—Nolim laudarier, inquit,</l>
+               <l>
+                  <hi>Sic me, mirator</hi> CUNNI CUPIENNIUS ALBI <note place="bottom" n="*">CUNNI CUPIENNIUS ALBI, <hi>Hoary Shrine.</hi> Here the Imitator grievously errs, <hi>Cunnus albus</hi> by no means signifying a <hi>white</hi> or <hi>grey Thing,</hi> but a Thing under a <hi>white</hi> or <hi>grey Garment,</hi> which thing may be either black, brown, red, or parti-coloured. BENT.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Audire est operae pretium, procedere recte</l>
+               <l>Qui moechos non voltis, ut omni parte laborent;</l>
+               <l>
+                  <pb n="4" facs="9"/>Utque illis multo corrupta dolore voluptas,</l>
+               <l>Atque haec rara, cadat dura inter saepe pericla.</l>
+               <l>Hic se praecipitem tecto dedit: ille flagellis</l>
+               <l>Ad mortem caesus: fugiens hic decidet acrem</l>
+               <l>Praedonum in turbam: dedit hic pro corpore num<lb rend="hidden" type="hyphenInWord"/>mos:</l>
+               <l>Hunc perminxerunt calones; quin etiam illud</l>
+               <l>
+                  <hi>Accidit, ut</hi> 
+                  <note place="bottom" n="*">—TESTIS CAUDAMQUE SALACEM <hi>Demeterent serro</hi> (for so I say, and not <hi>Demeteret</hi> ferrum) <hi>Bleeds in Person.</hi> Silly! was he let Blood by a Surgeon? how short is this of the Amputation of the <hi>Testes</hi> and <hi>Cauda salax?</hi> What Ignorance also of Ancient Learning appears in his shallow Translation of <hi>Perminxerunt,</hi> totally missing the Mark, and not entring into the deep Meaning of the Author.</note> 
+                  <hi>cuidam</hi> TESTIS, CAUDAMQUE SALACEM</l>
+               <l>Demeterent ferro. jure omnes. Galba negabat.</l>
+            </lg>
+            <lg>
+               <l>Tutior at quanto merx est in classe secunda!</l>
+               <l>Libertinarum dico: Sallustius in qua</l>
+               <l>Non minus insanit, quam qui moechatur. at hic si,</l>
+               <l>Qua res, qua ratio suaderet, quaque modeste</l>
+               <l>Munifico esse licet, vellet bonus atque benignus</l>
+               <l>Esse; daret quantum satis esset, nec sibi damno</l>
+               <l>Dedecorique foret. verum hoc se amplectitur uno,</l>
+               <l>
+                  <pb n="5" facs="11"/>Hoc amat &amp; laudat: Matronam nullam ego tango.</l>
+            </lg>
+            <lg>
+               <l>Ut quondam Marsaeus amator Originis, ille</l>
+               <l>Qui patrium mimae donat fundumque laremque,</l>
+               <l>Nilfuerit mi, inquit, cum uxoribus umquam alienis.</l>
+               <l>Verum est cum mimis, est cum meretricibus: unde</l>
+               <l>Fama malum gravius, quam res, trahit. an tibi abunde</l>
+               <l>Personam satis est, non illud, quicquid ubique</l>
+               <l>Officit, evitare? bonam deperdere famam,</l>
+               <l>Rem patris oblimare, malum est ubicumque. quid inter</l>
+               <l>Est in matrona, ancilla, peccesne togata?</l>
+            </lg>
+            <lg>
+               <l>Villius in Fausta Sullae gener, hoc miser uno</l>
+               <l>Nomine deceptus, poenas dedit usque, superque</l>
+               <l>Quam satis est; pugnis caesus, ferroque petitus,</l>
+               <l>Exclusus fore, cum Longarenus foret intus.</l>
+            </lg>
+            <lg>
+               <l>Huic si, mutonis verbis, mala tanta videnti</l>
+               <l>Diceret haec animus: Quid vis tibi? numquid ego a te</l>
+               <l>
+                  <pb n="6" facs="13"/>Magno prognatum deposco consule <note place="bottom" n="*">
+                     <q>
+                        <l>Magno prognatum deposco consule <hi>Cunnum.</hi>
+                        </l>
+                     </q>
+                     <q>
+                        <l>
+                           <hi>A Thing descended from the Conqueror.</hi>
+                        </l>
+                     </q>
+                     <p>A Thing descended—why <hi>Thing?</hi> the Poet has it <hi>Cunnum;</hi> which, therefore, boldly place here. BENT.</p>
+                  </note> CUNNUM,</l>
+               <l>Velatumque stola, mea cum conferbuit ira?</l>
+               <l>Quid responderet? Magno patre nata puella est.</l>
+            </lg>
+            <lg>
+               <l>At quanto meliora monet, pugnantiaque istis</l>
+               <l>Dives opis natura suae! ut si modo recte</l>
+               <l>Dispensare velis, ac non fugienda petendis</l>
+               <l>Inmiscere.</l>
+               <l>—Tuo vitio, rerumne labores,</l>
+               <l>Nil referre putas? quare, ne poeniteat te,</l>
+               <l>Desine matronas sectarier: unde laboris</l>
+               <l>Plus haurire mali est, quam ex re decerpere fructus.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="15"/>
+               <l>Nec magis huic, inter niveos viridisque lapillos</l>
+               <l>Sit licet, o Cerinthe, tuo tenerum est femur, aut crus</l>
+               <l>Rectius: atque etiam melius persaepe togatae est.</l>
+               <l>Adde huc, quod mercem sine fucis gestat; aperte</l>
+               <l>Quod venale habet, ostendit; neque si quid honesti est</l>
+               <l>Jactat habetque palam, quaerit quo turpia celet.</l>
+               <l>Regibus hic mos est, ubi equos mercantur; opertos</l>
+               <l>Inspiciunt: ne si facies, ut saepe, decora</l>
+               <l>Molli fulta pede est; emtorem ducat hiantem,</l>
+               <l>Quod pulchrae clunes, breve quod caput, ardua cer<lb rend="hidden" type="hyphenInWord"/>vix.</l>
+               <l>Hoc illi recte. Tu corporis optima Lyncei</l>
+               <l>Contemplare occulis; Hypsaea caecior, illa</l>
+               <l>Quae mala sunt, spectas. O crus, o brachia! verum</l>
+               <l>Depugis, nasuta, brevi latere, ac pede longo est.</l>
+            </lg>
+            <lg>
+               <l>Matronae, praeter faciem, nil cernere possis;</l>
+               <l>Caetera, ni Catia est, demissia veste tegentis.</l>
+               <l>
+                  <pb n="8" facs="17"/>Si interdicta petes, vallo circumdata, (nam te</l>
+               <l>Hoc facit insanum) multae tibi tum officient res;</l>
+               <l>Custodes, lectica, ciniflones, parasitae;</l>
+               <l>Ad talos stola demissa, &amp; circumdata palla:</l>
+               <l>Plurima, quae invideant pure adparere tibi rem.</l>
+               <l>Altera nil obstat: Cois tibi pene videre est</l>
+               <l>Ut nudam; ne crure malo, ne sit pede turpi:</l>
+               <l>Metiri possis oculo latus. an tibi mavis</l>
+               <l>Insidias fieri, pretiumque avellier, ante</l>
+               <l>Quam mercem ostendi?</l>
+               <l>—LEPOREM venator ut alta</l>
+               <l>In nive sectetur, positum sic tangere nolit:</l>
+               <l>Cantat, &amp; adponit, MEUS est amor huic similis: nam</l>
+               <l>Transvolar in medio posita, &amp; fugientia captat.</l>
+               <l>Hiscine versiculis speras tibi posse dolores,</l>
+               <l>Atque aestus, curasque gravis e pectore tolli?</l>
+               <l>Nonne, cupidinibus statuat natura modum quem,</l>
+               <l>Quid latura, sibi quid sit dolitura negatum,</l>
+               <l>Quacrere plus prodest; &amp; inane abscindere soldo?</l>
+               <l>
+                  <pb n="9" facs="19"/>Num, tibi cum faucis urit sitis, aurea quaeris</l>
+               <l>Pocula? num esuriens fastidis omnia praeter</l>
+               <l>
+                  <note place="bottom" n="*">
+                     <hi>PAVONEM, Pea-Chicks]</hi> Not ill-render'd, meaning a <hi>young</hi> or <hi>soft Piece,</hi> Angli<gap resp="#oxf" extent="1 letter" rend="content:•">
+                        <desc>illegible</desc>
+                     </gap>e <hi>a Tid-bit:</hi> such as that Delicate Youth <hi>Cerinthus,</hi> whose Flesh, our <hi>Horace</hi> expressly says, was as <hi>tender as a Lady's,</hi> and our Imitator turn'd
+<q>
+                        <l>Such Nicety, as Lady or Lord F<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                              <desc>blank</desc>
+                           </gap>
+                        </l>
+                     </q>
+not amiss truly; it agrees with My own Reading of <hi>tuo femore,</hi> instead of <hi>tuum femur,</hi> and savours of the true Taste of Antiquity. BENT.</note> Pavonem, rhombumque? tument tibi cum in<lb rend="hidden" type="hyphenInWord"/>guina, num, si</l>
+               <l>Ancilla aut verna est praesto puer, impetus in quem</l>
+               <l>Continuo fiat, malis tentigine rumpi?</l>
+               <l>Non ego: namque <hi>parabilem amo venerem, faci<lb rend="hidden" type="hyphenInWord"/>lemque.</hi>
+               </l>
+               <l>ILLAM, Post paullo, Sed pluris, Si exierit vir,</l>
+               <l>Gallis: Hanc, Philodemus ait sibi, quae neque magno</l>
+               <l>Stet pretio; nec cunctetur, cum est jussa venire.</l>
+               <l>Candida rectaque sit; munda hactenus, ut neque longa,</l>
+               <l>Nec magis alba velit, quam det natura, videri.</l>
+               <l>Haec, ubi supposuit dextro corpus mihi laevum,</l>
+               <l>Ilia &amp; Egeria est: do nomen quodlibet illi.</l>
+               <l>
+                  <pb n="10" facs="21"/>Nec vereor, ne, <hi>dum futuo,</hi> vir rure recurrat;</l>
+               <l>Janua frangatur; latret canis; undique magno</l>
+               <l>Pulsa domus strepitu resonet: ne pallida lecto</l>
+               <l>Desiliat mulier; miseram se conscia clamet;</l>
+               <l>Cruribus haec metuat, doti haec deprensa, egomet mi.</l>
+               <l>Discincta tunica fugienda est, ac pede nudo;</l>
+               <l>Ne nummi pereant, aut puga, aut denique fama.</l>
+               <l>Deprendi miserum est: Fabio vel judice vincam.</l>
+            </lg>
+         </div>
+         <div n="English" type="version">
+            <pb facs="5"/>
+            <head>SOBER ADVICE From <hi>HORACE.</hi>
+            </head>
+            <head type="sub">Imitated from his SECOND SERMON.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>HE Tribe of Templars, Play'rs, Apothe<lb rend="hidden" type="hyphenInWord"/>caries,</l>
+               <l>Pimps, Poets, Wits, Lord <hi>Fanny</hi>'s, Lady <hi>Mary</hi>'s,</l>
+               <l>And all the Court in Tears, and half the Town,</l>
+               <l>Lament dear charming <hi>O<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>f<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ld,</hi> dead and gone!</l>
+               <l>Engaging <hi>O<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>f<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ld!</hi> who, with Grace and Ease,</l>
+               <l>Could joyn the Arts, to ruin, and to please.</l>
+            </lg>
+            <lg>
+               <l>Not so, who of Ten Thousand gull'd her Knight,</l>
+               <l>Then ask'd Ten Thousand for a second Night:</l>
+               <l>The Gallant too, to whom she pay'd it down;</l>
+               <l>Liv'd to refuse that Mistress half a Crown.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="6"/>
+               <l>
+                  <hi>Con. Ph-l-ps</hi> cries, "A sneaking Dog I hate."</l>
+               <l>That's all three Lovers have for their Estate!</l>
+               <l>"Treat on, treat on," is her eternal Note,</l>
+               <l>And Lands and Tenements go down her Throat.</l>
+               <l>Some damn the Jade, and some the Cullies blame,</l>
+               <l>But not Sir <hi>H<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t,</hi> for he does the same.</l>
+            </lg>
+            <lg>
+               <l>With all a Woman's Virtues but the P<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>x,</l>
+               <l>
+                  <hi>Fufidia</hi> thrives in Money, Land, and Stocks:</l>
+               <l>For Int'rest, ten <hi>per Cent.</hi> her constant Rate is;</l>
+               <l>Her Body? hopeful Heirs may have it <hi>gratis.</hi>
+               </l>
+               <l>She turns her very Sister to a Job,</l>
+               <l>And, in the Happy Minute, picks your Fob:</l>
+               <l>Yet starves herself, so little her own Friend,</l>
+               <l>And thirsts and hungers only at one End:</l>
+               <l>A Self-Tormentor, worse than (in the <note place="bottom" n="*">
+                     <hi>See</hi> My <hi>Terence, Heautontimorumenos:</hi> There is nothing in Dr. <hi>Hare's.</hi> BENT.</note> Play)</l>
+               <l>The Wretch, whose Av'rice drove his <hi>Son</hi> away.</l>
+            </lg>
+            <lg>
+               <l>But why all this? Beloved, 'tis my Theme:</l>
+               <l>"Women and Fools are always in Extreme.</l>
+               <l>
+                  <hi>Rufa</hi>'s at either end a Common-Shoar,</l>
+               <l>Sweet <hi>Moll</hi> and <hi>Jack</hi> are Civet-Cat and Boar:</l>
+               <l>
+                  <pb n="3" facs="8"/>
+Nothing in Nature is so lewd as <hi>Peg,</hi>
+               </l>
+               <l>Yet, for the World, she would not shew her Leg!</l>
+               <l>While bashful <hi>Jenny,</hi> ev'n at Morning-Prayer,</l>
+               <l>
+                  <note place="bottom" n="*">A Verse taken from Mr. <hi>Pope.</hi>
+                  </note> Spreads her Fore-Buttocks to the Navel bare.</l>
+               <l>But diff'rent Taste in diff'rent Men prevails,</l>
+               <l>And one is fired by Heads, and one by Tails;</l>
+               <l>Some feel no Flames but at the <hi>Court</hi> or <hi>Ball,</hi>
+               </l>
+               <l>And others hunt white Aprons in the <hi>Mall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Lord of <hi>Lo<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n,</hi> chancing to remark</l>
+               <l>A <hi>noted Dean</hi> much busy'd in the Park,</l>
+               <l>"Proceed (he cry'd) proceed, my Reverend Brother,</l>
+               <l>"'Tis <hi>Fornicatio simplex,</hi> and no other:</l>
+               <l>"Better than lust for Boys, with <hi>Pope</hi> and <hi>Turk,</hi>
+               </l>
+               <l>"Or others Spouses, like <note place="bottom" n="†">Others read <hi>Lord-Mayor.</hi>
+                  </note> my Lord of <gap resp="#oxf" extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>May no such Praise (cries <hi>J<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s</hi>) e'er be mine!</l>
+               <l>
+                  <hi>J<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s,</hi> who bows at <hi>Hi<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>sb<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>w</hi>'s <hi>hoary Shrine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>All you, who think the <hi>City</hi> ne'er can thrive,</l>
+               <l>Till ev'ry Cuckold-maker's flea'd alive;</l>
+               <l>
+                  <pb n="4" facs="10"/> Attend, while I their Miseries explain,</l>
+               <l>And pity Men of Pleasure still in Pain!</l>
+               <l>Survey the Pangs they bear, the Risques they run,</l>
+               <l>Where the most lucky are but last undone.</l>
+               <l>See wretched <hi>Monsieur</hi> flies to save his Throat,</l>
+               <l>And quits his Mistress, Money, Ring, and Note!</l>
+               <l>
+                  <hi>K</hi>
+                  <gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap> of his Footman's borrow'd Livery stript,</l>
+               <l>By worthier Footmen pist upon and whipt!</l>
+               <l>Plunder'd by Thieves, or Lawyers which is worse,</l>
+               <l>One bleeds in Person, and one bleeds in Purse;</l>
+               <l>This meets a Blanket, and that meets a Cudgel—</l>
+               <l>And all applaud the Justice—All, but <note place="bottom" n="*">A Gentleman as celebrated for his Gallantries as his Politicks; an Entertaining History of which may be published, without the least Scandal on the Ladies. E. CURL.</note> 
+                  <hi>B<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How much more safe, dear Countrymen! his State,</l>
+               <l>Who trades in Frigates of the second Rate?</l>
+               <l>And yet some Care of <hi>S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>st</hi> should be had,</l>
+               <l>Nothing so mean for which he can't run mad;</l>
+               <l>His Wit confirms him but a Slave the more,</l>
+               <l>And makes a Princess whom he found a Whore.</l>
+               <l>The Youth might save much Trouble and Expence,</l>
+               <l>Were he a Dupe of only common Sense.</l>
+               <l>
+                  <pb n="5" facs="12"/> But here's his point; A Wench (he cries) for me!</l>
+               <l>"I never touch a Dame of Quality.</l>
+            </lg>
+            <lg>
+               <l>To <hi>P<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>r</hi>'s Bed no Actress comes amiss,</l>
+               <l>He courts the whole <hi>Personae Dramatis:</hi>
+               </l>
+               <l>He too can say, "With Wives I never sin."</l>
+               <l>But Singing-Girls and Mimicks draw him in.</l>
+               <l>Sure, worthy Sir, the Diff'rence is not great,</l>
+               <l>With <hi>whom</hi> you lose your Credit and Estate?</l>
+               <l>This, or that Person, what avails to shun?</l>
+               <l>What's wrong is wrong, wherever it be done:</l>
+               <l>The Ease, Support, and Lustre of your Life,</l>
+               <l>Destroy'd alike with Strumpet, Maid, or Wife.</l>
+            </lg>
+            <lg>
+               <l>What push'd poor <hi>E<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s</hi> on th' Imperial Whore?</l>
+               <l>'Twas but to be where CHARLES had been before.</l>
+               <l>The fatal Steel unjustly was apply'd,</l>
+               <l>When not his Lust offended, but his Pride:</l>
+               <l>Too hard a Penance for defeated Sin,</l>
+               <l>Himself shut out, and <hi>Jacob Hall</hi> let in.</l>
+            </lg>
+            <lg>
+               <l>Suppose that honest Part that rules us all,</l>
+               <l>Should rise, and say—"Sir <hi>Robert!</hi> or Sir <hi>Paul!</hi>
+               </l>
+               <l>
+                  <pb n="6" facs="14"/> "Did I demand, in my most vig'rous hour,</l>
+               <l>"A Thing descended from the Conqueror?</l>
+               <l>"Or when my pulse beat highest, ask for any</l>
+               <l>"Such Nicety, as Lady or Lord <hi>Fanny?</hi>—</l>
+               <l>What would you answer? Could you have the Face,</l>
+               <l>When the poor Suff'rer humbly mourn'd his Case,</l>
+               <l>To cry, "You weep the Favours of her <note place="bottom" n="†">Spoken not of one particular Dutchess, but of divers Dutchesses.</note> GRACE?</l>
+            </lg>
+            <lg>
+               <l>Hath not indulgent Nature spread a Feast,</l>
+               <l>
+                  <note place="bottom" n="{inverted †}">The original Manuscript has it,<q>
+                        <l>—Spread a Feast</l>
+                        <l>Of—enough for Man, enough for Beast:</l>
+                     </q> but we prefer the present, as the purer Diction.</note> And giv'n enough for Man, enough for Beast?</l>
+               <l>But Man corrupt, perverse in all his ways,</l>
+               <l>In search of Vanities from Nature strays:</l>
+               <l>Yea, tho' the Blessing's more than he can use,</l>
+               <l>Shuns the permitted, the forbid pursues!</l>
+               <l>Weigh well the Cause from whence these Evils spring,</l>
+               <l>'Tis in thyself, and not in God's good Thing:</l>
+               <l>Then, lest Repentance punish such a Life,</l>
+               <l>Never, ah, never! kiss thy Neighbour's Wife.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="16"/>
+               <l>
+                  <hi>First,</hi> Silks and Diamonds veil no finer Shape,</l>
+               <l>Or plumper Thigh, than lurk in humble Crape:</l>
+               <l>And <hi>secondly,</hi> how innocent a <hi>Belle</hi>
+               </l>
+               <l>Is she who shows what Ware she has to sell;</l>
+               <l>Not Lady-like, displays a milk-white Breast,</l>
+               <l>And hides in sacred Sluttishness the rest.</l>
+            </lg>
+            <lg>
+               <l>Our ancient Kings (and sure those Kings were wise,</l>
+               <l>Who judg'd themselves, and saw with their own Eyes)</l>
+               <l>A War-horse never for the Service chose,</l>
+               <l>But ey'd him round, and stript off all the Cloaths;</l>
+               <l>For well they knew, proud Trappings serve to hide</l>
+               <l>A heavy Chest, thick Neck, or heaving Side.</l>
+               <l>But Fools are ready Chaps, agog to buy,</l>
+               <l>Let but a comely Fore-hand strike the Eye:</l>
+               <l>No Eagle sharper, every Charm to find,</l>
+               <l>To all defects, <hi>Ty<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>y</hi> not so blind:</l>
+               <l>Goose-rump'd, Hawk-nos'd, Swan-footed, is my Dear?</l>
+               <l>They'l praise her <hi>Elbow, Heel,</hi> or <hi>Tip o'th' Ear.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A Lady's Face is all you see undress'd;</l>
+               <l>(For none but Lady M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap> show'd the Rest)</l>
+               <l>
+                  <pb n="8" facs="18"/>
+But if to Charms more latent you pretend,</l>
+               <l>What Lines encompass, and what Works defend!</l>
+               <l>Dangers on Dangers! obstacles by dozens!</l>
+               <l>Spies, Guardians, Guests, old Women, Aunts, and Cozens!</l>
+               <l>Could you directly to her Person go,</l>
+               <l>Stays will obstruct above, and Hoops below,</l>
+               <l>And if the Dame says yes, the Dress says no.</l>
+               <l>Not thus at <hi>N<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>dh<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>m</hi>'s; your judicious Eye</l>
+               <l>May measure there the Breast, the Hip, the Thigh!</l>
+               <l>And will you run to Perils, Sword, and Law,</l>
+               <l>All for a Thing you ne're so much as <hi>saw?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>"The Hare once seiz'd, the Hunter heeds no more</l>
+               <l>"The little Scut he so pursu'd before,</l>
+               <l>"Love follows flying Game (as <hi>Sucklyn</hi> sings)</l>
+               <l>"And 'tis for that the wanton Boy has Wings."</l>
+               <l>Why let him Sing—but when you're in the Wrong,</l>
+               <l>Think you to cure the Mischief with a Song?</l>
+               <l>Has Nature set no bounds to wild Desire?</l>
+               <l>No Sense to guide, no Reason to enquire,</l>
+               <l>What solid Happiness, what empty Pride?</l>
+               <l>And what is best indulg'd, or best deny'd?</l>
+               <l>
+                  <pb n="9" facs="20"/> If neither Gems adorn, nor Silver tip</l>
+               <l>The flowing Bowl, will you not wet your Lip?</l>
+               <l>When sharp with Hunger, scorn you to be fed,</l>
+               <l>Except on <hi>Pea-Chicks,</hi> at the <hi>Bedford-head?</hi>
+               </l>
+               <l>Or, when a tight, neat Girl, will serve the Turn,</l>
+               <l>In errant Pride continue stiff, and burn?</l>
+               <l>I'm a plain Man, whose Maxim is profest,</l>
+               <l>"The Thing at hand is of all Things the <hi>best.</hi>
+               </l>
+               <l>But Her who will, and then will not comply,</l>
+               <l>Whose Word is <hi>If, Perhaps,</hi> and <hi>By-and-by,</hi>
+               </l>
+               <l>Z<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>ds! let some Eunuch or Platonic take—</l>
+               <l>So <hi>B<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t</hi> cries, Philosopher and Rake!</l>
+               <l>Who asks no more (right reasonable Peer)</l>
+               <l>Than not to wait too long, nor pay too dear.</l>
+               <l>Give me a willing Nymph! 'tis all I care,</l>
+               <l>Extremely clean, and tolerably fair,</l>
+               <l>Her Shape her own, whatever Shape she have,</l>
+               <l>And just that White and Red which Nature gave.</l>
+               <l>Her I transported touch, transported view,</l>
+               <l>And call her <hi>Angel! Goddess! M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ue!</hi>
+               </l>
+               <l>
+                  <pb n="10" facs="22"/> No furious Husband thunders at the Door;</l>
+               <l>No barking Dog, no Houshold in a Roar;</l>
+               <l>From gleaming Swords no shrieking Women run;</l>
+               <l>No wretched Wife cries out, <hi>Undone! Undone!</hi>
+               </l>
+               <l>Seiz'd in the Fact, and in her Cuckold's Pow'r,</l>
+               <l>She kneels, she weeps, and worse! resigns her Dow'r.</l>
+               <l>Me, naked me, to Posts, to Pumps they draw,</l>
+               <l>To Shame eternal, or eternal Law.</l>
+               <l>Oh Love! be deep Tranquility my Luck! <note place="bottom" n="*">Here the Imitator errs. The <hi>Latin</hi> has it <hi>dum futuo,</hi> a most necessary Circum<lb rend="hidden" type="hyphenInWord"/>stance! which ought to be <hi>restored;</hi> and may, by the change of a <hi>single Word,</hi> be the <hi>same</hi> with that of the Author, and one which wou'd marvelousty agree with the Ladies in the second Line. BENT.</note>
+               </l>
+               <l>No Mistress <hi>H<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ysh<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>m</hi> near, no Lady <hi>B<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ck!</hi>
+               </l>
+               <l>For, to be taken, is the Dev'll in Hell;</l>
+               <l>This Truth, let <hi>L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l, J<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ys, O<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>w</hi> tell.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

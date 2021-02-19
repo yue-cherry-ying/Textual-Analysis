@@ -1,0 +1,503 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second epistle of the second book of Horace: imitated by Mr. Pope.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023186.000</idno>
+            <idno type="docno">CW3314138630</idno>
+            <idno type="ecll">0741401100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second epistle of the second book of Horace: imitated by Mr. Pope.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>19,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for R. Dodsley,</publisher>
+                  <date>1737.</date>
+                  <idno type="TCP">K023186.000</idno>
+                  <idno type="docno">CW3314138630</idno>
+                  <idno type="ecll">0741401100</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A variant in some ordinary paper copies has the footnote on p. 12 misnumbered 16 (for 15); line 16, p. 4 reading "Godfry".</note>
+                  <note>The fine paper issue, always with the correctly numbered footnote, was apparently intended to accompany Cooper's 1737 edition of the first epistle, issued with the general title 'The second book of the epistles of Horace' (Foxon P882).</note>
+                  <note>The ornaments are those used by Henry Woodfall.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Griffith, 447</note>
+                  <note>Foxon, P955</note>
+                  <note>Foxon, P956 (fine paper)</note>
+                  <note>English Short Title Catalog, ESTCT5738.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>THE
+SECOND EPISTLE
+OF THE
+SECOND BOOK
+OF
+HORACE,
+IMITATED by Mr. <hi>POPE.</hi>
+            </p>
+            <p>
+               <q>Ludentis speciem dabit &amp; torquebitur—</q>
+            </p>
+            <p>LONDON:
+<hi>Printed for R. DODSLEY, at</hi> Tully'<hi>s</hi> Head, <hi>in</hi> Pall-Mall.</p>
+            <p>M.DCC.XXXVII.</p>
+            <p>(Price One Shilling.)</p>
+         </div>
+      </front>
+      <body>
+         <pb facs="2"/>
+         <head>THE
+SECOND EPISTLE
+OF THE
+SECOND BOOK of HORACE.</head>
+         <l>
+            <note place="bottom" n="1">Flore, bono claróque fidelis amice Neroni.</note>
+            <seg rend="decorInit">D</seg>Ear Col'nel! <hi>Cobham</hi>'s and your Country's Friend!</l>
+         <l>You love a Verse, take such as I can send.</l>
+         <l>
+            <note place="bottom" n="2">Si quis fortè, &amp;c.</note> A Frenchman comes, presents you with his Boy,</l>
+         <l>Bows and begins.—"This Lad, Sir, is of Blois:</l>
+         <l>"Observe his Shape how clean! his Locks how curl'd!</l>
+         <l>"My only Son, I'd have him see the World:</l>
+         <l>"His French is pure; his Voice too—you shall hear—</l>
+         <l>"Sir, he's your Slave, for twenty pound a year.</l>
+         <l>
+            <pb n="4" facs="3"/>
+"Mere Wax as yet, you fashion him with ease,</l>
+         <l>"Your Barber, Cook, Upholst'rer, what you please.</l>
+         <l>"A perfect Genius at an Opera-Song—</l>
+         <l>"To say too much, might do my Honour wrong:</l>
+         <l>"Take him with all his Virtues, on my word;</l>
+         <l>"His whole Ambition was to serve a Lord,</l>
+         <l>"But Sir, to you, with what wou'd I not part?</l>
+         <l>"Tho' faith, I fear 'twill break his Mother's heart.</l>
+         <l>"Once, (and but once) I caught him in a Lye,</l>
+         <l>"And then, unwhipp'd, he had the grace to cry:</l>
+         <l>"The Fault he has I fairly shall reveal,</l>
+         <l>"(Cou'd you o'erlook but that)—it is," to steal.</l>
+         <l>
+            <note place="bottom" n="3">Ille ferat pretium, &amp;c.</note> If, after this, you took the graceless Lad,</l>
+         <l>Cou'd you complain, my Friend, he prov'd so bad?</l>
+         <l>Faith, in such case, if you should prosecute,</l>
+         <l>I think Sir Godfry should decide the Suit;</l>
+         <l>Who sent the Thief who stole the Cash, away,</l>
+         <l>And punish'd him that put it in his way.</l>
+         <l>
+            <note place="bottom" n="4">Dixi me pigrum, &amp;c.</note> Consider then, and judge me in this light;</l>
+         <l>I told you when I went, I could not write;</l>
+         <l>
+            <pb n="5" facs="4"/>
+You said the same; and are you discontent</l>
+         <l>With Laws, to which you gave your own assent?</l>
+         <l>Nay worse, to ask for Verse at such a time!</l>
+         <l>D'ye think me good for nothing but to rhime?</l>
+         <l>
+            <note place="bottom" n="5">Luculli miles, &amp;c.</note> In ANNA'S Wars, a Soldier poor and old,</l>
+         <l>Had dearly earn'd a little purse of Gold:</l>
+         <l>Tir'd with a tedious March, one luckless night,</l>
+         <l>He slept, poor Dog! and lost it, to a doit.</l>
+         <l>This put the Man in such a desp'rate Mind,</l>
+         <l>Between Revenge, and Grief, and Hunger join'd,</l>
+         <l>Against the Foe, himself, and all Mankind,</l>
+         <l>He leapt the Trenches, scal'd a Castle-Wall,</l>
+         <l>Tore down a Standard, took the Fort and all.</l>
+         <l>"Prodigious well!" his great Commander cry'd,</l>
+         <l>Gave him much Praise, and some Reward beside.</l>
+         <l>Next pleas'd his Excellence a Town to batter;</l>
+         <l>(Its Name I know not, and it's no great matter)</l>
+         <l>"Go on, my Friend (he cry'd) see yonder Walls!</l>
+         <l>"Advance and conquer! go where Glory calls!</l>
+         <l>"More Honours, more Rewards, attend the Brave"—</l>
+         <l>Don't you remember what Reply he gave?</l>
+         <l>
+            <pb n="6" facs="5"/>
+"D'ye think me, noble Gen'ral, such a Sot?</l>
+         <l>"Let him take Castles who has ne'er a Groat."</l>
+         <l>
+            <note place="bottom" n="6">Romae nutriri mihi contigit, &amp;c.</note> Bred up at home, full early I begun</l>
+         <l>To read in Greek, the Wrath of Peleus' Son.</l>
+         <l>Besides, my Father taught me from a Lad,</l>
+         <l>The better Art to know the good from bad:</l>
+         <l>(And little sure imported to remove,</l>
+         <l>To hunt for Truth in <hi>Maudlin</hi>'s learned Grove.)</l>
+         <l>But knottier Points we knew not half so well,</l>
+         <l>Depriv'd us soon of our Paternal Cell;</l>
+         <l>And certain Laws, by Suff'rers thought unjust,</l>
+         <l>Deny'd all Posts of Profit or of Trust:</l>
+         <l>Hopes after Hopes of pious Papists fail'd,</l>
+         <l>While mighty WILLIAM'S thundring Arm prevail'd.</l>
+         <l>For Right Hereditary tax'd and fin'd,</l>
+         <l>He stuck to Poverty with Peace of Mind;</l>
+         <l>And me, the Muses help'd to undergo it;</l>
+         <l>Convict a Papist He, and I a Poet.</l>
+         <l>But (thanks to <hi>Homer)</hi> since I live and thrive,</l>
+         <l>Indebted to no Prince or Peer alive,</l>
+         <l>
+            <pb n="7" facs="6"/>
+Sure I should want the Care of ten<note place="bottom" n="*">Dr. <hi>MONROE,</hi> Physician to Bedlam Hospital.</note> 
+            <hi>Monroes,</hi>
+         </l>
+         <l>If I would scribble, rather than repose.</l>
+         <l>
+            <note place="bottom" n="7">Singula de nobis anni, &amp;c.</note> Years foll'wing Years, steal something ev'ry day,</l>
+         <l>At last they steal us from our selves away;</l>
+         <l>In one our Frolicks, one Amusements end,</l>
+         <l>In one a Mistress drops, in one a Friend:</l>
+         <l>This subtle Thief of Life, this paltry Time,</l>
+         <l>What will it leave me, if it snatch my Rhime?</l>
+         <l>If ev'ry Wheel of that unweary'd Mill</l>
+         <l>That turn'd ten thousand Verses, now stands still.</l>
+         <l>
+            <note place="bottom" n="8">Denique non omnes, &amp;c.</note> But after all, what wou'd you have me do?</l>
+         <l>When out of twenty I can please not two;</l>
+         <l>When this Heroicks only deigns to praise,</l>
+         <l>Sharp Satire that, and that Pindaric lays?</l>
+         <l>One likes the Pheasant's wing, and one the leg;</l>
+         <l>The Vulgar boil, the Learned roast an Egg;</l>
+         <l>Hard Task! to hit the Palate of such Guests,</l>
+         <l>When Oldfield loves, what Dar—n—f detests.</l>
+         <l>
+            <note place="bottom" n="9">Praeter caetera, me Romae-ne, &amp;c.</note> But grant I may relapse, for want of Grace,</l>
+         <l>Again to rhime, can <hi>London</hi> be the Place?</l>
+         <l>
+            <pb n="8" facs="7"/>
+Who there his Muse, or Self, or Soul attends?</l>
+         <l>In Croúds and Courts, Law, Business, Feasts and Friends?</l>
+         <l>My Counsel sends to execute a Deed:</l>
+         <l>A Poet begs me, I will hear him read:</l>
+         <l>In Palace-Yard at Nine you'll find me there—</l>
+         <l>At Ten for certain, Sir, in Bloomsb'ry-Square—</l>
+         <l>Before the Lords at Twelve my Cause comes on—</l>
+         <l>There's a Rehearsal, Sir, exact at One.—</l>
+         <l>"Oh but a Wit can study in the Streets,</l>
+         <l>"And raise his Mind above the Mob he meets."</l>
+         <l>Not quite so well however as one ought;</l>
+         <l>A Hackney-Coach may chance to spoil a Thought,</l>
+         <l>And then a nodding Beam, or Pig of Lead,</l>
+         <l>God knows, may hurt the very ablest Head.</l>
+         <l>Have you not seen at Guild-hall's narrow Pass,</l>
+         <l>Two Aldermen dispute it with an Ass?</l>
+         <l>And Peers give way, exalted as they are,</l>
+         <l>Ev'n to their own S-r-v—nce in a Carr?</l>
+         <l>
+            <note place="bottom" n="10">Inunc, &amp; versus, &amp;c.</note>Go, lofty Poet! and in such a Croud,</l>
+         <l>Sing thy sonorous Verse—but not aloud.</l>
+         <l>
+            <pb n="9" facs="8"/>
+Alas! to Grotto's and to Groves we run,</l>
+         <l>To Ease and Silence, ev'ry Muse's Son:</l>
+         <l>
+            <hi>Blackmore</hi> himself, for any grand Effort,</l>
+         <l>Would drink and doze at<note place="bottom" n="*">Two Villages within 3 or 4 Miles of London.</note> 
+            <hi>Tooting</hi> or <hi>Earl's-Court.</hi>
+         </l>
+         <l>How shall I rhime in this eternal Roar?</l>
+         <l>How match the Bards whom none e'er match'd before?</l>
+         <l>The Man, who stretch'd in Isis' calm Retreat</l>
+         <l>To Books and Study gives sev'n years compleat,</l>
+         <l>See! strow'd with learned dust, his Night-cap on,</l>
+         <l>He walks, an Object new beneath the Sun!</l>
+         <l>The Boys flock round him, and the People stare:</l>
+         <l>So stiff, so mute! some Statue, you would swear,</l>
+         <l>Stept srom its Pedestal to take the Air.</l>
+         <l>And here, while Town, and Court, and City roars,</l>
+         <l>With Mobs, and Duns, and Soldiers, at their doors;</l>
+         <l>Shall I, in <hi>London,</hi> act this idle part?</l>
+         <l>Composing Songs, for Fools to get by heart?</l>
+         <l>
+            <note place="bottom" n="11">Frater erat Romae, &amp;c.</note> The <hi>Temple</hi> late two Brother Sergeants saw,</l>
+         <l>Who deem'd each other Oracles of Law;</l>
+         <pb n="8" facs="9"/>
+         <gap extent="1 page" rend="content:〈1 page duplicate〉">
+            <desc>duplicate</desc>
+         </gap>
+         <pb n="9" facs="10"/>
+         <gap extent="1 page" rend="content:〈1 page duplicate〉">
+            <desc>duplicate</desc>
+         </gap>
+         <l>
+            <pb n="10" facs="11"/>
+With equal Talents, these congenial Souls</l>
+         <l>One lull'd th' <hi>Exchequer,</hi> and one stunn'd the <hi>Rolls;</hi>
+         </l>
+         <l>Each had a Gravity wou'd make you split,</l>
+         <l>And shook his head at <hi>M—y,</hi> as a Wit.</l>
+         <l>'Twas,"Sir your Law"—and"Sir, your Eloquence"—</l>
+         <l>"Yours <hi>Cooper</hi>'s Manner—and yours <hi>Talbot</hi>'s Sense."</l>
+         <l>
+            <note place="bottom" n="12">Carmina compono, hic elegos, &amp;c.</note> we dispose of all poetic Merit,</l>
+         <l>Yours <hi>Milton</hi>'s Genius, and mine <hi>Homer</hi>'s Spirit.</l>
+         <l>Call <hi>Tibbald Shakespear,</hi> and he'll swear the Nine</l>
+         <l>Dear <hi>Cibber!</hi> never match'd one Ode of thine.</l>
+         <l>Lord! how we strut thro' <hi>Merlin</hi>'s Cave, to see</l>
+         <l>No Poets there, but <hi>Stephen,</hi> you, and me.</l>
+         <l>Walk with respect behind, while we at ease</l>
+         <l>Weave Laurel Crowns, and take what Names we please.</l>
+         <l>"My dear <hi>Tibullus!"</hi> if that will not do,</l>
+         <l>"Let me be <hi>Horace,</hi> and be <hi>Ovid</hi> you.</l>
+         <l>"Or, I'm content, allow me <hi>Dryden</hi>'s strains,</l>
+         <l>"And you shall rise up <hi>Otway</hi> for your pains."</l>
+         <l>
+            <note place="bottom" n="13">Multa fero, ut placeam, &amp;c.</note> Much do I suffer, much, to keep in peace</l>
+         <l>This jealous, waspish, wrong-head, rhiming Race;</l>
+         <l>
+            <pb n="11" facs="12"/>
+And much must flatter, if the Whim should bite</l>
+         <l>To seek applause by printing what I write:</l>
+         <l>But let the Fit pass o'er, I'm wise enough,</l>
+         <l>To stop my ears to their confounded stuff.</l>
+         <l>
+            <note place="bottom" n="14">Ridentur, mala qui componunt, &amp;c.</note> In vain, bad Rhimers all mankind reject,</l>
+         <l>They treat themselves with most profound respect;</l>
+         <l>'Tis to small purpose that you hold your tongue,</l>
+         <l>Each prais'd within, is happy all day long.</l>
+         <l>But how severely with themselves proceed</l>
+         <l>The Men, who write such Verse as we can read?</l>
+         <l>Their own strict Judges, not a word they spare</l>
+         <l>That wants or Force, or Light, or Weight, or Care,</l>
+         <l>Howe'er unwillingly it quits its place,</l>
+         <l>Nay tho' at Court (perhaps) it may find grace:</l>
+         <l>Such they'll degrade; and sometimes, in its stead,</l>
+         <l>In downright Charity revive the dead;</l>
+         <l>Mark where a bold expressive Phrase appears,</l>
+         <l>Bright thro' the rubbish of some hundred years;</l>
+         <l>Command old words that long have slept, to wake,</l>
+         <l>Such as wise <hi>Bacon,</hi> or brave <hi>Raleigh</hi> spake;</l>
+         <l>
+            <pb n="12" facs="13"/>
+Or bid the new be <hi>English,</hi> Ages hence,</l>
+         <l>(For Use will father what's begot by Sense)</l>
+         <l>Pour the full Tide of Eloquence along,</l>
+         <l>Serenely pure, and yet divinely strong,</l>
+         <l>Rich with the Treasures of each foreign Tongue;</l>
+         <l>Prune the luxuriant, the uncouth refine,</l>
+         <l>But show no mercy to an empty line;</l>
+         <l>Then polish all, with so much life and ease,</l>
+         <l>You think 'tis Nature, and a knack to please:</l>
+         <l>"But Ease in writing flows from Art, not Chance,</l>
+         <l>"As those move easiest who have learn'd to dance."</l>
+         <l>
+            <note place="bottom" n="15">Praetulerim scriptor delirus, &amp;c.</note> If such the Plague and pains to write by rule,</l>
+         <l>Better (say I) be pleas'd, and play the fool;</l>
+         <l>Call, if you will, bad Rhiming a disease,</l>
+         <l>It gives men happiness, or leaves them ease.</l>
+         <l>There liv'd, <hi>in primo Georgii</hi> (they record)</l>
+         <l>A worthy Member, no small Fool, a Lord;</l>
+         <l>Who, tho' the House was up, delighted sate,</l>
+         <l>Heard, noted, answer'd, as in full Debate:</l>
+         <l>
+            <pb n="13" facs="14"/>
+In all but this, a man of sober Life,</l>
+         <l>Fond of his Friend, and civil to his Wife,</l>
+         <l>Not quite a Mad-man, tho' a Pasty fell,</l>
+         <l>And much too wise to walk into a Well:</l>
+         <l>Him, the damn'd Doctors and his Friends immur'd,</l>
+         <l>They bled, they cupp'd, they purg'd; in short, they cur'd:</l>
+         <l>Whereat the Gentleman began to stare—</l>
+         <l>My Friends? he cry'd, p—x take you for your care!</l>
+         <l>That from a Patriot of distinguish'd note,</l>
+         <l>Have bled and purg'd me to a simple <hi>Vote.</hi>
+         </l>
+         <l>
+            <note place="bottom" n="17">Nimirum sapere est, &amp;c.</note> Well, on the whole, then Prose must be my fate:</l>
+         <l>Wisdom (curse on it) will come soon or late.</l>
+         <l>There is a time when Poets will grow dull:</l>
+         <l>I'll e'en leave Verses to the Boys at school:</l>
+         <l>To Rules of Poetry no more confin'd,</l>
+         <l>I learn to smooth and harmonize my Mind,</l>
+         <l>Teach ev'ry Thought within its bounds to roll,</l>
+         <l>And keep the equal Measure of the Soul.</l>
+         <l>
+            <note place="bottom" n="18">Quocirca mecum loquor haec, &amp;c.</note> Soon as I enter at my Country door,</l>
+         <l>My Mind resumes the thread it dropt before;</l>
+         <l>
+            <pb n="14" facs="15"/>
+Thoughts, which at Hyde-Park-Corner I forgot,</l>
+         <l>Meet and rejoin me, in my pensive Grott.</l>
+         <l>There all alone, and Compliments apart,</l>
+         <l>I ask these sober questions of my Heart.</l>
+         <l>
+            <note place="bottom" n="19">Si tibi nulla sitim, &amp;c.</note> If, when the more you drink, the more you crave,</l>
+         <l>You tell the Doctor; when the more you have,</l>
+         <l>The more you want, why not with equal ease</l>
+         <l>Confess as well your Folly, as Disease?</l>
+         <l>The Heart resolves this matter in a trice,</l>
+         <l>"Men only feel the Smart, but not the Vice."</l>
+         <l>
+            <note place="bottom" n="20">Si vulnus tibi, &amp;c.</note> When golden Angels cease to cure the Evil,</l>
+         <l>You give all royal Witchcraft to the Devil:</l>
+         <l>When servile Chaplains cry, that Birth and Place</l>
+         <l>Indue a Peer with Honour, Truth, and Grace,</l>
+         <l>Look in that Breast, most dirty <hi>D—!</hi> be fair,</l>
+         <l>Say, can you find out one such Lodger there?</l>
+         <l>Yet still, not heeding what your Heart can teach,</l>
+         <l>You go to Church to hear these Flatt'rers preach.</l>
+         <l>Indeed, could Wealth bestow or Wit or Merit,</l>
+         <l>A grain of Courage, or a spark of Spirit,</l>
+         <l>
+            <pb n="15" facs="16"/>
+The wisest Man might blush, I must agree,</l>
+         <l>If <hi>D ***</hi> lov'd Sixpence, more than he.</l>
+         <l>
+            <note place="bottom" n="21">Si proprium est, &amp;c.</note> If there be truth in Law, and <hi>Use</hi> can give</l>
+         <l>A <hi>Property,</hi> that's yours on which you live.</l>
+         <l>Delightful <hi>Abs-court,</hi> is its Fields afford</l>
+         <l>Their Fruits to you, confesses you its Lord:</l>
+         <l>All He—te's Hens, nay Partridge, sold to town,</l>
+         <l>His Ven'son too, a Guinea makes your own:</l>
+         <l>He bought at thousands, what with better wit</l>
+         <l>You purchase as you want, and bit by bit;</l>
+         <l>Now, or long since, what diff'rence will be found?</l>
+         <l>You pay a Penny, and he paid a Pound.</l>
+         <l>
+            <note place="bottom" n="22">Emptor Aricini, quondam, &amp;c.</note> H—te himself, and such large-acred Men,</l>
+         <l>Lords of fat <hi>E'sham,</hi> or of Lincoln Fen,</l>
+         <l>Buy every stick of Wood that lends them heat,</l>
+         <l>Buy every Pullct they afford to eat.</l>
+         <l>Yet these are Wights, who fondly call their own</l>
+         <l>Half that the Dev'l o'erlooks from Lincoln Town.</l>
+         <l>The Laws of God, as well as of the Land,</l>
+         <l>Abhor, a <hi>Perpetuity</hi> should stand:</l>
+         <l>
+            <pb n="16" facs="17"/>
+Estates have wings, and hang in Fortune's pow'r</l>
+         <l>
+            <note place="bottom" n="23">Si proprium est, &amp;c.</note> Loose on the point of ev'ry wav'ring Hour;</l>
+         <l>Ready, by force, or of your own accord,</l>
+         <l>By sale, at least by death, to change their Lord.</l>
+         <l>
+            <hi>Man?</hi> and <hi>for ever?</hi> Wretch! what wou'dst thou have?</l>
+         <l>Heir urges Heir, like Wave impelling Wave:</l>
+         <l>All vast Possessions (just the same the case</l>
+         <l>Whether you call them Villa, Park, or Chace)</l>
+         <l>Alas, my BATHURST! what will they avail?</l>
+         <l>Join <hi>Cotswold</hi> Hills to <hi>Saperton</hi>'s fair Dale,</l>
+         <l>Let rising Granaries and Temples here,</l>
+         <l>There mingled Farms and Pyramids appear,</l>
+         <l>Link Towns to Towns with Avenues of Oak,</l>
+         <l>Enclose whole Downs in Walls, 'tis all a joke!</l>
+         <l>Inexorable Death shall level all,</l>
+         <l>And Trees, and Stones, and Farms, and Farmer fall.</l>
+         <l>
+            <note place="bottom" n="24">Gemmas, marmor, ebur, &amp;c.</note> Gold, Silver, Iv'ry, Vases sculptur'd high,</l>
+         <l>Paint, Marble, Gems, and Robes of <hi>Persian</hi> Dye,</l>
+         <l>There are who have not—and thank Heav'n there are</l>
+         <l>Who, if they have not, think not worth their care.</l>
+         <l>
+            <pb n="17" facs="18"/>
+            <note place="bottom" n="25">Cur alter fratrum cessare, &amp;c.</note> Talk what you will of Taste, my Friend, you'll find,</l>
+         <l>Two of a Face, as soon as of a Mind.</l>
+         <l>Why, of two Brothers, rich and restless one</l>
+         <l>Ploughs, burns, manures, and toils from Sun to Sun;</l>
+         <l>The other slights, for Women, Sports, and Wines,</l>
+         <l>All <hi>Townshend</hi>'s Turnips, and all <hi>Grovenor</hi>'s Mines:</l>
+         <l>Why one like <hi>Bu</hi>—with Pay and Scorn content,</l>
+         <l>Bows and votes on, in Court and Parliament;</l>
+         <l>One, driv'n by strong Benevolence of Soul,</l>
+         <l>Shall fly, like <hi>Oglethorp,</hi> from Pole to Pole:</l>
+         <l>Is known alone to that Directing Pow'r,</l>
+         <l>Who forms the Genius in the natal Hour,</l>
+         <l>That God of Nature, who, within us still,</l>
+         <l>Inclines our Action, not constrains our Will;</l>
+         <l>Various of Temper, as of Face or Frame,</l>
+         <l>Each Individual: His great End the same.</l>
+         <l>
+            <note place="bottom" n="26">Utar, &amp; ex modico, &amp;c.</note> Yes, Sir, how small soever be my heap,</l>
+         <l>A part I will enjoy, as well as keep.</l>
+         <l>My Heir may sigh, and think it want of Grace</l>
+         <l>A man so poor wou'd live without a <hi>Place:</hi>
+         </l>
+         <l>
+            <pb n="18" facs="19"/>
+But sure no Statute in his favour says,</l>
+         <l>How free, or frugal, I shall pass my days:</l>
+         <l>I, who at some times spend, at others spare,</l>
+         <l>Divided between Carelesness and Care.</l>
+         <l>'Tis one thing madly to disperse my store,</l>
+         <l>Another, not to heed to treasure more;</l>
+         <l>Glad, like a Boy, to snatch the first good day,</l>
+         <l>And pleas'd, if sordid Want be far away.</l>
+         <l>
+            <note place="bottom" n="27">—Ego utrum Nave ferar magna an parva, ferar unus &amp; idem.</note> What is't to me (a Passenger God wot)</l>
+         <l>Whether my Vessel be first-rate or not?</l>
+         <l>The Ship it self may make a better figure,</l>
+         <l>But I that sail, am neither less nor bigger.</l>
+         <l>I neither strut with ev'ry fav'ring breath,</l>
+         <l>Nor strive with all the Tempest in my teeth.</l>
+         <l>In Pow'r, Wit, Figure, Virtue, Fortune, plac'd</l>
+         <l>Behind the foremost, and before the last.</l>
+         <l>
+            <note place="bottom" n="28">Non es avarus, &amp;c.</note>"But why all this of Av'rice? I have none."</l>
+         <l>I wish you joy, Sir, of a Tyrant gone;</l>
+         <l>But does no other lord it at this hour,</l>
+         <l>As wild and mad? the Avarice of Pow'r?</l>
+         <l>
+            <pb n="19" facs="20"/>
+Does neither Rage inflame, nor Fear appall?</l>
+         <l>Not the black Fear of Death, that saddens all?</l>
+         <l>With Terrors round can Reason hold her throne,</l>
+         <l>Despise the known, nor tremble at th' unknown?</l>
+         <l>Survey both Worlds, intrepid and entire,</l>
+         <l>In spight of Witches, Devils, Dreams, and Fire?</l>
+         <l>Pleas'd to look forward, pleas'd to look behind,</l>
+         <l>And count each Birth-day with a grateful mind?</l>
+         <l>Has Life no sourness, drawn so near its end?</l>
+         <l>Can'st thou endure a Foe, forgive a Friend?</l>
+         <l>Has Age but melted the rough parts away,</l>
+         <l>As Winter-fruits grow mild e'er they decay?</l>
+         <l>Or will you think, my Friend, your business done,</l>
+         <l>When, of a hundred thorns, you pull out one?</l>
+         <l>
+            <note place="bottom" n="29">Vivere si rectè nescis, &amp;c.</note> Learn to live well, or fairly make your Will;</l>
+         <l>You've play'd, and lov'd, and eat, and drank your fill:</l>
+         <l>Walk sober off; before a sprightlier Age</l>
+         <l>Comes titt'ring on, and thoves you from the stage:</l>
+         <l>Leave such to trifle with more grace and ease,</l>
+         <l>Whom Folly pleases, and whose Follies please.</l>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

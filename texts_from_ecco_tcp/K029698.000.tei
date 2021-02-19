@@ -1,0 +1,642 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caesar's camp: or, St. George's Hill. A poem. By the Reverend Mr. Duck, ...</title>
+            <author>Duck, Stephen, 1705-1756.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K029698.000</idno>
+            <idno type="docno">CW3310222267</idno>
+            <idno type="ecll">0134203000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caesar's camp: or, St. George's Hill. A poem. By the Reverend Mr. Duck, ...</title>
+                  <author>Duck, Stephen, 1705-1756.</author>
+               </titleStmt>
+               <extent>[2],25,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for R. and J. Dodsley; and sold by M. Cooper,</publisher>
+                  <date>1755.</date>
+                  <idno type="TCP">K029698.000</idno>
+                  <idno type="docno">CW3310222267</idno>
+                  <idno type="ecll">0134203000</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT19820.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="titlepage">
+            <pb facs="1"/>
+            <p>
+               <hi>CAESAR</hi>'s CAMP:
+OR,
+St. <hi>GEORGE</hi>'s HILL.
+A
+POEM.</p>
+            <p>
+               <hi>By the Reverend Mr.</hi> DUCK, RECTOR <hi>of</hi> Byfleet.</p>
+            <p>LONDON:
+Printed for R. and J. DODSLEY in <hi>Pall-mall;</hi>
+And sold by M. COOPER in <hi>Pater-noster-Row.</hi> 1755.</p>
+         </div>
+      </front>
+      <body>
+         <pb n="3" facs="2"/>
+         <head>CAESAR's CAMP;
+OR,
+St. GEORGE'S HILL.
+A
+POEM.</head>
+         <lg>
+            <l>IF lofty hills the tuneful Muse delight,</l>
+            <l>Ye tuneful Muses hither take your flight:</l>
+            <l>Forsake Parnassus and your virgin spring,</l>
+            <l>And soar where Caesar's eagles spread their wing;</l>
+            <l>When mad Ambition fir'd the warrior's brain</l>
+            <l>To seek new conquests o'er the British main.</l>
+            <l>What tho' few laurels on the mountains grow?</l>
+            <l>A thousand fruitful landscapes smile below;</l>
+            <l>Where Phoebus' trees perpetual honours wear,</l>
+            <l>And cedars flourish verdant all the year.</l>
+            <l>
+               <pb n="4" facs="3"/>
+Rich pasture <hi>here</hi> adorns the flow'ry mead,</l>
+            <l>There golden Ceres waves her bending head;</l>
+            <l>A mingled scene of profit and delight;</l>
+            <l>Which chears the peasant, charms the poet's sight,</l>
+            <l>His sight, which o'er the various prospect roves,</l>
+            <l>Now pleas'd with gardens, and now pleas'd with groves:</l>
+            <l>Now wanders over Guilford's lovely plain,</l>
+            <l>Where the fleet courser stretches every vein;</l>
+            <l>He paws, he pants, impatient for the chace,</l>
+            <l>Then sweeps along the scarcely-bending grass.</l>
+            <l>Not swifter swallows skim along the flood,</l>
+            <l>To seize the wanton fly, their destin'd food;</l>
+            <l>Than o'er the plain the nimble coursers bound,</l>
+            <l>And champ the shining bit, and toss their foam around.</l>
+            <l>Let lofty Pindar sing the Grecian steed,</l>
+            <l>Britannia glories in as choice a breed:</l>
+            <l>As gallant heroes too adorn her coast,</l>
+            <l>As fam'd Olympia's plain could ever boast.</l>
+         </lg>
+         <lg>
+            <l>Thy groves, O! Weston, next the Muse invite,</l>
+            <l>Thy beechen groves must ev'ry Muse delight.</l>
+            <l>Here may she tune her lyre beneath the shade,</l>
+            <l>Or meditate along thy open glade,</l>
+            <l>
+               <pb n="5" facs="4"/>
+Where once she<note place="bottom" n="*">The house now Mr. Weston's was formerly Sir Walter Raleigh's.</note> Raleigh's noble soul inspir'd,</l>
+            <l>When he from business, war, or courts retir'd.</l>
+            <l>Raleigh! whose actions merit deathless fame,</l>
+            <l>The nation's glory, and the monarch's shame.</l>
+            <l>Ah! what avail wit, wisdom, learning, arts;</l>
+            <l>Superior courage, and sublimer parts?</l>
+            <l>The wit, the scholar, statesman, hero, sage,</l>
+            <l>Falls a sad victim to Iberian rage,</l>
+            <l>Yet still he's pleas'd to see his beauteous grove,</l>
+            <l>(If aught below can please the bless'd above)</l>
+            <l>Reward the gen'rous virtue of a son,</l>
+            <l>Who for a father's good, despis'd his own.</l>
+         </lg>
+         <lg>
+            <l>Here, when the golden autumn's ripen'd stores</l>
+            <l>Have plenteously enrich'd the farmer's floors;</l>
+            <l>Soon as Aurora ushers in the day,</l>
+            <l>While pearly dews embellish every spray;</l>
+            <l>The well-breath'd beagles snuff the scented air;</l>
+            <l>Before them swiftly flies the tim'rous hare.</l>
+            <l>O'er hills and vales the sprightly coursers bound,</l>
+            <l>While various-sounding musick floats around.</l>
+            <l>
+               <pb n="6" facs="5"/>
+The joyous youth pursue the noble chace,</l>
+            <l>Fresh health and vigor blooming in their face:</l>
+            <l>Unknown to those who drink the night away,</l>
+            <l>And waste in dozing idleness the day.</l>
+         </lg>
+         <lg>
+            <l>As o'er the chequer'd landscape Fancy strays,</l>
+            <l>Nature a thousand sylvan scenes displays:</l>
+            <l>Plantations rise—the hills and vallies smile</l>
+            <l>With various groves, that suit the various soil.</l>
+            <l>Dry rising ground the spreading beech improves,</l>
+            <l>Wet spungy earth the weeping willow loves;</l>
+            <l>In vales the stately elms delight to grow,</l>
+            <l>And pines rejoice upon the mountain's brow.</l>
+         </lg>
+         <lg>
+            <l>So should the parent with judicious care,</l>
+            <l>(If tender youth with plants we may compare)</l>
+            <l>Explore the temper of his children's mind,</l>
+            <l>And six them where their genius seems inclin'd:</l>
+            <l>
+               <hi>This</hi> son delights the flaming sword to wield,</l>
+            <l>And longs to thunder in the martial field:</l>
+            <l>A merchant <hi>that,</hi> and plows the foaming main;</l>
+            <l>While milder natures cultivate the plain.</l>
+         </lg>
+         <lg>
+            <pb n="7" facs="6"/>
+            <l>Nor woods alone the pleasing prospect grace,</l>
+            <l>The Naiads and the Dryads oft embrace.</l>
+            <l>See, thro' the groves descend the winding streams,</l>
+            <l>To pay their liquid tribute to the Thames.</l>
+            <l>First chalky Wey, for rav'nous pikes renown'd,</l>
+            <l>Rolls thro' the meads and fructifies the ground:</l>
+            <l>His milky waves enrich the thirsty soil,</l>
+            <l>And joyous crops reward the mower's toil.</l>
+            <l>Next gentle Mole thro' shady vallies strays,</l>
+            <l>And under ground her silent wave conveys.</l>
+            <l>The Muse shall sing the cause (if fame be true)</l>
+            <l>And tell what judgments Avarice pursue.</l>
+         </lg>
+         <lg>
+            <l>Mole, once a wood-nymph, beautiful and vain,</l>
+            <l>Like modern beauties thirsted after gain:</l>
+            <l>The sordid passion mov'd her to explore</l>
+            <l>Hills, vallies, rocks, and caves for glitt'ring ore:</l>
+            <l>And as she o'er the Surry mountains rov'd,</l>
+            <l>Pan saw the beauteous dame, he saw, and lov'd.</l>
+            <l>In tender verse he fung his pleasing pains;</l>
+            <l>And tun'd his oaten pipe to am'rous strains;</l>
+            <l>
+               <pb n="8" facs="7"/>
+Ten thousand fleecy flocks, he cry'd, are mine,</l>
+            <l>Indulge my flame, my fleecy flocks are thine.</l>
+            <l>In vain he strives her cruel breast to move,</l>
+            <l>She scorns alike his musick and his love.</l>
+         </lg>
+         <lg>
+            <l>Next old Sylvanus left his sacred wood,</l>
+            <l>And smitten with her charms the nymph pursu'd:</l>
+            <l>Return my passion, lovely maid, he cry'd,</l>
+            <l>Nor scorn the forests where the gods reside.</l>
+            <l>In vain he strives her cruel breast to move,</l>
+            <l>She scorns alike his forests and his love.</l>
+         </lg>
+         <lg>
+            <l>Apollo next, advancing to the dame,</l>
+            <l>In tuneful numbers told his am'rous flame:</l>
+            <l>Long sung the god, and long the list'ning maid</l>
+            <l>Was pleas'd to hear the courtship Phoebus paid:</l>
+            <l>Till grasping eager to enjoy her charms,</l>
+            <l>She swiftly turn'd, and glided from his arms.</l>
+            <l>When from a cave a dusky Gnome arose,</l>
+            <l>And various rocks of gold and di'mond shows:</l>
+            <l>And here, says he, delight your eyes, behold</l>
+            <l>These flaming jewels, this attractive gold:</l>
+            <l>
+               <pb n="9" facs="8"/>
+Ten thousand treasures in my palace shine,</l>
+            <l>Love me, ten thousand treasures shall be thine.</l>
+            <l>So saying, down the cave he shot in haste,</l>
+            <l>The yielding damsel follow'd him as fast;</l>
+            <l>Then quickly sunk into his longing arms,</l>
+            <l>And in a golden grot resign'd her charms.</l>
+            <l>Apollo, to revenge his slighted flame,</l>
+            <l>Into a sullen stream converts the dame:</l>
+            <l>And since she durst despise the god of day,</l>
+            <l>The god depriv'd her of his chearful ray;</l>
+            <l>Condemn'd her justly under ground to flow,</l>
+            <l>And visit mines of glitt'ring dirt below:</l>
+            <l>'Tis hence her lazy waves impurely glide,</l>
+            <l>Till Thames refines them in his crystal tide.</l>
+            <l>Thames, on whose banks a stately<note place="bottom" n="*">Hampton court; which was first built by cardinal Wolsey, en<lb rend="hidden" type="hyphenInWord"/>larg'd
+by K. Henry the 8th, and nobly finish'd by K. William the 3d.</note> frame appears,</l>
+            <l>Finish'd by glorious William's gen'rous cares.</l>
+            <l>The stern imperious monarch of our isle,</l>
+            <l>Eliza's sire, enlarg'd the noble pile;</l>
+            <l>And made it wear a more majestic face,</l>
+            <l>Yet still it wanted symmetry and grace:</l>
+            <l>
+               <pb n="10" facs="9"/>
+Till William form'd the spacious courts complete,</l>
+            <l>Bade strength and order, use and beauty meet;</l>
+            <l>And rais'd the fabric uniformly great.</l>
+         </lg>
+         <lg>
+            <l>By equal steps our church and state improv'd,</l>
+            <l>'Twas Henry first the papal yoke remov'd;</l>
+            <l>But government, religion and the law</l>
+            <l>Were settled by the wisdom of Nassau.</l>
+            <l>For this he bravely cross'd the stormy main,</l>
+            <l>Whilst adverse winds and waves oppos'd in vain.</l>
+            <l>When kings deceiv'd with dreams of right divine,</l>
+            <l>Had stretch'd their pow'r beyond its true design;</l>
+            <l>When laws and liberty expiring lay,</l>
+            <l>And Britain mourn'd an arbitrary sway;</l>
+            <l>Great William, born to succour human race,</l>
+            <l>Reform'd our government, and fix'd it's base;</l>
+            <l>Restor'd our laws, made freedom smile again,</l>
+            <l>And to confirm them bade Augustus reign.</l>
+         </lg>
+         <lg>
+            <l>O'er Twit'nam bow'rs I next direct my sight,</l>
+            <l>Where nature, art and elegance unite:</l>
+            <l>
+               <pb n="11" facs="10"/>
+Three graces which on Radnor's will attend,</l>
+            <l>To deck the mansion of their noble friend.</l>
+            <l>From hence a lofty<note place="bottom" n="*">Richmond hill.</note> hill attracts my eyes,</l>
+            <l>Round which a thousand various beauties rise,</l>
+            <l>Yet tho' it can such various beauties boast,</l>
+            <l>Extensive bounty dignifies it most.</l>
+            <l>Rise, Muse, and catch a spark of heav'nly flame,</l>
+            <l>To celebrate the gen'rous Richmond<note place="bottom" n="†">Mrs Knipe of Richmond, whose truely christian virtues and ex<lb rend="hidden" type="hyphenInWord"/>tensive
+charities should I describe particularly, the note would <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                     <desc>illegible</desc>
+                  </gap>
+longer than the poem.</note> dame;</l>
+            <l>Who modish pleasures bravely has withstood,</l>
+            <l>And dares be most unfashionably good:</l>
+            <l>Who feeds the hungry, succours the distress'd,</l>
+            <l>Is daily blessing others, daily bless'd.</l>
+            <l>Nor to their bodies is her care confin'd,</l>
+            <l>Her care with christian knowledge forms the mind;</l>
+            <l>Her pious<note place="bottom" n="‡">Religious books which this lady sends to America.</note> treasures reach remotest lands,</l>
+            <l>New worlds are bless'd with bounties from her hands.</l>
+            <l>O! would the deathless Muse my tongue inspire,</l>
+            <l>Or Phoebus warm me with celestial fire;</l>
+            <l>To sing her virtues and record her praise,</l>
+            <l>Her fame should live immortal in my lays:</l>
+            <l>
+               <pb n="12" facs="11"/>
+The man of Ross's celebrated name</l>
+            <l>Should yield in honour to the Richmond dame.</l>
+         </lg>
+         <lg>
+            <l>Not far remote appear the<note place="bottom" n="*">Richmond gardens.</note> verdant scenes,</l>
+            <l>The groves which once imbow'r'd the best of queens;</l>
+            <l>Whose bounty rais'd the meanest Muse's wing,</l>
+            <l>And bade the poorest bard rejoyce and sing.</l>
+            <l>While flocks in vernal pastures shall delight,</l>
+            <l>While sun and moon divide the day and night:</l>
+            <l>While mem'ry holds her traces in the brain,</l>
+            <l>My grateful heart her goodness shall retain.</l>
+            <l>Muse quit the subject, nor renew the tide</l>
+            <l>Of tears that flow'd when Carolina dy'd:</l>
+            <l>Then wept the willows, sigh'd the conscious bow'rs,</l>
+            <l>Then droop'd the myrtles, and decay'd the flow'rs:</l>
+            <l>Again the flow'rs a blooming aspect wear,</l>
+            <l>Is she return'd? or is Augusta here?</l>
+            <l>Yes, here Augusta with her children roves,</l>
+            <l>A widow'd Venus with her little loves;</l>
+            <l>Who round their mother fondly sport and toy,</l>
+            <l>Their mother smiles, <hi>rejoycing in their joy.</hi>
+            </l>
+         </lg>
+         <lg>
+            <pb n="13" facs="12"/>
+            <l>Here could the grateful Muse contemplate long,</l>
+            <l>But other subjects claim the Muse's song.</l>
+            <l>Windsor, that wing'd the nervous Denham's flight,</l>
+            <l>Adorn'd with lofty tow'rs attracts the sight:</l>
+            <l>Where strength and dignity and beauty meet,</l>
+            <l>Gracefully bold, majestically sweet.</l>
+            <l>Thy forests, Windsor, equal praises claim,</l>
+            <l>And <hi>now</hi> shall flourish in immortal fame;</l>
+            <l>Since GEORGE has thither sent his martial son</l>
+            <l>To plant the laurels which his valour won;</l>
+            <l>When on Culloden's field he bravely stood,</l>
+            <l>'Mid storms of fire and deluges of blood:</l>
+            <l>Pouring his Father's thunder on his foes,</l>
+            <l>To rescue Albion from impending woes.</l>
+            <l>But now rebellious wars and tumults cease,</l>
+            <l>He cultivates the milder arts of peace;</l>
+            <l>Embellishes the hills with waving woods,</l>
+            <l>And thro' the valley leads expansive floods:</l>
+            <l>Or bids the stately Belvidere ascend,</l>
+            <l>Or wond'rous arches o'er the water bend:</l>
+            <l>
+               <pb n="14" facs="13"/>
+Subdues the rude, rough, wildness of the soil,</l>
+            <l>Adorns the waste with groves, and bids the desart smile.</l>
+         </lg>
+         <lg>
+            <l>Thrice happy had it been for human kind,</l>
+            <l>Had Caesar thus employ'd his martial mind:</l>
+            <l>Had he, like glorious Cumberland, subdu'd</l>
+            <l>His country's foes, then peaceful arts pursu'd,</l>
+            <l>His hostile eagles ne'er had stretch'd their wings</l>
+            <l>To ravage Albion, and dethrone her kings:</l>
+            <l>Nor had the Druids mourn'd their groves, when round</l>
+            <l>This Hill he form'd his military mound.</l>
+         </lg>
+         <lg>
+            <l>As thoughts like these revolv'd within my breast,</l>
+            <l>Intruding sleep my weary eyes opprest;</l>
+            <l>Yet mimic Fancy still pursu'd her theme,</l>
+            <l>And painted Caesar present in my dream.</l>
+            <l>My dream the faithful Muse remembers well,</l>
+            <l>And what the Muse remembers she shall tell.</l>
+         </lg>
+         <lg>
+            <l>As round this Hill the Roman army lay,</l>
+            <l>The neighb'ring vale became their destin'd prey:</l>
+            <l>
+               <pb n="15" facs="14"/>
+To feed them fruitful fields their harvests lend,</l>
+            <l>To fence their Camp the lofty woods descend:</l>
+            <l>But while the legions fell'd a sacred oak,</l>
+            <l>Thus to the chief a captive Druid spoke.</l>
+         </lg>
+         <lg>
+            <l>Illustrious Robber! when shall ruin cease?</l>
+            <l>Thou enemy to property and peace.</l>
+            <l>Is't not sufficient that your eagles soar</l>
+            <l>From Asia's empire to Iberia's shore?</l>
+            <l>But must you shake <hi>our</hi> island with alarms?</l>
+            <l>Must Britain <hi>too</hi> submit to Roman arms?</l>
+            <l>Must all our crops be ravish'd from the land?</l>
+            <l>Must all our forests fall beneath your hand?</l>
+            <l>Yet tho' they fall by thy ambitious crimes,</l>
+            <l>Again restor'd, they rise in future times—</l>
+            <l>I see those future times—I see, with joy,</l>
+            <l>Those who can faster plant than thou destroy.</l>
+            <l>Thy Camp, where now embattled legions shine,</l>
+            <l>Shall bear the spreading beech and tow'ring pine.</l>
+            <l>Roll swift ye years—produce the men of taste,</l>
+            <l>To crown with verdant woods the barren waste.</l>
+            <l>And lo! they come—I see the sylvan swains,</l>
+            <l>Whose shady groves shall decorate the plains;</l>
+            <l>
+               <pb n="16" facs="15"/>
+And owe their beauty, many ages hence,</l>
+            <l>To nature's children, Hamilton and Spence.</l>
+         </lg>
+         <lg>
+            <l>Spence shall in Nature's choicest mould be cast,</l>
+            <l>Of manners gentle, elegant of taste;</l>
+            <l>In whom the passions shall so sweetly blend,</l>
+            <l>He ne'er shall make a foe, or lose a friend:</l>
+            <l>Judicious, learned, and sincere of heart;</l>
+            <l>Skill'd in the poet's and the planter's art.</l>
+            <l>Whose care and culture shall rejoice the soil,</l>
+            <l>And make the gloomy marshes round him smile.</l>
+            <l>What pleasure shall he feel to form his grove?</l>
+            <l>To plant new beauties, and the old improve?</l>
+            <l>To open vistas to the circling hill,</l>
+            <l>Or wind about his mount the pleasing rill?</l>
+            <l>Or shape the rounding walk that gently bends,</l>
+            <l>Encompassing his<note place="bottom" n="*">Alluding to a field of Mr. Spence's, which he calls the Field of
+Friendship.—</note> field of happy friends?</l>
+            <l>Where oft he shall employ his virtuous mind,</l>
+            <l>Contriving how to serve, or mend mankind.</l>
+         </lg>
+         <lg>
+            <pb n="17" facs="16"/>
+            <l>Prescient of future times, my mental eyes</l>
+            <l>See heroes, statesmen, peers and patriots rise;</l>
+            <l>Who round thy Camp shall noble structures raise,</l>
+            <l>And plant the paradise of latter days.</l>
+            <l>When GEORGE the<note place="bottom" n="*">If any person should be displeas'd with the word <hi>Honest,</hi> and
+think it too common and vulgar an epithet for the best of monarchs;
+I would beg the favour of him to read over the following passage,
+which I have quoted from a French prelate's sermon, preach'd before
+the parliament of Normandy; and which is, perhaps, the boldest, if
+not the best, performance of the kind that has been published in France
+for some years.—After the good<note place="bottom" n="‡">Bp. of Lizieux.</note> bishop had been commending the
+French monarch; he says; “Let us at the same time do justice to our
+neighbour king. Let us speak of him as a king of wisdom and
+mercy.—Let us stile him GEORGE THE HONEST; for if the general
+voice of sensible men, and the voice of the representatives of a sensible
+people, are to be credited, he, likewise, merits that title. A title
+rever'd by the greatest<note place="bottom" n="†">Mr. Pope.</note> poet of his realm, who truly says,
+An honest man's the noblest work of God.</note> HONEST shall the realm command,</l>
+            <l>When York shall sit the themis of the land;</l>
+            <l>An honour'd Briton, Hamilton his name,</l>
+            <l>Shall nobly beautify that silent stream;</l>
+            <l>Whose curious nymphs shall leave their native floods,</l>
+            <l>To<note place="bottom" n="§">The river Mole not only runs close by Mr. Hamilton's gardens,
+but by the means of an excellet engine of his own invention, is con<lb rend="hidden" type="hyphenInWord"/>veyed
+into them.</note> visit and admire his stately woods:</l>
+            <l>
+               <pb n="18" facs="17"/>
+Delighted to survey the chequer'd scene</l>
+            <l>Of flow'ry lawns and groves for ever green:</l>
+            <l>And vineyards pregnant with the gen'rous bowl,</l>
+            <l>To chear the drooping heart, and warm the frozen soul.</l>
+         </lg>
+         <lg>
+            <l>Time shall produce a valiant Ligonier,</l>
+            <l>Whom kings shall love, and enemies shall fear;</l>
+            <l>A glorious chief, nor Caesar would disdain,</l>
+            <l>Had fate allow'd, to meet him on the plain.</l>
+            <l>I see him calmly bold, humanely brave,</l>
+            <l>Expert to conquer, generous to save:</l>
+            <l>Intrepid when the martial trumpets sound,</l>
+            <l>Content in peace to ornament the ground;</l>
+            <l>To plant his woods, to spread the lawn, or lead</l>
+            <l>The docile river round his flow'ry mead;</l>
+            <l>To open prospects from the mount above,</l>
+            <l>Or walks below meand'ring thro' his grove.</l>
+            <l>Such rural arts the hero shall engage;</l>
+            <l>Arts, nobler far than war's destructive rage.</l>
+            <l>Cornwall shall cultivate the plain below,</l>
+            <l>And make the lazy currents swifter flow:</l>
+            <l>
+               <pb n="19" facs="18"/>
+Hence to the poor his bounty shall be spread,</l>
+            <l>The naked shall be cloath'd, the hungry fed.</l>
+         </lg>
+         <lg>
+            <l>That spacious field Newcastle shall adorn,</l>
+            <l>And Plenty o'er it pour her copious horn:</l>
+            <l>Hesperian fables are but types, to show</l>
+            <l>What golden fruits shall in his garden grow.</l>
+            <l>In vision <hi>now</hi> the whiten'd turrets rear</l>
+            <l>Their heads, and shine conspicuous from afar;</l>
+            <l>Shade above shade the lofty woods ascend,</l>
+            <l>Below the lofty woods the lawns extend;</l>
+            <l>Lawns open, ample, free; as if design'd</l>
+            <l>An emblem of the lib'ral master's mind.</l>
+            <l>While verdant groves around the whole unite,</l>
+            <l>At once affording shelter and delight.</l>
+         </lg>
+         <lg>
+            <l>But see his brother-pilot of the state,</l>
+            <l>Anxious to steer the bark of Britain's fate!</l>
+            <l>Upon the banks of Mole his mansion stands,</l>
+            <l>Obedient nature aiding his commands:</l>
+            <l>The rising hills adorn'd with waving woods,</l>
+            <l>The sloping vales with flocks, with fish the floods:</l>
+            <l>
+               <pb n="20" facs="19"/>
+A sweet variety, with graceful ease,</l>
+            <l>Contriv'd at once to profit and to please—</l>
+            <l>Here sigh'd the sage, as tho' his pensive breast</l>
+            <l>Labour'd with sorrows not to be exprest.</l>
+            <l>Then thus—Uncertain state of humankind!</l>
+            <l>How short the pleasures that employ their mind!</l>
+            <l>Too soon must Pelham leave his beauteous scenes behind.</l>
+            <l>And yet if pray'rs could move celestial Pow'rs,</l>
+            <l>He longer should enjoy his Esher bow'rs—</l>
+            <l>But pray'rs are vain; in vain his children dear,</l>
+            <l>And duteous wife shall pour the tender tear:</l>
+            <l>In vain Britannia would prolong his breath,</l>
+            <l>Her honest faithful statesman yields to death:</l>
+            <l>Yet death adds lustre to his virtuous fame,</l>
+            <l>As darkness gives the stars a brighter flame.</l>
+         </lg>
+         <lg>
+            <l>Beneath thy Camp, in distant times, a<note place="bottom" n="*">Mr. Frederick.</note> swain</l>
+            <l>With vivid greens shall plant the russet plain;</l>
+            <l>The russet plain shall variegate the scenes,</l>
+            <l>And add new beauties to the vivid greens:</l>
+            <l>While gazing shepherds walk delighted by,</l>
+            <l>Charm'd with the contrast grateful to their eye.</l>
+         </lg>
+         <lg>
+            <pb n="21" facs="20"/>
+            <l>Near him a noble<note place="bottom" n="*">The Earl of Middlesex.</note> bard his woods shall raise,</l>
+            <l>And in their shades tune sweet his am'rous lays:</l>
+            <l>Love's tender strains his bosom shall inspire,</l>
+            <l>And animate his song with Dorset's fire.</l>
+         </lg>
+         <lg>
+            <l>Portmore shall form another Cyprian grove,</l>
+            <l>Where other lovely Venuses shall rove:</l>
+            <l>Shall beautify the banks of silver Thames,</l>
+            <l>And thro' his meadows call the winding streams</l>
+            <l>The river-gods, obedient to his will,</l>
+            <l>Shall thro' his garden roll the crystal rill:</l>
+            <l>Lav'd with their urns the branching pines shall rise,</l>
+            <l>And tall majestic cedars climb the skies:</l>
+            <l>A farm shall turn a Tempe of delight,</l>
+            <l>While gazing Naiads wonder at the sight.</l>
+         </lg>
+         <lg>
+            <l>But who is he approaching thro' the shades,</l>
+            <l>Whom handmaid Art attends, and Nature leads?</l>
+            <l>This shall be Southcote!—eminently skill'd</l>
+            <l>To fix the rule of taste in Woburn field.</l>
+            <l>I see his losty oaks advance their heads;</l>
+            <l>I see the slope rejoice beneath their shades;</l>
+            <l>
+               <pb n="22" facs="21"/>
+The temple that adorns the rising brow,</l>
+            <l>The lovely lawn-embracing stream below,</l>
+            <l>That gently winds, and smoothly ling'ring moves,</l>
+            <l>Unwilling to forsake the blissful groves:</l>
+            <l>The terrace, where the branching pines arise,</l>
+            <l>Where op'ning prospects suddenly surprize:</l>
+            <l>The soft acacias with their varied green,</l>
+            <l>Diffusing shades around the sylvan scene:</l>
+            <l>Acanthus, jessamine, and blushing rose,</l>
+            <l>A blooming, beauteous wilderness compose;</l>
+            <l>While fragrant flow'rs embroider all the ground,</l>
+            <l>Embellishing the walks, and breathing odors round—</l>
+            <l>What noble prospects open to my sight!</l>
+            <l>Stupendous objects striking with delight!</l>
+            <l>See Decker's arch magnificently bend:</l>
+            <l>Decker! the Public's voluntary friend.</l>
+            <l>How opposite the motives of your mind?</l>
+            <l>'Tis thine to ruin, his to serve mankind.</l>
+            <l>Not far remote a venerable sage,</l>
+            <l>Woodford, the silver'd ornament of age,</l>
+            <l>Shall fix his seat in Nature's artless bow'rs,</l>
+            <l>And there improve his philosophic hours:</l>
+            <l>
+               <pb n="23" facs="22"/>
+Till hoary Time shall end his studious days,</l>
+            <l>In peaceful honour, dignity and ease.</l>
+         </lg>
+         <lg>
+            <l>What cannot art and human toil produce?</l>
+            <l>Converting useless things to public use.</l>
+            <l>A<note place="bottom" n="*">The new river, made navigable from Weybridge to Guilford,</note> river o'er that barren heath shall flow,</l>
+            <l>And vessels swim where pointed thistles grow.</l>
+            <l>Upon the pleasing borders of the flood</l>
+            <l>I see a rising hospitable wood:</l>
+            <l>Where glades shall open, verdant lawns extend,</l>
+            <l>And northern pines to kiss the elouds ascend;</l>
+            <l>Where birds and beasts at liberty shall rove,</l>
+            <l>And future ages call it Cote's grove.</l>
+            <l>Where wanton fawns shall skip, and tim'rous hares</l>
+            <l>Shall feed securely and forget their fears;</l>
+            <l>But ah! their fears return—who gave them food</l>
+            <l>Pursues them thro' the field and echoing wood:</l>
+            <l>To hunt the puny prey his bosom glows;</l>
+            <l>The only cruel joy his bosom knows.—</l>
+         </lg>
+         <lg>
+            <l>Here paus'd the Druid; for his heaving breast</l>
+            <l>Now swell'd with scenes superior to the rest.</l>
+            <l>
+               <pb n="24" facs="23"/>
+Then thus again—What noble prospects rise!</l>
+            <l>What majesty and beauty strike my eyes!</l>
+            <l>The grand and amiable together meet,</l>
+            <l>The awful terrace and the happy seat:</l>
+            <l>The slope descending to the plain below,</l>
+            <l>Where gently winding waters calmly flow;</l>
+            <l>Till lost in shades, the broad extensive streams</l>
+            <l>Look like a bending bay of silver Thames.</l>
+            <l>Here, Nature's boldest beauties are design'd—</l>
+            <l>Fly swistly, Time—let Lincoln bless mankind.</l>
+            <l>He comes humanely gen'rous and polite,</l>
+            <l>In whom the courtier, patron, friend, unite;</l>
+            <l>Bless'd with a consort, gracefully serene;</l>
+            <l>Who walks a goddess o'er the vendant scene.—</l>
+            <l>Wak'd with the pleasing sound of Lincoln's name,</l>
+            <l>I felt my bosom glow with grateful flame:</l>
+            <l>For, after many storms and tempests past,</l>
+            <l>He brought me to this quiet port at last.</l>
+            <l>My fondest wish was such a rural scene;</l>
+            <l>The sage's pray'r was such a golden mean:</l>
+            <l>Above pale Poverty's dejected state;</l>
+            <l>Below the storms which often wreck the great:</l>
+            <l>
+               <pb n="25" facs="24"/>
+Remote from giddy crowds, and noisy strife;</l>
+            <l>Yet near the few, whose converse sweetens life.</l>
+            <l>Here let me live—be mindful of my end,</l>
+            <l>Adore my Maker, and enjoy my friend.</l>
+            <l>That friend to whom—officious Muse forbear,</l>
+            <l>Nor with distasteful numbers wound his ear;</l>
+            <l>His ear, too delicate to hear the lay</l>
+            <l>His virtues claim, and gratitude would pay.</l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

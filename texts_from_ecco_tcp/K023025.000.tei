@@ -1,0 +1,1907 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dunciad: An heroic poem. In three books.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023025.000</idno>
+            <idno type="docno">CW3314388315</idno>
+            <idno type="ecll">0660300100</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dunciad: An heroic poem. In three books.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>[2],viii,[2],51,[1]p. : ill. ; 12⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London] :</pubPlace>
+                  <publisher>Dublin, printed, London re-printed for A. Dodd,</publisher>
+                  <date>1728.</date>
+                  <idno type="TCP">K023025.000</idno>
+                  <idno type="docno">CW3314388315</idno>
+                  <idno type="ecll">0660300100</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Alexander Pope.</note>
+                  <note>There was no earlier Dublin edition.</note>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P764</note>
+                  <note>Griffith, 198</note>
+                  <note>English Short Title Catalog, ESTCT5537.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <p>
+               <pb facs="3"/>
+               <figure rend="block">
+                  <head>THE DUNCI<lb rend="hidden" type="hyphenInWord"/>AD.</head>
+                  <p>
+                     <list>
+                        <item>P. &amp; R. Arthur</item>
+                        <item>
+                           <gap extent="1 span" rend="content:〈…〉">
+                              <desc>illegible</desc>
+                           </gap>
+                        </item>
+                        <item>Dennis's Works</item>
+                        <item>
+                           <gap extent="1 span" rend="content:〈…〉">
+                              <desc>illegible</desc>
+                           </gap>
+                        </item>
+                        <item>Cibber's Plays</item>
+                     </list>
+                  </p>
+                  <p>DUBLIN; Printed; LONDON; Reprinted <hi>for</hi> A. Dodd</p>
+               </figure>
+            </p>
+         </div>
+         <div type="titlepage">
+            <pb facs="4"/>
+            <p>THE
+DUNCIAD.
+AN
+Heroic Poem.</p>
+            <p>IN
+THREE BOOKS.</p>
+            <p>DUBLIN, Printed, LONDON Re<lb rend="hidden" type="hyphenInWord"/>printed
+for A. DODD. 1728.</p>
+         </div>
+         <div type="tothereader">
+            <pb facs="5"/>
+            <head>THE
+PUBLISHER
+TO THE
+READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T will be found a true observation,
+tho' somewhat surprizing, that
+when any scandal is vented against
+a man of the highest distinction and
+character either in the State or in
+Literature, the publick in general afford it a
+most quiet reception, and the larger part accept it
+as favourably as if it were some kindness done to
+themselves: Whereas if a known scoundrel or
+blockhead chance to be but touch'd upon, a whole
+legion is up in Arms, and it becomes the common
+Cause of all Scriblers, Booksellers, and Printers
+whatsoever.</p>
+            <p>Not to search too deeply into the reason hereof, I
+will only observe as a <hi>Fact,</hi> that every week for
+these two Months past, the town has been perse<lb rend="hidden" type="hyphenInWord"/>cuted
+<pb n="iv" facs="6"/>
+with Pamphlets, Advertisements, Letters,
+and weekly Essays, not only against the Wit and
+Writings, but against the Character and Person,
+of Mr. <hi>Pope.</hi> And that of all those men who have
+received pleasure from his Writings (which by
+modest computation may be about a hundred
+thousand in these Kingdoms of <hi>England</hi> and <hi>Ire<lb rend="hidden" type="hyphenInWord"/>land,</hi>
+not to mention <hi>Jerscy, Guernsey,</hi> the
+<hi>Orcades,</hi> those in the <hi>New world,</hi> and <hi>Foreign<lb rend="hidden" type="hyphenInWord"/>ers</hi>
+who have translated him into their languages)
+of all this number, not a man hath stood up to
+say one word in his defence.</p>
+            <p>The only exception is the Author of the follow<lb rend="hidden" type="hyphenInWord"/>ing
+Poem, who doubtless had either a better in<lb rend="hidden" type="hyphenInWord"/>sight
+into the grounds of this clamour, or a bet<lb rend="hidden" type="hyphenInWord"/>ter
+opinion of Mr. <hi>Pope</hi>'s integrity, join'd with
+a greater personal love for him, than any other
+of his numerous friends and admirers.</p>
+            <p>Further, that he was in his peculiar intima<lb rend="hidden" type="hyphenInWord"/>cy,
+appears from the knowledge he manifests of
+the most <hi>private</hi> Authors of all the <hi>anonymous</hi>
+pieces against him, and from his having in this
+Poem attacked no man living, who had not be<lb rend="hidden" type="hyphenInWord"/>fore
+printed and published against this particular
+Gentleman.</p>
+            <p>How I became possest of it, is of no concern to
+<pb n="v" facs="7"/>
+the Reader; but it would have been a wrong to
+him, had I detain'd this publication: since those
+<hi>Names</hi> which are its chief ornaments, die off dai<lb rend="hidden" type="hyphenInWord"/>ly
+so fast, as must render it too soon unintelligible.
+If it provoke the Author to give us a more per<lb rend="hidden" type="hyphenInWord"/>fect
+edition, I have my end.</p>
+            <p>Who he is, I cannot say, and (which is great
+pity) there is certainly nothing in his style and
+manner of writing, which can distinguish, or
+discover him. For if it bears any resemblance
+to that of Mr. <hi>P.</hi> 'tis not improbable but it
+might be done on purpose, with a view to have
+it pass for his. But by the frequency of his
+allusions to <hi>Virgil,</hi> and a <hi>labour'd,</hi> (not to say
+<hi>affected, shortness,</hi> in imitation of him, I should
+think him more an admirer of the <hi>Roman</hi> Poet
+than of the <hi>Grecian,</hi> and in that, not of the
+same taste with his Friend.</p>
+            <p>I have been well inform'd, that this work
+was the labour of full six years of his life, and
+that he retired himself entirely from all the
+avocations and pleasures of the world, to attend
+diligently to its correction and perfection; and
+six years more he intended to bestow upon it, as
+it should seem by this verse of <hi>Statius,</hi> which
+was cited at the head of his manuscript.
+<q>
+                  <pb n="vi" facs="8"/>
+                  <l>Oh mihi bissenos multum vigilata per annos,</l>
+                  <l>Duncia!—</l>
+               </q>
+            </p>
+            <p>Hence also we learn the true <hi>Title</hi> of the
+Poem; which with the same certainty as we
+call that of <hi>Homer</hi> the <hi>Iliad,</hi> of <hi>Virgil</hi> the
+<hi>Aeneid,</hi> of <hi>Camoens</hi> the <hi>Lusiad,</hi> of <hi>Voltaire</hi>
+the <hi>Henriad,</hi> we may pronounce could have
+been, and can be no other, than<q>THE DUNCIAD.</q>
+            </p>
+            <p>It is styled <hi>Heroic,</hi> as being <hi>doubly</hi> so;
+not only with respect to its nature, which ac<lb rend="hidden" type="hyphenInWord"/>cording
+to the best Rules of the Ancients and
+strictest ideas of the Moderns, is critically such;
+but also with regard to the Heroical disposition
+and high courage of the Writer, who dar'd
+to stir up such a formidable, irritable, and
+implacable race of mortals.</p>
+            <p>The time and date of the Action is evident<lb rend="hidden" type="hyphenInWord"/>ly
+in the last reign, when the office of City
+Poet expir'd upon the death of <hi>Elkanah Set<lb rend="hidden" type="hyphenInWord"/>tle,</hi>
+and he has fix'd it to the Mayoralty of
+Sir <hi>Geo. Tho<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>ld.</hi> But there may arise
+<pb n="vii" facs="9"/>
+some obscurity in Chronology from the <hi>Names</hi>
+in the Poem, by the inevitable removal of
+some Authors, and Insertion of others, in their
+Niches. For whoever will consider the unity
+of the whole design, will be sensible, that the
+<hi>Poem was not made for these Authors, but
+these Authors for the Poem.</hi> And I should
+judge they were clapp'd in as they rose, fresh
+and fresh, and chang'd from day to day, in
+like manner as when the old boughs wither,
+we thrust new ones into a chimney.</p>
+            <p>I would not have the reader too much trou<lb rend="hidden" type="hyphenInWord"/>bled
+or anxious, if he cannot decypher them;
+since when he shall have found them out, he
+will probably know no more of the Persons
+than before.</p>
+            <p>Yet we judg'd it better to preserve them as
+they are, than to change them for fictitious
+names, by which the Satyr would only be mul<lb rend="hidden" type="hyphenInWord"/>tiplied;
+and applied to many instead of one.
+Had the Hero, for instance, been called <hi>Co<lb rend="hidden" type="hyphenInWord"/>drus,</hi>
+how many would have affirm'd him to
+be Mr. <hi>W<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>
+               </hi> Mr. <hi>D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>
+               </hi> Sir <hi>R<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap> B<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>,</hi>
+&amp;c. but now, all that unjust scandal is saved,
+by calling him <hi>Theobald,</hi> which by good luck
+happens to be the name of a real person.</p>
+            <p>
+               <pb n="viii" facs="10"/>
+I am indeed aware, that this name may
+to some appear too mean, for the Hero of an
+Epic Poem? But it is hoped, they will alter
+that opinion, when they find, that an Author
+no less eminent than <hi>la Bruyere,</hi> has thought
+him worthy a place in his Characters.<q>
+                  <p>Voudriez vous, THEOBALDE, que je
+crusse que vous êtes baisse? que vous n'êtes
+plus Poete, ni bel esprit? que vous êtes pre<lb rend="hidden" type="hyphenInWord"/>sentement
+aussi <hi>Mauvais juge</hi> de <hi>tout genre
+d'Ouvrage,</hi> que <hi>Mechant Auteur?</hi> Votre air
+libre &amp; presumptueux me rassure, &amp; me per<lb rend="hidden" type="hyphenInWord"/>suade
+tout le contraire. <hi>&amp;c.</hi> 
+                     <bibl>
+                        <hi>Characteres,</hi>
+Vol. I. de la Societe &amp; de la Conversation,
+<hi>pag.</hi> 176. <hi>Edit. Amst.</hi> 1720.</bibl>
+                  </p>
+               </q>
+            </p>
+         </div>
+         <div type="halftitle">
+            <pb facs="11"/>
+            <p>THE
+DUNCIAD
+IN
+THREE BOOKS.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="book">
+            <pb n="1" facs="12"/>
+            <head>THE
+DUNCIAD.</head>
+            <head>BOOK the FIRST.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">B</seg>OOKS and the man I sing, the first who
+brings</l>
+               <l>The <hi>Smithfield</hi> muses to the ears of kings.</l>
+               <l>Say great <hi>Patricians!</hi> (since yourselves
+inspire</l>
+               <l>These wond'rous works; so <hi>Jove</hi> and fate require!)</l>
+               <l n="5">Say from what cause, in vain decry'd and curst,</l>
+               <l>Still <note place="bottom" n="†">Dryd.</note> 
+                  <hi>Dunce the second reigns like Dunce the first?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In eldest time, e'er mortals writ or read,</l>
+               <l>E'er <hi>Pallas</hi> issued from the Thund'rer's head,</l>
+               <l>
+                  <pb n="2" facs="13"/>
+                  <hi>Dulness</hi> o'er all possess'd her antient right,</l>
+               <l n="10">Daughter of <hi>Chaos</hi> and eternal <hi>Night:</hi>
+               </l>
+               <l>Fate in their dotage this fair idiot gave,</l>
+               <l>Gross as her, sire, and as her mother grave,</l>
+               <l>Laborious, heavy, busy, bold, and blind,</l>
+               <l>She rul'd, in native anarchy, the mind.</l>
+            </lg>
+            <lg>
+               <l n="15">Still her old empire to confirm, she tries,</l>
+               <l>For born a Goddess, <hi>Dulness</hi> never dies.</l>
+            </lg>
+            <lg>
+               <l>Where wave the tatter'd ensigns of <hi>Rag-Fair,</hi>
+               </l>
+               <l>A yawning ruin hangs and nods in air;</l>
+               <l>Keen, hollow winds howl thro' the bleak recess,</l>
+               <l n="20">Emblem of music caus'd by emptiness:</l>
+               <l>Here in one bed two shiv'ring sisters lye,</l>
+               <l>The cave of <hi>Poverty</hi> and <hi>Poetry.</hi>
+               </l>
+               <l>This, the <hi>Great Mother</hi> dearer held than all</l>
+               <l>The clubs of <hi>Quidnunc</hi>'s, or her own <hi>Guild-hall:</hi>
+               </l>
+               <l n="25">Here stood her Opium, here she nurs'd her Owls,</l>
+               <l>And destin'd here th' imperial seat of fools.</l>
+               <l>Hence springs each weekly muse, the living boast</l>
+               <l>Of <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l</hi>'s chaste press, and <hi>L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t</hi>'s rubric post;</l>
+               <l>
+                  <pb n="3" facs="14"/>
+Hence hymning <hi>Tyburn</hi>'s elegiac lay,</l>
+               <l n="30">Hence the soft sing-song on <hi>Cecilia</hi>'s day,</l>
+               <l>
+                  <hi>Sepulchral</hi> lyes our holy walls to grace,</l>
+               <l>And <hi>New-year-Odes,</hi> and all the <hi>Grubstreet</hi> race.</l>
+            </lg>
+            <lg>
+               <l>'Twas here in clouded majesty she shone;</l>
+               <l>Four guardian <hi>Virtues,</hi> round, support her throne;</l>
+               <l n="35">Fierce champion <hi>Fortitude,</hi> that knows no fears</l>
+               <l>Of hisses, blows, or want, or loss of ears:</l>
+               <l>Calm <hi>Temperance,</hi> whose blessings those partake</l>
+               <l>Who hunger, and who thirst for scribling sake:</l>
+               <l>
+                  <hi>Prudence,</hi> whose glass presents th' approaching jayl;</l>
+               <l n="40">Poetic <hi>Justice,</hi> with her lifted scale;</l>
+               <l>Where in nice balance, truth with gold she weighs,</l>
+               <l>And solid pudding against empty praise.</l>
+            </lg>
+            <lg>
+               <l>Here she beholds the Chaos dark and deep,</l>
+               <l>Where nameless <hi>somethings</hi> in their causes sleep,</l>
+               <l n="45">'Till genial <hi>Jacob,</hi> or a warm <hi>third-day</hi>
+               </l>
+               <l>Calls forth each mass, a poem or a play.</l>
+               <l>How hints, like spawn, scarce quick in embryo lie;</l>
+               <l>How new-born nonsense first is taught to cry;</l>
+               <l>
+                  <pb n="4" facs="15"/>
+Maggots half-form'd, in rhyme exactly meet,</l>
+               <l n="50">And learn to crawl upon poetic feet.</l>
+               <l>Here one poor <hi>Word</hi> a hundred clenches makes,</l>
+               <l>And ductile dulness new meanders takes;</l>
+               <l>There motley <hi>Images</hi> her fancy strike,</l>
+               <l>
+                  <hi>Figures</hi> ill-pair'd, and <hi>Similes</hi> unlike.</l>
+               <l n="55">She sees a mob of <hi>Metaphors</hi> advance,</l>
+               <l>Pleas'd with the madness of the mazy dance:</l>
+               <l>How <hi>Tragedy</hi> and <hi>Comedy</hi> embrace;</l>
+               <l>How <hi>Farce</hi> and <hi>Epic</hi> get a jumbled race;</l>
+               <l>How <hi>Time</hi> himself stands still at her command,</l>
+               <l n="60">Realms shift their place, and Ocean turns to land.</l>
+               <l>Here gay <hi>Description Aegypt</hi> glads with showers,</l>
+               <l>Or gives to <hi>Zembla</hi> fruits, to <hi>Barca</hi> flowers;</l>
+               <l>Glitt'ring with ice here hoary hills are seen,</l>
+               <l>Fast by, fair vallies of eternal green,</l>
+               <l n="65">On cold <hi>December</hi> fragrant chaplets blow,</l>
+               <l>And heavy harvests nod beneath the snow.</l>
+            </lg>
+            <lg>
+               <l>All these and more, the cloud-compelling Queen</l>
+               <l>Beholds thro' fogs, that magnify the scene;</l>
+               <l>
+                  <pb n="5" facs="16"/>
+She, tinfel'd o'er in robes of varying hues,</l>
+               <l n="70">With self-applause her wild creation views,</l>
+               <l>Sees momentary monsters rise and fall,</l>
+               <l>And with her own fools-colours gilds them all.</l>
+            </lg>
+            <lg>
+               <l>'Twas on the day, when <note place="bottom" n="†">Sir <hi>Geo. Tho<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                           <desc>blank</desc>
+                        </gap>
+                     </hi>
+                  </note> 
+                  <hi>Tho<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>d,</hi> rich and grave,</l>
+               <l>Like <note place="bottom" n="‡">Cimon the famous <hi>Athenian</hi> general, who obtained a victory by sea, and another by land, on the same day, over the <hi>Persians</hi> and <hi>Barbarians.</hi>
+                  </note> 
+                  <hi>Cimon</hi> triumph'd both on land and wave,</l>
+               <l n="75">(Pomps without guilt, of bloodless swords and maces,</l>
+               <l>Glad chains, warm furs, broad banners, and broadfaces)</l>
+               <l>Now night descending, the proud scene was o'er,</l>
+               <l>Yet liv'd, in <hi>Settle</hi>'s numbers, one day more.</l>
+               <l>Now <hi>May'rs</hi> and <hi>Shrieves</hi> in pleasing flumbers lay,</l>
+               <l n="80">And eat in dreams the custard of the day:</l>
+               <l>But pensive poets painful vigils keep;</l>
+               <l>Sleepless themselves, to give their readers sleep.</l>
+               <l>Much to her mind the solemn feast recalls,</l>
+               <l>What city-<hi>Swans</hi> once sung within the walls,</l>
+               <l n="85">Much she revolves their arts, their antient praise,</l>
+               <l>And sure succession down from <note place="bottom" n="*">
+                     <hi>John Heywood,</hi> whose Enterludes
+were printed in <hi>Hen.</hi> ViIIth's time.</note> 
+                  <hi>Heywood</hi>'s days.</l>
+               <l>
+                  <pb n="6" facs="17"/>
+She saw with joy the line immortal run,</l>
+               <l>Each sire imprest and glaring in his son;</l>
+               <l>So watchful <hi>Bruin</hi> forms with plastic care</l>
+               <l n="90">Each growing lump, and brings it to a Bear.</l>
+               <l>She saw in <hi>N<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n</hi> all his father shine,</l>
+               <l>And <hi>E<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n</hi> eke out <hi>Bl<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi>'s endless line;</l>
+               <l>She saw slow <hi>P<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s</hi> creep like <hi>T<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>te</hi>'s poor page,</l>
+               <l>And furious <hi>D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n</hi> foam in <hi>Wh<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi>'s rage.</l>
+            </lg>
+            <lg>
+               <l n="95">In each, she marks her image full exprest,</l>
+               <l>But chief, in <hi>Tibbald</hi>'s monster-breeding breast,</l>
+               <l>Sees Gods with Daemons in strange league ingage,</l>
+               <l>And <note place="bottom" n="†">This, I presume, alludes to the extravagancies of the Farces of this author. See book III. vers. 170, <hi>&amp;c.</hi>
+                  </note> earth, and heav'n, and hell, her battels wage!</l>
+            </lg>
+            <lg>
+               <l>She ey'd the Bard where supperless he fate,</l>
+               <l n="100">And pin'd, unconscious of his rising fate;</l>
+               <l>Studious he sate, with all his books around,</l>
+               <l>Sinking from thought to thought, a vast profound?</l>
+               <l>Plung'd for his sense, but found no bottom there:</l>
+               <l>Then writ, and flounder'd on, in mere despair.</l>
+               <l n="105">
+                  <pb n="7" facs="18"/>
+He roll'd his eyes that witness'd huge dismay,</l>
+               <l>Where yet unpawn'd, much learned lumber lay,</l>
+               <l>Volumes, whose size the space exactly fill'd;</l>
+               <l>Or which fond authors were so good to gild;</l>
+               <l>Or where, by Sculpture made for ever known,</l>
+               <l n="110">The page admires new beauties, not its own.</l>
+               <l>Here swells the shelf with <hi>Ogleby</hi> the <hi>great,</hi>
+               </l>
+               <l>There, stamp'd with arms, <hi>Newcastle</hi> shines compleat,</l>
+               <l>Here all his suff'ring brotherhood retire,</l>
+               <l>And 'scape the martyrdom of jakes and fire;</l>
+               <l n="115">A <hi>Gothic</hi> Vatican! of <hi>Greece</hi> and <hi>Rome</hi>
+               </l>
+               <l>Well-purg'd, and worthy <hi>W<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>y, W<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s,</hi> and <hi>Bl<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But high above, more solid Learning shone,</l>
+               <l>The <hi>Classicks</hi> of an age that heard of none;</l>
+               <l>There <hi>Caxton</hi> slept, with <hi>Wynkin</hi> at his side,</l>
+               <l n="120">One clasp'd in wood, and one in strong cow-hide:</l>
+               <l>There sav'd by spice, like mummies, many a year,</l>
+               <l>Old Bodies of philosophy appear:</l>
+               <l>
+                  <hi>De Lyra</hi> there a dreadful front extends,</l>
+               <l>And there, the groaning Shelves <hi>Philemon</hi> bends.</l>
+               <l n="125">
+                  <pb n="8" facs="19"/>
+Of these twelve volumes, twelve of amplest size,</l>
+               <l>Redeem'd from tapers and defrauded pyes,</l>
+               <l>Inspir'd he seizes: These an altar raise:</l>
+               <l>An hecatomb of pure, unsully'd lays</l>
+               <l>That altar crowns; a folio Common-place</l>
+               <l n="130">Founds the whole pyle, of all his works the base:</l>
+               <l>Quarto's, octavo's, shape the lessening pyre,</l>
+               <l>And last, a <note place="bottom" n="†">In duodecimo, translated from <hi>Sophocles.</hi>
+                  </note> 
+                  <hi>little Ajax</hi> tips the spire.</l>
+            </lg>
+            <lg>
+               <l>Then he▪ Great Tamer of all human art!</l>
+               <l>First in my care, and nearest at my heart!</l>
+               <l n="135">
+                  <hi>Dulness!</hi> whose good old cause I yet defend,</l>
+               <l>With whom my muse began, with whom shall end!</l>
+               <l>Oh thou! of business the directing soul,</l>
+               <l>To human heads like byass to the bowl,</l>
+               <l>Which as more pond'rous makes their aim more true,</l>
+               <l n="140">Obliquely wadling to the mark in view.</l>
+               <l>O ever gracious to perplex'd mankind!</l>
+               <l>Who spread a healing mist before the mind,</l>
+               <l>And, lest we err by wit's wild, dancing light,</l>
+               <l>Secure us kindly in our native <hi>night.</hi>
+               </l>
+               <l n="145">
+                  <pb n="9" facs="20"/>
+Ah! still o'er <hi>Britain</hi> stretch that peaceful wand,</l>
+               <l>Which lulls th' <hi>Helvetian</hi> and <hi>Batavian</hi> land,</l>
+               <l>Where 'gainst thy throne if rebel Science rise,</l>
+               <l>She does but show her coward face and dies:</l>
+               <l>There, thy good <hi>scholiasts</hi> with unweary'd pains</l>
+               <l n="150">Make <hi>Horace</hi> flat, and humble <hi>Maro</hi>'s strains;</l>
+               <l>Here studious I unlucky Moderns save,</l>
+               <l>Nor sleeps one error in its father's grave,</l>
+               <l>Old puns restore, lost blunders nicely seek,</l>
+               <l>And crucify poor <hi>Shakespear</hi> once a week.</l>
+               <l n="155">For thee I dim these eyes, and stuff this head,</l>
+               <l>With all such reading as was never read;</l>
+               <l>For thee supplying, in the worst of days,</l>
+               <l>Notes to dull books, and Prologues to dull plays;</l>
+               <l>For thee explain a thing 'till all men doubt it,</l>
+               <l n="160">And write about it, Goddess, and about it;</l>
+               <l>So spins the silkworm small its slender store,</l>
+               <l>And labours, 'till it clouds itself all o'er.</l>
+               <l>Not that my pen to criticks was confin'd,</l>
+               <l>My verse gave ampler lessons to mankind;</l>
+               <l n="165">So written precepts may successless prove,</l>
+               <l>But sad examples never fail to move.</l>
+               <l>
+                  <pb n="10" facs="21"/>
+As forc'd from wind-guns, lead it self can fly,</l>
+               <l>And pond'rous slugs cut swiftly thro' the sky;</l>
+               <l>As clocks to weight their nimble motion owe,</l>
+               <l n="170">The wheels above urg'd by the load below;</l>
+               <l>Me, Emptiness and Dulness could inspire,</l>
+               <l>And were my Elasticity, and Fire.</l>
+               <l>Had heav'n decreed such works a longer date,</l>
+               <l>Heav'n had decreed to spare the <hi>Grubstreet</hi>-state.</l>
+               <l n="175">But see <note place="bottom" n="*">This was the last year of <hi>Elkanah Settle</hi>'s life. He was poet to the city of <hi>London,</hi> whose business was to compose yearly panegyricks on the Lord Mayor, and verses for the Pageants; but since the aboli<lb rend="hidden" type="hyphenInWord"/>tion of that part of the shows, the employment ceas'd, so that <hi>Settle</hi> had no successor to that place.</note> great <hi>Settle</hi> to the dust descend,</l>
+               <l>And all thy cause and empire at an end!</l>
+               <l>Cou'd <hi>Troy</hi> be sav'd by any single hand,</l>
+               <l>His gray-goose-weapon must have made her stand.</l>
+               <l>But what can I<gap resp="#oxf" extent="1 letter" rend="content:•">
+                     <desc>illegible</desc>
+                  </gap> 
+                  <hi>my Flaccus</hi> cast aside,</l>
+               <l n="180">Take up th' <hi>Attorney</hi>'s (once my better) <hi>guide?</hi>
+               </l>
+               <l>Or rob the <hi>Roman</hi> geese of all their glories,</l>
+               <l>And save the state by cackling to the Tories?</l>
+               <l>Yes, to my country I my pen consign,</l>
+               <l>Yes, from this moment, mighty <hi>Mist!</hi> am thine,</l>
+               <l n="185">
+                  <pb n="11" facs="22"/>
+And rival, <hi>Curtius!</hi> of thy fame and zeal,</l>
+               <l>O'er head and ears plunge for the public weal.</l>
+               <l>Adieu my children! better thus expire</l>
+               <l>Un-stall'd, unsold; thus glorious mount in fire</l>
+               <l>Fair without spot; than greas'd by grocer's hands,</l>
+               <l n="190">Or shipp'd with <hi>W<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> to ape and monkey lands,</l>
+               <l>Or wafting ginger, round the streets to go,</l>
+               <l>And visit alehouse where ye first did grow.</l>
+            </lg>
+            <lg>
+               <l>With that, he lifted thrice the sparkling brand,</l>
+               <l>And thrice he dropt it from his quiv'ring hand:</l>
+               <l n="195">Then lights the structure, with averted eyes;</l>
+               <l>The rowling smokes involve the sacrifice.</l>
+               <l>The opening clouds disclose each work by turns,</l>
+               <l>Now flames old <note place="bottom" n="*">Plays and Farces of <hi>T<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                           <desc>blank</desc>
+                        </gap>d.</hi>
+                  </note> 
+                  <hi>Memnon,</hi> now <hi>Rodrigo</hi> burns,</l>
+               <l>In one quick slash see <hi>Proserpine</hi> expire,</l>
+               <l n="200">And last, his own cold <hi>Aeschylus</hi> took fire.</l>
+               <l>Then gush'd the tears, as from the <hi>Trojan</hi>'s eyes</l>
+               <l>When the last blaze sent <hi>Ilion</hi> to the skies.</l>
+               <l>
+                  <pb n="12" facs="23"/>
+Rowz'd by the light, old <hi>Dulness</hi> heav'd the head,</l>
+               <l>Then snatch'd a sheet of <hi>Thulè</hi> from her Bed,</l>
+               <l n="205">Sudden she flies, and whelms it o'er the pyre;</l>
+               <l>Down sink the flames, and with a hiss expire.</l>
+            </lg>
+            <lg>
+               <l>Her ample presence fills up all the place;</l>
+               <l>A veil of fogs dilates her awful face,</l>
+               <l>Great in her charms! as when on Shrieves and May'rs</l>
+               <l n="210">She looks, and breathes herself into their airs.</l>
+               <l>She bids him wait her to the sacred Dome;</l>
+               <l>Well-pleas'd he enter'd, and confess'd his home:</l>
+               <l>So spirits, ending their terrestrial race,</l>
+               <l>Ascend, and recognize their native place:</l>
+               <l n="215">Raptur'd, he gazes round the dear retreat,</l>
+               <l>And <note place="bottom" n="†">He writ a poem called the <hi>Cave of Poverty,</hi> printed in 1715.</note> in sweet numbers celebrates the seat.</l>
+            </lg>
+            <lg>
+               <l>Here to her Chosen all her works she shows;</l>
+               <l>Prose swell'd to verse, Verse loitring into prose:</l>
+               <l>How random thoughts now meaning chance to find,</l>
+               <l n="220">Now leave all memory of sense behind;</l>
+               <l>
+                  <pb n="13" facs="24"/>
+How Prologues into Prefaces decay,</l>
+               <l>And those to Notes are fritter'd quite away:</l>
+               <l>How Index-learning turns no student pale,</l>
+               <l>Yet holds the eel of science by the Tail:</l>
+               <l n="225">How, with less reading than makes felons 'scape;</l>
+               <l>Less human genius than God gives an ape,</l>
+               <l>Small thanks to <hi>France,</hi> and none to <hi>Rome</hi> or <hi>Greece,</hi>
+               </l>
+               <l>A past, vamp'd, future, old, reviv'd, new piece,</l>
+               <l>'Twixt <hi>Plautus, Fletcher, Congreve,</hi> and <hi>Corneille,</hi>
+               </l>
+               <l n="230">Can make a <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>r, Jo<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n,</hi> or <hi>O<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ll.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Goddess then, o'er his anointed head,</l>
+               <l>With mystic words the sacred Opium shed;</l>
+               <l>And lo! her <hi>Bird</hi> (a monster of a fowl!</l>
+               <l>Something betwixt a <hi>H<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> and Owl)</l>
+               <l n="235">Perch'd on his crown. All hail! and hail again</l>
+               <l>My son! the promis'd land expects thy reign.</l>
+               <l>Know <hi>Settle,</hi> cloy'd with custard and with praise,</l>
+               <l>Is gather'd to the Dull of antient days,</l>
+               <l>Safe, where no criticks damn, no duns molest,</l>
+               <l n="240">Where <hi>G<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n, B<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>,</hi> and high-born <hi>H<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> rest!</l>
+               <l>
+                  <pb n="14" facs="25"/>
+I see a King! who leads my chosen sons</l>
+               <l>To lands that flow with clenches and with puns:</l>
+               <l>'Till each fam'd theatre my empire own,</l>
+               <l>Till <hi>Albion,</hi> as <hi>Hibernia,</hi> bless my throne.</l>
+               <l n="245">I see! I see!—Then rapt, she spoke no more.</l>
+               <l>God save King <hi>Tibbald!</hi> Grubstreet <hi>alleys roar.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So when <hi>Jove</hi>'s block descended from on high,</l>
+               <l>(As sings thy great fore-father, <hi>Ogilby,</hi>)</l>
+               <l>Hoarse thunder to its bottom shook the bog,</l>
+               <l n="250">And the loud nation croak'd, <hi>God save King</hi> Log!</l>
+            </lg>
+            <trailer>End of the first Book.</trailer>
+         </div>
+         <div n="2" type="book">
+            <pb n="15" facs="26"/>
+            <head>THE
+DUNCIAD.</head>
+            <head>Book the SECOND.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>HE sons of <hi>Dulness</hi> meet: an endless
+band</l>
+               <l>Pours forth, and leaves unpeopled half
+the land,</l>
+               <l>A motley mixture! in long wigs, in bags,</l>
+               <l>In silks, in crapes, in garters, and in rags;</l>
+               <l n="5">From drawing rooms, from colleges, from garrets,</l>
+               <l>On horse, on foot, in hacks, and gilded chariots,</l>
+               <l>All who true Dunces in her cause appear'd,</l>
+               <l>And all who knew those Dunces to reward.</l>
+            </lg>
+            <lg>
+               <pb n="16" facs="27"/>
+               <l>Now herald hawker's rusty voice proclaims</l>
+               <l n="10">Heroic prizes, and advent'rous Games;</l>
+               <l>In that wide space the Goddess took her stand</l>
+               <l>Where the tall May-pole once o'erlook'd the <hi>Strand</hi>;</l>
+               <l>But now (so <hi>ANNE</hi> and Piety ordain)</l>
+               <l>A Church collects the saints of <hi>Drury-lane.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l n="15">With authors, stationers obey'd the call;</l>
+               <l>The field of glory is a field for all;</l>
+               <l>Glory, and gain, th' industrious tribe provoke,</l>
+               <l>And gentle <hi>Dulness</hi> ever loves a joke.</l>
+               <l>A Poet's Form she sets before their eyes,</l>
+               <l n="20">And bids the nimblest racer seize the prize;</l>
+               <l>No meagre, muse-rid mope, adust and thin,</l>
+               <l>In a dun night-gown of his own loose skin;</l>
+               <l>But such a bulk as no twelve bards could raise,</l>
+               <l>Twelve starving bards of these degen'rate days.</l>
+               <l n="25">All as a partridge plump, full-fed, and fair,</l>
+               <l>She form'd this image of well-bodied air,</l>
+               <l>With pert flat eyes she window'd well its head,</l>
+               <l>A brain of feathers, and a heart of lead,</l>
+               <l>
+                  <pb n="17" facs="28"/>
+And empty words she gave, and sounding strain;</l>
+               <l n="30">But senseless, lifeless! Idol void and vain!</l>
+               <l>Never was dasht out, at one lucky hit,</l>
+               <l>A fool, so just a copy of a wit;</l>
+               <l>So like, that criticks said and courtiers swore,</l>
+               <l>A wit it was, and call'd the phantom, <hi>M<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l n="35">All gaze with ardour: some, a Poet's name,</l>
+               <l>Others, a sword-knot and lac'd suit inflame:</l>
+               <l>But lofty <hi>L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t</hi> in the circle rose;</l>
+               <l>"This prize is mine; who tempt it, are my foes:</l>
+               <l>"With me began this genius, and shall end:</l>
+               <l n="40">He spoke, and who with <hi>L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t</hi> shall contend?</l>
+            </lg>
+            <lg>
+               <l>Fear held them mute. Alone, untaught to fear,</l>
+               <l>Stood dauntless <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l.</hi> "Behold that rival here!</l>
+               <l>"The race by vigor, not by vaunts is won;</l>
+               <l>"So take the hindmost Hell.—He said, and run.</l>
+               <l n="45">Swift as a bard the bailiff leaves behind,</l>
+               <l>He left huge <hi>L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t,</hi> and out-stript the wind.</l>
+               <l>As when a dab-chick waddles thro' the copse,</l>
+               <l>On legs and wings, and flies, and wades, and hops;</l>
+               <l>
+                  <pb n="18" facs="29"/>
+So lab'ring on, with shoulders, hands, and head,</l>
+               <l n="50">Wide as a windmill all his figure spread,</l>
+               <l>With steps unequal <hi>L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t</hi> urg'd the race,</l>
+               <l>And seem'd to emulate great <hi>Jacob</hi>'s pace.</l>
+               <l>Full in the middle way there stood a lake,</l>
+               <l>Which <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l</hi>'s <hi>Corinna</hi> chanc'd that morn to make,</l>
+               <l n="55">(Such was her wont, at early dawn to drop</l>
+               <l>Her evening cates before his neighbour's shop,)</l>
+               <l>Here fortun'd <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l</hi> to slide: loud shout the band,</l>
+               <l>And <hi>L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t, L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t,</hi> rings thro' all the <hi>Strand.</hi>
+               </l>
+               <l>Obscene with filth the varlet lies bewray'd,</l>
+               <l n="60">Fal'n in the plash his wickedness had lay'd:</l>
+               <l>Then first (if Poets ought of truth declare)</l>
+               <l>The caitiff <hi>Vaticide</hi> conceiv'd a prayer.</l>
+            </lg>
+            <lg>
+               <l>Hear <hi>Jove!</hi> whose name my bards and I adore,</l>
+               <l>As much at least as any Gods, or more;</l>
+               <l n="65">And him and his, if more devotion warms,</l>
+               <l>Down with the <note place="bottom" n="*">The <hi>Bible C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                           <desc>blank</desc>
+                        </gap>l</hi>'s <gap resp="#oxf" extent="1 word" rend="content:〈◊〉">
+                        <desc>illegible</desc>
+                     </gap>.</note> 
+                  <hi>Bible,</hi> up with the <note place="bottom" n="†">The <hi>Cross-keys L<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                           <desc>blank</desc>
+                        </gap>t</hi>'s.</note> 
+                  <hi>Pope's Arms.</hi>
+               </l>
+               <l>
+                  <pb n="19" facs="30"/>
+                  <note place="bottom" n="‡">
+                     <hi>See</hi> Lucian'<hi>s</hi> Icaro-Menippus.</note> A place there is, betwixt earth, air and seas,</l>
+               <l>Where from <hi>Ambrosia, Jove</hi> retires for ease.</l>
+               <l>There in his seat two spacious Vents appear,</l>
+               <l n="70">On this he sits, to that he leans his ear,</l>
+               <l>There hears the various vows of fond mankind,</l>
+               <l>Some beg an eastern, some a western wind:</l>
+               <l>All vain petitions, sent by winds on high,</l>
+               <l>With reams abundant this abode supply;</l>
+               <l n="75">Amus'd he reads, and then returns the bills</l>
+               <l>Sign'd with that <hi>Ichor</hi> which from Gods distills.</l>
+            </lg>
+            <lg>
+               <l>In office here fair <hi>Cloacina</hi> stands,</l>
+               <l>And ministers to <hi>Jove</hi> with purest hands;</l>
+               <l>Forth from the heap she pick'd her vot'ry's pray'r,</l>
+               <l n="80">And plac'd it next him, a distinction rare!</l>
+               <l>Oft, as he fish'd her nether realms for wit,</l>
+               <l>The Goddess favour'd him, and favours yet.</l>
+               <l>Renew'd by ordure's sympathetic force,</l>
+               <l>As oil'd with magic juices for the course,</l>
+               <l n="85">Vig'rous he rises; from th' effluvia strong</l>
+               <l>Imbibes new life, and scours and stinks along,</l>
+               <l>
+                  <pb n="20" facs="31"/>
+Re-passes <hi>L<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t,</hi> vindicates the race,</l>
+               <l>Nor heeds the brown dishonours of his face.</l>
+            </lg>
+            <lg>
+               <l>And now the victor stretch'd his eager hand,</l>
+               <l n="90">Where the tall Nothing stood, or seem'd to stand;</l>
+               <l>A shapeless shade, it melted from his sight,</l>
+               <l>Like forms in clouds, or visions of the night!</l>
+               <l>Baffled, yet present ev'n amidst despair,</l>
+               <l>To seize his papers, <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l,</hi> was next thy care;</l>
+               <l n="95">His papers all, the sportive winds up-lift,</l>
+               <l>And whisk 'em back to <hi>G<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>,</hi> to <hi>Y<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>,</hi> to <hi>S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>.</hi>
+               </l>
+               <l>Th' embroider'd suit, at least, he deem'd his prey;</l>
+               <l>That suit, an unpay'd Taylor snatch'd away!</l>
+               <l>No rag, no scrap, of all the beau, or wit,</l>
+               <l n="100">That once so flutter'd, and that once so writ.</l>
+            </lg>
+            <lg>
+               <l>Heav'n rings with laughter: Of the laughter vain,</l>
+               <l>
+                  <hi>Dulness,</hi> good Queen, repeats the jest again.</l>
+               <l>Three wicked imps of her own <hi>Grubstreet</hi> Choir</l>
+               <l>She deck'd like <hi>Congreve, Addison,</hi> and <hi>Prior</hi>;</l>
+               <l n="105">
+                  <hi>Mears, Warner, Wilkins</hi> run: Delusive thought!</l>
+               <l>
+                  <gap resp="#oxf" extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap>, <gap resp="#oxf" extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap>, and <gap resp="#oxf" extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap>, the wretches caught.</l>
+               <l>
+                  <pb n="21" facs="32"/>
+                  <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l</hi> stretches after <hi>Gay,</hi> but <hi>Gay</hi> is gone,</l>
+               <l>He grasps an empty <note place="bottom" n="†">
+                     <hi>Joseph Gay,</hi> a fictitious name put by <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                           <desc>blank</desc>
+                        </gap>l</hi> before several Pamphlets.</note> 
+                  <hi>Joseph</hi> for a <hi>John.</hi>
+               </l>
+               <l>So <hi>Proteus,</hi> hunted in a nobler shape,</l>
+               <l n="110">Became, when seiz'd, a Puppy or an Ape.</l>
+            </lg>
+            <lg>
+               <l>To him the Goddess. Son, thy grief lay down;</l>
+               <l>And turn this whole illusion on the town.</l>
+               <l>As the sage dame experienc'd in her trade,</l>
+               <l>By names of Toasts retails each batter'd jade,</l>
+               <l n="115">(Whence hapless Monsieur much complains at <hi>Paris.</hi>
+               </l>
+               <l>Of wrongs from Duchesses and Lady <hi>Marys</hi>)</l>
+               <l>Be thine, my stationer! this magic gift;</l>
+               <l>
+                  <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> shall be <hi>Prior,</hi> and <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n, Swift</hi>;</l>
+               <l>So shall each hostile name become our own,</l>
+               <l n="120">And we too boast our <hi>Garth</hi> and <hi>Addison.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With that the Goddess (piteous of his case,</l>
+               <l>Yet smiling at his ruful length of face)</l>
+               <l>Gives him a cov'ring, worthy to be spread</l>
+               <l>On <hi>Codrus</hi>' old, or <gap resp="#oxf" extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap>'s modern bed;</l>
+               <l n="125">
+                  <pb n="22" facs="33"/>
+Instructive work! whose wry-mouth'd portraiture</l>
+               <l>Display'd the fates her confessors endure.</l>
+               <l>Ear-less on high, stood pillory'd <hi>D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>And <hi>T<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> flagrant from the lash, below:</l>
+               <l>There kick'd and cudgel'd <hi>R<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> might ye view,</l>
+               <l>The very worstead still look'd black and blue:</l>
+               <l n="130">Himself among the storied chiefs he spies,</l>
+               <l>As from the blanket high in air he flies,</l>
+               <l>And oh! (he cry'd) what street, what lane but knows</l>
+               <l>Our purgings, pumpings, blanketings and blows?</l>
+               <l>In ev'ry loom our labors shall be seen,</l>
+               <l n="135">And the fresh vomit run for ever green!</l>
+            </lg>
+            <lg>
+               <l>See in the circle next, <hi>Eliza</hi> plac'd;</l>
+               <l>Two babes of love close clinging to her waste;</l>
+               <l>Fair as before her works she stands confess'd,</l>
+               <l>In flow'r'd brocade by bounteous <hi>Kirkall</hi> dress'd,</l>
+               <l n="140">Pearls on her neck, and roses in her hair,</l>
+               <l>And her fore-buttocks to the navel bare.</l>
+               <l>The Goddess then: "Who best can send on high</l>
+               <l>"The salient spout, fair-streaming to the sky;</l>
+               <l>
+                  <pb n="23" facs="34"/>
+"His be yon <hi>Juno</hi> of majestic size,</l>
+               <l n="145">"With cow-like udders, and with ox-like eyes.</l>
+               <l>"This <hi>China</hi>-Jordan, let the chief o'ercome</l>
+               <l>"Replenish, not ingloriously, at home.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ch<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>d</hi> and <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l</hi> accept this glorious strife,</l>
+               <l>(Tho' one his Son dissuades, and one his Wife)</l>
+               <l n="150">This on his manly confidence relies,</l>
+               <l>That on his vigor and superior size.</l>
+               <l>First <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>d</hi> lean'd against his letter'd post;</l>
+               <l>It rose, and labor'd to a curve at most:</l>
+               <l>So <hi>Jove</hi>'s bright bow displays its watry round,</l>
+               <l n="155">(Sure sign, that no spectator shall be drown'd)</l>
+               <l>A second effort brought but new disgrace,</l>
+               <l>For straining more, it flies in his own face;</l>
+               <l>Thus the small jett which hasty hands unlock,</l>
+               <l>Spirits in the gard'ners eyes who turns the cock.</l>
+               <l n="160">Not so from shameless <hi>C<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l</hi>: Impetuous spread</l>
+               <l>The stream, and smoaking, flourish'd o'er his head.</l>
+               <l>So, (fam'd like thee for turbulence and horns,)</l>
+               <l>
+                  <hi>Eridanus</hi> his humble fountain scorns,</l>
+               <l>
+                  <pb n="24" facs="35"/>
+Thro' half the heav'ns he pours th' exalted urn;</l>
+               <l n="165">His rapid waters in their passage burn.</l>
+            </lg>
+            <lg>
+               <l>Swift as it mounts, all follow with their eyes;</l>
+               <l>Still happy, Impudence obtains the prize.</l>
+               <l>Thou triumph'st, Victor of the high-wrought day,</l>
+               <l>And the pleas'd dame soft-smiling leads away.</l>
+               <l n="170">
+                  <hi>Ch<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>d,</hi> through perfect modesty o'ercome,</l>
+               <l>Crown'd with the Jordan, walks contented home.</l>
+            </lg>
+            <lg>
+               <l>But now for <hi>Authors</hi> nobler palms remain:</l>
+               <l>Room for my Lord! three Jockeys in his train;</l>
+               <l>Six huntsmen with a shout precede his chair;</l>
+               <l n="175">He grins, and looks broad nonsense with a stare.</l>
+               <l>His honour'd meaning, <hi>Dulness</hi> thus exprest.</l>
+               <l>"He wins this Patron who can tickle best."</l>
+            </lg>
+            <lg>
+               <l>He chinks his purse, and takes his seat of state,</l>
+               <l>With ready quills the Dedicators wait,</l>
+               <l n="180">Now at his head the dext'rous task commence,</l>
+               <l>And instant, fancy feels th' imputed sense;</l>
+               <l>
+                  <pb n="25" facs="36"/>
+Now gentle touches wanton o'er his face,</l>
+               <l>He struts <hi>Adonis,</hi> and affects grimace:</l>
+               <l>
+                  <hi>R<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> the feather to his ear conveys,</l>
+               <l n="185">Then his nice taste directs our <hi>Operas:</hi>
+               </l>
+               <l>
+                  <gap resp="#oxf" extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> his mouth with <hi>Classic</hi> flatt'ry opes,</l>
+               <l>And the puft <hi>Orator</hi> bursts out in tropes.</l>
+               <l>But <hi>O<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> the <hi>Poet</hi>'s healing balm</l>
+               <l>Strives to extract from his soft, giving palm;</l>
+               <l n="190">Unlucky <hi>O<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi>! thy lordly master</l>
+               <l>The more thou ticklest, gripes his fist the faster.</l>
+            </lg>
+            <lg>
+               <l>While thus each hand promotes the pleasing pain,</l>
+               <l>And quick sensations skip from vein to vein,</l>
+               <l>A youth unknown to <hi>Phoebus,</hi> in despair,</l>
+               <l n="195">Puts his last refuge all in Heav'n in Pray'r.</l>
+               <l>What force have pious vows? the <hi>Queen</hi> of <hi>Love</hi>
+               </l>
+               <l>His Sister sends, her vot'ress, from above.</l>
+               <l>As taught by <hi>Venus, Paris</hi> learnt the art</l>
+               <l>To touch <hi>Achilles'</hi> only tender part,</l>
+               <l n="200">Secure, thro' her, the noble prize to carry,</l>
+               <l>He marches off, his Grace's <hi>Secretary.</hi>
+               </l>
+               <l>
+                  <pb n="26" facs="37"/>
+Now turn to diff'rent sports (the Goddess cries)</l>
+               <l>And learn, my sons, the wond'rous pow'r of <hi>Noise.</hi>
+               </l>
+               <l>To move, to raise, to ravish ev'ry heart,</l>
+               <l>With <hi>Shakespear</hi>'s nature, or with <hi>Johnson</hi>'s art,</l>
+               <l n="205">Let others aim: 'Tis yours to shake the soul</l>
+               <l>With <hi>Thunder</hi> rumbling from the mustard-bowl,</l>
+               <l>With <hi>horns</hi> and <hi>trumpets</hi> now to madness swell,</l>
+               <l>Now sink in sorrows with a tolling <hi>Bell.</hi>
+               </l>
+               <l>Such happy arts attention can command,</l>
+               <l n="210">When fancy flags, and sense is at a stand:</l>
+               <l>Improve we these. Three <hi>Cat-calls</hi> be the bribe</l>
+               <l>Of him, whose chatt'ring shames the <hi>Monkey</hi> tribe;</l>
+               <l>And his this <hi>Drum,</hi> whose hoarse heroic base</l>
+               <l>Drowns the loud Clarion of the braying <hi>Ass.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l n="215">Now thousand tongues are heard in one loud din,</l>
+               <l>The Monkey-mimicks rush discordant in;</l>
+               <l>'Twas chatt'ring, grinning, mouthing, jabb'ring all,</l>
+               <l>And <hi>R<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>,</hi> and railing, Brangling, and <hi>B<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>,</hi>
+               </l>
+               <l>
+                  <hi>D<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s</hi> and Dissonance; And captious art,</l>
+               <l n="220">And snip-snap short, and interruption smart.</l>
+               <l>
+                  <pb n="27" facs="38"/>
+Hold (cry'd the Queen) ye all alike shall win,</l>
+               <l>Equal your merits, equal is your din;</l>
+               <l>But that this well-disputed game may end,</l>
+               <l>Sound forth my <hi>Brayers,</hi> and the welkin rend.</l>
+            </lg>
+            <lg>
+               <l n="225">As when the long-ear'd, milky mothers wait</l>
+               <l>At some sick miser's triple-bolted gate,</l>
+               <l>For their defrauded, absent foals they make</l>
+               <l>A moan so loud, that all the <hi>Guild</hi> awake:</l>
+               <l>So sighs Sir <hi>G<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>t,</hi> starting at the bray</l>
+               <l n="230">From dreams of millions, and three groats to pay.</l>
+               <l>So swells each Windpipe; Ass intones to Ass,</l>
+               <l>Harmonic twang! of leather, horn, and brass:</l>
+               <l>Such as from lab'ring lungs th' Enthusiast blows,</l>
+               <l>High sounds, attempted to the vocal nose.</l>
+               <l n="235">But far o'er all sonorous <hi>Bl<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi>'s strain,</l>
+               <l>Walls, steeples, skies, bray back to him again:</l>
+               <l>In <hi>Tot'nham</hi> fields, the brethren with amaze</l>
+               <l>Prick all their ears up, and forget to graze;</l>
+               <l>Long <hi>Chanc'ry-lane</hi> retentive rolls the sound,</l>
+               <l n="240">And courts to courts return it round and round;</l>
+               <l>
+                  <pb n="28" facs="39"/>
+                  <hi>Thames</hi> wafts it thence to <hi>Rufus'</hi> roaring hall,</l>
+               <l>And <hi>H<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>d</hi> re-ecchoes, bawl for bawl.</l>
+               <l>All hail him victor in both gifts of Song,</l>
+               <l>Who sings so <hi>loudly,</hi> and who sings so <hi>long.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l n="245">This labor past, by <hi>Bridewell</hi> all descend,</l>
+               <l>(As morning pray'r and flagellation end.)</l>
+               <l>To where <hi>Fleetditch</hi> with disemboguing streams</l>
+               <l>Rolls the large tribute of dead dogs to <hi>Thames,</hi>
+               </l>
+               <l>The King of Dykes! than whom, no sluice of mud</l>
+               <l n="250">With deeper sable blots the silver flood.</l>
+               <l>'Here strip my children! here at once leap in!</l>
+               <l>'Here prove who best can dash thro' thick and thin,</l>
+               <l>'And who the most in love of dirt excel,</l>
+               <l>'Or dark dexterity of groping well.</l>
+               <l n="255">'Who flings most mud, and wide pollutes around</l>
+               <l>'The stream, be his the <gap extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> 
+                  <hi>Journals,</hi> bound.</l>
+               <l>'A pig of lead to him who dives the best;</l>
+               <l>'A peck of coals a-piece shall glad the rest.</l>
+            </lg>
+            <lg>
+               <l>In naked majesty great <hi>D<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> stands,</l>
+               <l n="260">And, <hi>Milo</hi>-like, surveys his arms and hands:</l>
+               <l>
+                  <pb n="29" facs="40"/>
+Then sighing, thus, "And am I now <hi>threescore?</hi>
+               </l>
+               <l>"Ah why, ye Gods! should two and two make four?</l>
+               <l>He said, and climb'd a stranded Lighter's height,</l>
+               <l>Shot to the black abyss, and plung'd down-right.</l>
+               <l n="265">The senior's judgment all the crowd admire,</l>
+               <l>Who but to sink the deeper, rose the higher.</l>
+            </lg>
+            <lg>
+               <l>Next <hi>E<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> div'd; slow circles dimpled o'er</l>
+               <l>The quaking mud, that clos'd and ope'd no more:</l>
+               <l>All look, all sigh, and call on <hi>E<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> lost;</l>
+               <l n="270">
+                  <hi>E<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> in vain resounds thro' all the coast.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>H<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> try'd the next, but hardly snatch'd from sight,</l>
+               <l>Instant buoys up, and rises into light;</l>
+               <l>He bears no token of the sabler streams,</l>
+               <l>And mounts far off, among the swans of <hi>Thames.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l n="275">Far worse unhappy <hi>D<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>r</hi> succeeds,</l>
+               <l>He search'd for coral, but he gather'd weeds.</l>
+            </lg>
+            <lg>
+               <l>True to the bottom, <gap extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> and <gap extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> creep,</l>
+               <l>Long-winded both, as natives of the deep,</l>
+               <l>
+                  <pb n="30" facs="41"/>
+This only merit pleading for the prize,</l>
+               <l n="280">Nor everlasting <hi>Bl<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> this denies.</l>
+            </lg>
+            <lg>
+               <l>But nimbler <hi>W<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>d</hi> reaches at the ground,</l>
+               <l>Circles in mud, and darkness all around,</l>
+               <l>No crab more active, in the dirty dance,</l>
+               <l>Downward to climb, and backward to advance;</l>
+               <l n="285">He brings up half the bottom on his head,</l>
+               <l>And boldly claims the <hi>Journals</hi> and the <hi>Lead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sudden, a burst of thunder shook the flood,</l>
+               <l>Lo <hi>E<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> rose, tremendous all in mud!</l>
+               <l>Shaking the horrors of his fable brows,</l>
+               <l n="290">And each ferocious feature grim with ooze.</l>
+               <l>Greater he looks, and more than mortal stares;</l>
+               <l>Then thus the wonders of the deep declares,</l>
+            </lg>
+            <lg>
+               <l>First he relates, how smking to the chin,</l>
+               <l>Smit with his mien, the <hi>Mudnymphs</hi> suck'd him in,</l>
+               <l n="295">How young <hi>Lutetia</hi> softer than the down,</l>
+               <l>
+                  <hi>Nigrina</hi> black, and <hi>Merdamante</hi> brown,</l>
+               <l>
+                  <pb n="31" facs="42"/>
+Vy'd for his love in jetty bow'rs below;</l>
+               <l>As <hi>Hylas</hi> fair was ravish'd long ago.</l>
+               <l>Then sung how, shown him by the nutbrown maids</l>
+               <l n="300">A branch of <hi>Styx</hi> here rises from the <hi>Shades,</hi>
+               </l>
+               <l>That tinctur'd as it runs with <hi>Lethe</hi>'s streams,</l>
+               <l>And wafting vapors from the <hi>Land</hi> of <hi>Dreams,</hi>
+               </l>
+               <l>(As under seas <hi>Alphaeus'</hi> sacred sluice</l>
+               <l>Bears <hi>Pisa</hi>'s offerings to his <hi>Arethuse</hi>)</l>
+               <l n="305">Pours into <hi>Thames:</hi> Each City-bowl is full</l>
+               <l>Of the mixt wave, and all who drink grow dull.</l>
+               <l>How to the banks where bards departed doze,</l>
+               <l>They led him soft; how all the bards arose;</l>
+               <l>
+                  <hi>Taylor,</hi> sweet bird of <hi>Thames,</hi> majestic bows,</l>
+               <l n="310">And <hi>Sh<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> nods the poppy on his brows;</l>
+               <l>While <hi>M<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n</hi> there, deputed by the rest,</l>
+               <l>Gave him the cassock, surcingle, and vest;</l>
+               <l>And "Take (he said) these robes which once were mine,</l>
+               <l>"Dulness is sacred in a sound Divine.</l>
+            </lg>
+            <lg>
+               <l n="315">He ceas'd, and show'd the robe; the crowd confess</l>
+               <l>The rev'rend <hi>Flamen</hi> in his lengthen'd dress.</l>
+               <l>
+                  <pb n="32" facs="43"/>
+Slow mov'd the Goddess from the silver flood,</l>
+               <l>(Her Priest preceding) thro' the gates of <hi>Lud.</hi>
+               </l>
+               <l>Her <hi>Criticks</hi> there she summons, and proclaims</l>
+               <l n="320">A gentler exercise to close the games.</l>
+            </lg>
+            <lg>
+               <l>Hear you! in whose grave heads, as equal scales,</l>
+               <l>I weigh what author's heaviness prevails,</l>
+               <l>Which most conduce to sooth the soul in slumbers,</l>
+               <l>My <hi>H<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi>'s periods, or my <hi>Bl<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi>'s numbers?</l>
+               <l n="325">Attend the trial we propose to make:</l>
+               <l>If there be man who o'er such works can wake,</l>
+               <l>Sleep's all-subduing pow'r who dares defy,</l>
+               <l>And boasts <hi>Ulysses'</hi> ear with <hi>Argus'</hi> eye;</l>
+               <l>To him we grant our amplest pow'rs to fit</l>
+               <l n="330">Judge of all present, past, and future wit,</l>
+               <l>To cavil, censure, dictate, right or wrong,</l>
+               <l>Full, and eternal privilege of tongue.</l>
+            </lg>
+            <lg>
+               <l>Three <hi>Cambridge Sophs</hi> and three pert <hi>Templars</hi>
+came,</l>
+               <l>The same their talents, and their tastes the same;</l>
+               <l n="335">
+                  <pb n="33" facs="44"/>
+Each prompt to query, answer, and debate,</l>
+               <l>And smit with love of poesie and prate.</l>
+               <l>The pond'rous books two <hi>gentle Readers</hi> bring;</l>
+               <l>The heroes sit; the vulgar form a ring.</l>
+               <l>The clam'rous crowd is hush'd with mugs of <hi>Mum,</hi>
+               </l>
+               <l n="340">'Till all tun'd equal, send a general hum.</l>
+               <l>Then mount the Clerks; and in one lazy tone,</l>
+               <l>Thro' the long, heavy, painful page, drawl on,</l>
+               <l>Soft creeping words on words the sense compose,</l>
+               <l>At e'vry line, they stretch, they yawn, they doze.</l>
+               <l n="345">As to soft gales top-heavy pines bow low</l>
+               <l>Their heads, and lift them as they cease to blow,</l>
+               <l>Thus oft they rear, and oft the head decline,</l>
+               <l>As breathe, or pause, by fits, the airs divine.</l>
+               <l>And now to this side, now to that, they nod,</l>
+               <l n="350">As verse, or prose, infuse the drowzy God.</l>
+               <l>Thrice <hi>B<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>l</hi> aim'd to speak, but thrice supprest</l>
+               <l>By potent <hi>Arthur,</hi> knock'd his chin and breast.</l>
+               <l>
+                  <hi>C<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s</hi> and <hi>T<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>d,</hi> prompt at Priests to jeer,</l>
+               <l>Yet silent bow'd to <hi>Christ's no kingdom</hi> here.</l>
+               <l n="355">Who sate the nearest, by the word's o'ercome</l>
+               <l>Slept first, the distant nodded to the hum.</l>
+               <l>
+                  <pb n="34" facs="45"/>
+Then down are roll'd the books; stretch'd o'er 'em¦lies</l>
+               <l>Each gentle clerk, and mutt'ring seals his eyes.</l>
+               <l>As what a <hi>Dutchman</hi> plumps into the lakes,</l>
+               <l n="360">One circle first, and then a second makes,</l>
+               <l>What dulness dropt among her sons imprest</l>
+               <l>Like motion, from one circle to the rest;</l>
+               <l>So from the mid-most the nutation spreads</l>
+               <l>Round, and more round, o'er all the sea of heads.</l>
+               <l n="365">At last <hi>C<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>re</hi> felt her voice to fail,</l>
+               <l>And <gap extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> himself unfinish'd left his Tale.</l>
+               <l>
+                  <hi>T<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s</hi> and <hi>T<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> the church and state gave o'er,</l>
+               <l>Nor <gap extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> talk'd, nor <hi>S<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> whisper'd more.</l>
+               <l>Ev'n <hi>N<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n,</hi> gifted with his mother's tongue,</l>
+               <l n="370">Tho' born at <hi>Wapping,</hi> and from <hi>Daniel</hi> sprung,</l>
+               <l>Ceas'd his loud bawling breath, and dropt the head;</l>
+               <l>And all was hush'd, as <hi>Folly</hi>'s self lay dead.</l>
+            </lg>
+            <lg>
+               <l>Thus the soft gifts of <hi>Sleep</hi> conclude the day,</l>
+               <l>And stretch'd on bulks, as usual, Poets lay.</l>
+               <l n="375">Why should I sing what bards the Nightly Muse</l>
+               <l>Did slumbring visit, and convey to stews?</l>
+               <l>
+                  <pb n="35" facs="46"/>
+Or prouder march'd, with magistrates in state,</l>
+               <l>To some fam'd round-house, ever open gate!</l>
+               <l>How <hi>E<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> lay inspir'd beside a sink,</l>
+               <l n="380">And to mere mortals seem'd a Priest in drink?</l>
+               <l>All others timely, to the neighbouring <hi>Fleet</hi>
+               </l>
+               <l>(Haunt of the Muses) made their safe retreat.</l>
+            </lg>
+            <trailer>End of the Second Book.</trailer>
+         </div>
+         <div n="3" type="book">
+            <pb n="36" facs="47"/>
+            <head>THE
+DUNCIAD.</head>
+            <head>Book the THIRD.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">B</seg>UT in her <hi>Temple</hi>'s last recess inclos'd,</l>
+               <l>On <hi>Dulness'</hi> lap th' Anointed head repos'd.</l>
+               <l>Him close she curtain'd round with vapors
+blue,</l>
+               <l>And soft besprinkled with <hi>Cimmerian</hi> dew.</l>
+               <l n="5">Then Raptures high the seat of sense o'erflow,</l>
+               <l>Which only heads refin'd from reason know:</l>
+               <l>Hence from the straw where <hi>Bedlam</hi>'s Prophet nods,</l>
+               <l>He hears loud Oracles, and talks with Gods;</l>
+               <l>Hence the Fool's paradise, the Statesman's scheme,</l>
+               <l n="10">The air-built Castle, and the golden Dream,</l>
+               <l>
+                  <pb n="37" facs="48"/>
+The Maids romantic wish, the Chymists flame,</l>
+               <l>And Poets vision of eternal fame.</l>
+            </lg>
+            <lg>
+               <l>And now, on Fancy's easy wing convey'd,</l>
+               <l>The King descended to th' <hi>Elyzian</hi> shade.</l>
+               <l n="15">There in a dusky vale where <hi>Lethe</hi> rolls,</l>
+               <l>Old <hi>Bavius</hi> sits, to dip poetic souls,</l>
+               <l>And blunt the sense, and fit it for a skull</l>
+               <l>Of solid proof, impenetrably dull.</l>
+               <l>Instant when dipt, away they wing their flight,</l>
+               <l n="20">Where <note place="bottom" n="*">Booksellers.</note> 
+                  <hi>Brown</hi> and <hi>Mears</hi> unbar the gates of Light,</l>
+               <l>Demand new bodies, and in Calf's array</l>
+               <l>Rush to the world, impatient for the day.</l>
+               <l>Millions and millions on these banks he views,</l>
+               <l>Thick as the Stars of night, or morning dews,</l>
+               <l n="25">As thick as bees o'er vernal blossoms fly,</l>
+               <l>As thick as eggs at <hi>W<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>d</hi> in pillory.</l>
+            </lg>
+            <lg>
+               <l>Wond'ring he gaz'd: When lo! a Sage appears,</l>
+               <l>By his broad shoulders known, and length of ears,</l>
+               <l>
+                  <pb n="38" facs="49"/>
+Known by the band and suit which <hi>Settle</hi> wore,</l>
+               <l n="30">(His only suit) for twice three years before.</l>
+               <l>All as the Vest, appear'd the wearers frame,</l>
+               <l>Old in new state, another, yet the same.</l>
+               <l>Bland and familiar as in life, begun</l>
+               <l>Thus the great Father to the greater Son.</l>
+            </lg>
+            <lg>
+               <l n="35">Oh! born to see what none can see awake!</l>
+               <l>Behold the wonders of th' <hi>Oblivious Lake.</hi>
+               </l>
+               <l>Thou, yet unborn, hast touch'd this sacred shore,</l>
+               <l>The hand of <hi>Bavius</hi> drench'd thee o'er and o'er.</l>
+               <l>But blind to former, as to future, <hi>Fate,</hi>
+               </l>
+               <l n="40">What mortal knows his pre-existent state?</l>
+               <l>Who knows how long, thy transmigrating soul</l>
+               <l>Did from <hi>Boeotian</hi> to <hi>Boeotian</hi> roll?</l>
+               <l>How many <hi>Dutchmen</hi> she vouchsaf'd to thrid?</l>
+               <l>How many stages thro' old <hi>Monks</hi> she rid?</l>
+               <l n="45">And all who since, in mild benighted days,</l>
+               <l>Mix'd the Owl's ivy with the Poet's bays?</l>
+               <l>As Man's maeanders to the vital spring</l>
+               <l>Roll all their tydes, then back their circles bring;</l>
+               <l>
+                  <pb n="39" facs="50"/>
+Or whirligigs, twirl'd round by skilful swain,</l>
+               <l n="50">Suck the thread in, then yield it out again:</l>
+               <l>All nonsense thus, of old or modern date,</l>
+               <l>Shall in thee centre, from thee circulate.</l>
+               <l>For this, our Queen unfolds to vision true</l>
+               <l>Thy mental eye, for thou hast much to view:</l>
+               <l n="55">Old scenes of glory, times long cast behind,</l>
+               <l>Shall first recall'd, rush forward to thy mind;</l>
+               <l>Then stretch thy sight o'er all her rising reign,</l>
+               <l>And let the past and future fire thy brain.</l>
+            </lg>
+            <lg>
+               <l>Ascend this <note place="bottom" n="*">Heav'ns!</note> hill, whose cloudy point commands</l>
+               <l n="60">Her boundless Empire over seas and lands.</l>
+               <l>See round the Poles where keener spangles shine,</l>
+               <l>Where spices smoke beneath the burning Line,</l>
+               <l>(Earths wide extreams) her fable flag display'd;</l>
+               <l>And all the nations cover'd in her shade!</l>
+            </lg>
+            <lg>
+               <l n="65">Far Eastward cast thy eye, from whence the <hi>Sun</hi>
+               </l>
+               <l>And orient <hi>Science</hi> at a birth begun.</l>
+               <l>One man immortal all that pride confounds.</l>
+               <l>He, whose long <hi>Wall</hi> the wand'ring <hi>Tartar</hi> bounds.</l>
+               <l>
+                  <pb n="40" facs="51"/>
+                  <note place="bottom" n="*">
+                     <hi>Ho-am-ti.</hi> Emperor of <hi>China,</hi> the same who built the great wall between <hi>China</hi> and <hi>Tartary,</hi> destroyed all the books and learned men of that empire.</note> Heav'ns! what a pyle? whole ages perish there:</l>
+               <l n="70">And one bright blaze turns Learning into air.</l>
+            </lg>
+            <lg>
+               <l>Thence to the South as far extend thy eyes;</l>
+               <l>There rival flames with equal glory rise,</l>
+               <l>From shelves to shelves <note place="bottom" n="†">The <hi>Caliph, Omar</hi> I. having conquer'd <hi>Aegypt,</hi> caus'd his Ge<lb rend="hidden" type="hyphenInWord"/>neral to burn the <hi>Ptolomaean</hi> library, on the gates of which was this inscription, <hi>Medicine Anintae.</hi>
+                  </note> see greedy <hi>Vulcan</hi> roll,</l>
+               <l>And lick up all their <hi>Physick</hi> of the <hi>Soul.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l n="75">How little, see! that portion of the ball,</l>
+               <l>Where faint at best the beams of science fall!</l>
+               <l>Against her throne, from <hi>Hyperborean</hi> skies,</l>
+               <l>In dulness strong, th' avenging <hi>Vandals</hi> rise;</l>
+               <l>Lo where <hi>Moeotis</hi> sleeps, and hardly flows</l>
+               <l n="80">The freezing <hi>Tanais</hi> thro' a waste of snows,</l>
+               <l>The North by myriads pours her mighty sons,</l>
+               <l>Great nurse of <hi>Goths,</hi> of <hi>Alans,</hi> and of <hi>Huns.</hi>
+               </l>
+               <l>See <hi>Alaric</hi>'s stern port, the martial frame</l>
+               <l>Of <hi>Genseric,</hi> and <hi>Attila</hi>'s dread name!</l>
+               <l n="85">
+                  <pb n="41" facs="52"/>
+See! the bold <hi>Ostrogoths</hi> on <hi>Latium</hi> fall;</l>
+               <l>See! the fierce <hi>Visigoths</hi> on <hi>Spain</hi> and <hi>Gaul.</hi>
+               </l>
+               <l>See! where the morning gilds the palmy shore,</l>
+               <l>(The soil that arts and infant letters bore)</l>
+               <l>His conq'ring tribes th' <hi>Arabian</hi> prophet draws.</l>
+               <l n="90">And saving Ignorance enthrones by Laws.</l>
+               <l>See <hi>Christians, Jews,</hi> one heavy sabbath keep;</l>
+               <l>And all the Western World believe and sleep.</l>
+            </lg>
+            <lg>
+               <l>Lo <hi>Rome</hi> herself, proud mistress now no more</l>
+               <l>Of arts, but thund'ring against <hi>Heathen</hi> lore;</l>
+               <l n="95">Her gray-hair'd Synods damning books unread,</l>
+               <l>And <hi>Bacon</hi> trembling for his brazen Head.</l>
+               <l>Lo statues, temples, theatres o'erturn'd,</l>
+               <l>Oh glorious ruin! and <gap extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> burn'd.</l>
+            </lg>
+            <lg>
+               <l>See'st thou an <hi>Isle,</hi> by Palmers, Pilgrims trod,</l>
+               <l n="100">Men bearded, bald, cowl'd, uncowl'd, shod, unshod,</l>
+               <l>Peel'd, patch'd, and pieball'd, linsey-woolsey brothers</l>
+               <l>Grave mummers, sleeveless some, and shirtless others.</l>
+               <l>
+                  <pb n="42" facs="53"/>
+That once was <hi>Britain</hi>—Happy! had she seen</l>
+               <l>No fiercer sons, had <note place="bottom" n="*">Wars in <hi>England</hi> anciently, about the right time of celebrating <hi>Easter.</hi>
+                  </note> 
+                  <hi>Easter</hi> never been.</l>
+               <l n="105">In peace, great Goddess! ever be ador'd;</l>
+               <l>How keen the war, if dulness draw the sword?</l>
+               <l>Thus visit not thy own! on this blest age</l>
+               <l>Oh spread thy Influence, but restrain thy Rage!</l>
+            </lg>
+            <lg>
+               <l>And see my son, the hour is on its way</l>
+               <l n="110">That lifts our Goddess to imperial sway:</l>
+               <l>This fav'rite Isle, long sever'd from her reign,</l>
+               <l>Dove-like, she gathers to her wings again.</l>
+               <l>Now look thro' Fate! behold the scene she draws!</l>
+               <l>What aids, what armies, to assert her cause!</l>
+               <l n="115">See all her progeny, illustrious sight!</l>
+               <l>Behold, and count them as they rise to light.</l>
+               <l>As <hi>Berecynthia,</hi> while her offspring vye</l>
+               <l>In homage, to the mother of the sky,</l>
+               <l>Surveys around her in the blest abode</l>
+               <l n="120">A hundred sons, and ev'ry son a God:</l>
+               <l>
+                  <pb n="43" facs="54"/>
+Not with less glory mighty <hi>Dulness</hi> crown'd,</l>
+               <l>Shall take thro' <hi>Grubstreet</hi> her triumphant round,</l>
+               <l>And all <hi>Parnassus</hi> glancing o'er at once,</l>
+               <l>Behold a hundred sons, and each a dunce.</l>
+            </lg>
+            <lg>
+               <l n="125">Mark first the youth who takes the foremost place</l>
+               <l>And-thrusts his person full into your face.</l>
+               <l>With all thy Father's virtues blest, be born!</l>
+               <l>And a new <hi>C<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>r</hi> shall the stage adorn.</l>
+            </lg>
+            <lg>
+               <l>See yet a younger, by his blushes known,</l>
+               <l n="130">And modest as the maid who sips alone.</l>
+               <l>From the strong fate of drams if thou get free,</l>
+               <l>Another <hi>Durfey,</hi> 
+                  <gap extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> shall sing in thee.</l>
+               <l>For thee each Ale-house, and each Gill-house mourn,</l>
+               <l>And answ'ring Gin-shops sowrer sighs return.</l>
+            </lg>
+            <lg>
+               <l n="135">Behold yon pair, in strict embraces join'd;</l>
+               <l>How like their manners, and how like their mind!</l>
+               <l>Fam'd for good nature, <hi>B<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> and for truth,</l>
+               <l>
+                  <hi>D<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> for pious passion to the youth.</l>
+               <l>
+                  <pb n="44" facs="55"/>
+Equal in wit, and equally polite,</l>
+               <l n="140">Shall this a <hi>Pasquin,</hi> that a <hi>Grumbler</hi> write;</l>
+               <l>Like are their merits, like rewards they share,</l>
+               <l>That shines a Consul, this Commissioner.</l>
+            </lg>
+            <lg>
+               <l>Ah <hi>D<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> , <hi>G<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> ah! what ill-starr'd rage</l>
+               <l>Divides a friendship long confirm'd by age?</l>
+               <l n="145">Blockheads with reason wicked wits abhor,</l>
+               <l>But fool with fool is barb'rous, civil war.</l>
+               <l>Embrace, embrace my Sons! be foes no more!</l>
+               <l>Nor glad vile Poets with true Criticks gore.</l>
+            </lg>
+            <lg>
+               <l>See next two slip-shod <hi>Muses</hi> traipse along,</l>
+               <l n="150">In lofty madness meditating song,</l>
+               <l>With tresses staring from poetic dreams,</l>
+               <l>And never wash'd, but in <hi>Castalia</hi>'s streams.</l>
+               <l>
+                  <hi>H<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> and <hi>T<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> , glories of their race!</l>
+               <l>Lo <hi>H<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ck</hi>'s fierce, and <hi>M<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi>'s rueful face!</l>
+               <l n="155">
+                  <hi>W<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n,</hi> the scourge of Scripture, mark with awe!</l>
+               <l>And mighty <hi>J<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>b</hi> Blunderbus of Law!</l>
+               <l>Lo thousand thousand, ev'ry nameless name,</l>
+               <l>All crowd, who foremost shall be damn'd to fame;</l>
+               <l>
+                  <pb n="45" facs="56"/>
+How proud! how pale! how earnest all appear!</l>
+               <l n="160">How rhymes eternal gingle in their ear!</l>
+            </lg>
+            <lg>
+               <l>Pass these to nobler sights: Lo <hi>H<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> stands</l>
+               <l>Tuning his voice, and balancing his hands,</l>
+               <l>How honey'd nonsense trickles from his tongue!</l>
+               <l>How sweet the periods, neither said nor sung!</l>
+               <l n="165">Still break the benches, <hi>H<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> with thy strain,</l>
+               <l>While <hi>K<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> , <hi>Br<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>, W<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> preach in vain</l>
+               <l>Round him, each <hi>Science</hi> by its modern type</l>
+               <l>Stands known; <hi>Divinity</hi> with box and pipe,</l>
+               <l>And proud <hi>Philosophy</hi> with breeches tore,</l>
+               <l n="170">And <hi>English Musick</hi> with a dismal score:</l>
+               <l>While happier <hi>Hist'ry</hi> with her comrade <hi>Ale,</hi>
+               </l>
+               <l>Sooths the sad series of her tedious tale.</l>
+            </lg>
+            <lg>
+               <l>Fast by, in darkness palpable inshrin'd</l>
+               <l>
+                  <hi>W<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s, B<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>r, M<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n,</hi> all the poring kind,</l>
+               <l n="175">A lumberhouse of Books in every head,</l>
+               <l>Are ever reading, and are never read.</l>
+               <l>
+                  <pb n="46" facs="57"/>
+But who is he, in closet close y-pent,</l>
+               <l>With visage from his shelves with dust besprent?</l>
+               <l>Right well mine eyes arede that myster wight,</l>
+               <l n="180">That wonnes in haulkes and hernes, and <hi>H<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> he hight.</l>
+               <l>To future ages may thy dulness last,</l>
+               <l>As thou preserv'st the dulness of the past!</l>
+            </lg>
+            <lg>
+               <l>But oh! what scenes, what miracles behind?</l>
+               <l>Now stretch thy view, and open all thy mind.</l>
+            </lg>
+            <lg>
+               <l n="185">He look'd, and saw a sable * seer arise,</l>
+               <l>Swift to whose hand a winged volume flies.</l>
+               <l>All sudden, gorgons hiss, and dragons glare,</l>
+               <l>And ten horn'd fiends, and giants, threaten war.</l>
+               <l>Hell rises, heav'n descends, to dance on earth:</l>
+               <l n="190">Gods, monsters, furies, musick, rage and mirth;</l>
+               <l>A fire, a jig, a battel, and a ball,</l>
+               <l>'Till one wide conflagration swallows all.</l>
+            </lg>
+            <lg>
+               <l>Then a new world to nature's laws unknown,</l>
+               <l>Refulgent rises, with a heav'n its own:</l>
+               <l n="195">
+                  <pb n="47" facs="58"/>
+Another <hi>Cynthia</hi> her new journey runs,</l>
+               <l>And other planets circle other suns:</l>
+               <l>The forests dance, the rivers upward rise,</l>
+               <l>Whales sport in woods, and dolphins in the skies;</l>
+               <l>And last, to give the whole creation grace,</l>
+               <l n="200">Lo! one vast <hi>Egg</hi> produces human race.</l>
+            </lg>
+            <lg>
+               <l>Silent the monarch gaz'd; yet ask'd in thought</l>
+               <l>What God or Daemon all these wonders wrought?</l>
+               <l>To whom the Sire: In yonder cloud, behold,</l>
+               <l>Whose sarcenet skirts are edg'd with flamy gold,</l>
+               <l n="205">A godlike youth: See <hi>Jove</hi>'s own bolts he flings,</l>
+               <l>Rolls the loud thunder, and the light'ning wings!</l>
+               <l>Angel of <hi>Dulness,</hi> sent to scatter round</l>
+               <l>Her magic charms on all unclassic ground:</l>
+               <l>Yon stars, yon suns, he rears at pleasure higher,</l>
+               <l n="210">Illumes their light, and sets their flames on fire.</l>
+               <l>Immortal <hi>R<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>ch!</hi> how calm he sits at ease,</l>
+               <l>Mid snows of paper, and fierce hail of pease?</l>
+               <l>And proud his mistress' orders to perform,</l>
+               <l>Rides in the whirlwind, and directs the storm.</l>
+               <l n="215">
+                  <pb n="48" facs="59"/>
+But lo! to dark encounter in mid air</l>
+               <l>New wizards rise: here <hi>B<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>th,</hi> and <hi>C<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>r</hi> there.</l>
+               <l>
+                  <hi>B<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>th</hi> in his cloudy tabernacle shrin'd,</l>
+               <l>On grinning dragons <hi>C<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>r</hi> mounts the wind:</l>
+               <l>Dire is the conflict, dismal is the din,</l>
+               <l n="220">Here shouts all <hi>Drury,</hi> there all <hi>Lincoln's-Inn</hi>;</l>
+               <l>Contending Theatres our empire raise,</l>
+               <l>Alike their labours, and alike their praise.</l>
+            </lg>
+            <lg>
+               <l>And are these wonders, Son, to thee unknown?</l>
+               <l>Unknown to thee? These wonders are thy own.</l>
+               <l n="225">These Fate reserv'd to grace thy reign divine,</l>
+               <l>Foreseen by me, but ah! with-held from mine.</l>
+               <l>In <hi>Lud</hi>'s old walls tho' long I rul'd renown'd,</l>
+               <l>Far as loud <hi>Bow</hi>'s stupendous bells resound;</l>
+               <l>Tho' my own Aldermen conferr'd my bays,</l>
+               <l n="230">To me committing their eternal praise,</l>
+               <l>Their full-fed Heroes, their pacific May'rs,</l>
+               <l>Their annual trophies, and their monthly wars:</l>
+               <l>
+                  <pb n="49" facs="60"/>
+Tho' <note place="bottom" n="†">
+                     <p>
+                        <hi>Settle</hi> was once famous for party papers, but very uncertain in his political principles. He was employ'd to hold the pen in the <hi>Character of a popish successor,</hi> but afterwards printed his <hi>Narrative</hi> on the contrary side.</p>
+                     <p>He managed the ceremony and pageants at the burning of a fa<lb rend="hidden" type="hyphenInWord"/>mous <hi>Pope,</hi> and was at length employ'd in making the machine<lb rend="hidden" type="hyphenInWord"/>ry at <hi>Bartholomew</hi> fair, where, in his old age he acted in a dragon of leather of his own invention.</p>
+                  </note> long my Party built on me their hopes,</l>
+               <l>For writing Pamphlets, and for roasting <hi>Popes</hi>
+               </l>
+               <l n="235">(Different our parties, but with equal grace</l>
+               <l>Our Goddess smiles on <hi>Whig</hi> and <hi>Tory</hi> race,</l>
+               <l>'Tis the same rope at sev'ral ends they twist,</l>
+               <l>To <hi>Dulness, Ridpath</hi> is as dear as <hi>Mist.</hi>)</l>
+               <l>Yet lo! in me what Authors have to brag on!</l>
+               <l n="240">Reduc'd at last to hiss in my own dragon.</l>
+               <l>Avert it, heav'n! that thou or <hi>C<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>r</hi> e'er</l>
+               <l>Should wag two serpent tails in <hi>Smithfield</hi> sair.</l>
+               <l>Like the vile straw that's blown about the streets,</l>
+               <l>The needy Poet sticks to all he meets,</l>
+               <l n="245">Coach'd, carted, trod upon, now loose, now fast,</l>
+               <l>In the Dog's tail his progress ends at last.</l>
+               <l>Happier thy fortunes! like a rolling stone</l>
+               <l>Thy giddy dulness still shall lumber on,</l>
+               <l>Safe in its heaviness, can never stray,</l>
+               <l n="250">And licks up every blockhead in the way.</l>
+               <l>
+                  <pb n="50" facs="61"/>
+Thy dragons <gap extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> and <gap extent="1 word" rend="content: _____ ">
+                     <desc>blank</desc>
+                  </gap> shall taste,</l>
+               <l>And from each show rise duller than the last:</l>
+               <l>'Till rais'd from Booths to Theatre, to Court,</l>
+               <l>Her seat imperial Dulness shall transport.</l>
+               <l n="255">(Already, <hi>Opera</hi> prepares the way,</l>
+               <l>The sure fore-runner of her gentle sway.)</l>
+               <l>To aid her cause, if heav'n thou canst not bend,</l>
+               <l>Hell thou shalt move; for <hi>Faustus</hi> is thy friend:</l>
+               <l>
+                  <hi>Pluto</hi> with <hi>Cato</hi> thou for her shalt join,</l>
+               <l n="260">And link the <hi>Mourning-Bride</hi> to <hi>Proserpine.</hi>
+               </l>
+               <l>
+                  <hi>Grubstreet!</hi> thy fall should men and Gods conspire,</l>
+               <l>Thy stage shall stand, ensure it but from Fire.</l>
+               <l>Another <hi>Aeschylus</hi> appears! prepare</l>
+               <l>For new <note place="bottom" n="*">It is reported of <hi>Aeschylus</hi> that when his Tragedy of the <hi>Eume<lb rend="hidden" type="hyphenInWord"/>nides</hi> was acted, the audience were so terrified that the children fell into fits, and the bigbelly'd women miscarry'd. <hi>T<gap extent="1+ letters" rend="content:_+">
+                           <desc>blank</desc>
+                        </gap>d</hi> is transla<lb rend="hidden" type="hyphenInWord"/>ting this Author.</note> Abortions, all ye pregnant fair!</l>
+               <l n="265">In flames like <hi>Semeles</hi> be brought to bed,</l>
+               <l>While opening Hell spouts wild-fire at your head.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Bavius</hi> take the poppy from thy brow,</l>
+               <l>And place it here! here all ye Heroes bow!</l>
+               <l>
+                  <pb n="51" facs="62"/>
+This, this is He, foretold by ancient rhymes,</l>
+               <l n="270">Th' <hi>Augustus,</hi> born to bring <hi>Saturnian</hi> times!</l>
+               <l>Beneath his reign, shall <hi>E<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>n</hi> wear the bays,</l>
+               <l>
+                  <hi>C<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>r</hi> preside, Lord Chancellor of Plays,</l>
+               <l>
+                  <hi>B<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>
+                  </hi> sole judge of Architecture sit,</l>
+               <l>And <hi>A<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>e P<gap extent="1+ letters" rend="content:_+">
+                        <desc>blank</desc>
+                     </gap>s</hi> be preferr'd for Wit!</l>
+               <l n="275">I see th' unfinish'd <hi>Dormitory</hi> wall!</l>
+               <l>I see the <hi>Savoy</hi> totter to her fall!</l>
+               <l>The sons of <hi>Isis</hi> reel! the towns-mens sport;</l>
+               <l>And <hi>Alma Mater</hi> all dissolv'd in <hi>Port!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then, when these signs declare the mighty Year,</l>
+               <l n="280">When the dull Stars roll round, and re-appear;</l>
+               <l>
+                  <hi>Let there be darkness!</hi> (the dread pow'r shall say)</l>
+               <l>All shall be darkness, as it ne'er were Day;</l>
+               <l>To their first Chaos Wit's vain works shall fall,</l>
+               <l>And universal Dulness cover all!</l>
+            </lg>
+            <lg>
+               <l n="285">No more the Monarch could such raptures bear▪</l>
+               <l>He wak'd, and all the Vision mix'd with air.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <pb facs="63"/>
+            <p>Speedily will be Published
+The PROGRESS Of DULNESS,
+AN
+Historical POEM.
+By an Eminent Hand.
+Price 1<hi>s.</hi> 6<hi>d.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

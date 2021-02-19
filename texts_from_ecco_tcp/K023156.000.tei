@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to the Right Honourable Richard Earl of Burlington: Occasion'd by his publishing Palladio's designs of the baths, arches, theatres, &amp;c. of ancient Rome. By Mr. Pope.</title>
+            <title>Of false taste</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006</date>
+            <availability n="CC-by-sa" status="restricted">
+               <p>
+                  <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">
+                     <graphic url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License</ref>
+               </p>
+            </availability>
+            <idno type="TCP">K023156.000</idno>
+            <idno type="docno">CW3314391526</idno>
+            <idno type="ecll">0685501300</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to the Right Honourable Richard Earl of Burlington: Occasion'd by his publishing Palladio's designs of the baths, arches, theatres, &amp;c. of ancient Rome. By Mr. Pope.</title>
+                  <title>Of false taste</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>14,[2]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>printed for L. Gilliver,</publisher>
+                  <date>1731.</date>
+                  <idno type="TCP">K023156.000</idno>
+                  <idno type="docno">CW3314391526</idno>
+                  <idno type="ecll">0685501300</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title: 'Of taste, .. '.</note>
+                  <note>"Price 1s." on titlepage.</note>
+                  <note>Ten books advertised on recto of final leaf.</note>
+                  <note>P.6, line 13 reads: "Oft have have you .. ".</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P908</note>
+                  <note>Griffith, 259</note>
+                  <note>English Short Title Catalog, ESTCT5700.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="halftitle">
+            <pb facs="1"/>
+            <p>Of TASTE, AN EPISTLE To the Right Honourable <hi>RICHARD</hi> Earl of <hi>BURLINGTON,</hi> By Mr. POPE.</p>
+         </div>
+         <div type="titlepage">
+            <pb facs="2"/>
+            <p>AN EPISTLE TO THE Right Honourable <hi>RICHARD</hi> Earl of <hi>BURLINGTON.</hi>
+            </p>
+            <p>Occasion'd by his Publishing PALLADIO's Designs of the BATHS, ARCHES, THEATRES, <hi>&amp;c.</hi> of Ancient ROME.</p>
+            <p>By Mr. <hi>POPE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for L. GILLIVER at <hi>Homer</hi>'s Head in <hi>Fleet<lb rend="hidden" type="hyphenInWord"/>street,</hi> MDCCXXXI. Price 1 <hi>s.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <pb n="5" facs="3"/>
+         <head>AN EPISTLE To the Right Honourable <hi>RICHARD</hi> Earl of <hi>BURLINGTON.</hi>
+         </head>
+         <lg>
+            <l>'TIS strange, the Miser should his Cares imploy</l>
+            <l>To <hi>gain</hi> those Riches he can ne'er <hi>enjoy:</hi>
+            </l>
+            <l>Is it less strange, the Prodigal should <hi>waste</hi>
+            </l>
+            <l>His Wealth to purchase what he ne'er can <hi>taste?</hi>
+            </l>
+            <l>Not for himself he sees, or hears, or eats;</l>
+            <l>Artists must chuse his Pictures, Music, Meats:</l>
+            <l>He buys for <hi>Topham</hi> Drawings and Designs,</l>
+            <l>For <hi>Fountain</hi> Statues, and for <hi>Curio</hi> Coins,</l>
+            <l>Rare Monkish Manuscripts for <hi>Hearne</hi> alone,</l>
+            <l>And Books for <hi>Mead,</hi> and Rarities for <hi>Sloan.</hi>
+            </l>
+            <l>
+               <pb n="6" facs="4"/>
+Think we all these are for himself? no more</l>
+            <l>Than his fine Wife (my Lord) or finer Whore.</l>
+         </lg>
+         <lg>
+            <l>For what has <hi>Virro</hi> painted, built, and planted?</l>
+            <l>Only to shew <hi>how many</hi> Tastes he wanted.</l>
+            <l>What brought Sir <hi>Shylock</hi>'s ill-got Wealth to waste?</l>
+            <l>Some Daemon whisper'd, "<hi>Knights</hi> shou'd have a <hi>Taste.</hi>"</l>
+            <l>Heav'n visits with a <hi>Taste</hi> the wealthy Fool,</l>
+            <l>And needs no Rod, but <hi>S<gap resp="#oxf" extent="1+ letters" rend="content:_+">
+                     <desc>blank</desc>
+                  </gap>d</hi> with a Rule.</l>
+            <l>See sportive Fate, to punish aukward Pride,</l>
+            <l>Bids <hi>Babo</hi> build, and sends him such a Guide:</l>
+            <l>A standing Sermon! at each Year's expence,</l>
+            <l>That never Coxcomb reach'd Magnificence.</l>
+         </lg>
+         <lg>
+            <l>Oft have have you hinted to your Brother Peer,</l>
+            <l>A certain Truth, which many buy too dear:</l>
+            <l>Something there is, more needful than Expence,</l>
+            <l>And something previous ev'n to Taste—'Tis <hi>Sense;</hi>
+            </l>
+            <l>Good Sense, which only is the Gift of Heav'n,</l>
+            <l>And tho' no Science, fairly worth the Seven.</l>
+            <l>A Light, which in <hi>yourself</hi> you must perceive;</l>
+            <l>
+               <note place="bottom" n="*">Inigo Jones.</note>
+               <hi>Jones</hi> and <note place="bottom" n="†">The famous Artist who design'd the best Gardens in <hi>France;</hi> and plann'd <hi>Greenwich</hi> and St. <hi>James</hi>'s Parks, <hi>&amp;c.</hi>
+               </note> 
+               <hi>Le Nôtre</hi> have it not to give.</l>
+         </lg>
+         <lg>
+            <pb n="7" facs="5"/>
+            <l>To build, to plant, whatever you intend,</l>
+            <l>To rear the Column, or the Arch to bend,</l>
+            <l>To swell the Terras, or to sink the Grot;</l>
+            <l>In all, let <hi>Nature</hi> never be forgot.</l>
+            <l>Consult the <hi>Genius</hi> of the <hi>Place</hi> in all,</l>
+            <l>That tells the Waters or to rise, or fall,</l>
+            <l>Or helps th' ambitious Hill the Heav'ns to scale,</l>
+            <l>Or scoops in circling Theatres the Vale,</l>
+            <l>Calls in the Country, catches opening Glades,</l>
+            <l>Joins willing Woods, and varies Shades from Shades,</l>
+            <l>Now breaks, or now directs, th' intending Lines;</l>
+            <l>
+               <hi>Paints</hi> as you plant, and as you work, <hi>Designs.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l>Begin with <hi>Sense,</hi> of ev'ry Art the Soul,</l>
+            <l>Parts answ'ring Parts, shall slide into a Whole,</l>
+            <l>Spontaneous Beauties all around advance,</l>
+            <l>Start, ev'n from <hi>Difficulty,</hi> strike, from <hi>Chance;</hi>
+            </l>
+            <l>
+               <hi>Nature</hi> shall join you; <hi>Time</hi> shall make it grow</l>
+            <l>A Work to wonder at—perhaps a <note place="bottom" n="*">The Seat and Gardens of the Lord Viscount <hi>Cobham</hi> in <hi>Buckinghamshire.</hi>
+               </note>STOW.</l>
+         </lg>
+         <lg>
+            <l>Without it, proud <hi>Versailles!</hi> thy Glory falls,</l>
+            <l>And <hi>Nero</hi>'s Terrasses desert their Walls:</l>
+            <l>
+               <pb n="8" facs="6"/>
+The vast <hi>Parterres</hi> a thousand hands shall make,</l>
+            <l>Lo! <hi>Bridgman</hi> comes, and floats them with a <hi>Lake:</hi>
+            </l>
+            <l>Or cut wide <hi>Views</hi> thro' Mountains to the Plain,</l>
+            <l>You'll wish your Hill, and shelter'd Seat, again.</l>
+         </lg>
+         <lg>
+            <l>Behold <hi>Villario</hi>'s ten-years Toil compleat,</l>
+            <l>His <hi>Quincunx</hi> darkens, his Espaliers meet,</l>
+            <l>The Wood supports the Plain; the Parts unite,</l>
+            <l>And strength of Shade contends with strength of Light;</l>
+            <l>His bloomy Beds a waving Glow display,</l>
+            <l>Blushing in bright Diversities of Day,</l>
+            <l>With silver-quiv'ring Rills maeander'd o'er—</l>
+            <l>—Enjoy them, you! <hi>Villario</hi> can no more,</l>
+            <l>Tir'd of the Scene Parterres and Fountains yield,</l>
+            <l>He finds at last he better likes a Field.</l>
+         </lg>
+         <lg>
+            <l>Thro' his young Woods how pleas'd <hi>Sabinus</hi> stray'd,</l>
+            <l>Or sate delighted in the thick'ning Shade,</l>
+            <l>With annual Joy the red'ning Shoots to greet,</l>
+            <l>And see the stretching Branches long to meet!</l>
+            <l>His Son's fine Taste an op'ner <hi>Vista</hi> loves,</l>
+            <l>Foe to the <hi>Dryads</hi> of his Father's Groves,</l>
+            <l>
+               <pb n="9" facs="7"/>
+One <hi>boundless Green</hi> or <hi>flourish'd Carpet</hi> views,</l>
+            <l>With all the mournful Family of <hi>Yews;</hi>
+            </l>
+            <l>The thriving Plants ignoble Broomsticks made</l>
+            <l>Now sweep those Allies they were born to shade.</l>
+         </lg>
+         <lg>
+            <l>Yet hence the <hi>Poor</hi> are cloth'd, the <hi>Hungry</hi> fed;</l>
+            <l>
+               <hi>Health</hi> to himself, and to his Infants <hi>Bread</hi>
+            </l>
+            <l>The Lab'rer bears; What thy hard Heart denies,</l>
+            <l>Thy charitable Vanity supplies.</l>
+            <l>Another Age shall see the golden Ear</l>
+            <l>Imbrown thy Slope, and nod on thy Parterre,</l>
+            <l>Deep Harvests bury all thy Pride has plann'd,</l>
+            <l>And laughing <hi>Ceres</hi> re-assume the Land.</l>
+         </lg>
+         <lg>
+            <l>At <hi>Timon</hi>'s <hi>Villa</hi> let us pass a Day,</l>
+            <l>Where all cry out, "What Sums are thrown away!</l>
+            <l>So proud, so grand, of that stupendous Air,</l>
+            <l>
+               <hi>Soft</hi> and <hi>Agreeable</hi> come never there.</l>
+            <l>Greatness, with <hi>Timon,</hi> dwells in such a Draught</l>
+            <l>As brings all <hi>Brobdignag</hi> before your Thought:</l>
+            <l>To compass this, his Building is a Town,</l>
+            <l>His Pond an Ocean, his Parterre a Down;</l>
+            <l>
+               <pb n="10" facs="8"/>
+Who but must laugh the Master when he sees?</l>
+            <l>A puny Insect, shiv'ring at a Breeze!</l>
+            <l>Lo! what huge Heaps of Littleness around!</l>
+            <l>The Whole, a labour'd Quarry above ground!</l>
+            <l>Two <hi>Cupids</hi> squirt before: A Lake behind</l>
+            <l>Improves the keenness of the Northern Wind.</l>
+            <l>His <hi>Gardens</hi> next your Admiration call,</l>
+            <l>On ev'ry side you look, behold the Wall!</l>
+            <l>No pleasing Intricacies intervene,</l>
+            <l>No artful Wildeness to perplex the Scene:</l>
+            <l>Grove nods at Grove, each Ally has a Brother,</l>
+            <l>And half the Platform just reflects the other.</l>
+            <l>The suff'ring Eye inverted Nature sees,</l>
+            <l>Trees cut to Statues, Statues thick as Trees,</l>
+            <l>With here a Fountain, never to be play'd,</l>
+            <l>And there a Summer-house, that knows no Shade.</l>
+            <l>Here <hi>Amphitrite</hi> sails thro' Myrtle bow'rs;</l>
+            <l>Then <note place="bottom" n="†">The two famous Statues of the <hi>Gladiator pugnans, &amp; Gladiator moriens.</hi>
+               </note>
+               <hi>Gladiators</hi> fight, or die, in flow'rs;</l>
+            <l>Un-water'd see the drooping Sea-horse mourn,</l>
+            <l>And Swallows roost in <hi>Nilus'</hi> dusty Urn.</l>
+         </lg>
+         <lg>
+            <pb n="11" facs="9"/>
+            <l>Behold! my Lord advances o'er the Green,</l>
+            <l>Smit with the mighty pleasure, to be seen:</l>
+            <l>But soft—by regular approach—not yet—</l>
+            <l>First thro' the length of yon hot Terras sweat,</l>
+            <l>And when up ten steep Slopes you've dragg'd your thighs,</l>
+            <l>Just at his Study-door he'll bless your Eyes.</l>
+         </lg>
+         <lg>
+            <l>His <hi>Study?</hi> with what Authors is it stor'd?</l>
+            <l>In Books, not Authors, curious is my Lord;</l>
+            <l>To all their <hi>dated Backs</hi> he turns you round,</l>
+            <l>These <hi>Aldus</hi> printed, those <hi>Du Suëil</hi> has <hi>bound.</hi>
+            </l>
+            <l>Lo some are <hi>Vellom,</hi> and the rest as good</l>
+            <l>For all his Lordship knows, but they are <hi>Wood.</hi>
+            </l>
+            <l>For <hi>Lock</hi> or <hi>Milton</hi> 'tis in vain to look,</l>
+            <l>These Shelves admit not any Modern book.</l>
+         </lg>
+         <lg>
+            <l>And now the Chappel's silver bell you hear,</l>
+            <l>That summons you to all the Pride of Pray'r:</l>
+            <l>Light Quirks of Musick, broken and uneven,</l>
+            <l>Make the Soul dance upon a Jig to Heaven.</l>
+            <l>On painted Cielings you devoutly stare,</l>
+            <l>Where sprawl the Saints of <hi>Verrio,</hi> or <hi>Laguerre,</hi>
+            </l>
+            <l>
+               <pb n="12" facs="10"/>
+On gilded Clouds in fair expansion lie,</l>
+            <l>And bring all Paradise before your Eye.</l>
+            <l>To Rest, the Cushion, and soft <hi>Dean</hi> invite,</l>
+            <l>Who never mentions Hell to Ears polite.</l>
+         </lg>
+         <lg>
+            <l>But hark! the chiming Clocks to Dinner call;</l>
+            <l>A hundred Footsteps scrape the marble Hall:</l>
+            <l>The rich Buffet well-colour'd <hi>Serpents</hi> grace,</l>
+            <l>And gaping <hi>Tritons</hi> spew to wash your Face.</l>
+            <l>Is this a Dinner? this a Genial Room?</l>
+            <l>No, 'tis a Temple, and a Hecatomb;</l>
+            <l>A solemn Sacrifice, perform'd in State,</l>
+            <l>You drink by Measure, and to Minutes eat.</l>
+            <l>So quick retires each flying Course, you'd swear</l>
+            <l>
+               <hi>Sancho</hi>'s dread Doctor and his Wand were there:</l>
+            <l>Between each Act the trembling Salvers ring,</l>
+            <l>From Soup to Sweetwine, and <hi>God bless the King.</hi>
+            </l>
+            <l>In Plenty starving, tantaliz'd in State,</l>
+            <l>And complaisantly help'd to all I hate,</l>
+            <l>Treated, caress'd, and tir'd, I take my leave,</l>
+            <l>Sick of his civil Pride, from Morn to Eve;</l>
+            <l>
+               <pb n="13" facs="11"/>
+I curse such lavish Cost, and little Skill,</l>
+            <l>And swear, no Day was ever past so ill.</l>
+         </lg>
+         <lg>
+            <l>In you, my <hi>Lord,</hi> Taste sanctifies Expence,</l>
+            <l>For Splendor borrows all her Rays from Sense.</l>
+            <l>You show us, <hi>Rome</hi> was glorious, not profuse,</l>
+            <l>And pompous Buildings once were things of use.</l>
+            <l>Just as they are, yet shall your noble Rules</l>
+            <l>Fill half the Land with <hi>Imitating Fools,</hi>
+            </l>
+            <l>Who random Drawings from your Sheets shall take,</l>
+            <l>And of one Beauty many Blunders make;</l>
+            <l>Load some vain Church with old Theatric State;</l>
+            <l>Turn Arcs of Triumph to a Garden-gate;</l>
+            <l>Reverse your Ornaments, and hang them all</l>
+            <l>On some patch'd Doghole ek'd with Ends of Wall,</l>
+            <l>Then clap four slices of Pilaster on't,</l>
+            <l>And lac'd with bits of Rustic, 'tis a Front:</l>
+            <l>Shall call the Winds thro' long Arcades to roar,</l>
+            <l>Proud to catch cold at a <hi>Venetian</hi> door;</l>
+            <l>Conscious they act a true <hi>Palladian</hi> part,</l>
+            <l>And if they starve, they starve by Rules of Art.</l>
+         </lg>
+         <lg>
+            <pb n="14" facs="12"/>
+            <l>Yet thou proceed; be fallen Arts thy care,</l>
+            <l>Erect new Wonders, and the Old repair,</l>
+            <l>
+               <hi>Jones</hi> and <hi>Palladio</hi> to themselves restore,</l>
+            <l>And be whate'er <hi>Vitruvius</hi> was before:</l>
+            <l>Till Kings call forth th' Idea's of thy Mind,</l>
+            <l>Proud to accomplish what such hands design'd,</l>
+            <l>Bid Harbors open, publick Ways extend,</l>
+            <l>And Temples, worthier of the God, ascend;</l>
+            <l>Bid the broad Arch the dang'rous Flood contain,</l>
+            <l>The Mole projected break the roaring Main;</l>
+            <l>Back to his bounds their subject Sea command,</l>
+            <l>And roll obedient Rivers thro' the Land:</l>
+            <l>These Honours, Peace to happy <hi>Britain</hi> brings,</l>
+            <l>These are Imperial Works, and worthy <hi>Kings.</hi>
+            </l>
+         </lg>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishersadvertisement">
+            <pb facs="13"/>
+            <head>
+               <hi>BOOKS</hi> printed for <hi>LAWTON GILLIVER</hi> at <hi>Homer</hi>'s Head over against St. <hi>Dunstan</hi>'s Church, <hi>Fleetstreet.</hi>
+            </head>
+            <list>
+               <item>THE DUNCIAD VARIORUM, a small Number in Quarto, Price Six Shillings and Six Pence.
+<list>
+                     <item>—In Octavo, with several Additional Notes and Epigrams.</item>
+                     <item>—In Duodecimo, of the first Edition without Notes, fit to be bound up with the <hi>Homer</hi>'s and Miscellanies, in 12<hi rend="sup">o</hi>.</item>
+                  </list>
+               </item>
+               <item>A Collection of Pieces in Verse and Prose, occasioned by the DUN<lb rend="hidden" type="hyphenInWord"/>CIAD, Dedicated to the Earl of <hi>Middlesex,</hi> by <hi>R. Savage,</hi> 
+                  <abbr>Esq</abbr>
+               </item>
+               <item>The Art of Politicks, in Imitation of <hi>Horace</hi>'s Art of Poetry.</item>
+               <item>
+                  <gap resp="#oxf" extent="1 span" rend="content:〈…〉">
+                     <desc>illegible</desc>
+                  </gap> The Art of Modern Poetry.</item>
+               <item>
+                  <hi>Imperium Pelagi:</hi> A Naval Lyrick, written in Imitation of <hi>Pindar</hi>'s <hi>Spirit.</hi> Occasion'd by his Majesty's Return, <hi>September</hi> 1729, and the succeeding Peace.</item>
+               <item>
+                  <hi>Gay</hi>'s Poems on several Occasions, 2 Vol. 12<hi rend="sup">o</hi>.</item>
+               <item>
+                  <hi>Addison</hi>'s Works in 4 Volumes in Quarto, the second Edition beau<lb rend="hidden" type="hyphenInWord"/>tifully printed.</item>
+               <item>
+                  <hi>Milton</hi>'s Paradise Lost and Regain'd in 8<hi rend="sup">o</hi> and 12<hi rend="sup">o</hi>.</item>
+            </list>
+            <p>Where may be had the <hi>Spectators, Tatlers, Guardians, Freeholders, Lover</hi> and <hi>Reader:</hi> Books in Law, and other Sciences: With great Variety of Single Plays.</p>
+            <pb n="14" facs="14"/>
+            <gap extent="1 page" rend="content:〈1 page duplicate〉">
+               <desc>duplicate</desc>
+            </gap>
+            <pb facs="15"/>
+            <gap extent="1 page" rend="content:〈1 page duplicate〉">
+               <desc>duplicate</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
