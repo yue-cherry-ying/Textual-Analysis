@@ -41,12 +41,15 @@ if __name__ == "__main__":
 
     print("\nStoring results...")
     feature_names = vectorizer.get_feature_names()
-    with open(f"{n_topics}.lda.topics.txt", "w") as output:
+    with open(f"{n_topics}.lda.topics.txt", "w") as csv_output:
+        csvwriter = csv.writer(csv_output)
+        csvwriter.writerow(["Label", "Topic Number", "Words"]) # Naming each column in our CSV file
         for topic_number, topic in enumerate(lda.components_): # lda.components_ contains the topic-word matrix
             print(f"Topic #{topic_number}:", end=" ", file=output) # end=" " makes the output on the same line, not to the new line
             top_word_weight_indices = numpy.argsort(topic)[::-1][:20] # sort words in topic by weight and keep top 20
             words_in_topic = " ".join([feature_names[i] for i in top_word_weight_indices]) # map index value to word
             print(words_in_topic, file=output_file)
+            csvwriter.writerow(row)
 
 with open(f"{n_topics}.lda.topic_distribution.txt", "w") as distribution:
     for doc, topics in enumerate(doc_topic_distrib):
