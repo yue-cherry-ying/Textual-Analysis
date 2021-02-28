@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789772" id="root" date="1997-08-09" xml:lang="en">
+<title>UNITED NATIONS: American joins disputed UN probe in Kabila's Congo.</title>
+<headline>American joins disputed UN probe in Kabila's Congo.</headline>
+<byline>Evelyn Leopold</byline>
+<dateline>UNITED NATIONS 1997-08-09</dateline>
+<text>
+<p>An American human rights expert has been named as the third member of a controversial U.N. team investigating alleged massacres of Rwandan refugees in President Laurent Kabila's Democratic Republic of the Congo.</p>
+<p>Reed Brody, an international lawyer, was appointed by U.N. Secretary-General Kofi Annan on Friday. The team is expected to leave for Kinshasa on August 15.</p>
+<p>Brody headed the human rights division in the U.N. peacekeeping mission in El Salvador and is executive director of the International Human Rights Law Group.</p>
+<p>Annan a week ago named two African experts for the mission, formed after Kabila refused to let another U.N. team into the country because of a critical report written by its leader, Chilean lawyer Roberto Garreton.</p>
+<p>They are Atsu-Koffi Amega of Togo, a supreme court judge, who will head the investigation and Andrew Chigovera, the deputy attorney general of Zimbabwe.</p>
+<p>Several human rights groups have criticised Annan's actions in naming a new team -- and the United States for strongly supporting it -- as giving in to Kabila and setting a dangerous precedent.</p>
+<p>Burundi a week ago followed suit and asked that a Brazilian U.N. rights investigator be replaced but the United Nations this time stood firm. Refusal to allow a probe approved by the inter-governmental U.N. Human Rights Commission often leads to international isolation.</p>
+<p>Annan said he decided to name a new team a month ago because the alternative would have meant a deadlock and no investigation. He called it a &quot;unique solution to a unique problem designed to get at the evidence before it disappears.&quot;</p>
+<p>The refugee crisis in the former Zaire followed the 1994 genocide in Rwanda of Tutsis and moderate Hutus by militant Hutus. More than a million Hutus crossed into what was then Zaire, fearing reprisals by Tutsis who had taken over the government in Kigali.</p>
+<p>Most refugees returned home, but U.N. relief officials say up to 200,000 are missing, including women and children innocent of the genocide.</p>
+<p>Kabila's forces, aided by Rwanda, seized power in Kinshasa in May, deposing veteran president Mobutu Sese Seko, an ally of the Hutus in Rwanda. Kabila has denied his troops were responsible for the alleged killings.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

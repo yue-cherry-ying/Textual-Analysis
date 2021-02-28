@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="659238" id="root" date="1997-06-13" xml:lang="en">
+<title>NEW ZEALAND: Fireball lights up New Zealand night sky.</title>
+<headline>Fireball lights up New Zealand night sky.</headline>
+<dateline>AUCKLAND 1996-06-14</dateline>
+<text>
+<p>New Zealand search and rescue teams were looking on Monday for an object that flared through the sky over the Kapiti coast, north of Wellington, on Friday night.</p>
+<p>Carter Observatory spokesman John Field told the New Zealand Press Association that from the descriptions from people who saw the object, it was likely to be space debris.</p>
+<p>A bright burning object was seen to crash and explode in the hills behind Waikanae, north of Wellington.</p>
+<p>&quot;If it is a large chunk of rock it will probably be stony and look like any other rock. I doubt whether it would be large enough to make a crater,&quot; he said.</p>
+<p>Field said the object could be as large as a basketball.</p>
+<p>Police in the central North Island recorded several reports of lights in the sky.</p>
+<p>Auckland Senior Sergeant Chris Robinson said he had received more than 20 calls of sightings of a range of different-coloured objects.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-06-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUCKLAND"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

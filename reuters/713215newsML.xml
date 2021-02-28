@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="713215" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: CSX train derails in Washington, no injuries.</title>
+<headline>CSX train derails in Washington, no injuries.</headline>
+<dateline>WASHINGTON 1997-07-08</dateline>
+<text>
+<p>Ten cars of a CSX Transportation. freight train derailed near Washington and sideswiped an Amtrak passenger train around 6 p.m. EDT on Tuesday, but no injuries were reported, officials from both companies said.</p>
+<p>The accident occurred in Virginia, just south of Washington's 14th St. railroad bridge, between the Potomac River and the George Washington Parkway.</p>
+<p>The derailment involved the final 10 cars of a 57-car CSX train traveling northbound from Jacksonville, Florida to Philadelphia, hauled by three locomotives, CSX spokeswoman Kathy Burns said.</p>
+<p>She said the cause of the accident had not yet been determined, but the company would conduct a full investigation.</p>
+<p>Burns said neither the crew of the CSX train, nor passengers aboard the Amtrak train reported any injuries.</p>
+<p>As the 10 CSX cars came off the track, they sideswiped a southbound Amtrak passenger train heading from Boston to Richmond, Amtrak spokeswoman Maureen Garrity told Reuters.</p>
+<p>Garrity said the six-car Amtrak train separated between the fourth and fifth cars, and officials were still trying to recouple the train and move it from the site.</p>
+<p>Passengers on Amtrak Train # 93 were still aboard, Garrity said.</p>
+<p>CSX Transportation is a unit of CSX Corp. The CSX train included tractor trailers and containers on flat railcars, Burns said.</p>
+<p>&quot;We will undergo an extensive investigation,&quot; Burns said. &quot;Our goal is to determine what did cause it and ensure it does not happen again.&quot;</p>
+<p>CSX was determined to maintain its three-year record as the safest railroad in the United States, Burns said, noting the railroad reported 1.91 accidents per million train miles, the lowest ratio of all U.S. railroads.</p>
+<p>Garrity said Amtrak expected delays, but had no details at this point.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

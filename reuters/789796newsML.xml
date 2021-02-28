@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789796" id="root" date="1997-08-09" xml:lang="en">
+<title>USA: Wal-Mart store workers in U.S. vote against union.</title>
+<headline>Wal-Mart store workers in U.S. vote against union.</headline>
+<dateline>CHICAGO 1997-08-08</dateline>
+<text>
+<p>Workers at a Wal-Mart store in Wisconsin on Friday voted against joining the United Steelworkers union, the first time employees of a Wal-Mart Stores Inc. store in the United States have voted on unionizing, officials said.</p>
+<p>In a 54-27 vote, the workers rejected the union at the Wal-Mart store in Merrill, Wisconsin. Union organiser Patsy Schafer said the union would continue its effort.  </p>
+<p>&quot;There won't be a union yet,&quot; Schafer said in a telephone interview from Merrill, Wisconsin. &quot;We are going to continue on and we'll see.&quot;</p>
+<p>Of Wal-Mart's 780,000 employees worldwide, only workers at a Wal-Mart store in Windsor, Ontario, Canada, belong to a union, a Wal-Mart spokeswoman said. While union elections have been held at Sam's Club warehouse stores and other operations, they had not been held at a U.S. Wal-Mart store before, she said.</p>
+<p>Wal-Mart, based in Bentonville, Ark., is the world's largest retailer, with 1996 sales of $104.4 billion and more than 3,000 total outlets.</p>
+<p>Wal-Mart's stock lost $1 to end at $37.0625 in consolidated New York Stock Exchange trading Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

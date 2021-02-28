@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="623002" id="root" date="1997-05-29" xml:lang="en">
+<title>UK: Treating snorer stopped bedwetting, study finds.</title>
+<headline>Treating snorer stopped bedwetting, study finds.</headline>
+<dateline>LONDON 1996-05-30</dateline>
+<text>
+<p>Treating patients for snoring problems might also help to stop bedwetting, U.S. doctors said on Friday.</p>
+<p>Williams Steers and Paul Suratt of the University of Virginia reported the case of a 60-year-old man who wet the bed twice a night after prostate surgery.</p>
+<p>To his wife's understandable distress, the man also snored and suffered from sleep apnoea -- a snoring-related condition in which breathing stops during the night.</p>
+<p>They advised treating the apnoea with continuous positive airway pressure, which involves putting a mask tightly over the nose and delivering compressed air at night.</p>
+<p>It worked, they wrote in a letter to the Lancet medical journal. Not only did the man stop snoring but he also stopped wetting the bed.</p>
+<p>Steers and Suratt said they did not know just why this happened but they suggested that treating sleep apnoea could help other cases of night-time incontinence.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

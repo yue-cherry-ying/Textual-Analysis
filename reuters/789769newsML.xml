@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789769" id="root" date="1997-08-09" xml:lang="en">
+<title>USA: Albuquerque officials seize circus animals.</title>
+<headline>Albuquerque officials seize circus animals.</headline>
+<byline>Kathy Saltzstein</byline>
+<dateline>ALBUQUERQUE, N.M. 1997-08-08</dateline>
+<text>
+<p>A group of animals belonging to a small circus were taken into temporary custody Friday after police found one elephant dead, officials said.</p>
+<p>They said the elephant probably died from a bacterial infection brought on by excessive heat, but it would be several weeks before the results of an autopsy were known.</p>
+<p>Police discovered the dead elephant Thursday in a poorly ventilated trailer that was parked in the sun. They estimated the temperature inside the vehicle to be 120 degrees. Two other elephants and eight llamas, also in the trailer, were taken to a park area along the Rio Grande River where they were being cared for. While the llamas appeared to be in good shape, officials said the elephants may have the same infection that killed Heather, a 6-year-old Asian elephant. The pachyderms were given antibiotics, electrolytes and hay.</p>
+<p>&quot;They've been stabilised, but they're still in poor health. We will do everything we can to protect these animals from further abuse,&quot; Sarah Kotchian, director of environmental health for the city of Albuquerque said.</p>
+<p>She said the city had obtained a temporary restraining order to keep the animals in protective custody until they improved. If government investigators determine that the animals were abused, the city may seek permanent custody, Kotchian said.</p>
+<p>The animals are owned by the King Royal Circus of San Antonio, Texas. Animal handler Ben Davenport, 23, of Laredo, Texas, was cited on suspicion of cruelty to animals, a charge he denied.</p>
+<p>He told reporters the elephants had been well cared for, but that Heather had died several hours before the police found her and he was attempting to return her body to Texas for examination.</p>
+<p>&quot;I'll assure you these animals are coming with me. This is America. You're not guilty until proven guilty,&quot; he said.</p>
+<p>A U.S. Department of Agriculture spokesman said the circus was fined $8,000 last year for animal care violations. Davenport said the trailer carrying the animals had been inspected and approved by the USDA 10 days ago in Nevada.</p>
+<p>The elephant's death angered animal rights activists. &quot;It's a horrible death. This is the dark side to a business that looks like it's all fun,&quot; Ed Stewart, co-director for the Sacramento, Ca.-based Performing Animal Welfare Society said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALBUQUERQUE, N.M."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

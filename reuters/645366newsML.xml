@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645366" id="root" date="1997-06-07" xml:lang="en">
+<title>FRANCE: French official to attend Malian inauguration.</title>
+<headline>French official to attend Malian inauguration.</headline>
+<dateline>PARIS 1997-06-07</dateline>
+<text>
+<p>France's new junior minister for cooperation Charles Josselin was flying to Mali on Saturday to attend the inauguration of newly re-elected President Alpha Oumar Konare, the French Foreign Ministry said on Saturday.</p>
+<p>Josselin was bringing a message of congratulations from Prime Minister Lionel Jospin, who took power this week after a leftist alliance swept the centre-right from power in last Sunday's French parliamentary election, the spokesman said.</p>
+<p>Konare was re-elected in a May 11 election.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="MALI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

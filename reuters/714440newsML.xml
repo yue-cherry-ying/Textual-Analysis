@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="714440" id="root" date="1997-07-08" xml:lang="en">
+<title>ITALY: Thugs attack tapirs at Rome zoo.</title>
+<headline>Thugs attack tapirs at Rome zoo.</headline>
+<dateline>ROME 1997-07-08</dateline>
+<text>
+<p>Vandals wielding metal bars badly injured tapirs at Rome zoo, forcing vets to destroy one of the large mammals, the zoo director said on Tuesday.</p>
+<p>Claudio Manicastri said unknown assailants broke into the zoo on Saturday night and again on Sunday.</p>
+<p>In the first attack, they hurled rocks at the large-nosed animals, wounding one creature badly on the head. The following night they climbed into the pen and attacked a young tapir, breaking one of its legs.</p>
+<p>The animal had to be put down.</p>
+<p>&quot;You wouldn't catch these cowards climbing into the lion or bear pens. Instead they picked on one of the most docile animals there are,&quot; Manicastri said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

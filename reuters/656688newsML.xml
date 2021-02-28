@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="656688" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: Dogs' pedigree could be 100,000 years old - study.</title>
+<headline>Dogs' pedigree could be 100,000 years old - study.</headline>
+<dateline>WASHINGTON 1997-06-12</dateline>
+<text>
+<p>The domestic dog's origins may stretch back far beyond the time when humans became domesticated themselves, possibly as early as 100,000 years ago, researchers reported on Thursday.</p>
+<p>Archaeological records suggest that dogs became domesticated about the same time that humans started living in one place and farming, possibly 14,000 years ago.</p>
+<p>But a new genetic analysis of dogs and wolves indicates that canines evolved into humans' best friend as a result of a process that may have begun from 60,000 to 100,000 years ago.</p>
+<p>&quot;The origin of dogs dates well before the development of agricultural population centres that occurred approximately 10,000-14,000 years ago, and goes back to hunter-gatherer societies,&quot; biologist Robert Wayne of the University of California-Los Angeles said in a statement.</p>
+<p>To reach their conclusions, Wayne and his colleagues studied DNA -- the basic genetic material -- from 140 dogs representing 67 breeds, from St. Bernards to poodles.</p>
+<p>They also analysed DNA from 162 wolves from various countries, as well as the DNA of jackals and coyotes.</p>
+<p>The researchers found a surprisingly diverse sampling of DNA, much more than would have been expected if dogs as now known had evolved around 14,000 years ago.</p>
+<p>These diverse DNA sequences indicated that the species may have evolved far earlier than suspected, the researchers wrote in this week's edition of the journal Science.</p>
+<p>&quot;Given the amount of genetic diversity that we found, we can calculate how long it should have taken to achieve this diversity if mutations alone were driving the process,&quot; Wayne said. &quot;Our calculations suggest the first domestic dog might be as old as 100,000 years or older.&quot;</p>
+<p>The study also found that dogs' closest relatives may be wolves, rather than jackals or coyotes.</p>
+<p>Most modern breeds of dogs originated in the last several hundred years due to modern breeding practices, Wayne said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

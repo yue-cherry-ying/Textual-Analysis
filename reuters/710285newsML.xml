@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="710285" id="root" date="1997-07-07" xml:lang="en">
+<title>ARGENTINA: Snow kills sheep in Argentina's Patagonia.</title>
+<headline>Snow kills sheep in Argentina's Patagonia.</headline>
+<dateline>BUENOS AIRES 1997-07-07</dateline>
+<text>
+<p>Heavy snowfall has killed more than 3,000 sheep in the southern Argentine region of Patagonia, civil defense officials said on Monday.</p>
+<p>Snowstorms have also cut off road access to about 1,000 people in Neuquen, Rio Negro and Chubut provinces, where the main industry is livestock, they added.</p>
+<p>Local governments launched emergency aid programs and the central government promised soft loans to help breeders. Municipal authorities in Bariloche, Patagonia's biggest tourist resort, handed out firewood and kerosene over the weekend.</p>
+<p>Weather reports Monday said temperatures dropped to the year's lowest levels of minus 17.4 degrees Celsius (0.7 Fahrenheit) in wide areas of northern Patagonia.</p>
+<p>Roads linking Argentina to Chile across the Andes mountains were blocked by a meter (three feet) of snow and truck drivers have already been waiting 15 days to cross the border.</p>
+<p>Tourism operators are looking forward to good skiing conditions during winter holidays in late July and early August.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732570" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: U.S. heat wave pushes up power demand, pollution.</title>
+<headline>U.S. heat wave pushes up power demand, pollution.</headline>
+<byline>James Jelter</byline>
+<dateline>NEW YORK 1997-07-16</dateline>
+<text>
+<p>An oppressive heat wave smothering the populous U.S. Northeast is breaking records for electricity demand and straining the power grid.</p>
+<p>It is also pumping up air pollution levels, as utilities turn to coal and oil-burning power plants in a bid to keep pace with demand from millions of air conditioners.</p>
+<p>&quot;Our forecast is that we will exceed yesterday's load,&quot; said Richard Mulieri, a spokesman for Consolidated Edison in New York City. &quot;As the day goes on we'll have a better idea where we end up.&quot;</p>
+<p>ConEd hit a record power load of 11,013 megawatts (MW) late Tuesday when the thermometer in Central Park hit a withering 97 degrees Fahrenheit. This easily surpassed the previous record of 10,805 MW from August 2, 1995.</p>
+<p>But the record was marred by outages in some of the city's northern suburbs and an eight percent voltage reduction, or &quot;brownout&quot;, in parts of Brooklyn.</p>
+<p>ConEd warned again Wednesday that power demand could hit a new high and urged customers in some neighborhoods to switch off all unnecessary lights and appliances, especially energy-hungry air conditioners.</p>
+<p>The warning was repeated across much of the East Coast.</p>
+<p>The New England Power Pool, which oversees operation of the power grid spanning the region's six states, declared today a &quot;conservation day&quot; and asked customers to voluntarily cut back on electricity usage.</p>
+<p>Grid operators in the Mid-Atlantic states told their member utilities to issue the same plea after PJM, the Pennsylvania-New Jersey-Maryland Interconnection, reported it moved a record 49,820 MW of power Tuesday.</p>
+<p>PJM oversees the operation of 540 power plants and transmission lines serving about 9.1 million customers from northern New Jersey to Maryland, including major cities like Baltimore and Philadelphia.</p>
+<p>Temperatures across the Mid-Atlantic states are expected to hit the 90s F again Wednesday, the fifth day of ninety-plus weather in what is so far the summer's most severe heat wave.</p>
+<p>To cope with the surging electrical loads, many utilities are firing up older, less efficient coal- and oil-burning power plants, many dating from the 1950s.</p>
+<p>While automobiles account for most low-level ozone, fossil fuel power plants are also major contributors.</p>
+<p>&quot;It is an unfortunate coincidence that hot weather results in higher power generation for cooling and also in a rise in ozone levels...It's kind of a double whammy,&quot; said Marika Tatsutani, a policy analyst at the Boston-based Northeast States for Coordinated Air Use Management (NESCAUM).</p>
+<p>She said the problem was compounded by high electricity demand in the Ohio Valley, where generating units are currently running flat out.</p>
+<p>Most big Midwest power stations are coal-fired, and the nitrogen oxides they emit tend to drift eastward on the prevailing winds.</p>
+<p>&quot;Power plants are particularly good at contributing to the transported pollution problem because they have very tall smokestacks, which is an old-fashioned solution to the problem -- just send it higher into the air,&quot; she said.</p>
+<p>But the problem is also a local one, with cranky old diesel, coal and heavy fuel oil power plants in New England brought out of mothballs to make up for the loss of the three Millstone nuclear power plants in Connecticut.</p>
+<p>The Millstone facility, operated by Northeast Utilities, has an overall generation capacity of nearly 2,700 MW. Safety concerns have kept Millstone's three reactors shut since early 1996 while they undergo extensive upgrades.</p>
+<p>The dangerous combination of heat, humidity and pollution has prompted ozone alerts all week from Maryland to Massachusetts, which means they are in violation of federal clear air standards.</p>
+<p>((--New York Power Desk + 212 859 1621))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="714399" id="root" date="1997-07-08" xml:lang="en">
+<title>FRANCE: Fire hits Paris law courts near historic church.</title>
+<headline>Fire hits Paris law courts near historic church.</headline>
+<dateline>PARIS 1997-07-08</dateline>
+<text>
+<p>A fire broke out on Tuesday in the Paris law courts, threatening the historic Sainte Chapelle, a 13th century church which stands in a courtyard of the courts building, guards said.</p>
+<p>The fire broke out in a part of the building's basement in an area used to store court documents, they said.</p>
+<p>The cause was not immediately known.</p>
+<p>Smoke billowed over the area and the courtyard where the Sainte Chapelle stands was ordered evacuated by police, they said.</p>
+<p>The law courts are located on the Cite island in the centre of the River Seine in the heart of the French capital.</p>
+<p>The Sainte Chapelle, a Gothic architectural masterpiece and major Paris tourist attraction, was built by the French king Saint Louis in 1245 to house relics he gathered during the Crusades. Construction took three years.</p>
+<p>The church's upper chapel has towering stained glass windows which were removed from the church in pieces and hidden during the Nazi occupation years in World War Two.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="710524" id="root" date="1997-07-07" xml:lang="en">
+<title>ISRAEL: Israeli male cadets accused of sexual harassment.</title>
+<headline>Israeli male cadets accused of sexual harassment.</headline>
+<dateline>JERUSALEM 1997-07-07</dateline>
+<text>
+<p>A woman training to be the Israeli air force's first female air traffic controller has left the military complaining of sexual harassment, the military said on Monday.</p>
+<p>&quot;I've lost all faith in the system,&quot; Israel Radio quoted her as saying. It said the men in the course burned her notebook after she got higher marks than they did and told her girls can't be smarter than boys.</p>
+<p>Three soldiers will face court-martials and a fourth has been booted out of the training programme, an Israeli army spokeswoman said.</p>
+<p>&quot;The air force views this incident with gravity and saw fit to reprimand the course commander,&quot; the spokeswoman said, adding the woman cadet had cut short her service and left the course.</p>
+<p>The woman student, a lieutenant, said her male classmates intentionally bumped into her during physical training, laughing when she fell.</p>
+<p>Israel's High Court ruled in 1995 that the air force must accept women into its pilot training programme, the jewel of Israel's military training programme.</p>
+<p>The woman cadet, who also has a private pilot's licence, left the pilot training course and became the first woman to join the air controller's course three months ago.</p>
+<p>Israeli women are drafted at age 18 for two years of army service but are barred from most combat units. Men do three years of mandatory service and many years of reserve duty.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

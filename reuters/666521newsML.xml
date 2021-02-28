@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="666521" id="root" date="1997-06-17" xml:lang="en">
+<title>BRAZIL: Greenpeace urges Brazil to back mahogany controls.</title>
+<headline>Greenpeace urges Brazil to back mahogany controls.</headline>
+<dateline>BRASILIA 1997-06-17</dateline>
+<text>
+<p>Greenpeace on Tuesday urged Brazil to join a growing group of nations that favour tighter controls on the environmentally destructive trade in mahogany timber.</p>
+<p>A meeting in Zimbabwe of the Convention on International Trade in Endangered Species (Cites) was considering a proposal that would subject the trade in bigleaf mahogany, which grows in the Amazon, to stricter monitoring.</p>
+<p>The proposal to include the species under a so-called Appendix Two of the convention would require producing nations, of which Brazil is the largest, to issue export permits. Consuming countries would also monitor the trade.</p>
+<p>In a letter to Brazilian President Fernando Henrique Cardoso, Greenpeace said the United States, the world's biggest mahogany consumer, and Bolivia, its second largest producer, recently dropped opposition to including bigleaf mahogany under Appendix Two.</p>
+<p>The recent acquisition of land and saw mills in the Brazilian Amazon by powerful Asian logging companies meant new measures to protect the region's biodiversity were urgently needed, the letter said.</p>
+<p>The illegal trade in mahogany was considered a principal factor behind deforestation of the Amazon. Loggers often cause indiscriminate damage to virgin forest when chopping down mahogany and their paths are commonly used by settlers who clear the land to graze cattle.</p>
+<p>The Cites meeting began in Harare on June 9 and will end on June 20. The meeting on Monday upheld controls on whaling which had been opposed by Japan and Norway.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I02000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

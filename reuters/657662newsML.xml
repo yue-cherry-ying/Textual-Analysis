@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="657662" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: U.S. abortion pill sponsor suing Hungarian drug firm.</title>
+<headline>U.S. abortion pill sponsor suing Hungarian drug firm.</headline>
+<dateline>WASHINGTON 1997-06-12</dateline>
+<text>
+<p>Danco Laboratories Ltd., set to distribute the French abortion pill RU-486 in the United States, last month filed suit against a Hungarian drug firm for pulling out of its contract to manufacture the drug, the Washington Post reported on Thursday.</p>
+<p>It said that Danco filed suit May 9 in New York Supreme Court against Gedeon Richter for breach of contract.</p>
+<p>In the suit, Danco said Richter's decision not to manufacture the RU-486 was a potentially &quot;ruinous&quot; and costly blow to the effort to make the abortion pill available in the United States, according to the newspaper report.</p>
+<p>It cited financial losses in excess of $200 million.</p>
+<p>Danco is seeking a ruling requiring Richter, which has already received $500,000 in payments, to continue the project.</p>
+<p>German chemicals and drugs group Hoechst AG in April said it was transferring all rights for the controversial abortion pill to a former manager and would now cease production of the drug completely, mainly because of adverse publicity.</p>
+<p>The pill has been available in Europe for several years and although it was widely acclaimed by women's groups in the United States, it faced opposition by anti-abortion groups.</p>
+<p>The Danco suit is the first to disclose the name of the Hungarian firm, which signed an agreement forbidding its identification.</p>
+<p>Mifepristone is a synthetic steroid that makes it difficult for a fertilised egg to adhere to the lining of the uterus. When taken with misoprotol, a drug that triggers uterine contractions, the result is an abortion.</p>
+<p>Hoechst became linked to the controversial pill when it acquired French drug company Roussel Uclaf years ago. In the United States, Hoechst had already transferred the rights for the drug to the Population Council at the request of the U.S. government.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

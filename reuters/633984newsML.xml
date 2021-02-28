@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="633984" id="root" date="1997-06-03" xml:lang="en">
+<title>USA: Thieves steal FBI van full of weapons.</title>
+<headline>Thieves steal FBI van full of weapons.</headline>
+<dateline>MEMPHIS, Tenn 1997-06-03</dateline>
+<text>
+<p>The FBI had a crime on its hands on Tuesday: One of its vans full of weapons was stolen and looted.</p>
+<p>Agents said the van was found near Millington, Tennessee, outside Memphis Tuesday morning gutted by fire but empty of more than a dozen weapons including M-16 rifles and tear gas launchers.</p>
+<p>A spokesman for the Memphis FBI office called it &quot;an extremely serious situation&quot; and promised that the weapons would be recovered.</p>
+<p>The van belonged to a SWAT team of agents, one of several such teams attending a regional training exercise in Memphis.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEMPHIS, Tenn"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

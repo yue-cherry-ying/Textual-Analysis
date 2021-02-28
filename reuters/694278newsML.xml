@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694278" id="root" date="1997-06-28" xml:lang="en">
+<title>NETHERLANDS: MOTORCYCLING-DOOHAN EXTENDS WINNING STREAK.</title>
+<headline>MOTORCYCLING-DOOHAN EXTENDS WINNING STREAK.</headline>
+<dateline>ASSEN, Netherlands 1997-06-28</dateline>
+<text>
+<p>Australian Michael Doohan claimed his sixth success of the season by winning the Dutch 500cc motorcycling grand prix on Saturday.</p>
+<p>It was the world champion's 40th career victory and fourth consecutive win in Assen. He extended his championship lead to 68 points over Honda team mate Alex Criville.</p>
+<p>Criville did not race after injuring his hand badly when he crashed in practice on Thursday.</p>
+<p>Doohan won both sections of the race which was split in two when rain prompted officials to call a halt with 11 laps completed.</p>
+<p>Honda rider Carlos Checa of Spain, who was in second place when the race was interrupted, came third in the second part of the 20-lap race to take second place overall.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASSEN, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

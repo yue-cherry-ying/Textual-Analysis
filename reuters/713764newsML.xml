@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="713764" id="root" date="1997-07-08" xml:lang="en">
+<title>BANGLADESH: Bangladesh port workers end strike.</title>
+<headline>Bangladesh port workers end strike.</headline>
+<dateline>CHITTAGONG, Bangladesh 1997-07-08</dateline>
+<text>
+<p>Dock workers at Bangladesh's main Chittagong port called off their five-day strike on Tuesday, port officials said.</p>
+<p>&quot;The workers have started returning to their jobs after successful negotiations with labour unions,&quot; one port official said.</p>
+<p>Nearly 8,000 dock workers walked off the job last Thursday following a dispute sparked by attempts to allow coaster hatch operators to work on the jetties.</p>
+<p>&quot;Workers are returning...and the trucks have started rolling. Full operation will resume shortly,&quot; a port traffic officer said. Port officials said the stalemate ended after Deputy Minister for Port and Shipping, Dhirendra Nath Shambu, persuaded the leaders of the coaster hatch operators not to seek jobs on the port.</p>
+<p>They said 43 foreign ships were stranded and hundreds of tonnes of goods had been piled up by the strike.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHITTAGONG, Bangladesh"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

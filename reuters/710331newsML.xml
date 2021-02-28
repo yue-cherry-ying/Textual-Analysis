@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="710331" id="root" date="1997-07-07" xml:lang="en">
+<title>JAMAICA: Jamaica four-month trade gap widens.</title>
+<headline>Jamaica four-month trade gap widens.</headline>
+<dateline>KINGSTON, Jamaica 1997-07-07</dateline>
+<text>
+<p>Jamaica's trade deficit grew by US$50 million, or 11.6 percent, in the first four months of 1997 compared a year earlier, to US$476.4 million, the government said Monday.</p>
+<p>Imports rose 1.7 percent to US$925.9 million from US$910.4 million, and exports fell 7.1 percent to US$466.3 million from $483.7 million, it said.</p>
+<p>Raw materials and intermediate goods imports declined 8 percent, while consumer imports rose 12.6 percent.</p>
+<p>The trade deficit has set new record highs in three of the past four years, and April figures set yet another record, the government said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINGSTON, Jamaica"/>
+<dc element="dc.creator.location.country.name" value="JAMAICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

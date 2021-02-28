@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712556" id="root" date="1997-07-08" xml:lang="en">
+<title>UK: Britain's NHS negotiates free breast cancer test.</title>
+<headline>Britain's NHS negotiates free breast cancer test.</headline>
+<dateline>LONDON 1997-07-08</dateline>
+<text>
+<p>A British cancer charity said on Tuesday it had negotiated a deal that gives the country's National Health Service (NHS) free rights to use tests for a breast cancer gene.</p>
+<p>The Cancer Research Campaign, whose scientists have applied for a patent for the BRCA2 gene linked with breast cancer, said it hoped this meant the test would be available free to Britons.</p>
+<p>The agreement is with Duke University in North Carolina and OncorMed Inc, to which the charity licensed diagnostic rights for the BRCA2 gene.</p>
+<p>The charity is currently involved in a bitter patent dispute with Salt Lake City-based Myriad Genetics Inc over patent rights to the BRCA2 gene.</p>
+<p>Mike Stratton at the Institute of Cancer Research announced he had discovered the gene in November, but Myriad later said it had found the gene first.</p>
+<p>Myriad currently offers a test for both the BRCA1 and BRCA2 genes at $2,400. OncorMed also offers a test for a fee.</p>
+<p>&quot;Myriad are charging people for the use of the test,&quot; said Susan Osborne, a spokeswoman for the charity.</p>
+<p>&quot;We said that if we ever discovered the second gene we wouldn't allow that to happen.&quot;</p>
+<p>Guy Heathers, head of business development at CRCT, the charity's technology transfer company, said the deal took a year to negotiate.</p>
+<p>&quot;For a commercial company taking a licence to a patent they would normally have to pay a licence fee,&quot; he said. &quot;Normally we would negotiate a fee. What we have done this time is to make sure the NHS doesn't have to pay a license fee.&quot;</p>
+<p>If Myriad wins the patent battle, the charity's patent deal will be worthless, Heathers said. &quot;We have to make sure we win,&quot; he said.</p>
+<p>The BRCA1 and BRCA2 genes are believed to act to suppress tumour formation.</p>
+<p>They are involved in between five and 10 percent of breast cancer cases. Women with BRCA1 or BRCA2 mutations have an 85 percent chance of developing breast cancer in their lifetime.</p>
+<p>The University of California at Berkeley owns the patent to the BRCA1 gene, which is also associated with ovarian and prostate cancer. OncorMed has the licence for the patent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

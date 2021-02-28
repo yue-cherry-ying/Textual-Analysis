@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645259" id="root" date="1997-06-07" xml:lang="en">
+<title>PHILIPPINES: Australian shot dead in central Philippines.</title>
+<headline>Australian shot dead in central Philippines.</headline>
+<dateline>ORMOC, Philippines 1997-06-07</dateline>
+<text>
+<p>A 61-year-old Australian was shot dead in a central Philippine city while grappling with a man who had tried to snatch the necklace of his Filipina fiancee, police said on Saturday.</p>
+<p>Bono Franco of Melbourne died of a gunshot wound from a .45 calibre pistol on Thursday, Ormoc City police officer Bienvenido Bauncit told Reuters.</p>
+<p>Police said Franco and his 22-year old girlfriend were walking towards a bus terminal after visiting the city's police station when two men in a motorcycle tried to snatch the woman's necklace.</p>
+<p>Franco had reported to police that he lost a suitcase containing his passport in a restaurant in Ormoc on June 2.</p>
+<p>Police said they were now looking for the suspects who fled after the incident.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORMOC, Philippines"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="625388" id="root" date="1997-05-30" xml:lang="en">
+<title>CANADA: Canucks have yuks in a row.</title>
+<headline>Canucks have yuks in a row.</headline>
+<byline>Brendan Kelly</byline>
+<text>
+<p>MONTREAL (Variety) - Denis Leary, Lea Thompson from Caroline in the City, Drew Carey and Frasier co-star David Hyde Pierce head the lineup for the 15th annual Just For Laughs comedy festival, set to take in Montreal July 16-27.</p>
+<p>As always, the galas at the St. Denis Theater are the main star-studded soirees, with Leary hosting July 24, Thompson doing the honors July 25, Carey taking the mic July 26 and Hyde Pierce hosting the last gala July 27. The first English-lingo gala July 23 will be hosted by Canadian comics Cathy Jones, Rick Mercer, Greg Thomey and Mary Walsh, who all star in the popular weekly CBC TV satire This Hour Has 22 Minutes.</p>
+<p>The French-lingo side of the Just For Laughs festival will premiere the French version of Steve Martin's play Picasso at the Lapin Agile, which has been translated by veteran Canadian playwright Michel Tremblay.</p>
+<p>Reuters/Variety</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

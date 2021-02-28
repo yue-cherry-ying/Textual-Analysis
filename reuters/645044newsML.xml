@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645044" id="root" date="1997-06-07" xml:lang="en">
+<title>FRANCE: SOCCER-LATE SHEARER GOAL GIVES ENGLAND VICTORY.</title>
+<headline>SOCCER-LATE SHEARER GOAL GIVES ENGLAND VICTORY.</headline>
+<dateline>MONTPELLIER, France 1997-06-07</dateline>
+<text>
+<p>England defeated France 1-0 in a fiercely-contested Tournoi de France match on Saturday when Alan Shearer pounced on a rare mistake by French goalkeeper Fabien Barthez.</p>
+<p>It was Shearer's 11th goal in his last 11 internationals and sealed England's sixth successive win and their first in France for 48 years.</p>
+<p>The goal in the 85th minute came when Teddy Sheringham, who had only replaced Ian Wright five minutes earlier, sent a low ball into the French six-yard box.</p>
+<p>Barthez -- who had denied England with four outstanding saves -- failed to keep hold of the ball and it ran loose to Shearer who made no mistake from only a few metres out.</p>
+<p>The win left England top of the four-team tournament with six points following their 2-0 win over Italy on Wednesday and sent France to only their second defeat in 36 matches under coach Aime Jacquet.</p>
+<p>The Tournoi continues on Sunday when world champions Brazil meet Italy in Lyon.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTPELLIER, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="709596" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: American Intl files papers in appeal.</title>
+<headline>American Intl files papers in appeal.</headline>
+<dateline>NEW YORK 1997-07-07</dateline>
+<text>
+<p>American International Group Inc said Monday it has asked the California Court of Appeal to overturn a lower court's decision to award Golden Eagle Insurance Co to a competitor.</p>
+<p>The company also said it has asked the lower court to postpone a hearing scheduled for July 23 on the transfer of Golden Eagle -- a California-based workers compensation insurer -- to Liberty Mutual Group of Boston. The California Insurance Department seized Golden Eagle in January following allegations of a reserve shortfall.</p>
+<p>On May 30, a California Superior Court judge overturned an earlier decision by the insurance department to award Golden Eagle to American International. The department had declared American International the winner of a sealed bid auction for Golden Eagle.</p>
+<p>American International said it wants the hearing delayed until Golden Eagle's policyholders are told of all terms of the transaction, including all details of the California Insurance Commissioner's agreement with Golden Eagle owner John Mabee.</p>
+<p>Company spokesman Joe Norton said a number of pages of the transcript of the agreement have been sealed by the court, and American International has been unable to see them.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

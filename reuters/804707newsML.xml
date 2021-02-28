@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="804707" id="root" date="1997-08-17" xml:lang="en">
+<title>USA: Top 10 movies at U.S. box office.</title>
+<headline>Top 10 movies at U.S. box office.</headline>
+<dateline>LOS ANGELES 1997-08-17</dateline>
+<text>
+<p>Following are movie ticket sales at the U.S. box office for the Aug. 15-17 weekend, according to studio estimates from Exhibitor Relations Co.</p>
+<p>Final data will be issued on Monday.</p>
+<p> 1 (*) Cop Land ...............................  $13.0 million</p>
+<p> 2 (2) Air Force One ..........................  $12.6 million</p>
+<p> 3 (1) Conspiracy Theory ....................... $12.3 million</p>
+<p> 4 (*) Event Horizon ...........................  $9.5 million</p>
+<p> 5=(3) Spawn ..................................   $5.1 million</p>
+<p> 5=(4) George of the Jungle ....................  $5.0 million</p>
+<p> 7 (5) Men in Black ............................  $4.3 million</p>
+<p> 8 (6) Picture Perfect .........................  $3.3 million</p>
+<p> 9 (7) Contact .................................  $2.8 million</p>
+<p> 10(9) Air Bud .................................  $2.4 million</p>
+<p>NOTE: Last weekend's position in parentheses. * denotes new release. Both &quot;Spawn&quot; and &quot;George of the Jungle&quot; claimed fifth position.</p>
+<p>&quot;Cop Land&quot; is released by Miramax Films, a unit of Walt Disney Co.</p>
+<p>&quot;Air Force One&quot; and &quot;Men in Black&quot; are released by Columbia Pictures, a unit of Sony Corp.</p>
+<p>&quot;Conspiracy Theory&quot; and &quot;Contact&quot; are released by Warner Bros., a unit of Time Warner Inc.</p>
+<p>&quot;Event Horizon&quot; is released by Paramount Pictures, a unit of Viacom Inc.</p>
+<p>&quot;Spawn&quot; is released by New Line Cinema, a unit of Time Warner Inc.</p>
+<p>&quot;George of the Jungle&quot; and &quot;Air Bud&quot; are released by Disney.</p>
+<p>&quot;Picture Perfect&quot; is released by 20th Century Fox, a unit of News Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

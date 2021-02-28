@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="713518" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: Montgomery Ward undecided on store closings.</title>
+<headline>Montgomery Ward undecided on store closings.</headline>
+<dateline>CHICAGO 1997-07-08</dateline>
+<text>
+<p>Montgomery Ward &amp; Co Inc, which filed for Chapter 11 bankruptcy protection Monday, said Tuesday it has not decided whether to close any of its 408 stores or cut jobs as part of its reorganization.</p>
+<p>&quot;Chapter 11 gives Montgomery Ward the opportunity to reorganize and restructure,&quot; said Montgomery Ward Chairman and Chief Executive Roger Goddu in a statement. &quot;At the moment, we have made no decision on additional store closings or layoffs.&quot;  </p>
+<p>The 125-year-old store chain filed for bankruptcy in Wilmington, Del., after talks with lenders on a financial package to rescue the company failed. Montgomery Ward is 50-percent owned by General Electric Co's General Electric Capital Corp.</p>
+<p>&quot;During this time, it will be business as usual in our stores as we continue to implement the core strategy that was widely accepted by our financial partners,&quot; Goddu said. &quot;Our employee payroll will continue wihtout interruption, and the normal benefits and pension fund are intact and protected.&quot;</p>
+<p>	  -- Reuter Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

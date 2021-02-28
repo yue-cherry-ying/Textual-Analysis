@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="804599" id="root" date="1997-08-17" xml:lang="en">
+<title>JAPAN: Typhoon Winnie to miss Okinawa, head for Taiwan.</title>
+<headline>Typhoon Winnie to miss Okinawa, head for Taiwan.</headline>
+<dateline>TOKYO 1997-08-17</dateline>
+<text>
+<p>Typhoon Winnie is expected to skirt the southern Japanese island of Okinawa on its way toward Taiwan, a Meteorological Agency spokesman said on Sunday.</p>
+<p>&quot;Hurricane Winnie, the biggest typhoon to approach Japan this season, will pass between Okinawa and Ishigaki island without touching land,&quot; he said.</p>
+<p>&quot;It is moving west-north-west at 20 km (14 miles) per hour towards Taiwan and is not expected to change direction towards the Japanese mainland,&quot; he said.</p>
+<p>More than 100 domestic Japanese flights had been cancelled due to Winnie, the 13th typhoon to approach Japan during this year's rainy season.</p>
+<p>Officials recorded top wind speeds of 100 km (70 miles) per hour in Okinawa's capital Naha, with gusts up to 170 km (100 miles) per hour from the large tropical cyclone which began near Saipan, the spokesman said.</p>
+<p>Up to 300 millimetres of rain had fallen on Okinawa overnight but there was no fear of serious landslides or flash floods on the mainly flat island, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

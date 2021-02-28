@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694646" id="root" date="1997-06-28" xml:lang="en">
+<title>USA: U.S. to begin nuclear experiment on July 2.</title>
+<headline>U.S. to begin nuclear experiment on July 2.</headline>
+<dateline>WASHINGTON 1997-06-27</dateline>
+<text>
+<p>The U.S. Energy Department said on Friday it would begin controversial new underground nuclear weapons-related tests on July 2.</p>
+<p>&quot;We're going ahead with our subcritical experiments Wednesday, July 2,&quot; an Energy Department spokeswoman said.</p>
+<p>The government had been under a court order not to announce any tests until Friday evening, when a federal judge was expected to rule on a lawsuit filed by anti-nuclear groups seeking to stop the $40 billion program designed to maintain the U.S. nuclear arsenal without exploding weapons.</p>
+<p>The judge issued no decision on Friday, according to the Energy Department spokesman, Chris Kielich.</p>
+<p>Anti-nuclear groups argue that while the U.S. experiments are in line with the letter of an international test ban treaty, they violate the spirit of the pact.</p>
+<p>&quot;They're maintaining the ability to break out of the test ban should a future president decide to,&quot; said Bruce Hall, nuclear disarmament campaigner for Greenpeace. &quot;Our commitment to the Comprehensive Test Ban Treaty should be seen as nothing short of permanent.&quot;</p>
+<p>The Clinton administration says the experiments are needed to assess how age affects the materials in the nuclear stockpile and to predict how the weapons will perform without testing them.</p>
+<p>But in a letter to President Bill Clinton last week, 44 House lawmakers urged the administration to drop its test plans, saying that the U.S. program would encourage other nations with less high-tech equipment to justify underground testing.</p>
+<p>The first experiment, code-named REBOUND, will take place at the government's Nevada Test Site.</p>
+<p>The Energy Department plans another experiment later this year and four more in 1998.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

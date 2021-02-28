@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="715052" id="root" date="1997-07-08" xml:lang="en">
+<title>SPAIN: NATO summit in restricted session on enlargement.</title>
+<headline>NATO summit in restricted session on enlargement.</headline>
+<dateline>MADRID 1997-07-08</dateline>
+<text>
+<p>NATO leaders held a restricted session to try to resolve their differences on the size and pace of the Western alliance's expansion into eastern Europe on Tuesday after failing to find a consensus in their opening statements, a French delegation source said.</p>
+<p>&quot;The summit began by going round the table, with each leader stating his known position. There was no consensus, so the meeting was suspended and a restricted session was held with just the delegation leaders and two aides each,&quot; the source said.  </p>
+<p>At issue was whether NATO should admit only the three former communist states backed by the United States -- Poland, Hungary and the Czech Republic -- or add Romania and Slovenia, which are backed by nine of the 16 alliance members.</p>
+<p>The source said French President Jacques Chirac made a strong plea for Romania, explaining why he considered it qualified as a democracy with a market economy and deserved security guarantees.</p>
+<p>Italian Prime Minister Romano Prodi was the strongest supporter of Slovenia, the only former Yugoslav republic to be a candidate for immediate NATO membership.</p>
+<p>NATO Secretary-General Javier Solana opened the summit by pledging that NATO's door would remain open to those who were not admitted in the first wave. NATO officials said senior alliance diplomats had made substantial progress on the wording of pledges to disappointed candidates in negotiations overnight.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

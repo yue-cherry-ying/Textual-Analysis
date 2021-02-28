@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789610" id="root" date="1997-08-09" xml:lang="en">
+<title>UK: SOCCER-ASPRILLA HITS TWO AS NEWCASTLE OPEN WITH WIN.</title>
+<headline>SOCCER-ASPRILLA HITS TWO AS NEWCASTLE OPEN WITH WIN.</headline>
+<dateline>LONDON 1997-08-09</dateline>
+<text>
+<p>Colombian international striker Faustino Asprilla scored twice on Saturday to give Newcastle a winning start to the new English season and make up for injured Alan Shearer's absence.</p>
+<p>Asprilla scored the fastest goal of the day as last season's runners-up beat Sheffield Wednesday 2-1 at St James' Park, grabbing the first after one minute 48 seconds and the second in the 72nd minute.</p>
+<p>Liverpool, the favourites to replace Manchester United as champions, made a shaky start at Wimbledon despite strong performances from new signings Paul Ince and German international KarlHeinz Riedle.</p>
+<p>Marcus Gayle put Wimbledon ahead in the 55th minute before Michael Owen equalised from a penalty.</p>
+<p>Chelsea and Arsenal, two London clubs who have dominated transfer talk over the summer, had mixed fortunes. Chelsea lost 3-2 at Coventry and Arsenal drew 1-1 at former manager George Graham's Leeds.</p>
+<p>Newcomers Barnsley, in the top flight for the first time in their 110-year history, took an early lead but lost 2-1 at home to West Ham.</p>
+<p>Manchester United play Tottenham on Sunday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

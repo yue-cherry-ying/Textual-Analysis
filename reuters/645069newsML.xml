@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645069" id="root" date="1997-06-07" xml:lang="en">
+<title>UK: HORSE RACING-RESULT OF EPSOM DERBY.</title>
+<headline>HORSE RACING-RESULT OF EPSOM DERBY.</headline>
+<dateline>EPSOM, England 1997-06-07</dateline>
+<text>
+<p>Result of Saturday's Epsom Derby horse racing classic (for three-year-olds, run over 12 furlongs, 2.4 km)</p>
+<p>1. Benny The Dip (ridden by Willie Ryan) 11-1</p>
+<p>2. Silver Patriarch (Pat Eddery) 6-1</p>
+<p>3. Romanov (John Reid) 25-1</p>
+<p>4. Entrepreneur (Michael Kinane) 4-6 favourite</p>
+<p>13 ran. Distances: Short head, five lengths</p>
+<p>Winner owned by Landon Knight and trained in England by John Gosden.</p>
+<p>Value to winner: 595,000 pounds ($970,000)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EPSOM, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

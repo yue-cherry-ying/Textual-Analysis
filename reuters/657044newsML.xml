@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="657044" id="root" date="1997-06-12" xml:lang="en">
+<title>NETHERLANDS: Dutch soccer star faces rape probe.</title>
+<headline>Dutch soccer star faces rape probe.</headline>
+<dateline>AMSTERDAM 1997-06-12</dateline>
+<text>
+<p>Police said on Thursday they were investigating an accusation of rape against Dutch soccer international Patrick Kluivert, the 20-year old former Ajax striker who is moving to AC Milan next season.</p>
+<p>&quot;We are investigating a complaint of rape against four men, one of whom is Patrick Kluivert,&quot; Amsterdam police spokesman Klaas Wilting told Reuters.</p>
+<p>He declined to give further details but said police had not interviewed Kluivert, who is abroad at the moment. He said the police were in contact with the public prosecutors' office and had yet to decide if the matter would be taken any further.</p>
+<p>The Dutch newspaper De Telegraaf reported the allegations on Thursday, saying a 20-year old woman had made a charge against Kluivert.</p>
+<p>It quoted Kluivert's lawyer as saying the player had done nothing wrong and that the accusation was a complete fabrication.</p>
+<p>A Hague-based firm of solicitors confirmed it was acting on behalf of Kluivert but declined to comment on the rape accusation when contacted by Reuters.</p>
+<p>In May last year Kluivert was convicted of causing death by dangerous driving. He was ordered to undertake 240 hours of community service and received a three month jail sentence, suspended for two years.</p>
+<p>Kluivert signed a four-year deal with AC Milan in February this year and is due to start there next season, teaming up with former Ajax colleagues and close friends Edgar Davids and Michael Reiziger.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

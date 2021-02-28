@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="659910" id="root" date="1997-06-13" xml:lang="en">
+<title>FRANCE: French N-plant contaminates Channel-Greenpeace.</title>
+<headline>French N-plant contaminates Channel-Greenpeace.</headline>
+<byline>Pierre-Henri Allain</byline>
+<dateline>CHERBOURG, France 1997-06-13</dateline>
+<text>
+<p>The international environmental group Greenpeace accused a French nuclear plant on Friday of badly contaminating the Channel seabed by spewing out radioactive waste.</p>
+<p>Greenpeace said divers found &quot;stupefying&quot; radioactivity levels, above those allowed by the European Union, in sludge on the seabed at the end of a subsea discharge pipe from La Hague nuclear reprocessing plant, near Cherbourg in northern France.</p>
+<p>&quot;If this sediment were found in a back-yard or a nuclear laboratory, the material would be classified as nuclear waste and handled and stored in controlled conditions,&quot; Damon Moglen of Greenpeace told a news conference.</p>
+<p>&quot;Here in France, though, the government allows fishing, swimming and boating in the waters around the discharge pipe,&quot; he said. Greenpeace has often accused France of playing down dangers linked to the plant.</p>
+<p>It is unclear how French nuclear policy may change after Dominique Voynet, the leader of France's Greens party which wants to phase out atomic power in the long term, became Environment Minister last week in a Socialist-led government.</p>
+<p>Greenpeace said it found high levels of radioactive isotopes including cobalt, americium, barium, antimony and europium from 10 kg (22 lbs) of sediments taken from near the end of the pipe, in water 27 metres (90 ft) deep two km (1.25 miles) offshore.</p>
+<p>The state nuclear company Cogema, which runs the La Hague plant, did not dispute the findings but said Greenpeace had skewed the results by measuring at the end of the outlet.</p>
+<p>It said Greenpeace's measurements were like &quot;working out the air quality of a city simply by measuring carbon dioxide, sulphur and nitrogen at the end of a chimney&quot;.</p>
+<p>Greenpeace said the sediments from the plant, which reprocesses spent nuclear fuel from power plants in countries ranging from Germany to Japan, were tested by a laboratory at the university of Bremen in Germany.</p>
+<p>Greenpeace said in March that radioactivity on a beach near the plant was 3,000 times the natural background levels.</p>
+<p>And in January, two French scientists said children who regularly played on the beach, or people who ate local seafood, had a higher risk of leukaemia.</p>
+<p>Greenpeace said the latest tests showed levels of radioactive cobalt 60, for instance, of 146,000 becquerels per kg.</p>
+<p>&quot;This is 50 times higher than that found north of Russia, on an island where nuclear tests were carried out and which is considered one of the most contaminated sites in the world,&quot; Moglen said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="G156">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHERBOURG, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

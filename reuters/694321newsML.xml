@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694321" id="root" date="1997-06-28" xml:lang="en">
+<title>AUSTRALIA: RUGBY UNION-AUSTRALIA BEAT FRANCE 26-19 AND WIN SERIES.</title>
+<headline>RUGBY UNION-AUSTRALIA BEAT FRANCE 26-19 AND WIN SERIES.</headline>
+<dateline>BRISBANE, Australia 1997-06-28</dateline>
+<text>
+<p>Australia beat France 26-19 (halftime 20-13) in the second and final rugby union test at Ballymore on Saturday.</p>
+<p>Scorers:</p>
+<p>Australia - Tries: Richard Harry, Ben Tune, Jason Little. Conversion: John Eales. Penalties: John Eales (3).</p>
+<p>France - Try: Thomas Castaignede. Conversion: Christophe Lamaison. Penalty: Christophe Lamaison (4).</p>
+<p>Australia win the two-test series 2-0.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

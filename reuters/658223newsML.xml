@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="658223" id="root" date="1997-06-12" xml:lang="en">
+<title>JAPAN: Japan police probe movie link to boy's murder.</title>
+<headline>Japan police probe movie link to boy's murder.</headline>
+<dateline>TOKYO 1997-06-12</dateline>
+<text>
+<p>Police said on Thursday they are investigating whether horror movies inspired the beheading of an 11-year-old boy in central Japan last month.</p>
+<p>Detectives involved in the gruesome case in the port city of Kobe said they had asked video shops in the area to provide lists of people who had rented horror videos depicting scenes resembling the killing.</p>
+<p>&quot;We have narrowed it down to about 10 horror movies that may have inspired the culprit,&quot; a police spokesman told reporters. He declined to say which the films were.</p>
+<p>&quot;We don't know if it will help identify the murderer, but we must try whatever methods we think useful.&quot;</p>
+<p>Eleven-year-old Jun Hase left his home in Kobe shortly after noon on May 24, saying he was going to see his grandfather.</p>
+<p>Three days later his head was found at the foot of an iron gate of a nearby junior high school.</p>
+<p>Inside the boy's mouth was a note which said the murderer enjoyed killing and planned to strike again.</p>
+<p>Earlier this month, a person purporting to be the killer sent a letter to a local newspaper blaming Japan's draconian education system for the murderous urges they suffered.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

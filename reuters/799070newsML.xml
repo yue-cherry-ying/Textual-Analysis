@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799070" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: Genetic mutation appears to delay AIDS - report.</title>
+<headline>Genetic mutation appears to delay AIDS - report.</headline>
+<byline>Deborah Zabarenko</byline>
+<dateline>WASHINGTON 1997-08-14</dateline>
+<text>
+<p>A relatively common genetic mutation appears to delay the onset of AIDS for years, researchers reported on Thursday.</p>
+<p>This is the second gene link to people who seem to never get the deadly syndrome despite exposure to it, or who fail to show symptoms of the disease despite testing positive for HIV, the virus that causes AIDS.</p>
+<p>An earlier genetic mutation was discovered last year.</p>
+<p>&quot;With these two genes, we're actually coming up with numbers that allow us to explain the rapid progressors (those who move quickly from HIV exposure to full-blown AIDS) as well as a fraction of that very rare group of long survivors, that 1 percent of the (HIV-exposed) population that never gets AIDS,&quot; researcher Dr. Stephen O'Brien said in a telephone interview.</p>
+<p>The newest mutation affecting AIDS was seen in a study of more than 3,000 subjects from around the United States, and was remarkable for stalling the disease by an average of two to three years.</p>
+<p>If scientists were able to mimic the mutation, they might be able to contrive to keep AIDS at bay in people who have been exposed, O'Brien said.</p>
+<p>&quot;This finding indicates that the process of developing AIDS is a collaborative process between the virus and the patient; there's a whole series of trap doors for the virus to fall through,&quot; he said.</p>
+<p>The newly discovered genetic mutation, known as CCR2, involves what scientists call an amino acid substitution, which is essentially a scrambling of the order of proteins in one section of the gene.</p>
+<p>This disorder means that HIV cannot immediately latch on and start to damage the person who carries the mutant gene, O'Brien and his co-authors reported in the current edition of the journal Science.</p>
+<p>The CCR2 mutation is present in as many as 25 percent of all Americans and occurs in all races, the researchers said.</p>
+<p>The discovery of the CCR2 mutation comes about a year after scientists reported a mutation in another gene known as CCR5, in which a large chunk of the gene was omitted, leaving the searching HIV no access to a key part of the gene.</p>
+<p>Of the lucky 1 percent of so-called long survivors who have been exposed to the AIDS virus, about 40 percent may be protected because they have one or the other of the mutations, according to O'Brien.</p>
+<p>Having both CCR2 and CCR5 does not notably increase the odds against the disease, he said.</p>
+<p>These discoveries may mark the midpoint in the fight against AIDS, O'Brien said.</p>
+<p>&quot;I certainly don't think we're going to spend another 50 years suffering from this disease,&quot; he said.</p>
+<p>The study was conducted by the National Cancer Institute and other research facilities.</p>
+<p>AIDS, or acquired immune deficiency syndrome, destroys the body's ability to fight infections and is most frequently transmitted through sexual contact or infected blood and blood products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

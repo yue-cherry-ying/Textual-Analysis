@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611892" id="root" date="1997-05-23" xml:lang="en">
+<title>INDONESIA: Bank Niaga Q1 net up to 31.81 bln rph.</title>
+<headline>Bank Niaga Q1 net up to 31.81 bln rph.</headline>
+<dateline>JAKARTA 1997-05-23</dateline>
+<text>
+<p>Three months to March 31, 1997</p>
+<p>		     (in billion rupiah unless earnings per share)</p>
+<p>    Net profit		     31.81 vs  20.47</p>
+<p>    Net interest income	  99.35 vs  74.10</p>
+<p>    Earnings per share (rph)    168  vs  108</p>
+<p>    Other operating income     18.99 vs  21.38</p>
+<p>    Pre-tax profit		 44.30 vs  28.18</p>
+<p>    Retained earnings	   267.70 vs  181.28</p>
+<p>NOTE: The results were unaudited. PT Bank Niaga is among Indonesia's largest privately-owned banks.</p>
+<p>-- Jakarta newsroom +6221 384-6364</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="657082" id="root" date="1997-06-12" xml:lang="en">
+<title>BANGLADESH: Bangladesh to cut duty on bus, truck imports.</title>
+<headline>Bangladesh to cut duty on bus, truck imports.</headline>
+<dateline>DHAKA 1997-06-12</dateline>
+<text>
+<p>Bangladesh Finance Minister S.A.M.S. Kibria on Thursday proposed to reduce customs duty on completely manufactured bus, minibus and truck imports to 22.5 percent from 30 percent in fiscal 1997/98 beginning on July 1.</p>
+<p>&quot;To promote competitiveness of local assembling industries, I also propose to reduce customs duty on the import of completely knocked down bus, minibus and truck from 15 percent to 7.5 percent,&quot; Kibria said in parliament while presenting the new budget.</p>
+<p>He said the government attached &quot;top priority&quot; to the development of a rapid mass transport system.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

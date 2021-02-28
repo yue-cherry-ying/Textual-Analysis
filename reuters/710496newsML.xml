@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="710496" id="root" date="1997-07-07" xml:lang="en">
+<title>CHINA: New Hong Kong leader to visit PLA naval base.</title>
+<headline>New Hong Kong leader to visit PLA naval base.</headline>
+<dateline>HONG KONG 1997-07-07</dateline>
+<text>
+<p>Hong Kong's leader Tung Chee-hwa will visit the new Chinese garrison on Wednesday, his first since China took back the region from Britain a week ago, the government said on Monday.</p>
+<p>Tung would visit the People's Liberation Army (PLA) navy base on Stonecutters Island in the middle of Hong Kong harbour, where Britain previously had its naval headquarters.</p>
+<p>The gesture would return a visit paid to Tung last Friday by the PLA garrison chief, Major-General Liu Zhenwu, the government said in a statement.</p>
+<p>Tung would take along Chief Secretary Anson Chan, Financial Secretary Donald Tsang and Security Secretary Peter Lai.</p>
+<p>Appointed by China to run Hong Kong from July 1 after Britain handed over its former colony, Tung will welcome the PLA troops responsible for Hong Kong's defence. They number almost 5,000 personnel.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645307" id="root" date="1997-06-07" xml:lang="en">
+<title>IRAQ: PRESS DIGEST - Iraq -  June 7.</title>
+<headline>PRESS DIGEST - Iraq -  June 7.</headline>
+<dateline>BAGHDAD 1997-06-07</dateline>
+<text>
+<p>These are some of the leading stories in the official Iraqi press on Saturday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>QADISSIYA</p>
+<p>- International community demands immediate withdrawal of Turkish troops from northern Iraq.</p>
+<p>- Russia says sanctions on Iraq should be lifted.</p>
+<p>- Ship loaded with wheat arrives at Umm Qasr port in southern Iraq.</p>
+<p>- Iraqi workers stage demonstration against Turkish incursion.</p>
+<p>- Yemeni president calls for a unified Arab stand against Turkish invasion.</p>
+<p>- Pakistan's interior minister receives Iraqi ambassador.</p>
+<p>(The above were also carried by JUMHOURIYA and AL-IRAQ)</p>
+<p>- Importance of low prices in current economic situation.</p>
+<p>- More public services executed in Basra.</p>
+<p>- China to supply Iraq with advanced technology.</p>
+<p>JUMHOURIYA</p>
+<p>- Socialists victory in France a threat to NATO.</p>
+<p>- Preparations underway for harvest campaign in Nineveh province.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAGHDAD"/>
+<dc element="dc.creator.location.country.name" value="IRAQ"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

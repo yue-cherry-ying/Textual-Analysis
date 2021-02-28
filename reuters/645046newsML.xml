@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645046" id="root" date="1997-06-07" xml:lang="en">
+<title>UK: GOLF-EUROPEAN GRAND PRIX TOURNAMENT THIRD ROUND SCORES.</title>
+<headline>GOLF-EUROPEAN GRAND PRIX TOURNAMENT THIRD ROUND SCORES.</headline>
+<dateline>HEXHAM, England 1997-06-07</dateline>
+<text>
+<p>Leading third round</p>
+<p>scores in the European Grand Prix golf tournament on Saturday</p>
+<p>(Britain unless stated):</p>
+<p>205 Colin Montgomerie 69 68 68</p>
+<p>206 Retief Goosen (South Africa) 69 69 68, Lee</p>
+<p>Westwood 70 70 66</p>
+<p>208 Jamie Spence 69 72 67, Scott Henderson 69 71 68</p>
+<p>209 Ross McFarlane 72 69 68, David Gilfort 71 69 69,</p>
+<p>David Carter 69 70 70</p>
+<p>210 Jon Robson 72 68 70, Ignacio Feliu (Spain)</p>
+<p>71 68 71, John Mellor 71 72 67, Sam Torrance</p>
+<p>72 71 67, Neal Briggs 70 70 70</p>
+<p>211 Paul Mcginley (Ireland) 73 71 67, Gary Evans</p>
+<p>72 68 71, Paul Lawrie 70 69 72, Miles Tunnicliff</p>
+<p>73 69 69</p>
+<p>212 Stephen Allan (Australia) 72 71 69, Robert Coles</p>
+<p>70 70 72, Greg Turner (New Zealand) 70 72 70,</p>
+<p>Wayne Westner (South Africa) 71 69 72, Phil</p>
+<p>Golding 73 68 71, Jonathan Lomas 74 70 68,</p>
+<p>Fredrik Jacobson (Sweden) 70 70 72</p>
+<p>213 Steve Bottomley 68 71 74, Paolo Quirici</p>
+<p>(Switzerland) 72 73 68, Roger Wessels (South Africa)</p>
+<p>71 69 73, Gordon J.Brand 69 72 72, Padraig</p>
+<p>Harrington (Ireland) 67 74 72, Emanuele Canonica</p>
+<p>(Italy) 68 73 72</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HEXHAM, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

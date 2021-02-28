@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="710606" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: Japan joins EC to overturn Massachusetts' Burma law.</title>
+<headline>Japan joins EC to overturn Massachusetts' Burma law.</headline>
+<dateline>BOSTON 1997-07-07</dateline>
+<text>
+<p>Japan has joined the European Union in filing a complaint with the World Trade Organisation over a Massachusetts law that denies state contracts to businesses doing business in Burma, the U.S. Trade Representative's office said Monday.</p>
+<p>&quot;Japan has formally requested to join the consultations,&quot; a spokesman for the trade representative said, adding that talks were scheduled in Geneva for the week of July 21.</p>
+<p>The 15-nation EU last month requested settlement consultations through the WTO last month on the law, which went into effect Jan. 1.</p>
+<p>&quot;We're not surprised that Japan has joined the EU complaint,&quot; said Massachusetts state Representative Byron Rushing who co-authored the Burma bill. &quot;I am disappointed and disturbed that the real issue is being ignored.</p>
+<p>&quot;The real issue is: How do we restore democracy in Burma?&quot; he said, adding that was the reason for the legislation.</p>
+<p>The Massachusetts law imposes a pricing penalty on state procurements from companies that do business in Burma.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

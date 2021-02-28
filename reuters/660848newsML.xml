@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="660848" id="root" date="1997-06-13" xml:lang="en">
+<title>UK: It's back to real carrots, according to study.</title>
+<headline>It's back to real carrots, according to study.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1997-06-13</dateline>
+<text>
+<p>Another study has found no health benefit from taking vitamin supplements, adding to evidence that people cannot escape eating real vegetables to protect themselves from cancer and heart disease.</p>
+<p>The study, in the Lancet medical journal, found that vitamin A and E supplements did not protect middle-aged male smokers from having a second heart attack.</p>
+<p>Janne Rapola of the National Public Health Institute in Helsinki and colleagues at the U.S. National Cancer Institute studied more than 1,800 men as part of the Alpha-tocopherol Beta-carotene Cancer Prevention study (ABCPS).</p>
+<p>All were smokers over the age of 50 who had suffered one heart attack.</p>
+<p>They were given either a combination of A or E supplements, or a placebo pill containing nothing.</p>
+<p>&quot;There were no significant differences in the number of major coronary events between any supplementation group and the placebo group,&quot; Rapola's group wrote.</p>
+<p>&quot;In fact, the risk of fatal coronary heart disease increased in the groups that received either beta-carotene or the combination of alpha-tocopherol and beta-carotene,&quot; they added.</p>
+<p>&quot;We do not recommend the use of alpha-tocopherol (which the body turns into vitamin E) or beta-carotene (which becomes a form of vitamin A) supplements in this group of patients.&quot;</p>
+<p>A 1996 study known as the Cambridge Heart Antioxidant Study (CHAOS) found that supplements slightly decreased the risk of heart attack but not overall coronary deaths in patients with heart disease.</p>
+<p>A U.S. study the same year found beta-carotene seemed to help heart disease at first but in fact slightly increased the risk of death.</p>
+<p>&quot;This report is important because it adds substantially to the scant body of clinical trial data about treatment of ischaemic heart disease with vitamin E and beta-carotene,&quot; Nigel Stephens, a cardiologist at Northwick Park Hospital near London, said in a commentary.</p>
+<p>Findings were contradictory and of course more research was needed, he added.</p>
+<p>&quot;Meanwhile there continues to be good reason to believe that a high dose of vitamin E may prevent myocardial infarction (heart attack) in patients with coronary atherosclerosis, but there is no further mileage in the clinical use of beta-carotene.&quot;</p>
+<p>Rapola's group said it was not clear how supplements might increase the risk of death. It could be their anti-oxidant activity affected a process known as preconditioning, which the body uses to protect itself against heart blockages and the resulting lack of oxygen.</p>
+<p>Or it could be beta-carotene, which is easily absorbed into the plaque that coats blood vessel walls in atherosclerosis, somehow helps the plaque rupture and form a clot more easily.</p>
+<p>Meanwhile, men who have suffered heart attacks should not take supplements, they said.</p>
+<p>Other studies have found clear evidence that eating lots of fruit and vegetables protects against both cancer and heart disease.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

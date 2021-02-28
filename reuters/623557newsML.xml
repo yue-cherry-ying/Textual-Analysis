@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="623557" id="root" date="1997-05-29" xml:lang="en">
+<title>JAPAN: Japan vehicle exports and sales seen up in 1997/98.</title>
+<headline>Japan vehicle exports and sales seen up in 1997/98.</headline>
+<dateline>TOKYO 1997-05-29</dateline>
+<text>
+<p>All eleven Japanese automobile manufacturers' forecasts of domestic sales, exports and overseas production for the year to March 1998 were disclosed by Thursday, as follows (with percentage changes from a year earlier):</p>
+<p>				  DOMESTIC SALES  YR/YR PCT</p>
+<p> Toyota		2,240,000     +0.4</p>
+<p> Nissan Motor	1,140,000     +1.2</p>
+<p> Honda Motor	   800,000     +2.2</p>
+<p> Mitsubishi Motors   860,000    +11.4</p>
+<p> Mazda		   415,000    +10.1</p>
+<p> Suzuki Motor	  635,000     -1.7</p>
+<p> Daihatsu Motor	495,000     +2.9</p>
+<p> Fuji Heavy	    360,000     +3.9</p>
+<p> Isuzu Motors	  153,000     -3.2</p>
+<p> Nissan Diesel	  34,000     -2.6</p>
+<p> Hino Motors	    47,000     -3.5</p>
+<p> Total			    7,179,000     +2.5</p>
+<p>---------------------------------------------</p>
+<p>				    EXPORTS	 YR/YR</p>
+<p> Toyota			   1,400,000     +6.7</p>
+<p> Nissan Motor		     620,000     +3.6</p>
+<p> Honda Motor			470,000    +15.1</p>
+<p> Mitsubishi Motors		480,000     +0.2</p>
+<p> Mazda				505,000     +8.4</p>
+<p> Suzuki Motor		     222,000    +10.4</p>
+<p> Daihatsu Motor		   102,000    +36.0</p>
+<p> Fuji Heavy			 110,000    +32.0</p>
+<p> Isuzu Motors		     208,000     +8.9</p>
+<p> Nissan Diesel		     21,000     -6,2</p>
+<p> Hino Motors			 34,000     +1.0</p>
+<p> Total			    4,172,000     +7.8</p>
+<p>---------------------------------------------</p>
+<p>				OVERSEAS OUTPUT   YR/YR</p>
+<p> Toyota			   1,520,000    +10.2</p>
+<p> Nissan Motor		   1,101,000     +2.0</p>
+<p> Honda Motor		    1,140,000     +7.9</p>
+<p> Mitsubishi Motors		880,000    +15.3</p>
+<p> Mazda				140,000     -5.4</p>
+<p> Suzuki Motor		   1,034,000     +1.4</p>
+<p> Daihatsu Motor		   242,000     -5.7</p>
+<p> Fuji Heavy			 101,000     -6.0</p>
+<p> Isuzu Motors		     361,000     -0.6</p>
+<p> Total			    6,519,000    +10.2</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

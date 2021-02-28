@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="714348" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: Wildfire threatens Athabaskan villages in Alaska.</title>
+<headline>Wildfire threatens Athabaskan villages in Alaska.</headline>
+<dateline>ANCHORAGE, Alaska 1997-07-07</dateline>
+<text>
+<p>Firefighters were working Monday to contain a fast-growing Alaskan wildfire that was advancing toward three Athabaskan Indian villages, officials said.</p>
+<p>The 158,000-acre Inowak fire consumed another 50,000 acres over the past two days and was about five miles north of the Kuskokwim River villages of Sleetmute, said Don Pitcher, a spokesman for the Alaska Division of Forestry.</p>
+<p>The fire was also approaching two nearby villages, he said.</p>
+<p>&quot;The villages of Sleetmute, Red Devil and Stony River are all potentially threatened if the fires move through,&quot; Pitcher said.</p>
+<p>A specialised firefighting crew was working in the area to protect buildings from burning embers, officials said, and other crews were cutting fire lines to protect the communities.</p>
+<p>Sleetmute has about 120 residents, some 60 people live in Red Devil and about 40 in Stony River.</p>
+<p>In all, 77 wildfires were burning around the state Monday, and firefighters were deployed on 16 of them, said the Alaska Fire Information Centre, a joint federal-state operation.</p>
+<p>Other major fires included a 1,280-acre blaze northeast of Fairbanks, an 18,000-acre blaze that threatened a commercial lodge on southwestern Alaska's Tikchik Lake and a 248,000-acre blaze in the Innoko National Wildlife Refuge in Interior Alaska.</p>
+<p>So far this summer, 530 fires have burned 721,000 acres statewide, said the Fire Information Centre.</p>
+<p>The centre is part of the Alaska Interagency Coordination Centre, which coordinates U.S. Bureau of Land Management and Alaska Division of Forestry wildfire management.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANCHORAGE, Alaska"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

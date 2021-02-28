@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="714498" id="root" date="1997-07-08" xml:lang="en">
+<title>AUSTRIA: Austria's Klima says no rush to join NATO.</title>
+<headline>Austria's Klima says no rush to join NATO.</headline>
+<dateline>VIENNA 1997-07-08</dateline>
+<text>
+<p>Austrian Chancellor Viktor Klima said on Tuesday there was no hurry in taking a decision on the country's future security policy as he had been assured Austria would always be welcomed into NATO.</p>
+<p>&quot;I've learnt from numerous discussions that Austria would always be made welcome in NATO, and that's why we are under no time pressure to decide,&quot; Klima said after a cabinet meeting.</p>
+<p>The ruling coalition government of Klima's dominant Social Democrats and the conservative People's Party of Foreign Minister Wolfgang Schuessel is at loggerheads over whether the nation should join the Western military alliance.</p>
+<p>The Social Democrats want Austria to remain neutral but stress that any decision on joining the 16-nation alliance should first be put before the nation.</p>
+<p>The conservatives want Austria to ditch its neutrality but are against holding a referendum.</p>
+<p>Neutrality was written into the constitution on the insistence of the Kremlin, which refused to pull out its occupying troops in 1955 unless Austria rejected membership of military alliances.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="800866" id="root" date="1997-08-14" xml:lang="en">
+<title>UK: Canadian confirmed as world's oldest person at 116.</title>
+<headline>Canadian confirmed as world's oldest person at 116.</headline>
+<dateline>LONDON 1997-08-14</dateline>
+<text>
+<p>The Guinness Book of Records on Thursday confirmed 116-year-old Canadian Marie Louise Febronie Meilleur as the world's oldest person.</p>
+<p>She takes over the record from Frenchwoman Jeanne Calment, who died last week at the age of 122.</p>
+<p>Guinness said it confirmed Meilleur's age after checking her birth and baptism certificates, census records and two marriage certificates.</p>
+<p>&quot;We have an extremely stringent process of verification to ensure that only someone whose age can be proved beyond any shadow of doubt can be recognised as the record holder,&quot; said Guinnesse Keeper of the Records Clive Carpenter.</p>
+<p>Meilleur, who now lives in a nursing home in Corbeil, north Ontario, has 300 descendants from two marriages.</p>
+<p>Her family said the secret of her longevity was an active life and hard work. She used to enjoy fishing and still loves the outdoors.</p>
+<p>Guinness also confirmed that the world's oldest man is 114-year-old Christian Mortensen.</p>
+<p>The cigar-smoking centenarian emigrated from Skaarup, Denmark, to the United States in 1903 and now lives in San Raphael, California.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

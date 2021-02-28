@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="666188" id="root" date="1997-06-17" xml:lang="en">
+<title>ZIMBABWE: Endangered species meet defers vote on ivory trade.</title>
+<headline>Endangered species meet defers vote on ivory trade.</headline>
+<dateline>HARARE 1997-06-17</dateline>
+<text>
+<p>A world conference on endangered species postponed until Wednesday a decision on an application by three southern African states to reopen trade in ivory from their &quot;excess&quot; elephant herds.</p>
+<p>But the 10-day Convention on International Trade in Endangered Species (CITES) on Tuesday rejected an amendment proposed by South Africa that would have eased the ban to allow commercial trade to start only in 1999, with some fixed quotas.</p>
+<p>After a heated four-hour debate, conference officials put off voting on the main proposal by Botswana, Namibia and Zimbabwe calling for immediate trade in ivory, saying the meeting had exceeded the closing time by over an hour.</p>
+<p>The countries and their supporters, notably Japan, argued that they be allowed some limited but strictly supervised trade because their elephant herd, now estimated at around 150,000, was rising steadily and was doing so even before the 1989 ban.</p>
+<p>But the proposal was strongly opposed by some influential green movements and countries, including the United States and from the European Union. They argue lifting the ban will leave elephants at the mercy of poachers.</p>
+<p>South Africa's proposed amendment was just three votes short of the 78 three-thirds majority it needed from the 123 countries that voted. Forty-one countries voted against the amendment, and seven abstained.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BOTS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="NAMIB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

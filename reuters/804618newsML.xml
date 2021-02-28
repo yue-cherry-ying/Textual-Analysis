@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="804618" id="root" date="1997-08-17" xml:lang="en">
+<title>TAIWAN: Taiwan issues land alert as Typhoon Winnie nears.</title>
+<headline>Taiwan issues land alert as Typhoon Winnie nears.</headline>
+<dateline>TAIPEI 1997-08-17</dateline>
+<text>
+<p>Taiwan issued a warning on Sunday morning that medium-range Typhoon Winnie could make landfall, with major influence on the island seen starting from Sunday evening.</p>
+<p>&quot;We issued land warning early this morning, and Typhoon Winnie is expected to show its power on Taiwan's northern and northeastern part starting from this evening,&quot; Chen Lai-fa, chief forecaster at the Central Weather Bureau, told Reuters.</p>
+<p>Taiwan issued a sea warning on Saturday.</p>
+<p>At 0000 GMT, the centre of the typhoon, with an average wind speed of 40 metres per second (80 nautical miles per hour), was located 690 km (431 miles) east of the capital Taipei, Chen said.</p>
+<p>The typhoon, which has a diameter of 600 km (375 miles), was moving at an average 15 km (9.4 miles) per hour towards Taiwan, he said.</p>
+<p>Chen said people should avoid going out in typhoon weather and keep supplies of food and drinking water at home.</p>
+<p>The typhoon is the first so far this year that appears likely to hit Taiwan.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

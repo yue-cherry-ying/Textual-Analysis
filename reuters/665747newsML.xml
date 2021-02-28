@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="665747" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: Hantavirus takes new path in Argentina.</title>
+<headline>Hantavirus takes new path in Argentina.</headline>
+<byline>Mike Cooper</byline>
+<dateline>ATLANTA 1997-06-16</dateline>
+<text>
+<p>Federal health officials reported on Monday the first person-to-person transmission of a hantavirus, in which an Argentine woman transmitted the virus to her doctor, ultimately making 20 people fall ill.</p>
+<p>The Centers for Disease Control and Prevention (CDC) said evidence &quot;strongly suggests&quot; that the cases, which occurred late last year in three towns in southern Argentina, marked the first time a hantavirus had been transmitted directly between people.</p>
+<p>The virus causes a disease called hantavirus pulmonary syndrome (HPS), a serious and often deadly respiratory ailment. The illness was first recognized in the United States in 1993 and has since been found mostly in rural areas of the West.</p>
+<p>In Argentina the virus was probably transmitted from a woman doctor whose husband had died from the illness to the hospital admissions doctor who examined her, researchers wrote in the CDC's Journal of Emerging Infectious Diseases. The 20 people who were ultimately infected included four other doctors, they said.</p>
+<p>Usually the virus is passed on to humans through infected rodent urine, saliva or droppings. Unable to find a substantial rodent population, the researchers said that some of the other 20 cases may also have involved person-to-person transmission.</p>
+<p>Health experts had not previously seen a case of hantavirus transmission between people. A 1993 study in New Mexico found no disease or hantavirus antibodies in serum specimens taken from 396 health care workers, including 266 who had recently been exposed to HPS patients or their body fluids.</p>
+<p>The hantavirus seen in Argentina has not been reported in the United States, the CDC said. Half of the 20 people who became ill in Argentina died.</p>
+<p>In the United States, the deer mouse is the primary carrier of the virus that causes hantavirus pulmonary syndrome, but the cotton rat can also carry it. Breathing in the virus is the most common way people become infected, but touching the mouth or nose after handling contaminated materials can also cause infection.</p>
+<p>While the virus can survive in contaminated dirt or dust, it can be killed by household disinfectants such as bleach or alcohol.</p>
+<p>The primary symptom of illness is difficulty in breathing, caused by fluid buildup in the lungs, which quickly progresses to an inability to breathe.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

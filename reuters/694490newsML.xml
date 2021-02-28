@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694490" id="root" date="1997-06-28" xml:lang="en">
+<title>CHINA: Shanghai Metal Exchange Warehouse figures - June 2.</title>
+<headline>Shanghai Metal Exchange Warehouse figures - June 2.</headline>
+<dateline>SHANGHAI 1997-06-28</dateline>
+<text>
+<p>Latest Shanghai Metal Exchange figures are (tonnes):</p>
+<p>				 June 28		June 20</p>
+<p> Aluminium		   11,439		 11,515</p>
+<p> Copper			27,139		 25,275</p>
+<p> Lead			     562		    551</p>
+<p> Zinc			     690		    712</p>
+<p> Tin				 94		     61</p>
+<p> Nickel			   198		     42</p>
+<p>-- Shanghai newsroom (86-21) 6279-8544</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

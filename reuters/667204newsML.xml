@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="667204" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: Clinton supports Senate health care plan for kids.</title>
+<headline>Clinton supports Senate health care plan for kids.</headline>
+<dateline>WASHINGTON 1997-06-17</dateline>
+<text>
+<p>President Clinton threw his weight Tuesday behind a compromise Senate plan that would deliver health care to up to half the nation's uninsured children through a major expansion of the Medicaid programme.</p>
+<p>Clinton said the $16 billion proposal, sponsored by a bipartisan group of senators, would &quot;help to give a lot of our young children a healthy start in life.&quot;</p>
+<p>It appeared to have the votes to pass the key Senate Finance Committee possibly as early as Tuesday, congressional aides said, even though it is opposed by committee chairman William Roth of Delaware and other Republican leaders.</p>
+<p>&quot;This legislation would be the biggest investment in children's health care since Medicaid passed in 1965,&quot; Clinton said at an unrelated White House ceremony. &quot;It would be the most significant thing that we could do, I think, by committing us to providing health insurance coverage to up to five million uninsured children and providing health insurance today that they didn't have yesterday.&quot;</p>
+<p>Roth and some other Republicans want to provide broad grants to states to design their own health programmes.</p>
+<p>&quot;Right now it looks like a close vote,&quot; committee spokeswoman Ginny Flynn said.</p>
+<p>If the compromise sponsored by Rhode Island Republican John Chafee and West Virginia Democrat Jay Rockefeller is approved, it would almost certainly face a battle when it reached the full Senate.</p>
+<p>The competing health bills are designed to implement a five-year budget deal between Congress and the White House setting aside $16 billion to insure poor children.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

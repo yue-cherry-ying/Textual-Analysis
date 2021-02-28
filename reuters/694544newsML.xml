@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694544" id="root" date="1997-06-28" xml:lang="en">
+<title>USA: Suspect ties Iranian to anti-American plot - paper.</title>
+<headline>Suspect ties Iranian to anti-American plot - paper.</headline>
+<text>
+<p>WASHINGTON, June 27, Reuter - A Saudi fugitive deported from Canada to the United States has linked a senior Iranian intelligence officer to a conspiracy to attack U.S. targets in Saudi Arabia in 1995, the Washington Post reported on Saturday.</p>
+<p>Hani Abdel-Rahim al-Sayegh offered the information to U.S. law enforcement officials as part of a deal that led to his transfer to U.S. custody last week, the newspaper said, quoting sources familiar with the case.</p>
+<p>Sayegh faced deportation to Saudi Arabia, where he could face execution for his alleged role in the June 1996 bombing that killed 19 American servicemen at the Khobar Towers apartment complex, which was used as a military compound.</p>
+<p>Sayegh denies any role in the Khobar Towers bombing, and the information he has given so far has not specifically tied Iran to that attack, the Post reported.</p>
+<p>But he has identified Brig. Ahmad Sherifi, a senior Iranian intelligence officer, as a key figure in a 1995 plan that never resulted in an attack but is believed by some U.S. officials to have evolved into the plan for the Khobar bombing, the newspaper said.</p>
+<p>Sayegh's allegation of Iranian complicity is reinforced by other evidence obtained by U.S. law enforcement and intelligence personnel, according to the report.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

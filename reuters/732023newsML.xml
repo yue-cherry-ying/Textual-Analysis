@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732023" id="root" date="1997-07-16" xml:lang="en">
+<title>VENEZUELA: Three bodies pulled from Venezuelan quake ruins.</title>
+<headline>Three bodies pulled from Venezuelan quake ruins.</headline>
+<dateline>CARACAS 1997-07-16</dateline>
+<text>
+<p>Search teams on Wednesday pulled the decomposed corpses of 5-year-old twins from the ruins of an eight-floor building that was flattened by a powerful earthquake in eastern Venezuela a week ago.</p>
+<p>Recovery of the bodies of the twins and their 16-year-old baby-sitter brought the death toll from the quake to 79, Civil Defence officials said. It measured 6.9 on the Richter scale.</p>
+<p>Two more corpses are believed to remain trapped beneath the rubble of the office and apartment building in Cumana, 255 miles (410 km) east of Caracas, Civil Defence chief Angel Freites said.</p>
+<p>The quake -- Venezuela's deadliest in three decades -- struck on July 9 during office hours, toppling buildings and crushing dozens of children as they took end-of-term exams.</p>
+<p>More than 500 people were injured and another 3,000 left homeless by the quake, which devastated the small agricultural town of Cariaco 40 miles (60 km) further east.</p>
+<p>Total infrastructure damages in the region have been estimated at more than $40 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

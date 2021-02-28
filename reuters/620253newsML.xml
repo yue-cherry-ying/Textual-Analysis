@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="620253" id="root" date="1997-05-28" xml:lang="en">
+<title>USA: Hackers leave print on &quot;Lost World&quot;.</title>
+<headline>Hackers leave print on &quot;Lost World&quot;.</headline>
+<dateline>HOLLYWOOD 1997-05-28</dateline>
+<text>
+<p>The opening page for the Web site for the film &quot;The Lost World: Jurassic Park&quot; wasn't all it was quacked up to be after hackers got through with it Tuesday.</p>
+<p>In place of the film's trademark dinosaur logo was a profile of a prehistoric-looking duck, accompanied by the title &quot;The Lost Pond: Jurassic Duck.&quot;</p>
+<p>As if there was any doubt, the pranksters left a one-word calling card: &quot;hackers.:&quot;</p>
+<p>&quot;I thought it was amusing,&quot; Alan Sutton, Universal Studios vice president for distribution and marketing, said in a telephone interview Wednesday. &quot;The Lost World: Jurassic Park&quot; was put out by Universal, a subsidiary of the Seagram Co. Ltd.</p>
+<p>The site's home page -- http://www.lost-world.com -- was altered sometime Tuesday.</p>
+<p>Sutton said a colleague in New York alerted him to the hacker prank Wednesday morning. Sutton told technicians, who restored the page to its original appearance, snarling dinosaur and all.</p>
+<p>&quot;We're taking a closer look at our firewalls, obviously,&quot; he said, referring to computer network security.</p>
+<p>The movie executive said he had no plans to pursue the pranksters.</p>
+<p>&quot;It was just done in a spirit of fun,&quot; Sutton said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOLLYWOOD"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

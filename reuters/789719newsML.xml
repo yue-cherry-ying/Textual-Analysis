@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789719" id="root" date="1997-08-09" xml:lang="en">
+<title>SOUTH KOREA: S.Korea to send geneticist team to crash site.</title>
+<headline>S.Korea to send geneticist team to crash site.</headline>
+<dateline>SEOUL 1997-08-09</dateline>
+<text>
+<p>A three-member geneticist team would leave for the Pacific island of Guam on Saturday to help intentify South Koreans who died in the crash of a Korean Air Lines (KAL) jumbo jet, a construction and transporation ministry official said.</p>
+<p>&quot;Three genetic experts will head for Guam at 8 pm (1100 GMT) today. They will cooperate with the U.S. investigation team for the indentity of recovered bodies,&quot; he said.</p>
+<p>He said Construction Minister Lee Hwan-kyun arrived at the crash site in early morning on Saturday with photocopies of fingerprints of 172 passengers aboard the plane.</p>
+<p>State radio said Lee handed the files to the U.S. National Transporation Safety Board (NTSB) probing the crash.</p>
+<p>Korean Air Flight 801 carrying 254 people plummeted into a hillside on Guam on Wednesday. Only 27 people survived the crash.</p>
+<p>Covered in bandages, 20 survivors have so far been airlifted to South Korea and doctors said none had life-threatening injuries.</p>
+<p>But three Korean nationals who remained on Guam were critically ill.</p>
+<p>In Guam, families of passengers and crew were shown photographs of unidentified bodies on Saturday.</p>
+<p>Matt Furman, member of the NTSB, told the Korean relatives that the photographs would help the team indentify their loved ones.</p>
+<p>None of the bodies has so far been indentified.</p>
+<p>The U.S. team had recovered only about 100 bodies from the wreckage, most in poor condition.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

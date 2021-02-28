@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="622791" id="root" date="1997-05-29" xml:lang="en">
+<title>USA: Swiss Army says U.S. to investigate case.</title>
+<headline>Swiss Army says U.S. to investigate case.</headline>
+<dateline>WASHINGTON 1997-05-29</dateline>
+<text>
+<p>Swiss Army Brands Inc said Thursday the U.S. International Trade Commission was investigating companies that are allegedly importing and selling in the U.S. imitations of Swiss Army knives.</p>
+<p>Swiss Army Brands said it and Precise Imports Corp, which distributes Wenger Swiss Army knives, filed a complaint with the ITC against Arrow Trading Co Inc, International Branded Cutlery Inc, Thomas Jewelers, Sapp Brothers, Ewins Hardware Pte Ltd, and China Light Industrial Products.</p>
+<p>The complaint alleges the imported pocket knives infringe various Swiss Army trademarks and that the respondents have attempted to pass off their pocket knives as authentic Swiss Army pocket knives, among other things.</p>
+<p>The complaint also alleges this threatens to destroy or substantially injure the domestic industry that Swiss Army Brands and its co-complainant have created for the assembly, marketing and distribution of the Swiss Army watches and sunglasses.</p>
+<p>The complainants seek an order which would exclude the allegedly counterfeit products from import into the United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

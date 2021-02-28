@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="658192" id="root" date="1997-06-12" xml:lang="en">
+<title>CHINA: China says U.S. supercomputers for research.</title>
+<headline>China says U.S. supercomputers for research.</headline>
+<dateline>BEIJING 1997-06-12</dateline>
+<text>
+<p>China on Thursday dismissed U.S. charges it had diverted purchases of U.S.-made supercomputers for military use, saying these were bought for scientific research.</p>
+<p>&quot;China through normal trade channels bought some supercomputers from the United States and their purpose is for weather forecasting, earthquake prevention and other scientific research,&quot; Foreign Ministry spokesman Cui Tiankai said.  </p>
+<p>&quot;This is a totally normal commercial action, the Chinese side ... strictly abided by the terms of the contract,&quot; Cui told a regular news briefing.</p>
+<p>Washington said on Tuesday it was investigating possible Chinese diversions of U.S.-made supercomputers for military use and was reviewing the affected sales.</p>
+<p>The New York Times reported this week that the Commerce Department was investigating a 1996 sale by Silicon Graphics of a supercomputer that performs almost six billion operations per second to a Chinese science academy.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="657317" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: PRESS DIGEST - Daily Variety - June 12.</title>
+<headline>PRESS DIGEST - Daily Variety - June 12.</headline>
+<dateline>NEW YORK 1997-06-12</dateline>
+<text>
+<p>The following stories appeared in Thursday's Daily Variety:</p>
+<p>* News Corp Ltd sold its satellite interests to PrimeStar Partners for $1.1 billion.</p>
+<p>* News Corp also acquired International Family Entertainment, the parent of the Family Channel, for $1.9 billion.</p>
+<p>* U S West sold its shareholdings in Time Warner, getting $50 a share for its 4.4 million shares.</p>
+<p>* Steve Martin and Eddie Murphy are expected to work together on the comedy, &quot;Bofinger,&quot; for director Frank Oz and Imagine Entertainment.</p>
+<p>* Regal Cinemas Inc is looking to acquire the 643-screen Cobb Theatres of Birmingham, Ala., a deal estimated at aout $200 million that could close within 60 days.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

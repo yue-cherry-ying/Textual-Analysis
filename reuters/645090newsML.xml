@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645090" id="root" date="1997-06-07" xml:lang="en">
+<title>UK: CRICKET-ENGLISH COUNTY CHAMPIONSHIP STANDINGS.</title>
+<headline>CRICKET-ENGLISH COUNTY CHAMPIONSHIP STANDINGS.</headline>
+<dateline>LONDON 1997-06-07</dateline>
+<text>
+<p>English county championship</p>
+<p>cricket standings after results on Saturday:</p>
+<p> Gloucestershire    5  3  0  2  12  20  86</p>
+<p> Kent		   5  3  1  1  10  20  81</p>
+<p> Nottinghamshire    6  3  1  2   5  21  80</p>
+<p> Middlesex	    5  2  1  2  13  20  71</p>
+<p> Glamorgan	    5  2  0  3  13  17  71</p>
+<p> Leicestershire     6  1  0  5  15  24  70</p>
+<p> Essex		  5  2  1  2  10  20  68</p>
+<p> Somerset	     6  1  1  4  14  23  65</p>
+<p> Yorkshire	    5  2  2  1   8  18  61</p>
+<p> Warwickshire	 5  2  1  2   7  13  58</p>
+<p> Hampshire	    6  1  2  3  16  14  55</p>
+<p> Worcestershire     4  0  0  4  13  13  43</p>
+<p> Durham		 6  0  2  4  12  19  43</p>
+<p> Sussex		 5  0  1  4  11  18  41</p>
+<p> Lancashire	   5  0  2  3  10  14  33</p>
+<p> Surrey		 5  0  2  3   7  16  32</p>
+<p> Derbyshire	   5  0  3  2   8  18  32</p>
+<p> Northamptonshire   5  0  2  3   7  15  31</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

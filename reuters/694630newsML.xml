@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694630" id="root" date="1997-06-28" xml:lang="en">
+<title>BANGLADESH: Cairn Bangladesh gas workers rescued at sea.</title>
+<headline>Cairn Bangladesh gas workers rescued at sea.</headline>
+<dateline>DHAKA 1997-06-28</dateline>
+<text>
+<p>Ten Bangladeshi workers with British Cairn Energy Plc, drilling for gas in the Bay of Bengal, were rescued after their boat sank at sea on Friday, a Cairn official said.</p>
+<p>A helicopter from Cairn's drilling ship Ismaya rescued the victims, floating some 45 km (30 miles) from Kutubdia Island, after the boat capsized in rough weather while sailing to the rig.</p>
+<p>&quot;There was a clear weather warning against movement of small craft in the Bay because of a persisting monsoon depression. But the boat ignored it,&quot; one meteorology official said.</p>
+<p>Cairn officials said all those travelling in the boat had been rescued. Only one of them suffered exhaustion from swimming, they said.</p>
+<p>Cairn has been engaged in development drilling in Bangladesh's only offshore gas reserve, discovered by the company last year.</p>
+<p>It expects to start commercial exploration of gas in April next year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

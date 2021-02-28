@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645246" id="root" date="1997-06-07" xml:lang="en">
+<title>BRAZIL: Fighter plane crashes in Brazil, pilot dies.</title>
+<headline>Fighter plane crashes in Brazil, pilot dies.</headline>
+<dateline>SAO PAULO 1997-06-07</dateline>
+<text>
+<p>A Brazilian fighter plane crashed during a test flight in southeastern Brazil, killing the pilot, a company spokesman said on Saturday.</p>
+<p>A spokesman for Brazilian aircraft maker Embraer told Reuters the AMX fighter plane crashed Friday afternoon just 15 minutes after taking off from Sao Jose dos Campos, some 60 miles (97 kms) northeast of Sao Paulo.</p>
+<p>Officials were investigating the cause of the accident, which killed Embraer pilot and Brazilian air force reserve Maj. Alberto de Almeida Neto, 43.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

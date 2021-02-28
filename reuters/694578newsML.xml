@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694578" id="root" date="1997-06-28" xml:lang="en">
+<title>GERMANY: Kohl aide says govt open for tax talks with SPD.</title>
+<headline>Kohl aide says govt open for tax talks with SPD.</headline>
+<dateline>BONN 1997-06-28</dateline>
+<text>
+<p>Chancellor Helmut Kohl's government is ready to meet with the opposition Social Democrats (SPD) to work out a compromise on tax reforms, chancellery minister Friedrich Bohl said on Saturday.</p>
+<p>&quot;The coalition is ready to conduct any necessary discussion to reach a good result, even during the summer recess,&quot; Bohl told the daily Express newspaper in an interview to appear on Sunday.</p>
+<p>Bohl appealed to the SPD to stop blocking the tax reform package, which was passed in the lower house of parliament last week but is expected to be blocked by the opposition-controlled upper house on Friday.</p>
+<p>-- Bonn Newsroom, 49 228 26097 150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

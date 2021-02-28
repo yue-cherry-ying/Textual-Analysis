@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694342" id="root" date="1997-06-28" xml:lang="en">
+<title>UK: UK windfall tax said to hit BT, BAA.</title>
+<headline>UK windfall tax said to hit BT, BAA.</headline>
+<dateline>LONDON 1997-06-28</dateline>
+<text>
+<p>Chancellor of the Exchequer Gordon Brown will broaden the scope of his proposed windfall tax to include British Telecommunications Plc and the British Airports Authority Plc and will cut tax relief for home buyers and in his July 2 budget, newspapers said.</p>
+<p>Brown has yet to confirm or deny whether the windfall tax -- initially aimed at utility companies to raise five billion pounds ($8.3 billion) to fund a job-creation scheme for unemployed youngsters -- would be expanded to cover other large companies.</p>
+<p>The Independent on Sunday said British Telecommunications and BAA would definitely be included in the list.</p>
+<p>Several newspapers said Brown would cut Mortgage Interest Tax relief (MIRAS), which offers a tax break on the first 30,000 pounds of a home loan.</p>
+<p>The Observer said stamp duty on housing would also be raised. The duty is now levied at a flat rate of one percent on homes worth 60,000 pounds or more. Brown is expected to bring in a higher rate of about two percent, the paper said.</p>
+<p>Brown is keen to cool down the overheating housing market, where prices are climbing by at least 11 percent a year, and thereby cut the risk of inflation.</p>
+<p>Several newspapers said Brown would hike taxes on petrol while the Sunday Telegraph said he would scrap tax relief for private medical insurance.</p>
+<p>($ = 0.601 British Pounds)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712836" id="root" date="1997-07-08" xml:lang="en">
+<title>POLAND: Polish PM says NATO invitation ends European split.</title>
+<headline>Polish PM says NATO invitation ends European split.</headline>
+<dateline>WARSAW 1997-07-08</dateline>
+<text>
+<p>Poland's prime minister hailed his country's expected invitation to NATO on Tuesday as the end of the Soviet-imposed division of Europe, while an opinion survey confirmed Poles' overwhelming support for entry.</p>
+<p>Warsaw eagerly awaited news from the NATO summit in Madrid that the Western military alliance had decided to invite it to be among the first recruits from the former Soviet block.</p>
+<p>&quot;The day when Poland is invited to negotiations on NATO membership has a chance of going down in history as the end of the Yalta order in Europe,&quot; PAP news agency quoted Prime Minister Wlodzimierz Cimoszewicz as saying.</p>
+<p>The 1945 agreement in the Crimean town of Yalta between the Soviet Union, the United States and Britain split Europe after World War Two into Western and Soviet spheres of influence.</p>
+<p>The deal allowed Soviet leader Joseph Stalin to impose communist regimes on eastern European countries, which ruled there for nearly 50 years.</p>
+<p>A public opinion poll published on Tuesday showed a vast majority of Poles would vote in favour of joining NATO if there was a referendum, believing that the entry was the best way to ensure Poland's national security.</p>
+<p>A survey by the public CBOS agency indicated that 80 percent would say yes to joining NATO, while 10 percent would say no and 10 percent were undecided.</p>
+<p>But the poll, carried out in June 5-12, showed 81 percent would be against NATO membership if it involved stationing nuclear weapons in Poland. Only 11 percent had no qualms about that but the issue is largely academic for now since NATO has no plans for such arms on Polish soil.</p>
+<p>The CBOS survey, carrying an 3.2 percent error margin, said about 55 percent of Poles did not mind deployment of NATO troops on their territory or submitting the Polish armed forces to NATO's command.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

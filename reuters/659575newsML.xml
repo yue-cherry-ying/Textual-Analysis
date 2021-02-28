@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="659575" id="root" date="1997-06-13" xml:lang="en">
+<title>USA: EPA sets tolerance for pesticide bromoxynil.</title>
+<headline>EPA sets tolerance for pesticide bromoxynil.</headline>
+<dateline>WASHINGTON 1997-06-13</dateline>
+<text>
+<p>U.S. Environmental Protection Agency on Friday set a one-year allowable residue level for the weed-control pesticide bromoxynil on cotton commodities, and on meat, milk, and poultry products.</p>
+<p>EPA also said it would allow the pesticide to be used on only 400,000 acres, or about 3.0 percent of cotton acreage.</p>
+<p>Bromoxynil, made by Rhone-Poulenc, is used on cottonseeds that are genetically engineered to resist the pesticide, which is used on growing cotton plants to kill broadleaf weeds.</p>
+<p>Under new health-based standards for food quality, the EPA determined that while bromoxynil caused cancer and birth defects in lab animals, &quot;there is a reasonable certainty of no harm to humans, wildlife and fish given the exposure levels expected.&quot;</p>
+<p>The agency set tolerances for the pesticide on meat, milk and poultry products because cotton commodities are used on some animal feeds.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I25680">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

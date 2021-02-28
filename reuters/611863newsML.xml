@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611863" id="root" date="1997-05-23" xml:lang="en">
+<title>HONG KONG: Philippines shaken by quake measuring 5.7.</title>
+<headline>Philippines shaken by quake measuring 5.7.</headline>
+<dateline>HONG KONG 1997-05-23</dateline>
+<text>
+<p>An earthquake estimated at 5.7 on the Richter scale was recorded north of the Philippines and minor tremors were felt in Hong Kong, the Hong Kong Royal Observatory said on Friday.</p>
+<p>The epicentre of the quake, detected at 9.23 p.m. local time on Thursday (1323 GMT), was initially determined over the Luzon strait, about 500 km (312.5 miles) north of Manila, it said.</p>
+<p>Some Hong Kong residents reported having felt tremors, which lasted about 10 seconds, and lights hanging from ceilings shook slightly, the observatory said.</p>
+<p>The intensity of the tremor felt in Hong Kong was estimated at three on the modified Mercalli scale of 12, it said.</p>
+<p>The Richter scale measures an earthquake's general magnitude, while the Mercalli scale describes its intensity as shown by its effect at a particular place.</p>
+<p>No other details of the quake were immediately available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

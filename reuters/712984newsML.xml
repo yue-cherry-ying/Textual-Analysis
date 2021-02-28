@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712984" id="root" date="1997-07-08" xml:lang="en">
+<title>MEXICO: Hurricane Dolores not seen threat to Mexico coast.</title>
+<headline>Hurricane Dolores not seen threat to Mexico coast.</headline>
+<dateline>MEXICO CITY 1997-07-08</dateline>
+<text>
+<p>Winds of up to 100 miles per hour (160 km) from Hurricane Dolores have been sending high waves to Mexico's Pacific coast, but are not expected to cause any damage on land, weather observers said on Tuesday.</p>
+<p>The fourth hurricane of the season in the Pacific waters was located late morning at 950 miles west-southwest from the southern tip of Baja California, Mike Palmerino of Weather Services Corp said.</p>
+<p>&quot;I don't think there is really much of a threat on land, although there might be (an affect) for watercraft,&quot; he said.</p>
+<p>Mexico's Communications and Transport Ministry said the hurricane was moving further away from the country at a speed of 15 knots (16 miles/28 km). It warned ships from sailing in the vicinity of the storm.</p>
+<p>The ministry said in a report the hurricane was sending waves four to seven feet high along the Baja California coast.</p>
+<p>Weather experts are predicting heightened storm activity in the Pacific because of the El Nino weather system this year. The Enrique storm system is expected to be the next to hit the region.</p>
+<p>((--Timna Tanners, Mexico City newsroom +525 728-7903)).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

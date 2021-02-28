@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733346" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: U.S. regulator to probe CDC nuclear materials use.</title>
+<headline>U.S. regulator to probe CDC nuclear materials use.</headline>
+<dateline>WASHINGTON 1997-07-15</dateline>
+<text>
+<p>The U.S. Nuclear Regulatory Commission (NRC) said on Tuesday it would probe possible violation of rules for the use of nuclear materials at the Centers for Disease Control (CDC) in Atlanta.</p>
+<p>The apparent violations &quot;seem to indicate a lack of management oversight and failure to adhere to license conditions,&quot; NRC officials said in a letter to the CDC.</p>
+<p>The CDC, a group of federal agencies that monitors infectious and preventable diseases, uses nuclear material in medical research.</p>
+<p>The hearing, to be held on Thursday at the NRC's Atlanta office, does not mean that a violation has ocurred or that enforcement action definitely will be taken, the NRC said in a statement.</p>
+<p>Rather, the aim of the so-called predecisional enforcement conference was to discuss apparent violations, their causes, safety ramifications and to enable the CDC to point out any errors in the NRC investigation or outline any proposed corrective actions, the NRC said.</p>
+<p>Decisions on whether violations occurred or whether sanctions were needed would be made at a later conference, the NRC said.</p>
+<p>It said the apparent violations included failure to secure licensed radioactive material from unauthorized use and removal; failure to perform periodic inventories of licensed material; repeated failures to ensure that radiation survey meters were calibrated annually; and failure to remove unnecessary signs from previously restricted areas.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

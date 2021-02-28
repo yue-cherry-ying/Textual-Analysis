@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789613" id="root" date="1997-08-09" xml:lang="en">
+<title>UK: CRICKET-ENGLISH COUNTY CHAMPIONSHIP RESULTS.</title>
+<headline>CRICKET-ENGLISH COUNTY CHAMPIONSHIP RESULTS.</headline>
+<dateline>LONDON 1997-08-09</dateline>
+<text>
+<p>Results of four-day English county championship matches on Saturday:</p>
+<p>At The Oval: Surrey beat Durham by nine wickets. Surrey 350-9 declared and 64-1. Durham 136 and 274 (Saqlain Mushtaq 5-111). Surrey 24 points Durham 4.</p>
+<p>At Canterbury: Kent beat Essex by an innings and eight runs. Kent 525-9 declared. Essex 156 and 361 (P.Prichard 224; P.Strang 5-119). Kent 24 points Essex 2.  </p>
+<p>Lord's: Middlesex beat Hampshire by 217 runs. Middlesex 442-8 declared and 178-1 declared (J.Kallis 102 not out, M.Gatting 69 not out), Hampshire 306-5 declared and 97 (A.Fraser 5-38). Middlesex 22 points, Hampshire 5.</p>
+<p>Eastbourne: Sussex beat Leicestershire by 38 runs. Sussex 330-6 declared with second innings forfeited, Leicestershire first innings forfeited and 292 (N.Johnson 74 not out, B.Smith 74, D.Maddy 61; P.Jarvis 5-44). Sussex 19 points, Leicestershire 2.</p>
+<p>Northampton: Worcestershire beat Northamptonshire by 101 runs. Worcestershire 551 and 272-2 declared, Northamptonshire 403-5 declared and 319 (R.Bailey 115, R.Warren 67, K.Curran 55; T.Moody 5-148). Worcestershire 22 points, Northamptonshire 6.</p>
+<p>Taunton: Somerset v Gloucestershire - match drawn. Gloucestershire 350-8 declared and 178-3 declared (T.Hancock 100 not out), Somerset 252-5 declared and 138-9 (G.Rose 67 not out; M.Ball 4-15, A.Smith 4-460). Somerset 8 points, Gloucestershire 9.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

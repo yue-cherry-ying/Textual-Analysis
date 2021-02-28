@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694318" id="root" date="1997-06-28" xml:lang="en">
+<title>NEW ZEALAND: RUGBY UNION-NZ ALL BLACKS CRUSH ARGENTINA 62-10.</title>
+<headline>RUGBY UNION-NZ ALL BLACKS CRUSH ARGENTINA 62-10.</headline>
+<dateline>HAMILTON, New Zealand 1997-06-28</dateline>
+<text>
+<p>The New Zealand</p>
+<p>All Blacks beat Argentina 62-10 (halftime 29-3) in the second</p>
+<p>and final rugby test at Hamilton's Rugby Park on Saturday.</p>
+<p>Scorers:</p>
+<p>New Zealand - Tries: Taine Randell, Olo Brown, Lee</p>
+<p>Stensness, Christian Cullen, Josh Kronfeld, Robin Brooke, Mark</p>
+<p>Allen, Tana Umaga, Carlos Spencer. Penalties: Spencer.</p>
+<p>Conversions: Spencer (6), Cullen.</p>
+<p>Argentina - Tries: Roberto Grau. Penalties: Gonzalo Quesada.</p>
+<p>Conversions: Quesada.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMILTON, New Zealand"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

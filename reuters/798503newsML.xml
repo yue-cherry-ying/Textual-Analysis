@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="798503" id="root" date="1997-08-14" xml:lang="en">
+<title>UK: LME aluminium steady, copper down in late trade.</title>
+<headline>LME aluminium steady, copper down in late trade.</headline>
+<dateline>LONDON 1997-08-14</dateline>
+<text>
+<p>LME aluminium was little changed in late inter-office trade, but copper fell further.</p>
+<p>At 1800 GMT, three months aluminium was indicated at $1,699/$1,701, compared with a kerb close of $1,701.</p>
+<p>Aluminium prices retreated from session highs during Thursday afternoon LME trading, albeit staying firm.</p>
+<p>Copper, which had slumped in late kerb business, fell further to an indicated $2,262/$2,267, compared with the kerb close of $2,271.</p>
+<p>((--London newsroom +44 171 542 7928))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

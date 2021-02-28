@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="667795" id="root" date="1997-06-17" xml:lang="en">
+<title>PAKISTAN: Pakistan textiles seek Indian cotton import.</title>
+<headline>Pakistan textiles seek Indian cotton import.</headline>
+<dateline>KARACHI, Pakistan 1997-06-16</dateline>
+<text>
+<p>Pakistani textile mills urged the government on Monday to allow them to import cotton from neighbouring India to help cut output costs and boost textile exports.</p>
+<p>&quot;We want to buy Indian cotton at international rates but need government's permission, All Pakistan Textile Mills Association (APTMA) chairman Javed Saifullah Khan told a news conference.</p>
+<p>He said Pakistan's own cotton production from the 1996/97 crop, now estimated at 8.7 million bales (375 lbs each), was not enough and not of qood quality this time.</p>
+<p>Textile mills would save on freight as India could supply cotton on trucks at the border, he said.</p>
+<p>Pakistan allows import of 587 items from India, including sugar and cement, and Khan said cotton should be added to list.</p>
+<p>Higher rates of domestic cotton, electricity, labour and taxes would not allow a revival of textile industry, which is now facing a shortage of funds, he said. --Karachi Newsroom 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

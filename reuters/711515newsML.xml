@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="711515" id="root" date="1997-07-07" xml:lang="en">
+<title>GERMANY: German health insurers mull invoice fraud action.</title>
+<headline>German health insurers mull invoice fraud action.</headline>
+<dateline>COLOGNE 1997-07-07</dateline>
+<text>
+<p>German private health insurers should join with doctors' associations to set up a settlement company for private practice invoices to force out companies using doubtful business practices.</p>
+<p>This was proposed by Dr Jan Boetius, management board chairman of Deutsche Krankenversicherung (DKV) in Cologne, on Monday.</p>
+<p>A standardised and tested process for dealing with private bills for doctors would simplify the payment process, said Boetius.</p>
+<p>At the same time it would make more difficult the manipulation practised by some settlement companies, of which private health insurers frequently complain. A few weeks ago, DKV brought charges of invoice fraud against the Saarbruecken company Unimed.</p>
+<p>Boetius is convinced that such an offer would quickly be accepted by doctors, because it would reduce their paperwork considerably.</p>
+<p>&quot;In addition, doctors would receive their money more rapidly, since many plausibility checks which we now make on invoices would be dropped.&quot;</p>
+<p>Boetius said the project is at a very early stage, but he is confident of obtaining agreement from the medical profession.</p>
+<p>The legal form which the new settlement company would take has not yet been decided.</p>
+<p>&quot;I would imagine that we cannot choose a public-law system, because then the private health insurers could not take part. And with their knowledge of invoice preparation, they have to be included. It will probably not be a co-operative, but most likely a limited company.&quot;</p>
+<p>-- Ilse Schlingensiepen, +49 221 512 007</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOGNE"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

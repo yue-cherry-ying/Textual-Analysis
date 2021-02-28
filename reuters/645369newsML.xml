@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645369" id="root" date="1997-06-07" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Irish election to produce hung parliament - tally.</title>
+<headline>Irish election to produce hung parliament - tally.</headline>
+<dateline>DUBLIN 1997-06-07</dateline>
+<text>
+<p>Ireland's voters appear to have elected a hung parliament with neither of the two rival coalitions able to form a majority government, according to a survey of counts in all 41 constituencies by party activists.</p>
+<p>They showed that the opposition Fianna Fail party would emerge the strongest party but its electoral ally, the Progressive Democrats (Pds) of Mary Harney, seemed poised to lose several of its eight parliamentary seats.  </p>
+<p>The unofficial counts, conducted by so-called tallymen working for political parties, confirmed earlier predictions that Prime Minister John Bruton's three-party coalition would not be returned to government.</p>
+<p>The Labour party, Bruton's key ally, appeared to be the biggest loser in the election and could drop up to nine of its 32 parliamentary seats, the tallymen's count suggested.</p>
+<p>Bruton's own Fine Gael party was faring well as the count continued but its support was estimated in the high 20 percent range against some 45 percent for Fianna Fail, which is led by former finance minister Bertie Ahern.</p>
+<p>The count also suggested that Sinn Fein, political wing of the outlawed Irish Republican Army, would win a seat in the border Cavan Monaghan constituency, and gain a foothold in Ireland's parliament for the first time since the nation's birth in the 1920s.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

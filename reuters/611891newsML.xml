@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611891" id="root" date="1997-05-23" xml:lang="en">
+<title>TAIWAN: Taiwan to issue T$3 bln in certificates of deposit.</title>
+<headline>Taiwan to issue T$3 bln in certificates of deposit.</headline>
+<dateline>TAIPEI 1997-05-23</dateline>
+<text>
+<p>Taiwan's central bank said on Friday it would issue T$3 billion in two-month negotiable certificates of deposit (NCDs) later in the day.</p>
+<p>Bids would close at 3.00 pm (0700 GMT), a central bank official said.</p>
+<p>During a sustained stock rally in March and April, the central bank repeatedly issued NCDs, a move seen as aimed at keeping a lid on the loose liquidity that many experts said had been fuelling the stock market's upward surge.  </p>
+<p>The central bank has confirmed that it was responding to the liquidity sitution but denied that it was acting directly in response to the stock market bull run.</p>
+<p>The stock market in recent week has entered a consolidation phase with recent daily turnover plunging to less than half of the record levels set during the big rally.</p>
+<p>-- Taipei Newsroom (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

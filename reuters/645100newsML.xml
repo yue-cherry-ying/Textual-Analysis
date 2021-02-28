@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645100" id="root" date="1997-06-07" xml:lang="en">
+<title>UKRAINE: SOCCER-UKRAINE HOLD GERMANY TO GOALLESS DRAW.</title>
+<headline>SOCCER-UKRAINE HOLD GERMANY TO GOALLESS DRAW.</headline>
+<dateline>KIEV 1997-06-07</dateline>
+<text>
+<p>Group leaders Ukraine held European champions Germany to a scoreless draw in their World Cup European group nine qualifier in Kiev on Saturday.</p>
+<p>Dynamo Kiev striker Serhiy Rebrov had the best chance for the home team but his powerful shot from about 16 metres out hit the post just before halftime.</p>
+<p>A Juergen Klinsmann header in the first half, which went wide, and a Thomas Helmer long range effort which Oleksander Shovkovsky saved in the second accounted for Germany's main offensive opportunities.</p>
+<p>Ukraine still lead the group with 14 points after eight games, two points clear of Germany who have two games in hand.</p>
+<p>Portugal, also with two games in hand, have nine points.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

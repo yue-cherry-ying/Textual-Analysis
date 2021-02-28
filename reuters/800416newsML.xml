@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="800416" id="root" date="1997-08-14" xml:lang="en">
+<title>IRAN: IRAN OIL REVENUE SLIGHTLY UNDER BUDGET.</title>
+<headline>IRAN OIL REVENUE SLIGHTLY UNDER BUDGET.</headline>
+<dateline>TEHRAN 1997-08-14</dateline>
+<text>
+<p>Iran's oil revenue in the first four months of the Iranian year (March 21-July 21) hit $5.5 billion, Deputy Oil Minister Hojatollah Ghanimifard said on Thursday.</p>
+<p>&quot;We were slighly below the budget. The main reason was the lower per barrel price that the crude had and accordingly the lower price of products the market could offer,&quot; Ghanimifard told Reuters.</p>
+<p>The 12-month Iranian budget ending March 1998 is based on an estimated $17.7 billion in oil earnings using an average price for five Iranian crudes of $17.50 a barrel.</p>
+<p>Iranian Oil Minister Gholamreza Aghazadeh said in July that earnings from oil exports in the three months to June 21 reached $4.1 billion, some six percent below the budgeted amount.</p>
+<p>Oil accounts for 80 percent of Iran's total export  earnings and 40 percent of all government revenues.</p>
+<p>President Mohammad Khatami on Wednesday warned that  government revenues were below budget targets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

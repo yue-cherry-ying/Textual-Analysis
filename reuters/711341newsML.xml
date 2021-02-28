@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="711341" id="root" date="1997-07-07" xml:lang="en">
+<title>CYPRUS: Cyprus dismisses reports on money laundering.</title>
+<headline>Cyprus dismisses reports on money laundering.</headline>
+<dateline>NICOSIA 1997-07-07</dateline>
+<text>
+<p>Cyprus on Monday defended its track record in fighting money laundering, dismissing reports that its burgeoning offshore centre was a haven for dirty money from Russia.</p>
+<p>The eastern Mediterranean island, home to some 28,000 offshore companies, has taken strides in recent years to protect its infrastructure from being used for illicit purposes, the governor and a senior official of the Central Bank of Cyprus told an international conference on money laundering taking place in the capital Nicosia.</p>
+<p>&quot;Cyprus has in place a very modern money laundering legislation, extremely tight regulations and a vigorous policy against money laundering,&quot; said Central Bank governor Afxentis Afxentiou in a keynote address.</p>
+<p>Last year parliament enacted legislation broadening the scope for prosecution in suspected money laundering activities.</p>
+<p>Bank officials said an advisory authority against money laundering would be introduced soon.</p>
+<p>Andreas Philippou, chief senior manager of the banking supervision and regulation division in the central bank, said Cyprus does not have a money laundering problem.</p>
+<p>&quot;There have been press reports which have suggested otherwise and have claimed that Cyprus has been used by criminal elements, especially members of the Russian mafia, for money laundering purposes ... such accusations simply fly in the face of evidence we possess which plainly points in the opposite direction.&quot; Philippou told the conference.</p>
+<p>There have not been any successful prosecutions of money laundering activity in Cyprus. Three to four suspect cases now under investigation by the authorities may end up in court, Philippou said.</p>
+<p>As regulatory authority, the central bank has in place a monthly reporting system of large cash deposits in excess of $10,000, or unusual transfers, while a bank is obliged to notify the central bank if it is asked to undertake transactions of a dubious nature.</p>
+<p>Philippou said the level of cash deposits has been at &quot;consistently low levels&quot; throughout the seven-year period that the monthly return system has been in place, while the level of bank deposits belonging to non-residents has registered moderate growth, now standing at $6 billion.</p>
+<p>&quot;Most of these deposits belong to offshore companies whose credentials are checked before they are allowed to be registered, and to expatriates of Cypriot origin. Russians hardly have any bank deposits in Cyprus,&quot; said Philippou.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

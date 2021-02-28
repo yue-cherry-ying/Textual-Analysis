@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="714713" id="root" date="1997-07-08" xml:lang="en">
+<title>AUSTRALIA: Half Australian state of NSW declared in drought.</title>
+<headline>Half Australian state of NSW declared in drought.</headline>
+<dateline>SYDNEY 1997-07-08</dateline>
+<text>
+<p>The proportion of the state of New South Wales (NSW) declared to be drought-affected rose to 50 percent in July from 45 percent in June despite useful rain in some parts of the state, the NSW government said on Tuesday.</p>
+<p>The biggest increases in drought areas had been in the northwest plains, the far south coast and the southern Riverina, Agriculture Minister Richard Amery said.</p>
+<p>&quot;Fortunately the majority of the wheat belt received good rains which has consolidated the outlook for winter cereal crops,&quot; he said in a statement.  </p>
+<p>Other regions, however, will have limited pasture growth because of the colder weather and are not likely to improve until spring, Amery said.</p>
+<p>He said the Southern Oscillation Index (SOI) continued to be strongly negative which is causing concern for spring and summer weather, particularly in the northern half of the state.</p>
+<p>The SOI, which is associated the El Nino event now developing, measures air pressure differences between Darwin and Tahiti.</p>
+<p>A negative SOI over a period portends drought in eastern Australia.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

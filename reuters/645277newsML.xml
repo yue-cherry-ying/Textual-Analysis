@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645277" id="root" date="1997-06-07" xml:lang="en">
+<title>CHINA: China bank says deposits top $247.5 bln by end-May.</title>
+<headline>China bank says deposits top $247.5 bln by end-May.</headline>
+<dateline>BEIJING 1997-06-07</dateline>
+<text>
+<p>China's big state-run commercial bank, the Industrial and Commercial Bank of China, saw its deposits top 2.055 trillion yuan ($247.5 billion) at the end of May, the official China Daily said on Saturday.</p>
+<p>The bank had previously announced deposits stood at 1.8 trillion yuan as of the end of 1996.</p>
+<p>Individual depositors accounted for 62 percent of this year's total with the remaining funds contributed by enterprises and institutions.</p>
+<p>The bank's outstanding loans reached 1.8 trillion yuan by the end of last month compared with the previously reported 1.65 trillion at the end of 1996.</p>
+<p>Most of the loans were to state companies and key projects, the newspaper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

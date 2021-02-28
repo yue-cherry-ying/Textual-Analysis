@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645233" id="root" date="1997-06-07" xml:lang="en">
+<title>CZECH REPUBLIC: Czech Cbank asks banks to arrange $1.5 bln credit.</title>
+<headline>Czech Cbank asks banks to arrange $1.5 bln credit.</headline>
+<dateline>PRAGUE 1997-06-07</dateline>
+<text>
+<p>The Czech National Bank (CNB) said on Saturday it had mandated four foreign banks to arrange a $1.5 billion, one-year revolving credit facility as a standby to strengthen the CNB's foreign exchange reserves.</p>
+<p>A bank spokesman told Reuters the CNB had on Friday mandated Chase Investment Bank Ltd, Commerzbank AG, JP Morgan Securities Ltd and SBC Warburg, a division of Swiss Bank Corp, to arrange the facility. He said the facility would be placed with a limited group of core relationship banks.</p>
+<p>&quot;It is being arranged to strengthen the foreign reserves of the Czech National Bank as a standby facility,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

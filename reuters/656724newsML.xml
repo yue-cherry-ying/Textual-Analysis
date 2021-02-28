@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="656724" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: California sues tobacco industry - attorney general.</title>
+<headline>California sues tobacco industry - attorney general.</headline>
+<dateline>LOS ANGELES 1997-06-12</dateline>
+<text>
+<p>California Attorney General Dan Lungren said the state was filing a lawsuit Thursday against the major tobacco companies to recoup health-care costs related to smoking.</p>
+<p>Lungren told reporters in Los Angeles he would seek at least $500 million in the state lawsuit, which will be filed later in state court in Sacramento, Calif. The action, under which Lungren said he may seek billions of dollars, makes California the 37th state where the attorney general is suing the industry.  </p>
+<p>&quot;Our office will file a lawsuit today on behalf of the state of California against the tobacco industry,&quot; Lungren, a Republican, said. &quot;This is no slam dunk. We believe these claims are supported by the evidence but will require great effort to prove.&quot;</p>
+<p>Lungren said he would seek to recoup medical expenses incurred by the state for each of the past three years. The state pays about $433 million a year for the treatment of tobacco-related illnesses, the lawsuit said.</p>
+<p>California alleged in the lawsuit that the industry suppressed research that could have led to the development of safer tobacco products. It also claimed cigarette makers concealed evidence from law enforcement officials and accused them of unfair competition, including the marketing of tobacco to minors.</p>
+<p>Lungren announced the lawsuit after Gov. Pete Wilson signed legislation amending a 1987 state law that had shielded tobacco companies from product liability suits.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799413" id="root" date="1997-08-14" xml:lang="en">
+<title>ABU DHABI: UAE president's USA health tests &quot;reassuring&quot;.</title>
+<headline>UAE president's USA health tests &quot;reassuring&quot;.</headline>
+<dateline>ABU DHABI 1997-08-14</dateline>
+<text>
+<p>United Arab Emirates President Sheikh Zaid bin Sultan al-Nahayan has undergone health tests in the United States which gave &quot;reassuring&quot; results, the official WAM news agency said on Thursday.</p>
+<p>It quoted a presidential court statement as also saying Sheikh Zaid on Friday would leave Rochester, Minnesota -- where he had undergone the tests at the Mayo Clinic -- on his way to London.</p>
+<p>Sheikh Zaid, 78, underwent succesful surgery on a vertebra at the clinic in September.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ABDBI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABU DHABI"/>
+<dc element="dc.creator.location.country.name" value="ABU DHABI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

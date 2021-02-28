@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789678" id="root" date="1997-08-09" xml:lang="en">
+<title>DENMARK: CYCLING-KNAVEN LEADS DENMARK TOUR AFTER TIME TRIAL.</title>
+<headline>CYCLING-KNAVEN LEADS DENMARK TOUR AFTER TIME TRIAL.</headline>
+<dateline>COPENHAGEN 1997-08-09</dateline>
+<text>
+<p>Germany's Uwe Peschel won the tightly contested 19-km third stage time trial of the Tour of Denmark cycle race on Friday night in Middelfart, on the central island of Funen.</p>
+<p>Peschel won the trial in 22 minutes and 32 seconds, three seconds ahead of the Dutchman Servais Knaven, who finished second to take the yellow jersey as overall leader from Italy's Giovanni Lombardi.</p>
+<p>After the trial, Knaven, seen as one of the favourites to win the Tour, said: &quot;The trial wasn't too difficult but I am a bit surprised to suddenly be donning the yellow jersey.&quot;</p>
+<p>Last year's Tour of Denmark winner, Italy's Fabrizio Guidi, came 13th in the time trial, 52 seconds behind Peschel, and is now fifth overall.</p>
+<p>The 859-km race continues on Saturday with a 235-km stage from Kolding on the Jutland peninsula to Odense on the central island of Funen, at the mouth of the Baltic.</p>
+<p>The Tour of Denmark finishes in Copenhagen on Sunday afternoon.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

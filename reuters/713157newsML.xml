@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="713157" id="root" date="1997-07-08" xml:lang="en">
+<title>CHINA: New HK gov't moves to suspend recent labour laws.</title>
+<headline>New HK gov't moves to suspend recent labour laws.</headline>
+<dateline>HONG KONG 1997-07-08</dateline>
+<text>
+<p>Hong Kong's new government will introduce legislation on Wednesday to suspend seven laws, mostly concerning workers' rights, adopted shortly before British rule ended last week, an official statement said on Tuesday.</p>
+<p>It said the laws adopted by the ousted colonial legislature were being suspended to &quot;allow a proper and thorough scrutiny of the implications of the various&quot; changes to determine whether they were in the public interest.  </p>
+<p>Five of the laws passed by the old colonial legislature grant greater rights to workers. Another covers harbour ordinances and the final law covers individual rights.</p>
+<p>A government spokesman said it was necessary to suspend the colonial laws as soon as possible because &quot;they represent a major departure from government policies and may have adverse long-term effects on the community&quot;.</p>
+<p>Hong Kong was returned to Communist China last week after more than 150 years of British colonial rule. Beijing replaced the elected legislature with an appointed 60-member assembly.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="713949" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: Invacare to appeal ruling for Healthdyne.</title>
+<headline>Invacare to appeal ruling for Healthdyne.</headline>
+<dateline>ELYRIA, Ohio 1997-07-07</dateline>
+<text>
+<p>Invacare said Monday it is appealing a July 3 district court decision in favor of Healthdyne Technologies Inc.</p>
+<p>The ruling upheld a specific provision that only allows continuing directors to nullify the company's poison pill provisions, said Invacare spokesman Mark Harnett.</p>
+<p>Invacare, which has been seeking to acquire Healthdyne in a hostile bid since January, had sought a motion from the court to strike out the provision, Harnett said.</p>
+<p>&quot;We are, of course, disappointed at the court's rulings, and are confident that the appellate court will see things differently,&quot; Invacare said in a statement.</p>
+<p>Invacare's bid for Healthdyne is now valued at about $200 million. Its latest offer to acquire all outstanding shares of Healthdyne common stock at $15 a share is scheduled to expire August 1.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ELYRIA, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

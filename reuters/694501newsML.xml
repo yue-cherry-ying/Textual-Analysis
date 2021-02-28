@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694501" id="root" date="1997-06-28" xml:lang="en">
+<title>TURKEY: Turkish troops kill 17 rebel Kurds in southeast.</title>
+<headline>Turkish troops kill 17 rebel Kurds in southeast.</headline>
+<dateline>ISTANBUL 1997-06-28</dateline>
+<text>
+<p>Turkish troops killed 17 Kurdish guerrillas on Saturday in southeastern Turkey, the semi-official Anatolian news agency said.</p>
+<p>It said eight members of the Kurdistan Workers Party (PKK) were shot dead in an operation, launched after nine Turkish soldiers and a state-paid village guard were killed by a landmine, planted by rebels, in the southeastern town of Midyat.</p>
+<p>The soldiers and the guard were killed when their military patrol vehicle hit the landmine late on Friday.</p>
+<p>The agency said two PKK members surrendered during the clash.</p>
+<p>Nine other PKK guerrillas have been killed in other clashes in the southeastern towns of Tatvan, Guroymak, Besiri, Sason, Ozalp and Kulp.</p>
+<p>The agency did not say when the clashes took place.</p>
+<p>The PKK has been fighting for autonomy or independence in the region since 1984. More than 24,000 people have been killed since then.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

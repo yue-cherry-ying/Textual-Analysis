@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="612046" id="root" date="1997-05-23" xml:lang="en">
+<title>AUSTRIA: EA Generali 1996 net profit up 25.5 pct.</title>
+<headline>EA Generali 1996 net profit up 25.5 pct.</headline>
+<dateline>VIENNA 1997-05-23</dateline>
+<text>
+<p>Austrian insurer EA Generali said on Friday group net profit for 1996 rose 25.5 percent and that it would pay an unchanged dividend of 17 schillings.</p>
+<p>The insurance company said in a statement group net profit rose to 601.7 million schillings from 479.6 million in 1995.  </p>
+<p>The Italian-controlled EA Generali, which reported provisional 1996 earnings in March, attributed the earnings growth to a strong increase in life insurance income -- up 49.1 percent to 15.7 billion schillings -- as Austrians rushed to buy policies before a tax change came into effect this month.</p>
+<p>Total group premiums hit a record high at 42.8 billion schillings, up from 36.88 billion a year earlier, with more than two thirds of the premium volume stemming from Austria.</p>
+<p>-- Vienna newsroom, +431 531 12256</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

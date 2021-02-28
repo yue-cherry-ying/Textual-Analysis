@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="657338" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: U.S. Justice urges court to uphold tobacco rules.</title>
+<headline>U.S. Justice urges court to uphold tobacco rules.</headline>
+<dateline>WASHINGTON 1997-06-11</dateline>
+<text>
+<p>The Justice Department urged a federal appeals court Wednesday to uphold the federal government's restrictions on advertising and promotion of tobacco products to minors.</p>
+<p>In a 41-page filing with the appeals court in Richmond, Va., department lawyers said a federal judge wrongly decided that the Food and Drug Administration lacked legal authority over advertising and promotion of cigarettes.</p>
+<p>They also argued that the judge correctly held that the FDA has the power to issue youth access and labeling restrictions, but was wrong in preventing those regulations from taking effect.</p>
+<p>The most important part of the April 25 ruling by U.S. District Judge William Osteen in North Carolina held that the FDA can regulate sales and labeling of cigarettes as drug delivery devices, a position the tobacco industry has fiercely opposed.</p>
+<p>The tobacco industry had sued, challenging the new curbs on advertising and marketing of cigarettes imposed by federal regulators as unconstitutional. President Clinton in August 1995 authorized the FDA to regulate how cigarettes are sold and marketed in a bid to curb smoking by children.</p>
+<p>The regulations struck down by Osteen's ruling banned free samples and billboard ads near schools and playgrounds, limited vending machine sales and banned tobacco sponsorship of sports events and the use of cigarette brands on hats, T-shirts and other products.</p>
+<p>The rules left standing required retailers to see photo identification for cigarette purchasers under age 27 and banned the sale of cigarettes to those under 18.</p>
+<p>Justice Department lawyers asked the appeals court to uphold the tobacco advertising and promotion restrictions.</p>
+<p>Attorney General Frank Hunger said in the court papers that federal law gives the FDA broad authority to impose conditions on the sale, distribution and use of products such as tobacco.</p>
+<p>&quot;The FDA reasonably concluded that the statutory power to restrict sales ... includes the ability to regulate promotion and advertising that generates those very sales,&quot; he said.</p>
+<p>The tobacco industry also is appealing parts of Osteen's ruling that it lost, and oral arguments in the case have been scheduled for early August. A ruling is expected 1later this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

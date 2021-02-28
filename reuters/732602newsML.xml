@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732602" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: Immunex drug eases rheumatoid arthritis-report.</title>
+<headline>Immunex drug eases rheumatoid arthritis-report.</headline>
+<byline>Gene Emery</byline>
+<dateline>BOSTON 1997-07-16</dateline>
+<text>
+<p>Preliminary tests have found that a drug that blocks the effects of a naturally occurring protein in the body can significantly reduce the symptoms of rheumatoid arthritis, according to a study reported in Thursday's New England Journal of Medicine.</p>
+<p>The drug is known as TNFR:Fc and is manufactured under the brand name Enbrel by Seattle-based Immunex Corp.</p>
+<p>In the preliminary study, a team of doctors at six U.S. medical centres found that the highest dose of Enbrel -- two injections per week -- reduced the number of tender or swollen joints by 61 percent compared with a 25 percent reduction for volunteers who received twice-weekly placebo shots.</p>
+<p>The drug is not a cure for rheumatoid arthritis, which typically afflicts the fingers, wrists, feet, ankles, shoulders and hips. Three months after treatment was stopped, the symptoms began to return.</p>
+<p>Nonetheless, the research team led by Dr. Larry W. Moreland of the University of Alabama at Birmingham concluded that giving Enbrel &quot;is a valid approach to the treatment of rheumatoid arthritis&quot; -- the most severe type of arthritis, in which the body's immune system mistakenly attacks the joints and surrounding soft tissues.</p>
+<p>In an editorial in Thursday's New England Journal of Medicine, Drs. Gary Firestein and Nathan Zvaifler of the University of California School of Medicine in La Jolla said, &quot;We must be careful to avoid excessive enthusiasm for the results of short-term studies.&quot;</p>
+<p>They said the effectiveness of most arthritis treatments tends to wane over time. &quot;Typically, less than 20 percent of patients continue a particular second-line treatment for five years.&quot;</p>
+<p>Some discontinue treatment because of side effects and others do it because the treatment stops working.</p>
+<p>Enbrel is designed to work by blocking the effect of a naturally occurring protein known as tumour necrosis factor (TNF), which influences the immune system. Researchers have known for about a decade that TNF levels rise in the joint fluid of persons with arthritis and in the blood of people who are experiencing joint pain.</p>
+<p>Forty-eight men and 132 women were volunteers in the study, which was paid for by Immunex.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

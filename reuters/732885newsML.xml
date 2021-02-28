@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732885" id="root" date="1997-07-16" xml:lang="en">
+<title>FRANCE: French n-plant measures unwarranted - safety agency.</title>
+<headline>French n-plant measures unwarranted - safety agency.</headline>
+<dateline>PARIS 1997-07-16</dateline>
+<text>
+<p>A French nuclear safety agency said on Wednesday that a temporary ban imposed last week on yachting and fishing around the La Hague nuclear reprocessing plant on the Cherbourg peninsula was unwarranted.</p>
+<p>In a report requested by the government, the French Office of Protection against Ionising Radiation (OPRI) said a more limited ban on activity within 50 metres (yards) of a pipe spewing nuclear waste into the English Channel would suffice to protect human health in the area.</p>
+<p>It said its testing found &quot;no significant increase&quot; in radioactivity levels in the zone, as the waste being dumped into the water were quickly diluted to levels of radioactivity found in nature.</p>
+<p>The La Hague plant is run by state nuclear company Cogema.</p>
+<p>Environment Minister Dominique Voynet last week announced emergency safety measures for the zone, saying she would not wait for the completion of the state study.</p>
+<p>Voynet, head of France's Greens party and a minister in the new leftist government which took power five weeks ago, described the step as &quot;precautionary&quot; and said it had not yet been established that there was a danger to health.</p>
+<p>The Greenpeace environmental group says it has found radioactivity levels exceeding European Union limits in the water and sediment near the plant's discharge pipe.</p>
+<p>A study by French scientists made public in January found a concentration of leukaemia cases in patients under 25 years old and living within 35 km (20 miles) of La Hague.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I15000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
