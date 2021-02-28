@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570928" id="root" date="1997-05-08" xml:lang="en">
+<title>THAILAND: Thai rice vessels loading and movements at May 8.</title>
+<headline>Thai rice vessels loading and movements at May 8.</headline>
+<dateline>BANGKOK 1997-05-08</dateline>
+<text>
+<p>The Thai Commerce Ministry and independent surveyors detailed rice loading at Thai ports as follows (in tonnes):</p>
+<p>Vessel		Date of Arrival   Quantity     Destination</p>
+<p>Ruslan		22/04/97		7,500	  Nigeria</p>
+<p>Sangthai Heaven   23/04/97		4,000	  Hong Kong</p>
+<p>Tacisic Mattsu    24/04/97		3,000	  Reunton</p>
+<p>Budi Ainna	  24/04/97		3,000	  Malaysia</p>
+<p>Bang Khunsri	25/04/97		5,500	  Malaysia</p>
+<p>Yan Cheng	   25/04/97		5,000	  Philippines</p>
+<p>Fi Jin Shan	 25/04/97	     12,500	  Philippines</p>
+<p>Chalot Horn Nare  25/04/97	     14,400	  Japan</p>
+<p>Sangthai Sirin    25/04/97		4,500	  Hong Kong</p>
+<p>Stel Len Bosch    28/04/97		  --		--</p>
+<p>Delight	     30/04/97		5,700	  Malaysia</p>
+<p>Bang Khunnon	01/05/97		5,150	  Malaysia</p>
+<p>Sangthai Quad     01/05/97		3,500	  Singapore</p>
+<p>Jin Ying	    01/05/97		4,750	  Philippines</p>
+<p>Guang Yun	   02/05/97		6,600	  Philippines</p>
+<p>Nebula		02/05/97		1,500	  Palau</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

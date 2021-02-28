@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610104" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: DT Industries may buy LucasVarity unit.</title>
+<headline>DT Industries may buy LucasVarity unit.</headline>
+<dateline>SPRINGFIELD, Mo. 1997-05-23</dateline>
+<text>
+<p>DT Industries Inc said Friday it signed a letter of intent and entered into a period of exclusivity for the potential acquisition of Lucas Assembly and Test Systems.</p>
+<p>Lucas Assembly, a division of LucasVarity Plc, designs and makes assembly line and testing equipment for automotive original equipment manufacturers and their tier one suppliers.  Lucas Assembly has four locations in Michigan, the United Kingdom and Germany, near key customers and markets.</p>
+<p>&quot;The potential acquisition of Lucas Assembly would complement operations in our DT Automation Group,&quot; Stephen Gore, president and chief executive officer, said in a statement.</p>
+<p>The transaction is subject to negotiation of a definitive purchase agreement, completion of due diligence and approval by the company's board of directors and by applicable governmental authorities.  No further details were released.</p>
+<p>DT Industries makes and integrates automated production systems used to manufacture or package industrial and consumer products. The company also produces precision metal components, tools and dies for industrial applications.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPRINGFIELD, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

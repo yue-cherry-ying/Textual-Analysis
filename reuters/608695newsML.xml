@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608695" id="root" date="1997-05-23" xml:lang="en">
+<title>SOUTH AFRICA: Metkor yr headline shr slips, div up.</title>
+<headline>Metkor yr headline shr slips, div up.</headline>
+<dateline>JOHANNESBURG 1997-05-23</dateline>
+<text>
+<p>Year ended March 31</p>
+<p>			(million rand unless stated)</p>
+<p>Shr, (cts)</p>
+<p>    - headline		    25.0    vs    49.0</p>
+<p>    - attrib			38.4    vs    53.0</p>
+<p>    Div (cts)		     14.8    vs    12.9</p>
+<p>    Attrib income		46.32    vs    63.87</p>
+<p>    Pre-tax		     192.28    vs    228.94</p>
+<p>    Tax			    52.05    vs    73.45</p>
+<p>    Interest recieved	   5.89    vs    7.11</p>
+<p>    Turnover		  3,534.89    vs    3,413.87</p>
+<p>    Exceptional items	  36.94    vs    6.91</p>
+<p>    Share of associates'     21.41    vs    11.12</p>
+<p>Div payable July 4</p>
+<p>on register June 13</p>
+<p>Full name: Metkor Group Ltd (engineering)</p>
+<p>NOTE - The company said the restructuring of Dorbyl Ltd was virtually complete and the group was poised to achive steady growth.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

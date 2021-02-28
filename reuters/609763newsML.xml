@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609763" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: U.S. stocks seen up at open in thin trade.</title>
+<headline>U.S. stocks seen up at open in thin trade.</headline>
+<dateline>NEW YORK 1997-05-23</dateline>
+<text>
+<p>U.S. shares were expected to rise at the market open on Friday but trading should be light and perhaps volatile before a three-day U.S. holiday.</p>
+<p>There were no economic data due to provide impetus to share prices and blue chip shares will watch bonds, analysts said. The bond market will shut early at 1400 EDT/1800 GMT.</p>
+<p>&quot;In a relatively thin market you can have wide swings in almost any group,&quot; Arnold Kaufman, editor of Standard &amp; Poor's Outlook investment advisory news letter said.</p>
+<p>The Standard &amp; Poor's futures index was up 2.20 points at 842.45 while the long bond was up 7/32 at 6.97 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

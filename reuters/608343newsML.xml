@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608343" id="root" date="1997-05-23" xml:lang="en">
+<title>CROATIA: WEIGHTLIFTING-EUROPEAN CHAMPIONSHIP RESULTS.</title>
+<headline>WEIGHTLIFTING-EUROPEAN CHAMPIONSHIP RESULTS.</headline>
+<dateline>RIJEKA, Croatia 1997-05-23</dateline>
+<text>
+<p>Results at the European weightlifting championships on Friday:</p>
+<p>76 kg</p>
+<p>1. Ioto Iotov (Bulgaria) snatch 160 kg/clean and jerk 195 kg, total lift 355 kg</p>
+<p>2. Ingo Steinhofel (Germany)  157.5/192.5, 350</p>
+<p>3. Rouslan Savcenko (Ukraine) 160/190, 350.  </p>
+<p>Add results</p>
+<p>83 kg 1. Mark Huster (Germany)  377.5 2. Dursun Seving (Turkey) 372.5 3. Iori Mychovets (Russia) 370.0</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIJEKA, Croatia"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

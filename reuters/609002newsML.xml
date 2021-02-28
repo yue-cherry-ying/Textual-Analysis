@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609002" id="root" date="1997-05-23" xml:lang="en">
+<title>ARGENTINA: Argentine bonds flat, quiet on U.S. mkt closure.</title>
+<headline>Argentine bonds flat, quiet on U.S. mkt closure.</headline>
+<dateline>BUENOS AIRES 1997-05-23</dateline>
+<text>
+<p>Argentine bonds were virtually untraded Friday as the market stuck to very narrow ranges ahead of the early closure of the U.S. market.</p>
+<p>&quot;There is very little movement,&quot; said a trader at a foreign bank.</p>
+<p>With the U.S. Treasuries market closing early Friday ahead of a holiday Monday traders did not expect much action locally until Tuesday.</p>
+<p>Argentina's FRB Brady bond due 2005 was up 1/8 at 93-1/8, while no prices on local bonds were quoted on screens.</p>
+<p>The dollar-denominated Bocon Previsional 2 due 2001 rose $0.03 to 122.83 Thursday.</p>
+<p>&quot;The market is just range-trading, waiting for next week,&quot; said another trader.</p>
+<p>((--Axel Bugge, Buenos Aires Newsroom, 541 318-0668))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

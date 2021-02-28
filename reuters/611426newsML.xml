@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611426" id="root" date="1997-05-23" xml:lang="en">
+<title>THAILAND: Burma denies opposition members arrested.</title>
+<headline>Burma denies opposition members arrested.</headline>
+<dateline>BANGKOK 1997-05-23</dateline>
+<text>
+<p>Burma's military government on Friday denied it had arrested dozens of members of Aung San Suu Kyi's National League for Democracy (NLD) party.</p>
+<p>&quot;We have been informed that none of the members of the NLD has been arrested so far, but requested by the local authorities to refrain from taking the course of action which is geared to create chaos in the country,&quot; a senior government official said in a statement sent by fax to Reuters.  </p>
+<p>NLD officials in Rangoon have said at least 60 senior party members from the provinces were arrested by the military authorities as they headed to the Burmese capital to attend a party meeting. Several dozen others were detained in their homes, an NLD source told Reuters by telephone on Friday.</p>
+<p>&quot;It would be interesting to know if they (the NLD) could provide us with more substantial facts as which member has been arrested in which police station,&quot; the statement said.</p>
+<p>&quot;Of course the NLD's intention is to try to get as much as their members arrested by trying to create a situation where the government has no choice but to take strong counter measures.&quot;</p>
+<p>The statement said it was &quot;regretful&quot; that the government was being blamed for trying to maintain law and order. Burma's ruling State Law and Order Restoration Council has been condemned globally for the arrests.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

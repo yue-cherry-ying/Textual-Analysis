@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608502" id="root" date="1997-05-23" xml:lang="en">
+<title>LITHUANIA: STATE'S FOREIGN DEBT $1.119 BILLION IN APRIL.</title>
+<headline>STATE'S FOREIGN DEBT $1.119 BILLION IN APRIL.</headline>
+<dateline>VILNIUS 1997-05-23</dateline>
+<text>
+<p>Lithuania's finance ministry said on Friday that the state's foreign debt in hard currency at the end of April 1997 was $1.199 billion.</p>
+<p>The ministry also said in a statement the country's foreign debt in the state's name was $876.69 million and state guarantees for foreign loans amounted to $322.62 million.</p>
+<p>The ministry also said that the foreign debt amounted to 13.7 percent of the country's gross domestic product (GDP).</p>
+<p>The ministry said that the state borrowed $85.72 million and repaid $52.78 million during the first four months of 1997.</p>
+<p>It said that the state's total foreign debt rose by $32.94 million during the first four months of the year.</p>
+<p>It also said that the calculations were based on the official exchange rate posted by the Bank of Lithuania as of May 1, 1997.</p>
+<p>--Andrius Vilkancas, Vilnius newsroom +370 2 22 35 17</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LITH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VILNIUS"/>
+<dc element="dc.creator.location.country.name" value="LITHUANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

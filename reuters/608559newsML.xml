@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608559" id="root" date="1997-05-23" xml:lang="en">
+<title>UK: Late bond market prices.</title>
+<headline>Late bond market prices.</headline>
+<dateline>LONDON 1997-05-23</dateline>
+<text>
+<p>This is how major world bond markets were trading in late European business on Friday.</p>
+<p>GERMANY - German debt prices were riding higher on the back of chirpier U.S. Treasuries, reversing some of recent sharp losses. The June Bund future on the London International Financial Futures and Options Exchange (LIFFE) was trading at 100.94, up 0/21 from Thursday's settlement price.</p>
+<p>BRITAIN - U.K. Gilt futures made a spirited recovery after falling more than a full point in a sell-off on Thursday, sparked by a poorly covered auction. The June long gilt future on LIFFE was trading at 112-15/32, up 19/32 from Thursday's settlement price.</p>
+<p>FRANCE - French bond futures settled higher ahead of the first round of voting in a parliamentary election on Sunday after a volatile day's trading, rife with talk about private polls which traders said was weighing on the franc late in the session. The June notional bond future on the MATIF in Paris settled at 129.00, up 0.16 from Thursday's settlement price.</p>
+<p>ITALY - Italian debt markets finished firm after a session shadowing Bunds but also outperforming them, Italian rate cut speculation now being pushed back to next week after first round of French election or after second round in June. Long weekend in London means market apparently going home short ahead of French vote. The June bond future on LIFFE was trading at 129.93, up 0.48 from Thursday's settlement price.</p>
+<p>UNITED STATES - U.S. Treasuries narrowly higher in moderate pre-holiday trade, with Volume at $27.8 billion in mid-morning trade. The June Treasury bond future on the Chicago Board of Trade was trading at 109-08/32, up 06/32 from Thursday's settlement price. The long bond was quoted to yield 6.98 percent.</p>
+<p>JAPAN - Cash and futures Japanese Government Bonds (JGBs) were weaker in late Tokyo trading due to a recovery in Tokyo share prices and the dollar's rise against the yen. In after hours trading the June future on LIFFE was trading at 123.44, down 0.33 from Thursday's settlement price on the Tokyo Stock Exchange.</p>
+<p>EUROBONDS - New issue activity was predictably slow ahead of an extended holiday weekend in Britain and the United States. Sterling shone amid the broader lethargy, with a deal for an anonymous group of British universities being the most novel. Bankers Trust was lead manager of a 48 million sterling structured 29-year bond for special purpose vehicle Varsity Funding (Holdings), guaranteed by Financial Security Assurance.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

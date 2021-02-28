@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609982" id="root" date="1997-05-23" xml:lang="en">
+<title>UK: Southern Elec says it is not for sale.</title>
+<headline>Southern Elec says it is not for sale.</headline>
+<dateline>LONDON 1997-05-23</dateline>
+<text>
+<p>Regional electricity company Southern Electric Plc said on Friday that it was not for sale amid newspaper reports that generator PowerGen would consider an acquisition.</p>
+<p>A company spokesman said Southern had been surprised at the articles, adding that it believed comments by PowerGen's chairman and chief executive Ed Wallis had been taken out of context.</p>
+<p>&quot;We have a strong independent growth strategy,&quot; he added. &quot;We're not for sale&quot;.  </p>
+<p>PowerGen was last year blocked by the government on anti-competitive grounds from buying another REC -- Midlands Electricity.</p>
+<p>PowerGen said on Thursday after reporting annual results that it was considering a big acquisition.</p>
+<p>The Financial Times reported Wallis as saying: &quot;As for buying Southern Electric, well, we have a new government and who knows if their view is the same as the past government or what? It's too early to say.&quot;</p>
+<p>Southern is the last independent REC since its 11 peers were swept up in a wave of acquisitions that began in earnest in 1995.</p>
+<p>-- Kirstin Ridley, London Newsroom +44 171 542 4366</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

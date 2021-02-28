@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610399" id="root" date="1997-05-23" xml:lang="en">
+<title>FINLAND: INSTRU NAMES RIIKKALA CEO.</title>
+<headline>INSTRU NAMES RIIKKALA CEO.</headline>
+<dateline>HELSINKI 1997-05-23</dateline>
+<text>
+<p>Finnish medical equipment group Instrumentarium Oy said in a statement received on Friday that it had appointed Olli Riikkala president and CEO from June 15.</p>
+<p>Riikkala is currently executive vice president of Instrumentarium; he joined the company in 1979, Instrumentarium said.</p>
+<p>Riikkala will succeed Markku Talonen, who on Tuesday was named president and CEO of Finnish drugs group Orion-Yhtyma Oy.</p>
+<p>Instrumentarium appointed Gerhard Wendt to succeed Talonen as chairman of the board, the company said.</p>
+<p>--Helsinki Newsroom +358-9-680 50 235</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

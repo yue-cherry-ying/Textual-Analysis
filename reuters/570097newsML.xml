@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570097" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Bombay Co cautious on May same-store sales.</title>
+<headline>Bombay Co cautious on May same-store sales.</headline>
+<dateline>FORT WORTH, Texas 1997-05-08</dateline>
+<text>
+<p>Bombay Co Inc on Thursday said it is cautious about May 1997 same-store sales because of its shift of the preferred customer sales promotion event, traditionally held each May, to the June marketing period.</p>
+<p>While this shift will likely cause a negative same store result for May, the company expects the shortfall to be at least offset by increases in June sales.</p>
+<p>Earlier, the firm said April Same store sales for Bombay stores in existence for more than one year increased by nine percent compared to the prior year. Total sales in April increased six percent to $20.6 million compared to $19.5 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

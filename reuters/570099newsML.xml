@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570099" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Ames Department Q1 shr loss narrows.</title>
+<headline>Ames Department Q1 shr loss narrows.</headline>
+<dateline>ROCKY HILL, Conn. 1997-05-08</dateline>
+<text>
+<p>AMES DEPARTMENT STORES INC AND SUBSIDIARIES</p>
+<p>	     CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS</p>
+<p>(In Thousands, Except Per Share Amounts) (Unaudited)</p>
+<p>		     13 Weeks Ended	April 26,    April 27,</p>
+<p>						   1997	    1996</p>
+<p>TOTAL SALES				 $448,575	 $455,677</p>
+<p>Less: Leased department sales	   15,974	   17,010</p>
+<p>NET SALES				    432,601	  438,667</p>
+<p>COSTS, EXPENSES AND (INCOME):</p>
+<p>Cost of merchandise sold		 314,235	  321,265</p>
+<p>Selling, general &amp; admin   expenses  128,885	  127,802</p>
+<p>Leased department &amp; other oper income (5,305)	 (5,774)</p>
+<p>Depreciation &amp; amortization expense    2,923	    2,620</p>
+<p>Amortization of the excess of revalued net assets over</p>
+<p> equity under fresh-start reporting  (1,538)	  (1,538)</p>
+<p>Interest and debt expense, net	   2,392	    4,239</p>
+<p>INCOME (LOSS) BEFORE INCOME TAXE     (8,991)	  (9,947)</p>
+<p>Income tax benefit			   3,061	    2,949</p>
+<p>NET INCOME (LOSS)			 ($5,930)	 ($6,998)</p>
+<p>AVG NO OF SHRS OUTSTANDING		20,912	   20,472</p>
+<p>NET INCOME (LOSS) PER SHARE	    ($0.28)	  ($0.34)</p>
+<p>-- New York Newsdesk</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCKY HILL, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

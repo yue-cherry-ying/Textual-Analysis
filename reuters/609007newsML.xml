@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609007" id="root" date="1997-05-23" xml:lang="en">
+<title>CHILE: Chile posts $589 million Jan-April trade surplus.</title>
+<headline>Chile posts $589 million Jan-April trade surplus.</headline>
+<dateline>SANTIAGO 1997-05-23</dateline>
+<text>
+<p>Chile posted a trade surplus of $589 million in the first four months of the year, on imports of $5.46 billion and exports of $6.05 billion, the Central Bank reported.</p>
+<p>Higher copper exports accounted for much of the rise, rising to $658 million in April from $512 million in the same month last year, the Central Bank said in its twice-monthly macroeconomic report.</p>
+<p>((--Santiago newsroom +56-2-699-5595 x211))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

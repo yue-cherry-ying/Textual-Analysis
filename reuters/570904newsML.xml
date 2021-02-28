@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570904" id="root" date="1997-05-08" xml:lang="en">
+<title>JAPAN: Yamaha develops new car suspension system.</title>
+<headline>Yamaha develops new car suspension system.</headline>
+<dateline>TOKYO 1997-05-08</dateline>
+<text>
+<p>Yamaha Motor Co Ltd said on Thursday it has developed a new car suspension system intended to offer a more comfortable ride and greater handling stability at lower cost than computer-controlled systems.</p>
+<p>The relative absorber system (REAS) consists of highly responsive right and left shock absorbers connected to each other by a shared hydraulic passage, with a third unit positioned at the mid-point of the passage between them.</p>
+<p>The third unit consists of a valve, a gas-filled chamber and a free piston.</p>
+<p>The new system will be cheaper than conventional computer-controlled suspension systems due to its simple structure, a Yamaha spokesman said. Computer-controlled suspension systems are used in luxury sedans.</p>
+<p>Yamaha, the world's second-biggest motorcycle manufacturer, initially plans to sell the new system to Japanese carmakers, although the spokesman did not name any specific carmakers.</p>
+<p>This is the first car suspension system sold by Yamaha, although it already manufactures and sells car engines.</p>
+<p>Yamaha has applied for several patents in a number of countries on its suspension system, the spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

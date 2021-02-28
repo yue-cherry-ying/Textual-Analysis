@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570490" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: News Corp. reports sharply higher profits.</title>
+<headline>News Corp. reports sharply higher profits.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Media giant News Corp. said Wednesday its earnings rose sharply in the latest quarter, helped by its U.S. television operations and a strong performance by the &quot;Star Wars&quot; films in their cinema reprisal.</p>
+<p>News Corp., which is led by Rupert Murdoch, said in a statement released in New York that its profits after one-time items for its fiscal third quarter ended March 31 rose to $256 million from $59 million a year earlier.</p>
+<p>Revenues rose 27 percent to $2.9 billion.</p>
+<p>&quot;These results reflect strong double-digit earnings increases at all of the company's core operating segments with the exception of book publishing,&quot; the company said in a statement.</p>
+<p>It said its U.S. filmed entertainment put in a strong showing with operating profits up 36 percent, helped by the &quot;Star Wars&quot; movies.</p>
+<p>&quot;Since being released at the end of January, Star Wars has generated $138 million at the domestic box office, with the two sequels adding another $111 million to date,&quot; News Corp. said.</p>
+<p>U.S. Television operating profits were up 55 percent, reflecting strong Fox Broadcasting Co. results. Fox benefited from its first time broadcast of the Super Bowl football championship game.</p>
+<p>Fox's regular TV shows include the cartoon series &quot;The Simpsons&quot; and the science fiction show, &quot;The X-Files.&quot;</p>
+<p>In addition to the Fox television network, News Corp.'s U.S. holdings include the New York Post, HarperCollins book publishing and Twentieth Century Fox film studios.</p>
+<p>News Corp. said its British newspaper operations again reported strong results with third quarter operating profits up 47 percent. The company's British papers include The Times and The Sunday Times. Operating results at its Australian newspaper division were slightly ahead for the quarter.</p>
+<p>The company said income from its associated companies rose 34 percent, helped by expansion at British satellite TV company BSkyB. It also cited an improved performance of Ansett Airlines, which News Corp. owns jointly with Air New Zealand.</p>
+<p>BSkyB said in London Wednesday that its pretax profit rose 15 percent to 81.6 million pounds ($133 million) in its third quarter ended on March 31 from 71.2 million ($116 million) a year earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

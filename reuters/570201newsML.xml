@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570201" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Mutual Risk Management Q1 shr rises.</title>
+<headline>Mutual Risk Management Q1 shr rises.</headline>
+<dateline>NEW YORK 1997-05-08</dateline>
+<text>
+<p>1997		     1996</p>
+<p> Shr primary     $0.54		    $0.48</p>
+<p> Shr diluted     0.53		     0.47</p>
+<p> Net		 10,644		   9,141</p>
+<p> Revs		47,187		   36,693</p>
+<p> Avg shrs	  19,611		   19,039</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Current first quarter primary earnings included realized capital losses of $0.03/shr and current Q1 diluted earnings include realized capital losses of $0.02 per share.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

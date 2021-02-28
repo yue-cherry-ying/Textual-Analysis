@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609294" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: FOB Gulf Grain - Soybean values rise, wheat steady.</title>
+<headline>FOB Gulf Grain - Soybean values rise, wheat steady.</headline>
+<dateline>CHICAGO 1997-05-23</dateline>
+<text>
+<p>U.S. FOB Gulf soybean basis offers rose two cents per bushel for all positions in reaction to lower CBOT soybean futures and strong competition from soybean processors, grain dealers said.</p>
+<p>CIF basis offers for June shipment also rose late Friday to 29 cents over CBOT July from 26 over early Friday.</p>
+<p>Winter wheat basis values were unchanged despite Egypt announcing a new tender for 165,000 tonnes of U.S. hard red winter wheat or Australian hard red wheat. The wheat is for last-half June to July shipment.</p>
+<p>Corn basis values were unchanged.  </p>
+<p>CORN (No. 3 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu) -</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>June	   unq +  N    nc	 +23    +  N     unc</p>
+<p>July	   unq +  N    nc	 +24    +  N     unc</p>
+<p>Aug    1-20  unq +  U    nc	 +37    +  U     unc</p>
+<p>Aug   12-31  unq +  U    nc	 +35.5  +  U     unc</p>
+<p>Sept  1-20   unq +  U    nc	 +37    +  U     unc</p>
+<p>Sept 11-30   unq +  U    nc	 +32    +  U     unc</p>
+<p>--------</p>
+<p>--------</p>
+<p>Note: N=CBOT July, U=CBOT Sept, nc=no comparison.</p>
+<p>SOYBEANS (No. 2 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu)</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>June 1-20   unq   + N     nc	+28    +  N     up 2</p>
+<p>June 11-30  unq   + N     nc	+30    +  N     up 2</p>
+<p>July 1-20   unq   + N     nc	+30    +  N     up 2</p>
+<p>July 12-31  unq   + N     nc	+32    +  N     up 2</p>
+<p>August	unq   + N     nc	+62    +  Q     up 2</p>
+<p>---</p>
+<p>---</p>
+<p>Note: N=CBOT July, Q=CBOT August, nc=no comparison</p>
+<p>SRW WHEAT (FOB, U.S. Gulf, basis CBOT, cts/bu) -</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>May	   unq	     nc	+40    +  N    unc</p>
+<p>June	  +12  + N	nc	+14    +  N    unc</p>
+<p>July	  +12  + N	nc	+14    +  N    unc</p>
+<p>August	unq	     nc	+15    +  U    unc</p>
+<p>HRW WHEAT (FOB, U.S. Gulf, basis KCBT, cts/bu) -</p>
+<p>May	   unq	     nc	+60    +  N    unc</p>
+<p>June	  unq	     nc	+45    +  N    unc</p>
+<p>July	  unq	     nc	+41    +  N    unc</p>
+<p>August	unq	     nc	+41    +  U    unc</p>
+<p>Note:  N=July futures, U=September futures.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570448" id="root" date="1997-05-08" xml:lang="en">
+<title>TURKEY: Two pilots die in Turkish military plane crash.</title>
+<headline>Two pilots die in Turkish military plane crash.</headline>
+<dateline>ISTANBUL 1997-05-08</dateline>
+<text>
+<p>Two Turkish pilots died when a light military aircraft crashed during a training flight in western Turkey on Thursday, the state-run Anatolian news agency said.</p>
+<p>The aircraft crashed about 100 km (60 miles) northeast of the Cigli airbase in the main western port town of Izmir, from where it had taken off, Anatolian said. It gave no further details.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

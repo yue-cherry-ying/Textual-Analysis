@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608849" id="root" date="1997-05-23" xml:lang="en">
+<title>UKRAINE: Hryvnia steady at 1.8520 per dlr in Kiev.</title>
+<headline>Hryvnia steady at 1.8520 per dlr in Kiev.</headline>
+<dateline>KIEV 1997-05-23</dateline>
+<text>
+<p>The hryvnia was unchanged at 1.8520 per dollar on the Ukrainian Interbank Currency Exchange on Friday.</p>
+<p>					  May 23	     May 22</p>
+<p> Hryvnia rate to dollar		1.8520	     1.8520</p>
+<p> Volume traded			$6.50 million	  $6.45 million</p>
+<p>--Kiev newsroom +380-44-244-9150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

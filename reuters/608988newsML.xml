@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608988" id="root" date="1997-05-23" xml:lang="en">
+<title>CHILE: Chilean copper exports up sharply in April.</title>
+<headline>Chilean copper exports up sharply in April.</headline>
+<dateline>SANTIAGO 1997-05-23</dateline>
+<text>
+<p>Chilean copper exports rose to $658 million in April from $512 million in the same month of 1996, accounting for most of a sharp increase in Chilean mining exports last month, the Central Bank reported.</p>
+<p>The following are details of Chile's mining exports in April.</p>
+<p>METAL			  April 1997	  April 1996</p>
+<p> Copper			  658.1		 512.4</p>
+<p> Iron			     10.5		  10.1</p>
+<p> Nitrates and iodine	  29.8		  12.1</p>
+<p> Silver			    9.7		  10.5</p>
+<p> Molybdenum		     17.7		  20.7</p>
+<p> Lithium carbonate	     4.1		   2.4</p>
+<p> Metallic gold and dore     35.1		  41.6</p>
+<p> Gold mineral		    5.4		   8.9</p>
+<p> Others			    7.3		  11.9</p>
+<p> TOTAL			   630.6		 777.7</p>
+<p>NOTE: All figures are in millions of dollars.</p>
+<p>((--Roger Atwood, Santiago newsroom, 562-699-5595x211))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22460">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569928" id="root" date="1997-05-08" xml:lang="en">
+<title>PAKISTAN: Pakistan cotton rates steady amid low demand.</title>
+<headline>Pakistan cotton rates steady amid low demand.</headline>
+<dateline>KARACHI, Pakistan 1997-05-08</dateline>
+<text>
+<p>Pakistan cotton rates were steady on Thursday amid low demand from spinners and may come off in the next few days owing to high supplies, dealers said.</p>
+<p>They said ginners were sitting on large stocks of unsold cotton from the 1996/97 crop and the arrival of new crop was due in June.</p>
+<p>Pakistan Cotton Ginners Association said the 1996/97 cotton output had reached a provisional 8.761 million 375-lb bales by May 1, down from 9.938 million in the same time a year ago. Ginners have some 902,000 unsold bales of cotton, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570028" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: ICO Inc Q1 shr $0.06 vs $0.14.</title>
+<headline>ICO Inc Q1 shr $0.06 vs $0.14.</headline>
+<dateline>HOUSTON 1997-05-08</dateline>
+<text>
+<p>1997	  1996</p>
+<p>Revenues:</p>
+<p>   Oilfield sales and services	  $23,595,000 $22,095,000</p>
+<p>Petrochemical processing</p>
+<p>    sales and services		     21,693,000	   ---</p>
+<p> Total net revenues			  45,288,000  22,095,000</p>
+<p> Gross Profit				  12,716,000   6,572,000</p>
+<p> EBITDA					   5,998,000   2,850,000</p>
+<p> Operating income			     3,390,000   1,513,000</p>
+<p> Interest (income) expense		    332,000   (329,000)</p>
+<p> Other (income) expense			   6,000    (26,000)</p>
+<p> Income before taxes			  3,052,000   1,868,000</p>
+<p> Provision for income taxes		 1,320,000	95,000</p>
+<p> Net income				     1,732,000   1,773,000</p>
+<p>Earnings applicable to common</p>
+<p>  and common equivalent shares		    .06	   .14</p>
+<p>Weighted average common and</p>
+<p>common equivalent shares outstanding</p>
+<p>						   20,438,000   8,927,000</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611347" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Japan police say hacker replaced weather with porn.</title>
+<headline>Japan police say hacker replaced weather with porn.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Japanese police on Friday arrested a 27-year-old computer engineer suspected of replacing public weather charts on the Internet with pornographic pictures.</p>
+<p>A spokesman for Osaka police said Koichi Kubojima, a resident of the northern Tokyo suburb of Fujimi, was the first person in Japan to be arrested for suspected violation of a 1987 anti-hacker law.</p>
+<p>Kubojima is accused of taking over seven web pages of the Osaka-based television network Asahi Broadcasting Company on May 18 and replacing five of the seven weather charts on the pages with pornographic pictures. He also faces charges under Japan's anti-obscenity laws.</p>
+<p>Police said Kubojima told investigators he was just trying to have some fun and tried but failed to delete the pictures when he learned that his own actions were being reported all over on the Internet.</p>
+<p>He used a fake password obtained from a local Internet provider to enter the website from his personal computer at home, but his operations were retraced by investigators through phone records kept at the provider firm, police said.</p>
+<p>If convicted, Kubojima faces a fine of one million yen ($8,600) and a prison term of up to five years under tough penalties against hackers adopted in 1992.</p>
+<p>($1=116 yen)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

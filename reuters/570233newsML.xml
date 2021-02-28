@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570233" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: One day in April, Office Depot stock lost $1 bln.</title>
+<headline>One day in April, Office Depot stock lost $1 bln.</headline>
+<dateline>WASHINGTON 1997-05-07</dateline>
+<text>
+<p>Office Depot Inc.'s total market capitalization dropped more than $1 billion in one day last month when the government decided to reject its restructured merger with Staples Inc., according to exhibits filed by the company's lawyers.</p>
+<p>The papers are buried in boxes of defense exhibits filed by attorneys for Staples and Office Depot. The two office supply superstore chains are in U.S. District Court, contesting the government's effort to stop them from merging.</p>
+<p>The Federal Trade Commission argues the merger would raise prices for consumers.</p>
+<p>The defense exhibit shows total market capitalization for Office Depot dropped from $3.354 billion on April 3 to $2.295 billion on April 4. On that day, the commission voted 4-1 to reject a restructured deal for the merger of the two companies.</p>
+<p>The figures were based on 176.5 million fully diluted shares, whose price dropped from about $19 to about $13 a share on the New York Stock Exchange.</p>
+<p>The drop was even greater if measured from March 7, the last business day before the FTC rejected the initial merger. On that Friday, Office Depot's total market capitalization was $3.993 billion, based on a stock price of $22.625.</p>
+<p>The source of the information was not identified, and attorneys for Office Depot did not return telephone calls.</p>
+<p>Office Depot closed Wednesday at $14.625, down 12.5 cents in consolidated trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570819" id="root" date="1997-05-08" xml:lang="en">
+<title>AUSTRALIA: APN buys 3M billboard unit.</title>
+<headline>APN buys 3M billboard unit.</headline>
+<dateline>SYDNEY 1997-05-08</dateline>
+<text>
+<p>Australian Provincial Newspapers Holdings Ltd (APN) said on Thursday it had acquired the Australian Posters outdoor advertising division from 3M Australia Ltd for an undisclosed sum.  </p>
+<p>APN group finance director Vincent Crowley later told Reuters that Australian Posters had annual sales of about A$26 million but would not reveal profit results.</p>
+<p>The division would add to APN's two other outdoor advertising units, he said.</p>
+<p>APN said the Australian Competition and Consumer Commission was comfortable that the purchase did not breach the Trade Practices Act.</p>
+<p>3M announced in the United States last week that it would sell its U.S.-based outdoor advertising unit called National Advertising Co for US$1 billion to Outdoor Systems Inc.  </p>
+<p>3M chief executive Harold Laskin said the Australian sale was not related to the U.S. divestment.</p>
+<p>APN is a regional newspaper publisher which is 49 percent-owned by Irish media group Independent Newspapers Plc and the family interests of Irish businessman Tony O'Reilly. His son, Cameron, is the managing director of APN.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

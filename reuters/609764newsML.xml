@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609764" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Successories names chief executive officer.</title>
+<headline>Successories names chief executive officer.</headline>
+<dateline>LOMBARD, Ill. 1997-05-23</dateline>
+<text>
+<p>Successories Inc said Friday James Beltrame, president and chief operating officer, was given the additional title of chief executive officer.</p>
+<p>Mac Anderson, Successories founder, remains chairman.  He had previously been chief executive officer.</p>
+<p>Anderson, the largest company shareholder, will continue to be heavily involved in the business, playing a lead role in product line expansion and business development, the company said.  </p>
+<p>&quot;(Beltrame) is responsible for reorganizing our operations which has lead to almost a doubling of revenues in the time since he joined us,&quot; Anderson said in a statement. &quot;...His promotion to chief executive officer will allow me to devote more of my time to the creative end of the business where Successories' new product innovation is critical to our continued growth.&quot;</p>
+<p>Successories is a specialty retailer and catalog company that markets products for business and personal motivation.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOMBARD, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

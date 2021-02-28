@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610899" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Ohmoto Gumi -96/97 parent results.</title>
+<headline>Ohmoto Gumi -96/97 parent results.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p>			full year			 10 months</p>
+<p> Sales		164.96		vs	  124.54</p>
+<p> Operating	   10.28		vs	    7.05</p>
+<p> Current	     10.04		vs	    7.15</p>
+<p> Net		    3.32		vs	    2.99</p>
+<p> EPS		   95.58 yen	  vs	   97.80 yen</p>
+<p> Diluted EPS	     -		vs		 -</p>
+<p> Shares	     35 million	  vs	  32 million</p>
+<p> Ord div	     15.50 yen	  vs	   10.00 yen</p>
+<p>NOTE - Ohmoto Gumi is a medium-sized civil engineering firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570148" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: DT Industries Inc Q3 March 20 net up.</title>
+<headline>DT Industries Inc Q3 March 20 net up.</headline>
+<dateline>SPRINGFIELD, Mo. 1997-05-08</dateline>
+<text>
+<p>(in thousands except per share data)</p>
+<p>			    Three months ended  Nine months ended</p>
+<p>			  Mar 30,    Mar 24,     Mar 30,    Mar 24,</p>
+<p>			    1997	 1996	  1997	 1996</p>
+<p> Net sales	   $103,359    $59,866    $286,687   $164,797</p>
+<p> Cost of sales	 73,652     43,432     206,545    121,965</p>
+<p> Gross profit	  29,707     16,434	80,142     42,832</p>
+<p> Operating income    14,952	7,318	40,037     17,927</p>
+<p> Interest expense     2,538	1,463	 8,825	2,922</p>
+<p>Income before</p>
+<p>  extraordinary loss  7,216	3,396	18,127	8,694</p>
+<p>Loss on debt refinancing</p>
+<p>    less tax benefit    ---	  ---	   324	  ---</p>
+<p> Net Income	     7,216	3,396	17,803	8,694</p>
+<p>Earnings per share:</p>
+<p>   Before loss	   0.61	 0.38	  1.70	 0.97</p>
+<p>   Extraordinary loss   ---	  ---	  0.03	  ---</p>
+<p>   Net income	    0.61	 0.38	  1.67	 0.97</p>
+<p> Avg. shares     11,882,622  9,000,000  10,633,899  9,000,000</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPRINGFIELD, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

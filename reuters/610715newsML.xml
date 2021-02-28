@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610715" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Japan top banks unveil BIS capital adequacy ratios.</title>
+<headline>Japan top banks unveil BIS capital adequacy ratios.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Japan's top 11 commercial banks on Friday disclosed their preliminary international capital adequacy ratios at the end of the financial year on March 31.</p>
+<p>Capital adequacy ratios were as follows (with a year-ago comparisons):</p>
+<p>				  March 1997     March 1996</p>
+<p>    BOT-Mitsubishi	    9.28 pct     9.93 pct</p>
+<p>    Dai-Ichi Kangyo	   8.75 pct     9.40 pct</p>
+<p>    Sumitomo		    8.75 pct     9.20 pct</p>
+<p>    Sanwa			 9.10 pct     9.12 pct</p>
+<p>    Sakura			8.92 pct     8.37 pct</p>
+<p>    Fuji			  9.22 pct     8.36 pct</p>
+<p>    Tokai			 9.09 pct     8.46 pct</p>
+<p>    Asahi			 8.70 pct     9.05 pct</p>
+<p>    Daiwa			 9.02 pct     8.92 pct</p>
+<p>    Hokkaido Takushoku	9.34 pct     8.68 pct</p>
+<p>    Yokohama		    9.10 pct    10.07 pct</p>
+<p>Under the rules of the Bank for International Settlements (BIS), Japanese banks operating internationally need to have capital equivalent to eight percent of risk-weighted assets.</p>
+<p>Unlike many countries, Japanese authorities allow banks to include unrealised profits on securities holdings as part of capital.</p>
+<p>The full names of the banks are Bank of Tokyo-Mitsubishi Ltd (BOT-Mitsubishi), Dai-Ichi Kangyo Bank Ltd,  Sumitomo Bank Ltd, Sanwa Bank Ltd, Sakura Bank Ltd, Fuji Bank Ltd, Tokai Bank Ltd, Asahi Bank Ltd, Daiwa Bank Ltd, Hokkaido Takushoku Bank Ltd and Bank of Yokohama Ltd. Bank of Tokyo-Mitsubishi was formed in April 1996 as result of a merger of Mitsubishi Bank Ltd and Bank of Tokyo Ltd.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

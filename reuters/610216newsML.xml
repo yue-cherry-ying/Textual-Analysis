@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610216" id="root" date="1997-05-23" xml:lang="en">
+<title>FRANCE: Details of new MATIF white sugar futures contract.</title>
+<headline>Details of new MATIF white sugar futures contract.</headline>
+<dateline>PARIS 1997-05-23</dateline>
+<text>
+<p>MATIF SA issued the following contract details for its new white futures contract with an Icumsa rating of 100, scheduled to begin trading on June 20.</p>
+<p>UNDERLYING CONTRACT</p>
+<p>White beet or cane sugar of all origins, dry, of regular grain size, free-flowing, of sound fair and market quality meeting the following criteria:</p>
+<p>- Polarization - 99.8 degrees minimum</p>
+<p>- Moisture - 0.08 percent maximum</p>
+<p>- ICUMSA - 100 color units maximum</p>
+<p>- Ash content - 0.08 percent maximum.</p>
+<p>The delivered sugar must be produced in the country of the delivery port, except for European Union ports where sugar can come from any origin within the Union.</p>
+<p>TRADING UNIT</p>
+<p>50 tonnes.</p>
+<p>PRICE QUOTATION</p>
+<p>U.S. dollars per tonne</p>
+<p>TICK SIZE</p>
+<p>0.1 U.S. dollar per tonne.</p>
+<p>DELIVERY MONTHS</p>
+<p>Seven successive delivery months are traded from among March, May, August, October, December.</p>
+<p>LAST TRADING DAY</p>
+<p>15 calendar days before the first calendar day of the month of delivery. If this day is a non-working day, the last trading day is the previous trading day.</p>
+<p>FIRST TRADING DAY</p>
+<p>First business day following the last trading day of a delivery month.</p>
+<p>DELIVERY</p>
+<p>Physical delivery of the lot in FOB position, stowed and customs cleared between the first day of the month of delivery and the last day of the following month.</p>
+<p>Delivery ports appear in a separate list drawn by MATIF SA.</p>
+<p>The notification form, submitted by the seller to the Clearing House, must be relative to a minimum quantity of 5,000 tonnes net.</p>
+<p>PACKING</p>
+<p>Polypropylene bags, white or brown only, lined with an inner bag or film of food grade polyethylene, of a minimum weight of both polypropylene and polyethylene of 140 grams.</p>
+<p>-- Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

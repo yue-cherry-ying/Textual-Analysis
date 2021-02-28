@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609777" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: CSCE cocoa called to open $5 to $10 lower.</title>
+<headline>CSCE cocoa called to open $5 to $10 lower.</headline>
+<dateline>NEW YORK 1997-05-23</dateline>
+<text>
+<p>CSCE cocoa futures were called to open $5 to $10 lower Friday in line with a weak performance in London overnight, traders said.</p>
+<p>LIFFE cocoa futures slumped early Friday in thin pre-holiday trade, with July down seven stg at the midday break at 1,022 stg a tonne and Sepember slipping nine stg to 1,039 stg.</p>
+<p>London and U.S. markets are closed on Monday for holidays.</p>
+<p>Thursday, New York cocoa futures erased early gains and ended broadly lower, pressured by chart-driven speculative selling. July ended down $23 at $1,463 a tonne after trading from $1,498 to $1,460. Second-month September slid $19 to $1,493, while the back months slumped $18.</p>
+<p>Technically, traders pegged near-term July support at $1,460-$1,459, followed by $1,445. On the upside, resistance was seen at $1,476 and $1,483. ((--Patricia Avidan, New York Commodity Desk 212 859 1640))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

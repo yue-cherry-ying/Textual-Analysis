@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609932" id="root" date="1997-05-23" xml:lang="en">
+<title>UK: UK's SFA orders futures broker to close down.</title>
+<headline>UK's SFA orders futures broker to close down.</headline>
+<dateline>LONDON 1997-05-23</dateline>
+<text>
+<p>British financial watchdog the Securities and Futures Authority (SFA) said on Friday it had ordered futures broker Trust Financial Group (Europe) Ltd to shut down.</p>
+<p>The SFA said it had issued an intervention order requiring Trust to &quot;cease forthwith from carrying on any investment business&quot; and &quot;arrange for the disposal or transfer of client positions and assets no later than June 13&quot;.</p>
+<p>The watchdog said it had issued the order because Trust had &quot;failed to monitor activity on customer accounts adequately&quot; and it appeared &quot;excessive or inappropriate trading may have taken place and the execution of orders may have incurred excessive charges and caused losses&quot;.</p>
+<p>Trust had also failed to value customer option contract positions accurately and had sent customers inaccurate statements, the SFA said.</p>
+<p>And it had failed to satisfy the SFA that it maintained adquate financial resources to meet its investment business commitments and had failed to keep financial records properly.</p>
+<p>&quot;It appears that Trust has been reporting incorrect balances in its financial reporting statements to SFA since June 1996,&quot; it said.</p>
+<p>-- Alexander Smith, London Newsroom +44 171 542 7719</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

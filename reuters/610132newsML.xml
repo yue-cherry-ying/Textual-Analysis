@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610132" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: United CEO sees deal to allow regional jets - paper.</title>
+<headline>United CEO sees deal to allow regional jets - paper.</headline>
+<dateline>WASHINGTON 1997-05-22</dateline>
+<text>
+<p>United Airlines Chairman Gerald Greenwald predicted a solution will be reached with the Air Line Pilots Association to allow commuter carriers to fly regional jets as part of the United Express System.</p>
+<p>In an interview published in Friday editions of the Washington Post, Greenwald said he expected to work out an agreement with the pilots union &quot;sometime soon.&quot;</p>
+<p>Under the ALPA contract, the union must give permission for a commuter airline to fly the new 50-seat regional jets. So far, the union has insisted that United must own the jets and United pilots, not the commuter line pilots, must fly them.</p>
+<p>The union's leadership at United has called a special meeting for late next week to consider the regional jet issue.</p>
+<p>United Airlines is a unit of UAL Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

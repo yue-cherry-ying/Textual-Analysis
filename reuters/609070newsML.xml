@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609070" id="root" date="1997-05-23" xml:lang="en">
+<title>MALAYSIA: Malaysia palm ends up slightly on cautious trade.</title>
+<headline>Malaysia palm ends up slightly on cautious trade.</headline>
+<dateline>KUALA LUMPUR 1997-05-23</dateline>
+<text>
+<p>Malaysian palm oil prices ended the week marginally higher after being stuck in a tight range owing to a lack of market-moving news, traders said.</p>
+<p>Trade in the week ahead promises little change, save for the May 1-25 export figures by SGS Malaysia which could affect prices on Monday, said dealers.</p>
+<p>&quot;The market is waiting for news to move,&quot; said one dealer.</p>
+<p>&quot;If it breaks the 1,220-level, then it'll set a new course,&quot; added the dealer.</p>
+<p>At the close, the August futures contract closed four ringgit up at 1,216 ringgit ($486.21) a tonne.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

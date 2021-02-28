@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610494" id="root" date="1997-05-23" xml:lang="en">
+<title>AUSTRALIA: Australia hopes fire blight not virulent strain.</title>
+<headline>Australia hopes fire blight not virulent strain.</headline>
+<dateline>CANBERRA 1997-05-23</dateline>
+<text>
+<p>Australia said on Friday it hoped its first outbreak of the damaging fruit disease, fire blight, was of a non-virulent strain.</p>
+<p>Primary Industries Minister John Anderson said tests were so far inconclusive but raised hopes the strain was not virulent.</p>
+<p>&quot;The tests ... continue to throw up different results from what might have been expected from the highly virulent strains of fire blight,&quot; Anderson told reporters.</p>
+<p>The bacteria, a major apple and pear disease, was found for the first time recently on plants of the rose family in the botanical gardens at Adelaide and Melbourne.</p>
+<p>Anderson reaffirmed the outbreak had no impact on Canberra's decision to reject apple imports from neighbouring New Zealand because of the possibility they could carry fire blight.</p>
+<p>Investigations of allegations of possible sabotage by New Zealand were also continuing, he said.</p>
+<p>&quot;We will actively explore every possible pathway by which it came in,&quot; he said.</p>
+<p>Fire blight is a disease that can devastate orchards, although the fruit is not affected.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I0100206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

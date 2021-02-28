@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609020" id="root" date="1997-05-23" xml:lang="en">
+<title>BRAZIL: Brazil net dollar outflows at $28.8 mln May 22.</title>
+<headline>Brazil net dollar outflows at $28.8 mln May 22.</headline>
+<dateline>SAO PAULO 1997-05-23</dateline>
+<text>
+<p>Preliminary figures for Brazil's commercial and financial foreign exchange contracts showed a $28.8 million deficit on May 22 in the commercial forex market, according to Central Bank data suplied to banks.</p>
+<p>A banker with access to the figures said the Central Bank issued the following breakdown.</p>
+<p>DOLLAR FLOWS ON MAY 22</p>
+<p>Exports: $203.8 million</p>
+<p>Imports: $368.3 million</p>
+<p>Finanancial buy: $380 million</p>
+<p>Financial sell: $244.3 million</p>
+<p>Net deficit: $28.8 million</p>
+<p>MAY DOLLAR FLOWS UP DATE</p>
+<p>Exports: $3.883 billion</p>
+<p>Imports: $3.972 billion</p>
+<p>Financial buy: $4.950 billion</p>
+<p>Financial sell: $3.764 billion</p>
+<p>Net surplus: $1.097 billion</p>
+<p>Note: Figures rounded off.</p>
+<p>((--Alexandre Caverni, Sao Paulo newsroon, 55 11 2485418))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

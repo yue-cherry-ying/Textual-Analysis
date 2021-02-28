@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608673" id="root" date="1997-05-23" xml:lang="en">
+<title>TOGO: Zaire's Mobutu leaves Togo for Morocco.</title>
+<headline>Zaire's Mobutu leaves Togo for Morocco.</headline>
+<dateline>LOME 1997-05-23</dateline>
+<text>
+<p>Zaire's ousted president Mobutu Sese Seko left the West African state of Togo for Morocco on Friday on the presidential plane of Togolese president Gnassingbe Eyadema, officials said.</p>
+<p>Witnesses at the airport said Mobutu, who is fighting cancer, was supported on both sides by aides as he climbed onto the plane, which left at 0910 GMT.  </p>
+<p>Mobutu arrived in Lome from his jungle palace at Gbadolite in northern Zaire on Sunday night, a day after Laurent Kabila's rebels marched into the capital Kinshasa.</p>
+<p>He initially landed in Togo for a technical stopover but Togolese sources said the government had reluctantly agreed to let him stay longer because of his state of health.</p>
+<p>French Cooperation Minister Jacques Godfrain hinted on Wednesday that France might be prepared to admit Mobutu for medical treatment.</p>
+<p>Morocco said on Thursday it recognised Kabila's Democratic Republic of Congo and wished to pursue relations of brotherhood and cooperation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="TOGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOME"/>
+<dc element="dc.creator.location.country.name" value="TOGO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

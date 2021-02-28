@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610000" id="root" date="1997-05-23" xml:lang="en">
+<title>Cyprus: Mideast and African port conditions - Lloyds.</title>
+<headline>Mideast and African port conditions - Lloyds.</headline>
+<text>
+<p>Port conditions from Lloyds Shipping Intelligence Service --</p>
+<p>CYPRUS, May 20 - Limassol  - Vessels due 21/5 - containers, 2 conventional vessels, 5 passenger vessels. No delays expected. 6 container vessels discharging/loading at berth, 4 conventional vessels discharging at berth.</p>
+<p>Larnaca - vessels due 21/5 - 2 container vessels, 1 conventional vessel, no delays expected. 4 container vessels discharging/loading at berth, 1 conventional vessel discharging at berth.</p>
+<p>ISRAEL, May 20 - Haifa - Four vessels due, 1-2 days delay expected, 1 general cargo and 3 bulk discharging at berth, 3 containers, 1 tanker, 1 passenger vessel, 1 general cargo, 1 bulk waiting at anchorage to discharge, 1 tanker. 1 vessel under repair/drydock, 2 awaiting orders.</p>
+<p>Ashdod - Delays of 2-3 days. 10 general cargo discharging at berth, 2 bulk loading at berth, 2 discharging at berth, 2 containers, 2 tankers, 1 passenger vessel, 5 general cargo and 1 bulk discharging at berth, 1 container vessel, 2 awaiting orders.</p>
+<p>Eilat - One general cargo loading at berth, 1 container discharging at berth.</p>
+<p>JORDAN, May 17 - Aqaba - Three vessels loading at berth, 4 discharging at berth, 3 waiting at anchorage to load, 1 waiting at anchorage to discharge.</p>
+<p>MOZAMBIQUE, May 19 - Nacala - port working normally (first come, first served basis). No restriction on berthing and sailing during night time. Draft restriction of 9.5 at general cargo berths and 14 metres at container berths. One tugboat available.</p>
+<p>Beira - general cargo berths working normally, 24 hour berthing/sailing for vessels up to 140 metres LOA. Some restriction for larger vessels and subject to prior arrangements with port captain. Max. draft for 24 hour navigation - 7.5 metres, 2 tugs available. General access channel - 2 waverider buoys have been deployed in the approach channel. Each buoy is an approx. diameter of 1 metre with flashing orange light with flash frequency of five one-second flashes every 26 seconds.</p>
+<p>Maputo - berthing/sailing of 24 hours for vessels up to 120 metres LOA. Some restrictions for larger vessels and subject to prior arrangements with port captain. All berths fluid. Draft restriction in the channel is 9 metres less 0.5 metres plus rise of tide of the day. Max. draft for 24 hour navigation is 9 metres.</p>
+<p>NAMIBIA, May 19 - Walvis Bay - working normally.</p>
+<p>SIERRA LEONE, May 19 - Freetown - Vessels due - 1 aid cargo, 4 containers to discharge/load, 1 steel rods discharger. No delays expected, Discharging/loading at berth - 1 each wheat, rice, aid cargo, container vessel, 1 steel rods discharger at anchorage.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MOZAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="NAMIB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

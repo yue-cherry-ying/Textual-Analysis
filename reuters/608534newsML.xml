@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608534" id="root" date="1997-05-23" xml:lang="en">
+<title>UK: LIFFE sugar ends mixed, Aug closes steadier.</title>
+<headline>LIFFE sugar ends mixed, Aug closes steadier.</headline>
+<dateline>LONDON 1997-05-23</dateline>
+<text>
+<p>LIFFE sugar futures trading remained subdued during Friday evening trading, although nearby August picked up late to end steadier.</p>
+<p>August ended at $321.00 a tonne, up $0.70. Other contracts registered losses of up to $0.60, although total turnover was a paltry 561 lots.</p>
+<p>Traders said the late flip-up in August reflected some modest covering ahead of the holidays in the U.K. and U.S. on Monday.</p>
+<p>The LIFFE sugar market is closed Monday, re-opening on Tuesday May 27.</p>
+<p>--London newsroom 44 171 542 8080</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

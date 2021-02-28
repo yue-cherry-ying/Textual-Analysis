@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610126" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: PRESS DIGEST - Wall Street Journal - May 23.</title>
+<headline>PRESS DIGEST - Wall Street Journal - May 23.</headline>
+<dateline>NEW YORK 1997-05-23</dateline>
+<text>
+<p>The following stories were reported in Friday's electronic version of The Wall Street Journal:</p>
+<p>* A move to revamp banking laws is gaining momentum even though federal regulators warn against allowing banks to merge with nonfinancial companies.</p>
+<p>* General Motors Corp's Chevrolet Malibu is becoming a problem since one of the two plants that build it is involved in a strike.</p>
+<p>* U.S. West Communications Group is close to a deal to sell its Minneapolis-St. Paul cable systems to Charter Communications for $600 million.</p>
+<p>* Fidelity's Magellan fund pulled in $245.4 million in fees in the past fiscal year, representing a 33 percent drop.</p>
+<p>* The Securities and Exchange Commission is expected to issue a plan to change the way it regulates alternative stock-trading systems.</p>
+<p>* CBS President Peter Lund is expected to resign amid a corporate shakeup.</p>
+<p>* The New York Times named Bill Keller managing editor, putting him in line to possibly become the top editor later on.</p>
+<p>* The European Commission is concerned with Boeing's sole-supplier agreements with U.S. airlines, and is asking that they be scrapped to clear the company's planned merger with McDonnell Douglas.</p>
+<p>* Apple Computer has set free its Newton division, creating a separate company into an independent but wholly owned unit.</p>
+<p>* Daimler-Benz AG is threatening to withdraw from a $1 billion minivan joint venture in China over disagreements with the government.</p>
+<p>* Triarc abandoned plans to spin off its beverage and fast-food business, and instead will combine the lines with Snapple Beverage, which was recently acquired from Quaker Oats Co.</p>
+<p>* Heard on the Street: Nippon Telegraph and Telephone Corp, the world's largest phone company, has also long been saddled with one of the Earth's dumpiest stocks. But it is finally turning some heads: NTT shares are up 25 percent since April 7 amid growing optimism about its prospects in a deregulated Japanese telecoms market.</p>
+<p>* Credit Markets: Bond prices ended lower, but recovered from the day's lows on news that Federal Reserve officials switched to a neutral monetary policy stance after voting to raise interest rates in March.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

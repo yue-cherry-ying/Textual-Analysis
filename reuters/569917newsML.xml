@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569917" id="root" date="1997-05-08" xml:lang="en">
+<title>INDIA: Land dispute affects India gas output.</title>
+<headline>Land dispute affects India gas output.</headline>
+<dateline>NEW DELHI 1997-05-08</dateline>
+<text>
+<p>A dispute with local farmers has affected production at state-run Oil and Natural Gas Corp's (ONGC) oilfield in western India, but operations are expected to return to normal soon, company officials said on Thursday.</p>
+<p>An ONGC spokesman in New Delhi said the company had reached an agreement over the dispute with the Gujarat state government and the government was expected to sort out the differences with the farmers.</p>
+<p>He did not give details of the agreement, however.</p>
+<p>&quot;Slowly things will get back to normal from tomorrow, it is hoped,&quot; the spokesman said.</p>
+<p>He said agitating farmers had been blocking vehicles carrying essential items like water and food from reaching the oilfields for the past three days.</p>
+<p>The oilfields had been pumping only about four million standard cubic metres of gas per day since the blockade started, compared to the normal five million, he said.</p>
+<p>The fields also produce about two million tonnes of crude oil annually.</p>
+<p>The farmers are demanding better prices for land acquired by the company in 1995 for exploration and drilling purposes.</p>
+<p>&quot;The state government has to take some measures and advise the farmers not to take law and order in their hands,&quot; the spokesman said.</p>
+<p>He said the disruption at Gandhar could affect other firms including the National Thermal Power Corporation, the Gujarat Electricity Board and the Indian Oil Corporation</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

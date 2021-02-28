@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570634" id="root" date="1997-05-08" xml:lang="en">
+<title>ITALY: Italy Antitrust financial svcs probe ready by Nov.</title>
+<headline>Italy Antitrust financial svcs probe ready by Nov.</headline>
+<dateline>ROME 1997-05-08</dateline>
+<text>
+<p>Italy's Antitrust authority will complete an inquiry into the country's financial services sector by November, chairman Giuliano Amato said.</p>
+<p>&quot;The investigation is nearly finished and the current authority wants to complete it before its term expires (in November),&quot; Amato told a news conference after delivering the body's annual report to parliament.</p>
+<p>In the report, Amato called for initiatives to boost competition in the sector such as measures evening out fiscal treatment of risk capital and loan capital.</p>
+<p>Referring to banks in particular, &quot;the major strategic challenge&quot; they had to face up to in the near term was that of choosing a specialisation and a range of services to offer within a context of seeking greater profitability, he said.</p>
+<p>This was necessary, Amato added, because the globalisation of markets meant that already meagre profit margins would tend to get even tighter.</p>
+<p>-- Milan newroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

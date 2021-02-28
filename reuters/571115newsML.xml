@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571115" id="root" date="1997-05-08" xml:lang="en">
+<title>HONG KONG: HK asks Australia to return man for fraud charges.</title>
+<headline>HK asks Australia to return man for fraud charges.</headline>
+<dateline>HONG KONG 1997-05-08</dateline>
+<text>
+<p>The Hong Kong government said on Thursday it was seeking the extradition of a man arrested in Australia in connection with fraudulent share dealings.</p>
+<p>Australian Federal Police, accompanied by an officer from Hong Kong's Commercial Crime Bureau, arrested Ronald Tse Chu-fai, 46, in Sydney on Wednesday, the government said.</p>
+<p>Tse is the first person to be arrested after a five-year government probe into the Allied Group of Companies.</p>
+<p>The probe is believed to be the most expensive commercial investigation in Hong Kong's history, costing the government HK$46 million (US$5.95 million) and with total legal costs for all sides probably passing HK$100 million ($12.9 million), the South China Morning Post reported on Thursday.</p>
+<p>The government said it had received legal advice recommending 22 charges be laid against Tse, a former finance director and company secretary at the Allied Group.</p>
+<p>Tse left the territory in early 1994.</p>
+<p>The charges relate to allegations that a network of offshore companies, including a bank based in the Cook Islands, were used to evade Hong Kong share disclosure laws and to avoid paying for share transactions between 1990 and 1992.</p>
+<p>The Allied Group is involved in corporate management and property development.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

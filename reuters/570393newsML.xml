@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570393" id="root" date="1997-05-08" xml:lang="en">
+<title>UK: UK's Ofwat eyes possible changes to tariff basket.</title>
+<headline>UK's Ofwat eyes possible changes to tariff basket.</headline>
+<dateline>LONDON 1997-05-08</dateline>
+<text>
+<p>Britain's water industry watchdog Ofwat suggested changes to the way charges can change year-on-year in a consultation paper published on Thursday.</p>
+<p>Ofwat head Ian Byatt said that within a basket which is used to calculate tariffs, one group of customers should not be expected to subsidise others, a process known as &quot;rebalancing.&quot;</p>
+<p>He said that charges should be more directly linked to costs and said the review was &quot;a key step in the next review of price limits,&quot; due by the end of the century.</p>
+<p>Ofwat also suggested that large industrial users should be taken out of the basket calculation and that there should not be a change to separate price limits for water and for sewerage services.</p>
+<p>Ofwat also said that the difference in costs between metered and unmetered bills &quot;should be no greater than the extra costs of providing a metered supply,&quot; which it put currently at no more than 27 stg.</p>
+<p>Ofwat also suggested the possibility of introducing measures such as peak-time tariffs to ensure costs more closely matched demand.</p>
+<p>Ofwat said responses to the document should be made by July 18.</p>
+<p>-- London Newsroom +44171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

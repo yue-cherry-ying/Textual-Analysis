@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610117" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Identix in air cargo security test.</title>
+<headline>Identix in air cargo security test.</headline>
+<dateline>SUNNYVALE, California 1997-05-23</dateline>
+<text>
+<p>Identix Inc said it and several other companies will take part in a 12-month program to develop a universal air cargo airport security access system based on biometric identification and &quot;smart&quot; cards.</p>
+<p>The trial, organized by three levels of government, would be conducted at O'Hare International Airport in Chicago and evaluated on its effectiveness and speed in improving security and control.</p>
+<p>The program coordinator is Illinois-based SecurCom Inc.</p>
+<p>Chicago Department of Aviation commissioner Mary Rose Loney said the system being developed &quot;will significantly enhance the control of air cargo personnel and shipments, by granting access to the air cargo operations only to authorized personnel whose fingerprints match those in the system database.&quot;</p>
+<p>This pilot program is described by Identix as a major initiative &quot;to help defend O'Hare's cargo operations against increasingly sophisticated terrorist and criminal enterprises.&quot;</p>
+<p>SecurCom President Harry Wilkinson said the goal of the project is to profile cargo shipments and determine what security is required for individual cargo shipments.</p>
+<p>&quot;If the pilot proves successful, and there is either positive or neutral impact on delivery timeliness and efficiency, we will work in conjunction with the FAA to provide a standard for cargo security,&quot; said Wilkinson.</p>
+<p>Over 900,000 tons of commercial freight is handled at O'Hare.</p>
+<p>- Air Cargo Newsroom Tel +44 171 542 7706 Fax +5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I3302015">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

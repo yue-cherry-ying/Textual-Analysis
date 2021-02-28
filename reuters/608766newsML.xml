@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608766" id="root" date="1997-05-23" xml:lang="en">
+<title>YUGOSLAVIA: Ten hurt in Yugoslav court grenade attack.</title>
+<headline>Ten hurt in Yugoslav court grenade attack.</headline>
+<dateline>BELGRADE 1997-05-23</dateline>
+<text>
+<p>Ten people were wounded when a defendant threw a hand grenade at a woman judge in a courtroom near Belgrade, news reports said on Friday.</p>
+<p>A major tragedy was averted when the judge, Ksenija Ivkovic, dived for the hand grenade and flung it into a corner of the packed courthouse, Belgrade news agency Fonet said.</p>
+<p>&quot;Thanks to the judge's presence of mind, 10 people in the courtroom were not injured as seriously as they would (otherwise) have been,&quot; it said.</p>
+<p>The agency said two of the 10 wounded in Thursday's incident were in serious condition, while the defendant, Aleksandar Tomic, was unhurt. News reports said Tomic was a Serb refugee, but did not say whether he was from Bosnia or Croatia.</p>
+<p>The 52-year old taxi driver had another, more lethal hand grenade in his possession but failed to activate it before the police overpowered him.</p>
+<p>Serbia is awash with weapons after 1991-1995 wars in Croatia and Bosnia, and crime and homicide are on the rise while the country's economy continues to decline.</p>
+<p>Tomic was facing charges of making deadly threats against his neighbours.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

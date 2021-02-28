@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610221" id="root" date="1997-05-23" xml:lang="en">
+<title>FRANCE: Morgan Stanley ups Euro Disney rating -mkt source.</title>
+<headline>Morgan Stanley ups Euro Disney rating -mkt source.</headline>
+<dateline>PARIS 1997-05-23</dateline>
+<text>
+<p>U.S. investment firm Morgan Stanley raised its recommendation on the share of Euro Disney, the operator of the Disneyland Paris theme park, to neutral from underperform, a market source said on Friday.</p>
+<p>The source said the share price fell to 8.75 francs from 9.60 between May 13 and 22 and Morgan Stanley considers the correct valuation at nine francs.</p>
+<p>Euro Disney's stock was up 1.14 percent at 8.85 francs at 1330 GMT.</p>
+<p>-- Paris Newsroom, +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97412">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

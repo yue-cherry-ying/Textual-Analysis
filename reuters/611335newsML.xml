@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611335" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Toa Valve -6mth parent results.</title>
+<headline>Toa Valve -6mth parent results.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Six months to March 31, 1997</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  4.34		vs	    4.99</p>
+<p> Operating    loss 62    million	  vs	 prft 19 million</p>
+<p> Current	loss 79    million	  vs	  prft 2 million</p>
+<p> Net	    loss 85    million	  vs     loss 9    million</p>
+<p> EPS	     loss 5.11 yen	  vs     loss 0.59 yen</p>
+<p> Shares	     17 million	  vs	  17 million</p>
+<p> Interim div	  0.00 yen	  vs	    0.00 yen</p>
+<p>NOTE - Toa Valve Co Ltd is a valve manufacturer.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32830">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

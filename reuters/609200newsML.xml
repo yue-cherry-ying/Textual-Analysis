@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609200" id="root" date="1997-05-23" xml:lang="en">
+<title>SOUTH KOREA: Daewoo Motor in tie-up with Renault on engines.</title>
+<headline>Daewoo Motor in tie-up with Renault on engines.</headline>
+<dateline>SEOUL 1997-05-23</dateline>
+<text>
+<p>South Korean carmaker Daewoo Motor Co said on Friday it had formed a technical tie-up with France's Renault SA  to produce about 500,000 engines for four Renault models per year from the middle of 1999.  </p>
+<p>The technical tie-up contract was signed in Paris between Kim Woo-choong, founding chairman of the Daewoo Group, and Renault chairman Louis Schweizer, a Daewoo statement said.</p>
+<p>It said Daewoo plans to produce the engines in its domestic and overseas plants and build them into cars now being produced at its overseas factories.</p>
+<p>Daewoo also agreed to buy 200,000 diesel engines from Renault between late 1998 and 2002, and plans to build them into cars being produced at Daewoo's overseas factories, it said.</p>
+<p>The signing of the contract was also announced in Paris overnight.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

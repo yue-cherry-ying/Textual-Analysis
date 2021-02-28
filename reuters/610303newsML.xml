@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610303" id="root" date="1997-05-23" xml:lang="en">
+<title>FRANCE: Cr Lyonnais certificates in rally.</title>
+<headline>Cr Lyonnais certificates in rally.</headline>
+<dateline>PARIS 1997-05-23</dateline>
+<text>
+<p>Certificates in Credit Lyonnais jumped on Friday after the state-owned bank said first-quarter pre-exceptional results rose and Prime Minister Alain Juppe said the bank's privatisation could be accelerated, according to brokers.</p>
+<p>Its certificates were 4.74 percent higher at 232 francs at 1025 GMT, outperforming the blue-chip CAC-40 index which was up 0.7 percent.</p>
+<p>The certificates have surged more than 70 percent since the start of the year on the bank's financial recovery and pending sale, which Juppe said could take place this year instead of 1998 or 1999 as planned.</p>
+<p>The newspaper Le Figaro said on Friday that U.S. investment groups and British lending institutions were interested in the privatisation and might be willing to contribute to a recapitalisation, avoiding the need for another state bailout.</p>
+<p>Credit Lyonnais issued a statement on Thursday saying its first-quarter profit excluding exceptionals and tax was significantly higher than the year-earlier result.</p>
+<p>-- Paris Newsroom, +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

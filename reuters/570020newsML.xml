@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570020" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Capstone Pharmacy Services Q1 shr rises.</title>
+<headline>Capstone Pharmacy Services Q1 shr rises.</headline>
+<dateline>IRVING, Texas 1997-05-08</dateline>
+<text>
+<p>Three Months Ended</p>
+<p>					03/31/97		 03/31/96</p>
+<p> Net revenues		   $69,023,558	   $22,027,865</p>
+<p> Cost of sales		   38,690,339	    13,575,576</p>
+<p>  Gross profit		   30,333,219	     8,452,299</p>
+<p>Operating expenses:</p>
+<p>Selling, general and</p>
+<p>   administrative expenses   22,925,269	     7,277,293</p>
+<p>Depreciation and</p>
+<p>  amortization		    2,357,234		 569,057</p>
+<p>   Total operating expenses  25,282,503	     7,846,350</p>
+<p> Income from operations	 5,050,716		 605,949</p>
+<p>Non-operating expenses</p>
+<p>(income): Interest expense,</p>
+<p>    net			     1,155,359		 263,188</p>
+<p> Other income (expense), net	   --		  46,528</p>
+<p>Total non-operating expense</p>
+<p>   (income), net		  1,155,359		 216,660</p>
+<p>Income from operations</p>
+<p>   before income taxes	  3,895,357		 389,289</p>
+<p> Provision for income taxes   1,441,282		 103,000</p>
+<p> Net income			 2,454,075		 286,289</p>
+<p>Earnings per share data:</p>
+<p>Primary:</p>
+<p>  Continued operations		 0.07		    0.02</p>
+<p>  New income			     0.07		    0.02</p>
+<p>Fully diluted:</p>
+<p>  Continued operations		 0.07		    0.02</p>
+<p>  New income			     0.07		    0.02</p>
+<p>Weighted average number of common shares</p>
+<p>outstanding:</p>
+<p> Primary			   36,683,917	    16,592,126</p>
+<p> Fully diluted		   36,915,693	    16,692,186</p>
+<p>NOTE: Company's full name is Capstone Pharmacy Services Inc.</p>
+<p>Improvements in the company's gross margin attributed to renegotiated purchasing agreements entered into by the company as well as its higer percentage of specialty services.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVING, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610330" id="root" date="1997-05-23" xml:lang="en">
+<title>SPAIN: Spain Treasury to expand range of debt instruments.</title>
+<headline>Spain Treasury to expand range of debt instruments.</headline>
+<dateline>SANTANDER, Spain 1997-05-23</dateline>
+<text>
+<p>The Spanish Treasury is working to expand its offering of debt instruments, Treasury Director Jaime Caruana said on Friday.</p>
+<p>&quot;We are working on a larger product spectrum, on having issues with substantial liquidity. We would like to be a benchmark,&quot; Caruana said at an economic seminar.</p>
+<p>The Treasury's plan to launch strippable bonds, set for July, is an example of this work. Caruana repeated that issues of strips are not subject to withholding tax for legal entities.</p>
+<p>He justified this fiscal treatment, which critics say discriminates against private fixed-income assets, in the desire to stimulate the strips market.</p>
+<p>&quot;It is absolutely necessary, to get the strips going, to eliminate the withholding tax,&quot; Caruana told journalists.</p>
+<p>The Treasury is also working on a redenomination of public debt in the framework of preparations for the launch of European Economic and Monetary Union. Caruana said work was proceding rapidly in order to have the redenomination ready at the start of 1999.</p>
+<p>This redenomination also implies a change in nominal values at a study of the process of exchange.</p>
+<p>--Madrid Newsroom +34 1 585 2167</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTANDER, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

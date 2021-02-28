@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570884" id="root" date="1997-05-08" xml:lang="en">
+<title>AUSTRALIA: RTRS-RBA's Macfarlane sees 4 pct growth in 1997.</title>
+<headline>RTRS-RBA's Macfarlane sees 4 pct growth in 1997.</headline>
+<dateline>SYDNEY 1997-05-08</dateline>
+<text>
+<p>Reserve Bank of Australia Governor Ian Macfarlane said on Thursday the bank expected economic growth to accelerate to something like four percent through 1997 from about three percent in calendar 1996.</p>
+<p>&quot;We see something like four percent through 1997, up from the three percent we saw through 1996,&quot; Macfarlane told a federal government committee in Sydney.  </p>
+<p>The Reserve Bank said in its semi-annual monetary policy statement, released earlier on Thursday, that its current monetary policy stance was helping economic growth, which was showing signs of picking up.</p>
+<p>The RBA said also that inflation was likely to remain low in the near-term but that recent wages data suggested that wages growth was becoming uncomfortably high.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571110" id="root" date="1997-05-08" xml:lang="en">
+<title>SINGAPORE: India tenders to buy aviation gasoline, kerosene.</title>
+<headline>India tenders to buy aviation gasoline, kerosene.</headline>
+<dateline>SINGAPORE 1997-05-08</dateline>
+<text>
+<p>State-owned Indian Oil Corp (IOC) has issued a tender to buy 1,800 tonnes aviation gasoline and 18,000 tonnes superior kerosene, industry sources said on Thursday.</p>
+<p>Offers are to be made on a free-on-board basis (fob) for cargoes to be lifted not further than the Mediterranean which must be able to arrive at the Indian east coast port of Budge Budge on July 10-15.</p>
+<p>The tender closes on May 14 and offers are valid to May 15.</p>
+<p>In its previous tender, IOC bought aviation gasoline at around $1.85 over Mediterranean gasoline quotes on a fob basis and kerosene and $5.20 premium to Med spot prices fob.</p>
+<p>-- Singapore Newsroom (+65-870 3093)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

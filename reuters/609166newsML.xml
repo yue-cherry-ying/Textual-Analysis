@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609166" id="root" date="1997-05-23" xml:lang="en">
+<title>HONG KONG: Beijing Ent not cashing all small IPO cheques.</title>
+<headline>Beijing Ent not cashing all small IPO cheques.</headline>
+<dateline>HONG KONG 1997-05-23</dateline>
+<text>
+<p>Beijing Enterprises Holdings Ltd said on Friday it will not cash cheques or cashiers orders from applicants for 6,000 shares or less in its initial public offering (IPO) other than those successfully selected by ballot.</p>
+<p>Remittances of successful applicants for 2,000 to 6,000 shares, including any initially unsuccessful applications drawn as reserve applications, will be processed for clearing, the company said in a statement.</p>
+<p>Remittances of wholly unsuccessful applications are expected to be returned to applicants uncleared, it said.</p>
+<p>However, all cheques or cashiers orders in respect of applications for 8,000 or more shares will be presented for clearance, it said.</p>
+<p>Beijing Enterprises, controlled by the Beijing municipal government, offered 150 million shares at HK$12.48 each in a global IPO, of which 10 percent was offered in Hong Kong.</p>
+<p>The offer is expected to be heavily oversubscribed and there is concern that the huge demand will lock up a large amount of money in the banking system.</p>
+<p>Ballots are usually drawn for Hong Kong IPOs to decide successful applicants for shares in case of oversubscription.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6590</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

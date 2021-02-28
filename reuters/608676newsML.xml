@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608676" id="root" date="1997-05-23" xml:lang="en">
+<title>NAMIBIA: PRESS DIGEST - Namibia - May 23.</title>
+<headline>PRESS DIGEST - Namibia - May 23.</headline>
+<dateline>WINDHOEK 1997-05-23</dateline>
+<text>
+<p>These are the leading stories in the Namibian press on Friday.</p>
+<p>Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>- - - -</p>
+<p>DIE ALLGEMEINE ZEITUNG</p>
+<p>- Economic analyst and stockbroker Johan Rossouw said Namibia was directly affected by events in South Africa and therefore interest rates and inflation were at a peak, but he predicted a lowering in both areas. He forecast a growth of two percent in Namibia's GDP over the next 12 months.</p>
+<p>- The leader of a delegation fo German parliamentarians visiting Namibia said he would encourage German investment in the planned railway line between Tsumeb to Angola.</p>
+<p>- - - -</p>
+<p>DIE REPUBLIKEIN</p>
+<p>- The decentralisation of certain powers and functions from central government to regional and local authorities was officially launched with the announcement of a trust fund for regional development.</p>
+<p>-- Windhoek Newsroom +2646 1 245-260</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NAMIB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINDHOEK"/>
+<dc element="dc.creator.location.country.name" value="NAMIBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

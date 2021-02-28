@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609365" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: New Mexico grandmother &quot;holds up&quot; bank by mistake.</title>
+<headline>New Mexico grandmother &quot;holds up&quot; bank by mistake.</headline>
+<dateline>ALBUQUERQUE, N.M. 1997-05-23</dateline>
+<text>
+<p>A New Mexico grandmother accidentally held up a bank when she handed in a deposit slip that a prankster had scrawled a holdup message on the back of, police said on Friday.</p>
+<p>The 61-year-old woman and her daughter made the deposit at the drive-up window of an Albuquerque bank and were waiting for a receipt on Thursday when police cars surrounded them and officers ordered them out of their vehicle at gunpoint.</p>
+<p>&quot;We were just stunned with all these guns pointed at us,&quot; the woman, who asked not to be identified, told the Albuquerque Journal. &quot;They cuffed me, and they cuffed (my daughter). And we stood out there like fools.&quot;</p>
+<p>She said the robbery note read something like, &quot;This is a holdup. I have a bomb.&quot;</p>
+<p>FBI Special Agent Doug Beldon said investigators believe a prankster wrote the note on the deposit slip and left it in a pile inside the bank, where the woman picked it up and used it, unaware of what was written on the back.</p>
+<p>&quot;This was a first for me,&quot; said Beldon, a 22-year FBI veteran. &quot;Bank robbers normally make so-called 'withdrawals' not 'deposits'.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALBUQUERQUE, N.M."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

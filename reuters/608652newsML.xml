@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608652" id="root" date="1997-05-23" xml:lang="en">
+<title>ZAIRE: Opposition marches against new Congo government.</title>
+<headline>Opposition marches against new Congo government.</headline>
+<dateline>KINSHASA 1997-05-23</dateline>
+<text>
+<p>Militant supporters of opposition leader Etienne Tshisekedi took to the streets of Kinshasa on Friday to protest against his exclusion from the new government of the Democratic Republic of Congo, witnesses said.</p>
+<p>About 300 to 400 chanting Tshisekedi supporters also called for the departure of Rwandan and other foreign soldiers in Laurent Kabila's Alliance forces who captured Kinshasa last weekend.  </p>
+<p>A Reuters journalist followed the peaceful march from Tshisekedi's house in Limete into the city centre, past the U.S., French and Belgian embassies.</p>
+<p>The demonstrators chanted slogans calling Kabila a dictator. No violent incidents were reported, even when the marches filed past Alliance patrols.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINSHASA"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

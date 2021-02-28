@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608265" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Tubby's plans expansion into Canada.</title>
+<headline>Tubby's plans expansion into Canada.</headline>
+<dateline>STERLING HEIGHTS, Mich. 1997-05-23</dateline>
+<text>
+<p>Tubby's Sub Shops Inc said Friday it will expand into Canada, with plans to open 30 Canadian stores over the next five years.</p>
+<p>The specialty sandwich chain said its first Canadian store will open next month in Edmonton, followed by stores in Calgary and Vancouver.</p>
+<p>Tubby's added that it is currently seeking additional development agents in connection with its plans for stores in other Canadian cities, including Toronto and Montreal.</p>
+<p>Established in 1968, Tubby's has 80 sub shops located in Michigan, Ohio, Arizona, and Pennsylvania.</p>
+<p>Tubby's is also the parent company for the Stuff Yer Face casual dining restaurants located in New Jersey.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STERLING HEIGHTS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

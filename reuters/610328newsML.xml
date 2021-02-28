@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610328" id="root" date="1997-05-23" xml:lang="en">
+<title>GERMANY: Dresdner -asset management business crucial.</title>
+<headline>Dresdner -asset management business crucial.</headline>
+<dateline>FRANKFURT 1997-05-23</dateline>
+<text>
+<p>Dresdner Bank AG, Germany's second largest commercial bank, said on Friday that institutional asset management was one of the most profitable and promising business areas in international banking.</p>
+<p>Chairman Juergen Sarrazin told the bank's annual shareholder meeting that he expected the pace of growth in this segment to continue and even accelerate in some areas.</p>
+<p>&quot;The pension funds segment is of particular significance. The urgently needed restructuring of the old age provision system, especially in Europe, leaves one to expect above average growth,&quot; he said.</p>
+<p>Sarrazin said the integration of its international asset management units was almost complete.</p>
+<p>Dresdner has 330 billion marks in assets under management in Europe, including private and institutional assets.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

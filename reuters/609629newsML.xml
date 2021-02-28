@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609629" id="root" date="1997-05-23" xml:lang="en">
+<title>SRI LANKA: China, Sri Lanka renew Hong Kong visa exemption.</title>
+<headline>China, Sri Lanka renew Hong Kong visa exemption.</headline>
+<dateline>COLOMBO 1997-05-23</dateline>
+<text>
+<p>China and Sri Lanka on Friday signed an agreement to exempt Sri Lankans and Hong Kong passport holders from visa requirements after the British colony's handover to China.</p>
+<p>The Foreign Affairs Ministry said in a statement that the agreement will continue the current mutual exemption from visa requirements for Sri Lankans and Hong Kong passport holders.</p>
+<p>Hong Kong reverts to Chinese sovereignty on July 1 after more than 150 years of British rule. It will become a Special Administrative Region of China and have its own passport.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

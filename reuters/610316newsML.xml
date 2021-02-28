@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610316" id="root" date="1997-05-23" xml:lang="en">
+<title>SWEDEN: Handelsbanken regroups mortgage operations.</title>
+<headline>Handelsbanken regroups mortgage operations.</headline>
+<dateline>STOCKHOLM 1997-05-23</dateline>
+<text>
+<p>Swedish commercial bank Handelsbanken said on Friday it would coordinate its mortgage funding in a special unit.</p>
+<p>&quot;Svenska Handelsbanken intends to co-ordinate its mortgage operations in a sub-group in which Stadshypotek constitutes the parent company and Handelsbanken Hypotek a subsidiary,&quot; Handelsbanken said in a statement.</p>
+<p>The change was conditional on approval by Sweden's Financial Supervisory Authority, it said.</p>
+<p>It said most future funding for the mortgage group on the Swedish market would be made in the name of Stadshypotek.</p>
+<p>&quot;Therefore there will be no new funding made in the name of Handelsbanken Hypotek,&quot; the bank said.</p>
+<p>New funding would thus be raised through further issues of existing Stadshypotek bonds and through two new bond loans.</p>
+<p>Handelsbanken bought mortgage lender Stadshypotek earlier this year.</p>
+<p>-- Abigail Schmelz, Stockholm newsroom +46-8-700-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

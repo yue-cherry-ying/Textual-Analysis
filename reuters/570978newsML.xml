@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570978" id="root" date="1997-05-08" xml:lang="en">
+<title>PHILIPPINES: Philex says March sales reach 390 mln pesos.</title>
+<headline>Philex says March sales reach 390 mln pesos.</headline>
+<dateline>MANILA 1997-05-08</dateline>
+<text>
+<p>Philex Mining Corp said on Thursday it sold a total of 390 million pesos worth of copper concentrates, gold and silver in March.</p>
+<p>The mining company told the Philippine Stock Exchange that it shipped out a total of 10,834 tonnes of copper concentrates from its southern Philippine mines.</p>
+<p>It also sold 2,800.52 ounces of gold and 180.11 ounces of silver during the month.</p>
+<p>Its subsidiary Philex Gold Philippines Inc, which operates a gold mine in the central Philippines, shipped out 7,620 ounces of gold and 3,830 ounces of silver during the month.</p>
+<p>The company did not given comparative figures.</p>
+<p>-- MANILA NEWSROOM (63 2) 841-8938 Fax 817-6267</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

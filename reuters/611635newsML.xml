@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611635" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Shohkoh Fund shares ask-only on share issue report.</title>
+<headline>Shohkoh Fund shares ask-only on share issue report.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Shares of Shohkoh Fund &amp; Co Ltd were ask-only on Friday afternoon on a media report that it is considering a new share offer to the public worth about 50 billion yen, dealers said.</p>
+<p>At 0414 GMT. Shohkoh was ask-only at 30,700 yen.</p>
+<p>Sell orders exceeded buy orders by 52,000 shares.</p>
+<p>A spokesman for Shohkoh Fund said the the company was considering a new share offer, but declined to comment on the report.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

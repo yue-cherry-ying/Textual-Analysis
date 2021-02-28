@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571130" id="root" date="1997-05-08" xml:lang="en">
+<title>JAPAN: Showa sees 97/98 current profit up 33 pct.</title>
+<headline>Showa sees 97/98 current profit up 33 pct.</headline>
+<dateline>TOKYO 1997-05-08</dateline>
+<text>
+<p>Food processing firm Showa Sangyo Co Ltd said on Thursday it expected its parent current profit to rise 33 percent to two billion yen in the year to March 31, 1998, after falling an estimated 17 percent in 1996/97.</p>
+<p>Showa said its current profit would by buoyed in fiscal 1997/98 by an expected 500 million yen decline in depreciation costs, a company spokesman said.</p>
+<p>He said that the company's parent current profit for 1996/97 would be about 1.5 billion yen, down 17 percent from the actual parent current profit for 1995/96.</p>
+<p>&quot;Prices of soybeans, rapeseed and corn hit record highs in Chicago last summer and product prices were not able to catch up,&quot; he said.</p>
+<p>Such market conditions are expected to continue through 1997/98, the spokesman said.</p>
+<p>He added that the sharp fall of the yen against the dollar in late December and January affected prices as well.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

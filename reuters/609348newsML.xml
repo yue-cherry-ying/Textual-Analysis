@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609348" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Bill to sanction China offered in Senate.</title>
+<headline>Bill to sanction China offered in Senate.</headline>
+<dateline>WASHINGTON 1997-05-23</dateline>
+<text>
+<p>A bill to ban U.S. subsidies to China and limit Chinese government officials' access in the United States was introduced on Friday in the Senate.</p>
+<p>&quot;The goal of these sanctions will be to show our disapproval of the actions of the Chinese government, while at the same time encouraging worthwhile economic and cultural exchanges that can lead to positive change in China,&quot; said the bill's sponsor, Sen. Spencer Abraham, a Michigan Republican.</p>
+<p>The bill would require the United States to vote against all loans to China from multilaterial development banks such as the World Bank, and reduce U.S. contributions to those lenders by the loan commitment to China in the coming year.</p>
+<p>It also would require the White House to urge other nations to adopt similar measures.</p>
+<p>It would bar for a year China North Industries Group (NORINCO) and China Poly Group (POLY) from exporting to the United States or having a physical presence in Washington, and would require the government to publish an annual list of companies owned in part or fully by the People's Liberation Army of China who export or have U.S. offices.</p>
+<p>U.S. visas would be prohibited for officials involved in China's directives on religious practices and family planning, and to those involved with the massacre of Chinese students at Tiananmen Square.</p>
+<p>The bill also called for doubling funding for student, cultural and legislative exchange programmes with China, for Radio Free Asia and for the National Endowment for Democracy programme in China.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

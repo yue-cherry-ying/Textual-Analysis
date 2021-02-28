@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610358" id="root" date="1997-05-23" xml:lang="en">
+<title>SWITZERLAND: US pledges to implement WTO gas ruling on time.</title>
+<headline>US pledges to implement WTO gas ruling on time.</headline>
+<dateline>GENEVA 1997-05-23</dateline>
+<text>
+<p>The United States pledged on Friday to comply on time with a World Trade Organisation (WTO) dispute report which found it discriminated against imports of conventional and reformulated gasoline, trade envoys said.</p>
+<p>Andrew Stoler, deputy head of the U.S. trade delegation, told the WTO's Dispute Settlement Body he was confident that the recommended changes to the Clean Air Act would be in place by August 20.</p>
+<p>Stoler said countries should make their suggestions known by June 19 to the Environmental Protection Agency (EPA).</p>
+<p>Brazil welcomed Washington's intention to comply, but questioned whether it would meet the deadline, envoys said.</p>
+<p>Rod Abbott, the EU ambassador to the WTO, expressed concern that one aspect of the proposed U.S. changes did not seem to comply with the legal requirements of WTO's ruling, they added.</p>
+<p>Stoler promised to report the EU's concerns to Washington.</p>
+<p>Brazil and Venezuela brought the case in 1995, the first to go through the full WTO dispute settlement procedure of the WTO.</p>
+<p>They argued that EPA regulations introduced at the end of 1993 ran against free trade rules by setting stricter standards for imported gasoline than for the U.S. domestic product.</p>
+<p>Washington had argued it was justified by provisions in the General Agreement on Tariffs and Trade allowing the rules to be waived if a member felt its own environmental safety were under threat. A WTO dispute panel ruled in favour of the two Latin American countries and an appeal body backed it up a year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

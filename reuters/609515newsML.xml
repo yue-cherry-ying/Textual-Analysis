@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609515" id="root" date="1997-05-23" xml:lang="en">
+<title>ITALY: Italy condemns Turkey's Iraq incursion.</title>
+<headline>Italy condemns Turkey's Iraq incursion.</headline>
+<dateline>ROME 1997-05-23</dateline>
+<text>
+<p>Italy has condemned NATO ally Turkey's anti-guerrilla drive into northern Iraq and urged it to withdraw its forces quickly.</p>
+<p>&quot;Italy...appeals to the Ankara government not to put the lives of defenceless and innocent civilians at risk and to seek to withdraw its forces to within its national borders as soon as possible,&quot; the Italian Foreign Ministry said in a statement on Friday .</p>
+<p>It noted Ankara's explanation that it needs to counter terrorist threats from Kurdish separatists, but said: &quot;Given the extremely fragile and precarious atmosphere in the region, any move or initiative of the type taken by Turkish military forces cannot but be condemned.&quot;</p>
+<p>Turkey last week sent more than 10,000 troops into northern Iraq to pursue Kurdish PKK rebels who use the area as a base for raids into southeast Turkey.</p>
+<p>Iraqi Kurdish officials have say Turkish troops have pushed 200 km (125 miles) into Iraq, much further than past incursions, and are digging in. Witnesses saw more troops going in on Friday.</p>
+<p>France has also voiced &quot;acute concern&quot; and urged Turkey to withdraw quickly.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

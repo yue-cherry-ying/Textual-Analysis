@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608898" id="root" date="1997-05-23" xml:lang="en">
+<title>RUSSIA: Russia govt beats parliament on soccer field.</title>
+<headline>Russia govt beats parliament on soccer field.</headline>
+<dateline>MOSCOW 1997-05-23</dateline>
+<text>
+<p>Russia's government, often at loggerheads with the communist-dominated parliament, has scored a victory over the legislature not in the political arena but on the soccer pitch.</p>
+<p>On the eve of a crucial vote in the State Duma lower house of parliament on the cabinet's planned spending cuts, the government soccer team beat parliament's squad on Thursday night 2-0, Interfax news agency said.</p>
+<p>Interfax did not say which ministers scored and gave no team line-up but it quoted one ministerial team member as joking that the fate of the government's spending cuts had rested on the outcome of the match.</p>
+<p>The Duma is angry about the proposed cuts, which will slash government spending by a fifth following a big shortfall in tax revenues. The vote is expected to be held later on Friday.</p>
+<p>The Russian government, President Boris Yeltsin's administration, the parliament and the Moscow mayor's office often hold soccer, tennis and volleyball matches.</p>
+<p>Yeltsin, himself a keen tennis player, had to abstain from this year's Grand Hat tennis tournament, where the winner plays the president, as he was recovering from a heart bypass operation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

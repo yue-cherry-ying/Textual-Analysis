@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571240" id="root" date="1997-05-08" xml:lang="en">
+<title>ITALY: Italian retail sales rose 1.6 pct in Jan yr/yr.</title>
+<headline>Italian retail sales rose 1.6 pct in Jan yr/yr.</headline>
+<dateline>ROME 1997-05-08</dateline>
+<text>
+<p>Retail sales of medium and large firms in Italy rose 1.6 percent in January 1997 compared with a year earlier, according to calculations with a new base of 1995=100, national statistics institute ISTAT said.</p>
+<p>The previous base was 1990=100.</p>
+<p>Istat said the new retail sales index was 91.7 against 90.3 in the same year in 1996.</p>
+<p>Istat said the data referred to the current value of sales and therefore showed the trend of quantity as well as price.</p>
+<p>-- Rome newsroom +396 678 2501</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

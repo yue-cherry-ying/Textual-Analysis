@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569948" id="root" date="1997-05-08" xml:lang="en">
+<title>SRI LANKA: Mitsui in 60 MW Sri Lanka power plant deal.</title>
+<headline>Mitsui in 60 MW Sri Lanka power plant deal.</headline>
+<dateline>COLOMBO 1997-05-08</dateline>
+<text>
+<p>Mitsui Engineering &amp; Shipbuilding Company Ltd. of Japan signed an agreement with the Sri Lankan government on Thursday to build and operate a 60-megawatt barge-mounted power plant, the Board of Investment (BOI) said.</p>
+<p>A letter of intent was signed by a Mitsui official and Sri Lankan government officials to construct the plant on a build, own, operate (BOO) basis, a BOI statement said.</p>
+<p>It will be connected to the national grid through a sub station at Kotugoda in suburban Colombo, the statement said.</p>
+<p>The letter of intent requires Mitsui to achieve several milestones, including compiling a detailed feasibility study, environmental clearance, commitment from financiers and signing a memorandum of understanding, within 180 days, it added.</p>
+<p>Sri Lanka, which suffered crippling power cuts due to a drought last year, plans to reduce its dependence on rain-dependant hydroelectric power plants by increasing thermal electricity generation.</p>
+<p>The Indian Ocean island's dependence on hydropower is expected to be slashed to 70 percent from 83 percent by next month when a 115-megawatt gas turbine and a 40- megawatt diesel plant are commissioned.</p>
+<p>The state power utility Ceylon Electricity Board (CEB) says it plans to further reduce hydropower to 57 percent of total capacity by building more thermal power plants.</p>
+<p>The CEB also has plans to construct a 300 megawatt coal-fired power plant in the northwest, to be commissioned by the year 2000.</p>
+<p>The island now has a permanent installed capacity of 1,135 megawatts of hydroelectric power and 250 megawatts of thermal power.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

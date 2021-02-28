@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610016" id="root" date="1997-05-23" xml:lang="en">
+<title>TURKEY: Police, students clash at Istanbul protest.</title>
+<headline>Police, students clash at Istanbul protest.</headline>
+<dateline>ISTANBUL 1997-05-23</dateline>
+<text>
+<p>Turkish police clashed with students on a protest march in Istanbul on Friday and detained 150 people, the state-run Anatolian news agency said.</p>
+<p>Private NTV television showed pictures of several dozen police beating students with batons, on one occasion piling some of them up on a street corner and hitting and kicking them en masse. Some students, nursing wounds, could be seen running away as others were collected up to be detained.</p>
+<p>NTV said the students were demonstrating against an incident on Thursday when police fired guns during a clash between rightist and leftist students.</p>
+<p>Anatolian said police intervened in the march by Istanbul university students, detaining 150 people. The detainees were taken to be questioned by anti-terror police.</p>
+<p>The marginal leftist Labour Party said in a statement that the police was siding with rightist students in the fighting.</p>
+<p>&quot;There is no rightist-leftist fighting in universities, just fascist attacks,&quot; the statement said.</p>
+<p>&quot;And the police are acting like an organ of the MHP (the far-right Nationalist Action Party).&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

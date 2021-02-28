@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610339" id="root" date="1997-05-23" xml:lang="en">
+<title>GERMANY: Two German soldiers killed in accident in Bosnia.</title>
+<headline>Two German soldiers killed in accident in Bosnia.</headline>
+<dateline>BONN 1997-05-23</dateline>
+<text>
+<p>Two German soldiers taking part in the NATO-led peacekeeping force in Bosnia were killed in an accident on Friday at a German camp in Rajlovac near Sarajevo, the German Defence Ministry said.</p>
+<p>A spokesman said two soldiers were killed and a third seriously injured when a 20-millimetre cannon mounted on a patrol vehicle fired off five or six shots and hit a transport vehicle parked in front of it. He said it was not yet known why the shots were fired.  </p>
+<p>About 3,300 German troops are based in Bosnia taking part in the NATO-led Stabilisation Force (SFOR). Some 31,000 troops in the NATO alliance and other countries are policing a Bosnian peace agreement in an 18-month mission due to expire this year.</p>
+<p>The deployment of a 2,000-strong contingent of combat troops from Germany marked the first deployment abroad of German troops from combat formations since World War Two.</p>
+<p>Equipped with armoured personnel carriers and reconnaissance vehicles, the soldiers are drawn from a Franco-German brigade in Germany and are working under French command in the southwest near the town of Mostar.</p>
+<p>Germany has had few casualties in Bosnia. A 45-year-old soldier was found dead in his tent on May 15, believed to have died from natural causes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

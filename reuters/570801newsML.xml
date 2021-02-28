@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570801" id="root" date="1997-05-08" xml:lang="en">
+<title>AUSTRALIA: RTRS-Bank of Scotland raises BankWest stake.</title>
+<headline>RTRS-Bank of Scotland raises BankWest stake.</headline>
+<dateline>PERTH 1997-05-08</dateline>
+<text>
+<p>Bank of Scotland's Scottish Western Australian Holdings Pty Ltd said it acquired a further 7.08 million shares in Bank of Western Australia Ltd on Thursday for a total cost of A$18.35 million to increase its stake in BankWest to 53.05 percent from 51.47 percent.  </p>
+<p>Bank of Scotland said the acquisition of the shares confirmed its commitment to BankWest and followed last week's announcement of BankWest's intention to introduce employee and executive share schemes.</p>
+<p>The purchase would help to ensure Bank of Scotland maintained its majority shareholding in BankWest following any issue of shares under these schemes, it said.</p>
+<p>It said the purchases were made within the &quot;creep&quot; provisions of Australian corporate law.  </p>
+<p>These allow one company to acquire an additional three percent of another company every six months once its shareholding passes the normal takeover threshold of 20 percent.</p>
+<p>BankWest shares closed five cents lower at A$2.55 on Thursday.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERTH"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

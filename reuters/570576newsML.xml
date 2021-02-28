@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570576" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: PNC Bank in talks to buy Oppenheimer Co-WSJ.</title>
+<headline>PNC Bank in talks to buy Oppenheimer Co-WSJ.</headline>
+<dateline>NEW YORK 1997-05-08</dateline>
+<text>
+<p>New York securities firm Oppenheimer &amp; Co is in talks to be acquired by PNC Bank Corp for as much as $500 million in cash, stock and options, the Wall Street Journal said in Thursday's electronic edition.</p>
+<p>According to people familiar with the situation, a deal between Oppenheimer and PNC could be disclosed within a couple of weeks, although there was no formal pact and talks could break down at any time, the Journal said.</p>
+<p>The newspaper also said Fleet Financial Group was interested in Oppenheimer and planned to review the firm's books in the next few weeks, according to a person familiar with the matter.</p>
+<p>Oppenheimer and PNC were quoted as declining to comment, as was Oppenheimer banker Goldman, Sachs &amp; Co.</p>
+<p>Some Oppenheimer executives expected the firm to announce a sale when senior management met managing directors in a meeting previously-scheduled for May 20, the Journal said.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610510" id="root" date="1997-05-23" xml:lang="en">
+<title>AUSTRALIA: AWB Report-Stockfeed demand keeps wheat firm.</title>
+<headline>AWB Report-Stockfeed demand keeps wheat firm.</headline>
+<dateline>SYDNEY 1997-05-23</dateline>
+<text>
+<p>The Australian market for wheat, barley and triticale firmed this week following continued demand from Victorian dairies for feed stocks, the Australian Wheat Board (AWB) said in its weeekly grain market report.</p>
+<p>Reasonable levels of grain were still held on farm, it said.</p>
+<p>Some sales from New South Wales (NSW) were not enough to dampen the market, which may be waiting for the new financial year, it said.</p>
+<p>NSW high protein milling wheat could soften as a result of held stocks and a lack of domestic milling demand, it said.  </p>
+<p>Over the week, the sorghum price fell to A$136.00 a tonne from A$143.00 cash to the Liverpool Plains area, while new crop canola fell to A$303.00 from A$309.00 a tonne delivered Port Melbourne.</p>
+<p>	 Wheat Shipping:</p>
+<p>		  Latest Week     Year to Date     Previous Year</p>
+<p>    (tonnes)  185,152	   13,659,740	  9,400,161</p>
+<p>NOTE: Shipping year starts October 1.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

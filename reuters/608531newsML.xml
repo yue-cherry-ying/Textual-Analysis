@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608531" id="root" date="1997-05-23" xml:lang="en">
+<title>UK: NWE naphtha ends flat in quiet trade.</title>
+<headline>NWE naphtha ends flat in quiet trade.</headline>
+<dateline>LONDON 1997-05-23</dateline>
+<text>
+<p>NWE naphtha was flat to slightly weaker on Friday in a dull pre-weekend market, traders said.</p>
+<p>Swaps were assessed around the $192/$193 level for June, with July put $1.0 above there.</p>
+<p>Traders said there was little activity on the physical front. The last deal heard was a 15-20,000 pipeline spec cargo which traded late on Thursday at $192.50 cif NWE.</p>
+<p>Light Virgin Naphtha cargo prices were pegged around high quotes +$2.75-$3.0, in line with a cargo done out of Immingham on Thursday.</p>
+<p>There was talk that a northwest European trader was stockpiling cargoes. Traders said it was not immediately clear whether the player intended to squeeze or pressure the market lower.</p>
+<p>-- London Newsroom, +44 171 542 7714</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

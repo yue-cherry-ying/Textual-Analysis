@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610148" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: U.S. Senate bill encourages prosecution of diplomats.</title>
+<headline>U.S. Senate bill encourages prosecution of diplomats.</headline>
+<dateline>WASHINGTON 1997-05-22</dateline>
+<text>
+<p>U.S. Sen. Paul Coverdell, a Georgia Republican, said he introduced legislation in the Senate on Thursday that would mandate a study of encouraging foreign countries to punish their own diplomats for crimes committed in the United States.</p>
+<p>The bill, introduced in the U.S. House of Representatives by Republican Reps. David Dreier of California and John Duncan of Texas, was spurred by the well-publicised case earlier this year of diplomat Georgui Makharadze from the former Soviet republic of Georgia, who was involved in a five-car crash which killed a young girl.</p>
+<p>In a rare move, the former Soviet state waived Makharadze's diplomatic immunity and he is due to stand trial in July on involuntary manslaughter and other charges. However, the case sparked sharp criticism of diplomatic immunity.</p>
+<p>The new legislation would direct the State Department to study the feasibility of a U.S. effort to encourage other governments to hold their own diplomats accountable for their actions abroad by prosecuting them in their own courts.</p>
+<p>&quot;We must make sure diplomats guilty of crimes are punished,&quot; Coverdell said in a statement. &quot;&quot;We cannot allow diplomats of any nation to commit criminal acts without fear of punishment.&quot;</p>
+<p>The legislation before the House and Senate does not restrict or alter the traditional diplomatic immunity protections recognised under international law.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

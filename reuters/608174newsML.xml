@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608174" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Roy F. Weston sees &quot;substantial&quot; Q2 loss.</title>
+<headline>Roy F. Weston sees &quot;substantial&quot; Q2 loss.</headline>
+<dateline>WEST CHESTER, Pa. 1997-05-23</dateline>
+<text>
+<p>Roy F. Weston Inc, an environmental services firm, said on Friday that it anticipates a second quarter loss due to weakness in the company's industrial sector.</p>
+<p>The extent of the company's loss could not be determined, but the company said it is &quot;expected that it may be substantial.&quot;</p>
+<p>In last year's second quarter, the company reported a loss of $0.07 a share, or $670,000, on revenues of $46.3 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST CHESTER, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

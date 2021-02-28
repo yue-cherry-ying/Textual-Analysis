@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608852" id="root" date="1997-05-23" xml:lang="en">
+<title>ROMANIA: Romania Astra returns to profit in 1996.</title>
+<headline>Romania Astra returns to profit in 1996.</headline>
+<dateline>BUCHAREST 1997-05-23</dateline>
+<text>
+<p>Year 1996</p>
+<p>					  (billion of lei unless stated)</p>
+<p> Gross profit			     5.72   vs  loss 8.31</p>
+<p> Turnover				  79.00   vs	25.32</p>
+<p> Fixed assets			   107.96   vs     105.96</p>
+<p> Current assets			 129.45   vs     111.84</p>
+<p> Total assets			   317.42   vs     251.64</p>
+<p> Share capital			   85.97   vs	85.97</p>
+<p> Total debts			    216.53   vs     159.01</p>
+<p> Total dividends			  nil    vs	nil</p>
+<p>NOTE -- Astra Vagoane is a railway car maker listed on the second tier of the Bucharest stock exchange. Data, reported to the bourse, are in nominal terms and in line with Romanian accounting standards. ($=7,088 lei)</p>
+<p>-- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

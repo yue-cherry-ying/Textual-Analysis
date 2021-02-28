@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609488" id="root" date="1997-05-23" xml:lang="en">
+<title>SWITZERLAND: US pledges to implement WTO gas ruling on time.</title>
+<headline>US pledges to implement WTO gas ruling on time.</headline>
+<dateline>GENEVA, Switzerland</dateline>
+<text>
+<p>The United States pledged on Friday to comply on time with a World Trade Organisation (WTO) ruling that found it discriminated against imports of conventional and reformulated gasoline, trade envoys said.</p>
+<p>Brazil, one of the countries that brought the complaint against the U.S. to the WTO, welcomed Washington's intention to comply, but questioned whether it would meet the deadline, envoys said.</p>
+<p>However, Andrew Stoler, deputy head of the U.S. trade delegation, told the WTO's Dispute Settlement Body he was confident the recommended changes to the Clean Air Act would be in place by August 20.</p>
+<p>Last year, the appeal panel of the WTO sided with Brazil and Venezuela, who argued that the U.S. Environmental Protection Agency (EPA) regulations introduced at the end of 1993 ran against free trade rules by setting stricter standards for imported gasoline than for the U.S. domestic product.</p>
+<p>While U.S. refiners have been able to use their individual baselines of 1990 production to measure the quality of their gasoline. Foreign refiners use a national average of the baselines of U.S. refiners to measure compliance.</p>
+<p>Brazil and Venezuela argued this held them to a higher standard than the U.S. refiners.</p>
+<p>Washington had argued it was justified by provisions in the General Agreement on Tariffs and Trade allowing the rules to be waived if a member felt its own environmental safety were under threat.</p>
+<p>On April 30 of this year, in response to the WTO appeal panel ruling, the EPA proposed changing its policy to let foreign refiners petition the agency to set an individual baseline reflecting the volume and quality of gasoline shipped to the U.S. in 1990.</p>
+<p>The WTO is an organization that provides a forum for multilateral trade negotiations and is concerend with solving ingternational trade problems. It replaced the General Agreement on Tariffs and Trade (GATT) in 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

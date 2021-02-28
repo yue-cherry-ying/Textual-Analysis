@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608662" id="root" date="1997-05-23" xml:lang="en">
+<title>ANGOLA: Angolan army said to take control in diamond area.</title>
+<headline>Angolan army said to take control in diamond area.</headline>
+<dateline>LUANDA 1997-05-23</dateline>
+<text>
+<p>Military and expatriate sources said on Friday Angola's army had moved into the country's key diamond area and tanks and armoured vehicles were clearing areas overrun by refugees from the Democratic Republic of Congo and former Angolan rebel UNITA supporters.</p>
+<p>&quot;The FAA (Angolan army) has entered into our areas in the Lunda Norte and has taken the towns of Muinda, Canzar, Cambulo and Buia,&quot; a senior UNITA general told Reuters. The areas are along the Cassai River on Angola's eastern border with Congo, formerly Zaire.  </p>
+<p>The UNITA general said from Luanda he had received reports of casualties, but had no figures.</p>
+<p>Expatriate mining sources backed up the UNITA report. One source working in the region said government troops were moving further west after clearing the easternmost border area.</p>
+<p>&quot;These areas are now clear of refugees and other bandits that came from Zaire. The army has also taken the opportunity to take control of areas where UNITA has been mining,&quot; the source said.</p>
+<p>Another mining source told Reuters the FAA had battled armed UNITA supporters in the mining town of Tchitatolo, reporting: &quot;Our people there say the FAA moved into the town of Tchitatolo earlier in the week...where they encountered resistance.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ANGOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CONGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUANDA"/>
+<dc element="dc.creator.location.country.name" value="ANGOLA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

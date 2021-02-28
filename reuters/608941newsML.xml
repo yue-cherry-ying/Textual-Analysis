@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608941" id="root" date="1997-05-23" xml:lang="en">
+<title>ARGENTINA: Argentine export grain prices - May 23.</title>
+<headline>Argentine export grain prices - May 23.</headline>
+<dateline>BUENOS AIRES 1997-05-23</dateline>
+<text>
+<p>Export offer/bid prices in U.S. dollars per tonne, or basis CBOT, FOB:</p>
+<p> Grain/Location	  Loading	    Basis	 Price</p>
+<p> WHEAT Necochea	  May/Jun			    173/-</p>
+<p> WHEAT Upriver	   May/Jun			    183/-</p>
+<p> WHEAT Bahia Blanca    May/Jun			    168/-</p>
+<p> WHEAT Upriver	   Jan/Feb/Mar '98		160/155</p>
+<p> MAIZE Upriver	   Jun		  Jul	 +24/+13</p>
+<p> MAIZE Upriver	   Jul		  Jul	   +24/-</p>
+<p> SORGHUM Upriver	 May/Jun	    Jul	   -/-50</p>
+<p> SOYBEAN Upriver	 Jun		  Jul	    -5/-</p>
+<p> SUNSEED Upriver	 May				    -/-</p>
+<p>((-- Buenos Aires Newsroom +541 318-0655))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571178" id="root" date="1997-05-08" xml:lang="en">
+<title>JAPAN: Sony hits record ahead of earnings report.</title>
+<headline>Sony hits record ahead of earnings report.</headline>
+<dateline>TOKYO 1997-05-08</dateline>
+<text>
+<p>Shares in Sony Corp advanced for the sixth consecutive session on Thursday morning, hitting a new record high helped by early buying on expectations of a solid earnings report due out later in the day, traders said.</p>
+<p>Sony's share price briefly hit 9,730 yen, above its previous lifetime high of 9,670 marked on Wednesday. As of 0035 GMT, the shares stood 90 yen higher at 9,720.</p>
+<p>Its turnover of 1.019 million shares was the eighth-heaviest on the first section of the Tokyo Stock Exchange.</p>
+<p>The earnings results are due at 0600 GMT.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

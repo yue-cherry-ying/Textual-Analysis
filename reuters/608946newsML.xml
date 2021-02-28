@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608946" id="root" date="1997-05-23" xml:lang="en">
+<title>BRAZIL: Brazilian soybean and product market.</title>
+<headline>Brazilian soybean and product market.</headline>
+<dateline>RIO DE JANEIRO 1997-05-23</dateline>
+<text>
+<p>Brokers reported the following Brazilian soybean, products basis levels.</p>
+<p>(NS - no seller T-Trade P-Premium D-Discount, NB - no bidder)</p>
+<p> SHIPMENT	  BASIS	  MONTH	   PREVIOUS</p>
+<p>Soybean (cents per bushel)</p>
+<p>Fob Paranagua</p>
+<p> June		15/10 D	June	    26/20 D</p>
+<p> July		12/6  D	July	    22/18 D</p>
+<p> August	    18/30 P	August	  15/20 P</p>
+<p> Sept		15/35 P	Sept	     7/20 P</p>
+<p> SHIPMENT	  BASIS	  MONTH	   PREVIOUS</p>
+<p>Soymeal/Pellets (dollars per short tonne 48 pct profat)</p>
+<p>Fob Paranagua</p>
+<p> June		26/25   D	June	    27/25   D</p>
+<p> July		26/25   D	July	    27/25   D</p>
+<p> August	    10/8    D	August	11 D/NS   D</p>
+<p> Sept		 6/3    D	Sept	     7/3.5  D</p>
+<p> SHIPMENT	 BASIS	   MONTH	  PREVIOUS</p>
+<p>Soybean Oil (dollars per tonne, points per lb, crude, degummed)</p>
+<p>Fob Paranagua</p>
+<p> June		40/70 P	 June	     5/30 P</p>
+<p> July		40/70 P	 July	    30/50 P</p>
+<p> August	  even/50 P	 August	even/40 P</p>
+<p> Sept	    even/50 P	 Sept	  even/40 P</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

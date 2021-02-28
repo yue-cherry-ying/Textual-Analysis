@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608542" id="root" date="1997-05-23" xml:lang="en">
+<title>UK: IPE gas oil closes lower, Brent off in jumpy trade.</title>
+<headline>IPE gas oil closes lower, Brent off in jumpy trade.</headline>
+<dateline>LONDON 1997-05-23</dateline>
+<text>
+<p>IPE gas oil closed lower on Friday in an uneventful session as brokers squared positions ahead of the long holiday weekend in Britain.</p>
+<p>June gas oil settled $1.25 lower at $177.75 a tonne, while July Brent was 14 cents off at $20.04 a barrel at 1701 GMT.</p>
+<p>Brokers said gas oil had been pressured lower by profit-taking and squaring ahead of the long weekend as well as losses on the NYMEX heating oil contract.</p>
+<p>They said Brent futures had been pushed further into negative territory by losses on NYMEX crude futures.</p>
+<p>Both markets were seen jumpy with the expiry of product options on NYMEX making trading volatile.</p>
+<p>Many traders said, however, the fact the July Brent contract was clinging to the $20 level was an encouraging sign.</p>
+<p>&quot;This market is well supported. It dipped below $20 but quickly bounced back,&quot; one said.</p>
+<p>&quot;It's just tracking the WTI (NYMEX crude),&quot; said another broker.</p>
+<p>Both the IPE and NYMEX are closed on Monday due to the Memorial Day holiday in the United States and the Spring Bank holiday in Britain.</p>
+<p>-- London Newsroom, +444 171 542 7714.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

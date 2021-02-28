@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610322" id="root" date="1997-05-23" xml:lang="en">
+<title>FRANCE: Energy agency urges realistic climate change goals.</title>
+<headline>Energy agency urges realistic climate change goals.</headline>
+<dateline>PARIS 1997-05-23</dateline>
+<text>
+<p>Energy ministers from leading industrial countries met in Paris on Friday and were expected to urge all nations to set &quot;realistic&quot; goals for cutting noxious emissions in the fight against global warming, officials said.</p>
+<p>The 24-nation International Energy Agency, which meets at ministerial level once every two years, will try to persuade negotiators not to overreach themselves in trying to work out a new pollution-cutting pact to be signed later this year.</p>
+<p>&quot;We are saying reductions must be realistic and cost-effective,&quot; a delegate said, adding that ministers were expected to reinforce this view publicly after their half-day session.</p>
+<p>About 150 nations are trying to negotiate legally binding cuts in so-called greenhouse gases, blamed for warming the earth's atmosphere, in a deal to be signed in Japan in December.</p>
+<p>The initiative follows up a 1992 Rio Earth summit that committed developed countries to reducing carbon dioxide emissions to 1990 levels by the year 2000, but which has mostly failed to work as effectively as planned.</p>
+<p>IEA officials said Friday's talks would yield no decisions but would try to give new momentum to the debate.</p>
+<p>&quot;I hope that our meeting today will provide a positive impulse for the difficult negotiations...that lie ahead,&quot; Lorenz Schomerus, state secretary at the German economics ministry, said in a speech released before the session.</p>
+<p>Most IEA members are expected to fail to meet the Rio targets and have not yet said what mandatory cuts they would support in the new agreement to be finalised in coming months.</p>
+<p>&quot;I will argue we need to have flexibility in achieving these goals,&quot; U.S. Energy Secretary Federico Pena told Reuters ahead of Friday's talks.</p>
+<p>The IEA was set up in 1974 originally to defend consumers against huge oil price rises, but has since developed into mainly a specialist thinktank under the auspices of the Organisation for Economic Cooperation and Development.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

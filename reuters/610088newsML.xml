@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610088" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: GenCorp calls convertible debenture issue.</title>
+<headline>GenCorp calls convertible debenture issue.</headline>
+<dateline>FAIRLAWN, Ohio 1997-05-23</dateline>
+<text>
+<p>GenCorp said Friday it called for redemption its entire $115 million issue of eight percent convertible subordinated debentures due 2002.</p>
+<p>GenCorp said each $1,000 of debentures is convertible into 62.25 common shares until the close of business on the redemption date, set for June 23, 1997.</p>
+<p>The company said called debentures which are not tendered for conversion will be redeemed at a price of 104.8 percent of the principal amount plus accrued interest to the redemption date.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRLAWN, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

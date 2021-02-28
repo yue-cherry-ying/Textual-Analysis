@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570138" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Connectivity Products IPO to be deferred.</title>
+<headline>Connectivity Products IPO to be deferred.</headline>
+<dateline>NEW YORK 1997-05-08</dateline>
+<text>
+<p>Connectivity Technologies Inc said Thursday that the initial public offering of its 85 percent-owned operating subsidiary, Connectivity Products Inc, has been deferred because of market conditions.</p>
+<p>The deal was scheduled to begin trading in the second quarter.  </p>
+<p>Management said that the opportunity for an offering would be monitored and that a further announcement would be made should the offering be rescheduled in the future.</p>
+<p>Connectivity Technologies, as Tigera Group Inc, acquired Connectivity Products Inc in May 1996, and, in December changed its name from Tigera to Connectivity Technologies, to better represent its business.  Connectivity Technologies distributes and manufactures wire and cable products through Connectivity Technologies Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

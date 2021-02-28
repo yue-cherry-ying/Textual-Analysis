@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570380" id="root" date="1997-05-08" xml:lang="en">
+<title>UK: UK Conservative MP Michael Shersby dies.</title>
+<headline>UK Conservative MP Michael Shersby dies.</headline>
+<dateline>LONDON 1997-05-08</dateline>
+<text>
+<p>Sir Michael Shersby, Conservative member of parliament for Uxbridge, has died, a party spokeswoman said on Thursday.</p>
+<p>She was unable to confirm a report that it was a heart attack that killed Shersby overnight.</p>
+<p>Shersby entered parliament in 1972. His majority was cut at last Thursday's general election to just 724 from 12,368 at the 1992 election.</p>
+<p>His death reduces the number of Conservative MPs in the 659-seat House of Commons to 164.</p>
+<p>The ensuing by-election could provide an opportunity for Conservative heavyweights who lost their seats last week, such as former defence secretary Michael Portillo, to seek an early return to parliament.</p>
+<p>Current Hong Kong Governor Chris Patten has said he plans to take six months off to write a book after the colony is handed back to China on July 1.</p>
+<p>-- London newsroom 44-171-542 7767</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

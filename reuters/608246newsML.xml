@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608246" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: NYPA says settles fight with Niagra Mohawk.</title>
+<headline>NYPA says settles fight with Niagra Mohawk.</headline>
+<dateline>NEW YORK 1997-05-23</dateline>
+<text>
+<p>New York Power Authority said Friday it settled a dispute with Niagra Mohawk Power Corp and signed an agreement guaranting its industrial customers will continue to receive their power from the James A. FitzPatrick nuclear power plant near Oswego.</p>
+<p>NYPA said the agreement also protects Niagara Mohawk's remaining customers by requiring the reimbursement of stranded costs on NYPA sales above current levels.</p>
+<p>Niagara Mohawk's termination of its purchase of FitzPatrick power for its system will take effect May 24.</p>
+<p>The disputed contract called for Niagara Mohawk to purchase electricity from FitzPatrick and to wheel additional power from that plant to certain industrial customers.</p>
+<p>In 1996, Niagara Mohawk exercised its right to terminate its purchase of FitzPatrick power effective May 24, 1997. Subsequently, NYPA and Niagara Mohawk entered into negotiations to resolve the issues concerning delivery of FitzPatrick power to NYPA's customers.</p>
+<p>As a result of the agreement, NYPA and Niagara Mohawk will end litigation pending on the dispute.</p>
+<p>The agreement provides for NYPA and Niagara Mohawk to compete for new customers.  A potential NYPA customer will be able to &quot;shop&quot; for the better power deal between the two utilities.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

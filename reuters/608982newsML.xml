@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608982" id="root" date="1997-05-23" xml:lang="en">
+<title>CHILE: Chile paper pulp exports show sharp rise in April.</title>
+<headline>Chile paper pulp exports show sharp rise in April.</headline>
+<dateline>SANTIAGO 1997-05-23</dateline>
+<text>
+<p>Chilean paper pulp exports surged to $71.8 million last month from $47.5 million in the same period last year, though overall non-copper exports dropped in April, the central bank said on Friday.</p>
+<p>Chile's non-copper exports slipped to $952.2 million from $1.04 billion in April 1996, the bank said in its twice-monthly report.</p>
+<p>But booming copper exports, which rose to $658 million from $512 million, accounted for a sharp increase in exports in the first four months of the year, which climbed to $6.05 billion from $5.61 billion in January to April 1996, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

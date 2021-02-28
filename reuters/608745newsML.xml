@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608745" id="root" date="1997-05-23" xml:lang="en">
+<title>SLOVENIA: Slovenia edges closer to EU ratification.</title>
+<headline>Slovenia edges closer to EU ratification.</headline>
+<dateline>LJUBLJANA 1997-05-23</dateline>
+<text>
+<p>Slovenia's parliament agreed on Friday to bring national legislation into line with European Union standards, taking the country one step closer to final ratification of its association agreement with the EU.</p>
+<p>Parliamentary parties agreed to adopt legislation that would allow a gradual liberalisation of Slovenian markets, including real estate, while protecting national interests in accordance with EU norms.</p>
+<p>Last week parliament postponed a session on ratifying the accord, which was signed last June, to give political parties more time to reach a broader agreement on the issue.</p>
+<p>Under the terms of the association agreement, Slovenia undertook to change its constitution to allow foreigners to own property within four years of the treaty taking effect.</p>
+<p>Before voting on ratification the assembly has to wait for the Constitutional Court to say whether Slovenia can ratify the treaty without immediate changes to its constitution.</p>
+<p>The court is expected to decide on the issue at the latest on June 5.</p>
+<p>European Commission President Jacques Santer said in April a speedy ratification was essential if Slovenia wanted to be among the first nations to start talks on full EU membership, probably in early 1998.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LJUBLJANA"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608133" id="root" date="1997-05-23" xml:lang="en">
+<title>CANADA: Canada Board sets hearing on oil pipeline reversal.</title>
+<headline>Canada Board sets hearing on oil pipeline reversal.</headline>
+<dateline>CALGARY 1997-05-23</dateline>
+<text>
+<p>Canada's National Energy Board said on Friday it would hold a two-phase public hearing on IPL Energy Inc's application to reverse the flow of its Sarnia-Montreal oil pipeline.</p>
+<p>The move, which has the support of western Canadian oil producers, would allow imported crude oil to be shipped on the pipeline -- called Line 9 -- to Ontario and U.S. Midwest refineries by April 1, 1998.</p>
+<p>IPL has said it estimated the cost of reversing the 832 km (517 mile) line's flow at C$89 million.  </p>
+<p>The offshore crude oil would be imported into Canada through the Portland-Montreal pipeline system.</p>
+<p>The pipeline, which has had only trickles of western Canadian oil flow through it in the last few years, was a holdover from the energy crises of the 1970s, when the Canadian government wanted Quebec refiners to have a steady source of Canadian oil.</p>
+<p>Line 9, which was completed in 1976 and operated under heavy government subsidy, shipped an average of 240,000 barrels per day until the mid-1980s.  </p>
+<p>After Canada's oil industry was deregulated in 1985, western Canadian crude oil deliveries to Montreal dropped as refiners opted for lower-cost imported supply. The closure of four Montreal-area refineries further cut demand.</p>
+<p>The NEB said phase one of the hearing, expected to address tolling, tariff and economic issues, was slated to start in Calgary on August 5.</p>
+<p>Phase two, expected to cover environmental and landowner issues, was set for August 11 in London, Ontario, the NEB said.</p>
+<p>It said intervenors were to file with the board by June 19.</p>
+<p>IPL said the initial capacity of the reversed line would be 160,000 barrels a day rising later to 240,000. ((Reuters Calgary Bureau (403) 531-1624))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

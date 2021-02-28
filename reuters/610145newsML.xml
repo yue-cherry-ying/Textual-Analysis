@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610145" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: FEMA unveils on-line storm watch page.</title>
+<headline>FEMA unveils on-line storm watch page.</headline>
+<dateline>WASHINGTON 1997-05-22</dateline>
+<text>
+<p>The Federal Emergency Management Agency said Thursday it would launch a Tropical Storm Watch page on the Internet's World Wide Web May 30, just in time for the beginning of the 1997 hurricane season.</p>
+<p>The page, now in its third year, has proven enormously successful, enabling people in hurricane-prone regions to track storms heading their way.</p>
+<p>For instance, the site logged 400,000 hits Sept. 5, 1996, the day that Hurricane Fran made landfall in North Carolina.</p>
+<p>The FEMA site, updated daily and sometimes hourly, offers hurricane preparedness information, fact sheets, maps, and links to other sites with weather satellite images and forecasts.</p>
+<p>The FEMA homepage address is http://www.fema.gov.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

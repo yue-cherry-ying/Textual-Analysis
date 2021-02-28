@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570356" id="root" date="1997-05-08" xml:lang="en">
+<title>UK: Cattles new business volume ahead of yr-ago.</title>
+<headline>Cattles new business volume ahead of yr-ago.</headline>
+<dateline>LONDON 1997-05-08</dateline>
+<text>
+<p>British financial services group Cattles Plc said on Thursday that the volume of new business and the level of receivables are ahead of the same period last year in all the group's businesses.  </p>
+<p>Profits are in line with expectations, chairman Peter Courtney told the annual general meeting.</p>
+<p>&quot;We are encouraged by this start and remain confident that the targets we have set for 1997 can be achieved,&quot; he added.</p>
+<p>-- London newsroom +44 171 542 4365</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

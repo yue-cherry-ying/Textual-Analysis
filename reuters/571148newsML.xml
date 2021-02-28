@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571148" id="root" date="1997-05-08" xml:lang="en">
+<title>INDONESIA: Indonesian palm olein market closed for holiday.</title>
+<headline>Indonesian palm olein market closed for holiday.</headline>
+<dateline>JAKARTA 1997-05-08</dateline>
+<text>
+<p>Indonesia's palm olein market was closed on Thursday due to a holiday to mark the Islamic New Year and Ascension of Jesus Christ.</p>
+<p>Traders said prices softened in late trading on Wednesday amid the absence of buyers with palm olein at 1,460 rupiah/kg in Jakarta against an opening price of 1,460-70. Crude palm oil was last done at 1,271 rupiah/kg in the North Sumatran city of Medan.</p>
+<p>Trading resumes on Friday.</p>
+<p>-- Jakarta newsroom +6221 384-6364</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

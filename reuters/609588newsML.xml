@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609588" id="root" date="1997-05-23" xml:lang="en">
+<title>BELGIUM: Belgian leading indicator improves in April.</title>
+<headline>Belgian leading indicator improves in April.</headline>
+<dateline>BRUSSELS 1997-05-23</dateline>
+<text>
+<p>The Belgian central bank released the following indices based on its monthly survey of three key economic sectors -</p>
+<p>    BELGIAN LEADING INDICATOR    April 1997  March 1997</p>
+<p>    Overall			    -2.0	  - 7.7</p>
+<p>    Manufacturing		    -0.4	  - 7.1</p>
+<p>    Trade				-5.0	  -12.2</p>
+<p>    Building			   -6.4	  - 6.0</p>
+<p>In a statement the central bank said the situation in the manufacturing industry and trade sectors had drastically improved, while that in the construction industry had slightly turned down.</p>
+<p>NOTE - The leading index is based on central bank surveys of manufacturing, construction and retailing and calculated on the basis of the difference between positive and negative answers to questions. It is slightly positive at the top of an economic cycle and strongly negative at the depth of a recession.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

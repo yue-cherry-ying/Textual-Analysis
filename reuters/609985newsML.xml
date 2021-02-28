@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609985" id="root" date="1997-05-23" xml:lang="en">
+<title>UK: BA to sell nearly half its stake in Galileo.</title>
+<headline>BA to sell nearly half its stake in Galileo.</headline>
+<dateline>LONDON 1997-05-23</dateline>
+<text>
+<p>British Airways said on Friday it is planning to sell nearly half of its 14.65 percent stake in Galileo International, the global computer reservation system.  </p>
+<p>Galileo filed on May 20 with the U.S. Securities and Exchange Commission plans for an initial public offering, which would include primary shares to be sold by Galileo and secondary shares sold by some of its owners.</p>
+<p>BA owns its stake in Galileo through its subsidiary Distribution Systems Inc, which intends to sell some 45 percent of its stake in the secondary offering.</p>
+<p>The purpose of Galileo's offering is to raise funds to acquire three national distribution companies, including Traviswiss, the leading reservation system in Switzerland owned by SAirGroup, and Galileo Nederland BV.</p>
+<p>Galileo is also to buy Apollo Travel Services, 77 percent owned by United Airlines, a unit of UAL Corp.</p>
+<p>BA said in a statement that Travel Automation Services Ltd, the wholly owned subsidiary of BA that trades as Galileo UK and is the national distributor of Galileo International's products in the UK, is not affected.</p>
+<p>-- London newsroom +44 171 542 4365</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

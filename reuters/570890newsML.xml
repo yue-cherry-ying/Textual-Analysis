@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570890" id="root" date="1997-05-08" xml:lang="en">
+<title>SOUTH KOREA: S.Korean 3-yr yields close lower, CDs flat.</title>
+<headline>S.Korean 3-yr yields close lower, CDs flat.</headline>
+<text>
+<p>Yields on three-year benchmark corporate bonds ended lower on Thursday on brisk buying despite the central bank's liquidity tightening measure and relatively large new issues, brokers said.</p>
+<p>The central Bank of Korea absorbed 1.3 trillion won from the banking system by issuing repurchase agreements (Repos) maturing on May 12.</p>
+<p>* 3-yr corporates close at 12.45 vs 12.48</p>
+<p>* 3-mth CDs end unchanged at 13.10</p>
+<p>* Overnight average call rates at 13.17 vs 13.28  </p>
+<p>However, the central bank's tightening move dampened the bullish sentiment.</p>
+<p>Brokers said new issues were estimated at 179 billion won on Thursday compared with 47.5 billion won on Wednesday.</p>
+<p>Three-month certificate of deposit (CD) yields finished flat for the third day in a row in dull trading.</p>
+<p>--JEAN YOON (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

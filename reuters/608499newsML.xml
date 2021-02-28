@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608499" id="root" date="1997-05-23" xml:lang="en">
+<title>LATVIA: UNIBANKA JUMPS AMID FURTHER PRICE GAINS.</title>
+<headline>UNIBANKA JUMPS AMID FURTHER PRICE GAINS.</headline>
+<dateline>RIGA 1997-05-23</dateline>
+<text>
+<p>Latvian shares registered the</p>
+<p>following prices after the morning trade session on Friday and</p>
+<p>Unibanka jumped to 3.30 lats from 3.21 lats as blue chips</p>
+<p>extended their recent modest gains.</p>
+<p>Shares can be bought (B) or sold (S) at the following</p>
+<p>prices and in the following volume, the bourse said in a</p>
+<p>statement.</p>
+<p> NAME OF SECURITY	   Last   Reop_side Price Volume</p>
+<p> Fish Cann. Kaija	   2.15	   B  2.17    550</p>
+<p> Riga Shipyard		1.37	   S  1.37    1233</p>
+<p> Riga Tr. Fleet	     1.28	   B  1.30    3813</p>
+<p> Staburadze		   2.57	   B  2.70    2797</p>
+<p> Unibanka		     3.21	   S  3.30    5957</p>
+<p> Akta			   0.23	   S  0.22    230</p>
+<p> Candy F. Naruta	    0.37	   B  0.40    999</p>
+<p> Daugavpils F-try	   0.85	   B  0.97    1996</p>
+<p> Daugavpils MChF	    2.31	   S  2.31    411</p>
+<p> Jekabpils Sugar	    0.50	   B  0.53    2116</p>
+<p> Jelgava ConstrMP	   0.26	   S  0.29    1230</p>
+<p> Kurzeme Lock F.	    0.35	   B  0.36    385</p>
+<p> Lode Brick Comp.	   2.40	   B  2.30    72</p>
+<p> Mangali Shipyard	   1.01	   S  1.02    2726</p>
+<p> Misa Peat Comp.	    1.07	   S  1.07    1952</p>
+<p> Ogre Forestry		0.69	   B  0.65    4978</p>
+<p> P. House Rota		0.34	   B  0.36    2034</p>
+<p> Riga Agric. M.F.	   0.27	   B  0.30    6870</p>
+<p> ValmieraGl.Fiber	   1.49	   S  1.55    2649</p>
+<p> Ventspils FishC.	   1.74	   B  1.75    824</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

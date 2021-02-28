@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610515" id="root" date="1997-05-23" xml:lang="en">
+<title>NEW ZEALAND: NZ's Mercury Energy lifts year profit 25 percent.</title>
+<headline>NZ's Mercury Energy lifts year profit 25 percent.</headline>
+<dateline>WELLINGTON 1997-05-23</dateline>
+<text>
+<p>Unlisted Auckland electricity retailer Mercury Energy Ltd said on Friday it lifted net profit in the March year by 25 percent to NZ$82.1 million.  </p>
+<p>Mercury, which plans to publicly list next year, said its operating profit rose 23.3 percent to $121.7 million.</p>
+<p>Operating revenue was up by $82 million to $580.2 million.</p>
+<p>Chariman Jim Macaulay said it was a demanding last quarter in view of the company's commitment to keep prices stable until the beginning of 1998.</p>
+<p>In the future, the company would be protected by price increases from generators by its own capacity covering 50 percent of requirements coming on steam.</p>
+<p>Mercury plans investing $120 million in the Stratford plant.  </p>
+<p>Mercury this week settled its long-running battle with Utilicorp United for control of Power New Zealand when the companies agreed to set up a joint company to control PNZ.</p>
+<p>That deal would remove a significant distraction, Macaulay said.</p>
+<p>The 1997 profit only included dividend income from its 33 percent holding in PWR.</p>
+<p>-- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

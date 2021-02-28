@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570007" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Natl HealthCare LP Q1 full results.</title>
+<headline>Natl HealthCare LP Q1 full results.</headline>
+<dateline>MURFREESBORO, Tenn. 1997-05-07</dateline>
+<text>
+<p>National HealthCare L.P.</p>
+<p>			    Condensed Statements of Income</p>
+<p>			(in thousands except per share amounts)</p>
+<p>							Three Months Ended</p>
+<p>								March 31,</p>
+<p>							   1997	 1996</p>
+<p>Revenues:</p>
+<p> Net patient revenues		     $    94,583 $    80,607</p>
+<p> Other revenues				    11,280	11,548</p>
+<p> Net revenues				     105,863	92,155</p>
+<p>Cost and Expenses:</p>
+<p> Salaries, wages and benefits		  59,215	51,869</p>
+<p> Other operating				   33,126	28,314</p>
+<p> Depreciation and amortization		  3,735	 3,035</p>
+<p> Interest					     2,829	 3,472</p>
+<p> Total costs and expenses			98,905	86,690</p>
+<p> Net income					   6,958	 5,465</p>
+<p>Earnings Per Unit</p>
+<p> Primary						  .79	   .64</p>
+<p> Fully diluted					  .69	   .56</p>
+<p>Weighted Average Units Outstanding</p>
+<p> Primary					  8,797,164   8,575,499</p>
+<p> Fully diluted				 10,698,932  10,524,051</p>
+<p> Cash distributions paid per unit		 .60	   .52</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MURFREESBORO, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

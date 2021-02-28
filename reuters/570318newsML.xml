@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570318" id="root" date="1997-05-08" xml:lang="en">
+<title>UK: DHL says Lupo to be board executive chairm.</title>
+<headline>DHL says Lupo to be board executive chairm.</headline>
+<dateline>LONDON 1997-05-08</dateline>
+<text>
+<p>DHL International Ltd said from July 1, Patrick Lupo will become executive chairman of the board, while Robert Kuijpers will become chief executive of DHL International Ltd, with additional responsibility for Asia Pacific, and the Americas excluding the U.S.</p>
+<p>At present, Lupo is DHL International's chairman and chief executive, while Kuijpers has been chief executive of the Europe and Africa region since 1988, DHL said in a statement.</p>
+<p>DHL's U.S. interests are managed separately by DHL Airways Inc.</p>
+<p>--Reuters Air Cargo Newsroom Tel+44 171 542-7706 Fax+5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

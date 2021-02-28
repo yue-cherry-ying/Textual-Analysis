@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570133" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: May Department April same-store sales up.</title>
+<headline>May Department April same-store sales up.</headline>
+<dateline>ST. LOUIS, Mo. 1997-05-08</dateline>
+<text>
+<p>May Department Stores Co said Thursday its same store sales for the four-weeks ended May 3 rose three percent.</p>
+<p>Total sales for April increased 8.7 percent to $838.1 million from $771.0 million.</p>
+<p>Sales were helped by the addition of a weekend selling day as Easter Sunday was in fiscal March 1997 versus fiscal April last year, May said.  </p>
+<p>Sales for the first quarter of fiscal 1997 were $2.59 billion, up 7.6 percent from $2.40 billion a year ago. Same store first quarter sales rose 1.9 percent.</p>
+<p>Sales have been restated to exclude stores that have been closed and not replaced. Year-to-date revenues, including sales of non-replaced closed stores and finance charge revenues, were $2.67 billion in 1997 and $2.51 billion in 1996.</p>
+<p>May operates 366 department stores in 30 states and the District of Columbia.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

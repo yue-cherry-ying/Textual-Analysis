@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609533" id="root" date="1997-05-23" xml:lang="en">
+<title>PORTUGAL: EDP keen to find Spanish partner.</title>
+<headline>EDP keen to find Spanish partner.</headline>
+<dateline>LISBON 1997-05-23</dateline>
+<text>
+<p>Portuguese state utility EDP-Electricidade de Portugal is keen to find a Spanish partner as the electricity market is integrating in Iberia, EDP President Antonio de Almeida said.</p>
+<p>&quot;We are facing a very competitive Iberian market. In this situation, there are two solutions -- one is open war, and the other is to form alliances,&quot; Almeida told reporters.</p>
+<p>&quot;It makes sense for us to have a Spanish partner,&quot; he added.</p>
+<p>He said a partnership between EDP and a Spanish company could pave the way for business opportunities in Latin America, including Brazil.</p>
+<p>-- Lisbon newsroom +(351-1) 3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

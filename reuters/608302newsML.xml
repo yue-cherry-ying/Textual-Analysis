@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608302" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Simon DeBartolo refinances debt.</title>
+<headline>Simon DeBartolo refinances debt.</headline>
+<dateline>INDIANAPOLIS 1997-05-23</dateline>
+<text>
+<p>Simon DeBartolo Group Inc said Friday it has raised $180 million in a note offering to refinance debt tied to the Forum Shops at Caesars in Las Vegas.</p>
+<p>Proceeds from the financing will be used to repay an existing loan which bears interest at LIBOR plus 100 basis points on the initial tranche of $100 million and LIBOR plus 181 basis points on the second tranche of $80 million, the company said.</p>
+<p>Half of the notes, or $90 million, pay interest monthly at a fixed rate based on the seven-year U.S. Treasury rate plus 62 basis points on a bond equivalent basis. The other $90 million of notes pay interest monthly at the three-month LIBOR rate plus 33 basis points, the company said.</p>
+<p>The blended rate on this overall transaction is about 6.64 percent, it said. The deal closed Friday and was managed by UBS Securities.</p>
+<p>		-- Reuter Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I8500021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

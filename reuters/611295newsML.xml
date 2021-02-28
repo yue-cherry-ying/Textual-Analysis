@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611295" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Nippon Shinpan forgives loans to units, posts loss.</title>
+<headline>Nippon Shinpan forgives loans to units, posts loss.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Japanese credit card company Nippon Shinpan Co Ltd said on Friday it posted losses totaling 5.28 billion yen in the year ended on March 31 as a result of forgiving loans to its subsidiaries.</p>
+<p>The company also said in a statement that it earmarked 1.54 billion yen as loan loss reserves.</p>
+<p>The statement said, however, that the company would not change its business forecast for 1996/97 as a result of the moves.</p>
+<p>The company also posted an appraisal loss of 7.99 billion yen from its securites holdings in 1996/97.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

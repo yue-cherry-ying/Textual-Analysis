@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608192" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Healthcare Technologies Q1 full results.</title>
+<headline>Healthcare Technologies Q1 full results.</headline>
+<dateline>NEW YORK 1997-05-23</dateline>
+<text>
+<p>Healthcare Technologies Ltd.</p>
+<p>		   Condensed Consolidated Statement of Operations</p>
+<p>	     (U.S.$ in thousands, except per share information)</p>
+<p>						 Quarter Ended March 31,</p>
+<p>						   1997		1996</p>
+<p> Sales					   2,262	     2,242</p>
+<p> Gross profit				    929	     1,125</p>
+<p> Net income (loss) for the qtr.	  (397)	     (150)</p>
+<p> Earnings per share			 (0.03)	    (0.01)</p>
+<p>Weighted average number of</p>
+<p>shares and share equivalents</p>
+<p>  outstanding			   14,123,000	13,925,000</p>
+<p>				Consolidated Balance Sheet</p>
+<p>					     Three Mos	Year Ended</p>
+<p>						  Ended	     Dec 31</p>
+<p>					  Mar 31, 1997		1996</p>
+<p> Cash and cash equivalents	     $ 3,728	   $ 3,800</p>
+<p> Total current assets			8,994	     8,744</p>
+<p> Total current liabilities		 3,287	     2,760</p>
+<p> Shareholders equity			12,574	    12,967</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

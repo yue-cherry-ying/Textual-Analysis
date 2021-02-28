@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609494" id="root" date="1997-05-23" xml:lang="en">
+<title>BELGIUM: EU-Swiss accord snags again on trucks issue.</title>
+<headline>EU-Swiss accord snags again on trucks issue.</headline>
+<dateline>BRUSSELS 1997-05-23</dateline>
+<text>
+<p>The European Commission said on Friday that talks aimed at brokering a deal on air and land links with Switzerland had broken down.</p>
+<p>It said there was no hope that negotiations could be revived before May 29, when European Union transport ministers had been due to meet to give their blessing to the accord.</p>
+<p>&quot;Neil Kinnock, EU Commissioner for Transport, this evening advised the Dutch Presidency to cancel the special session of the transport (ministers) council scheduled for Thursday, May 29,&quot; the Commission said in a statement.</p>
+<p>It said the talks ran into difficulties over proposed fees that truckers would have to pay for driving through Switzerland between now and 2005. The air and rail parts of the agreement were said to be largely in place.</p>
+<p>The Swiss government said last month it believed the talks, part of a wider plan to cement Switzerland's economic ties with the 15-nation bloc, had entered a &quot;decisive, final phase.&quot;</p>
+<p>The breakdown over road transport threatened to hold up the wider economic agreement, designed to fill a legal void caused by Switzerland's 1992 rejection of membership of the European Economic Area, a free trade area linking the EU with the members of the European Free Trade Association (EFTA).</p>
+<p>Austria, Sweden and Finland, three of Switzerland's five EFTA partners, have since joined the EU, leaving the Alpine nation increasingly isolated.</p>
+<p>Switzerland currently bans trucks weighing more than 28 tonnes from using its roads. The EU had hoped an agreement would open the way for heavier trucks to pass through Switzerland.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

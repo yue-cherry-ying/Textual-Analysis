@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609939" id="root" date="1997-05-23" xml:lang="en">
+<title>UK: Lanica to report annual results on June 2.</title>
+<headline>Lanica to report annual results on June 2.</headline>
+<dateline>LONDON 1997-05-23</dateline>
+<text>
+<p>Lanica, the Guernsey-based investment trust run by entrepreneur Andrew Regan, on Friday said it will announce its 1996 results on June 2.</p>
+<p>Its offshoot Galileo recently failed in a 1.2 billion stg attempt to take over the Co-operative Wholesale Society.</p>
+<p>Lanica's shares -- which surged in 1996 after Regan took over when the stock was trading at 203 pence -- were suspended on February 10 at 19.50 stg when it emerged Galileo was attempting to take over the CWS.</p>
+<p>Lanica has said its stock exchange listing could be restored once it publishes its annual results.</p>
+<p>-- London newsroom +44 171 542 4365</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

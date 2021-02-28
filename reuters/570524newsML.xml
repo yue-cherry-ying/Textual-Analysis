@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570524" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: CBOT wheat seen steady down two cents on exports.</title>
+<headline>CBOT wheat seen steady down two cents on exports.</headline>
+<dateline>CHICAGO 1997-05-08</dateline>
+<text>
+<p>CBOT wheat futures were expected to open steady to two cents lower on lower-than-expected weekly export sales, traders said.</p>
+<p>&quot;That export number is not going to do anything for wheat,&quot; said a floor trader.</p>
+<p>USDA put weekly export sales at 176,200 tonnes. That figure was a touch below trade expectations for 200,000 to 300,000 tonnes.</p>
+<p>Support could stem from ideas that the Kansas hard red winter wheat crop will only have sub-par yields because of freeze damage, traders said.</p>
+<p>Choppy trade is also seen as traders begin to take positions in front of USDA's winter wheat production report on Monday.</p>
+<p>((Anna Driver 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

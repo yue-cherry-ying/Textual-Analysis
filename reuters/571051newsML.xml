@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571051" id="root" date="1997-05-08" xml:lang="en">
+<title>JAPAN: Apple Computer to launch Japan-only notebook PC.</title>
+<headline>Apple Computer to launch Japan-only notebook PC.</headline>
+<dateline>TOKYO 1997-05-08</dateline>
+<text>
+<p>Apple Computer Inc is to launch a notebook computer this month designed solely for the Japanese market and aims to sell 60,000 units of the model by the year-end, Apple Japan Inc president Eiko Harada said on Thursday.</p>
+<p>The new notebook personal computer, the Macintosh PowerBook 2400c/180, was jointly developed by Apple's Japan unit and IBM Japan Ltd, a unit of International Business Machines Corp.</p>
+<p>At a news conference announcing the Japanese-language computer, to be marketed towards the end of May, Harada also said Apple Japan shipped 800,000 units of Apple computers in 1996. He declined to give a sales target for this year.</p>
+<p>Regarding the company's sales target for the year 2000, he said: &quot;I can't give an exact figure, but we are certain that our company will grow as fast as the market.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

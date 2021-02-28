@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570895" id="root" date="1997-05-08" xml:lang="en">
+<title>PHILIPPINES: Manila call money drops on borrowing rate cut.</title>
+<headline>Manila call money drops on borrowing rate cut.</headline>
+<dateline>MANILA 1997-05-08</dateline>
+<text>
+<p>----------------------- May 8 ---------------------------</p>
+<p>* C Bank cuts o/night borrowing, raises term reverse repos</p>
+<p>---------------------------------------------------------</p>
+<p>Manila overnight money dropped to an average of 11.3125 percent on Tuesday from 11.5625 following the 0.25 percentage-point cut in the Central Bank's overnight borrowing rate to 11.25 percent, dealers said.</p>
+<p>Done rates were at a lower range of 11.5/11.28125 percent, with 32 lenders and 21 borrowers.</p>
+<p>Volume fell to 13.64 billion pesos from 19.29 billion.  </p>
+<p>In the secondary market, there was no aggressive buying of bills after the Central Bank raised its reverse repo rates by 0.25 percentage-point each on its one, two and six months terms.</p>
+<p>&quot;Banks were confused by the Central Bank's moves,&quot; a trader said.</p>
+<p>&quot;They want to assess the situation first. But I guess the Central Bank just doesn't want rates to fall too fast and add fuel to the foreign exchange situation,&quot; another trader said.</p>
+<p>In the past seven days, the Central Bank had raised its overnight borrowing rate twice to tame peso speculation on fears of capital flight from stock market sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

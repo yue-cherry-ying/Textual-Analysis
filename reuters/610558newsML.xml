@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610558" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: JGBs end down on recoveries in Tokyo stocks,dollar.</title>
+<headline>JGBs end down on recoveries in Tokyo stocks,dollar.</headline>
+<text>
+<p>*JGBs ended Tokyo weaker due to recoveries in Tokyo share</p>
+<p>prices and U.S. dollar. *Selling of June JGBs for next</p>
+<p>benchmark September was detected. *Activities of top four</p>
+<p>Japanese brokerages were slow due to seasonal personnel</p>
+<p>changes, adding to overall lacklustre trade.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

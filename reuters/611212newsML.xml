@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611212" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Japan petrol prices ease due to competition - survey.</title>
+<headline>Japan petrol prices ease due to competition - survey.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Japan's retail gasoline prices as of May 10 were lower than a month earlier, partly due to heated competition amongst petrol stations trying to lure holiday drivers to their pumps, a research centre said on Friday.</p>
+<p>The nation's average gasoline price, which had been static at 106 yen per litre since December 1996, slipped by one yen to 105 yen as of May 10, the Oil Information Service Centre said in its monthly survey.</p>
+<p>The lower price can be in part attributed to fierce competition among petrol stations during Japan's &quot;Golden Week&quot; holidays, which are from end-April to early May, a centre official said.</p>
+<p>The downward slide is also likely to have been prompted by cuts in monthly gasoline wholesale prices.</p>
+<p>Most major Japanese oil firms lowered their gasoline wholesale prices for April by about 1.8 yen per litre and by around 0.7 yen per litre for May, reflecting declining global crude oil prices.</p>
+<p>The average retail prices of gas oil and kerosene as of May 10 were 83 yen and 50 yen per litre, respectively.</p>
+<p>The prices of both oil products have not changed for the last six months.</p>
+<p>--Tokyo Energy Desk +81-3-3432-8837</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I65200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

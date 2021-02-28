@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608431" id="root" date="1997-05-23" xml:lang="en">
+<title>GERMANY: TENNIS-WORLD TEAM CUP RESULTS.</title>
+<headline>TENNIS-WORLD TEAM CUP RESULTS.</headline>
+<dateline>DUESSELDORF, Germany 1997-05-23</dateline>
+<text>
+<p>Results in the World Team Cup tennis tournament on Friday:</p>
+<p>Blue Group</p>
+<p>Netherlands beat Sweden 2-1</p>
+<p>Doubles result (Dutch names first):</p>
+<p>Paul Haarhuis/Jacco Eltingh beat Magnus Larsson/Nicklas Kulti 6-2 6-3  </p>
+<p>Red Group</p>
+<p>Australia beat Croatia 3-0</p>
+<p>Results (Australian names first): Mark Philippoussis beat Goran Ivanisevic 6-1 6-2 Todd Woodbridge beat Sasa Hirszon 6-4 6-1</p>
+<p>Doubles Woodbridge/Mark Woodforde beat Ivanisevic/Hirszon 6-2  7-5</p>
+<p>Blue Group</p>
+<p>United States and Czech Republic level at 1-1</p>
+<p>Results (U.S. names first): Michael Chang beat Bohdan Ulihrach 6-3 7-6 (7-3) Alex O'Brien lost to Petr Korda 6-3 6-7 (4-7) 3-6  </p>
+<p>Blue Group</p>
+<p>Czech Republic beat United States 2-1</p>
+<p>Doubles result (Czech names first): Petr Korda/Daniel Vacek beat Alex O'Brien/Jonathan Stark 6-2 6-2.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUESSELDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

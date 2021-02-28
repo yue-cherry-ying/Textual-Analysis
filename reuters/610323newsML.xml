@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610323" id="root" date="1997-05-23" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - FRANCE - LE MONDE MAY 23.</title>
+<headline>PRESS DIGEST - FRANCE - LE MONDE MAY 23.</headline>
+<dateline>PARIS 1997-05-23</dateline>
+<text>
+<p>These are leading stories in afternoon daily Le Monde.</p>
+<p>FRONT PAGE</p>
+<p>-- Left-wing and right-wing political parties call on voters to cast &quot;useful&quot; votes rather than disperse votes towards minor political formations.</p>
+<p>BUSINESS PAGES</p>
+<p>-- Senior Japanese Finance Ministry official Eisuke Sakakibara says in an interview he does not see Bank of Japan hiking rates before an expected economic upturn proves real, but expects a 0.5 percent hike in rates in the coming year, adds the future euro single currency is to become a pillar of the world monetary system.</p>
+<p>-- Paribas sells Belgian banking subsidary network to Arco-Bacob group.</p>
+<p>-- Axa-UAP is expected to sell Belgium-based insurer Royale Belge.</p>
+<p>-- Eurotunnel authorized to resume Shuttle freight service halted after a fire broke out in the tunnel last year.</p>
+<p>-- Renault carmaker to supply engines to Korea's Daewoo.</p>
+<p>-- Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

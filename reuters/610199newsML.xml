@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610199" id="root" date="1997-05-23" xml:lang="en">
+<title>SWITZERLAND: WTO adopts final reports on US-India textile row.</title>
+<headline>WTO adopts final reports on US-India textile row.</headline>
+<dateline>GENEVA 1997-05-23</dateline>
+<text>
+<p>The World Trade Organisation (WTO) on Friday adopted reports by a dispute panel and an appellate body which found the United States violated free trade rules by slapping limits on imports of some woollen clothing from India.</p>
+<p>Andrew Stoler, deputy head of the U.S. trade delegation, reminded the WTO's Dispute Settlement Body that the United States had rescinded the import restrictions last December, according to trade envoys as the closed-door talks.</p>
+<p>This meant the issue was closed, while it had contributed to developing the WTO's jurisprudence on such disputes, they quoted him as saying.</p>
+<p>India's trade ambassador Srinivasan Narayanan took the floor to express his country's satisfaction after the two reports were adopted by the WTO's 131 member states. The decision had vindicated India's long struggle.</p>
+<p>The U.S. import restrictions, which affected woven men's shirts and women's blouses, had clearly been shown to violate the WTO's Agreement on Textiles and Clothing, he added.</p>
+<p>They were introduced in April 1995 after Washington said a surge of these goods from India posed a threat of serious damage to domestic producers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

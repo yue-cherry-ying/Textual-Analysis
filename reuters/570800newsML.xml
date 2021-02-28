@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570800" id="root" date="1997-05-08" xml:lang="en">
+<title>AUSTRALIA: Australian court orders British postman murder trial.</title>
+<headline>Australian court orders British postman murder trial.</headline>
+<dateline>SYDNEY 1997-05-08</dateline>
+<text>
+<p>A young Australian man accused of killing a British tourist at Sydney's famous Bondi beach was on Thursday committed to stand trial for murder.</p>
+<p>Aaron Martin, 23, is said by the prosecution to have inflicted a savage beating on London postman Brian Hagland last September in a fit of drunken rage. Martin told a local Sydney court on Thursday that he was not guilty.</p>
+<p>Another man, Sean Cushman, is to stand trial charged with being an accessory after the fact of murder.</p>
+<p>Hagland, 28, was run over by a bus after his clash with Martin. The Sydney court heard during a two-week committal hearing that it was unclear whether or not Hagland was pushed into the vehicle and to what extent the collision was responsible for his death.</p>
+<p>Hagland's fiancee Connie Casey, who was with him at the time of the assault, walked out of Thursday's hearing in tears.</p>
+<p>Both Martin and Cushman were granted bail. Because of a backlog of cases in the New South Wales state supreme court, it could be almost two years before a jury considers Martin's case.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

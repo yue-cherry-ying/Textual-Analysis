@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570569" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: U.S. March air cargo indices - Bank of Tokyo - Mitsub.</title>
+<headline>U.S. March air cargo indices - Bank of Tokyo - Mitsub.</headline>
+<text>
+<p>NEW YORK, May 8 - The Bank of Tokyo-Mitsubishi published the following indices of U.S. cargo activity (1989=100)</p>
+<p>					    March	Feb	Pct</p>
+<p>					    1997	 1997    Change</p>
+<p>					    ----	 ----    ------</p>
+<p>AIR CARGO COMPOSITE INDEXES</p>
+<p> Index Air Cargo Trade Activity   485.6	461.3    5.3</p>
+<p> Index Future Air Cargo Business  550.4	542.0    1.5</p>
+<p>---------------------------------------------------------</p>
+<p> INDEX OF EXPORT BUSINESS	   611.9	603.4    1.4</p>
+<p>    Current Export Conditions     500.5	484.4    3.3</p>
+<p>    Index of Export Expectations  667.6	663.0    0.7</p>
+<p>---------------------------------------------------------</p>
+<p> INDEX OF IMPORT BUSINESS	   430.7	414.0    4.0</p>
+<p> Current Import Conditions	  470.7	438.2    7.4</p>
+<p> Index of Import Expectations     433.2	420.0    3.1</p>
+<p>--Reuters Air Cargo Newsroom Tel+44 171 542-7706 Fax+5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610127" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Buddhist temple repaid some DNC donations - paper.</title>
+<headline>Buddhist temple repaid some DNC donations - paper.</headline>
+<dateline>LOS ANGELES 1997-05-23</dateline>
+<text>
+<p>The Buddhist temple that hosted a controversial political fundraiser last year that featured Vice President Al Gore, has privately reimbursed some of the donations made to the Democratic campaign, the Los Angeles Times reported on Friday.</p>
+<p>The undeclared repayments, ranging from $2,200 to 5,000, came from about a dozen contributors, the paper said.</p>
+<p>Federal election law prohibits reimbursements of campaign contributions and requires disclosure of the true source of any funds.</p>
+<p>The paper said newly obtained documents also reveal that the Hsi Lai Temple engaged in a range of other political activities that raise questions about the religious center's compliance with tax laws that ban partisan activities by nonprofit institutions.</p>
+<p>The report said records show the nearly 10-year-old temple had hosted a 1990 fund-raiser for a Connecticut gubernatorial candidate, provided support for various politicians and had lobbied Congress on immigration issues.</p>
+<p>An attorney for the temple declined to answer questions about the temple's fund-raising, the Times said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

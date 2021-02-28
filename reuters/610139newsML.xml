@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610139" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Vermont Senate passes property tax reform bill.</title>
+<headline>Vermont Senate passes property tax reform bill.</headline>
+<dateline>MONTPELIER, Vt 1997-05-22</dateline>
+<text>
+<p>The Vermont Senate gave final approval Thursday night to a sweeping property tax reform bill that would revolutionize the way the state pays for education.</p>
+<p>The bill calls for a statewide property tax, as well as $57 million in new taxes. Its sponsors hope the measure will meet the demands of the Vermont Supreme Court, which in February declared the current school funding system unconstitutional because of disparities in local tax burdens.</p>
+<p>Among the bill's many provisions are ones revamping state educational standards; increasing the rooms and meals tax, the use and purchase tax, and the gasoline tax, and capping income tax deductions. The bill is so complex that $300,000 would be allocated just to explain it to the public.</p>
+<p>The measure must still be reconciled with a House property tax reform bill passed in March and then be approved by Gov. Howard Dean. The final version is expected by analysts to largely to mirror the Senate version and to be enacted, even over Dean's veto.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTPELIER, Vt"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

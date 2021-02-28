@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610281" id="root" date="1997-05-23" xml:lang="en">
+<title>NETHERLANDS: Clinton to mark 50th anniversary of Marshall Plan.</title>
+<headline>Clinton to mark 50th anniversary of Marshall Plan.</headline>
+<dateline>THE HAGUE 1997-05-23</dateline>
+<text>
+<p>President Bill Clinton will address European leaders next week to mark the 50th anniversary of U.S. aid to war-torn Europe under the Marshall Plan, the Dutch government said on Friday.</p>
+<p>Clinton arrives in the Netherlands late on Tuesday for summit talks with the Dutch European Union presidency.</p>
+<p>After adressing 52 European government leaders and heads of state in The Hague on Wednesday he will unveil a statue of the plan's architect, George Marshall, in Rotterdam that evening.</p>
+<p>A statement from the Dutch government information service said Clinton would be accompanied in Rotterdam by Dutch crown prince Willem Alexander. He will also meet Dutch Queen Beatrix.</p>
+<p>First lady Hillary Rodham Clinton will arrive separately in the Netherlands early on Tuesday for a tour of Amsterdam -- including the hiding place of Jewish war diarist Anne Frank -- before joining her husband in the Hague, the government said. The Clintons will leave the Netherlands on Thursday morning.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THE HAGUE"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

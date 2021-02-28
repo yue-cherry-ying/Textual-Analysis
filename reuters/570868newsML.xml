@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570868" id="root" date="1997-05-08" xml:lang="en">
+<title>AUSTRALIA: Coles sees steady second half profit growth.</title>
+<headline>Coles sees steady second half profit growth.</headline>
+<dateline>MELBOURNE 1997-05-08</dateline>
+<text>
+<p>Australian retailer Coles Myer Ltd said on Thursday that it still expected after-tax profit growth in its second half to match the rise in first half profit.  </p>
+<p>Speaking after Coles reported a 6.5 percent rise in sales revenue for the third quarter ended April 27, chief executive Dennis Eck stuck to his forecast of a strong second half-year.</p>
+<p>Coles rules off its books this year on July 27.</p>
+<p>&quot;We... (had) stated that we expected a similar percentage growth in the second-half profit after tax to that experienced in the first half, excluding property disposal profits and abnormals,&quot; Eck said in a statement.</p>
+<p>&quot;We are still of that view, subject to conditions remaining stable.&quot;  </p>
+<p>In March, Coles reported a 40.7 percent rise in net profit after abnormals to A$273.6 million for the first half-year ended January 26. The result included a net abnormal gain of A$44.6 million.</p>
+<p>-- Melbourne bureau 613-9286-1421</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

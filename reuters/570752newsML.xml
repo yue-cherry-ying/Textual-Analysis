@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570752" id="root" date="1997-05-08" xml:lang="en">
+<title>UK: Vosper Thornycroft falls on stock overhang.</title>
+<headline>Vosper Thornycroft falls on stock overhang.</headline>
+<dateline>LONDON 1997-05-08</dateline>
+<text>
+<p>Shares in warship manufacturer Vosper Thornycroft Holdings Plc fell to a six-month low on Thursday as a line of stock hung over the market, dealers said.</p>
+<p>Vosper shares dropped 26p to 835p by 0807 GMT, their lowest since last November, in thin volume of only 8,000 shares.</p>
+<p>&quot;I think we are seeing a bad book position unravelling itself,&quot; said one dealer.</p>
+<p>Shares in Vosper leapt in January after its broker Panmure Gordon issued a &quot;buy&quot; note but have since retreated.</p>
+<p>-- Andrew Langlands, London newsroom +44 171 542 3496</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

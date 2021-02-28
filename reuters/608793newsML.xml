@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608793" id="root" date="1997-05-23" xml:lang="en">
+<title>ALBANIA: Five policemen killed in Albania clash.</title>
+<headline>Five policemen killed in Albania clash.</headline>
+<dateline>TIRANA 1997-05-23</dateline>
+<text>
+<p>Five Albanian policemen were killed on Friday in a gunfight with an armed gang that had occupied a police station, the interior ministry said.</p>
+<p>The clash broke out in the central Albanian town of Cerrik, some 70 km (45 miles) from the capital Tirana, after police tried to retake a police station which had been captured by the gang the previous evening.</p>
+<p>As the police officers approached the building, they were fired on by armed civilians who had taken position on the tops of nearby buildings.</p>
+<p>&quot;As a result four policemen were killed and several others wounded,&quot; the interior ministry said in a statement. It added that one of the wounded died later in hospital.</p>
+<p>State-run news agency ATA quoted witnesses as saying that an armoured personnel carrier was also burned in the clash.</p>
+<p>Many parts of former communist Albania are still lawless after violent unrest in February and March, when looting and rioting break out across the country.</p>
+<p>Large swathes of the country are still outside state control and gangs, armed to the hilt after an estimated million weapons were looted in the troubles, seem able to roam free.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

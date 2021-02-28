@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570083" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Bank of New York says Bruce Van Saun new CFO.</title>
+<headline>Bank of New York says Bruce Van Saun new CFO.</headline>
+<dateline>NEW YORK 1997-05-08</dateline>
+<text>
+<p>Bank of New York Co Inc said Thursday it named Bruce Van Saun executive vice president and chief financial officer.</p>
+<p>The company said Van Saun will replace Deno Papageorge as CFO. Papageorge will remain with the company as senior executive vice president and a member of the board of directors.</p>
+<p>Bank of New York said Van Saun, who has been managing director and chief financial officer of Deutsche Bank North America since 1994, will join the company May 14.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

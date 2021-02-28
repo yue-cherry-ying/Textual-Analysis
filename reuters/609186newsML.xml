@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609186" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Kyushu Electric sets terms on No.338 SB.</title>
+<headline>Kyushu Electric sets terms on No.338 SB.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>BORROWER - Kyushu Electric Power Co Inc</p>
+<p>LEAD MGR - Yamaichi Securities Co Ltd</p>
+<p>TRUSTEE - Industrial Bank of Japan Ltd</p>
+<p> TYPE straight bond   ISSUE NO   338	AMT   20 bln yen</p>
+<p> COUPON 1.25%	   ISS PRICE  100.00   MATURITY 23.Jun.00</p>
+<p> LAST MOODY'S	   PAY DATE 25.Jun.97  INT PAY 25th Jun/Dec</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 26.May-19.Jun</p>
+<p> LAST JCR		 LAST JBRI  AAA	LAST NIS   AAA</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

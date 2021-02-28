@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608740" id="root" date="1997-05-23" xml:lang="en">
+<title>ALBANIA: Albanian PM asks troops to expand presence.</title>
+<headline>Albanian PM asks troops to expand presence.</headline>
+<dateline>TIRANA 1997-05-23</dateline>
+<text>
+<p>Prime Minister Bashkim Fino on Friday asked the head of the U.N.-backed force protecting aid supplies to Albania to send troops to more areas of the troubled country and provide security for elections on June 29.</p>
+<p>General Luciano Forlani, commander of the Italian-led force. told him the force would extend its presence and had consulted international organisations over how it could help with the elections, the state-run news agency ATA reported.</p>
+<p>Seperately, political parties again asked Fino to end a state of emergency, which includes a nation-wide curfew imposed after looting and rioting engulfed Albania earlier this year.</p>
+<p>ATA quoted Fino as telling Forlani: &quot;We have not asked for a change in the mandate of the force but a more flexible intepretation so that it clearly corresponds to the Albanian reality.&quot;</p>
+<p>He asked Forlani to move troops to areas of the country where they were not yet present, provide security for elections, guard key roads and help to guard the border, it said.</p>
+<p>The 6,000-strong force was sent to Albania to guard supplies of humanitarian aid after the civil violence. In several areas, notably the south, it is virtually the only sign of any kind of authority.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="609801" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Green Oasis hires independent counsel.</title>
+<headline>Green Oasis hires independent counsel.</headline>
+<dateline>CHARLESTON, S.C. 1997-05-23</dateline>
+<text>
+<p>Green Oasis Environmental Inc said a temporary suspension of over-the-counter trading of its securities expired Thursday and that it has hired independent outside counsel to investigate concerns raised by the Securities and Exchange Commission.</p>
+<p>The suspension expired at 2359 EDT, it said.</p>
+<p>Green Oasis said in a statement that pending completion of outside counsel's investigation, it will not comment on the accuracy or adequacy of previously disseminated information.</p>
+<p>Green Oasis manufactures equipment that produces diesel and heating fuels from waste motor oil.</p>
+<p>The SEC earlier this month suspended trading in Green Oasis, saying that questions &quot;have been raised about the accuracy and adequacy of publicly disseminated information.&quot;</p>
+<p>Green Oasis has said it believes heavy traffic on the Internet about the company may have prompted the SEC's decision to suspend trading.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLESTON, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

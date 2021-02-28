@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610436" id="root" date="1997-05-23" xml:lang="en">
+<title>UK: Nationwide B/S in sterling bond buy-back.</title>
+<headline>Nationwide B/S in sterling bond buy-back.</headline>
+<dateline>LONDON 1997-05-23</dateline>
+<text>
+<p>UBS Ltd said on Friday it was offering to buy up to 200 million stg of Nationwide Building Society debt which the society has agreed to buy and then cancel the bonds.  </p>
+<p>UBS said it was offering to buy up to 120 million stg of Nationwide's 13.50 percent subordinated issue due 2000 at a spread of 37 basis points and up to 80 million stg of the society's subordinated variable rates notes at a 50 b.p. spread.</p>
+<p>The aggregate principal amount will not exceed 200 million stg.</p>
+<p>The offer will end on June 6, some other time as may be announced by UBS, it said.  </p>
+<p>The 13.50 percent bond has 200 million stg outstanding while the VRN is a 100 million stg deal.</p>
+<p>-- Dan Lalor, London newsroom +44 171 542 8863</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

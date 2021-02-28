@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569992" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: RESEARCH ALERT - Steel stocks resumed.</title>
+<headline>RESEARCH ALERT - Steel stocks resumed.</headline>
+<text>
+<p>-- Smith Barney analyst Charles Bradford has resumed coverage of a group of steel stocks, a Smith Barney source said Thursday.</p>
+<p>-- He rated USX-U.S. Steel Group and Birmingham Steel Corp as buys.</p>
+<p>-- He rated Inland Steel Industries Inc and AK Steel Holding Corp outperform.</p>
+<p>-- The source said Bradford rated Allegheny Teledyne Inc, Bethlehem Steel Corp and J&amp;L Specialty Steel Inc neutral.</p>
+<p>((-- Wall Street desk (212) 859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
