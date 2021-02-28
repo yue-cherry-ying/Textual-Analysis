@@ -7,6 +7,7 @@ import numpy
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag, Text, tokenize
+import csv
 
 def get_reuters_files(path_to_files):
     """Get content of Reuters files"""
