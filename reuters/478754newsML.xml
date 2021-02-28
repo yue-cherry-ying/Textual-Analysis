@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478754" id="root" date="1997-04-01" xml:lang="en">
+<title>VENEZUELA: Two Venezuelan soldiers killed by Colombian rebels.</title>
+<headline>Two Venezuelan soldiers killed by Colombian rebels.</headline>
+<dateline>CARACAS 1997-04-01</dateline>
+<text>
+<p>Two Venezuelan soldiers were killed on Tuesday by suspected Colombian guerrillas in the worst border incident in nearly a year, Defence Minister Pedro Nicolas Valencia said.</p>
+<p>He told reporters the shooting occurred on Arauca River in Venezuela's western Apure state after leftist rebels opened fire on three army patrol boats. &quot;The patrol was attacked along the international Arauca river from Arauqita on Colombian territory,&quot; Valencia said.</p>
+<p>He said the &quot;cowardly and treacherous&quot; attack was probably carried out by rebels of the National Liberation Army (ELN), Colombia's second-largest guerrilla force, &quot;because Araquita is in the hands of the ELN ... and guerrillas operate there freely.&quot;</p>
+<p>Foreign Minister Miguel Burelli immediately asked Colombia to increase its military presence &quot;in this part of Arauca where there is no control on the part of the Colombian state.&quot;</p>
+<p>The attack was the latest in a spate of border incidents that have strained relations between the two countries. Venezuela and Colombia share a 1,400-mile (2,200-km) border, where kidnapping, drug trafficking and smuggling are common.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

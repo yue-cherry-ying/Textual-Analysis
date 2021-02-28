@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479295" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Laser Industries buys Spectron Laser.</title>
+<headline>Laser Industries buys Spectron Laser.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>Israel's Laser Industries Ltd said on Tuesday it had bought Spectron Laser Systems Ltd, a producer of ruby laser technology, for $16 million.</p>
+<p>Laser Industries said in a statement, &quot;The acquisition of Spectron is an important milestone for Laser Industries as it seeks to establish itself as an industry leader in the hair removal market which industry analysts estimate to be in excess of $1 billion.&quot;</p>
+<p>The purchase is a $16 million cash transaction. Spectron will be operated as a fully owned subsidiary of Laser Industries and will be headed by Paul Sarkies, who founded Spectron in 1983.</p>
+<p>For the fiscal year ended March 31, Spectron expects sales of $12 million, and net income of $1.6 million.</p>
+<p>For the year ended December 31, 1996, Laser Industries reported revenues of $58.7 million, and net income of $8.8 million, or $1.17 per share.</p>
+<p>Further details were not immediately available.</p>
+<p>((-- New York newsdesk, (212) 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

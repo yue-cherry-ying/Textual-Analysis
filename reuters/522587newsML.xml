@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522587" id="root" date="1997-04-19" xml:lang="en">
+<title>SWEDEN: SWIMMING-FERNANDEZ WINS MEN'S 100 FREESTYLE WORLD TITLE.</title>
+<headline>SWIMMING-FERNANDEZ WINS MEN'S 100 FREESTYLE WORLD TITLE.</headline>
+<dateline>GOTHENBURG, Sweden 1997-04-19</dateline>
+<text>
+<p>Venezuelan Fernando Sanchez raced away with the men's 100 metres freestyle title at the world short-course swimming championships on Saturday.</p>
+<p>Sanchez, who won the 50 freestyle at the last world short-course championships in Brazil in 1995, proved his powers over the longer distance with a clearcut victory in 47.86 seconds.</p>
+<p>Sanchez, the fastest final qualifier and bronze medallist in 1995, went through the halfway mark just 0.01 seconds outside Alexander Popov's world record schedule but could not sustain that exceptional pace.</p>
+<p>Brazil's Gustavo Borges, who retained his 200 freestyle title on Thursday, repeated his 1995 placing in the 100 by taking the silver medal in 48.16.</p>
+<p>Australia's Michael Klim, the 100 butterfly bronze medallist, took another bronze in 48.21.</p>
+<p>Defending champion Fernando Scherer of Brazil failed to make the final, having finished 17th overall in the morning's heats.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOTHENBURG, Sweden"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

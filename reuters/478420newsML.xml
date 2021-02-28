@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478420" id="root" date="1997-04-01" xml:lang="en">
+<title>UK: U.K. approves plan for controversial floating jail.</title>
+<headline>U.K. approves plan for controversial floating jail.</headline>
+<dateline>LONDON 1997-04-01</dateline>
+<text>
+<p>British Environment Secretary John Gummer overrode protests by residents of a south coast tourist resort on Tuesday when he approved a plan to station a floating prison at Portland.</p>
+<p>The local council had fought against plans for the five-deck grey steel prison barge to be anchored off Portland, arguing that it would ruin the scenic view and cripple the area's reputation as a tourist resort.</p>
+<p>Gummer, adjudicating between the demands of the Prison Service and the pleas of local residents, gave final clearance for on-shore facilities at Portland harbour for Her Majesty's Prison (HMP) Weare, an 18-year-old U.S.-built vessel which arrived from New York in March.</p>
+<p>The ship was used by the New York Department of Correction as a drug rehabilitation centre before it was abandoned as too costly.</p>
+<p>Residents of Portland, in England's south coast county of Dorset, feared the ship, which will hold 480 inmates from fraudsters to murderers, could become a floating Alcatraz.</p>
+<p>&quot;We are pleased that the Department of Environment has approved our planning application for on-shore facilities at Portland,&quot; the Prison Service said in a statement.</p>
+<p>&quot;These facilities will help HMP Weare become operational by the end of April and will provide welcome additional prison places in the south of England.&quot;</p>
+<p>Britain bought the barge, which had been left rusting in the Hudson River for five years, for four million pounds ($6.4 million) to ease crowding in its jails.</p>
+<p>The ship, formerly known as the Resolution, has been refitted with a library, squash courts and swimming pools.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

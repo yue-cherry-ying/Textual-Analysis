@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480317" id="root" date="1997-04-01" xml:lang="en">
+<title>AUSTRALIA: RTRS-AWB Australia wheat indicator prices-April 1.</title>
+<headline>RTRS-AWB Australia wheat indicator prices-April 1.</headline>
+<dateline>MELBOURNE 1997-04-01</dateline>
+<text>
+<p>Australian Wheat Board international card prices for wheat exports for April 1.</p>
+<p>In U.S. dollars per tonne, FOB eastern states.</p>
+<p>		ASW	  AH     PH 13 PCT  PH 14 PCT</p>
+<p>    Apr    203.50    208.00    209.00     223.00</p>
+<p>    May    203.50    208.00    209.00     223.00</p>
+<p>    Jun    197.00    201.50    202.50     219.50</p>
+<p>    Jul    195.50    200.00    201.00     218.50</p>
+<p>    Aug    194.50    199.00    200.00     217.00</p>
+<p>    Sept   194.50    199.00    200.00     217.50</p>
+<p>Note: ASW = Australian Standard White; AH = Australian Hard; PH = Australian Prime Hard; percentages = protein content.</p>
+<p>Australian Wheat Board indicator prices for multi-grade contracts for 1997/98 crop wheat decreased A$1.00 per tonne.</p>
+<p>	  Indicator Prices in A$ per tonne:</p>
+<p>		  ASW 10 pct protein</p>
+<p>National FOB	180.00</p>
+<p>Indicator prices on a delivered port basis:</p>
+<p> Queensland			   South Australia</p>
+<p>    Mackay	  155.50	    Port Adelaide	 157.00</p>
+<p>    Gladstone     155.75	    Port Giles	    157.75</p>
+<p>    Brisbane	153.50	    Wallaroo		155.50</p>
+<p> New South Wales			Port Pirie	    152.50</p>
+<p>    Newcastle     155.50	    Port Lincoln	  158.75</p>
+<p>    Port Kembla   156.00	    Thevenard	     153.75</p>
+<p>Victoria			     Western Australia</p>
+<p>    Geelong	 155.00	     Esperance	    160.25</p>
+<p>    Portland	156.00	     Albany		 161.25</p>
+<p>					     Fremantle	    163.25</p>
+<p>					     Geraldton	    161.25</p>
+<p>NOTE: The indicator price represents the current state of the international wheat market. It is a cash contract fob price quoted on a delivered port basis, offered today by the AWB for wheat delivered during the 1997/98 harvest. The offer is valid  </p>
+<p>until 4.30 p.m. Australian Eastern Summer Time (0530 GMT).</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

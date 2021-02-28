@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480535" id="root" date="1997-04-01" xml:lang="en">
+<title>SOUTH KOREA: S.Korean Red Cross to send $1 mln food aid to North.</title>
+<headline>S.Korean Red Cross to send $1 mln food aid to North.</headline>
+<dateline>SEOUL 1997-04-01</dateline>
+<text>
+<p>South Korea's Red Cross will send more than $1 million worth of food and vegetable seed to flood-stricken North Korea on Thursday, the second aid shipment in a week, a Red Cross spokesman said on Tuesday.</p>
+<p>It will be the largest food delivery by the South Korean National Red Cross to the impoverished North since such shipments began in November 1995, he added.  </p>
+<p>The latest relief comprises 1,650 tonnes of potatoes, 10 tonnes of powdered milk and 11.2 tonnes of turnip and cabbage seeds, a Red Cross statement said. The total value was one billion won ($1.12 million).</p>
+<p>On Monday the Seoul government lifted a ban on private organisations providing rice to Pyongyang and allowed local business groups to join food aid programmes for the North.</p>
+<p>&quot;We will soon be able to begin shipping rice to North Korea,&quot; Red Cross spokesman Lee Jong-geun said.</p>
+<p>Previously, only local religious and human rights groups and individual South Koreans could ship non-rice food aid to the North. Seoul had banned shipments of rice over fears it could be diverted to the military.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

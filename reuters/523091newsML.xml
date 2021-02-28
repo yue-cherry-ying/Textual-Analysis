@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="523091" id="root" date="1997-04-20" xml:lang="en">
+<title>MEXICO: Pavarotti sings before 17,000 at Mayan ruins.</title>
+<headline>Pavarotti sings before 17,000 at Mayan ruins.</headline>
+<dateline>CHICHEN ITZA, Mexico 1997-04-20</dateline>
+<text>
+<p>Italian tenor Luciano Pavarotti captivated about 17,000 people gathered over the weekend at one of Mexico's most famous Mayan ruins to hear the opera singer in a stunning setting.</p>
+<p>Pavarotti's voice resonated between the pyramids and temples as he performed a dozen works, most of them pieces by Giacomo Puccini. The Saturday concert was televised to more than 120 countries, organisers said.</p>
+<p>But Mexican newspapers on Sunday were not so enthusiastic, saying it lacked emotion. &quot;A good concert, without being spectacular,&quot; the Reforma newspaper said.</p>
+<p>The longest applause came after the finale duo of &quot;La Boheme&quot; with Italian soprano Carla Maria Izzo.</p>
+<p>The music lovers in attendance, who paid between $50 and $1,500, were also treated to an interpretation by Pavarotti of &quot;Granada,&quot; the song made famous by Mexican singer Agustin Lara.</p>
+<p>Mexican President Ernesto Zedillo was among the high-profile guests at the concert.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICHEN ITZA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

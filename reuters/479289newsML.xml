@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479289" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: AMCOL unit expands minerals operations.</title>
+<headline>AMCOL unit expands minerals operations.</headline>
+<dateline>ARLINGTON HEIGHTS, Ill. 1997-04-01</dateline>
+<text>
+<p>AMCOL International Corp's Volclay International subsidiary said Tuesday it is establishing new bentonite operations in Thailand, China and India.</p>
+<p>Bentonite, a clay mineral, is used in producing foundry metalcastings, cat litter, ceramics, cosmetic products and a variety of additional industrial and consumer-oriented products.</p>
+<p>Volclay Siam Ltd Co, a Volclay subsidiary, recently broke ground in Rayong, Thailand for construction of a bentonite processing plant. It expects the plant to start operations in the fourth quarter of 1997.</p>
+<p>In China, it acquired an equity share in Jiaping Redhill Bentonite Co, which owns and operates bentonite mines and a processing plant.</p>
+<p>In addition, Volclay International and Ashapura Minechem Ltd of India have greed to establish a joint venture company. The new company, Ashapura Volclay Ltd, will produce and market bentonite products worldwide.</p>
+<p>		((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON HEIGHTS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

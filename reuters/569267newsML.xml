@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569267" id="root" date="1997-05-08" xml:lang="en">
+<title>PANAMA: Panama reopens convention center concession bid.</title>
+<headline>Panama reopens convention center concession bid.</headline>
+<dateline>PANAMA CITY 1997-05-08</dateline>
+<text>
+<p>Panama will reopen on May 22 the pre-qualification process to operate the nation's only convention center in Panama City, a government spokesman said.</p>
+<p>During the first pre-qualification process held last month, he said one international company failed to present documents on time and another firm did not submit them correctly.</p>
+<p>Spanish hotel chain Sol Melia and U.S. companies Carnival Corp and Casino America Inc have expressed interest in re-submitting their documents, the spokesman with Panama's privatization program said.</p>
+<p>The concession contract to operate the seaside Atlantico- Pacifico (ATLAPA) convention center includes an option to build a five-star hotel with casino on 15 acres (six hectares) of land across the street from the 14,000 square-meter center.</p>
+<p>The government intends to announce bids in October with construction to begin by the end of the year, the spokesman said.</p>
+<p>((-- Laurens Grant, Panama City newsroom, 507 2237739))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

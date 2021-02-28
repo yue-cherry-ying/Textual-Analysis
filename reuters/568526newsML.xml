@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568526" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Coastal drilling second south Texas well.</title>
+<headline>Coastal drilling second south Texas well.</headline>
+<dateline>HOUSTON 1997-05-08</dateline>
+<text>
+<p>Coastal Corp is drilling a twin well to assess a possible commercial natural gas discovery that sparked a land rush this year in south Texas, company executives said on Thursday.</p>
+<p>The Houston-based energy company has drilled to 14,000 feet and plans to go as deep as 18,000 feet to test a reservoir that produced &quot;inordinate pressures&quot; in an initial well, Coastal President David Arledge said.</p>
+<p>The well looks to be commercial, he told reporters after the company's annual meeting. He declined further comment until testing is completed.</p>
+<p>&quot;At this particular stage it still is an exploration project. It's not a development project,&quot; he said.</p>
+<p>Word of the discovery in Wharton County about 60 miles southwest of Houston, which broke in a local newspaper, pushed prices up sharply for drilling rights in the region.</p>
+<p>Coastal expects to lower its natural gas finding costs to $1.40 per thousand cubic feet (mcf) in 1997 from $1.60 mcf last year, Arledge said.</p>
+<p>((-- Houston Bureau ((1+ 713 210-8508))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

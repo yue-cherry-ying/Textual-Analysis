@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478011" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Steel of W. Va. rejects CPT offer.</title>
+<headline>Steel of W. Va. rejects CPT offer.</headline>
+<dateline>HUNTINGTON, W. Va. 1997-04-01</dateline>
+<text>
+<p>Steel of West Virginia said on Tuesday it rejected as inadequate a  $9 per share bid from CPT Holdings Inc.</p>
+<p>Steel also said it expects to report first-quarter financial results that will exceed analysts' estimates.</p>
+<p>Steel said CPT's proposal was made on February 11 when Steel's cyclical markets had bottomed and before an expansion and modernization program will be completed. And the company said its book orders were strengthening.</p>
+<p>The bid, therefore, would deny Steel shareholders the benefit of the value being created, the company said.</p>
+<p>Steel shares closed up 1-1/2 at eight on Tuesday.</p>
+<p>The expansion and modernization program is expected to be completed by late 1997.</p>
+<p>Steel of West Virginia makes special steel products principally for use in truck trailers, industrial lift trucks, off-highway construction equipment and other products.</p>
+<p>CPT made the offer through its subsidiary J&amp;L Structural Inc, a producer of lightweight structural steel products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTINGTON, W. Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

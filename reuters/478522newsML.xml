@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478522" id="root" date="1997-04-01" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa trading fault due to electricity problems.</title>
+<headline>S.Africa trading fault due to electricity problems.</headline>
+<dateline>JOHANNESBURG 1997-04-01</dateline>
+<text>
+<p>The halt to trading on South Africa's Johannesburg Stock Exchange (JSE) has been caused by problems with the electricity supply, a JSE spokeswoman said,</p>
+<p>Trading on the JET equities system halted around 0900 GMT.</p>
+<p>&quot;The trading system has not gone down. We are having trouble with the electricity. Whether it is a power failure or a power surge we don't know,&quot; the spokeswoman said.</p>
+<p>She added that all the phones and personal computers in the building had also been hit, but that back up generators were now providing some power.</p>
+<p>There was no indication of when the trading system might come back on again, but the spokeswoman said a statement would be issued as soon as more details emerged.</p>
+<p>The all-share index was last at 6,958.8, down 136.0 points, and the industrials index was off 169.4 points to 8,170.0. The golds index was off 10.7 points to 1,290.9.</p>
+<p>-- Paul Harris, Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

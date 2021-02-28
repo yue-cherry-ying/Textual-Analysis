@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478601" id="root" date="1997-04-01" xml:lang="en">
+<title>CZECH REPUBLIC: Direct bond trades on the Czech PSE - April 1.</title>
+<headline>Direct bond trades on the Czech PSE - April 1.</headline>
+<dateline>PRAGUE 1997-04-01</dateline>
+<text>
+<p>The following is a list of</p>
+<p>direct bond trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price  Volume  Turnover</p>
+<p> CEZ 10,90/01		 99.08     99.08	4000   42986.760</p>
+<p> CEZ 11,3/05		 100.26    100.70	4000   43883.280</p>
+<p> CEZ 14 3/8 /01	    102.60    102.85	2020   21290.851</p>
+<p> CSOB 11,00/00	     100.40    100.40	 678    7403.760</p>
+<p> HZL CMHB 11,00/01	 100.00    100.00	  45     478.600</p>
+<p> CHEMAPOL 12,5/97	  100.50    100.50	1500   16507.292</p>
+<p> IPB 11,125/98	     100.50    100.50	9500   97823.590</p>
+<p> KB 11,1/98		   99.35     99.35	1000   10792.170</p>
+<p> MOR.CHEM.Z.12,4/01	 98.98     98.98	 350   37138.500</p>
+<p> ST.DLUHOP.10,55/02	 99.20     99.20	1000   10066.530</p>
+<p> ST.DLUHOP.10,95/01	102.54    103.25	4040   44255.598</p>
+<p> ST.DLUHOP.11,4/98	 101.68    101.68	 791    8391.196</p>
+<p> ST.DLUHOP.9,4/97	   99.57     99.57	1000   10314.720</p>
+<p> SKOFIN 11,625/98	   99.85     99.85	1000   10162.600</p>
+<p> VITKOVICE 13,50/00	 99.00     99.45	1700   18687.250</p>
+<p> ZPS ZLIN 18,5/98	  104.25    104.25	  10    5297.291</p>
+<p>-- Prague Newsroom, 420-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

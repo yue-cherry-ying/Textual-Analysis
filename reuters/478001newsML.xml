@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478001" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: U.S. SDR rate moved to 1.38579.</title>
+<headline>U.S. SDR rate moved to 1.38579.</headline>
+<dateline>WASHINGTON 1997-04-01</dateline>
+<text>
+<p>The International Monetary Fund said the exchange value of the U.S. dollar against the SDR was 1.38579, versus 1.38689 yesterday and 1.20635 on July 1, 1974.</p>
+<p>Other currency values against the SDR today (July 1, 1974 rates in parentheses) were.</p>
+<p> Deutsche Mark     2.31607   (3.06809)</p>
+<p> French Franc	7.79063   (5.82126)</p>
+<p> Japanese Yen	171.284   (343.773)</p>
+<p> Pounds Sterling   0.842938   (0.505474)</p>
+<p> Australian Dlr    1.75996   (0.809889)</p>
+<p> Aust Schilling    16.2803   (22.0097)</p>
+<p> Belgian Franc     47.7093   (45.9249)</p>
+<p> Canadian Dlr	1.92098   (1.16295)</p>
+<p> Danish Kroner     8.80600   (7.23304)</p>
+<p> Indonesian Rupiah 3350.84   (501.291)</p>
+<p> Iranian Rial	n/a	 (81.6734)</p>
+<p> Italian Lire	2309.99   (779.746)</p>
+<p> Kuwait Dinar	0.419714     (0.351685)</p>
+<p> Dutch Guilder     2.60043   (3.20316)</p>
+<p> Norwegian Kroner  9.14206   (6.59386)</p>
+<p> Saudi Arab Riyal  5.18978   (4.25788)</p>
+<p> S.A. Rand	   6.12727   (0.80200)</p>
+<p> Spanish Peseta    195.992   (69.0742)</p>
+<p> Swedish Kronor    10.4385   (5.31489)</p>
+<p> Swiss Franc	 1.99969   (3.19548)</p>
+<p> U.A.E. Dirham     5.08724   (4.76057)</p>
+<p>S.A. Rand July 2, Australian Dlr Aug 1, Canadian Dlr July 2, Indonesian Rupiah July 19, Iranian Rial July 22, Saudi Riyal Aug 9, all 1974. Swiss Franc Sept 16, 1975.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568995" id="root" date="1997-05-08" xml:lang="en">
+<title>SOUTH AFRICA: Rooiberg details quarterly results.</title>
+<headline>Rooiberg details quarterly results.</headline>
+<dateline>JOHANNESBURG 1997-05-08</dateline>
+<text>
+<p>Quarter ended March 31 vs quarter ended November 30, 1996</p>
+<p>			(million rand unless stated)</p>
+<p>    Attrib income	    3.86 gain  vs   0.32 loss</p>
+<p>    Pre-tax		    5.03	 vs   0.09</p>
+<p>    Tax			  1.17	 vs   0.42</p>
+<p>    Cost of sales	   18.22	 vs   0.39</p>
+<p>    Total sales	     22.41	 vs   0.10</p>
+<p>    Capex			1.14	 vs   0.02</p>
+<p>    Tons milled (t)	 22.61	 vs   nil</p>
+<p>    - zinc (t)		 3.43	 vs   nil</p>
+<p>    - copper (t)	     0.42	 vs   nil</p>
+<p>Full name: Rooiberg Tin Ltd</p>
+<p>NOTE - The report is based on the assumption that the acquisition of Maranda Mining Company (Pty) Ltd will be approved at a shareholders meeting on May 12.</p>
+<p>Both Rooiberg and Maranda have changed year ends to June 30 and the results incorporate a four-month period for Rooiberg and a three-month period for Maranda.</p>
+<p>The listing of new Maranda shares on the Johannesburg Stock Exchange is scheduled for May 14 and a first dividend payment in August.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

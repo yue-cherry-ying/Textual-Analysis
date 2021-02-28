@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569030" id="root" date="1997-05-08" xml:lang="en">
+<title>RUSSIA: Drunk driver fines bring cash for Russian church.</title>
+<headline>Drunk driver fines bring cash for Russian church.</headline>
+<dateline>MOSCOW 1997-05-08</dateline>
+<text>
+<p>Police in southern Russia raised over two billion roubles ($350,000) to build a new church by giving drunk drivers a choice of paying up or losing their licences, Itar-Tass news agency said on Thursday.</p>
+<p>Tass, quoting the regional prosecutor's office in the city of Volgograd, said city drivers who failed drunk driving tests were given the option of transferring one million roubles ($175) to the fund to build the church or losing their licence.</p>
+<p>The fine was 600,000 roubles for drivers from the countryside.</p>
+<p>The prosecutor's office said some of the money from the 3,500 drivers who chose to pay up went to the church fund or was used to repair existing church buildings. ($ = 5748 Russian Roubles)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

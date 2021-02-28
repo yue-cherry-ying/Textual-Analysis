@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479296" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Connecticut committee OKs Burma sanctions bill.</title>
+<headline>Connecticut committee OKs Burma sanctions bill.</headline>
+<dateline>HARTFORD 1997-04-01</dateline>
+<text>
+<p>A Connecticut legislative committee on Tuesday approved a bill that would prohibit the state from purchasing goods and services from companies doing business in Burma.</p>
+<p>The measure, introduced by Democratic Rep. Jessie Stratton, is similar to a bill adopted by Massachusetts last year and signed into law by Governor William Weld.</p>
+<p>&quot;This bill represents a strong stand against repression and for human rights,&quot; Stratton said. &quot;The legislation would end any support Connecticut provides through its purchasing policies for Burma's totalitarian regime.&quot;</p>
+<p>Among the U.S. companies that have pulled out of Burma are Eastman-Kodak, Hewlett-Packard Co, Apple Computer Inc and Eddie Bauer.</p>
+<p>On the federal level, several U.S. senators have urged President Bill Clinton to impose sanctions on Burma authorized by Congress.</p>
+<p>-- Hartford newsroom (860) 727-0224</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARTFORD"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

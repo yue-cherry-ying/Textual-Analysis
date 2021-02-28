@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479829" id="root" date="1997-04-01" xml:lang="en">
+<title>UK: Algeria's Sonatrach cuts Apr LPG to $175/$180 a to.</title>
+<headline>Algeria's Sonatrach cuts Apr LPG to $175/$180 a to.</headline>
+<dateline>LONDON 1997-04-01</dateline>
+<text>
+<p>Algeria's state oil and gas company Sonatrach has cut its official posted prices for liquefied petroleum gas (LPG) for April, Sonatrach said on Monday.</p>
+<p>Propane prices have been set at $175 a tonne for loading at Bethioua, a drop of $20 from the official price for March.</p>
+<p>Butane falls to $180 a tonne, a drop of $35 from last month.</p>
+<p>The premium for loadings from Skikda is $7 a tonne, Sonatrach said.</p>
+<p>-- London Newsroom +44 171 542 5387</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

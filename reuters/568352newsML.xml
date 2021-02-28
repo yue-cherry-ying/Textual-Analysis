@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568352" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Cypress Financial Q2 net falls.</title>
+<headline>Cypress Financial Q2 net falls.</headline>
+<dateline>CYPRESS, Calif. 1997-05-08</dateline>
+<text>
+<p>Cypress Financial Services Inc  reported profits of $1,778 for the second fiscal quarter ended March 31, 1997 compared with profits of $48,444 during the same period a year ago. Revenues for the  second quarter were $1,375,938 compared with $1,216,868 for the  first quarter.</p>
+<p>For the six months ended March 31, 1997, the company reported  revenues of $2,592,806 as compared with $2,461,374 for the six  months ended March 31, 1996.  The 5.3 percent increase in revenues  resulted from the increase in the company's sales and collection of  its portfolio receivables.</p>
+<p>The company reported a net loss of $133,642 for the six months ended March 31, 1997 as compared with a net loss of $11,910 for the six months ended March 31, 1996.</p>
+<p>The increase in net loss was due  to increases in operating expenses and certain revenue loss during the first quarter.</p>
+<p>In January 1995, Cypress Financial Services Inc. diversified its  operations from recovery of accounts receivable on contingency to  include the company's direct purchases of discounted portfolio  receivables for its own collection account.  The company recognized a $507,688 gross profit from this activity for the six months ended  March 31, 1997 as compared with a $48,050 gross profit recognized  for the six months ended March 31, 1996.</p>
+<p>The company has a remaining face value portfolio receivables balance of $63,468,530 as of March 31, 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CYPRESS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

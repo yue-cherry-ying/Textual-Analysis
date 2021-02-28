@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478160" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Clinton yet to receive Fed candidate list - official.</title>
+<headline>Clinton yet to receive Fed candidate list - official.</headline>
+<dateline>WASHINGTON 1997-04-01</dateline>
+<text>
+<p>President Clinton has not yet received a list from his economic advisers of potential nominees to the Federal Reserve Board, a senior Treasury Department official said on Tuesday.</p>
+<p>The official, who declined to be named, told reporters that he believed that the administration was &quot;getting close&quot; to deciding on its nominees.</p>
+<p>But, in response to a question, he said that a list of potential candidates had not yet been submitted to Clinton.  </p>
+<p>White House spokesman Mike McCurry said on Monday he doubted there would be announcements on filling the two Federal Reserve Board vacancies this week.</p>
+<p>The two posts opened up with the departure earlier this year of Janet Yellen for the White House and Lawrence Lindsey for the private sector.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

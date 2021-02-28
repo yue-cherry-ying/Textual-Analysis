@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478534" id="root" date="1997-04-01" xml:lang="en">
+<title>SOUTH AFRICA: U.N. Zaire envoy resting in S.Africa.</title>
+<headline>U.N. Zaire envoy resting in S.Africa.</headline>
+<dateline>CAPE TOWN 1997-04-01</dateline>
+<text>
+<p>United Nations special envoy to Zaire Mohamed Sahnoun was resting at a health spa near Stellenbosch on Tuesday ahead of talks in South Africa to end the civil war in Zaire, a U.N. official said.</p>
+<p>The official, travelling with Sahnoun, said Sahnoun was not ill. He told Reuters the envoy was resting before leading peace negotiations, probably on Saturday, between representatives of Zaire's President Mobutu Sese Seko and the rebel movement of Laurent Kabila.</p>
+<p>&quot;You could say he is marking time,&quot; the official said, addding that Sahnoun was expected to stay at the spa for &quot;the next day or so&quot;.</p>
+<p>Sahnoun, who also represents the Organisation of African Unity, brought representatives from Mobutu's embattled government and rebel forces together in Togo last week and is expected to head the next meeting between the two sides.</p>
+<p>The United Nations said that the talks were tentatively scheduled for Saturday.</p>
+<p>Kabila's rebels have been fighting Mobutu's forces since October and now control a quarter of the country from the east.</p>
+<p>A ceasefire date and the agenda remain to be worked out by the two sides. A rebel spokesman has said the first session will prepare a meeting between Mobutu and Kabila to discuss Mobutu's departure.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

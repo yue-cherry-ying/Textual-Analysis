@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522585" id="root" date="1997-04-19" xml:lang="en">
+<title>SWEDEN: SWIMMING-ELLEM WINS SECOND WORLD BREASTSTROKE GOLD.</title>
+<headline>SWIMMING-ELLEM WINS SECOND WORLD BREASTSTROKE GOLD.</headline>
+<dateline>GOTHENBURG, Sweden 1997-04-19</dateline>
+<text>
+<p>Fifteen-year-old Australian Kristy Ellem completed a golden double at the world short-course swimming championships when she won an extremely close women's 100 metres breaststroke final on Saturday.</p>
+<p>Ellem, who won Friday's 200 breaststroke with nearly three seconds to spare, had no such leeway in the shorter race and secured victory in her final lunge to the wall.</p>
+<p>She claimed Australia's seventh title of the four-day championships in one minute 8.27 seconds, just 0.06 seconds ahead of Poland's Alicja Peczak, who added a silver to the bronze she won in the event in 1995.</p>
+<p>Ukraine's Svitlana Bondarenko, silver medallist last time, took the bronze a further 0.06 seconds back.</p>
+<p>South Africa's Joanne Russell, the morning's fastest qualifier, was fourth in 1:08.41. A mere 0.14 seconds separated the top four.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOTHENBURG, Sweden"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

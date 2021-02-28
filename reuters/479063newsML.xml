@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479063" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Stocks leading percentage gains and losses.</title>
+<headline>Stocks leading percentage gains and losses.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Following are the largest percentage gains and losses based on trading on the New York and American stock exchanges Tuesday.</p>
+<p>NYSE BIGGEST PERCENT GAINS</p>
+<p>  BT OFFICE PROD	  8 7/8     +1 1/8   14.5</p>
+<p>  EA INDUSTRIES	   3 3/8     +3/8     12.5</p>
+<p>  SYNOVUS FINAN	   33 1/8    +3 5/8   12.3</p>
+<p>  APPLIED MAGNETIC	31 1/2    +3 1/4   11.5</p>
+<p>  AMERICA ONLINE	  46 1/2    +4 1/8   9.7</p>
+<p>  J &amp; L SPECIALITY	13 1/8    +1 1/8   9.4</p>
+<p>  CONSECO INC	     38 7/8    +3 1/4   9.1</p>
+<p>  MONEYGRAM PYMT	  9	   +3/4     9.1</p>
+<p>  EVEREN CAPITAL	  22	  +1 3/4   8.6</p>
+<p>  PIMCO ADVISORS	  22 1/2    +1 3/4   8.4</p>
+<p>----</p>
+<p>NYSE BIGGEST PERCENT LOSSES</p>
+<p>  CATALINA MKT	    29 7/8    -10 3/4  -26.5</p>
+<p>  MYLAN LABS		12 5/8    -2	 -13.7</p>
+<p>  SITEL CORP		11 3/4    -1 5/8   -12.2</p>
+<p>  GETTY PETRO	     4 3/8     -1/2     -10.3</p>
+<p>  AM PAD &amp; PAPER	  13 1/2    -1 1/2   -10.0</p>
+<p>  PHARM RES INC	   2 1/2     -1/4     -9.1</p>
+<p>  TRANS REALTY	    11 3/8    -1 1/8   -9.0</p>
+<p>  RIGHTCHOICE MNG	 12	  -1 1/8   -8.6</p>
+<p>  BEAZER HOMES	    13 1/2    -1 1/4   -8.5</p>
+<p>  ARTRA GROUP INC	 4 1/8     -3/8     -8.3</p>
+<p>----</p>
+<p>AMEX BIGGEST PERCENT GAINS</p>
+<p>  SILVERADO		 2 3/8     +5/16    15.2</p>
+<p>  HEARTLAND CL A	  8	   +1	 14.3</p>
+<p>  INTERSTATE GEN	  3 1/2     +3/8     12.0</p>
+<p>  GENCOR INDS	     16 3/4    +1 5/8   10.7</p>
+<p>  STORAGE COMP	    13 3/4    +1 1/4   10.0</p>
+<p>  MAGNUM HUNTER	   5 9/16    +1/2     9.9</p>
+<p>  ARRHYTHMIA RESEA	2 1/4     +3/16    9.1</p>
+<p>  EXX CL A		  3	   +1/4     9.1</p>
+<p>  SHEFF MED TECH	  3	   +1/4     9.1</p>
+<p>  PLC SYSTEMS INC	 19 1/4    +1 1/2   8.5</p>
+<p>----</p>
+<p>AMEX BIGGEST PERCENT LOSSES</p>
+<p>  EMPIRE OF CAROLA	2 5/8     -5/8     -19.2</p>
+<p>  CORE MATERIAL	   3 1/16    -9/16    -15.5</p>
+<p>  FEMALE HEALTH	   2	   -1/4     -11.1</p>
+<p>  SIGNAL TECH	     6 1/4     -3/4     -10.7</p>
+<p>  MARLTON TECH	    3 1/4     -3/8     -10.3</p>
+<p>  AVIC GP INTL	    4 3/8     -7/16    -9.1</p>
+<p>  AMER EXPLORATION	10 1/4    -1	 -8.9</p>
+<p>  PHOENIX NTWRK	   2 9/16    -1/4     -8.9</p>
+<p>  BAY MEADOWS OP	  42	  -3 3/4   -8.2</p>
+<p>  NEOPHARM INC	    7	   -5/8     -8.2</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

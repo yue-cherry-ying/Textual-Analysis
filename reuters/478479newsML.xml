@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478479" id="root" date="1997-04-01" xml:lang="en">
+<title>CANADA: Non-profit corp buys Toronto airport's Terminal 3.</title>
+<headline>Non-profit corp buys Toronto airport's Terminal 3.</headline>
+<dateline>TORONTO 1997-04-01</dateline>
+<text>
+<p>The Greater Toronto Airports Authority (GTAA) said on Tuesday that it had agreed to buy the Trillium Terminal Three at Toronto's Lester B. Pearson International airport.</p>
+<p>The Authority said it signed an agreement in principle with Terminal 3 Limited Partnership and Terminal 3 Development Corp, a private consortium whose owners include Toronto's Bronfman family.</p>
+<p>The closing date for the purchase of the newest terminal at Canada's busiest airport and is expected within 60 days. The sale is subject to due diligence and a number of conditions including the financing arrangements.</p>
+<p>&quot;This is a major acquisition for the Authority and is consistent with the strategy we have followed to consolidate the properties and facilities we require to move ahead with our airside and terminal development programs,&quot; said Louis Turpen, president and chief executive officer of the Greater Toronto Airports Authority.</p>
+<p>The purchase of Terminal 3 comes just over six years after it opened as Canada's first international air terminal to be designed, financed and constructed by the private sector. The terminal covers a total area of 130,060 square meters with 24 boarding gates. In 1996 Terminal 3 handled approximately 7.5 million passengers.</p>
+<p>((Reuters Toronto Bureau 416 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

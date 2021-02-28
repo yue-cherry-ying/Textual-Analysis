@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478155" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: General Employment opens Palo Alto office.</title>
+<headline>General Employment opens Palo Alto office.</headline>
+<dateline>OAKBROOK TERRACE, Ill. 1997-04-01</dateline>
+<text>
+<p>General Employment Enterprises Inc said Tuesday it opened an office in Palo Alto, Calif., its 10th in that state.</p>
+<p>Plans for the fiscal year ending September 30 include opening a total of eight new permanent-contract staffing offices. To date, the company has opened five new offices. It expects to open new branches in southern California and suburban Chicago by the end of the fiscal year.</p>
+<p>General Employment, which specializes in placement of information technology personnel in permanent positions and on contract assignments, now has 34 branches.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKBROOK TERRACE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

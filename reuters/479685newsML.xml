@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479685" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: ChemTrak full 1996 restated results.</title>
+<headline>ChemTrak full 1996 restated results.</headline>
+<dateline>SUNNYVALE, Calif. 1997-03-31</dateline>
+<text>
+<p>ChemTrak Inc.</p>
+<p>				    Restated Results</p>
+<p>					S's in 000's</p>
+<p>		Q2 FY96	     Q3 FY96		  Y/E FY96</p>
+<p>	 Previous Adjusted  Previous Adjusted  Previous Adjusted</p>
+<p>Total</p>
+<p> Revenues   606  606	  583	583     3,061     3,061</p>
+<p>Total cost &amp;</p>
+<p>operating</p>
+<p> expenses 2,732 2,732     2,431     2,431    10,071    10,071</p>
+<p>Operating</p>
+<p>Income</p>
+<p> (loss) (2,126) (2,126) (1,848)    (1,848)   (7,010)   (7,010)</p>
+<p>Interest</p>
+<p> Expense  --	(656)    --	  (219)	 --	(875)</p>
+<p>Interest</p>
+<p> Income  (7)	  (7)     (20)	(20)	  59	  59</p>
+<p>Net loss(2,133) (2,789)  (1,868)   (2,087)    (6,851)  (7,826)</p>
+<p>Shr	(0.22)  (0.29)   (0.18)    (0.20)     (0.68)   (0.77)</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

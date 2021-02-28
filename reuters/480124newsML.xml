@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480124" id="root" date="1997-04-01" xml:lang="en">
+<title>FRANCE: France urges Israel, Palestinians to talk.</title>
+<headline>France urges Israel, Palestinians to talk.</headline>
+<dateline>PARIS 1997-04-01</dateline>
+<text>
+<p>France on Tuesday urged Israelis and Palestinians to resume talks to dispel a crisis in their relations and warned the peace process was in danger.</p>
+<p>&quot;These tragic events show once again the urgent need to immediately resume Israeli-Palestinian negotiations on all pending political and security issues,&quot; Foreign Ministry spokesman Yves Doutriaux told a news briefing.</p>
+<p>&quot;...if this doesn't happen there is a risk of bogging down the peace process,&quot; he said.</p>
+<p>Doutriaux said France was deeply concerned by clashes between Israeli soldiers and Palestinian stone-throwers in the West Bank which started after Prime Minister Benjamin Netanyahu broke ground on a Jewish settlement in Arab East Jerusalem last month. A Palestinian suicide bomber later killed three Israeli women at a Tel Aviv cafe.</p>
+<p>&quot;French authorities regret that the continual deterioration of the situation in the Palestinian territories has led in recent days to additional violence, notably, the death of a Palestinian student, as well as the failed attacks yesterday which could have caused several victims,&quot; he added.</p>
+<p>A Palestinian student died last week in the violence and two Palestinians blew themselves up in the Gaza Strip on Tuesday in what the Israeli army said were apparent separate suicide attacks aimed at killing Jews.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522599" id="root" date="1997-04-19" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN LEAGUE CHAMPIONSHIP RESULTS/STANDINGS.</title>
+<headline>SOCCER-GERMAN LEAGUE CHAMPIONSHIP RESULTS/STANDINGS.</headline>
+<dateline>BONN 1997-04-19</dateline>
+<text>
+<p>Results of soccer matches played</p>
+<p>in the German league championship on Saturday:</p>
+<p>Played on Saturday:</p>
+<p> 1860 Munich		0    VfL Bochum		     1</p>
+<p> Freiburg		   4    St Pauli			 0</p>
+<p> Werder Bremen	    1    Karlsruhe			0</p>
+<p> Hamburg		    1    Schalke			  0</p>
+<p> Cologne		    2    Arminia Bielefeld	    5</p>
+<p> Borussia Dortmund	1    Bayern Munich		  1</p>
+<p>Played on Friday</p>
+<p> Hansa Rostock	    1    Borussia Moenchengladbach  0</p>
+<p> Fortuna Duesseldorf    1    Duisburg			 1</p>
+<p>Playing on Sunday:</p>
+<p> VfB Stuttgart     v Bayer Leverkusen</p>
+<p>Bundesliga standings after Saturday's games</p>
+<p>					 P     W   D   L     F   A   Pts</p>
+<p> Bayern Munich		 28    17   8   3    51  27    59</p>
+<p> Borussia Dortmund	   28    16   5   7    56  34    53</p>
+<p> Bayer Leverkusen	    27    16   5   6    53  33    53</p>
+<p> VfB Stuttgart		 27    15   7   5    66  28    52</p>
+<p> Bochum			  28    11  10   7    41  40    43</p>
+<p> 1860 Munich		   28    10   9   9    45  42    39</p>
+<p> Werder Bremen		 28    11   6  11    42  43    39</p>
+<p> Schalke			 28    10   9   9    32  33    39</p>
+<p> Karlsruhe		     28    10   8  10    43  37    38</p>
+<p> Duisburg			28     9   9  10    34  41    36</p>
+<p> Borussia Moenchengladbach 28    10   5  13    31  36    35</p>
+<p> Hamburg			 28     8  10  10    39  44    34</p>
+<p> Arminia Bielefeld	   28     9   7  12    36  41    34</p>
+<p> Cologne			 28    10   4  14    46  55    34</p>
+<p> Hansa Rostock		 28     8   6  14    30  41    30</p>
+<p> Fortuna Duesseldorf	 28     8   5  15    23  45    29</p>
+<p> St Pauli			28     7   6  15    31  51    27</p>
+<p> Freiburg			28     5   3  20    34  62    18</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

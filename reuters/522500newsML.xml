@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522500" id="root" date="1997-04-19" xml:lang="en">
+<title>USA: GOLF-VETERAN CADDIE UNDERGOES BONE MARROW TRANSPLANT.</title>
+<headline>GOLF-VETERAN CADDIE UNDERGOES BONE MARROW TRANSPLANT.</headline>
+<dateline>HILTON HEAD ISLAND, South Carolina 1997-04-18</dateline>
+<text>
+<p>Well-known caddie Jeff &quot;Squeeky&quot; Medlen underwent a second bone narrow transplant on Thursday, Nick Price said Friday.</p>
+<p>Price, who was leading the PGA Tour event here after two rounds, told reporters that Medlen had received his mother's bone marrow for the second time, after a first transplant three months ago proved unsuccessful.</p>
+<p>&quot;He didn't want to have it done at all (but) that is about the only thing that is going to save his life right now,&quot; Price said.</p>
+<p>&quot;It is the only option. He is sicker now than he has ever been. I went to see him the Sunday before Augusta and I hardly recognised him. It was very, very sad.&quot;</p>
+<p>Medlen, 42, worked for Price for six years before quitting last November, four months after learning he had leukaemia.</p>
+<p>He underwent the latest transplant at the Ohio State University Hospital in Columbus.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HILTON HEAD ISLAND, South Carolina"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

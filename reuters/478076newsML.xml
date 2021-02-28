@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478076" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Supertel opens Wingate, buys Super 8 hotel.</title>
+<headline>Supertel opens Wingate, buys Super 8 hotel.</headline>
+<dateline>NORFOLK, Neb. 1997-04-01</dateline>
+<text>
+<p>Supertel Hospitality Inc said Tuesday it opened its first Wingate Inn, near Irving, Texas, and acquired a Super 8 motel in Menomonie, Wisconsin.</p>
+<p>The 101-room hotel is Supertel's first Wingate Inn under a development agreement with Wingate Inns LP, a subsidiary of HFS Inc.</p>
+<p>Supertel said it plans to open its second Wingate Inn, near Houston's Intercontinental Airport, in the third quarter of 1997.</p>
+<p>Supertel's Super 8 purchase is its seventh property in Wisconsin.</p>
+<p>The 81-room Menomonie Super 8 was purchased for cash from a private investor.</p>
+<p>With the addition of the Wingate Inn and the Menomonie Super 8, Supertel now has 4,335 rooms, up from 4,156 at year-end 1996, the company said.</p>
+<p>Supertel owns and operates limited-service lodging properties under the Super 8, Comfort Inn and Wingate Inn names.  The company has 61 motels, primarily in the Midwest and Texas.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORFOLK, Neb."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

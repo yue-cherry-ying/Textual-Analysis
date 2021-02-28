@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522874" id="root" date="1997-04-19" xml:lang="en">
+<title>SRI LANKA: Sri Lankan death toll in haj fire rises to three.</title>
+<headline>Sri Lankan death toll in haj fire rises to three.</headline>
+<dateline>COLOMBO 1997-04-18</dateline>
+<text>
+<p>Three Sri Lankans died in the fire at the sacred haj ritual in Mena, Saudi Arabia, up from the initial estimate of two, the Foreign Ministry said on Friday.</p>
+<p>Sri Lanka's envoy in the kingdom and its health minister, who was on a pilgrimage, are helping the Sri Lankan pilgrims following Tuesday's blaze that swept through 70,000 white tents in the Mena plain, 11 km (seven miles) from Mecca.</p>
+<p>The fire killed 343 people and injured 1,290 of an estimated two million Moslems from 100 countries who had gathered for the annual haj pilgrimage.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

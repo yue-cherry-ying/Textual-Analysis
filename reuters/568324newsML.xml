@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568324" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: RESEARCH ALERT - Kent Electronics cut.</title>
+<headline>RESEARCH ALERT - Kent Electronics cut.</headline>
+<text>
+<p>-- Jefferies &amp; Co Inc cut its rating on shares of Kent Electronics Corp to hold from accumulate due because of a recent run-up in the stock price.</p>
+<p>-- &quot;We believe the stock's current valuation fairly reflects earnings per share growth of 20 percent over the next three to five years,&quot; Jefferies said in a statement.</p>
+<p>-- The investment brokerage has a 12-month price target of $30 a share on Kent stock. It was off 5/8 to 27-3/4 by midday Thursday.</p>
+<p>-- As recently as April 23 shares of Kent, a value-added electronics distributor and contract manufacturer, closed at 22-1/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522782" id="root" date="1997-04-19" xml:lang="en">
+<title>USA: North Koreans again fail to show up for talks.</title>
+<headline>North Koreans again fail to show up for talks.</headline>
+<dateline>NEW YORK 1997-04-19</dateline>
+<text>
+<p>North Korea failed to appear on Saturday for scheduled talks with the United States and South Korea on Korean peninsula peace efforts and there was speculation that their meeting might again be delayed.</p>
+<p>A spokesman at North Korea's mission to the United Nations told Reuters by telephone that the talks might take place on Sunday, but a U.S. spokesman said he had not yet received word from the U.S. delegation as to what was happening.</p>
+<p>&quot;Obviously it is 10 a.m. (1400 GMT) and we have no North Koreans here,&quot; U.S. spokesman Ken Bailies told reporters.</p>
+<p>He said the U.S. and South Korean delegations were in the New York Palace Hotel where the talks were to take place.</p>
+<p>The talks, which were carried over from Wednesday, were called to hear Pyongyang's formal response to a U.S.-South Korean proposal for landmark peace talks that would finally close the books on the 1950-53 Korean War.</p>
+<p>They were originally scheduled for Friday but the North Koreans failed to appear, saying later they were awaiting instructions from Pyongyang.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

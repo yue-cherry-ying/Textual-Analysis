@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522545" id="root" date="1997-04-19" xml:lang="en">
+<title>ISRAEL: SOCCER-ISRAELI FIRST DIVISION RESULTS/STANDINGS.</title>
+<headline>SOCCER-ISRAELI FIRST DIVISION RESULTS/STANDINGS.</headline>
+<dateline>JERUSALEM 1997-04-19</dateline>
+<text>
+<p>Result of Israeli first</p>
+<p>division soccer match played at the weekend:</p>
+<p> Zafririm Holon	    0    Maccabi Petah Tikva     1</p>
+<p> Hapoel Beit She'an	3    Hapoel Haifa		0</p>
+<p> Ironi Rishon Lezion     2    Hapoel Beersheba	  1</p>
+<p> Hapoel Jerusalem	  0    Maccabi Herzliya	  1</p>
+<p> Hapoel Tel Aviv	   2    Maccabi Tel Aviv	  1</p>
+<p> Hapoel Kfar Sava	  0    Betar Jerusalem	   1</p>
+<p> Maccabi Haifa	     2    Bnei Yehuda		 1</p>
+<p> Hapoel Petah Tikva	3    Hapoel Taibe		0</p>
+<p>    Standings	   P    W     D    L   F   A     PTS</p>
+<p> Betar Jerusalem	26   19    4    3   54  16     61</p>
+<p> Hapoel Petah Tikva   26   16    6    4   47  25     54</p>
+<p> Hapoel Beersheba     26   17    2    7   41  23     53</p>
+<p> Maccabi Petah Tikva  26   13    7    6   37  21     46</p>
+<p> Maccabi Tel Aviv     26   13    6    7   45  28     45</p>
+<p> Maccabi Haifa	  26    9    9    8   31  28     36</p>
+<p> Hapoel Kfar Sava     26   10    6   10   28  28     36</p>
+<p> Hapoel Haifa	   26   10    5   11   28  30     35</p>
+<p> Bnei Yehuda	    25    9    6   10   25  31     33</p>
+<p> Hapoel Beit She'an   26    8    6   12   24  27     30</p>
+<p> Maccabi Herzliya     26    9    3   14   17  24     30</p>
+<p> Ironi Rishon Lezion  26    8    6   12   29  44     30</p>
+<p> Hapoel Jerusalem     26    8    5   13   26  37     29</p>
+<p> Hapoel Tel Aviv	26    5    9   12   15  26     24</p>
+<p> Zafririm Holon	 26    4    9   13   15  34     21</p>
+<p> Hapoel Taibe	   25    4    1   20   14  54     13</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

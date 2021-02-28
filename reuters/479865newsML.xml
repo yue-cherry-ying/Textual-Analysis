@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479865" id="root" date="1997-04-01" xml:lang="en">
+<title>TURKEY: Istanbul gold prices mixed, volume dives.</title>
+<headline>Istanbul gold prices mixed, volume dives.</headline>
+<dateline>ISTANBUL 1997-04-01</dateline>
+<text>
+<p>Traded volume on the Istanbul gold exchange shrank to 1,490 kilos on Tuesday from Monday's record 2,570 kilos.</p>
+<p>Gold closed unchanged in dollar terms at $351.00 per ounce and easier in lira terms at 1,439,800 lira per gram compared to 1,442,100 on Monday as the lira firmed slightly against the dollar.</p>
+<p>&quot;There was some physical demand though not as much as expected. Most of the day's trade was from banks registering imported gold on the exchange,&quot; one dealer said.</p>
+<p>Bourse members must register imported gold on the exchange by selling and buying the gold themselves before they can sell it to non-member third parties in the free market.</p>
+<p>The lira edged higher to 127,630 to the dollar from 127,650 on Monday.</p>
+<p>Most of the day's trade -- 1,390 kilos -- took place in the morning session with 53.3 percent of trade in dollar terms.</p>
+<p>--Istanbul newsroom +90-212-2750875</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569605" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Witness saw McVeigh in truck used in Oklahoma blast.</title>
+<headline>Witness saw McVeigh in truck used in Oklahoma blast.</headline>
+<dateline>DENVER 1997-05-08</dateline>
+<text>
+<p>A witness testified on Thursday that just days before the Oklahoma City blast that killed 168 people, he saw Timothy McVeigh in the same brand of rental truck that investigators said was used in the blast.</p>
+<p>But Eric McGowan, the 19-year-old son of the owner of the Dreamland Motel in Junction City, Kansas, said he could not say for sure which day he saw McVeigh in the truck.  </p>
+<p>The government claims that a Ryder truck was used to house and transport the bomb that blew up the Alfred P. Murrah federal building on April 19, 1995.</p>
+<p>Under questioning from prosecutors McGowan said that in interviews with the news media he may have said he saw McVeigh in the truck on April 16 -- three days before the bombing -- but that he was never really certain about that.</p>
+<p>Government prosecutors claimed McVeigh picked up the Ryder truck at Elliott's Body Shop in Junction City, Kansas two days before the bombing.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

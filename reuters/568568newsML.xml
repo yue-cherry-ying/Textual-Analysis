@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568568" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Check Technology Corp Q2 March 31 net off.</title>
+<headline>Check Technology Corp Q2 March 31 net off.</headline>
+<dateline>MINNEAPOLIS 1997-05-08</dateline>
+<text>
+<p>Three Month Period  Six Month Period</p>
+<p>			     Ended March 3l,     Ended March 3l,</p>
+<p>			   1997	 1996	  1997	  1996</p>
+<p> Net Sales	 6,201,000  6,670,000  11,689,000  12,943,000</p>
+<p>Income from system sales</p>
+<p>  and service	324,000    781,000     351,000   1,376,000</p>
+<p> Interest Income    83,000     93,000     177,000     183,000</p>
+<p>Income before unrealized</p>
+<p>exchange gain (loss) &amp;</p>
+<p>  income taxes     407,000    874,000     528,000   1,559,000</p>
+<p>Unrealized exchange gain</p>
+<p>  (loss)	    (35,000)     11,000    (31,000)	16,000</p>
+<p>Income before income taxes</p>
+<p>			 372,000    885,000     497,000   1,575,000</p>
+<p>Income tax expense</p>
+<p>			 130,000    177,000     155,000     315,000</p>
+<p> Net income	  242,000    708,000     342,000   1,260,000</p>
+<p> Earnings per share   O.04	 0.11	  0.05	  0.20</p>
+<p> Average shares  6,411,100  6,354,000   6,428,000   6,338,000</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

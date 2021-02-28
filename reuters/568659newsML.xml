@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568659" id="root" date="1997-05-08" xml:lang="en">
+<title>UK: SOCCER-ENGLISH PREMIER LEAGUE RESULTS/STANDINGS.</title>
+<headline>SOCCER-ENGLISH PREMIER LEAGUE RESULTS/STANDINGS.</headline>
+<dateline>LONDON 1997-05-08</dateline>
+<text>
+<p>Results of English premier league</p>
+<p>soccer matches on Thursday:</p>
+<p> Blackburn	     0  Middlesbrough  0  </p>
+<p> Manchester United   0  Newcastle	0</p>
+<p>    Standings		   P  W  D  L  F A   Pts</p>
+<p>  1.Manchester United	37 20 12  5 74 44   72</p>
+<p>  2.Liverpool		  37 19 10  8 61 36   67</p>
+<p>  3.Newcastle		  37 18 11  8 68 40   65</p>
+<p>  4.Arsenal		    37 18 11  8 59 31   65</p>
+<p>  5.Aston Villa		37 16 10 11 46 34   58</p>
+<p>  6.Chelsea		    37 15 11 11 56 54   56</p>
+<p>  7.Sheffield Wednesday    37 14 14  9 49 50   56</p>
+<p>  8.Wimbledon		  37 14 11 12 48 46   53</p>
+<p>  9.Tottenham		  37 13  7 17 43 49   46</p>
+<p> 10.Derby			37 11 13 13 44 55   46</p>
+<p> 11.Leeds			37 11 12 14 27 37   45</p>
+<p> 12.Leicester		  37 11 11 15 42 52   44</p>
+<p> 13.Blackburn		  37  9 15 13 40 39   42</p>
+<p> 14.West Ham		   37 10 12 15 39 46   42</p>
+<p> 15.Everton		    37 10 12 15 43 55   42</p>
+<p> 16.Southampton		37 10 11 16 50 55   41</p>
+<p> 17.Sunderland		 37 10 10 17 35 52   40</p>
+<p> 18.Middlesbrough	    37 10 11 16 50 59   38</p>
+<p> 19.Coventry		   37  8 14 15 36 53   38</p>
+<p> 20.Nottingham Forest	37  6 16 15 31 54   34</p>
+<p>Note: Middlesbrough deducted three points.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

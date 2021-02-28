@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478002" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Temporary restraining order issued in Dow-GE case.</title>
+<headline>Temporary restraining order issued in Dow-GE case.</headline>
+<dateline>DETROIT 1997-04-01</dateline>
+<text>
+<p>A judge on Tuesday issued a temporary restraining order against General Electric Co aimed at preventing the company from using alleged trade secrets that Dow Chemical Co says were stolen by GE.</p>
+<p>Dow filed suit against GE Tuesday morning in Oakland County Circuit Court in Pontiac, Mich. It is seeking monetary damages and a permanent injunction against GE's use of what Dow says is confidential information on automotive plastics technology.  </p>
+<p>The order, entered by Oakland County Circuit Judge Edward Sosnick, enjoins GE from engaging in any activity based on Dow's trade secrets or confidential information.</p>
+<p>The order also requires GE to return any documents taken from Dow by former employees and restructure the job of Darin Evans, a former Dow employee, to prevent him from using any Dow information. Evans was named as a defendant in the lawsuit,</p>
+<p>In addition, GE must refrain from destroying any records concerning 14 employees it hired away from Dow and refrain from new efforts to recruit Dow employees.</p>
+<p>Eugene Driker, a Detroit attorney representing Dow, said another hearing was scheduled for April 9 to determine whether the restraining order would be extended.</p>
+<p>GE spokesman Bruce Bunch said the company would comply with the order, but added that it &quot;will have no impact on our ongoing plastics business.&quot;</p>
+<p>GE maintains that Dow's suit is groundless and plans to vigorously defend against it.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

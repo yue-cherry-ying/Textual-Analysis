@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569241" id="root" date="1997-05-08" xml:lang="en">
+<title>MEXICO: Mild earthquakes shake Mexico City, Managua.</title>
+<headline>Mild earthquakes shake Mexico City, Managua.</headline>
+<dateline>MEXICO CITY 1997-05-08</dateline>
+<text>
+<p>A mild earthquake shook Mexico City on Thursday about two hours after another mild quake rocked parts of Nicaragua, but there were no immediate reports of damage or injuries.</p>
+<p>The Mexico quake occurred just after 11 a.m. local time (noon EDT) (1600 GMT), said John Minsch, a geologist at the U.S. National Earthquake Information Service in Golden, Colorado. He did not have a strength measurement.</p>
+<p>He said the Mexico quake followed one measured at 5.7 on the open-ended Richter scale in Nicaragua, which hit some 40 miles (64 km) south-southwest of the city of Chinandega on the Pacific Coast.</p>
+<p>U.S. President Bill Clinton had been on a state visit to Mexico until Wednesday night, but was in Costa Rica on Thursday, which neighbours Nicaragua.</p>
+<p>The Nicaragua quake took place at 8:01 local time (10:01 a.m. EDT) (1401 GMT) and was centred in the Pacific Ocean some 96 miles (155 km) east of Managua.</p>
+<p>During this century, two large earthquakes in 1931 and 1972 nearly destroyed Managua.</p>
+<p>On Sept. 19-20, 1985, twin earthquakes devastated Mexico City and nearby states. They measured 8.1 and 7.3 on the Richter scale. The death toll was more than 8,000, and damage was estimated at $5 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="NICG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

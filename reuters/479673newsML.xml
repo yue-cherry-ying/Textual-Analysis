@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479673" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Echostar Communications Q4 loss widens.</title>
+<headline>Echostar Communications Q4 loss widens.</headline>
+<dateline>ENGLEWOOD, Colo. 1997-04-01</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>								  Q4</p>
+<p>							 1996	  1995</p>
+<p> Total revenue				     54,018	40,619</p>
+<p> Total Expenses				   113,779	49,057</p>
+<p> Operating loss				  (59,761)     (8,438)</p>
+<p> Net loss					  (44,693)     (7,099)</p>
+<p> Net loss attributable to common shares  (44,994)     (7,400)</p>
+<p>Weighted average common shares outstanding</p>
+<p>							 40,824	37,544</p>
+<p>Loss per common and common equivalent share</p>
+<p>							 (1.10)	(0.20)</p>
+<p> Number of DISH Network subscribers	 350,000	    --</p>
+<p>								  Year</p>
+<p>							   1996	 1995</p>
+<p> Total revenue				    211,411     163,890</p>
+<p> Total Expenses				   320,756     171,917</p>
+<p> Operating loss				 (109,345)     (8,027)</p>
+<p> Net loss					 (100,986)    (11,486)</p>
+<p> Net loss attributable to common shares (102,190)    (12,690)</p>
+<p>Weighted average common shares outstanding</p>
+<p>							 40,548	35,562</p>
+<p>Loss per common and common equivalent</p>
+<p>  share						(2.52)	(0.36)</p>
+<p> Number of DISH Network subscribers	 350,000	    --</p>
+<p>NOTE: Full company name is EchoStar Communications Corp.</p>
+<p>((--New York Newsdesk 212 859-1610)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ENGLEWOOD, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

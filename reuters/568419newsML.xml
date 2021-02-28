@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568419" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: WellCare to cut about 15 pct of workforce.</title>
+<headline>WellCare to cut about 15 pct of workforce.</headline>
+<dateline>KINGSTON, N.Y. 1997-05-08</dateline>
+<text>
+<p>WellCare Management Group Inc on Thursday said it would reduce its staff by 45 employees after recent commercial disenrollments at its health maintenance organizations.</p>
+<p>The staff reductions, which represent 15 percent of the company's 310-employee workforce, were also a response to decreases in Medicaid reimbursement rates, the company said.</p>
+<p>&quot;However, WellCare expects to increase the number of employees in the marketing department by about five percent to support recently announced service area expansions,&quot; WellCare said in a statement.</p>
+<p>&quot;WellCare intends to continue to enroll and provide medical benefits to Medicaid patients, but we will likely be more selective in the counties in which we offer this service,&quot; it said.</p>
+<p>The WellCare Management Group Inc is the parent company of WellCare of New York Inc and WellCare of Connecticut Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINGSTON, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

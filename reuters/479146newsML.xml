@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479146" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: NYC's new financing arm selects three officers.</title>
+<headline>NYC's new financing arm selects three officers.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>The New York City Transitional Finance Authority at its first board meeting on Tuesday appointed three officers, who will be responsible for doing the leg-work and making recommendations to the board.</p>
+<p>Mark Page, the deputy director/general counsel of the city's Office of Management and Budget (OMB), will serve as the Authority's executive director.</p>
+<p>Alan Anders, the OMB's director, financing, policy and coordination, was appointed Treasurer.</p>
+<p>And Marjorie Henning, OMB's counsel, became Secretary.</p>
+<p>((--Joan Gralla, 212-859-1654))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

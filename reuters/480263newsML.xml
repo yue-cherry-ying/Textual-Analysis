@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480263" id="root" date="1997-04-01" xml:lang="en">
+<title>UK: MP Hamilton has right to stand in election-Major.</title>
+<headline>MP Hamilton has right to stand in election-Major.</headline>
+<dateline>LONDON 1997-04-01</dateline>
+<text>
+<p>Conservative member of parliament Neil Hamilton has the right to stand in the British election on May 1 so long as he has the support of his local party in Tatton, north west England, Prime Minister John Major said.</p>
+<p>&quot;Everyone who maintains the support of their constituency party and who protests their innocence has the right to stand at this election,&quot; Major told a news conference on Tuesday.</p>
+<p>&quot;That applies explicitly to Neil Hamilton, it applies as a general principle as well,&quot; he added. Hamilton is at the centre of sleaze allegations involving the receipt of payments for asking questions for businessmen in parliament.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478518" id="root" date="1997-04-01" xml:lang="en">
+<title>NIGERIA: Shell says Nigeria oil flow nearly back to normal.</title>
+<headline>Shell says Nigeria oil flow nearly back to normal.</headline>
+<dateline>LAGOS 1997-04-01</dateline>
+<text>
+<p>Oil multinational Royal Dutch Shell Group said on Tuesday its crude oil production in Nigeria was almost back to normal after it was disrupted by six days of communal protests last week.</p>
+<p>Tribesmen protesting against the relocation of their local council headquarters and another group angry that two communities were merged into one municipal council seized Shell oil stations on March 22 and in one area held 127 Nigerian Shell staff hostage.</p>
+<p>They were freed in batches after delicate negotiations.</p>
+<p>&quot;Oil production is slowly getting back to normal and we are currently just over 50,000 bpd (barrels per day) below normal production level,&quot; a spokesman for the local unit of Shell told Reuters in Lagos.</p>
+<p>At the height of the crisis, about 210,000 bpd of crude oil, or about 10 percent of Nigerian output was halted.</p>
+<p>The West African nation depends on crude oil exports for more than 90 percent of its foreign exchange income.</p>
+<p>Shell is vital to the Nigerian economy because it pumps about half the two million bpd of crude oil produced by the country in total.</p>
+<p>The Shell spokesman expected operations to be back to normal by the latter third of this month.</p>
+<p>Shell frequently bears the brunt of restive Nigerian oil-producing communities because unlike other oil firms in Nigeria almost all its operations are onshore. REUTER JIJ</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

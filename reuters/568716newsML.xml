@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568716" id="root" date="1997-05-08" xml:lang="en">
+<title>GERMANY: TENNIS-GERMAN OPEN RESULTS.</title>
+<headline>TENNIS-GERMAN OPEN RESULTS.</headline>
+<dateline>HAMBURG 1997-05-08</dateline>
+<text>
+<p>Results in the German Open men's</p>
+<p>tennis tournament on Thursday (prefix number denotes seeding):</p>
+<p>Second round 6-Wayne Ferreira (South Africa) beat Alberto</p>
+<p>Martin (Spain) 3-6 7-5 7-5</p>
+<p>Sergei Brugera (Spain) beat Jeff Tarango (U.S.) 4-6 6-3 6-2</p>
+<p>Jacobo Diaz (Spain) beat Paul Haarhuis (Netherlands)</p>
+<p>6-2 3-6 7-5</p>
+<p>Andrei Medvedev (Russia) beat 3-Richard Krajicek</p>
+<p>(Netherlands) 6-1 6-1</p>
+<p>7- Alberto Costa (Spain) beat Sjeng Schalken</p>
+<p>(Netherlands) 6-3 7-6 (7-3)</p>
+<p>9-Alex Corretja (Spain) beat Franciso Clavet (Spain)</p>
+<p>3-6 6-4 7-5</p>
+<p>Third round</p>
+<p>Tommy Haas (Germany) beat Oliver Gross (Germany) 5-7 7-5 6-3</p>
+<p>Add third round</p>
+<p>Hicham Arazi (Morocco) beat 1-Thomas Muster 6-1 6-2</p>
+<p>10-Felix Mantilla (Spain) beat 8-Boris Becker (Germany) 7-6</p>
+<p>(8-6)</p>
+<p>6-2</p>
+<p>11-Alberto Berasategui (Spain) beat 5-Marcelo Rios (Chile) 6-4</p>
+<p>6-1</p>
+<p>Bruguera beat Ferreira 6-1 6-3</p>
+<p>Medvedev beat Diaz 6-3 6-2</p>
+<p>Albert Costa beat Corretja 6-4 6-4</p>
+<p>2-Yevgeny Kafelnikov (Russia) beat Slava Dosedel (Czech</p>
+<p>Republic) 6-2 6-1</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

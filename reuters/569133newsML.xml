@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569133" id="root" date="1997-05-08" xml:lang="en">
+<title>CROATIA: Croatian money market rates steady, trade livelier.</title>
+<headline>Croatian money market rates steady, trade livelier.</headline>
+<dateline>ZAGREB 1997-05-08</dateline>
+<text>
+<p>Croatian money market rates were steady in slightly livelier trade on Thursday, dealers said.</p>
+<p>Morning trade exceeded 30 million kuna, the bulk in call money granted at a steady 10.5 percent.</p>
+<p>Most of the rest in term loans -- some five million kuna -- were one-month facilities, granted at 15 percent, unchanged from established levels.</p>
+<p>Borrowers sought another five million kuna this morning which could not be met, despite six million left on the supply side. Lenders and borrowers could not agree terms.</p>
+<p>Overnight trade on Wednesday totalled 67.8 million kuna.</p>
+<p>-- Davor Huic, Zagreb Newsroom, 385-1-4551840</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

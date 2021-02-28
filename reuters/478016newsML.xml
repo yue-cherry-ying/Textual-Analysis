@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478016" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Industrial Services FY 96 net decreases.</title>
+<headline>Industrial Services FY 96 net decreases.</headline>
+<dateline>LOUISVILLE, Ky. 1997-04-01</dateline>
+<text>
+<p>Years ended Dec. 31, 1996 and 1995</p>
+<p>						     1996	     1995</p>
+<p> Total revenue			   34,277,216	30,545,142</p>
+<p> Net income				   460,836	   704,159</p>
+<p>Earnings per common share</p>
+<p> Primary					   0.24		0.41</p>
+<p> Fully Diluted				   0.24		0.38</p>
+<p>NOTE:  Full name of the company is Industrial Services of America Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOUISVILLE, Ky."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

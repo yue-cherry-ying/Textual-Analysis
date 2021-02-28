@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568639" id="root" date="1997-05-08" xml:lang="en">
+<title>LIECHTENSTEIN: SOCCER-BALZERS BEAT VADUZ 3-2 IN LIECHTENSTEIN CUP FINAL.</title>
+<headline>SOCCER-BALZERS BEAT VADUZ 3-2 IN LIECHTENSTEIN CUP FINAL.</headline>
+<dateline>TREISEN, Liechtenstein 1997-05-08</dateline>
+<text>
+<p>Result of</p>
+<p>Liechtenstein Cup final on Thursday:</p>
+<p>Balzers  3 Vaduz 2 after extra time</p>
+<p>(halftime 0-0, 90 mins 1-1)</p>
+<p>Scorers:</p>
+<p>Balzers: Daniel Frick 46, Manfred Frick 108, 113</p>
+<p>Vaduz: Thomas Daumantas 75, Daniel Hassler 103</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LIECHT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TREISEN, Liechtenstein"/>
+<dc element="dc.creator.location.country.name" value="LIECHTENSTEIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

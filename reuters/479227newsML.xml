@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479227" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Yellen downplays economic impact of Wall St. drop.</title>
+<headline>Yellen downplays economic impact of Wall St. drop.</headline>
+<dateline>WASHINGTON 1997-04-01</dateline>
+<text>
+<p>White House chief economist Janet Yellen on Tuesday delivered an upbeat assessment of the U.S. economic outlook and played down concerns that the recent drop in the stock market would undermine growth.</p>
+<p>&quot;The indicators that we've seen out in recent weeks point to continued strength in the economy,&quot; Yellen, who heads the Council of Economic Advisers, told Reuters Financial Television. &quot;We see no sign of inflation on the horizon.&quot;  </p>
+<p>Yellen acknowledged that stock market swings can affect consumer spending, but she said that the impact is not that large and that consumer spending has remained strong.</p>
+<p>The stock market has dropped steeply in recent days as investors have taken fright after the Federal Reserve raised interest rates for the first time in over two years last week.</p>
+<p>&quot;We're on a strong growth path,&quot; Yellen said. &quot;The fundamentals ... look very sound.&quot;</p>
+<p>She said she thinks that growth in the just-ended first quarter rivalled that of the fourth, when the economy expanded at an annualized clip of 3.8 percent.  </p>
+<p>Yellen described the labor market as strong, with low unemployment, and said she expects that to continue.</p>
+<p>&quot;All of the indicators are pointing to a healthy, continued job creation,&quot; she said.</p>
+<p>But so far, the increase in worker compensation, including wages, has not outpaced productivity growth, she said.</p>
+<p>&quot;Profit margins continue to be strong,&quot; Yellen said, adding, &quot;I don't see any pressures at this point on profit margins that could suggest the need to pass through wage increases into price hikes.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480020" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Anchorage phone utility enters distance market.</title>
+<headline>Anchorage phone utility enters distance market.</headline>
+<dateline>ANCHORAGE 1997-03-31</dateline>
+<text>
+<p>The municipally-owned Anchorage Telephone Utility (ATU) launched long-distance service Monday, becoming the first local exchange in Alaska to enter that market.</p>
+<p>The new service, offered under subsidiary ATU Long Distance Inc., was made possible by the 1996 Telecommunications Act, company officials said.</p>
+<p>&quot;Our customers have told us they wanted a one-stop telecommunications company, but it took an act of Congress and many months of work at the state level before our wholly owned subsidiary was allowed to enter the long-distance market,&quot; Tom Edrington, chairman and general manager of ATU Telecommunications, said in a prepared statement.</p>
+<p>Long-distance service in Alaska has until now been split between AT&amp;T Alascom and General Communications Inc.</p>
+<p>ATU said it will provide its long-distance service through a combination of lines and services from AT&amp;T Alascom, General Communications and Frontier Communications, an out-of-state independent company.</p>
+<p>Most of the purchases of time and capacity will be from AT&amp;T Alascom, said Lana Johnson, a spokeswoman for ATU.</p>
+<p>ATU Telecommunications, operating for 80 years in Alaska's biggest city, is the largest local exchange company in Alaska and the 22nd largest independent telephone company in the nation.</p>
+<p>To stimulate its new long-distance business, ATU has offered a promotion featuring 300 free mintues for customers who sign up by April 30, with 300 additional minutes at the end of the first year of service and 60 more free minutes for each year of service.</p>
+<p>ATU has used the new long-distance service internally since January, Johnson said.</p>
+<p>Meanwhile, AT&amp;T Alascom and GCI have both filed requests and received permission to enter the Anchorage local telephone market, an enterprise also allowed under the Telecommunications Act, Johnson said.</p>
+<p>The municipality of Anchorage has tried three times to sell ATU. Two offers were rejected by voters and the most recent bid, in 1996, was rejected by Mayor Rick Mystrom and other city officials as too low.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANCHORAGE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

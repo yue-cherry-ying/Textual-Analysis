@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479599" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: RESEARCH ALERT - Telesp upped.</title>
+<headline>RESEARCH ALERT - Telesp upped.</headline>
+<text>
+<p>-- ING Barings analysts Vera Rossi, Patrick Jurczak and Andrew Friedman have raised their rating for Brazilian telephone company Telesp SA to buy from hold.</p>
+<p>-- &quot;We consider Telesp's total return of 29.2 percent (26 percent potential price appreciation plus 3.2 percent yield) to be attractive,&quot; they wrote in a March 31 report.</p>
+<p>-- The company's preferred shares were off four reais at 265 in Sao Paulo.</p>
+<p>((-- Wall Street desk (212) 859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

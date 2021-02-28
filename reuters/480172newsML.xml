@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480172" id="root" date="1997-04-01" xml:lang="en">
+<title>FINLAND: Finnish T-bill auction raises 460 mln markka.</title>
+<headline>Finnish T-bill auction raises 460 mln markka.</headline>
+<dateline>HELSINKI 1997-04-01</dateline>
+<text>
+<p>Result of the State Treasury Office's T-Bill auction April 1 versus March 25:</p>
+<p>			THIS AUCTION/PREVIOUS AUCTION</p>
+<p> Maturity, days   195/172		344/351</p>
+<p> Avge yld, pct   3.19/No bids	 3.50/3.50</p>
+<p> Highest yld     3.20/accepted	3.50/3.50</p>
+<p> Lowest  yld     3.18/		  3.50/3.47</p>
+<p> Amount,FIM million   420/		    40/1,118</p>
+<p> Bids, FIM million    520/195		200/1,168</p>
+<p>After today's auction, the outstanding amount of treasury bills is 45,601 million markka, the STO said.</p>
+<p>-- Helsinki newsroom +358-9-680 50 235, news@Reuters.fi</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

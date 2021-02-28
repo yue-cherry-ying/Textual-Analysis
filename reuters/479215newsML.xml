@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479215" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Amylin buys compounds from Hoechst.</title>
+<headline>Amylin buys compounds from Hoechst.</headline>
+<dateline>SAN DIEGO, Calif. 1997-04-01</dateline>
+<text>
+<p>Amylin Pharmaceuticals Inc said it acquired worldwide rights to a series of orally active compounds being evaluated for their ability to reduce risk factors of heart disease.</p>
+<p>It said in preclinical models the compounds have been shown to inhibit formation of plaque in blood vessels by lowering cholesterol, acting as anti-oxidants and reducing inflammation.</p>
+<p>Under terms of the agreement, Amylin is responsible for preclinical evaluation and clinical development of the compounds and Hoechst, upon completion of Phase II trials, will have a one-time right to enter a collaboration to continue developing the comound under a 50-50 cost and profit sharing arrangement.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

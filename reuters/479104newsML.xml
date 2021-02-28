@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479104" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: PRESALE - New Jersey Ed Facil. Authority.</title>
+<headline>PRESALE - New Jersey Ed Facil. Authority.</headline>
+<text>
+<p>AMT: 9,010,000	DATE: 04/03/97	NYC Time: 1100	CUSIP: 64605E</p>
+<p>ISSUER: New Jersey Educational Facilities Authority	   ST: NJ</p>
+<p>ISSUE: Rowan college of New Jersey issue, Series 1997C	TAX STAT:Exempt-REV</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 04/01/97							     SURE BID: Y</p>
+<p>DUE: 7/1/98-21						SR MGR:</p>
+<p>1ST CPN: 01/01/98</p>
+<p>CALL: 7/1/07 @ 101, dtp 7/1/09			  TIC</p>
+<p>DELIVERY: 4/24/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: PNC Bank, Edison</p>
+<p>L.O.: DeCotiis, Fitzpatrick &amp; Gluck, Trenton</p>
+<p>F.A.: A.H. Williams &amp; Co., Inc., Summit</p>
+<p>LAST SALE: $19,280,000 (AMBAC) 11/20/96 @ 5.4936% TIC; 21yrs 1mos Avg;BBI-5.60%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    140,000</p>
+<p>1999		    190,000</p>
+<p>2000		    195,000</p>
+<p>2001		    200,000</p>
+<p>2002		    210,000</p>
+<p>2003		    220,000</p>
+<p>2004		    245,000</p>
+<p>2005		    280,000</p>
+<p>2006		    290,000</p>
+<p>2007		    310,000</p>
+<p>2008		    325,000</p>
+<p>2009		    340,000</p>
+<p>2010		    365,000</p>
+<p>2011		    385,000</p>
+<p>2012		    405,000</p>
+<p>2013		    430,000</p>
+<p>2014		    450,000</p>
+<p>2015		    480,000</p>
+<p>2016		    510,000</p>
+<p>2017		    535,000</p>
+<p>2018		    575,000</p>
+<p>2019		    605,000</p>
+<p>2020		    645,000</p>
+<p>2021		    680,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

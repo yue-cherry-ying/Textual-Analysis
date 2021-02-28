@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568340" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: BI Inc Q3 March 31 net decreases.</title>
+<headline>BI Inc Q3 March 31 net decreases.</headline>
+<dateline>BOULDER, Colo. 1997-05-08</dateline>
+<text>
+<p>For the three months  For the nine months</p>
+<p>				     ended March 31,  ended March 31,</p>
+<p>				     1997     1996	1997     1996</p>
+<p> Total revenues		 13,289   9,488    33,828   27,686</p>
+<p>Provision for doubtful</p>
+<p>     accounts			471	30     1,038	 90</p>
+<p> Net income			  569     725     1,084    1,973</p>
+<p>Net Income per common and</p>
+<p>   common equivalent share    0.08    0.10	0.15     0.28</p>
+<p>Weighted average number of</p>
+<p>common and common equivalent</p>
+<p>   shares outstanding	  7,500   7,095     7,431    7,065</p>
+<p>	    (in thousands except per share amounts, unaudited)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569193" id="root" date="1997-05-08" xml:lang="en">
+<title>CHILE: Codelco El Teniente pit sees little drought impact.</title>
+<headline>Codelco El Teniente pit sees little drought impact.</headline>
+<dateline>SANTIAGO 1997-05-08</dateline>
+<text>
+<p>Chilean state copper company Codelco's El Teniente mine said it does not expect its copper production to be hurt by a serious drought this year which has dried dams, the country's main source of energy.</p>
+<p>The government has already cut power voltage by five percent in central Chile to conserve electricity and officials have warned that rationing could be on the way.</p>
+<p>&quot;If we reach rationing, it won't affect us directly as the mine has spare generating capacity which is not being used,&quot; said a spokesman for the mine.</p>
+<p>&quot;(But) if there were extreme rationing, then it would affect us like everyone else.&quot;</p>
+<p>The reduction in electricity voltage imposed last month has not had any impact on the mine, the largest copper producer in central Chile, he said.</p>
+<p>Other officials at the mine said that the water shortage has not hurt El Teniente's production of copper concentrates, a process which uses large amounts of water.</p>
+<p>&quot;We are in a critical phase but so far we are overcoming the problems caused by the drought,&quot; sain one official.</p>
+<p>The weather in coming southern hemisphere winter months will be crucial as the mine relies on rain and snowmelt to fill its dam and supply other water sources high in the Andes.</p>
+<p>El Teniente, the second largest of Codelco's four mines, produced 343,000 tonnes of fine copper last year.</p>
+<p>((-- Margaret Orgill, Santiago newsroom, 562-699-5595x212))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

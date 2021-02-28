@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480615" id="root" date="1997-04-01" xml:lang="en">
+<title>LEBANON: PRESS DIGEST - Lebanon -  April 1.</title>
+<headline>PRESS DIGEST - Lebanon -  April 1.</headline>
+<dateline>BEIRUT 1997-04-01</dateline>
+<text>
+<p>These are the leading stories in the Beirut press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AN-NAHAR</p>
+<p>--Lebanon's Hizbollah says it has no network in Canada. The group also denies any involvement in a bombing in Saudi Arabia last June that killed 19 U.S. airmen and wounded nearly 400 people.</p>
+<p>-The constitutional court to rule before the end of the week in appeals lodged by defeated candidates in last summer's parliamentary elections.</p>
+<p>AS-SAFIR</p>
+<p>-Foreign Minister Bouez: Some Arabs have started cutting normal ties with Israel. Israel cannot keep the benefits of a peace it is destroying.</p>
+<p>AL-ANWAR</p>
+<p>-Prime Minister Hariri's visit to Turkmenistan concentrated on possible investment opportunities in both countries.</p>
+<p>AD-DIYAR</p>
+<p>-Israel shelled south Lebanon areas.</p>
+<p>NIDA'A AL-WATAN</p>
+<p>-Maronite Patriarch Sfeir: The Lebanese people are plants that can only survive in an atmosphere of freedom and sovereignty.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

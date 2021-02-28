@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480146" id="root" date="1997-04-01" xml:lang="en">
+<title>GERMANY: German February 1997 metals output detailed.</title>
+<headline>German February 1997 metals output detailed.</headline>
+<dateline>ESCHBORN, Germany 1997-04-01</dateline>
+<text>
+<p>German copper and lead output rose in Jan/Feb 1997 while zinc and aluminium output was lower than in the same 1996 period, base metals data from the state statistics office Bundesamt fuer Wirtschaft (BAW) showed on Tuesday.</p>
+<p>Output of semi-finished non-ferrous metals products in the two months was higher than a year earlier while castings figures were lower, with the exception of aluminium.</p>
+<p>The report gave the following details, in tonnes --</p>
+<p>METALS OUTPUT	   Feb 97  Jan/Feb 97  Cumulative pct change</p>
+<p>								over Jan/Feb 96</p>
+<p>primary aluminium	43,958   92,640		  -  5.1</p>
+<p>electrolytic copper    45,766   97,231		  +  1.6</p>
+<p>zinc			 24,183   49,906		  -  7.8</p>
+<p>refined lead	     18,243   34,258		  +  3.0</p>
+<p>SEMI-FINISHED METALS  Feb 97  Jan/Feb 97   Pct change over 1996</p>
+<p>aluminium		 138,846  274,237		  + 13.3</p>
+<p>copper		    129,179  257,036		  +  5.0</p>
+<p>zinc			 12,684   25,753		  +  8.3</p>
+<p>lead			  3,868    7,598		  + 10.9</p>
+<p>nickel			1,796    3,417		  + 17.8</p>
+<p>METALS CASTINGS	 Feb 97   Jan/Feb 97  Pct change over 1996</p>
+<p>aluminium		  44,695    87,370		 +  2.8</p>
+<p>copper			6,364    13,215		 -  0.1</p>
+<p>zinc			  5,333    10,904		 -  1.6</p>
+<p>lead			    450	 982		 - 22.7</p>
+<p>Semis and castings figures included alloys. Nickel and tin castings data were not given.</p>
+<p>--Hamburg newsroom +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I22460">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ESCHBORN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

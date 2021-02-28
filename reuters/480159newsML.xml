@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480159" id="root" date="1997-04-01" xml:lang="en">
+<title>FINLAND: Merita says BankWatch ups its rating to C.</title>
+<headline>Merita says BankWatch ups its rating to C.</headline>
+<dateline>HELSINKI 1997-04-01</dateline>
+<text>
+<p>Finnish banking group Merita Oy said U.S. credit rating agency BankWatch had raised its risk rating to C from C/D, based on Merita's enhanced profitability after the crisis in the early 1990s and its good prospects.  </p>
+<p>&quot;BankWatch bases the improved risk rating on Merita group's continued improvement in profitability after the economic crisis that hit banks at the start of the 1990s, and on good future prospects,&quot; Merita said.</p>
+<p>Its risk rating was now at the same level as in 1992, it said, adding that BankWatch made the previous Merita upgrade to C/D from D in September 1995 when it also raised the long-term financing rating to A+ from A.</p>
+<p>&quot;BankWatch's rating for Merita Bank's short-term financing is TBW-1 or the best possible,&quot; Merita said.</p>
+<p>-- Helsinki Newsroom +358-9-680 50 242</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

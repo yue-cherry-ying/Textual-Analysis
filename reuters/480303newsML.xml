@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480303" id="root" date="1997-04-01" xml:lang="en">
+<title>AUSTRALIA: Transurban chooses Saab toll road system.</title>
+<headline>Transurban chooses Saab toll road system.</headline>
+<dateline>MELBOURNE 1997-04-01</dateline>
+<text>
+<p>Melbourne toll road builder Transurban City Link said on Tuesday that Saab group unit Combitech Traffic Systems had won a A$40 million contract to provide the project's electronic tolling system.</p>
+<p>&quot;Saab have been selected as they demonstrated the best intelligent transport systems technology and would put Melbourne on the map as a world class system in this field,&quot; Transurban managing director Kim Edwards said.</p>
+<p>Transurban said more than 600,000 electronic tags would be placed in vehicles to allow travel on the 22 kilometre Melbourne toll road, due to open in 1999, without stopping to pay tolls.  </p>
+<p>Saab's electronic toll road equipment was used in the United States, Asia and Europe, Transurban said.</p>
+<p>-- Melbourne bureau 61-3 9286-1435</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I5020041">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

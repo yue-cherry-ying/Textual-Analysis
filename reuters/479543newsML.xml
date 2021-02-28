@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479543" id="root" date="1997-04-01" xml:lang="en">
+<title>SRI LANKA: Sri Lanka Hayleys up 5 percent on volume.</title>
+<headline>Sri Lanka Hayleys up 5 percent on volume.</headline>
+<dateline>COLOMBO 1997-04-01</dateline>
+<text>
+<p>Shares of Hayleys Ltd rose 4.76 percent or 10 rupees to 220 in early Tuesday trade on turnover of 163,000 shares, brokers said.</p>
+<p>&quot;Investors were prepared to pay a premium provided they could get a substantial quantity,&quot; said a broker who declined to be identified.</p>
+<p>The share fell back to 210 rupees after the volume was traded, he said.</p>
+<p>The blue chip Hayleys is one of three diversified conglomerates trading in Colombo.</p>
+<p>--Colombo newsroom (941) 434319</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

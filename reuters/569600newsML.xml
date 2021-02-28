@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569600" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Dailey Petroleum acquires Denver company.</title>
+<headline>Dailey Petroleum acquires Denver company.</headline>
+<dateline>HOUSTON 1997-05-08</dateline>
+<text>
+<p>Dailey Petroleum Services Corp said Thursday it has definitively agreed to acquire Air Drilling International Inc, a private company in Denver, for about $29 0 million in cash plus the repayment of about $16.5 million of subordinated and bank debt.</p>
+<p>Air Drilling provides specific drilling services to the oil and gas drilling and geothermal industries, including the maintenance of well pressure. The company is also the leading provider of integrated pipeline testing services in Canada, Dailey said.</p>
+<p>For the twelve months ended April 30, 1997, Air Drilling had revenues of about $25 million, Dailey said.</p>
+<p>Dailey said closing of the deal is subject to customary conditions and obtaining sufficient financing, and that it expects to complete the acquisition by May 30.</p>
+<p>Dailey, headquartered in Conroe, Texas, provides directional drilling services and designs, makes and rents technologically-advanced downhole tools for oil and gas drilling and workover applications.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522766" id="root" date="1997-04-19" xml:lang="en">
+<title>USA: US Supreme Court clears way for execution.</title>
+<headline>US Supreme Court clears way for execution.</headline>
+<dateline>PHILADELPHIA 1997-04-18</dateline>
+<text>
+<p>The Supreme Court cleared the way Friday for the execution of murderer Gary Heidnik, who is now scheduled to die early Saturday morning.</p>
+<p>The justices granted by a 5-to-4 vote a last-minute emergency request by the Philadelphia District attorney's office to lift a stay of execution that had been granted by a U.S. Appeals Court.</p>
+<p>A spokesman for Pennsylvania Gov. Tom Ridge said Heidnik will be executed by lethal injection at 2 a.m. Saturday in Rockview state prison. He would be the third person to die in Pennsylvania since the state reinstated the death penalty.</p>
+<p>The prosecutor's appeal was aimed at setting aside an order that prevented the state from executing Heidnik, 53, for two sadistic murders a decade ago.</p>
+<p>Heidnik, who has spent 10 years on death row for kidnapping and torturing six women, killing two of them, was scheduled to die last Tuesday night.</p>
+<p>The appeals court opinion, which was set aside by the Supreme Court's ruling, found Heidnik incapable of making a rational decison on his legal rights. The appeals court decision would have blocked his execution and enabled lawyers to reopen the case.</p>
+<p>Heidnik claimed insanity at his 1988 trial but a jury convicted him and sentenced him to death. Police arrested Heidnik after a woman escaped from his North Philadelphia rowhouse in 1987, saying he shackled her and five other women in a cellar converted to a torture chamber.</p>
+<p>He dismembered one woman, who died of starvation, and fed some of her remains to the others. He killed a second woman by attaching live wires to her chains while she stood in a pit filled with water.</p>
+<p>Police found body parts in Heidnik's freezer that belonged to the woman he dismembered. The second victim's body was found dumped in a state forest in New Jersey.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

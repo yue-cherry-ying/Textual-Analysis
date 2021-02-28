@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479379" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Intelligent Medical Imaging Q4 net loss up.</title>
+<headline>Intelligent Medical Imaging Q4 net loss up.</headline>
+<dateline>PALM BEACH GARDENS, Fla. 1997-04-01</dateline>
+<text>
+<p>Intelligent Medical Imaging Inc</p>
+<p>		 3 months ended Dec 31,   12 months ended Dec 31,</p>
+<p>		    1996	 1995	   1996		1995</p>
+<p>Product sales $73,890  $1,232,000   $3,398,675	$1,392,883</p>
+<p>Sales</p>
+<p>allowances (1,938,000)	--     (1,938,000)		  --</p>
+<p>Net sales  (1,864,110) 1,232,000    1,460,675	  1,392,883</p>
+<p>Cost of sales including</p>
+<p>items returned to</p>
+<p> inventory (561, 183)   915,487     1,227,216	  1,135,499</p>
+<p>	    (1,302,927)   316,513	 233,459	    257,384</p>
+<p>Operating</p>
+<p> expenses 2,100,633   1,370,721     6,074,190	  4,256,322</p>
+<p>Provision for contract</p>
+<p> settlement 2,062,000	--	 2,062,000		   --</p>
+<p>Total operating</p>
+<p> expenses 4,162,633   1,370,721     8,136,190	  4,256,322</p>
+<p>Other income</p>
+<p> (expense)  305,364    (46,034)     1,047,003	     11,547</p>
+<p>Net loss $(5,160,196) $(1,100,242)  $(6,855,728)   (3,987,391)</p>
+<p>-- New York Newsdesk 2121-859-1700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALM BEACH GARDENS, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

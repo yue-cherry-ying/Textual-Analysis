@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479200" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Reed-Elsevier files $1.75 bln shelf.</title>
+<headline>Reed-Elsevier files $1.75 bln shelf.</headline>
+<dateline>WASHINGTON 1997-04-01</dateline>
+<text>
+<p>Reed-Elsevier Capital Inc filed Tuesday with the U.S. Securities and Exchange Commission a shelf offering for up to $1.75 billion in debt.</p>
+<p>When combined with previous registrations, the total offering will be $2.05 billion, according to the filing.</p>
+<p>Underwriters for the offering may include Lehman Brothers Inc., Deutsche Morgan Grenfell, Goldman Sachs &amp; Co. or UBS Securities LLC.</p>
+<p>Proceeds from the sale will be used for general corporate purposes. The company is a unit of Reed International Plc and Elsevier NV.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

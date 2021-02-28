@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480563" id="root" date="1997-04-01" xml:lang="en">
+<title>JAPAN: NCB says 3 non-bank affiliates file for bankruptcy.</title>
+<headline>NCB says 3 non-bank affiliates file for bankruptcy.</headline>
+<dateline>TOKYO 1997-04-01</dateline>
+<text>
+<p>Nippon Credit Bank Ltd (NCB) said on Tuesday that three non-bank financial affiliates had filed for bankruptcy at the Tokyo District Court.  </p>
+<p>An NCB spokesman said the affiliates filed for bankruptcy on Tuesday but he did not give details, such as the scale of their debt.</p>
+<p>Last week, NCB said it expected to unveil a restructuring plan in early April. The bank did not provide details of the plan but banking sources have said it would include sales of real estate and the closure of some operations overseas.</p>
+<p>Japanese media reports have said that the plan would also include the disposal of problem loans held by NCB's troubled non-bank financial affiliates.</p>
+<p>Finance Minister Hiroshi Mitsuzuka said earlier on Tuesday that NCB was expected to hold a news conference later today on its restructuring plan but the bank spokesman said that NCB had no such plan for now.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

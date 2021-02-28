@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="477967" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: NYMEX electricity ends up on cash, weather, outage.</title>
+<headline>NYMEX electricity ends up on cash, weather, outage.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>NYMEX electricity futures settled higher Tuesday, extending Monday's gain on firming cash market prices, forecasts of cool, wet weather and plant outages in the western U.S.</p>
+<p>&quot;I'm a little surprised by the run-up, but you do have those outages,&quot; said a Houston futures trader.</p>
+<p>A number of plant shutdowns in the western U.S. and cool temperatures in the Northwest again drove spot bulk electricity prices higher.</p>
+<p>Day-ahead power prices for firm, peak delivery at the California-Oregon Border (COB) rose more than a dollar to $13.00-14.00 a megawatt hour (MWh), while those at Palo Verde (PV) were up 75 cents at $15.50-16.50.</p>
+<p>May COB settled up 39 cents at $11.07 after posting a high of $11.30. June COB ended up 37 cents at $11.40. Other active COB finished flat to 45 cents higher.</p>
+<p>May PV settled up 11 cents at $15.31, near the low end of the 25 cent trading range. June PV ended up four cents at $16.30. Other PV months finished 10 to 34 cents higher.</p>
+<p>Forecasts called for temperatures near to eight degrees below normal levels through Friday in the Pacific Northwest, with rain and mountain snows Wednesday through Friday.</p>
+<p>In the Southwest, temperatures were expected to be five to 10 degrees below normal with above normal amounts of precipitation through Friday.</p>
+<p>The 1,073 megawatt (MW) Diablo Canyon unit 2 in central California is expected to returned to service as early as tomorrow after being taken off line last Saturday to repair a feedwater pump line.</p>
+<p>In addition to Diablo Canyon 2, the 750 MW unit 2 at the Mohave coal-fired power plant in Nevada was shut Saturday for planned maintenance. The unit is expected to stay down until May 11.</p>
+<p>A 750 MW unit at the Navajo coal-fired plant in Arizona was heard still idled for repairs, which could take as long as two weeks.</p>
+<p>The 1,158 MW WNP-2 nuclear plant in Washington was idled last Thursday for maintenance until summer.</p>
+<p>Brokers and traders cautioned the rise could end once cash prices show signs of easing, and the 1,221 MW Palo Verde nuclear unit 3 in Arizona and the 1,070 MW San Onofre nuclear unit 2 in southern California resume full output after both units restarted this past weekend.</p>
+<p>NYMEX estimated 309 COB and 263 PV contracts were sold, higher than 258 COB and 212 PV lots Monday.</p>
+<p>((--New York Power Desk +1 212 859 1622))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

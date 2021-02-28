@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568745" id="root" date="1997-05-08" xml:lang="en">
+<title>ROMANIA: RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</title>
+<headline>RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</headline>
+<dateline>BUCHAREST 1997-05-08</dateline>
+<text>
+<p>Radio Romania news headlines:</p>
+<p>* Belgian Prime Minister Jean Luc Dehaene is expected to arrive in Bucharest and meet President Emil Constantinescu, Prime Minister Victor Ciorbea and the chairmen of parliament's two chambers.</p>
+<p>Dehaene will also meet a Romanian businessmen.</p>
+<p>Belgium will support Romania's bid to join the European Union, he said on his way to Bucharest.</p>
+<p>* The lower house, the Chamber of Deputies, will debate a bill on land ownership and leasing under emergency procedures.</p>
+<p>Under the bill, a family can purchase up to 200 hectares of land. Foreign citizens cannot own land, but Romanian citizens leaving abroad will be allowed to purchase land.</p>
+<p>* The main opposition Party of Social Democracy will file a motion in parliament to protest against a recent government decision to set up a road tax, saying it victimised motorists and impeded free circulation.</p>
+<p>* Ciorbea will head a delegation to Luxembourg on a two-day visit starting on Friday.</p>
+<p>-- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478128" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: American Int'l Petroleum evicts lessee.</title>
+<headline>American Int'l Petroleum evicts lessee.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>American International Petroleum Corp said Tuesday it has evicted the lessee of its Lake Charles, La., refinery, Gold Line Refining Ltd for non-payment of lease fees and other items to default under a lease agreement which was to expire on March 31, 1998.</p>
+<p>The company said it has also filed suit to recover amounts owed to the company by Gold Line totalling about $1.8 million. A hearing on the suit is scheduled for April 9, 1997.</p>
+<p>American International said construction of the refinery expansion is proceeding on an accelerated basis and it intends to implement the terminaling phase of its contract with Coastal Corp's Coastal Refining and Marketing during May 1997.</p>
+<p>The company also said it is having discussions with parties interested in using the refinery's crude unit, previously leased to Gold Line, for processing of crudes to produce various higher-end products.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

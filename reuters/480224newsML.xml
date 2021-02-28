@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480224" id="root" date="1997-04-01" xml:lang="en">
+<title>TURKEY: Turkish shares fall on profit-taking, resistance.</title>
+<headline>Turkish shares fall on profit-taking, resistance.</headline>
+<dateline>ISTANBUL 1997-04-01</dateline>
+<text>
+<p>Istanbul shares posted losses on Tuesday in profit-taking prompted mainly by resistance expected at near the index's 1,650 level after Monday's 3.93 percent jump, brokers said.</p>
+<p>The IMKB National-100 closed at 1,590, down 23 points, or 1.43 percent from Monday and up slightly from an afternoon low of 1,577. Trade volume eased to 25.62 trillion lira ($200.8 million) from Monday's 26.06 trillion ($204.2 million).</p>
+<p>&quot;The market failed overcome the 1,650 barrier. Positive political expectations which pushed prices up yesterday were over, so the market sold. Tomorrow's constitutional court debate also unnerved the market,&quot;said Goksin Teker from Taib brokerage.</p>
+<p>Turkey's constitutional court will on Wednesday consider a request for the annulment of some articles in the privatisation law. The cancellation of articles relating to the evaluation of companies slated for privatisation and to the format of sell-off tenders is sought.</p>
+<p>The index leapt on Monday as political concerns eased due to an uneventful National Security Council (MGK) meeting.</p>
+<p>It had dived 6.2 percent last week due to the ruling Islamists opposition to the secularist military's demands put forward at the previous MGK meeting on February 28 to fight rising Islamist zeal.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

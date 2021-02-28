@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479709" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Peak Technologies gets acquisition offer.</title>
+<headline>Peak Technologies gets acquisition offer.</headline>
+<dateline>NEW YORK 1997-03-31</dateline>
+<text>
+<p>Peak Technologies Group Inc said Monday that it had received a friendly and unsolicited cash offer to acquire 100 percent of its outstanding capital stock from a company substantially larger than it at a premium to the current market price.</p>
+<p>Peak shares closed up 1-7/8 at 10-1/2 Monday.</p>
+<p>The company said it has appointed William Blair &amp; Co as its advisor and a committee of independent members of the board to evaluate the offer.</p>
+<p>It said no assurances can be given that a transaction will take place and said it would make no further announcement regarding the offer until a conclusion has been reached.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="477930" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Oakwood /Deutsche unit files $500 mln certs.</title>
+<headline>Oakwood /Deutsche unit files $500 mln certs.</headline>
+<dateline>WASHINGTON 1997-04-01</dateline>
+<text>
+<p>Deutsche Financial Capital Securitization LLC, a financing unit of both Oakwood Homes Corp. and Deutsche Bank AG, filed Tuesday with the U.S. Securities and Exchange Commission to offer up to $500 million in pass-through certificates.</p>
+<p>The certificates represent an interest in separate pools comprised of manaufactured housing installments and mortgage loans secured by one- to four-family residential properties.</p>
+<p>Proceeds will be used, among other things, to purchase contracts and mortgage loans underlying the certificates, the Greensboro, N.C.-based company said in the filing.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

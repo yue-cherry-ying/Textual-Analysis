@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="531330" id="root" date="1997-04-23" xml:lang="en">
+<title>UK: Hair of the cat convicts suspect.</title>
+<headline>Hair of the cat convicts suspect.</headline>
+<dateline>LONDON 1997-04-23</dateline>
+<text>
+<p>Scientists said on Wednesday they used genetic fingerprinting and a cat's hair to convict a Canadian man of murder.</p>
+<p>Marilyn Menotti-Raymond and colleagues at the Laboratory of Genomic Diversity at the U.S. National Cancer Institute in Frederick, Maryland said the case set a legal precedent.</p>
+<p>&quot;The case concerned a 32-year-old woman who disappeared from her home in Richmond, Prince Edward island, Canada on 3 October 1994,&quot; they wrote in a letter to the science journal Nature.</p>
+<p>&quot;Her abandoned car was discovered within days, and blood found inside was shown to match the victim. Three weeks later a man's leather jacket stained with the victim's blood was discovered in woods eight km from her home. In the lining several white domestic cat hairs were found.&quot;</p>
+<p>The woman's body was later found in a shallow grave and the man she had lived with but had since been estranged from was arrested. They had a white cat named Snowball, Menotti-Raymond said.</p>
+<p>Her laboratory used standard forensic DNA techniques to match the DNA from the cat hairs in the jacket to Snowball's blood. They presented their findings in court.</p>
+<p>&quot;The jury convicted the defendant of second-degree murder,&quot; they wrote.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

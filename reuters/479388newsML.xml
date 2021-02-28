@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479388" id="root" date="1997-04-01" xml:lang="en">
+<title>FRANCE: Prison sought for French far-right fake police.</title>
+<headline>Prison sought for French far-right fake police.</headline>
+<dateline>STRASBOURG, France 1997-04-01</dateline>
+<text>
+<p>A state prosecutor asked a court on Tuesday to jail four members of France's far-right National Front who pretended to be policemen and &quot;arrested&quot; two anti-Front protesters.</p>
+<p>The four, an elected regional councillor and three members of the Front's security service, stopped and searched two youths seeking accommodation on Sunday in a hotel where Front delegates were staying in the eastern town of Strasbourg.</p>
+<p>The youths were among some 40,000 protesters who took part in a march against a congress held in the town by Jean-Marie Le Pen's National Front.</p>
+<p>The prosecutor asked the Strasbourg court to jail the rightists for six months with another six months' jail suspended and to deprive them temporarily of their civic rights. The court was expected to announce its verdict later in the evening.</p>
+<p>The charge of &quot;making illegal arrests and wrongfully assuming the functions of officers in the criminal police&quot; made them liable to up to five years in prison.</p>
+<p>The court earlier sentenced 13 young people to terms ranging from a suspended month in jail to eight months in prison for rioting during the weekend protest against the National Front.</p>
+<p>Fifteen young people were on trial, accused of stoning police or looting shops.</p>
+<p>Two Germans among them were granted a request to be given time to prepare their defence. They will remain in detention and be tried on April 17. All those sentenced were French.</p>
+<p>The state prosecutor told the court the main troublemakers had escaped arrest.</p>
+<p>Trouble broke out after the march went off peacefully. Rioters clashed with police as they tried to march towards the conference centre and later smashed some 20 shop windows. The three-day congress ended on Monday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STRASBOURG, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479691" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Chemtrak to restate 1996 results lower.</title>
+<headline>Chemtrak to restate 1996 results lower.</headline>
+<dateline>SUNNYVALE, Calif. 1997-03-31</dateline>
+<text>
+<p>ChemTrak Inc said on Monday operating results and balance sheet data for fiscal 1996 and for the three-month periods ended June 30, 1996 and September 30, 1996, needed to be revised downwards because of convertible debt accounting.</p>
+<p>As a result, the net loss for fiscal 1996 was $7.83 million or $0.77 per share, rather than a loss of $6.85 million or $0.68 per share as previously reported, the company said.  </p>
+<p>ChemTrak said it was adjusting quarters subsequent to completing its May 1996 private placement of $5 million of debentures convertible into common stock at the lower of 110 percent of the common stock price at the time of closing or 82.5 percent of the common stock price at certain defined conversion dates.</p>
+<p>The company was not immediately available to comment further.</p>
+<p>It said it was taking this action after guidance from the corporate finance arm of the U.S. Securities and Exchange Commission.</p>
+<p>ChemTrak develops and makes medical testing systems.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

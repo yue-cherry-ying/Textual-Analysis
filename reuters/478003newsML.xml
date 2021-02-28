@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478003" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Nasdaq continues decline, but slip less severe.</title>
+<headline>Nasdaq continues decline, but slip less severe.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>Nasdaq shares slipped lower Tuesday amid continued weakness in technology shares, but the decline was less severe than Monday's freefall.</p>
+<p>Nasdaq shares briefly hit positive territory in late- morning, but spent most of the day in decline. The Nasdaq composite index ended down 4.77 points, or 0.39 percent, to 1216.93. The Dow industrials gained almost 28 points to 6611, ending a two session losing streak.</p>
+<p>&quot;Another bad day to be in techs. There are some earnings fears out there, but these prices could bring out some bargain hunters in the next few days,&quot; one trader said.  </p>
+<p>Dismal earnings forecasts set the tone for the session. Informix Corp, FORE Systems Inc and Quickturn Design Systems Inc fell sharply after the companies cautioned that their March quarter earnings would fall short of expectations.</p>
+<p>Some large capitalization technology stocks showed slim gains, with Cisco Systems Inc increasing 1/4 to 48-3/8, Microsoft Corp gaining 1-9/16 to 93-1/4 and Intel Corp adding 3/16 to 139-5/16.</p>
+<p>Overall, declining issues beat advancing issues 2694 to 1593 on total volume of 608 million shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

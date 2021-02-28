@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569234" id="root" date="1997-05-08" xml:lang="en">
+<title>MEXICO: Soriana sees 97 sales up 14 pct.</title>
+<headline>Soriana sees 97 sales up 14 pct.</headline>
+<dateline>MEXICO CITY 1997-05-08</dateline>
+<text>
+<p>Mexican retailer Organizacion Soriana said on Thursday it saw 1997 sales revenues at 10.8 billion pesos.</p>
+<p>&quot;We see growth in sales at about 14 percent, mostly because during 1996 we opened five new stores that are now contributing to sales.  We also plan to open nine more stores this year,&quot; Pedro Mejia, planning director at Soriana, told Reuters.</p>
+<p>&quot;In number terms, sales revenues are expected to be 10.8 billion pesos,&quot; he said.  </p>
+<p>He added that Soriana has investment plans of 850 million pesos for the construction of the new stores and remodeling its distribution center in Monterrey.</p>
+<p>He said Soriana currently has 58 stores.</p>
+<p>((--Jacqueline Lerma, Monterrey newsroom +525 345-7677))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

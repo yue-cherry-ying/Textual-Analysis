@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568864" id="root" date="1997-05-08" xml:lang="en">
+<title>UK: Europe cotton offtake limited, despite NY futures.</title>
+<headline>Europe cotton offtake limited, despite NY futures.</headline>
+<dateline>LIVERPOOL 1997-05-08</dateline>
+<text>
+<p>Offtake in Europe stayed limited despite broader interest in U.S. and Australian cottons on continued weakness in New York futures.</p>
+<p>But many spinners remain uncertain about supply in the third quarter and not all seem convinced that the trade's current asking prices for the periods are warranted.</p>
+<p>On the other had, a Syrian trade delegation now in France is believed to have done some June/September business. Mill buyers have also been inclined to consider offers of other origins that might serve as substitutes in current production mixes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIVERPOOL"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

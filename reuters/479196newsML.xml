@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479196" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: U.S. 3-Area Base Cost Hogs Carcass Lean Value-USDA.</title>
+<headline>U.S. 3-Area Base Cost Hogs Carcass Lean Value-USDA.</headline>
+<dateline>DES MOINES, Iowa 1997-04-01</dateline>
+<text>
+<p>Base Cost Lean Value Hog Carcass values for Monday, March 31 -- USDA</p>
+<p> DAILY    Volume	  Avg	 Bcost	 Bcost    Bcost</p>
+<p> 3-AREA		     Carcass  47-48%	 49-50%   51-52%</p>
+<p>				 Wght   *1.10-1.19 *1.00-1.09 *.80-.99</p>
+<p>03/31/97   75,379	 186.0     68.67	 70.06     71.43</p>
+<p>03/28/97  131,070	 186.4     67.51	 68.52     70.16</p>
+<p>03/27/97  124,280	 185.5     67.41	 68.41     70.07</p>
+<p>03/26/97  125,072	 184.4     68.17	 69.18     70.85</p>
+<p>03/25/97  123,091	 185.6     68.18	 69.19     70.86</p>
+<p>03/24/97  118,820	 185.2     66.10	 67.10     68.73</p>
+<p>04/01/96  115,106	 183.3     66.87	 68.26     69.57</p>
+<p>WEEKLY 3-AREA</p>
+<p>Week Ended:</p>
+<p>03/29/97  622,333	 185.4     67.48	 68.49     70.14</p>
+<p>03/08/97  611,688	 186.1     66.50	 67.51     69.15</p>
+<p>04/06/96  573,686	 183.4     66.84	 68.23     69.55</p>
+<p>Note: *Indicates backfat. Includes volume, weighted average base cost and average carcass weight for Mid-South, Eastern Cornbelt, and Western Cornbelt based on actual, not estimated, data. The 51-52 pct values are used to calculate CME Lean Hog Value Index. Weekly totals include Saturday and/or Sunday data.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES MOINES, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

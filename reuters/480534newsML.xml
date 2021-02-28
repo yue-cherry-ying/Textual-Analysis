@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480534" id="root" date="1997-04-01" xml:lang="en">
+<title>JAPAN: Tohoku Elec to delay nuclear plant by three years.</title>
+<headline>Tohoku Elec to delay nuclear plant by three years.</headline>
+<dateline>TOKYO 1997-04-01</dateline>
+<text>
+<p>Tohoku Electric Power Co Inc said on Tuesday it had decided to delay its plan to build an 825,000 kilowatt nuclear power plant in Japan's northern town of Maki by three years due to local opposition.</p>
+<p>&quot;We figured it would take an extra three years to carry out a grass-roots campaign to gain local support (for the plant),&quot; a Tohoku spokesman said.</p>
+<p>Under the revised plan, Tohoku would start construction of the plant in fiscal 2002/03, which begins in April 2002, and commercial operations would begin six years later.</p>
+<p>Local opposition has forced the utility to move back plans for the Maki project almost every year since 1978, when it first announced an official timetable for construction.</p>
+<p>The proposed plant in Maki, a small farming town on the Sea of Japan coast, was scheduled to come onstream in 1986 under the original plan.</p>
+<p>The latest blow to the project was a local referendum held last August on the plant's construction, in which Maki residents returned a resounding &quot;no&quot; vote.</p>
+<p>Although the result of the referendum was not legally binding, the Maki mayor effectively halted the project when he said after the vote he would not sell town property needed for the plant. --Tokyo Energy Desk +81-3-3432-8837</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I5020044">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

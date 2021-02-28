@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568972" id="root" date="1997-05-08" xml:lang="en">
+<title>ETHIOPIA: Ethiopian police kill leader of underground group.</title>
+<headline>Ethiopian police kill leader of underground group.</headline>
+<dateline>ADDIS ABABA 1997-05-08</dateline>
+<text>
+<p>Ethiopian police killed the leader of a violent underground group in the capital Addis Ababa on Thursday and detained several members, state radio said.</p>
+<p>The leader, Assefa Maru of the Ethiopian United Patriotic Front, had resisted arrest and tried to flee, it said.</p>
+<p>Police found three Kalashnikov assault rifles and several bombs, it added, quoting the police.</p>
+<p>The previous leader of the group, university professor Taye Wolde-Semayate, was arrested last June and police said at the time the group was planning to assassinate government officials and foreigners. His case is pending in court.</p>
+<p>Last month one person was killed and 86 were injured in grenade attacks on a supermarket, a restaurant and two hotels frequented by foreigners in Addis Ababa and the eastern town of Dire Dawa. No one has claimed responsibility.</p>
+<p>A police statement last June said the movement also planned to force wealthy individuals to pay contributions and to carry out armed robberies of government institutions and companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADDIS ABABA"/>
+<dc element="dc.creator.location.country.name" value="ETHIOPIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

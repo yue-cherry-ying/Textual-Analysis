@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569463" id="root" date="1997-05-08" xml:lang="en">
+<title>IRAN: OPEC ministers renew call for quota compliance.</title>
+<headline>OPEC ministers renew call for quota compliance.</headline>
+<dateline>ISFAHAN, Iran 1997-05-08</dateline>
+<text>
+<p>Seven OPEC ministers in Isfahan on Thursday renewed their call for members to abide by output quotas to prevent a further fall in crude prices.</p>
+<p>&quot;All of us feel we need to be careful about the market,&quot; said Iranian oil minister Gholamerza Aghazadeh. &quot;Everybody agreed to follow his production quota.&quot;  </p>
+<p>Nigerian oil minister Dan Etete, also attending an oil conference in the central Iranian city, said: &quot;We are not joking. Strict compliance is a flagship of OPEC.&quot;</p>
+<p>At the conference hosted by Iran were oil ministers from Nigeria, Lybia, Qatar, Kuwait, Indonesia and Venezuela. The Saudi Arabian, United Arab Emirate, Iraqi and Algerian ministers didn't attend.</p>
+<p>According to a Reuters survey of oil companies and analysts released on Thursday, OPEC wellhead production rose in April to 27.05 million barrels per day (bpd), up 200,000 bpd on a revised 26.85 million bpd the previous month and more than two million bpd above the official ceiling agreed last June of 25.03 million bpd.</p>
+<p>Among the biggest over-producers are Venezuela, at 3.16 million bpd compared with a quota of 2.359 million bpd, and Nigeria, with output of 2.14 million bpd compared with a 1.865 million bpd quota.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="OPEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISFAHAN, Iran"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

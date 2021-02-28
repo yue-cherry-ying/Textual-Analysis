@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568531" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: United Illuminating says ESOP to buy shrs.</title>
+<headline>United Illuminating says ESOP to buy shrs.</headline>
+<dateline>NEW HAVEN, Conn. 1997-05-08</dateline>
+<text>
+<p>United Illuminating Co said Thursday its employee stock ownership plan intends to buy about 575,000 shares of common stock with a loan of up to $15 million from the company.</p>
+<p>The company said it has filed an application with the Connecticut Department of Public Utility Control requesting permission to loan the money to the ESOP.</p>
+<p>The company said the shares would be held in the ESOP fund and allocated to company employees' accounts over time as the loan is repaid.</p>
+<p>The company said this move is in line with its obligation to contribute common stock to its employee accounts in the ESOP.</p>
+<p>The company said financing will depend on approvals from the state and its board of directors.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW HAVEN, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480455" id="root" date="1997-04-01" xml:lang="en">
+<title>JAPAN: Japan March domestic vehicle sales up 12.4% yr/yr.</title>
+<headline>Japan March domestic vehicle sales up 12.4% yr/yr.</headline>
+<dateline>TOKYO 1997-04-01</dateline>
+<text>
+<p>Japan's domestic vehicle sales in March rose 12.4 percent from a year earlier to 830,864 units, the Japan Automobile Dealers' Association (JADA) said on Tuesday.</p>
+<p>It was the seventh successive gain on a year-on-year basis and the highest level ever for any March, surpassing the previous record of 788,880 set in March 1990.</p>
+<p>Japan's domestic vehicle sales in the year to March 1997 rose 7.6 percent from the previous year to 5.56 million units, the third successive year of gains.  </p>
+<p>The following is a breakdown of 1996/97 sales (with percentage changes from a year earlier):</p>
+<p> Total cars		3,876,670  up   9.7 percent</p>
+<p> - Cars over 2001 cc     940,930  up   4.6 percent</p>
+<p> - Cars under 2000 cc  2,935,740  up  11.5 percent</p>
+<p> Total trucks	    1,667,606  up   2.9 percent</p>
+<p> - Heavy trucks	    175,204  up   2.2 percent</p>
+<p> - Light trucks	  1,492,402  up   3.0 percent</p>
+<p> Buses			  17,330  dowm 1.6 percent</p>
+<p>The 1996/97 sales included 437,883 imported vehicles, up 8.8 percent from the year before.</p>
+<p>Vehicle sales in 1996/97 by Japanese makers were as follows (with percentage changes from a year earlier):</p>
+<p> Toyota Motor     2,191,282  up   8.5 percent</p>
+<p> Nissan Motor     1,111,636	   unchanged</p>
+<p> Honda Motor	  574,943  up  39.8 percent</p>
+<p> Mitsubishi Motors  478,102  down 2.9 percent</p>
+<p> Mazda Motor	  300,813  up   0.8 percent</p>
+<p> Fuji Heavy	   146,311  up   7.0 percent</p>
+<p> Isuzu Motors	 140,770  down 0.6 percent</p>
+<p> Suzuki Motor	  67,489  up  11.4 percent</p>
+<p> Hino Motors	   49,329  up   6.2 percent</p>
+<p> Nissan Diesel	 33,784  up   3.7 percent</p>
+<p> Daihatsu Motor	29,264  up  71.6 percent</p>
+<p>The figures announced on Tuesday are preliminary. Final figures will be announced on April 4, but these rarely differ from preliminary figures, a JADA official said.</p>
+<p>The March sales breakdown was as follows (with percentage changes from a year earlier):</p>
+<p> Total cars		585,446  up  15.4 percent</p>
+<p> - Cars over 2001 cc   135,158  up  19.2 percent</p>
+<p> - Cars under 2000 cc  450,288  up  14.4 percent</p>
+<p> Trucks		    241,560  up   5.8 percent</p>
+<p> - Heavy trucks	   32,403  up  15.1 percent</p>
+<p> - Light trucks	  209,157  up   4.5 percent</p>
+<p> Buses			 3,858  up   6.6 percent</p>
+<p>The March sales included 57,837 imported vehicles, up 12.7 percent from the year before.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

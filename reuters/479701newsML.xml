@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479701" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: U.S. weekend box office chart -- March 28-30.</title>
+<headline>U.S. weekend box office chart -- March 28-30.</headline>
+<dateline>LOS ANGELES 1997-03-31</dateline>
+<text>
+<p>Following are the final data for the top 10 movies at the March 28-30 box office, according to Exhibitor Relations Co.</p>
+<p>    Film		   Three-day gross    Cumulative Gross</p>
+<p> 1. Liar Liar		  $25,377,435	 $ 70,954,360</p>
+<p> 2. The Devil's Own	  $14,274,503	 $ 18,063,265</p>
+<p> 3. Selena		     $ 6,138,838	 $ 21,738,436</p>
+<p> 4. Return of the Jedi     $ 4,451,955	 $ 34,792,697</p>
+<p> 5. Jungle 2 Jungle	  $ 4,132,422	 $ 42,095,059</p>
+<p> 6. The 6th Man		$ 4,128,178	 $  ----</p>
+<p>7. Turbo: A Power</p>
+<p>    Rangers Movie	    $ 3,301,135	 $  ----</p>
+<p> 8. The English Patient    $ 3,019,179	 $ 67,599,231</p>
+<p> 9. B.A.P.S.		   $ 2,742,679	 $  ----</p>
+<p> 10 Private Parts	    $ 2,411,222	 $ 38,158,909</p>
+<p>NOTE: Lifetime domestic gross for &quot;Return of the Jedi&quot; is $298,527,609, making it the seventh-highest grossing film in U.S. history.</p>
+<p>&quot;Liar Liar&quot; is released by Universal Pictures, a unit of Seagram Co Ltd.</p>
+<p>&quot;The Devil's Own&quot; is released by Sony Corp.</p>
+<p>&quot;Selena&quot; is released by Warner Bros, a unit of Time Warner Inc. &quot;B.A.P.S.&quot; is released by Time Warner's New Line Cinema.</p>
+<p>&quot;Return of the Jedi&quot; and &quot;Turbo: A Power Rangers Movie&quot; are released by 20th Century Fox, a unit of News Corp.</p>
+<p>&quot;Jungle 2 Jungle&quot; and &quot;The 6th Man&quot; are released by Walt Disney Co, while &quot;The English Patient&quot; is released by Disney's Miramax Films.</p>
+<p>&quot;Private Parts&quot; is released by Paramount Pictures, a unit of Viacom Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478078" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Power outages hit 100,000 in N.Y., 10 pct of Mass.</title>
+<headline>Power outages hit 100,000 in N.Y., 10 pct of Mass.</headline>
+<dateline>POUGHKEEPSIE, N.Y. 1997-04-01</dateline>
+<text>
+<p>Orange &amp; Rockland Utilties said Tuesday the blizzard that swept across the Northeast overnight left some 100,000 customers without power in the mid-Hudson Valley region.</p>
+<p>&quot;We have restored service to about half of those customers,&quot; Mike Donovan, a spokesman for the utility told Reuters in a telephone interview Tuesday afternoon.</p>
+<p>Massachusetts Gov. William Weld, who declared a state of emergency in the Commonwealth, told reporters that about 10 percent of the state's utility customers were without power.</p>
+<p>&quot;It's not just the distribution lines that are down,&quot; Weld told reporters at a news conference in Framingham, Mass.</p>
+<p>&quot;Some transmission lines are down as well and that's why you have as many as a quarter of a million households without electricity.&quot;</p>
+<p>((--Boston bureau, 617-367-4106))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="POUGHKEEPSIE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

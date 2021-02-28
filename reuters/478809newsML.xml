@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478809" id="root" date="1997-04-01" xml:lang="en">
+<title>ARGENTINA: Argentine telecom firms to keep applying new rates.</title>
+<headline>Argentine telecom firms to keep applying new rates.</headline>
+<dateline>BUENOS AIRES 1997-04-01</dateline>
+<text>
+<p>Argentina's two main telecommunications companies should continue applying a new rate structure despite a court ruling suspending the rates, Cabinet Secretary Jorge Rodriguez said Tuesday.</p>
+<p>Speaking after a federal court ruled Monday that telephone companies cannot apply the new charges until the Supreme Court rules whether they are legal, Rodriguez told reporters, &quot;The new tariff structure has to be maintained until the Supreme Court makes a ruling.&quot;  </p>
+<p>Telecom de Argentina and Telefonica de Argentina raised local rates but made big cuts to long-distance call charges after the government authorized the new tariff structure by decree late in January.</p>
+<p>The changes provoked several conflicting court actions, including one against the new rates lodged by the nation's ombudsman, who is appointed by Congress to protect consumer interests.  The Supreme Court is due to rule on the new tariff structure soon.  </p>
+<p>A spokesman for Telefonica told Reuters that Monday's ruling was irrelevant to the company as it was already delaying sending out bills to clients until the Supreme Court issued its ruling. No Telecom spokesman was immediately available for comment.</p>
+<p>In a separate tariff change, Telecom and Telefonica increased the charges for each telephone pulse by 1.35 percent as of Tuesday, under a government decree linking charges to U.S. inflation.</p>
+<p>Telecom is controlled by France Telecom, while Telefonica is controlled by Telefonica de Espana. The companies were formed after the state monopoly was privatized in 1990.</p>
+<p>((-- Jason Webb, Buenos Aires Newsroom +541 318-0655))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480188" id="root" date="1997-04-01" xml:lang="en">
+<title>FRANCE: Valeo buys Brazilian components firm.</title>
+<headline>Valeo buys Brazilian components firm.</headline>
+<dateline>PARIS 1997-04-01</dateline>
+<text>
+<p>French car components company Valeo said on Tuesday that it had acquired Univel Industria e Comercio Ltda and Plasticos Univel Ltds, Brazil's leading manufacturer of car door handles, locks and anti-theft systems.</p>
+<p>Sao Paulo-based Univel generated 400 million francs in sales last year, serving all the carmakers in Brazil. Valeo said in a statement that the acquisition would reinforce its two interior security activities in Brazil and Argentina.</p>
+<p>&quot;This acquisition, added to those of Italy's Fist in 1996 and the locking systems division of the German company Ymos, increase the international presence of Valeo's interior security branch and will allow it to attain turnover of 3.5 billion francs annually, compared with 1.7 billion last year,&quot; it said.</p>
+<p>Valeo said it expected to generate 2.5 billion francs in sales in South America this year.</p>
+<p>It had total sales of 28.8 billion francs in 1996.</p>
+<p>-- Paris Newsroom, +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

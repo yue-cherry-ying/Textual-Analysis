@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568560" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: First Years Inc Q1 shr $0.32 vs $0.25.</title>
+<headline>First Years Inc Q1 shr $0.32 vs $0.25.</headline>
+<dateline>AVON, Mass. 1997-05-08</dateline>
+<text>
+<p>The First Years Inc</p>
+<p>				Interim Operating Report</p>
+<p>						     Three Months Ended</p>
+<p>							   March 31</p>
+<p>						   1997		 1996</p>
+<p> Net Sales			     $27,822,044	$23,O09,281</p>
+<p>  Net Income			     1,666,502	  1,186,573</p>
+<p>  Earnings per Share of Common Stock    0.32		 0.25</p>
+<p>Weighted Average Number</p>
+<p>  of Shares Outstanding		5,136,011	  4,689,426</p>
+<p>		     Unaudited and subject to year-end adjustment</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AVON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

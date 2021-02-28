@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478512" id="root" date="1997-04-01" xml:lang="en">
+<title>ZAMBIA: Zaire troops cross into Zambia, hand over arms.</title>
+<headline>Zaire troops cross into Zambia, hand over arms.</headline>
+<dateline>LUSAKA 1997-04-01</dateline>
+<text>
+<p>More than 50 Zairean soldiers have fled the fighting between government and rebel forces in their country and crossed into neighbouring Zambia to hand over their arms, a senior Zambian defence official said on Tuesday.</p>
+<p>&quot;We have had 50 plus refugees fleeing into Zambia but there is nothing to worry about,&quot; Defence Secretary Jack Mubanga told Reuters.</p>
+<p>&quot;For the most part they have followed procedure and handed over their arms to the Zambian authorities, who are now looking after them,&quot; he added.</p>
+<p>Mubanga said the soldiers were fleeing from areas near the border, but added that the Zambian government did not expect an increase in the numbers crossing the border.</p>
+<p>Newspaper reports of armed Zairean soldiers in Zambia could not be independently confirmed.</p>
+<p>Zambia's Defence Minister Ben Mwila was due to travel to the area this week to assess the situation.</p>
+<p>In an interview with the Times of Zambia, Mwila told Zairean soldiers to hand over their weapons.</p>
+<p>&quot;We are going to deal with these soldiers but I cannot say what action we are going to take for security reasons. I want to assure the people that the government is definitely going to do something,&quot; the newspaper quoted Mwila as saying.</p>
+<p>Zambia is already host to more than 3,000 Zairean refugees who crossed the border over Lake Tanganyika during fighting in northeastern Zaire.</p>
+<p>Laurent Kabila's rebels took up arms in October in the east of the country, vowing to topple President Mobutu Sese Seko and they have slowly gained territory, advancing to the west and south. Representatives of both sides are due to meet in South Africa to discuss a ceasefire.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ZAMBIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUSAKA"/>
+<dc element="dc.creator.location.country.name" value="ZAMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

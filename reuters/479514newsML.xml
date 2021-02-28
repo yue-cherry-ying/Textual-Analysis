@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479514" id="root" date="1997-04-01" xml:lang="en">
+<title>INDIA: M.S. Verma takes over as India SBI chief.</title>
+<headline>M.S. Verma takes over as India SBI chief.</headline>
+<dateline>BOMBAY 1997-04-01</dateline>
+<text>
+<p>The State Bank of India (SBI) said on Tuesday M.S Verma had been appointed chairman of the bank with immediate effect.</p>
+<p>Verma joined SBI in 1958 and has since served in various capacities, the bank said in a statement.</p>
+<p>Prior to being appointed Chairman, Verma was Managing Director and Group Executive (Corporate Banking), it added.</p>
+<p>SBI is India's largest commercial bank, with more than 8,800 branches.</p>
+<p>-- Bombay Money Desk +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

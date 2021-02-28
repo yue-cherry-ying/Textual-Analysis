@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478347" id="root" date="1997-04-01" xml:lang="en">
+<title>LATVIA: NOON RADIO HEADLINES ON APRIL 1.</title>
+<headline>NOON RADIO HEADLINES ON APRIL 1.</headline>
+<dateline>RIGA 1997-04-01</dateline>
+<text>
+<p>These were the main headlines on on Latvian state radio on Tuesday at noon. Reuters has not verified these reports and cannot vouch for their accuracy.</p>
+<p>- Today is the deadline for civil cervants to submit their income declarations.</p>
+<p>- The defence speeches in the trial of alleged mafia leader Ivan Haritonov will be tomorrow. In the year-long proceedings, the prosecutor has demanded a 13-year prison sentence for Haritonov and most of his seven alleged accomplices.</p>
+<p>- The radio plays an April Fool's joke, saying the ferry Rusj, plying between Stockholm and Riga, will be renamed &quot;Latvis&quot;  and the crew will wear Latvian national dress.</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

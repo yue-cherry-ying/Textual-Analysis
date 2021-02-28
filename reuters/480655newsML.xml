@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480655" id="root" date="1997-04-01" xml:lang="en">
+<title>FRANCE: Other Suez shareholders want payout - St.Gobain head.</title>
+<headline>Other Suez shareholders want payout - St.Gobain head.</headline>
+<dateline>PARIS 1997-04-01</dateline>
+<text>
+<p>Saint-Gobain head Jean-Louis Beffa said on Tuesday that his call for a redistribution of Cie de Suez assets ahead of any merger with Lyonnaise des Eaux was also supported by other Suez shareholders.</p>
+<p>&quot;It is a demand of BNP, of Saint Gobain, and of Axa... It is not a demand made independently by Saint Gobain,&quot; he told a news conference.</p>
+<p>Beffa said earlier that he thought Suez should pay out around 10 percent of its financial assets of 34 billion francs to its shareholders before any merger with Lyonnaise.</p>
+<p>Banque Nationale de Paris and insurer Axa had no immediate comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

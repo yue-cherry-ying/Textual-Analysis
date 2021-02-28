@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479060" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Dozens in hospitals after mystery Texas gas leak.</title>
+<headline>Dozens in hospitals after mystery Texas gas leak.</headline>
+<dateline>FORT WORTH 1997-04-01</dateline>
+<text>
+<p>Sixty-four people were taken to hospitals on Tuesday after suffering breathing problems in a mystery gas leak at an office tower in Fort Worth, officials said.</p>
+<p>Lt. Kent Worley of the Fort Worth Fire Department said hazardous materials experts had no idea what caused the health problems, but that the worst of the danger was apparently over.</p>
+<p>&quot;At the moment, it is a mystery to us,&quot; Worley said. &quot;The hazardous materials team has gone through the building but they can't find anything out of the ordinary.&quot;</p>
+<p>He said health officials had told 180 people they should be checked by a hospital, but that many said they felt much better after taking some oxygen and opted not to go to a hospital.</p>
+<p>Office workers at the Overton Center nine-storey office tower in southwest Fort Worth began complaining of breathing problems, nausea, headaches and sore throats early on Tuesday afternoon, and emergency teams rushed to the site.</p>
+<p>Worley said he did not know if any of the 64 workers taken to hospitals were in serious condition but said there was no word of fatalities. He said most of those affected were customer service employees of United Parcel Service. About 1,100 people work in the office tower.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

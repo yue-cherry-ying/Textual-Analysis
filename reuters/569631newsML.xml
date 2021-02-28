@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569631" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: America Online putting sports in cyberspace for ABC.</title>
+<headline>America Online putting sports in cyberspace for ABC.</headline>
+<dateline>DULLES, Va. 1997-05-08</dateline>
+<text>
+<p>America Online Inc. said Thursday the world's No. 1 online service will produce an ABC Sports section on its Sports Channel.</p>
+<p>America Online said the agreement further expands its relationship with Walt Disney Co. unit ABC, which earlier this year agreed to provide an ABC News section on America Online.</p>
+<p>Dulles, Va.-based America Online said the ABC Sports area will give subscribers exclusive online access to ABC coverage of major sporting events while offering both companies sponsorship and advertising opportunities.</p>
+<p>The companies will work together to create broadcast and online advertising packages.</p>
+<p>The online service is the largest in the world with about 8 million members.</p>
+<p>Although the content for the site is still being developed, potential programming includes not only continually updated statistics and commentary during an event, but instant online polls.</p>
+<p>America Online stock was unchanged at $50.25, while Disney rose 75 cents to $81.25, both on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DULLES, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

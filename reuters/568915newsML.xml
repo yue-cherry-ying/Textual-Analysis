@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568915" id="root" date="1997-05-08" xml:lang="en">
+<title>CANADA: Canada regulator okays telco broadcast trials.</title>
+<headline>Canada regulator okays telco broadcast trials.</headline>
+<dateline>OTTAWA 1997-05-08</dateline>
+<text>
+<p>The Canadian Radio-television and Telecommunications Commission (CRTC) said on Thursday that it approved separate applications by telephone companies for broadcast distribution licenses.</p>
+<p>The federal government regulator said it granted applications to conduct testing and technical trials of broadcasting services to BCE Inc's wholly owned unit Bell Canada and TELUS Corp's wholly owned TELUS Cable Holdings Inc.</p>
+<p>Bell will deliver packages of basic and discretionary broadcasting services, including Canadian specialty, pay and pay-per-view services, a navigator system or &quot;Interactive Program Guide&quot; to highlight Canadian programming, a promotional channel, pay-per-view, and digital multimedia interactive services.</p>
+<p>Bell intends to test the packaging of certain broadcasting and telecommunications services, including a high-speed personal computer internet access service.  Services under the trial will be available to 3,500 homes in parts of London, Ontario and Repentigny, Quebec, for a two-year period ending May 31, 1999.</p>
+<p>TELUS will also offer basic and discretionary broadcasting television services, including Canadian specialty, pay and pay-per-view television, and AM and FM radio services. TELUS also may offer a package of broadcasting services and a high-speed personal computer internet access service. The two TELUS trials will involve 2,000 subscribers in Lake Bonavista, a suburb of Calgary, and 1,400 subscribers in the suburbs of Edmonton. Those trials also will end on May 31, 1999.</p>
+<p>&quot;The trials will provide real learning opportunities about the digital environment for existing broadcasters and producers, the chance to develop, test and apply Canadian-produced multimedia content in conjunction with broadcasting content, as well as the navigational tools to support Canadian programs and services,&quot; said CRTC Chairwoman Francoise Bertrand in a statement.</p>
+<p>Last week the government commission said it threw the local telephone market open to competition while also promoting convergence between the phone and broadcast businesses.</p>
+<p>((Reuters Toronto Bureau 416-941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

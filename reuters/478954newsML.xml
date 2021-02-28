@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478954" id="root" date="1997-04-01" xml:lang="en">
+<title>TAIWAN: Taiwan Macronix says no U.S. patent infringement.</title>
+<headline>Taiwan Macronix says no U.S. patent infringement.</headline>
+<dateline>TAIPEI 1997-04-01</dateline>
+<text>
+<p>Taiwan semiconductor maker Macronix International Corp said on Tuesday it had never infringed a patent as stated in a complaint filed by Atmel Corp with the U.S. International Trade Commission.</p>
+<p>&quot;The complaint alleges infringement by Macronix of a single 13-year-old patent owned or controlled by Atmel relating to encoding identifying information, such as who is the manufacturer on a computer chip,&quot; Macronix said in a statement.</p>
+<p>&quot;Macronix is confident it has never infringed on any of the claims of this patent and intends to vigorously contest the unwarranted allegations of patent infringement alleged by Atmel.&quot;</p>
+<p>Macronix said it has complied fully with the applicable industry standard to a silicon signature for identifying information on a chip.</p>
+<p>&quot;Macronix is prepared to fully cooperate with the current ITC investigation. It also expects to prevail in any action by Atmel against the company,&quot; the statement said.</p>
+<p>Macronix listed American Depositary Receipts on New York's NASDAQ exchange in May 1996.  </p>
+<p>The statement said the company is now the world's seventh-biggest maker of non-volatile memory chips, including flash memory, EPROM and mask ROM.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

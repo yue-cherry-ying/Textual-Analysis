@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480232" id="root" date="1997-04-01" xml:lang="en">
+<title>GREECE: Greek stocks finish lower on slack turnover.</title>
+<headline>Greek stocks finish lower on slack turnover.</headline>
+<dateline>ATHENS 1997-04-01</dateline>
+<text>
+<p>Shares in the Athens Stock Exchange surrendered on Tuesday some of the gains made in the previous two sessions when the index climbed 5.6 percent. Banks and construction retreated 2.35 and 3.25 percent respectively.</p>
+<p>&quot;Weakness in Wall Street and other European bourses may have affected sentiment but with Alpha Credit Bank, OTE and other blue chips having strong support, the weakness will be temporary. We're headed for dividend distributions as well,&quot; an analyst said.</p>
+<p>The bourse's benchmark index finished 16.36 points or 1.20 percent lower at 1,352.46.</p>
+<p>OTE telecom bucked the trend adding 1.65% to close at 5,845, boosted by a buy recommendation by HSBC James Capel. Shares of Titan Cement also cushioned the market index, climbing 2.72% percent.</p>
+<p>Turnover was subdued at 11.9 billion drachmas with 2.9 million shares changing hands about half the previous session's business.</p>
+<p>Decliners led advancers 167 to 51 with 21 issues unchanged on 239 traded.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

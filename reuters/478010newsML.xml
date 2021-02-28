@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478010" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: FX Energy pauses for Orneta 1 changes.</title>
+<headline>FX Energy pauses for Orneta 1 changes.</headline>
+<dateline>SALT LAKE CITY 1997-04-01</dateline>
+<text>
+<p>FX Energy Inc said work on the Orneta 1, the first oil and natural gas exploratory well drilled in Poland by a western company, has been halted to condition the well bore, run logs, set and cement casing, and drill out and replace the current mud system with a KCL polymer.</p>
+<p>These steps, expected to be completed in 7 to 9 days, will allow us to drill into the Cambrian under the &quot;cleanest&quot; possible circumstances, the company said. It is drilling the well with RWE AG.  </p>
+<p>FX Energy said Mondaay the Orneta 1 well is now in the Ordovician at a true vertical depth of 2,379 meters (7,805 feet). This is an estimated 5 meters (16 feet) above the potential sandstone reservoir in the Cambrian.</p>
+<p>After the efforts now underway, &quot;we then plan to drill into the Cambrian horizon with a core barrel, cut two 9 meter cores and, if warranted, run a drill stem test through the cored interval.  Thereafter as we drill through the potential reservoir we will take additional cores and drill stem tests as warranted.</p>
+<p>The entire process of drilling through the potential reservoir, which will begin in 7 to 9 days, may take several weeks because of the extensive testing which may be conducted.</p>
+<p>Orneta 1 drillsite supervision is provided by Parker Drilling Co.  ((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SALT LAKE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480102" id="root" date="1997-04-01" xml:lang="en">
+<title>GERMANY: SAA sets 8th weekly Frankfurt-Joburg flight.</title>
+<headline>SAA sets 8th weekly Frankfurt-Joburg flight.</headline>
+<dateline>FRANKFURT 1997-04-01</dateline>
+<text>
+<p>South African Airways said it planned to add an eighth weekly Frankfurt to Johannesburg passenger flight by this autumn.</p>
+<p>An SAA spokeswoman told Reuters: &quot;We have an extra Friday flight but we are still trying to get a slot at the right time.&quot;</p>
+<p>It was unclear whether SAA would now be able to launch the service this summer or have to wait until the autumn, company sources said.</p>
+<p>SAA currently flies daily from Frankfurt to Johannesburg with a combination of Boeing 747-200 and B747-300 aircraft.</p>
+<p>Under the summer timetable effective from March 30, five of the seven Frankfurt flights will be continued to Amsterdam and the other two onwards to Copenhagen.</p>
+<p>The spokeswoman confirmed a March 2 announcement that the twice-weekly flights from Duesseldorf and Munich would be dropped from the beginning of July due to poor passenger sales.</p>
+<p>&quot;There is a concentration on Frankfurt. It is to support the alliance with Deutsche Lufthansa AG and from Frankfurt we have worldwide connections,&quot; she explained. --Reuters Air Cargo Newsroom. Tel +44 171 542 7706 Fax: 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

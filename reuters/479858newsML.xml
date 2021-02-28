@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479858" id="root" date="1997-04-01" xml:lang="en">
+<title>ISRAEL: Israeli forces kill two Arabs in West Bank.</title>
+<headline>Israeli forces kill two Arabs in West Bank.</headline>
+<dateline>HEBRON, West Bank 1997-04-01</dateline>
+<text>
+<p>Israeli security forces shot dead two Palestinians on Tuesday in the West Bank, where street battles over Jewish settlement in Arab East Jerusalem flared for the 13th straight day.</p>
+<p>An Arab teenager identified by Palestinians as Kamal al-Zaro was killed in disputed circumstances at an Israeli police roadblock in an Israeli-controlled part of the town of Hebron.</p>
+<p>Police said he had been in a car that knocked down an officer. A Palestinian witness said Zaro, aged about 16, had been standing in the street in his pyjamas.</p>
+<p>Later, Haitham Mansour, 20, was shot dead by Israeli soldiers who opened fire at stone-throwing Palestinians near a checkpoint on the outskirts of the West Bank town of Nablus, witnesses said.</p>
+<p>Palestinian security sources said Mansour was an undercover Palestinian policeman who had been standing near the crowd of protesters.</p>
+<p>Commenting on the Hebron incident, an Israeli police spokeswoman said: &quot;A car hit one of the officers at the roadblock, then police opened fire, hitting one of the people in the car.&quot;</p>
+<p>A Palestinian witness challenged the Israeli version.</p>
+<p>&quot;I heard gun shots...and I rushed downstairs, where I saw three Israeli soldiers and three settlers standing near two jeeps,&quot; the witness, Ziad al-Fakhouri, told Reuters.</p>
+<p>&quot;The martyr was on the street,&quot; he said, referring to Zaro. &quot;He was wearing pyjamas and slippers. I saw no cars. There were only two jeeps parked in the middle of the road and a petrol tanker with Israeli licence plates.&quot;</p>
+<p>Palestinians said Israeli soldiers first tried to prevent Arabs from helping Zaro. But people charged and carried him away while youths pelted the soldiers with stones.</p>
+<p>In the Gaza Strip, two Palestinians were killed in explosions which the Israeli army described as suicide bombings aimed at Jewish settlers. No Israelis were hurt but the army said one of the blasts wounded five Arabs in a taxi.</p>
+<p>Palestinian police could not confirm whether the two men had blown themselves up deliberately.</p>
+<p>On Saturday, Israeli soldiers shot dead a Palestinian protester near Ramallah, the first fatality in the current wave of violence in the West Bank.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HEBRON, West Bank"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

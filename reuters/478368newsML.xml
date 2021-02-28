@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478368" id="root" date="1997-04-01" xml:lang="en">
+<title>HUNGARY: CITIBANK HUNGARY SECURITIES ARM RAISES CAPITAL.</title>
+<headline>CITIBANK HUNGARY SECURITIES ARM RAISES CAPITAL.</headline>
+<dateline>BUDAPEST 1997-04-01</dateline>
+<text>
+<p>Citibank transformed its Hungarian investment bank subsidiary, Citibank Investment Securities (Hungary) Ltd, to a public company and raised its capital, Citibank said in a statement on Tuesday.</p>
+<p>&quot;In line with its business policy and commitment to the Hungarian market, the bank transformed its Hungarian investment bank subsidiary... to a public limited company and increased its share capital to one billion forints effective April, 1, 1997,&quot; it said.</p>
+<p>The share capital was 250 million forints previously.</p>
+<p>By these steps it complies with the requirements of the new Securities Act and Primary Dealership System.</p>
+<p>Citibank's brokerage has been a member of the Budapest Stock Exchange since December 1995.</p>
+<p>-- Budapest newsroom +36 1 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522756" id="root" date="1997-04-19" xml:lang="en">
+<title>DUBAI: Iran, Russia sign oil and gas cooperation deals.</title>
+<headline>Iran, Russia sign oil and gas cooperation deals.</headline>
+<dateline>DUBAI 1997-04-19</dateline>
+<text>
+<p>Iran's oil ministry and Russian gas monopoly Gazprom have signed oil and gas cooperation agreements, the official Iranian news agency IRNA said on Saturday.</p>
+<p>It quoted National Iranian Oil Company (NIOC) director for international affairs Hojatollah Ghanimifard as saying the deals were reached during Iranian Parliamentary speaker Ali-Akbar Nateq-Nouri's visit to Moscow earlier this month.</p>
+<p>He said that under the terms of the deals, Gazprom would directly invest in the development of gas fields to boost production capacity, refining, liquefaction and transport of natural gas and upstream and downstream gas industries in the Gulf.</p>
+<p>Ghanimifard also said that a consortium of two Russian oil companies sealed an agreement with NIOC to drill in Iran's territorial waters. IRNA did not name the Russian firms.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

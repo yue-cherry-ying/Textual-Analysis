@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478240" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Hercules sees Q1 charges.</title>
+<headline>Hercules sees Q1 charges.</headline>
+<dateline>WILMINGTON, Del. 1997-04-01</dateline>
+<text>
+<p>Hercules Inc said on Tuesday that it sees a first quarter after-tax charge to earnings ranging from $130 million to $170 million, but added that the gain on the completion of the Tastemaker transaction will &quot;more than offset&quot; these charges.</p>
+<p>The charges are related to strategies adopted to strengthen current businesses, the company said, including rationalization of assets and a reduction in force, primarily at its operating facilities.  </p>
+<p>The company also said it had completed the transaction under which Swiss pharmaceuticals company Roche acquired the worldwide business and operations of synthetic flavors company Tastemaker, which was jointly owned by Hercules and Mallinckrodt Inc.</p>
+<p>Hercules said that although it had previously anticipated using the cash proceeds from the deal to repurchase shares, it was now exploring other uses as well.</p>
+<p>Chairman and Chief Executive R. Keith Elliott said in a statement,&quot; We are actively exploring one or more transactions that would result in significant debt requirements for completion. Pending resolution of these opportunities, expected by this summer, we plan to use about $50 million of the proceeds for share repurchase.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON, Del."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

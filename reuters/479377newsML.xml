@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479377" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: U.S. to take action against EU meat imports.</title>
+<headline>U.S. to take action against EU meat imports.</headline>
+<dateline>CRYSTAL CITY, Va. 1997-04-01</dateline>
+<text>
+<p>A senior Agriculture Department official said Tuesday that beginning today the United States will implement a new inspection system of EU member meat and poultry slaughter plants that is likely to halt the import of some $300 million worth of EU meat product by the United States.</p>
+<p>Paul Drazek, senior trade advisor to USDA Secretary Dan Glickman, said the action was being taken because U.S. and EU negotiators have been unable to come to an agreement in the so-called veterinary equivalency talks.  </p>
+<p>Drazek said some 100 EU slaughter plants will now have to meet USDA meat inspection standards, called the HAACP standards.</p>
+<p>He said these plants will not be able to ship products to the United States until they meet the U.S. guidelines, and that within a short time the EU plants would be taken off the USDA's list of approved slaughter plants.</p>
+<p>EU meat imports consist mostly of pork from Denmark.</p>
+<p>Drazek also said that as of today, the United States can no longer provide export certificates for poultry, dairy and egg shipments to the EU.  </p>
+<p>The halt of U.S. dairy and poultry shipments to the EU will occur due to new inspection standards to be implemented by the EU, and will impact about $100 million worth of U.S. goods, Drazek said.</p>
+<p>He said that despite today's actions, the negotiating process will continue in the coming weeks.</p>
+<p>The veterinary equivalency issue has been a bitter source of dispute between the two sides for years. An agreement would allow each side to accept meat and poultry products from the other even if the inspection methods differ.</p>
+<p>Washington has maintained that the United States has recognized equivalent practices by European packing and processing plants and allows EU meat imports into America.</p>
+<p>But it contends that Europe has insisted that U.S. plants follow exactly the same procedures as Europeans, and does not practice equivalency.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I0100119">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CRYSTAL CITY, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="477931" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Venturian Army contract protested.</title>
+<headline>Venturian Army contract protested.</headline>
+<dateline>MINNEAPOLIS 1997-04-01</dateline>
+<text>
+<p>Venturian Corp said Tuesday the U.S. Army Tank-Automotive and Armaments Command has told its Napco International Inc unit to stop work on an $11.6 million contract the Napco received pending evaluation of a protest on the award.</p>
+<p>The contract is for 401 kits for the upgrade of the M113 armored personnel carrier.</p>
+<p>Venturian president Gary Rappoport said that Napco had expected to ship the order beginning in the third quarter of 1997 and complete shipments in the first half of 1998.</p>
+<p>He said in a news release that if the government upholds the award, shipments will be delayed by the length of time that work on the contract will have been stopped.</p>
+<p>Venturian shares fell 5/64 to 11-59/64 Tuesday.</p>
+<p>((Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

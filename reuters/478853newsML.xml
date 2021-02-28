@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478853" id="root" date="1997-04-01" xml:lang="en">
+<title>MEXICO: Mexican crude port Pajaritos closed - port.</title>
+<headline>Mexican crude port Pajaritos closed - port.</headline>
+<dateline>MEXICO CITY 1997-03-31</dateline>
+<text>
+<p>Mexican crude port Pajaritos in Veracruz state shut at 1745 local/2345 GMT on Monday as a cold front brought high winds and waves to the region, port officials said.</p>
+<p>The nation's two other major crude shipping terminals, Cayo Arcas and Dos Bocas, remained open to crude exports amid calmer weather, officials told Reuters.  </p>
+<p>A cold front in the northern Gulf of Mexico was moving its way southeast toward Campeche Sound, the Communications and Transport Ministry said in its daily meteorological bulletin.</p>
+<p>Cayo Arcas in Campeche state ships an average 611,000 barrels per day (bpd) of crude, Dos Bocas in Tabasco state ships 440,000 bpd and Pajaritos ships 399,000 bpd, according to the latest figures from state oil and gas monopoly Petroleos Mexicanos (Pemex).</p>
+<p>-- Timna Tanners, Mexico City newsroom +525 728-7903</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

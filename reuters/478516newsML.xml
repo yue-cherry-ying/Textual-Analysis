@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478516" id="root" date="1997-04-01" xml:lang="en">
+<title>NIGERIA: Nigerian oil firm gets foreign partner.</title>
+<headline>Nigerian oil firm gets foreign partner.</headline>
+<dateline>LAGOS 1997-04-01</dateline>
+<text>
+<p>An indigenous oil company has secured a deal to operate jointly with an American firm in Nigeria's upstream sector, the semi-official Daily Times newspaper reported on Tuesday.</p>
+<p>It said Peak Petroleum Nigeria Limited and NTI Resources planned to invest over $29 million in the venture, adding that NTI would fund the drilling of two wells under Peak Petroleum's oil prospecting licence (OPL) at a cost of $14.8 million each.</p>
+<p>NTI, as operator of the venture, has a 40 percent equity in the deal while the Nigerian company holds the rest.</p>
+<p>Officials of the companies were unavailable to comment on the report.</p>
+<p>Nigeria's military government has granted 20 indigenous firms OPLs in order to promote local participation in the upstream sector. Some of them are already operating in partnership with foreign oil companies.</p>
+<p>($1=85)</p>
+<p>-- Lagos newsroom + 234 1 263 03 17</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

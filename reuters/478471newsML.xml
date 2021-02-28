@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478471" id="root" date="1997-04-01" xml:lang="en">
+<title>CANADA: CWB details Prairie elevator space, railcar unload.</title>
+<headline>CWB details Prairie elevator space, railcar unload.</headline>
+<dateline>WINNIPEG 1997-04-01</dateline>
+<text>
+<p>Vacant primary elevator space rose to 20 percent in the week ended March 30, while railcar unloads at export ports fell below target, the Canadian Wheat Board said.</p>
+<p>Average vacancy in Prairie elevators was 20 percent compared to 18 percent the prior week, the CWB said.</p>
+<p>Weather and equipment failure have delayed shipments of grains and oilseeds to Pacific ports since early January.</p>
+<p>The effect has been a severe backlog of vessels on the Pacific coast and more than C$20 million in demurrage fines levied against the CWB.</p>
+<p>Twenty-two ships waited to load at Canada's Pacific ports Thursday with the longest waiting ship berthed 49 days.</p>
+<p>Manitoba elevators had the least space available with 14 percent vacant space versus 12 percent the prior week.</p>
+<p>Saskatchewan was next at 19 percent vacant compared to 18 percent the week before. Alberta had the most space available at 24 percent compared to 22 percent the prior week.</p>
+<p>Vancouver saw 2,523 railcars unloaded compared to the target of 2,720 hopper cars. The prior week saw 2,975 unloads. Prince Rupert unloads totalled 1,404 railcars compared to the target of 1,200 hopper cars. Last week saw 1,088 unloads.</p>
+<p>Thunder Bay saw 836 railcar unloads compared to the target of 1,120 hopper cars. The prior week saw 501 unloads.</p>
+<p>((Gilbert Le Gras 204 947 3548))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

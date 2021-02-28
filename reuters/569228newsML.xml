@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569228" id="root" date="1997-05-08" xml:lang="en">
+<title>ARGENTINA: Argentina to auction Letes T-bills May 13.</title>
+<headline>Argentina to auction Letes T-bills May 13.</headline>
+<dateline>BUENOS AIRES 1997-05-08</dateline>
+<text>
+<p>Argentina will auction $250 million of 182- and 250 million pesos of 91-day Letes Treasury bills at its monthly bill auction May 13, the Economy Ministry said Thursday.</p>
+<p>An official at the ministry said these issues will replace other bills that are maturing, leaving the stock of Letes in circulation unchanged.  </p>
+<p>The sale will take place through Dutch-style auction. Settlement will be on May 16.</p>
+<p>Offers are due by 1400 local/1700 GMT.</p>
+<p>((--Buenos Aires Newsroom, 541 318-0668))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

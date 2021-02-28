@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522853" id="root" date="1997-04-19" xml:lang="en">
+<title>SRI LANKA: Sri Lankan man posing as woman sent to psychiatrist.</title>
+<headline>Sri Lankan man posing as woman sent to psychiatrist.</headline>
+<dateline>COLOMBO 1997-04-18</dateline>
+<text>
+<p>A Sri Lankan man, who posed as a woman and won an award for being the best female entrepreneur, was sent to hospital by a magistrate on Friday for psychiatric checks, court officials said.</p>
+<p>They said the magistrate had ordered the 36-year-old Sattambige Sriyaratne to be sent to a doctor for a full report on his mental state.</p>
+<p>&quot;The magistrate has ordered that a report be obtained on the person's mental condition,&quot; a court official told Reuters.</p>
+<p>Sriyaratne was represented by his lawyers in court.</p>
+<p>He had posed as a woman for about three years, received bank loans amounting to 33 million rupees ($500,000) and ran a successful business exporting prawns, police said last week.</p>
+<p>Sriyaratne received an award from a senior government minister after being selected as the female entrepreneur of the year for 1995, police said.</p>
+<p>They said he was also legally married to a 29-year-old man.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

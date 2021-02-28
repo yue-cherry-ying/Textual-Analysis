@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522711" id="root" date="1997-04-19" xml:lang="en">
+<title>INDONESIA: Eleven die in Indonesian airplane crash.</title>
+<headline>Eleven die in Indonesian airplane crash.</headline>
+<dateline>JAKARTA 1997-04-19</dateline>
+<text>
+<p>Eleven people were killed and 28 injured in a plane crash on Saturday on the Indonesian island of Belitung, the official Antara news agency said.</p>
+<p>Antara said a Merpati Nusantara Airlines twin turbo-prop aircraft with 57 passengers on board crashed short of the Buluh Tumbang airport on Belitung, 400 km (248 miles) north of Jakarta at about 7:53 a.m. (0035 GMT).</p>
+<p>The report said that about four hours after the crash 11 bodies had been brought to the Belitung general hospital, including the pilot and a stewardess.</p>
+<p>Search and rescue officials in Jakarta said the cause of the crash was not yet known. But they said the plane, which was on a flight to Belitung from Jakarta, had broken into three sections upon impact.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

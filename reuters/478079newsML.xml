@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478079" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: World Access buys Cellular Infrastructure.</title>
+<headline>World Access buys Cellular Infrastructure.</headline>
+<dateline>ATLANTA 1997-04-01</dateline>
+<text>
+<p>World Access Inc said on Tuesday it completed its acquisition of Cellular Infrastructure Supply Inc for $7.1 million in cash and stock.</p>
+<p>World Access said the acquisition should be highly accretive to its earnings per share and net cash flow beginning in 1997.</p>
+<p>Cellular's three principals and their staff will continue to manage the company as a wholly owned subsidiary of World Access.</p>
+<p>Cellular provides equipment and support services for the cellular and other wireless service industries.</p>
+<p>World Access makes wireline and wireless switching, transmission and access products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

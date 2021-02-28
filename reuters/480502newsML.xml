@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480502" id="root" date="1997-04-01" xml:lang="en">
+<title>SOUTH KOREA: South Korea's Jan-Feb gold trade rises.</title>
+<headline>South Korea's Jan-Feb gold trade rises.</headline>
+<dateline>SEOUL 1997-04-01</dateline>
+<text>
+<p>South Korea's gold imports rose 7.0 percent to $855 million in the first two month of this year from $799 million a year earlier, a central Bank of Korea statement said on Tuesday.</p>
+<p>Gold exports climbed 3.2 percent to $784 million from $760 million a year earlier, the statement said.</p>
+<p>In volume terms, imports rose 21.6 percent to 75.12 tonnes in the first two months from 61.78 tonnes a year ago. Exports gained 22 percent to 71.87 tonnes from 58.91 tonnes a year earlier.  </p>
+<p>The gold trade has slumped since a crackdown on a booming bullion transshipment business by local gold houses last July.</p>
+<p>In 1996, gold imports surged 104.9 percent to $5.61 billion (424.4 tonnes) while exports shot up by 118.5 percent to $5.31 billion (427.3 tonnes) compared with 1995.</p>
+<p>Last July, the government shortened the deferred payment period to a maximum 30 days from 90 days to curb speculation. Bullion houses had been importing huge amounts of gold on deferred payment, immediately exporting the metal and parking the proceeds in high interest-bearing domestic accounts.</p>
+<p>-- Jae Hur, Seoul Newsroom (822) 727 5651</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22472">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

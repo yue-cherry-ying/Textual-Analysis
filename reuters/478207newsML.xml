@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478207" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Coastal, Williams propose Independence pipeline.</title>
+<headline>Coastal, Williams propose Independence pipeline.</headline>
+<dateline>DETROIT 1997-04-01</dateline>
+<text>
+<p>Independence Pipeline Co, a partnership formed by subsidiaries of Coastal Corp and Williams Cos Inc, said it filed with the Federal Energy Regulatory Commission seeking authority to construct and operate a 370 mile pipeline with an initial capacity of about 900 million cubic feet of natural gas per day.</p>
+<p>Called the Independence Pipeline, it would link ANR Pipeline Co's compressor station at Defiance, Ohio, with Transcontinental Gas Pipe Line Corp's facilities at Leidy, Pa., with a 36-inch diameter pipe.  </p>
+<p>To meet a proposed in-service date of November 1, 1999, Independence requests a preliminary FERC determination by November 1, 1997, and a final order no later than July 1, 1998, the pipeline said.</p>
+<p>In a companion filing, Coastal's ANR seeks FERC authority to add 72 miles of mainline looping and 15,000 additional horesepower at its existing Bridgman, Mich., compressor station, providing 750 million cubic feet daily of new, firm capacity on its system between Joliet, Ill., and Defiance, Ohio.</p>
+<p>To determine shipper interest, Independence said, it plans to hold an open season starting April 2 and ending May 30.</p>
+<p>((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

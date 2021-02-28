@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569803" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: USDA suspends use of cotton special import quotas.</title>
+<headline>USDA suspends use of cotton special import quotas.</headline>
+<dateline>WASHINGTON 1997-05-08</dateline>
+<text>
+<p>U.S. Agriculture Department said Thursday it suspended the use of upland cotton special import quotas because U.S. prices have become competitive in world cotton trade.</p>
+<p>&quot;After 80 consecutive 10-week periods in which price conditions in the cotton market had caused import quotas to be announced weekly, U.S. price quotations have declined to the point where they have become competitive in world cotton trade,&quot; the department said in a statement.</p>
+<p>USDA said no new quotas will be announced unless U.S. prices again become uncompetitive and remain so for any consecutive 10-week period.</p>
+<p>Under 1996 Farm Bill, U.S. prices are considered uncompetitive if they exceed the average price quotation of the world's five cheapest growths of cotton by more than 1.25 cents per pound, USDA said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479014" id="root" date="1997-04-01" xml:lang="en">
+<title>JAPAN: Dowa Mining to issue 50 mln Sfr warrant.</title>
+<headline>Dowa Mining to issue 50 mln Sfr warrant.</headline>
+<dateline>TOKYO 1997-04-01</dateline>
+<text>
+<p>BORROWER - Dowa Mining Co Ltd</p>
+<p>LEAD MGR - Credit Suisse First Boston</p>
+<p>GUARANTOR - Industrial Bank of Japan</p>
+<p> TYPE   Sfr warrant     ISSUE NO		AMT   50 million Sfr</p>
+<p> COUPON		     ISS PRICE	     MATURITY 24.Apr.01</p>
+<p> EXERCISE FRM 8.May.97  EXERCISE TO 17.Apr.01</p>
+<p> LAST MOODY'S	     PAY DATE 24.Apr.97  INT PAY 24.Apr</p>
+<p> LAST S&amp;P		   SIGN DATE 8.Apr.97  SUB DATE</p>
+<p> LAST JCR		   LAST JBRI	     LAST NIS</p>
+<p>NOTE: The coupon and exercise price will be decided on April 8.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

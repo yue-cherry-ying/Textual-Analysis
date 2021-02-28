@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478603" id="root" date="1997-04-01" xml:lang="en">
+<title>CZECH REPUBLIC: Direct equity trades on the Czech PSE - April 1.</title>
+<headline>Direct equity trades on the Czech PSE - April 1.</headline>
+<dateline>PRAGUE 1997-04-01</dateline>
+<text>
+<p>The following is a list of direct equity trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max.Price  Volume   Turnover</p>
+<p>				   CZK	  CZK   (shares)(CZK 000's)</p>
+<p> 1.IF ZIVNOBANKA	   473.00    482.44	9000    4288.340</p>
+<p> AERO			   93.00     93.00	4600     427.800</p>
+<p> ATESO			 500.00    500.00	2500    1250.000</p>
+<p> CESKA SPORITELNA	  303.93    303.93	7500    2279.475</p>
+<p> CEZ			  1033.66   1194.00    133200  150199.451</p>
+<p> CKD PRAHA HOLDING	 879.42    879.42	3105    2730.608</p>
+<p> COKOLADOVNY		4233.60   4233.60	 500    2116.800</p>
+<p> ETA			   346.00    350.00     40000   13920.000</p>
+<p> GALENA		     1492.92   1492.92	1376    2054.259</p>
+<p> CHEMOPETROL GROUP	1214.40   1376.00	6700    8732.400</p>
+<p> IPS PRAHA		   246.96    265.00     61000   15648.000</p>
+<p> JIHOMOR. PLYNAREN.     2976.00   2976.00	8064   23998.464</p>
+<p> KAUCUK GROUP	     1043.93   1480.00     16500   22286.676</p>
+<p> KOMERCNI BANKA	   2346.08   2600.00     31946   78333.370</p>
+<p> MEP POSTRELMOV	   3200.00   3200.00	 854    2732.800</p>
+<p> MILO OLOMOUC	     1405.00   1405.00	8300   11661.500</p>
+<p> MOSTECKA UH.SPOL.	 415.00    420.00    188139   78577.685</p>
+<p> OBAL ROZKOS		 364.00    441.00     16273    6563.242</p>
+<p> OKD			   173.25    175.00     30000    5241.250</p>
+<p> PARAMO			711.00    720.00     13696    9799.488</p>
+<p> PPF INVEST.HOLDING	234.82    234.82     10000    2348.200</p>
+<p> RIF			   979.89    999.97     16368   16230.333</p>
+<p> SELIKO		     2600.00   2600.00	 900    2340.000</p>
+<p> SOKOLOVSKA UHELNA	 665.00    680.00	6500    4367.500</p>
+<p> SPIF CESKY		  371.25    406.00    827050  335001.232</p>
+<p> SPT TELECOM		3437.28   3485.00     34600  119942.698</p>
+<p> SKODA PLZEN		 964.55    997.92     14807   14488.598</p>
+<p> SKODA PRAHA		 880.00   1350.00	8700    8220.000</p>
+<p> TABAK			8380.00   8440.99	 800    6732.699</p>
+<p> TESLA SEZAM		 350.00    350.00     25000    8750.000</p>
+<p> VERTEX		     2997.00   2997.00	1630    4885.110</p>
+<p>-- Prague Newsroom, 420-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569670" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: CBOT rice closes sharply lower on export sales.</title>
+<headline>CBOT rice closes sharply lower on export sales.</headline>
+<dateline>CHICAGO 1997-05-07</dateline>
+<text>
+<p>CBOT rice futures closed sharply lower on Thursday, battered by USDA weekly export sales that were 70 percent below the previous week, traders said.</p>
+<p>&quot;Exports were disappointing,&quot; a floor source said. &quot;LIT was an aggressive seller on the way down.&quot;</p>
+<p>USDA on Thursday put weekly export sales at 4,900 tonnes, down 70 percent from last week and 80 percent from the four-week average.</p>
+<p>Traders also pointed to uncertainty on the export front amid reports Costa Rica extended the deadline for its tender. Costa Rica has cancelled several tenders recently.</p>
+<p>Floor sources said the trade was skeptical Costa Rica would complete the tender.</p>
+<p>Rice ended 18 to three cents per cwt lower with July down 13 at $11.18.</p>
+<p>Volume was estimated by CBOT at 250 lots, compared with Wednesday's actual volume of 381 lots.</p>
+<p>((Emily Kaiser 312-408-8749))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

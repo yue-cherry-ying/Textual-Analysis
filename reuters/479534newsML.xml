@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479534" id="root" date="1997-04-01" xml:lang="en">
+<title>BANGLADESH: Bangladesh PM to cut down on TV appearances.</title>
+<headline>Bangladesh PM to cut down on TV appearances.</headline>
+<dateline>DHAKA 1997-04-01</dateline>
+<text>
+<p>Bangladesh Prime Minister Sheikh Hasina is to cut down on television appearances, her press officials said on Tuesday at a time of mounting opposition complaints of prime-time overkill.</p>
+<p>&quot;The prime minister has asked us to be cautious about her television coverage. From now on, only her activities carrying special significance will go on television,&quot; one official told Reuters.</p>
+<p>The opposition Bangladesh Nationalist Party (BNP) recently demonstrated in front of the television centre in Dhaka protesting against what it said was the ruling Awami League's treatment of television as its own personal property.</p>
+<p>Radio and television in Bangladesh are controlled by the government.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

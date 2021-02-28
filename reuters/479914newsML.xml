@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479914" id="root" date="1997-04-01" xml:lang="en">
+<title>ISRAEL: Israeli soldiers kill Palestinian in West Bank.</title>
+<headline>Israeli soldiers kill Palestinian in West Bank.</headline>
+<dateline>NABLUS, West Bank 1997-04-01</dateline>
+<text>
+<p>Israeli soldiers shot dead a Palestinian during a clash in the West Bank on Tuesday, Palestinian Health Ministry officials said.</p>
+<p>Witnesses said the man was shot in the head near the Palestinian town of Nablus. Health Ministry officials said he was pronounced dead at a local hospital.  </p>
+<p>Earlier in the day, Israeli soldiers shot dead a Palestinian teenager in the West Bank town of Hebron. Israeli police said he had tried to run down an Israeli officer at a roadblock but Palestinian witnesses denied this.</p>
+<p>Palestinians identified the man shot in Nablus as Haitham Mansour, a university student in his early 20s, and said he was from the nearby village of Kufr Qallil. An Israeli army spokesman said he was checking the report.</p>
+<p>Witnesses to the killing said Israeli troops had opened fire at stone-throwing Palestinians near a checkpoint on the outskirts of Nablus. Several other Arabs were treated for rubber bullet wounds and teargas inhalation, the health officials said.</p>
+<p>Street battles erupted in the West Bank 13 days ago after Israel broke ground for a Jewish settlement in Arab East Jerusalem. On Saturday, Israeli soldiers shot dead a Palestinian near the town of Ramallah, the first fatality in the current wave of violence.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NABLUS, West Bank"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

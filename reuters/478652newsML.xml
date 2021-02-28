@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478652" id="root" date="1997-04-01" xml:lang="en">
+<title>RUSSIA: Rouble lower as quarter ends, on long-covering.</title>
+<headline>Rouble lower as quarter ends, on long-covering.</headline>
+<dateline>MOSCOW 1997-04-01</dateline>
+<text>
+<p>The rouble eased on Tuesday as demand for the local currency fell back following the end of the quarter, with banks covering their own and their clients' short dollar positions, dealers said.</p>
+<p> roubles/dollar	Apr 1 midday   Apr 1 early    Mar 31 close</p>
+<p> today settlement    5,737-39	 5,731-33	 5,729-31</p>
+<p> tomorrow settlement 5,737-38	 5,733-34	 5,728-30</p>
+<p> overnight credit (%)    5-10	    30-35	     5-10</p>
+<p>			   Apr 1				 Mar 31</p>
+<p> central bank	  5,722/36			    5,724/38</p>
+<p> MICEX		   5,729				 5,727</p>
+<p>&quot;Banks do not need many roubles as the quarter is over. The dollar is in demand from bank clients and banks themselves,&quot; Bank Menatep dealer Mikhail Zaretsky said.</p>
+<p>But another dealer said the rouble could firm late on Wednesday or Thursday if banks find investing in Treasury bills and OFZ bonds attractive after Wednesday's auctions.</p>
+<p>On April 2 the finance ministry is auctioning seven trillion roubles of 203-day GKO discount Treasury bills (series 22079) and four trillion roubles of 728-day OFZ government interest-bearing bonds.</p>
+<p>--Artyom Danielyan, Moscow newsroom (095) 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

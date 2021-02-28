@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478199" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Dnap Holding 1996 shr loss $1.19.</title>
+<headline>Dnap Holding 1996 shr loss $1.19.</headline>
+<dateline>OAKLAND, Calif. 1997-04-01</dateline>
+<text>
+<p>DNAP Holding Corporation</p>
+<p>			  (formerly Bionova U.S. Inc.)</p>
+<p>			Consolidated Results of Operations</p>
+<p>			    Thousands of U.S. Dollars</p>
+<p>			    (except per share amounts)</p>
+<p>						  Year Ended December 31,</p>
+<p>							  1996	  1995</p>
+<p> Total revenues				 $192,985     $197,586</p>
+<p> Cost of sales				 (176,353)    (177,076)</p>
+<p> Selling and administrative expenses    (16,195)     (14,397)</p>
+<p>Write off of purchased research and</p>
+<p>  development				   (12,900)	     --</p>
+<p> Research and development expenses	 (1,244)	     --</p>
+<p>Amortization of goodwill, patents and</p>
+<p>  trademarks				     (1,008)	  (538)</p>
+<p>						   (207,700)    (192,011)</p>
+<p> Operating income (loss)		    (14,715)	  5,575</p>
+<p> Interest expense				(5,651)	(8,430)</p>
+<p> Interest income				   2,169	  3,490</p>
+<p> Exchange gain (loss), net			 569	(4,748)</p>
+<p> Other non-operating income		    2,058	     --</p>
+<p>							 (855)	(9,688)</p>
+<p> Income (loss) before income tax	  (15,570)	(4,113)</p>
+<p> Income tax (expense) benefit		(2,738)	(2,320)</p>
+<p>Net income (loss) before minority interest (18,308)  (6,433)</p>
+<p>Minority interest in net loss (income) of</p>
+<p>  subsidiaries				     1,274	  3,049</p>
+<p> Net loss					 (17,034)	(3,384)</p>
+<p> Net loss per share			     (1.19)	     --</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKLAND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569361" id="root" date="1997-05-08" xml:lang="en">
+<title>CHINA: Chronology of China's recent civil air crashes.</title>
+<headline>Chronology of China's recent civil air crashes.</headline>
+<dateline>BEIJING 1997-05-08</dateline>
+<text>
+<p>The following is a chronology of major civil air crashes in China in recent years:</p>
+<p>July 1992 - Soviet-built Yak-42 owned by China General Aviation Corp crashes on takeoff from airport in eastern city of Nanjing, killing 106 of 116 people on board.</p>
+<p>August 1992 - M1-8 helicopter owned by China General Aviation Corp and operated by Beijing United Aviation Tourism crashes near Great Wall on outskirts of Beijing, killing 15 people, including nine Japanese tourists.</p>
+<p>October 1992 - Soviet-built piston-engined Ilyushin IL-14M owned by Wuhan Airlines crashes in northwestern Gansu province, killing 14, including five crew and nine French tourists.</p>
+<p>November 1992 - China Southern Airlines Boeing 737 slams into a hill coming in to land at scenic southern city of Guilin, killing all 141 aboard.</p>
+<p>July 1993 - Four-engined British Aerospace BAe 146 owned by China Northwest Airlines fails on takeoff in northern Ningxia province, slamming into a marsh and breaking up, killing 55.</p>
+<p>November 1993 - Northern China Airlines MD-82 crashes at Urumqi airport in northwestern Xinjiang province, killing 12.</p>
+<p>June 1994 - Soviet-built Tupolev owned by China Northwest Airlines explodes in mid-air shortly after takeoff on a domestic flight from the ancient city of Xi'an to the southern city of Guangzhou, killing 160 people in China's worst civil air disaster. Victims included four Italians, two Britons, two Americans and one Australian.</p>
+<p>May 8, 1997 - China Southern Airlines Boeing 737 crash-lands in southern boomtown of Shenzhen, killing at least 10 people and injuring 20.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479806" id="root" date="1997-04-01" xml:lang="en">
+<title>UK: IPE natgas gas softens after weekend flex sales.</title>
+<headline>IPE natgas gas softens after weekend flex sales.</headline>
+<dateline>LONDON 1997-04-01</dateline>
+<text>
+<p>IPE natural gas futures softened in early trade, after sales on the flexibility mechanism exerted pressure across the forward curve, brokers said.</p>
+<p>Unseasonally warm temperatures over the Easter weekend forced TransCo to sell gas on the flex market below seven pence a therm (p/th), they said.</p>
+<p>&quot;The flex market sold over the weekend, that's always a negative sign for the market,&quot; said one dealer.</p>
+<p>A total of 80 lots traded in the morning session, with most of the volume concentrated in the three front months.</p>
+<p>May and June both slipped 0.05 p/th to 10.15 p/th, while July shed 0.125 to trade at $10.10 p/th.</p>
+<p>Brokers said summer months were under pressure from an overhang of unsold gas.</p>
+<p>Winter gas was untraded, but trade was done for spring 1998, with March 1998 losing 0.10 pence a therm to 13.90 p/th, and April sliding by 0.25 p/th to 12.5 p/th.</p>
+<p>The Met Office said on Tuesday in its three-day forecast that it foresaw &quot;rain in the north spreading southwards followed by much colder weather with wintry showers over Scotland.&quot;</p>
+<p>-- Rosalind Russell, London Newsroom +44 171 542 5387</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

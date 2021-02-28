@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478198" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Marquee Group year loss $1.03/shr.</title>
+<headline>Marquee Group year loss $1.03/shr.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>Marquee Group Inc said Tuesday it had an operating loss of $2.0 million on revenues of $2.9 million for 1996. It said its net loss was $2.4 million, or $1.03 per share based on 2.3 million weighted average common shares and equivalents outstanding.</p>
+<p>There were no operating results for the company in the previous year.</p>
+<p>The company said it closed its initial public offering on December 12, 1996, and simultaneously acquired two companies which would represent about 88 percent of Marquee's pro forma revenues for the year.</p>
+<p>Consequently, the reported results represent only a small fraction of the performance of the company as constituted on December 31, 1996, it said.</p>
+<p>On a pro forma basis, assuming acquisitions and the completion of the company's initial public offering had occurred as of January 1, 1995, the company said revenues would have increased 47 percent to $15.2 million, and the net loss would have been $0.9 million, or $0.12 per share. Included in this loss were $0.4 million, or $0.06 per share, of one-time charges, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

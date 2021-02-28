@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479983" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: EPL Technologies Inc Q4 shr loss $0.07.</title>
+<headline>EPL Technologies Inc Q4 shr loss $0.07.</headline>
+<dateline>PHILADELPHIA 1997-04-01</dateline>
+<text>
+<p>Year Ended December 31	 1996	 1995</p>
+<p> Sales					 $11,314,141  $3,239,566</p>
+<p> EBITDA					(3,164,518) (2,467,922)</p>
+<p> Depreciation and Amortization	   1,009,746     574,293</p>
+<p> Interest expense				 20,223     267,176</p>
+<p> Deferred tax				    101,432	10,543</p>
+<p> Net Loss				    (4,295,919) (3,319,934)</p>
+<p> Net Loss Per Common Share		    (0.31)	(0.39)</p>
+<p>Weighted Average Number of Common</p>
+<p>  Shares Outstanding			14,873,518   9,311,059</p>
+<p>	    Quarter Ended December 31	  1996	  1995</p>
+<p> Sales					  $4,250,563  $2,075,541</p>
+<p> EBITDA					  (552,956)   (598,349)</p>
+<p> Depreciation and Amortization	     320,318     246,524</p>
+<p> Interest expense and deferred tax	 109,428	12,417</p>
+<p> Net Loss					(982,702)   (857,290)</p>
+<p> Net Loss Per Common Share		    (0.07)	(0.04)</p>
+<p>Weighted Average Number of Common</p>
+<p>  Shares Outstanding			15,515,866  12,224,268</p>
+<p>-- New York Newsdesk 212-859-1700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

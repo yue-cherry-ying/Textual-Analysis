@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="477988" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Intl Remote sees 1996 loss.</title>
+<headline>Intl Remote sees 1996 loss.</headline>
+<dateline>CHATSWORTH, Calif. 1997-04-01</dateline>
+<text>
+<p>International Remote Imaging Systems Inc expects to report a pretax loss of $10.9 million for 1996, compared with a pretax loss last year of $1.5 million.</p>
+<p>It said it has not yet determined its provision for income tax benefit.</p>
+<p>The company also said its net sales for 1996 rose to $20.6 million from $14.4 million last year.</p>
+<p>It said the loss stems largely from $7.3 million in acquisition expenses for the purchase of the PowerGene business of Perceptive Scientific Instruments.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHATSWORTH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

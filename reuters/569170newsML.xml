@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569170" id="root" date="1997-05-08" xml:lang="en">
+<title>MEXICO: White House plays down Rubin's early return home.</title>
+<headline>White House plays down Rubin's early return home.</headline>
+<dateline>MEXICO CITY 1997-05-07</dateline>
+<text>
+<p>Treasury Secretary Robert Rubin decided to return early to Washington from Mexico to take care of routine business and not because of any alarming developments, the White House said on Wednesday.</p>
+<p>&quot;There were some matters that he wanted to attend to at the Treasury Department, but it was the routine press of business ... no alarming developments that I am aware of that sent him home,&quot; White House spokesman Mike McCurry said.</p>
+<p>Rubin, who traveled here with President Clinton and other senior U.S. officials, unexpectedly returned to Washington on Tuesday night, in the process cancelling a speech he had been slated to give today to the U.S.-Mexico Chamber of Commerce.</p>
+<p>&quot;He just went back because his work here had been completed in the context of the binational commission meetings,&quot; McCurry told reporters travelling with Clinton.</p>
+<p>Treasury spokesman Howard Schloss echoed McCurry's remarks. &quot;He came back for Treasury business. There are no emergencies or crises,&quot; Schloss told Reuters in Washington.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

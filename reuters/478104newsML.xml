@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478104" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Rotary, Cryogenic to merge.</title>
+<headline>Rotary, Cryogenic to merge.</headline>
+<dateline>WOOD-RIDGE, N.J. 1997-04-01</dateline>
+<text>
+<p>Rotary Power International Inc said Tuesday it had signed a definitive agreement to merge with International Cryogenic Systems Corp.</p>
+<p>Rotary said each of its shares would be converted into 0.363 share of Cryogenic. Rotary said it would become a subsidiary of Cryogenic.</p>
+<p>On March 31 Rotary closed at 5/16. Cryogenic ended at 1-1/4 on March 25.</p>
+<p>Cryogenic makes industrial refrigeration and food freezing systems. Rotary makes rotary engines for industrial, marine and hybrid-electric vehicular markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOOD-RIDGE, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

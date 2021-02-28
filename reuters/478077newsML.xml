@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478077" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Insituform moves offices, cuts 20 jobs.</title>
+<headline>Insituform moves offices, cuts 20 jobs.</headline>
+<dateline>MEMPHIS 1997-04-01</dateline>
+<text>
+<p>Insituform Technologies Inc on Tuesday said that it will combine its corporate headquarters, engineering and development center, and North American contracting headquarters in Chesterfield, Missouri.</p>
+<p>The combination of the functions presently split between offices in Memphis and Chesterfield will allow the elimination of about 20 positions, which is about 15 percent of the total current positions in the two headquarters, engineering and development.</p>
+<p>Severance costs related to this reduction and the move are expected to be $0.5 to $0.8 million, the firm said. The cost of moving the people and offices is estimated at $2.5 to $3 million. These costs will be incurred as the move takes place in stages during the balance of this year.</p>
+<p>The company said it believes that combining the corporate and technology functions from Memphis with the contracting management and operations in St. Louis will save over $1 million per year in operating costs.</p>
+<p>Insituform Technologies is a provider of proprietary trenchless technologies for the rehabilitation and improvement of sewer, water, gas and industrial pipe.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I5020043">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEMPHIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

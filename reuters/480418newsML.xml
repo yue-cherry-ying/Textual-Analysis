@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480418" id="root" date="1997-04-01" xml:lang="en">
+<title>PHILIPPINES: Manila's PHIBOR rates showed mixed results.</title>
+<headline>Manila's PHIBOR rates showed mixed results.</headline>
+<dateline>MANILA 1997-04-01</dateline>
+<text>
+<p>The Philippine interbank offered rates (PHIBOR) showed mixed results on Tuesday, mirroring the varying views on the direction of domestic interest rates, traders said.</p>
+<p>A foreign bank dealer said some banks believe interest rates may have already bottomed out after the Central Bank decided to keep its overnight borrowing rate at 9.9 percent on Tuesday even after T-bill rates fell on Monday.</p>
+<p>This view was reflected in the rise of the two-week and one-month PHIBOR rates to bring them closer to the Central Bank's overnight rate, he said.</p>
+<p>The two-month and 12-month rates moved sideways as banks waited for further news that will affect rates from the latest inflation figure, he said. The March inflation rate may be announced on Friday or on Monday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

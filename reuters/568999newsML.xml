@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568999" id="root" date="1997-05-08" xml:lang="en">
+<title>SOUTH AFRICA: Deelkraal seismic event toll now at eight.</title>
+<headline>Deelkraal seismic event toll now at eight.</headline>
+<dateline>JOHANNESBURG 1997-05-08</dateline>
+<text>
+<p>Deelkraal Gold Mining Co Ltd said on Thursday the death toll now stood at eight following a seismic event at 2,600 metres below surface in an area served by the No 1 sub-shaft at around noon on Wednesday.</p>
+<p>Another two employees were still unaccounted for and rescue operations were continuing, Deelkraal said in a statement.</p>
+<p>The mine said 24 workers were injured in the fall of ground accident. The seismic event measured 3.3 on the Richter scale.</p>
+<p>Deelkraal did not say whether production had been affected by the seismic event.</p>
+<p>The mine produced 1,930 kg of gold in the three months to end-March, 1997.</p>
+<p>-- Johannesburg newsroom, +27-11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

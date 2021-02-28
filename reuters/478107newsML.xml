@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478107" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Hunt Manufacturing acquires Sallmetall.</title>
+<headline>Hunt Manufacturing acquires Sallmetall.</headline>
+<dateline>PHILADELPHIA 1997-04-01</dateline>
+<text>
+<p>Hunt Manufacturing Co said Tuesday that it has completed its previously announced acquisition of all of the stock of Sallmetall BV, a Dutch company.</p>
+<p>Terms of the transaction were not disclosed.</p>
+<p>Sallmetall, designs and assembles laminating equipment and related adhesive film coating manufacturing.  It had sales of approximately $21 million for the year ended Dec 31.</p>
+<p>Hunt said that Sallmetall adds manufacturing capacity and market penetration to its distribution capability and includes operations in Europe and the U.S.</p>
+<p>Hunt is a makes and sells office, art/craft, and presentation and display products for the business, education, and consumer markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479605" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: RESEARCH ALERT - Columbia/HCA upgraded.</title>
+<headline>RESEARCH ALERT - Columbia/HCA upgraded.</headline>
+<text>
+<p>-- Stephens Inc said it upgraded Columbia/HCA Healthcare Corp to strong buy from buy.</p>
+<p>-- said believes the market overreacted to the investigations currently taking place at Columbia/HCA's El Paso facilities.</p>
+<p>-- said believes that the main issues of the investigation concern doctor ownership at Columbia hospitals and Medicare coding.</p>
+<p>-- said it is not worried about any long-term impact of the investigatiion on the company's current referral patterns.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

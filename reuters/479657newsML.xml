@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479657" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Home State Holdings Inc Q4 loss vs profit.</title>
+<headline>Home State Holdings Inc Q4 loss vs profit.</headline>
+<dateline>SHREWSBURY, N.J. 1997-04-01</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr    loss     $3.05	  profit  $0.35</p>
+<p> Net    loss     17,048	 profit  1,963</p>
+<p> Revs		22,247		   23,133</p>
+<p> Avg shrs	  5,660		    5,661</p>
+<p>	  12 MONTHS</p>
+<p> Shr    loss     $3.66	  profit  $1.08</p>
+<p> Net    loss     20,527	 profit  6,123</p>
+<p> Revs		107,733		  71,932</p>
+<p> Avg shrs	  5,660		    5,661</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Company said net loss in 1996 was mostly due to incurred loss and loss adjustment expenses charges of $26.3 million net of taxes, an associated reduction in recoveries on reinsurance premiums of $4.0 million net of taxes, and a charge to earnings of $1.4 million net of taxes for an additional write-down of surplus notes receivable from Home Mutual Insurance Co.</p>
+<p>((--New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHREWSBURY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478852" id="root" date="1997-04-01" xml:lang="en">
+<title>MEXICO: Greenpeace says Mexico's Pemex spilling crude.</title>
+<headline>Greenpeace says Mexico's Pemex spilling crude.</headline>
+<dateline>MEXICO CITY 1997-03-31</dateline>
+<text>
+<p>The environmental group Greenpeace on Monday charged Mexico's state oil and gas monopoly with violating international law by allowing crude oil to leak into the waters of the Gulf of Mexico.</p>
+<p>The international ecological organisation said in a statement it found four abandoned drilling platforms once operated by Petroleos Mexicanos (Pemex) &quot;still leaking crude into the sea.&quot;</p>
+<p>Pemex officials were not available for comment.</p>
+<p>&quot;The structure is collapsing little by little through corrosion and occasionally there are oil leaks,&quot; a local fisherman said, according to Greenpeace.</p>
+<p>In addition, Greenpeace charged that the decrepit platforms violated international law that requires such defunct sites be removed.</p>
+<p>&quot;These are the tracks left behind by Pemex... platforms abandoned more than 20 years ago, despite the fact that since 1958 international accords agreed to remove such installations,&quot; Greenpeace energy campaign coordinator Alejandro Calvillo said.</p>
+<p>On Saturday the environmental group threw buckets of oil, contaminated water and dead animals at a Pemex building in the port city of Veracruz to protest at oil spill in the region.</p>
+<p>Pemex confirmed a 264 gallon (1,000 liter) spill of oil and water, but denied Greenpeace charges of environmental damage.</p>
+<p>Local environmental groups also condemned Pemex, saying the state company covered up the mishap and polluted the Tecolutla River, rich in fish, freshwater crabs, oysters and shrimp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

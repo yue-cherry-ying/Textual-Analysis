@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478835" id="root" date="1997-04-01" xml:lang="en">
+<title>BRAZIL: Brazil's Paranagua says expects sporadic loading.</title>
+<headline>Brazil's Paranagua says expects sporadic loading.</headline>
+<dateline>SAO PAULO 1997-04-01</dateline>
+<text>
+<p>The key Brazilian port of Paranagua said it expected loading of grains to continue sporadically at its export terminal today insofar as rains allow.</p>
+<p>Loading has been temporarily suspended because of the bad weather but should resume as soon as showers stop. The terminal stopped loading grains at 0750 local/1050 GMT.</p>
+<p>&quot;At the moment loading has stopped,&quot; said an official at the export terminal. &quot;But we should be loading in dribs and drabs.&quot;</p>
+<p>&quot;The terminal is not 100 percent paralyzed,&quot; a spokeswoman said, adding that operations would continue erratically during the day.</p>
+<p>The National Institute of Meteorology said the region should be sunny again by Wednesday.</p>
+<p>((--Joelle Diderich, Sao Paulo newsroom +55 11 248 5417))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

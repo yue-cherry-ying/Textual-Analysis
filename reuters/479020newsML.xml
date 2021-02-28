@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479020" id="root" date="1997-04-01" xml:lang="en">
+<title>THAILAND: Thai March CPI up 4.5 pct yr/yr, up 0.5 pct mo/mo.</title>
+<headline>Thai March CPI up 4.5 pct yr/yr, up 0.5 pct mo/mo.</headline>
+<dateline>BANGKOK 1997-04-01</dateline>
+<text>
+<p>The Thai consumer price index (CPI) rose 4.5 percent year-on-year in March against 4.3 percent in February, the Commerce Ministry said on Tuesday.</p>
+<p>The ministry said the 1990-based index rose to 138.0 in March from its 132.0 level in the same month a year ago.  </p>
+<p>The Thai wholesale price index (WPI) rose 1.1 percent year-on-year in March against a 1.8 percent increase in the previous month, the ministry added.</p>
+<p>It said wholesale prices rose 0.1 percent in March from February against a 0.5 percent month-on-month decline in the previous month.</p>
+<p>The 1985-based index rose to 155.3 in March from its 153.6 level in March 1996, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

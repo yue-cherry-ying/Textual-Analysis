@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569657" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: NYMEX electricity ends lower in line with natgas.</title>
+<headline>NYMEX electricity ends lower in line with natgas.</headline>
+<dateline>LOS ANGELES 1997-05-08</dateline>
+<text>
+<p>NYMEX electricity futures closed mostly lower in line with weaker natural gas prices, market sources said Thursday.</p>
+<p>&quot;I think it (the electricity futures complex) is still a little bit fat compared with where gas is,&quot; said one trader.</p>
+<p>But physical market prices remained strong on Wednesday amid continued above-normal temperatures in the Southwest and a rash of generating unit outages.</p>
+<p>&quot;Competition for that marginal megawatt is keeping daily cash prices firm,&quot; said another trader.</p>
+<p>Still, the June Palo Verde (PV) contract closed down 23 cents at $22.73 per megawatt hour (MWh), while July lost 42 cents to settle at $25.68 and August fell 32 cents to close at $27.60.</p>
+<p>Other PV contracts were down between 20 and 29 cents.</p>
+<p>June California Oregon Border (COB) futures closed 13 cents lower at $16.44, while July was down 3 cents at $17.70 and August closed 5 cents down at $21.18.</p>
+<p>Other COB contracts were down by as much as 15 cents, while far forward contracts were up as much as 30 cents.</p>
+<p>NYMEX said that as of 1535 EDT an estimated total of 525 COB and 618 PV contracts had traded.</p>
+<p>The NYMEX June Henry Hub natural gas contract closed down 8 cents at $2.273 per million British thermal units.</p>
+<p>Short-term physical electricty prices rose Thursday as the market took notice of an ongoing unplanned outage at a 750 megawatt unit at the Four Corners power plant in Arizona, as well as a delay in restarting a 350 MW unit at the San Juan plant in New Mexico.</p>
+<p>Next-day PV prices were seen as high as $34.00 a MWh, while COB was up to $18.50 and Four Corners saw $30.00.</p>
+<p>But traders noted that forward cash prices were weaker in line with the futures market. June PV fell from over $23.00 per MWh to as low as $22.15 on Thursday, traders said.</p>
+<p>((--D Beasley, Los Angeles bureau +1 212 859 1627))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

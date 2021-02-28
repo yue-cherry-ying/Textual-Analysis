@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480147" id="root" date="1997-04-01" xml:lang="en">
+<title>BELGIUM: Fortis AG loses 5 pct on profit-taking.</title>
+<headline>Fortis AG loses 5 pct on profit-taking.</headline>
+<dateline>BRUSSELS 1997-04-01</dateline>
+<text>
+<p>Shares in Belgian insurance group Fortis AG fell five percent on Tuesday as market players dumped the share amidst worries that a major downturn had begun after the Dow's  .DJI correction.</p>
+<p>Traders said shares, such as Fortis, which had seen recent bull runs would be hardest hit by market nervousness as fears over further U.S. interest rate hikes intensify.</p>
+<p>By 1120 GMT Fortis AG was down 4.88 percent at 5,850 francs, with 280 million Belgian francs volume of the share traded.</p>
+<p>Fortis AG is the Belgian parent of Belgian-Dutch banking and insurance group Fortis.</p>
+<p>The Dutch partner is Fortis AMEV. AMEV shares were also down around six percent.</p>
+<p>-- Paul de Bendern, Brussels Newsroom +32 2 287 6815, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

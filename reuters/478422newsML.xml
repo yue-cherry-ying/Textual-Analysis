@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478422" id="root" date="1997-04-01" xml:lang="en">
+<title>UK: LME copper sluggish but finds support in evening.</title>
+<headline>LME copper sluggish but finds support in evening.</headline>
+<dateline>LONDON 1997-04-01</dateline>
+<text>
+<p>London Metal Exchange copper prices slumped back to around the $2,350 a tonne level shortly after the end of afternoon kerb trading.</p>
+<p>But there appeared to be sufficient buy orders on any dip to around this level to underpin prices during a rather thin evening inter-office session, traders said.</p>
+<p>Traders did not see Tuesday's moves, around $30 from high to low, as particularly significant as the market was still well within its recent wide overall trading range.</p>
+<p>At 1900 GMT three months delivery copper was bid back up slightly to be quoted at $2,357/$2,360 a tonne compared with $2,359/$2,360 at the 1700 GMT close on the exchange floor.</p>
+<p>Aluminium was barely changed at $1,629/$1,631.</p>
+<p>London Newsroom, +44 171 542 7771</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

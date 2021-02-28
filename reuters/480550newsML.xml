@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480550" id="root" date="1997-04-01" xml:lang="en">
+<title>JAPAN: Japan March commodity futures volume up 9.0% yr/yr.</title>
+<headline>Japan March commodity futures volume up 9.0% yr/yr.</headline>
+<dateline>TOKYO 1997-04-01</dateline>
+<text>
+<p>Futures trading volume on Japan's 10 commodity exchanges totalled 6,409,746 lots in March, up 9.0 percent from the same month a year ago but down 18.4 percent from February, the Japan Federation of Commodity Exchanges said on Tuesday.</p>
+<p>Silver and rubber futures posted among the largest declines, while trading volume in soybean and palladium futures increased sharply from the same month a year earlier, the figures showed.</p>
+<p>&quot;Static prices in silver and rubber futures thinned volume. Private investors have been shifting money to more volatile futures such as soybeans,&quot; a federation official said.</p>
+<p>The active Chicago soybean market fuelled speculative interest in soybean futures, while the ongoing suspension of Russian palladium exports to Japan boosted volume in that market, the official said.</p>
+<p>Trading volumes for major commodity futures in March, with percentage changes from February and a year earlier, were as follows:</p>
+<p>		     Mar 1997     Feb 1997   Mar 1996</p>
+<p> Corn		1,486,860	-30.1	+29.7</p>
+<p> Red Beans	   196,264	-24.9	-50.8</p>
+<p> Soybeans	  1,651,377	 +1.9     +219.6</p>
+<p> Raw Sugar	   144,304	-11.2	 +6.8</p>
+<p> Raw Silk	    106,262	-27.7	-36.2</p>
+<p> Cocoons	     151,377	-27.0	-40.8</p>
+<p> Rubber		380,043	-52.1	-71.9</p>
+<p> Gold		  745,910	 +2.1	 -8.3</p>
+<p> Silver		 61,650	-41.9	-15.4</p>
+<p> Platinum	    876,175	-13.1	+31.8</p>
+<p> Palladium	   398,249	 +5.2     +717.3</p>
+<p>-- Tokyo Commodities Desk +81-3-3432-7431</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479687" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Two Edison crewmen killed.</title>
+<headline>Two Edison crewmen killed.</headline>
+<dateline>CITY OF INDUSTRY, California 1997-04-01</dateline>
+<text>
+<p>Southern California Edison, an Edison International company, said two of its crewmen died on Monday after performing work on a power pole in City of Industry.</p>
+<p>The company said the crewmen were injured in the afternoon while working at the city's North Baldwin Park Boulevard.</p>
+<p>The employees -- Adel J. Boyadjian, 31, of LaVerne and Steven F. Peralta, Jr, 35, of Victorville -- were part of a four-person crew sent to replace a failed transformer, the company said.  </p>
+<p>Preliminary reports indicated the incident occurred at some point after the crew had replaced the transformer and re-energised the equipment, it said.</p>
+<p>They were still on the power pole when an adjacent transformer failed, and suffered severe burns, the company said. Edison officials said the incident was still under investigation.</p>
+<p>Boyadjian, an electrical crew foreman, had been with Edison for almost 11 years, while Peralta, a lineman and splicer, had 13 years experience with the utility, the company said.</p>
+<p>The incident caused about 1,200 customers to temporarily lose power in the area, it added.</p>
+<p>&quot;Our hearts go out to the families, friends and co-workers of these two dedicated employees,&quot; said Stephen Frank, Southern California Edison president.</p>
+<p>--New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CITY OF INDUSTRY, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

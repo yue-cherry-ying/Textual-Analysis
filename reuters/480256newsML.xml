@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480256" id="root" date="1997-04-01" xml:lang="en">
+<title>UK: Britain's Major renews TV election debate challenge.</title>
+<headline>Britain's Major renews TV election debate challenge.</headline>
+<dateline>LONDON 1997-04-01</dateline>
+<text>
+<p>British Prime Minister John Major said on Tuesday he remained ready to hold a television election debate with opposition chief Tony Blair, and accused the Labour leader of being &quot;chicken&quot; in backing away from the challenge.</p>
+<p>&quot;We the Conservative Party have accepted the terms of the broadcasters' proposals as they stand even though they are not perfect from our point of view,&quot; Major told a campaign news conference.</p>
+<p>Stealing a Labour slogan for the May 1 general election, Major said: &quot;This country does deserve better, it deserves a Labour Party and a Labour leader that can discuss the issues.</p>
+<p>&quot;Turkeys may not vote for Christmas, but chickens apparently run away from broadcasters.&quot;</p>
+<p>Labour said last Thursday that it regarded current negotiations on the format of a televised debate between the two leaders as &quot;at an end&quot; and accused the Conservatives of being inflexible.</p>
+<p>With Labour a good 20 points ahead in the polls, political commentators believe Blair has little to win from a debate, which would be the first in British electoral history, while Major has nothing to lose.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480650" id="root" date="1997-04-01" xml:lang="en">
+<title>NETHERLANDS: Dutch police thwart second Hague arson attack.</title>
+<headline>Dutch police thwart second Hague arson attack.</headline>
+<dateline>THE HAGUE 1997-04-01</dateline>
+<text>
+<p>Police said on Tuesday they had thwarted an arson attack on the home of one of the organisers of a march held to protest against an earlier fire-bombing which killed six members of a Turkish immigrant family last week.</p>
+<p>Police in The Hague broke down the door to the 56-year-old man's apartment early on Tuesday morning and put out a fire in the hall. The man was badly shaken by the attack but was otherwise unharmed, they said.</p>
+<p>Anonymous pamphlets distributed in the neighbourhood earlier had threatened those who organised and took part in a march to protest against last week's attack in which a Turkish mother and five of her children were burned to death in their home.</p>
+<p>A 30-strong police team is investigating the case and authorities have not yet concluded that the arson attacks were racially motivated.</p>
+<p>But Prime Minister Wim Kok said on Thursday that even the suspicion of a racist attack was worrying.</p>
+<p>&quot;The thought that we could be dealing with arson with some ethnic intention is dramatic. That would be an entirely new phenomenon in the Netherlands and a serious signal,&quot; he said.</p>
+<p>The attacks have been widely condemned and Friday's protest march in The Hague drew 3,000 people including the city's mayor and foreign aid minister Jan Pronk.</p>
+<p>The Netherlands prides itself on a reputation for racial tolerance and overtly anti-immigrant political parties have received less support here than in neighbouring countries such as France, Germany and Belgium.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THE HAGUE"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

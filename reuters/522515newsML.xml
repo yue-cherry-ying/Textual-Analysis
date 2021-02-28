@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522515" id="root" date="1997-04-19" xml:lang="en">
+<title>UK: SOCCER-STOKE CITY'S MACARI STANDING DOWN AT END OF SEASON.</title>
+<headline>SOCCER-STOKE CITY'S MACARI STANDING DOWN AT END OF SEASON.</headline>
+<dateline>LONDON 1997-04-19</dateline>
+<text>
+<p>Stoke City manager Lou Macari said on Saturday he was standing down at the end of the season, blaming pressure from his court battle with former employers Celtic.</p>
+<p>Speaking on the eve of Sunday's match with first division local rivals Port Vale, Macari said: &quot;I cannot serve Stoke City's best interests as manager next season if I am in a court in Scotland,&quot; he said.</p>
+<p>Macari spent three weeks in a Scottish court earlier this year, accused of breach of contract by Celtic, the Glasgow team which sacked him in 1994. The costly legal wrangling is set to continue with Macari's counter-claim of wrongful dismissal scheduled for September.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

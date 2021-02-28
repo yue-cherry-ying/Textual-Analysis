@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480668" id="root" date="1997-04-01" xml:lang="en">
+<title>PORTUGAL: Portugal bond auction seen around secondary levels.</title>
+<headline>Portugal bond auction seen around secondary levels.</headline>
+<dateline>LISBON 1997-04-01</dateline>
+<text>
+<p>Portugal's Public Credit Management Institute (IGCP) was expected to place all 25 billion escudos of 10-year fixed rate bonds at today's auction at close to secondary market levels, dealers said.</p>
+<p>Results of the auction are due around 1100 GMT.</p>
+<p>&quot;Today's auction does not come at a good time because in the last few days most markets were closed, but it is clear that the IGCP will accept bids at around the secondary market level,&quot; said one dealer.</p>
+<p>Another said: &quot;We have until 1000 a.m. (local time) this morning to see how other markets opened, to help us decide at what levels to bid.&quot;</p>
+<p>At the last auction at which bids were accepted on February 14, the average weighted interest rate was 6.6993 percent.</p>
+<p>Ten-year bonds closed last Thursday to yield 6.9 percent.</p>
+<p>-- Lisbon newsroom +(351-1) 3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568489" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Quigley Corp director to sell holdings.</title>
+<headline>Quigley Corp director to sell holdings.</headline>
+<dateline>DOYLESTOWN, Pa. 1997-05-08</dateline>
+<text>
+<p>Quigley Corp said on Thursday that Robert Pollack, a director of the company, intended to sell a portion of his stock holdings for personal reasons related to estate and retirement considerations.</p>
+<p>The holdings, acquired in 1991, will be sold in broker transactions within the next sixty days, the company said in a statement.</p>
+<p>In addition, the company said it had registered the remaining 500,000 shares reserved for issuance after its Stock Option Plan to provide patent, trademark and securities counsel.</p>
+<p>During the next sixty days, Quigley expects to commence litigation against one or more competitors for violations of patents related to the company's COLD-EEZE(TM) lozenge product, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DOYLESTOWN, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

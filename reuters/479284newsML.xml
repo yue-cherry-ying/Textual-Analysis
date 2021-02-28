@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479284" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Judge excuses a potential juror in Oklahoma trial.</title>
+<headline>Judge excuses a potential juror in Oklahoma trial.</headline>
+<dateline>DENVER 1997-04-01</dateline>
+<text>
+<p>A federal judge on Tuesday dismissed one prospective juror from serving in the Oklahoma City bombing trial, the first person excused so far.</p>
+<p>The judge did not give the specific reason for excusing the woman from the jury panel, but she had a few minutes earlier talked about an undisclosed health problem and said she had trouble making decisions.  </p>
+<p>The woman was the eighth member of the jury panel to be questioned by the judge and attorneys. She did not disclose her health problem other than to say she has been treated by a neurologist.</p>
+<p>U.S. District Court Judge Richard Matsch announced the woman would be excused soon after he began questioning her.</p>
+<p>&quot;We've agreed, and please, this is nothing personal, we've agreed this is probably too much to ask of you,&quot; Matsch told the woman after conferring privately at the bench with prosecutors and lawyers for defendant Timothy McVeigh. McVeigh is charged in the Oklahoma City bombing in April, 1995 that killed 168 people.</p>
+<p>The trial is expected to last at least four months.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

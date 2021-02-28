@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568854" id="root" date="1997-05-08" xml:lang="en">
+<title>UK: Euro straight-run quiet, sellers see crude boost.</title>
+<headline>Euro straight-run quiet, sellers see crude boost.</headline>
+<dateline>LONDON 1997-05-08</dateline>
+<text>
+<p>European straight-run fuel held steady on Thursday in very quiet business, though sellers hoping to get three figures for their material took comfort from the rise in Brent futures, traders said.</p>
+<p>Low sulphur straight-run was only available out of Antwerp and Scandinavia and was being offered around $100-$101 fob. European public holidays meant most sellers were away from their desk and discussion was limited.</p>
+<p>The last physical deal was 25,000 tonnes believed traded from an Irish refiner to a French major on Tuesday at a price around $97 fob.</p>
+<p>Russian material was in short supply in the north. One M100 cargo was rumoured to have gone into Britain as bunker material, but the deal could not be confirmed. E-4 cargoes were in demand but none were on offer.</p>
+<p>Russian fuel oil flowed more freely in the Mediterranean and premiums were described as poor.</p>
+<p>-- London newsroom +44 171 542 8060</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

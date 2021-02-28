@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568296" id="root" date="1997-05-08" xml:lang="en">
+<title>CANADA: Trading launched on Canadian election outcome.</title>
+<headline>Trading launched on Canadian election outcome.</headline>
+<dateline>VANCOUVER 1997-05-08</dateline>
+<text>
+<p>Political junkies can now gamble on the outcome of Canada's June 2 federal election by trading in the University of British Columbia's &quot;election stock market.&quot;</p>
+<p>The computerized trading offers shares in three markets -- one which trades based on the projected number of seats to be won by the major parties, one on the percentage of popular vote each party will win and one on the likelihood of each party winning a majority in parliament.</p>
+<p>The university ran similar markets during the 1993 federal election and the 1996 British Columbia provincial election.</p>
+<p>&quot;Traders on the market in 1993 predicted the final outcome of the popular vote in the federal election with great accuracy, although few were able to predict the extent of the Liberal sweep,&quot; the university said.</p>
+<p>The market is fully computerized with no brokers or other intermediaries. Registered traders log into their market accounts from their own computer terminals and check market prices and place trades.</p>
+<p>No commissions or fees are charged and the market can be accessed via the Internet.</p>
+<p>Information is available from the administrator at (604) 822-8614 or e-mail at esm@pacific.commerce.ubc.ca.</p>
+<p>((Reuters Vancouver Bureau (604) 664-7314))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

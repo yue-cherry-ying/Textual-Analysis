@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568971" id="root" date="1997-05-08" xml:lang="en">
+<title>NIGER: Libya's Gaddafi arrives by air for Niger prayers.</title>
+<headline>Libya's Gaddafi arrives by air for Niger prayers.</headline>
+<dateline>NIAMEY 1997-05-08</dateline>
+<text>
+<p>Libyan leader Muammar Gaddafi arrived by Libyan airlines plane in the capital of the impoverished West African country of Niger on Thursday to lead Moslem prayers, witnesses said.</p>
+<p>The United Nations imposed a ban on flights from Libya in 1992 over the Lockerbie bombing of an airliner in 1988. The control tower at Niamey's international airport declined to comment on whether the ban had been broken.  </p>
+<p>Gaddafi and his entourage arrived in four Boeing 727 jets and were met by Niger's president.</p>
+<p>&quot;I came to bring support and sympathy to President Ibrahim Bare Mainassara, to the government and Nigerien people,&quot; Gaddafi told reporters on arrival.</p>
+<p>The Libyan news agency JANA on Wednesday said Gaddafi would lead prayers in both Niger and Nigeria during a visit to West Africa as leader of the Islamic Popular Leadership, an Islamic organisation he created in 1989.</p>
+<p>Gaddafi's last trip abroad was by land to Tunisia in October 1996. He earlier violated the U.N. ban when a Libyan-registered plane flew him to Cairo and back to attend an Arab summit in June 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="NIGER">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NIAMEY"/>
+<dc element="dc.creator.location.country.name" value="NIGER"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

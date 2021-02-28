@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480291" id="root" date="1997-04-01" xml:lang="en">
+<title>UK: Robert Fleming appoints new U.S. head.</title>
+<headline>Robert Fleming appoints new U.S. head.</headline>
+<dateline>LONDON 1997-04-01</dateline>
+<text>
+<p>British independent investment bank Robert Fleming said it has appointed Stewart Massey as head of its U.S. operation Robert Fleming Inc.</p>
+<p>Massey joins Flemings from Morgan Stanley where he was global head of Japanese equity sales based in New York and Tokyo.</p>
+<p>Robert Fleming has a growing business in the U.S. in mergers and aquisitions and is the biggest broker of Asian equities in the U.S. market.</p>
+<p>New York is also the base for its global mining group and its Latin American operations.</p>
+<p>Massey will concentrate particulalrly on the securities business and the launch by Flemings of a range of global energy markets research products.</p>
+<p>- London Newsroom +44 171 542 8864.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

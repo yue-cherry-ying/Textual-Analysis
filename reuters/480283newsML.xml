@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480283" id="root" date="1997-04-01" xml:lang="en">
+<title>UK: Amstrad says to sell Dancall Telecom.</title>
+<headline>Amstrad says to sell Dancall Telecom.</headline>
+<dateline>LONDON 1997-04-01</dateline>
+<text>
+<p>British consumer electronics group Amstrad said on Tuesday that it had entered into a conditional agreement with Germany's Robert Bosch GmbH to sell its mobile phone firm Dancall Telecom A/S for 92 million pounds ($150.2 million).</p>
+<p>The unit will be bought by Bosch Telecom GmbH, a unit of Robert Bosch. Amstrad said it was considering ways to return value from the sale to its shareholders.  </p>
+<p>Dancall, which manufactures mobile digital handsets for use of GSM and PCN networks, is based in northern Denmark and employs more than 600 people and had net assets of 296 million Danish crown ($46.5 million).</p>
+<p>The company was acquired by Amstrad in 1993 after it ran into financial problems in the late 1980s. However, Dancall's problems had continued and it showed an operating loss of 6.8 million pounds in the year to June 30, 1996.</p>
+<p>&quot;...Amstrad believes that Dancall has reached a stage in its evolution where it would benefit from being part of a larger organisation, with more substantial resources in manufacturing, distribution and consumer image...&quot; Amstrad said.</p>
+<p>The British group said Dancall's performance in the first two months of its third quarter has been &quot;above the level experienced in the same period in 1996&quot;. Amstrad said its other businesses had performed in line with management expectations. ($1=6.369 crowns) ($1=0.609 stg)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480104" id="root" date="1997-04-01" xml:lang="en">
+<title>NETHERLANDS: Brits learn naked truth about &quot;tolerant&quot; Dutch.</title>
+<headline>Brits learn naked truth about &quot;tolerant&quot; Dutch.</headline>
+<dateline>ROTTERDAM 1997-04-01</dateline>
+<text>
+<p>Police said on Tuesday they were called to resolve a &quot;cultural misunderstanding&quot; at the weekend after a group of British tourists stripped naked amid picnicking Dutch families on a riverside promenade.</p>
+<p>&quot;It was a beautiful day and this group of around 20 young British tourists thought it would be quite acceptable to strip and stroll around in their birthday suits,&quot; police spokeswoman Lauri 't Hart said.</p>
+<p>Police intervened after local residents objected and an argument ensued, she said.</p>
+<p>The youths dressed hastily and left by taxi after protesting they thought it was normal to strip in the Netherlands, known abroad for its tolerant attitude towards sex and soft drugs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROTTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

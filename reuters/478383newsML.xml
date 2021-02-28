@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478383" id="root" date="1997-04-01" xml:lang="en">
+<title>ESTONIA: KALEV FEBRUARY PROFIT 1.9 MLN KROONS.</title>
+<headline>KALEV FEBRUARY PROFIT 1.9 MLN KROONS.</headline>
+<dateline>TALLINN 1997-04-01</dateline>
+<text>
+<p>Sweet producer Kalev netted a profit of 1.9 million kroons in February, the company said on Tuesday.</p>
+<p>The company's turnover was 30.489 million kroons for the same period, it added in a statement.</p>
+<p>Kalev posted a profit of 6.082 million kroons and turned over 30.021 million kroons in January, the company added.</p>
+<p>The company's assets came to 164.31 million kroons in February.</p>
+<p>-- Tallinn Newsroom +372 630 8400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

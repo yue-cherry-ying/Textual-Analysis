@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568985" id="root" date="1997-05-08" xml:lang="en">
+<title>ZIMBABWE: Zimbabwe urged to investigate housing fund scandal.</title>
+<headline>Zimbabwe urged to investigate housing fund scandal.</headline>
+<dateline>HARARE 1997-05-08</dateline>
+<text>
+<p>Zimbabwe's high court has recommended a government investigation of how funds for a low-income housing scheme ended up being used to build luxury homes for state officials and President Robert Mugabe's wife.</p>
+<p>A judge, dismissing an application by a Harare lawyer who sought to occupy a house built by the Ministry of Public Construction and National Housing from the scheme's funds, said the Public Service Commission should bring to book all involved.</p>
+<p>&quot;I strongly recommend that the Public Service Commission investigate the administration of the ministry, weed out the corrupt, the inefficient and the incompetent officials and give the ministry all the assistance it requires to recover as soon as possible the monies unlawfully spent,&quot; he said.</p>
+<p>The ministry's new permanent secretary Jonathan Zamchiya had testified that funds from the pay-for-your-house scheme were diverted to a VIP housing scheme created by former secretary Paul Kodzwa to accommodate politicians and senior state officials, demanding the ministry build houses for them.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

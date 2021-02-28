@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="526050" id="root" date="1997-04-21" xml:lang="en">
+<title>FRANCE: Pope's would-be killer says he is in love.</title>
+<headline>Pope's would-be killer says he is in love.</headline>
+<dateline>PARIS 1997-04-21</dateline>
+<text>
+<p>Ali Agca, the Turkish  gunman who tried to assassinate Pope John Paul II in 1981, said in an interview published in Paris on Monday that he was in love.</p>
+<p>Agca told the newspaper France-Soir from his Italian prison cell that the object of his love was a young compatriot with whom he corresponded by mail. He did not say if he had met her face-to-face.</p>
+<p>&quot;She's from Istanbul and her name is Epru. She's a 25-year-old university student.</p>
+<p>&quot;She told me she loved me a few months ago. If I go back to Turkey, I will marry her. I believe in love a lot...,&quot; he told the newspaper.</p>
+<p>Agca, who is serving a life sentence for shooting and wounding the Pope on St. Peter's Square in the Vatican, repeated that he regretted the act which he then saw as a blow against capitalism and imperialism.</p>
+<p>He also repeated that he believed he was &quot;the material and spiritual reincarnation of Jesus Christ.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

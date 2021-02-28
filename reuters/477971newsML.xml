@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="477971" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: AFTER THE BELL - Ascend trading higher.</title>
+<headline>AFTER THE BELL - Ascend trading higher.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>Ascend Communications Inc was trading up 6/16 to 40-13/16 in after-hours trading on Tuesday, after falling 1/8 during regular hours, traders said.</p>
+<p>&quot;That's probably from the Cascade deal,&quot; one trader said.</p>
+<p>Ascend fell 10-1/2 points Monday after its announcement that it will acquire Cascade Communications Corp to broaden its share of the computer networking market. But its price recovered some upward momentum late Tuesday.</p>
+<p>Otherwise, after-hours trading was fairly quiet after several up-and-down days on Wall Street.</p>
+<p>&quot;I guess everyone's had enough,&quot; the trader said.  </p>
+<p>The New York Stock Exchange said session one volume was 613,100, compared to 134,300 on Monday. Session two volume was 8,094,962, while on Monday it was 8,572,700.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569778" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: New Castle County, Del., weighs restructuring plan.</title>
+<headline>New Castle County, Del., weighs restructuring plan.</headline>
+<dateline>DOVER, Del. 1997-05-08</dateline>
+<text>
+<p>A compromise is in the works for a measure that would give the New Castle County, Del., county executive the power to restructure county government.</p>
+<p>The compromise would give County Executive Tom Gordon that power until the end of June, instead of the end of next April as originally proposed.</p>
+<p>County Council President Stephanie Hansen said many citizen groups had a problem with the time frame of the original legislation. She said the council could not pass a legal budget without first getting state lawmakers to grant the county authority to change its current framework.</p>
+<p>Hansen said the administration is willing to accept the amendment and hopes that citizen groups will also give it their blessing.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DOVER, Del."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

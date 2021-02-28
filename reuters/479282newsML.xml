@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479282" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Ohio Gov. signs bond fix for troubled schools.</title>
+<headline>Ohio Gov. signs bond fix for troubled schools.</headline>
+<dateline>CHICAGO 1997-04-01</dateline>
+<text>
+<p>Ohio Gov. George Voinovich signed a bill late Monday giving schools declared in a fiscal emergency the authority to restructure and refinance debt.</p>
+<p>Ohio established the fiscal emergency system effective September 1996 to set up a process for identifying primary and secondary school districts facing financial problems.</p>
+<p>The legislation signed Monday amended the law to make it &quot;crystal clear that debt restructuring can occur, but only under specific circumstances,&quot; said Tom Prendergast, public information officer for Ohio Auditor Jim Petro.</p>
+<p>Under the amended law, the school districts can issue debt with maturities of up to 10 years to restructure or refinance outstanding bonds if they have first passed a levy, Prendergast said.</p>
+<p>Four Ohio school districts have been declared in a fiscal emergency by the state auditor, including the Cleveland City School District. Voters in Cleveland approved a levy for the district last fall, making the bill most immediately applicable to Cleveland, Prendergast said.</p>
+<p>The Youngstown schools were declared an emergency in September 1996 and two smaller school districts in Osnaburg and Ledgemont were placed on the emergency list last week. Nine other Ohio school districts have been placed on a fiscal watch list due to their financial condition.</p>
+<p>((--David Bailey, 312-408-8647))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

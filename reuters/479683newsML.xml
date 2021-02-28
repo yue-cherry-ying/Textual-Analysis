@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479683" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: FBI investigate Columbia/HCA Ohio deal - NYT.</title>
+<headline>FBI investigate Columbia/HCA Ohio deal - NYT.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>The U.S. Federal Bureau of Investigations is examining agreements Columbia/HCA Healthcare Corp had to acquire control of some hospitals in northeastern Ohio, the New York Times said on Tuesday.</p>
+<p>Columbia controls several hospitals in that area, including St. John West Shore Hospital and St. Vincent Charity Hospital in Cleveland and Timken Mercy Medical Center in Canton, the paper said.  </p>
+<p>Federal agents had already interviewed several people with knowledge of these situations, the New York Times said, citing people with a knowledge of the inquiry.</p>
+<p>The Wall Street Journal, in Monday's electronic edition, said the company was asking doctors to invest in a limited partnership run by Columbia Gulf Coast Medical Center in Panama City, Fla. It cited a confidential memorandum.</p>
+<p>Columbia was asking doctors to contribute at least $15,000 apiece to participate in the deal and if forecasts were met, they could earn a 16.8 percent return on their investment this year, the Journal said, according to the memo.  </p>
+<p>The company was not immediately available to comment.</p>
+<p>Shares of Columbia/HCA slid on Monday over concerns about federal investigations into the company's operations in El Paso, Texas. The company said in a statement management and employees in its El Paso facilities cooperated with federal agents who presented search warrants covering a broad range of records and documents earlier this month.</p>
+<p>The warrants were issued March 19, and the information-gathering process was completed by March 20, the company said.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

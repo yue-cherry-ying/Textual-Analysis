@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568421" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: MRS Technology Inc FY 97 profit vs loss.</title>
+<headline>MRS Technology Inc FY 97 profit vs loss.</headline>
+<dateline>CHELMSFORD, Mass. 1997-05-08</dateline>
+<text>
+<p>FOURTH QUARTER</p>
+<p>				    THREE MONTHS	  YEAR-TO-DATE</p>
+<p>				   ENDED MARCH 31,     ENDED MARCH 31,</p>
+<p>				  1997	1996	1996	 1995</p>
+<p>Total revenues		 355     1,267	7,141     10,557</p>
+<p>  Other charges		  0     4,469	    0	4,469</p>
+<p>Loss from</p>
+<p>     operations	  (1,603)   (7,726)    (4,949)   (10,186)</p>
+<p>Net income (loss)	  $118   ($7,744)   ($3,131)   ($9,941)</p>
+<p>Net income (loss)</p>
+<p> per common share	 $0.02    ($1.17)    ($0.47)    ($1.52)</p>
+<p>Weighted average number</p>
+<p>of common shares	   6,878     6,608	6,717	6,550</p>
+<p>		  (In thousands, except per share amounts)</p>
+<p>NOTE:  Period ended March 31.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHELMSFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
