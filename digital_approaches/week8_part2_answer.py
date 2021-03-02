@@ -55,5 +55,17 @@ if __name__ == "__main__":
     doc_topic_distrib = lda.transform(vectorized_texts)
     print("done.")
 
-    with open("20news.lda.topic_dist.csv", 'w') as news:
-        print(doc_topic_distrib, file=news)
+    print("\nStoring results...")
+    with open("20news.lda.topic_distribution.csv", 'w') as csv_output:
+        csvwriter = csv.writer(csv_output)
+        csvwriter.writerow(["Filename", "Topic 1", "Topic 2", "Topic 3"])
+        for doc, topics in enumerate(doc_topic_distrib):
+            doc_name = texts[doc][0]
+            topic_values = []
+            top_topic_weight_indices = numpy.argsort(topics)[::-1][:3]
+            for topic in top_topic_weight_indices:
+                topic_weight = round(topics[topic], 3)
+                topic_value = f"{topic} ({topic_weight})"
+                topic_values.append(topic_value)
+            row = [doc_name, topic_values[0], topic_values[1], topic_values[2]]
+            csvwriter.writerow(row)
