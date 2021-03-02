@@ -32,9 +32,10 @@ def get_reuters_files(path_to_files):
     return docs
 
 if __name__ == "__main__":
-    # path_to_files = sys.argv[1]
+    path_to_files = sys.argv[1]
     print("Reading files...", end=" ", flush=True)
-    text_files = get_reuters_files("../reuters")
+    # text_files = get_reuters_files("../reuters")
+    text_files = get_reuters_files(path_to_files)
     print("done.")
 
     print("Vectorizing texts...", end=" ", flush=True)
@@ -44,8 +45,8 @@ if __name__ == "__main__":
     print("done.")
 
     print("Building LDA model using training set...", end=" ", flush=True)
-    # n_topics = int(sys.argv[2])
-    n_topics = 50
+    n_topics = int(sys.argv[2])
+    # n_topics = 50
     lda = LatentDirichletAllocation(n_components=n_topics)
     doc_topic_distrib = lda.fit_transform(vectorized_data) # learns model and return document-topic matrix
     joblib.dump(lda, 'LDAModel.joblib')

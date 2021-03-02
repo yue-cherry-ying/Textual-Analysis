@@ -1,6 +1,3 @@
-# Yue "Cherry" Ying
-# Python Exercise for Tuesday March 2nd
-
 import os
 import re
 import sys
@@ -17,7 +14,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import train_test_split
 
 
-countvectorizer = joblib.load('CountVectorizerModel.joblib')
+vectorizer = joblib.load('CountVectorizerModel.joblib')
 lda = joblib.load('LDAModel.joblib')
 
 def preprocess_text(text, stopwords, lemmatizer):
@@ -38,15 +35,25 @@ if __name__ == "__main__":
     additional_stopwords = {"quot", "one", "two", "would", "new", "may", "he", "it", "told"} # add additional stopwords
     stopwords.update(additional_stopwords)
     lemmatizer = WordNetLemmatizer()
+    # print("Processing texts", end=" ", flush=True)
     for category in folders:
         for file in os.scandir("../20news/" + category):
             with open(file.path, encoding="latin-1") as input_file: # texts have latin-1 encoding
                 text = input_file.read()
-            text = preprocess_text(text, stopwords, lemmatizer)
-            texts.append(text)
-            categories.append(category)
-    vectorizer = countvectorizer
-    vectorized_texts = vectorizer.fit_transform(texts)
-    doc_topic_distrib = lda.fit_transform(vectorized_texts)
-    with open("news_topic_dist.csv", 'w') as news:
+            tokens = tokenize.word_tokenize(text)
+            text_object = Text(tokens)
+            text_with_pos = pos_tag(text_object, tagset="universal")
+            filtered_tokens = [word for word, pos in text_with_pos if pos == "NOUN"]
+            tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]
+            tokens = [token for token in tokens if token not in stopwords]
+            text = " ".join(tokens)
+            texts.append((file.name, text))
+            print(".", end="", flush=True)
+        break
+
+    vectorized_texts = vectorizer.transform([t[1] for t in texts])
+    doc_topic_distrib = lda.transform(vectorized_texts)
+    print("done.")
+
+    with open("20news.lda.topic_dist.csv", 'w') as news:
         print(doc_topic_distrib, file=news)
