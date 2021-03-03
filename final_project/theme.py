@@ -36,7 +36,7 @@ def prepare_text_for_lda(text):
 
 text_data = []
 in_the_text = False
-with open('DRC_BookII.txt') as f:
+with open('DRC_BookI.txt') as f:
     for line in f:
         if re.search(r"(CHAPTER \S{1,8}).\s*\n", line, re.IGNORECASE):
             in_the_text = True
