@@ -20,7 +20,11 @@ DRC = Text(DRC_tokens)  # => load text into NLTK for analysis
 
 
 # Get concordances
-# DRC.concordance("pao-yu", lines=10)
+# DRC.concordance("pao-yu", lines=50)
+# DRC.concordance("chia", lines=50)
+# DRC.concordance("tai-yu", lines=50)
+# DRC.concordance("feng", lines=50)
+# DRC.concordance("wang", lines=50)
 
 # Get words used in a similar context
 # DRC.similar("gentleman", 10)
@@ -30,6 +34,7 @@ DRC = Text(DRC_tokens)  # => load text into NLTK for analysis
 # DRC.similar("wife", 10)
 # DRC.similar("chia", 10)
 # DRC.similar("hsueh", 10)
+
 
 # Get the most common tokens (includes punctuation)
 # freq_dist_DRC = FreqDist(DRC)
